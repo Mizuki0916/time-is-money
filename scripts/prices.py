@@ -22,7 +22,7 @@ from datetime import datetime, timedelta, timezone
 
 import requests
 
-VERSION = "v24"
+VERSION = "v25"
 
 YAHOO_URL = "https://query1.finance.yahoo.com/v8/finance/chart/{symbol}"
 SEARCH_URL = "https://query1.finance.yahoo.com/v1/finance/search"
@@ -367,6 +367,31 @@ def build_chart(rows: list[dict], span: int = 120) -> dict:
     }
 
 
+JST = timezone(timedelta(hours=9))
+
+
+def market_window_open(symbol: str, market: str, now: datetime | None = None) -> bool:
+    """その銘柄の市場がいま開いていそうか。通信せずに時計だけで大まかに判断する。
+
+    取引時間中は株価を短い間隔で取り直し、閉まっている間は取りに行かないための判定。
+    多少広めに取ってあるので、開いているのに取りに行かない、ということは起きない。
+    """
+    now = (now or datetime.now(timezone.utc)).astimezone(JST)
+    wd = now.weekday()                      # 月=0 … 日=6
+    mins = now.hour * 60 + now.minute
+    sym = (symbol or "").upper()
+
+    if sym.endswith("=X"):                  # 為替は平日ほぼ24時間
+        return wd < 5 or (wd == 6 and now.hour >= 7)
+
+    if sym.endswith(".T") or sym in ("^N225", "^TOPX") or (not sym and market == "JP"):
+        # 東証 9:00〜15:30（昼休みも含めて広めに）
+        return wd < 5 and 9 * 60 <= mins <= 15 * 60 + 40
+
+    # 米国市場は日本時間の夜〜早朝。夏時間・冬時間の差を吸収して広めに取る
+    return (wd < 5 and mins >= 22 * 60) or (1 <= wd <= 5 and mins <= 6 * 60 + 10)
+
+
 def is_market_open(meta: dict) -> bool:
     """いま通常取引の時間内かどうか。判断できなければ False。"""
     period = ((meta.get("currentTradingPeriod") or {}).get("regular") or {})
@@ -618,12 +643,14 @@ def fetch_one(name: str, ticker: str, market: str, session: requests.Session,
 
 
 def update_prices(stocks: list[dict], cache: dict, cfg: dict, log=print,
-                  charts: dict | None = None) -> dict:
+                  charts: dict | None = None, charts_prev: dict | None = None) -> dict:
     """index の銘柄一覧をもとに株価キャッシュを更新して返す。
 
     charts を渡すと、日足チャートと価格帯別出来高もそこに書き込む。
     """
     refresh_hours = cfg.get("price_refresh_hours", 12)
+    open_minutes = cfg.get("price_refresh_minutes_open", 20)
+    profile_hours = cfg.get("profile_refresh_hours", 12)
     pause = cfg.get("price_pause_seconds", 2)
     stooq_key = os.environ.get("STOOQ_API_KEY", "").strip()
     overrides = {normalize_key(k): v.strip()
@@ -638,9 +665,14 @@ def update_prices(stocks: list[dict], cache: dict, cfg: dict, log=print,
     for i, st in enumerate(stocks):
         key = st.get("key") or st.get("name", "")
         old = entries.get(key)
+        # 取引時間中は短い間隔で取り直す。閉まっている間は1日1回で十分。
+        sym_hint = (old or {}).get("symbol", "") or to_symbol(
+            st.get("name", ""), st.get("ticker", ""), st.get("market", ""))
+        trading = market_window_open(sym_hint, st.get("market", ""), now)
+        interval = timedelta(minutes=open_minutes) if trading else timedelta(hours=refresh_hours)
         if old and old.get("fetched_at"):
             try:
-                if now - datetime.fromisoformat(old["fetched_at"]) < timedelta(hours=refresh_hours):
+                if now - datetime.fromisoformat(old["fetched_at"]) < interval:
                     skipped += 1
                     continue
             except ValueError:
@@ -668,19 +700,34 @@ def update_prices(stocks: list[dict], cache: dict, cfg: dict, log=print,
                      "currency": data.get("currency", ""),
                      "daily": build_chart(rows, cfg.get("chart_days", 120))}
             if cfg.get("enable_volume_profile", True):
-                bars, why = fetch_intraday(data["symbol"], session,
-                                          cfg.get("profile_days", 5))
-                if bars:
-                    prof = volume_profile(bars)
-                    if prof:
-                        entry["profile"] = prof
-                        entry["profile_days"] = cfg.get("profile_days", 5)
+                # 価格帯別出来高は通信が1回増えるので、株価ほど頻繁には取り直さない。
+                prev = (charts_prev or {}).get(key) or {}
+                reuse = False
+                if prev.get("profile") and prev.get("profile_at"):
+                    try:
+                        age = now - datetime.fromisoformat(prev["profile_at"])
+                        reuse = age < timedelta(hours=profile_hours)
+                    except ValueError:
+                        reuse = False
+                if reuse:
+                    entry["profile"] = prev["profile"]
+                    entry["profile_days"] = prev.get("profile_days", cfg.get("profile_days", 5))
+                    entry["profile_at"] = prev["profile_at"]
                 else:
-                    log(f"    （{st.get('name', '')}: 価格帯別出来高は取得できませんでした / {why}）")
+                    bars, why = fetch_intraday(data["symbol"], session,
+                                              cfg.get("profile_days", 5))
+                    if bars:
+                        prof = volume_profile(bars)
+                        if prof:
+                            entry["profile"] = prof
+                            entry["profile_days"] = cfg.get("profile_days", 5)
+                            entry["profile_at"] = now.isoformat()
+                    else:
+                        log(f"    （{st.get('name', '')}: 価格帯別出来高は取得できませんでした / {why}）")
             charts[key] = entry
 
     log(f"  株価: 取得 {fetched} / キャッシュ流用 {skipped} / 失敗 {failed}")
-    return {"updated_at": now.isoformat(), "symbols": entries}
+    return {"updated_at": now.isoformat(), "symbols": entries, "fetched": fetched}
 
 
 def attach(stocks: list[dict], cache: dict) -> None:

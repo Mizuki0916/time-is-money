@@ -192,6 +192,7 @@ GIT_AUTO_PUSH=1
 .\run.ps1 --video dQw4w9WgXcQ          # 特定の動画だけやり直す
 .\run.ps1 --rebuild                    # 要約はせずJSONだけ作り直す
 .\run.ps1 --refresh-prices             # 保存済みの株価を捨てて全銘柄を取り直す
+.\run.ps1 --prices-only                # 株価だけ更新（YouTube・AIには触らない）
 .\.venv\Scripts\python.exe scripts\check_captions.py   # 字幕診断
 .\.venv\Scripts\python.exe scripts\check_prices.py     # 株価診断
 .\.venv\Scripts\python.exe scripts\check_prices.py 7203 NVDA 日経平均   # 銘柄を指定して確認
@@ -223,7 +224,9 @@ GIT_AUTO_PUSH=1
 | `enable_digest` | トップの「今日のポイント」を作るか（初期値 true）。要約1回ぶんのAPI利用が増えます |
 | `digest_videos` | 何本の動画をまとめの材料にするか（初期値 8） |
 | `enable_prices` | 株価の取得を止めたいとき `false` に |
-| `price_refresh_hours` | 株価を取り直す間隔（初期値 12 = 実質1日1回） |
+| `price_refresh_hours` | 市場が閉まっている間に株価を取り直す間隔（初期値 12 = 実質1日1回） |
+| `price_refresh_minutes_open` | 取引時間中に株価を取り直す間隔（初期値 20 分）。短くするほどYahooへの通信が増えます |
+| `profile_refresh_hours` | 価格帯別出来高を取り直す間隔（初期値 12）。通信が1回増えるので株価ほど頻繁には取りません |
 | `price_pause_seconds` | 銘柄ごとに空ける秒数（初期値 2） |
 | `chart_days` | チャートに載せる日足の本数（初期値 120 = 約6か月） |
 | `enable_volume_profile` | 価格帯別出来高の取得。止めたいとき `false`（通信が半分になります） |

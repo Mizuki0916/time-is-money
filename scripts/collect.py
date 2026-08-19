@@ -139,6 +139,39 @@ def log(msg: str) -> None:
     print(msg, flush=True)
 
 
+LOCK_PATH = ROOT / ".run.lock"
+
+
+def acquire_lock(stale_minutes: int = 40) -> bool:
+    """同時に2つ走らないようにする。取れなければ False。
+
+    1時間おきの本処理と15分おきの株価更新が重なると、
+    同じファイルを書いたり git が衝突したりするため。
+    前回が異常終了して残った古いロックは、時間が経っていれば無視する。
+    """
+    try:
+        if LOCK_PATH.exists():
+            age = time.time() - LOCK_PATH.stat().st_mtime
+            if age < stale_minutes * 60:
+                return False
+            LOCK_PATH.unlink()                      # 古い残骸は捨てる
+        fd = os.open(LOCK_PATH, os.O_CREAT | os.O_EXCL | os.O_WRONLY)
+        os.write(fd, str(os.getpid()).encode())
+        os.close(fd)
+        return True
+    except FileExistsError:
+        return False
+    except OSError:
+        return True        # ロックが作れない環境でも本処理は止めない
+
+
+def release_lock() -> None:
+    try:
+        LOCK_PATH.unlink(missing_ok=True)
+    except OSError:
+        pass
+
+
 def run_text(cmd, cwd=None, timeout=120) -> subprocess.CompletedProcess:
     """外部コマンドを実行して、出力をUTF-8として読む。
 
@@ -585,8 +618,14 @@ def prune(videos: list[dict], retain_days: int, per_channel: int = 0) -> list[di
     return kept
 
 
-def write_outputs(videos: list[dict], channels: list[dict], cfg: dict) -> dict:
-    """index.json / videos.json を書き出す。株価も必要なら更新して埋め込む。"""
+def write_outputs(videos: list[dict], channels: list[dict], cfg: dict,
+                  only_if_prices_changed: bool = False) -> dict | None:
+    """index.json / videos.json を書き出す。株価も必要なら更新して埋め込む。
+
+    only_if_prices_changed=True のときは、株価が1件も取り直されなければ
+    何も書かずに None を返す。15分おきの株価専用タスクが、
+    中身の変わらないコミットを積み続けないようにするため。
+    """
     index = build_index(videos, channels)
 
     if cfg.get("enable_prices", True) and index["stocks"]:
@@ -594,7 +633,11 @@ def write_outputs(videos: list[dict], channels: list[dict], cfg: dict) -> dict:
         charts_old = load_json(DATA / "charts.json", {"charts": {}}).get("charts", {})
         charts = {}
         try:
-            cache = prices.update_prices(index["stocks"], cache, cfg, log=log, charts=charts)
+            cache = prices.update_prices(index["stocks"], cache, cfg, log=log,
+                                         charts=charts, charts_prev=charts_old)
+            if only_if_prices_changed and not cache.pop("fetched", 0):
+                return None
+            cache.pop("fetched", None)
             save_json(DATA / "prices.json", cache)
             # 今回取り直さなかった銘柄は前回のチャートを引き継ぐ
             keys = {st.get("key") for st in index["stocks"]}
@@ -845,10 +888,16 @@ def main() -> int:
     要約した回だけでなく、株価だけ更新した回・今日のポイントだけ作り直した回も
     docs/data が変わるため、公開サイトに反映する必要がある。
     """
-    code = _run()
-    if code == 0:
-        git_push_if_enabled()
-    return code
+    if not acquire_lock():
+        log("  別の実行が動いているので、今回は見送ります")
+        return 0
+    try:
+        code = _run()
+        if code == 0:
+            git_push_if_enabled()
+        return code
+    finally:
+        release_lock()
 
 
 def _run() -> int:
@@ -862,6 +911,8 @@ def _run() -> int:
                         help="新着が無くても「今日のポイント」を作り直す")
     parser.add_argument("--refresh-prices", action="store_true",
                         help="保存済みの株価を使わず、全銘柄を取り直す")
+    parser.add_argument("--prices-only", action="store_true",
+                        help="YouTubeとAIには触らず、株価だけ更新する（15分おきのタスク用）")
     args = parser.parse_args()
 
     load_dotenv(ROOT / ".env")
@@ -878,6 +929,16 @@ def _run() -> int:
     channels = cfg.get("channels", [])
     store = load_json(DATA / "videos_full.json", {"videos": []})
     known = {v["video_id"]: v for v in store.get("videos", [])}
+
+    if args.prices_only:
+        if not cfg.get("enable_prices", True):
+            log("  enable_prices が false のため、何もしません")
+            return 0
+        videos = prune(list(known.values()), cfg.get("retain_days", 90),
+                       cfg.get("max_videos_per_channel", 0))
+        if write_outputs(videos, channels, cfg, only_if_prices_changed=True) is None:
+            log("  株価に変化なし。ファイルは更新しません")
+        return 0
 
     if args.rebuild or (args.digest and not args.video):
         videos = prune(list(known.values()), cfg.get("retain_days", 90),
