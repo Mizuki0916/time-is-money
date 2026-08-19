@@ -13,6 +13,11 @@ on:
     - cron: '*/15 0-6 * * 1-5'     # 東証の取引時間
     - cron: '*/15 14-21 * * 1-5'   # 米国市場の取引時間
   workflow_dispatch:               # 手動でも回せる
+    inputs:
+      force:
+        description: '保存済みを無視して全銘柄を取り直す（動作確認用）'
+        type: boolean
+        default: false
 
 # 同時に2つ走らせない。前のが終わるまで待つ（打ち切らない）。
 concurrency:
@@ -38,7 +43,12 @@ jobs:
       - name: 株価を更新
         env:
           GIT_AUTO_PUSH: '1'
+          FORCE: ${{ inputs.force }}
         run: |
           git config user.name  "time-is-money bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          python scripts/collect.py --prices-only
+          if [ "$FORCE" = "true" ]; then
+            python scripts/collect.py --prices-only --refresh-prices
+          else
+            python scripts/collect.py --prices-only
+          fi
