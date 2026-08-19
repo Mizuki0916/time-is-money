@@ -43,10 +43,11 @@ jobs:
       - name: 株価を更新
         env:
           GIT_AUTO_PUSH: '1'
-          FORCE: ${{ inputs.force }}
+          FORCE: ${{ github.event.inputs.force }}
         run: |
           git config user.name  "time-is-money bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          echo "強制取り直し = [$FORCE]（true なら全銘柄を取り直します）"
           if [ "$FORCE" = "true" ]; then
             python scripts/collect.py --prices-only --refresh-prices
           else
