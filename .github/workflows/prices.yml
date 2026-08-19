@@ -1,0 +1,44 @@
+# 株価だけを定期更新する。自宅PCが落ちていても動く。
+#
+# 動画の要約は字幕取得でクラウドIPが弾かれるため、自宅PCの担当のまま。
+# ここでやるのは「すでに追跡している銘柄の株価・チャートの取り直し」だけ。
+#
+# cron は UTC。日本時間 = UTC+9。
+#   東証   09:00-15:40 JST = 00:00-06:40 UTC
+#   米国株 22:30-06:10 JST = 13:30-21:10 UTC
+name: 株価更新
+
+on:
+  schedule:
+    - cron: '*/15 0-6 * * 1-5'     # 東証の取引時間
+    - cron: '*/15 14-21 * * 1-5'   # 米国市場の取引時間
+  workflow_dispatch:               # 手動でも回せる
+
+# 同時に2つ走らせない。前のが終わるまで待つ（打ち切らない）。
+concurrency:
+  group: prices
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 必要なものだけ入れる
+        run: pip install requests
+
+      - name: 株価を更新
+        env:
+          GIT_AUTO_PUSH: '1'
+        run: |
+          git config user.name  "time-is-money bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          python scripts/collect.py --prices-only

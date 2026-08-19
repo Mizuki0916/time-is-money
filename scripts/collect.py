@@ -856,25 +856,92 @@ def build_video_list(videos: list[dict]) -> dict:
 # ---------------------------------------------------------------- git
 
 
+def _git(*args, timeout: int = 180) -> subprocess.CompletedProcess:
+    return run_text(["git", *args], cwd=ROOT, timeout=timeout)
+
+
+def _push_over_remote(stamp: str) -> str:
+    """先に誰かがpushしていて弾かれたときの立て直し。
+
+    自宅PCとGitHub Actionsの両方が docs/data を書くため、ここは必ずぶつかる。
+    中身は毎回作り直す生成物なので、履歴だけリモートに合わせ、
+    ファイルの中身は「あとから来た方（＝今回の新しいデータ）」を採用する。
+    マージ競合が起きようがないので、自動運転でも詰まらない。
+
+    戻り値: "pushed"（送った） / "same"（送る必要が無かった） / "failed"
+    """
+    branch = _git("rev-parse", "--abbrev-ref", "HEAD").stdout.strip() or "main"
+    if _git("fetch", "origin", branch).returncode != 0:
+        log("  ! リモートの取得に失敗しました")
+        return "failed"
+    # 作業ツリーはそのまま、履歴の位置だけリモートに合わせる
+    if _git("reset", "--soft", f"origin/{branch}").returncode != 0:
+        log("  ! 履歴の付け替えに失敗しました")
+        return "failed"
+    _git("add", "docs/data")
+    if not _git("diff", "--cached", "--name-only", "--", "docs/data").stdout.strip():
+        return "same"
+    if _git("commit", "-m", f"データ更新 {stamp}").returncode != 0:
+        log("  ! コミットし直せませんでした")
+        return "failed"
+    res = _git("push")
+    if res.returncode != 0:
+        log(f"  ! push し直しても失敗しました: {res.stderr.strip()[:300]}")
+        return "failed"
+    return "pushed"
+
+
+def git_sync_data() -> None:
+    """実行前に docs/data だけリモートの最新に揃える。
+
+    自宅PCとGitHub Actionsが交互に書くため、手元が古いまま作り直すと
+    毎回よけいな取り直しとpush衝突が起きる。docs/data は毎回作り直す
+    生成物なので、上書きしても失われるものは無い。
+    （コードや .env には一切触らない）
+    """
+    if os.environ.get("GIT_AUTO_PUSH", "0").strip() not in ("1", "true", "True"):
+        return
+    try:
+        branch = _git("rev-parse", "--abbrev-ref", "HEAD").stdout.strip() or "main"
+        if _git("fetch", "origin", branch, timeout=60).returncode != 0:
+            return          # 圏外などは黙って続行（手元のデータで動く）
+        if not _git("diff", "--name-only", f"origin/{branch}", "--", "docs/data").stdout.strip():
+            return                      # 中身が同じなら何もしない
+        behind = _git("rev-list", "--count", f"HEAD..origin/{branch}").stdout.strip()
+        if _git("checkout", f"origin/{branch}", "--", "docs/data").returncode == 0 \
+                and behind not in ("", "0"):
+            log(f"  リモート側に {behind} 件の更新があったので、データを揃えました")
+    except (OSError, subprocess.SubprocessError):
+        pass
+
+
 def git_push_if_enabled() -> None:
     if os.environ.get("GIT_AUTO_PUSH", "0").strip() not in ("1", "true", "True"):
         return
     try:
-        status = run_text(["git", "status", "--porcelain", "docs/data"], cwd=ROOT, timeout=60)
+        status = _git("status", "--porcelain", "docs/data", timeout=60)
         if not status.stdout.strip():
             log("  変更なし。pushはスキップします")
             return
         stamp = datetime.now(JST).strftime("%Y-%m-%d %H:%M")
-        for cmd in (
-            ["git", "add", "docs/data"],
-            ["git", "commit", "-m", f"データ更新 {stamp}"],
-            ["git", "push"],
-        ):
-            res = run_text(cmd, cwd=ROOT, timeout=180)
+        for cmd in (("add", "docs/data"), ("commit", "-m", f"データ更新 {stamp}")):
+            res = _git(*cmd)
             if res.returncode != 0:
-                log(f"  ! git {cmd[1]} に失敗: {res.stderr.strip()[:300]}")
+                log(f"  ! git {cmd[0]} に失敗: {res.stderr.strip()[:300]}")
                 return
-        log("  GitHub にpushしました")
+
+        if _git("push").returncode == 0:
+            log("  GitHub にpushしました")
+            return
+
+        log("  先に別の更新が入っていたので、取り込んでからpushし直します")
+        result = _push_over_remote(stamp)
+        if result == "pushed":
+            log("  GitHub にpushしました")
+        elif result == "same":
+            log("  リモート側と同じ内容でした。pushは不要です")
+        else:
+            log("  （次回の実行でやり直します。データは手元に残っています）")
     except (OSError, subprocess.SubprocessError) as exc:
         log(f"  ! git 実行に失敗: {exc}")
 
@@ -892,6 +959,7 @@ def main() -> int:
         log("  別の実行が動いているので、今回は見送ります")
         return 0
     try:
+        git_sync_data()
         code = _run()
         if code == 0:
             git_push_if_enabled()

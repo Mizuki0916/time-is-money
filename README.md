@@ -225,7 +225,7 @@ GIT_AUTO_PUSH=1
 | `digest_videos` | 何本の動画をまとめの材料にするか（初期値 8） |
 | `enable_prices` | 株価の取得を止めたいとき `false` に |
 | `price_refresh_hours` | 市場が閉まっている間に株価を取り直す間隔（初期値 12 = 実質1日1回） |
-| `price_refresh_minutes_open` | 取引時間中に株価を取り直す間隔（初期値 20 分）。短くするほどYahooへの通信が増えます |
+| `price_refresh_minutes_open` | 取引時間中に株価を取り直す間隔（初期値 12 分）。GitHub Actionsの15分おき実行に合わせてある |
 | `profile_refresh_hours` | 価格帯別出来高を取り直す間隔（初期値 12）。通信が1回増えるので株価ほど頻繁には取りません |
 | `price_pause_seconds` | 銘柄ごとに空ける秒数（初期値 2） |
 | `chart_days` | チャートに載せる日足の本数（初期値 120 = 約6か月） |
