@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-19T13:10:52.841715+09:00",
+ "generated_at": "2026-08-19T13:18:50.714525+09:00",
  "channels": [
   {
    "id": "UCsaeHha7ai_NNX8or8Jyb-g",
@@ -35,7 +35,7 @@
   }
  ],
  "stats": {
-  "stocks": 29,
+  "stocks": 28,
   "videos": 7,
   "videos_this_week": 7,
   "bullish_lead": 16,
@@ -1080,8 +1080,8 @@
    }
   },
   {
-   "key": "JP:N225",
-   "name": "日経平均株価",
+   "key": "IDX:^N225",
+   "name": "日経平均",
    "name_en": "Nikkei 225",
    "ticker": "N225",
    "market": "JP",
@@ -1127,6 +1127,27 @@
      "timestamp": "01:20",
      "seconds": 80,
      "confidence": "high"
+    },
+    {
+     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+     "channel_name": "Trader's Lab",
+     "channel_short": "TL",
+     "slot": 1,
+     "video_id": "jehsL2d3O0c",
+     "video_title": "【日経平均】 堅調な値動き 反転上昇までもう少し キオクシアも急騰で反転の兆しか？ サンディスク・キオクシア・ユニチカ・サンコール・テラドローン",
+     "published": "2026-08-17T12:26:34+00:00",
+     "stance": "neutral",
+     "stance_note": "6万8800円のサポレジ転換か押し下げかを見極める局面",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "6万8800円前後でのサポリジ転換を確認できるかが重要で、直近高値6万9650円を超えれば上昇転換が確定する。",
+      "17倍の水準にあたる6万6500円が強固なサポートラインであり、下落したとしても調整の押し下げ範囲内と捉えられる。"
+     ],
+     "timestamp": "01:55",
+     "seconds": 115,
+     "confidence": "high"
     }
    ],
    "consensus": {
@@ -1145,9 +1166,9 @@
     "date": "2026-08-18",
     "close": 67460.73,
     "change_pct": -2.54,
-    "live": 65681.96,
-    "live_change_pct": -2.64,
-    "live_time": 1787111770,
+    "live": 65604.71,
+    "live_change_pct": -2.75,
+    "live_time": 1787112230,
     "volume": 151200000,
     "volume_ratio": 0.86,
     "rsi14": 53.5,
@@ -1203,7 +1224,7 @@
     "market_open": true,
     "symbol": "^N225",
     "source": "yahoo",
-    "fetched_at": "2026-08-19T04:10:52.887692+00:00"
+    "fetched_at": "2026-08-19T04:18:50.750167+00:00"
    }
   },
   {
@@ -2043,111 +2064,6 @@
     "exchange_name": "Tokyo",
     "market_open": true,
     "symbol": "9433.T",
-    "source": "yahoo",
-    "fetched_at": "2026-08-19T04:10:52.887692+00:00"
-   }
-  },
-  {
-   "key": "NAME:日経平均",
-   "name": "日経平均",
-   "name_en": "",
-   "ticker": "",
-   "market": "JP",
-   "mentions": [
-    {
-     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-     "channel_name": "Trader's Lab",
-     "channel_short": "TL",
-     "slot": 1,
-     "video_id": "jehsL2d3O0c",
-     "video_title": "【日経平均】 堅調な値動き 反転上昇までもう少し キオクシアも急騰で反転の兆しか？ サンディスク・キオクシア・ユニチカ・サンコール・テラドローン",
-     "published": "2026-08-17T12:26:34+00:00",
-     "stance": "neutral",
-     "stance_note": "6万8800円のサポレジ転換か押し下げかを見極める局面",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "6万8800円前後でのサポリジ転換を確認できるかが重要で、直近高値6万9650円を超えれば上昇転換が確定する。",
-      "17倍の水準にあたる6万6500円が強固なサポートラインであり、下落したとしても調整の押し下げ範囲内と捉えられる。"
-     ],
-     "timestamp": "01:55",
-     "seconds": 115,
-     "confidence": "high"
-    }
-   ],
-   "consensus": {
-    "bullish": 0,
-    "bearish": 0,
-    "neutral": 1
-   },
-   "voices": 1,
-   "split": false,
-   "last_mentioned": "2026-08-17T12:26:34+00:00",
-   "channel_ids": [
-    "UCsaeHha7ai_NNX8or8Jyb-g"
-   ],
-   "price": {
-    "date": "2026-08-18",
-    "close": 67460.73,
-    "change_pct": -2.54,
-    "live": 65659.65,
-    "live_change_pct": -2.67,
-    "live_time": 1787111790,
-    "volume": 151200000,
-    "volume_ratio": 0.86,
-    "rsi14": 53.5,
-    "rsi_zone": "中立",
-    "ma25": 65862.25,
-    "ma75": 65989.91,
-    "trend": "戻り歩調",
-    "pos52": 84,
-    "spark": [
-     72353.96,
-     69788.38,
-     69174.97,
-     72366.34,
-     69360.88,
-     69468.11,
-     70062.32,
-     70474.96,
-     68733.15,
-     69744.07,
-     69737.69,
-     68256.96,
-     66819.05,
-     67743.85,
-     68557.73,
-     67242.73,
-     67743.5,
-     68751.51,
-     66835.54,
-     64141.12,
-     66232.19,
-     66115.6,
-     66422.6,
-     64611.15,
-     64931.19,
-     62364.92,
-     61434.19,
-     61867.43,
-     64362.02,
-     63754.9,
-     63957.53,
-     66300.44,
-     65683.26,
-     65606.71,
-     66970.22,
-     67524.06,
-     68308.59,
-     68713.8,
-     69220.25,
-     67460.73
-    ],
-    "currency": "JPY",
-    "exchange_name": "Osaka",
-    "market_open": true,
-    "symbol": "^N225",
     "source": "yahoo",
     "fetched_at": "2026-08-19T04:10:52.887692+00:00"
    }
