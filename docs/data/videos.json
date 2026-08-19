@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-20T06:40:44.244723+09:00",
+ "generated_at": "2026-08-20T07:23:39.984881+09:00",
  "videos": [
   {
    "video_id": "r63ac3rui7Y",
@@ -100,72 +100,58 @@
    ]
   },
   {
-   "video_id": "qRCPlNZldXI",
-   "title": "【緊急.日本株空売り急増‼】AI半導体株暴落で日経平均１７６０円急落→バリュー株に資金シフト。ドル円１５９円。金利急騰で米国株、ハイテク株荒れるか。仮想通貨BTC上昇",
+   "video_id": "fI17pOvnfw8",
+   "title": "【緊急事態.日経平均2134円大暴落ヤバい‼】AI半導体株急落で日本株木端微塵‼２０１８年相場か⁉キオクシア12％暴落。ドル円１５９円。金利急騰で米国株、ハイテク株荒れるか。仮想通貨BTC上昇",
    "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
    "channel_name": "Sho's投資情報局",
    "channel_short": "Sho",
    "slot": 3,
-   "published": "2026-08-18T14:25:58+00:00",
-   "overview": "日経平均が1,760円急落する中で空売り残高が膨らみ、踏み上げが発生しやすい需給環境が解説された。半導体やハイテク株(太陽誘電・村田製作所など)で信用買いの投げ売りや需給悪化が目立つ一方、任天堂やNTT、トヨタなど信用整理が進み需給改善が見られる銘柄やバリュー株へのシフトが指摘されている。",
-   "market_view": "空売り比率上昇や売り残積み上がりにより好材料での踏み上げが起きやすい需給環境だが、ハイテク株の戻りは限定的でバリュー株等への資金シフトが継続する見通し。",
+   "published": "2026-08-19T09:15:02+00:00",
+   "overview": "日経平均がAI半導体株中心に暴落した背景について解説。空売り比率の低下や過去最高水準の信用買い残など、2018年の暴落相場と全く同じ急落条件が点灯していたことから今回の下落は予想通りと分析。目先はPER17倍水準でボトムを形成し、9月の配当取りに向けた反転上昇を期待する一方、高値で信用買いが積み上がる半導体株については年末にかけて戻り売り圧力が続くと警戒を示している。",
+   "market_view": "2018年同様の需給悪化による大調整だが、PER17倍水準での下げ止まりから9月配当に向けた反転を想定。ただし半導体株は信用期日売りで年末まで軟調な展開を警戒。",
    "market": "MIX",
    "no_transcript": false,
    "skip_reason": "",
    "picks": [
     {
-     "name": "キオクシアホールディングス",
-     "ticker": "285A",
+     "name": "日経平均株価",
+     "ticker": "",
      "stance": "neutral",
-     "timestamp": "02:29"
+     "timestamp": "01:06"
+    },
+    {
+     "name": "キオクシア",
+     "ticker": "285A",
+     "stance": "bearish",
+     "timestamp": "21:23"
     },
     {
      "name": "レーザーテック",
      "ticker": "6920",
      "stance": "bearish",
-     "timestamp": "05:11"
-    },
+     "timestamp": "21:49"
+    }
+   ]
+  },
+  {
+   "video_id": "t-1jmIIex28",
+   "title": "キオクシア（285A）株式テクニカルチャート分析",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-08-19T06:57:50+00:00",
+   "overview": "日経平均が大幅安となり半導体株が総崩れとなった相場環境において、全体相場を牽引するキオクシア(285A)のテクニカル分析を行った動画です。韓国コスピの弱さや主要株の下落が響いているものの、米エヌビディア決算を控えたポジション調整の側面が大きいと分析しています。キオクシアは急落したものの、下値支持線に近づいており押し目買いの機会を探る展開が示されています。",
+   "market_view": "海外市場や半導体株の崩れにより日経平均は大幅下落しているが、業績が良い銘柄が多く決算前のポジション整理が終われば安値で拾われる展開を予想している。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
     {
-     "name": "フジクラ",
-     "ticker": "5803",
+     "name": "キオクシア",
+     "ticker": "285A",
      "stance": "bullish",
-     "timestamp": "06:00"
-    },
-    {
-     "name": "任天堂",
-     "ticker": "7974",
-     "stance": "bullish",
-     "timestamp": "07:38"
-    },
-    {
-     "name": "ソニーグループ",
-     "ticker": "6758",
-     "stance": "bullish",
-     "timestamp": "08:27"
-    },
-    {
-     "name": "トヨタ自動車",
-     "ticker": "7203",
-     "stance": "bullish",
-     "timestamp": "16:26"
-    },
-    {
-     "name": "日本電信電話",
-     "ticker": "9432",
-     "stance": "bullish",
-     "timestamp": "22:09"
-    },
-    {
-     "name": "太陽誘電",
-     "ticker": "6976",
-     "stance": "bearish",
-     "timestamp": "32:47"
-    },
-    {
-     "name": "村田製作所",
-     "ticker": "6981",
-     "stance": "bearish",
-     "timestamp": "35:01"
+     "timestamp": "06:18"
     }
    ]
   },
@@ -258,76 +244,6 @@
      "ticker": "5802",
      "stance": "neutral",
      "timestamp": "08:41"
-    }
-   ]
-  },
-  {
-   "video_id": "_ggNiU5W0uo",
-   "title": "キオクシア相場復活？今日の活況銘柄を見てみる！（キオクシア・太陽誘電・ユニチカ・フジクラ・村田製作所　等）株式テクニカルチャート分析",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TM",
-   "slot": 2,
-   "published": "2026-08-17T07:02:44+00:00",
-   "overview": "本動画では、米サンディスクの強気な3ヵ年計画発表を受けて復調し相場を牽引したキオクシアを中心に、活況を呈する本日の注目銘柄テクニカル分析が解説されています。好決算や資金流入が続くフジクラや古河電工などの電線株が強気視される一方、出来高が減少し伸び悩むMLCC関連株などは控えめなスタンスが推奨されています。",
-   "market_view": "日経平均は506円高と後場を中心に強い展開となったが、値下がり銘柄数が多く半導体や電線など特定セクターが牽引する相場となっている。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "キオクシア",
-     "ticker": "285A",
-     "stance": "bullish",
-     "timestamp": "03:47"
-    },
-    {
-     "name": "フジクラ",
-     "ticker": "5803",
-     "stance": "bullish",
-     "timestamp": "06:17"
-    },
-    {
-     "name": "ユニチカ",
-     "ticker": "3103",
-     "stance": "bullish",
-     "timestamp": "07:47"
-    },
-    {
-     "name": "村田製作所",
-     "ticker": "6981",
-     "stance": "neutral",
-     "timestamp": "08:35"
-    },
-    {
-     "name": "ソフトバンクグループ",
-     "ticker": "9984",
-     "stance": "neutral",
-     "timestamp": "09:00"
-    },
-    {
-     "name": "古河電気工業",
-     "ticker": "5801",
-     "stance": "bullish",
-     "timestamp": "09:23"
-    },
-    {
-     "name": "太陽誘電",
-     "ticker": "6976",
-     "stance": "neutral",
-     "timestamp": "10:43"
-    },
-    {
-     "name": "SUMCO",
-     "ticker": "3436",
-     "stance": "bullish",
-     "timestamp": "11:13"
-    },
-    {
-     "name": "フィグ",
-     "ticker": "4392",
-     "stance": "bullish",
-     "timestamp": "11:58"
     }
    ]
   },
