@@ -139,6 +139,17 @@ def log(msg: str) -> None:
     print(msg, flush=True)
 
 
+def run_text(cmd, cwd=None, timeout=120) -> subprocess.CompletedProcess:
+    """外部コマンドを実行して、出力をUTF-8として読む。
+
+    text=True だけだとWindowsではCP932で読もうとし、gitやyt-dlpが返す
+    日本語（コミットメッセージ・動画タイトル）で UnicodeDecodeError になる。
+    読めない文字は捨てて、処理そのものは止めない。
+    """
+    return subprocess.run(cmd, cwd=cwd, capture_output=True, timeout=timeout,
+                          encoding="utf-8", errors="replace")
+
+
 def load_json(path: Path, default):
     if not path.exists():
         return default
@@ -307,7 +318,7 @@ def _fetch_snippets_ytdlp(video_id: str, languages: list[str], cookies_browser: 
         cmd.append(f"https://www.youtube.com/watch?v={video_id}")
 
         try:
-            res = subprocess.run(cmd, capture_output=True, text=True, timeout=240)
+            res = run_text(cmd, timeout=240)
         except FileNotFoundError as exc:
             raise RuntimeError("yt-dlp が見つかりません（pip install yt-dlp）") from exc
         except subprocess.TimeoutExpired as exc:
@@ -430,7 +441,28 @@ def norm_text(value, limit: int = 400) -> str:
     return text[:limit]
 
 
+# 指数はティッカーが無く呼び名も揺れるので（日経平均／日経平均株価／日経225…）、
+# 同じ指数は1枚のカードにまとまるよう、代表シンボルを鍵にする。
+INDEX_KEYS = {prices.normalize_key(alias): syms[0]
+              for alias, syms in prices.INDEX_ALIASES.items()}
+INDEX_DISPLAY = {
+    "^N225": "日経平均", "^TOPX": "TOPIX", "^GSPC": "S&P500",
+    "^IXIC": "NASDAQ総合", "^NDX": "NASDAQ100", "^DJI": "NYダウ",
+    "2516.T": "東証グロース250", "JPY=X": "ドル円",
+}
+
+
+def index_symbol(pick: dict) -> str:
+    """指数なら代表シンボルを返す。個別株なら空文字。"""
+    nkey = prices.normalize_key(pick.get("name", ""))
+    tkey = prices.normalize_key(pick.get("ticker", ""))
+    return INDEX_KEYS.get(nkey) or (INDEX_KEYS.get(tkey) if tkey else "") or ""
+
+
 def stock_key(pick: dict) -> str:
+    idx = index_symbol(pick)
+    if idx:
+        return f"IDX:{idx}"
     ticker = pick.get("ticker", "")
     market = pick.get("market", "OTHER")
     if ticker:
@@ -659,7 +691,8 @@ def build_index(videos: list[dict], channels: list[dict]) -> dict:
                 key,
                 {
                     "key": key,
-                    "name": p["name"],
+                    "name": INDEX_DISPLAY.get(key[4:], p["name"]) if key.startswith("IDX:")
+                            else p["name"],
                     "name_en": p.get("name_en", ""),
                     "ticker": p["ticker"],
                     "market": p["market"],
@@ -784,10 +817,7 @@ def git_push_if_enabled() -> None:
     if os.environ.get("GIT_AUTO_PUSH", "0").strip() not in ("1", "true", "True"):
         return
     try:
-        status = subprocess.run(
-            ["git", "status", "--porcelain", "docs/data"],
-            cwd=ROOT, capture_output=True, text=True, timeout=60,
-        )
+        status = run_text(["git", "status", "--porcelain", "docs/data"], cwd=ROOT, timeout=60)
         if not status.stdout.strip():
             log("  変更なし。pushはスキップします")
             return
@@ -797,7 +827,7 @@ def git_push_if_enabled() -> None:
             ["git", "commit", "-m", f"データ更新 {stamp}"],
             ["git", "push"],
         ):
-            res = subprocess.run(cmd, cwd=ROOT, capture_output=True, text=True, timeout=180)
+            res = run_text(cmd, cwd=ROOT, timeout=180)
             if res.returncode != 0:
                 log(f"  ! git {cmd[1]} に失敗: {res.stderr.strip()[:300]}")
                 return
