@@ -1,6 +1,104 @@
 {
- "generated_at": "2026-08-19T13:37:26.801819+09:00",
+ "generated_at": "2026-08-20T06:40:44.244723+09:00",
  "videos": [
+  {
+   "video_id": "r63ac3rui7Y",
+   "title": "【緊急事態.日経平均2134円大暴落ヤバい‼】AI半導体株急落で日本株木端微塵‼２０１８年相場か⁉キオクシア12％暴落。ドル円１５９円。金利急騰で米国株、ハイテク株荒れるか。仮想通貨BTC上昇",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-08-19T14:34:19+00:00",
+   "overview": "日経平均の大幅下落を受けて、2018年同様のジグザグとした値動きのパターンを踏襲していると分析。半導体やハイテク株を中心に急落したものの、相場全体としてはバリュー株や出遅れ銘柄へのセクターローテーションが進んでいると指摘しています。短期的な乱高下に振り回されず、割安な局面で買い付けて中長期視点で保有する戦略を推奨しています。",
+   "market_view": "半導体・ハイテク株は年末にかけて戻り売りが出やすくジグザグな動きが想定される一方、9月の配当時期に向けてバリュー株や高配当銘柄へ資金がシフトする展開を予想しています。",
+   "market": "MIX",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "IHI",
+     "ticker": "7013",
+     "stance": "neutral",
+     "timestamp": "05:46"
+    },
+    {
+     "name": "三菱重工業",
+     "ticker": "7011",
+     "stance": "neutral",
+     "timestamp": "09:23"
+    },
+    {
+     "name": "任天堂",
+     "ticker": "7974",
+     "stance": "neutral",
+     "timestamp": "15:25"
+    },
+    {
+     "name": "アステラス製薬",
+     "ticker": "4503",
+     "stance": "bullish",
+     "timestamp": "17:03"
+    },
+    {
+     "name": "カプコン",
+     "ticker": "9697",
+     "stance": "neutral",
+     "timestamp": "42:02"
+    }
+   ]
+  },
+  {
+   "video_id": "3gIAOT5q9dQ",
+   "title": "【日経平均】 ⚠️警告 大幅下落！ 一段下げに警戒！ サンディスク・キオクシア・古河電工・太陽誘電・村田製作所",
+   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+   "channel_name": "Trader's Lab",
+   "channel_short": "TL",
+   "slot": 1,
+   "published": "2026-08-19T11:43:42+00:00",
+   "overview": "日経平均株価の大幅下落を受け、チャート上の押し安値割り込みや各種テクニカル指標の悪化から一段下げへの警戒感を解説しています。米国市場や韓国コスピなどの外部環境も踏まえ、6万2000円台までの下落リスクを指摘しています。個別株ではハイボラティリティ銘柄を中心に、戻り売り圧力や下落トレンド継続の観点から慎重な立ち回りを推奨しています。",
+   "market_view": "日経平均をはじめ全体相場は節目割れによりトレンドが下方に転換しつつあり、戻り売りが出やすい警戒度の高い地合いとなっています。",
+   "market": "MIX",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "日経平均株価",
+     "ticker": "N225",
+     "stance": "bearish",
+     "timestamp": "00:01"
+    },
+    {
+     "name": "サンディスク",
+     "ticker": "SNDK",
+     "stance": "bearish",
+     "timestamp": "24:58"
+    },
+    {
+     "name": "キオクシア",
+     "ticker": "285A",
+     "stance": "bearish",
+     "timestamp": "27:08"
+    },
+    {
+     "name": "古河電気工業",
+     "ticker": "5801",
+     "stance": "bearish",
+     "timestamp": "30:16"
+    },
+    {
+     "name": "太陽誘電",
+     "ticker": "6976",
+     "stance": "bearish",
+     "timestamp": "34:13"
+    },
+    {
+     "name": "村田製作所",
+     "ticker": "6981",
+     "stance": "bearish",
+     "timestamp": "36:36"
+    }
+   ]
+  },
   {
    "video_id": "qRCPlNZldXI",
    "title": "【緊急.日本株空売り急増‼】AI半導体株暴落で日経平均１７６０円急落→バリュー株に資金シフト。ドル円１５９円。金利急騰で米国株、ハイテク株荒れるか。仮想通貨BTC上昇",
@@ -130,52 +228,6 @@
    ]
   },
   {
-   "video_id": "SGD0kqxmM-U",
-   "title": "【緊急.日本株空売り急増‼】AI半導体株暴落で日経平均１７６０円急落→バリュー株に資金シフト。ドル円１５９円。金利急騰で米国株、ハイテク株荒れるか。仮想通貨BTC上昇",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-08-18T09:15:01+00:00",
-   "overview": "日経平均株価が1,760円急落したものの、空売り比率低下の観点から想定通りの動きであると分析。空売り急増や信用倍率の改善により、今後は2018年と同様の展開をトレースし、9月末の配当取りに向けたショートカバー主導の反発軌道を描く可能性があると指摘しています。一方で、AI半導体関連株は捕まり玉の戻り売りが懸念されるため、出遅れ銘柄やバリュー株への資金シフトを推奨しています。",
-   "market_view": "日経平均は短期的調整を挟みつつも、空売り残高の増加からショートカバーが入りやすい地合いが続いています。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "日経平均株価",
-     "ticker": "",
-     "stance": "neutral",
-     "timestamp": "01:20"
-    },
-    {
-     "name": "キオクシアホールディングス",
-     "ticker": "285A",
-     "stance": "bearish",
-     "timestamp": "01:54"
-    },
-    {
-     "name": "レーザーテック",
-     "ticker": "6920",
-     "stance": "bearish",
-     "timestamp": "02:00"
-    },
-    {
-     "name": "アドバンテスト",
-     "ticker": "6857",
-     "stance": "bearish",
-     "timestamp": "02:10"
-    },
-    {
-     "name": "KDDI",
-     "ticker": "9433",
-     "stance": "bullish",
-     "timestamp": "22:12"
-    }
-   ]
-  },
-  {
    "video_id": "JbGnAc8z-XQ",
    "title": "フジクラ・古河電工・住友電工　株式テクニカルチャート分析",
    "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
@@ -206,58 +258,6 @@
      "ticker": "5802",
      "stance": "neutral",
      "timestamp": "08:41"
-    }
-   ]
-  },
-  {
-   "video_id": "jehsL2d3O0c",
-   "title": "【日経平均】 堅調な値動き 反転上昇までもう少し キオクシアも急騰で反転の兆しか？ サンディスク・キオクシア・ユニチカ・サンコール・テラドローン",
-   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-   "channel_name": "Trader's Lab",
-   "channel_short": "TL",
-   "slot": 1,
-   "published": "2026-08-17T12:26:34+00:00",
-   "overview": "動画では、日経平均株価の現状と今後の押し下げ・反転上昇のシナリオについて解説されています。日経平均は一部の半導体株に牽引されて堅調な動きを見せていますが、トピックスが下落するなど相場内での偏りが目立ちます。個別銘柄としては、急騰したキオクシアやサンディスクの下げ止まりの判断、過熱感のあるユニチカ、決算発表により急反発したサンコール、テラドローンのチャート分析とそれぞれの取引戦略が提示されています。",
-   "market_view": "日経平均は一部の半導体銘柄主導で堅調だが、トピックスとの逆行が見られるなど構成に歪みがあり、押し下げと反転上昇の分岐点に位置している。",
-   "market": "MIX",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "日経平均",
-     "ticker": "",
-     "stance": "neutral",
-     "timestamp": "01:55"
-    },
-    {
-     "name": "サンディスク",
-     "ticker": "",
-     "stance": "neutral",
-     "timestamp": "18:00"
-    },
-    {
-     "name": "キオクシア",
-     "ticker": "",
-     "stance": "neutral",
-     "timestamp": "20:44"
-    },
-    {
-     "name": "ユニチカ",
-     "ticker": "",
-     "stance": "neutral",
-     "timestamp": "26:11"
-    },
-    {
-     "name": "サンコール",
-     "ticker": "",
-     "stance": "bullish",
-     "timestamp": "30:42"
-    },
-    {
-     "name": "テラドローン",
-     "ticker": "",
-     "stance": "neutral",
-     "timestamp": "34:16"
     }
    ]
   },
