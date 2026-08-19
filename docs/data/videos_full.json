@@ -522,6 +522,77 @@
    ]
   },
   {
+   "video_id": "JbGnAc8z-XQ",
+   "title": "フジクラ・古河電工・住友電工　株式テクニカルチャート分析",
+   "published": "2026-08-18T07:10:08+00:00",
+   "description": "🔽サンワード証券さんコラボWEBセミナー\nテーマ「AI・半導体相場はまだ上がる？　年末相場の勝ち筋を読む！」\n\n2026年9月2日（水）\n18:00開演　20:00終了\n\n参加申し込みURL\nhttps://www.sunward-t.co.jp/seminar/2026/09/02_2/index_k.html\n\n・申し込みされた方のみ視聴可能となります。\n・後日アーカイブ視聴可能\n・参加無料\n\n🔽「株オンラインサロン」8月期新規メンバー募集中！\nエンジョイプランは初参加の方初月無料です★\n→　https://yoor.jp/door/tradertomo\n\n※ 参加プラン別のサービス内容はこちらの動画で解説しています。\n→https://youtu.be/LtXywHzgOHs?si=G3UipVQW0JsWkv5t\n\n株好きが集まる楽しいサロンを目指してます♪\n初心者歓迎です～ご参加",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "本動画では、日経平均が大幅安となる中で注目される電線関連3銘柄(フジクラ、古河電気工業、住友電気工業)のテクニカルチャート分析を行っています。相場下落やキオクシアの連動安などの地合い悪化を踏まえつつ、各銘柄のローソク足の形状、出来高、信用残、重要ラインを提示し、押し目狙いの優先順位とエントリー条件を解説しています。",
+   "market_view": "日経平均が大幅安となったが、キオクシアの連動安や夏休み明けの機関投資家による売り崩しなどが要因であり、正常な範囲内の調整と見ている。",
+   "market": "JP",
+   "picks": [
+    {
+     "name": "フジクラ",
+     "name_en": "Fujikura Ltd.",
+     "ticker": "5803",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "6000円回復と板の改善を見極めたい",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "6000円の重要ラインを割り込み上髭陰線となったため、目先は冷静に推移を見守る必要がある。(42字)",
+      "6000円台を明日取り戻せれば6300円を目指せるが、板悪化のためアンダー増加が条件となる。(43字)",
+      "需給面で過度な心配はなく5880円ラインが安値で支持線として効いているが上値の重さが残る。(43字)"
+     ],
+     "timestamp": "04:22",
+     "confidence": "high"
+    },
+    {
+     "name": "古河電気工業",
+     "name_en": "Furukawa Electric Co., Ltd.",
+     "ticker": "5801",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "出来高伴う陽線で強さ見せ続進狙い",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "出来高を4300万株へ大きく増加させ、しっかりと陽線で安値を切り上げる強い形状となった。(42字)",
+      "急落後に意識されていた4500円付近のラインを上髭で一度突き抜けた点はポジティブ。(40字)",
+      "地合い悪化の中でも状態が良く、明日以降も板の回復を確認しながら続進を狙っていきたい。(41字)"
+     ],
+     "timestamp": "06:01",
+     "confidence": "high"
+    },
+    {
+     "name": "住友電気工業",
+     "name_en": "Sumitomo Electric Industries, Ltd.",
+     "ticker": "5802",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "下値は硬いが優先順位は他2社より低い",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "株価が安く信用買いが付きやすい傾向にあり、本日のギャップアップでしこりを増やした印象がある。(44字)",
+      "2400円や2500円が節目であり、持ち合っていた2300円台後半は硬い支持線として機能する。(43字)",
+      "下値はある程度硬いものの、古河電工やフジクラと比較すると積極的な狙い目としての優先度は低い。(44字)"
+     ],
+     "timestamp": "08:41",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
    "video_id": "_ggNiU5W0uo",
    "title": "キオクシア相場復活？今日の活況銘柄を見てみる！（キオクシア・太陽誘電・ユニチカ・フジクラ・村田製作所　等）株式テクニカルチャート分析",
    "published": "2026-08-17T07:02:44+00:00",
@@ -670,193 +741,6 @@
       "大口等の仕掛けで出来高が1600万株と急増しており、シコリの消化が進んでいることから出来高が維持される間は短期のデイトレで上目を狙えるため。"
      ],
      "timestamp": "11:58",
-     "confidence": "medium"
-    }
-   ]
-  },
-  {
-   "video_id": "gEV27QcCL58",
-   "title": "来週の相場に備えて！　日本株チャート分析LIVE　8/16",
-   "published": "2026-08-16T04:03:11+00:00",
-   "description": "🔽サンワード証券さんコラボWEBセミナー\n■セミナー詳細\nテーマ「AI・半導体相場はまだ上がる？　年末相場の勝ち筋を読む！」\n\n2026年9月2日（水）\n18:00開演　20:00終了\n\n参加申し込みURL\nhttps://www.sunward-t.co.jp/seminar/2026/09/02_2/index_k.html\n\n・申し込みされた方のみ視聴可能となります。\n・後日アーカイブ視聴可能\n・参加無料\n\n\n🔽「株オンラインサロン」8月新規メンバー募集中！\nエンジョイプランは初参加の方は初月無料です★\n→　https://yoor.jp/door/tradertomo\n\n※ 参加プラン別のサービス内容はこちらの動画で解説しています。\n→https://youtu.be/LtXywHzgOHs?si=G3UipVQW0JsWkv5t\n\n株好きが集まる楽しいサロンを目指してます♪\n初心",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TM",
-   "slot": 2,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "「トレーダーTOMO」による日本株のチャート分析ライブ動画の文字起こし。日経平均やTOPIXが新高値水準で推移する好地合いの中、視聴者からのリクエスト銘柄(レーザーテック、任天堂、キオクシア、パナソニック等)を中心に決算内容やチャート形状、需給動向を評価。半導体AI関連の底堅さを再確認しつつ、割安感の出た銘柄の押し目買い戦略や売り注意の銘柄について解説している。",
-   "market_view": "日経平均・TOPIXともに新高値更新と非常に強い相場環境が継続しており、半導体・AI関連を中心に好調な流れが続いている。",
-   "market": "JP",
-   "picks": [
-    {
-     "name": "レーザーテック",
-     "name_en": "Lasertec Corporation",
-     "ticker": "6920",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "割安感の出た押し目を狙う",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "今期見通しの営業利益率低下や会社予想下限等で株価反応は短期的になん調だが、過度に懸念する必要はない。",
-      "バリュエーション的にPER16〜17倍程度まで低下して割安感が出てきており、底打ち後の戻りを狙いたい。"
-     ],
-     "timestamp": "04:02",
-     "confidence": "high"
-    },
-    {
-     "name": "任天堂",
-     "name_en": "Nintendo Co., Ltd.",
-     "ticker": "7974",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "見直し買いと需給改善で上昇期待",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "インドネシアでの販路拡大や足元のチャート形状の良さに加え、信用改ざんの減少が株価の上昇を後押ししている。",
-      "決算内容では利益率の高いソフトウェアの伸びが確認でき、市場の見直し買いが入る展開を期待できる。"
-     ],
-     "timestamp": "06:44",
-     "confidence": "high"
-    },
-    {
-     "name": "キオクシアホールディングス",
-     "name_en": "Kioxia Holdings Corporation",
-     "ticker": "285A",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "未保有なら買いを検討できる水準",
-     "target_price": "60000",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "自社株買いの早期終了や株式分割、将来的な配当開始など株主還元姿勢が評価される。",
-      "分割後も高い価格帯を維持できる見込みがあり、中長期的には配当利回りが下値を支える。"
-     ],
-     "timestamp": "13:02",
-     "confidence": "high"
-    },
-    {
-     "name": "ディスコ",
-     "name_en": "DISCO Corporation",
-     "ticker": "6146",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "高い技術力とシェアで長期上昇",
-     "target_price": "90000",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "ダイシンググライダー等の世界的な高シェアと圧倒的な技術力により、対局的な上昇トレンドは不変。",
-      "短期的な株価の上下はあるものの、中長期的には再び過去高値水準まで戻る安心感がある。"
-     ],
-     "timestamp": "19:57",
-     "confidence": "medium"
-    },
-    {
-     "name": "データセクション",
-     "name_en": "Data Section Inc.",
-     "ticker": "3905",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "不透明感高くスイングは非推奨",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "大型案件の売上見込み消失や運用開始遅延などネガティブ材料が多く、スイングトレードには不向き。",
-      "会社予想の変更はないが市場の信憑性は低く、低PERに放置されておりデイトレ専用の扱いが妥当。"
-     ],
-     "timestamp": "21:32",
-     "confidence": "medium"
-    },
-    {
-     "name": "アドバンテスト",
-     "name_en": "Advantest Corporation",
-     "ticker": "6857",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "決算良好で空売りは警戒すべき",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "半導体銘柄の中でも決算内容が文句なしに良く、空売りを仕掛けるのは期待値が低すぎる。",
-      "上下波動を挟みつつも素直に上抜けていく展開が予想されるため、売り目線は避けるべきである。"
-     ],
-     "timestamp": "23:59",
-     "confidence": "medium"
-    },
-    {
-     "name": "パナソニック ホールディングス",
-     "name_en": "Panasonic Holdings Corporation",
-     "ticker": "6752",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "構造改革成果と需要拡大で上目線",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "データセンター需要の拡大に伴い年間投資を情報修正しており、事業環境の好調さが評価されている。",
-      "構造改革効果による固定費削減や価格改定が進み、会社全体として利益率改善の歯車が噛み合っている。"
-     ],
-     "timestamp": "24:37",
-     "confidence": "high"
-    },
-    {
-     "name": "エバラ製作所",
-     "name_en": "Ebara Corporation",
-     "ticker": "6361",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "短期的下落は押し目買いの機会",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "エネルギー事業のマイナスで全体の見た目は悪いが、最も利益率の高い半導体分野は大幅伸長している。",
-      "決算の短期的印象で売られて押し目を形成した場合は、中長期の成長性を評価して狙い目となる。"
-     ],
-     "timestamp": "29:45",
-     "confidence": "medium"
-    },
-    {
-     "name": "トヨタ自動車",
-     "name_en": "Toyota Motor Corporation",
-     "ticker": "7203",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "割安感から2000円台後半で拾う",
-     "target_price": "",
-     "entry": "2000円台後半",
-     "stop": "",
-     "reasons": [
-      "決算自体は良くはないものの想定の範囲内であり、中長期目線で見れば割安感から拾える水準にある。",
-      "コスト増や為替等の影響はあるが、2000円台後半や3000円付近は長い目で見て拾って良い価格帯。"
-     ],
-     "timestamp": "11:40",
-     "confidence": "medium"
-    },
-    {
-     "name": "楽天グループ",
-     "name_en": "Rakuten Group, Inc.",
-     "ticker": "4755",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "ローミング問題決着まで様子見",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "決算の数字が弱かったことに加え、KDDIとのローミング契約終了に関する不透明感が懸念されている。",
-      "楽天モバイルの通信品質悪化リスクが解消されるまでは、株主として積極的に買いづらい状況が続く。"
-     ],
-     "timestamp": "09:40",
      "confidence": "medium"
     }
    ]
