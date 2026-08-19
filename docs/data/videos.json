@@ -1,0 +1,411 @@
+{
+ "generated_at": "2026-08-19T12:44:25.788967+09:00",
+ "videos": [
+  {
+   "video_id": "qRCPlNZldXI",
+   "title": "【緊急.日本株空売り急増‼】AI半導体株暴落で日経平均１７６０円急落→バリュー株に資金シフト。ドル円１５９円。金利急騰で米国株、ハイテク株荒れるか。仮想通貨BTC上昇",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-08-18T14:25:58+00:00",
+   "overview": "日経平均が1,760円急落する中で空売り残高が膨らみ、踏み上げが発生しやすい需給環境が解説された。半導体やハイテク株(太陽誘電・村田製作所など)で信用買いの投げ売りや需給悪化が目立つ一方、任天堂やNTT、トヨタなど信用整理が進み需給改善が見られる銘柄やバリュー株へのシフトが指摘されている。",
+   "market_view": "空売り比率上昇や売り残積み上がりにより好材料での踏み上げが起きやすい需給環境だが、ハイテク株の戻りは限定的でバリュー株等への資金シフトが継続する見通し。",
+   "market": "MIX",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "キオクシアホールディングス",
+     "ticker": "285A",
+     "stance": "neutral",
+     "timestamp": "02:29"
+    },
+    {
+     "name": "レーザーテック",
+     "ticker": "6920",
+     "stance": "bearish",
+     "timestamp": "05:11"
+    },
+    {
+     "name": "フジクラ",
+     "ticker": "5803",
+     "stance": "bullish",
+     "timestamp": "06:00"
+    },
+    {
+     "name": "任天堂",
+     "ticker": "7974",
+     "stance": "bullish",
+     "timestamp": "07:38"
+    },
+    {
+     "name": "ソニーグループ",
+     "ticker": "6758",
+     "stance": "bullish",
+     "timestamp": "08:27"
+    },
+    {
+     "name": "トヨタ自動車",
+     "ticker": "7203",
+     "stance": "bullish",
+     "timestamp": "16:26"
+    },
+    {
+     "name": "日本電信電話",
+     "ticker": "9432",
+     "stance": "bullish",
+     "timestamp": "22:09"
+    },
+    {
+     "name": "太陽誘電",
+     "ticker": "6976",
+     "stance": "bearish",
+     "timestamp": "32:47"
+    },
+    {
+     "name": "村田製作所",
+     "ticker": "6981",
+     "stance": "bearish",
+     "timestamp": "35:01"
+    }
+   ]
+  },
+  {
+   "video_id": "pN82UXc4s3Y",
+   "title": "【日経平均】 押し下げのシナリオ移行 買い場は来たぞ！ ただし〇〇は意識しろ サンディスク・キオクシア・太陽誘電・村田製作所・ユニチカ・サンコール",
+   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+   "channel_name": "Trader's Lab",
+   "channel_short": "TL",
+   "slot": 1,
+   "published": "2026-08-18T11:38:17+00:00",
+   "overview": "日経平均先物の直近安値下割れに伴う押し下げフェーズへの移行と、マルチタイムフレーム分析に基づく上昇トレンド終了および下落転換のリスクについて詳細に解説しています。個別銘柄では、ハイテク株や半導体関連銘柄の過熱感・受給悪化を踏まえた警戒感を示すとともに、好決算で買われるサンコールなどの押し目買いシナリオを提案しています。",
+   "market_view": "国内長期金利が約30年ぶりの高値水準へ上昇したことや米国債利回りの高止まりを嫌気し、ハイテク・AI半導体関連銘柄を中心に売られる展開となっています。",
+   "market": "MIX",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "日経平均株価",
+     "ticker": "N225",
+     "stance": "neutral",
+     "timestamp": "00:12"
+    },
+    {
+     "name": "サンディスク",
+     "ticker": "SNDK",
+     "stance": "bearish",
+     "timestamp": "28:02"
+    },
+    {
+     "name": "キオクシアホールディングス",
+     "ticker": "285A",
+     "stance": "neutral",
+     "timestamp": "30:13"
+    },
+    {
+     "name": "太陽誘電",
+     "ticker": "6976",
+     "stance": "bearish",
+     "timestamp": "34:39"
+    },
+    {
+     "name": "村田製作所",
+     "ticker": "6981",
+     "stance": "bearish",
+     "timestamp": "39:13"
+    },
+    {
+     "name": "ユニチカ",
+     "ticker": "3103",
+     "stance": "neutral",
+     "timestamp": "41:35"
+    },
+    {
+     "name": "サンコール",
+     "ticker": "5985",
+     "stance": "bullish",
+     "timestamp": "45:44"
+    }
+   ]
+  },
+  {
+   "video_id": "SGD0kqxmM-U",
+   "title": "【緊急.日本株空売り急増‼】AI半導体株暴落で日経平均１７６０円急落→バリュー株に資金シフト。ドル円１５９円。金利急騰で米国株、ハイテク株荒れるか。仮想通貨BTC上昇",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-08-18T09:15:01+00:00",
+   "overview": "日経平均株価が1,760円急落したものの、空売り比率低下の観点から想定通りの動きであると分析。空売り急増や信用倍率の改善により、今後は2018年と同様の展開をトレースし、9月末の配当取りに向けたショートカバー主導の反発軌道を描く可能性があると指摘しています。一方で、AI半導体関連株は捕まり玉の戻り売りが懸念されるため、出遅れ銘柄やバリュー株への資金シフトを推奨しています。",
+   "market_view": "日経平均は短期的調整を挟みつつも、空売り残高の増加からショートカバーが入りやすい地合いが続いています。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "日経平均株価",
+     "ticker": "",
+     "stance": "neutral",
+     "timestamp": "01:20"
+    },
+    {
+     "name": "キオクシアホールディングス",
+     "ticker": "285A",
+     "stance": "bearish",
+     "timestamp": "01:54"
+    },
+    {
+     "name": "レーザーテック",
+     "ticker": "6920",
+     "stance": "bearish",
+     "timestamp": "02:00"
+    },
+    {
+     "name": "アドバンテスト",
+     "ticker": "6857",
+     "stance": "bearish",
+     "timestamp": "02:10"
+    },
+    {
+     "name": "KDDI",
+     "ticker": "9433",
+     "stance": "bullish",
+     "timestamp": "22:12"
+    }
+   ]
+  },
+  {
+   "video_id": "jehsL2d3O0c",
+   "title": "【日経平均】 堅調な値動き 反転上昇までもう少し キオクシアも急騰で反転の兆しか？ サンディスク・キオクシア・ユニチカ・サンコール・テラドローン",
+   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+   "channel_name": "Trader's Lab",
+   "channel_short": "TL",
+   "slot": 1,
+   "published": "2026-08-17T12:26:34+00:00",
+   "overview": "動画では、日経平均株価の現状と今後の押し下げ・反転上昇のシナリオについて解説されています。日経平均は一部の半導体株に牽引されて堅調な動きを見せていますが、トピックスが下落するなど相場内での偏りが目立ちます。個別銘柄としては、急騰したキオクシアやサンディスクの下げ止まりの判断、過熱感のあるユニチカ、決算発表により急反発したサンコール、テラドローンのチャート分析とそれぞれの取引戦略が提示されています。",
+   "market_view": "日経平均は一部の半導体銘柄主導で堅調だが、トピックスとの逆行が見られるなど構成に歪みがあり、押し下げと反転上昇の分岐点に位置している。",
+   "market": "MIX",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "日経平均",
+     "ticker": "",
+     "stance": "neutral",
+     "timestamp": "01:55"
+    },
+    {
+     "name": "サンディスク",
+     "ticker": "",
+     "stance": "neutral",
+     "timestamp": "18:00"
+    },
+    {
+     "name": "キオクシア",
+     "ticker": "",
+     "stance": "neutral",
+     "timestamp": "20:44"
+    },
+    {
+     "name": "ユニチカ",
+     "ticker": "",
+     "stance": "neutral",
+     "timestamp": "26:11"
+    },
+    {
+     "name": "サンコール",
+     "ticker": "",
+     "stance": "bullish",
+     "timestamp": "30:42"
+    },
+    {
+     "name": "テラドローン",
+     "ticker": "",
+     "stance": "neutral",
+     "timestamp": "34:16"
+    }
+   ]
+  },
+  {
+   "video_id": "_ggNiU5W0uo",
+   "title": "キオクシア相場復活？今日の活況銘柄を見てみる！（キオクシア・太陽誘電・ユニチカ・フジクラ・村田製作所　等）株式テクニカルチャート分析",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TM",
+   "slot": 2,
+   "published": "2026-08-17T07:02:44+00:00",
+   "overview": "本動画では、米サンディスクの強気な3ヵ年計画発表を受けて復調し相場を牽引したキオクシアを中心に、活況を呈する本日の注目銘柄テクニカル分析が解説されています。好決算や資金流入が続くフジクラや古河電工などの電線株が強気視される一方、出来高が減少し伸び悩むMLCC関連株などは控えめなスタンスが推奨されています。",
+   "market_view": "日経平均は506円高と後場を中心に強い展開となったが、値下がり銘柄数が多く半導体や電線など特定セクターが牽引する相場となっている。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "キオクシア",
+     "ticker": "285A",
+     "stance": "bullish",
+     "timestamp": "03:47"
+    },
+    {
+     "name": "フジクラ",
+     "ticker": "5803",
+     "stance": "bullish",
+     "timestamp": "06:17"
+    },
+    {
+     "name": "ユニチカ",
+     "ticker": "3103",
+     "stance": "bullish",
+     "timestamp": "07:47"
+    },
+    {
+     "name": "村田製作所",
+     "ticker": "6981",
+     "stance": "neutral",
+     "timestamp": "08:35"
+    },
+    {
+     "name": "ソフトバンクグループ",
+     "ticker": "9984",
+     "stance": "neutral",
+     "timestamp": "09:00"
+    },
+    {
+     "name": "古河電気工業",
+     "ticker": "5801",
+     "stance": "bullish",
+     "timestamp": "09:23"
+    },
+    {
+     "name": "太陽誘電",
+     "ticker": "6976",
+     "stance": "neutral",
+     "timestamp": "10:43"
+    },
+    {
+     "name": "SUMCO",
+     "ticker": "3436",
+     "stance": "bullish",
+     "timestamp": "11:13"
+    },
+    {
+     "name": "フィグ",
+     "ticker": "4392",
+     "stance": "bullish",
+     "timestamp": "11:58"
+    }
+   ]
+  },
+  {
+   "video_id": "rqmTyg3SIpY",
+   "title": "今週（8/17〜）専業が自信を持って買う1銘柄",
+   "channel_id": "UCt7qqCkTFFRfKjXzwqUXq4g",
+   "channel_name": "ぺこ株",
+   "channel_short": "PK",
+   "slot": 4,
+   "published": "2026-08-16T11:00:22+00:00",
+   "overview": "日本株専業投資家のペコ氏が、今週以降上昇が期待できる注目銘柄としてトライアルホールディングスを解説する動画です。西友の完全子会社化による売上高1兆円突破や、買収費用消化後の大幅増益見通しといったファンダメンタルズに加え、三役好転などのテクニカル面の両面から分析し、押し目を狙った具体的なエントリー戦略を提示しています。",
+   "market_view": "",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "トライアルホールディングス",
+     "ticker": "141A",
+     "stance": "bullish",
+     "timestamp": "01:21"
+    },
+    {
+     "name": "商船三井",
+     "ticker": "9104",
+     "stance": "neutral",
+     "timestamp": "01:05"
+    },
+    {
+     "name": "京都フィナンシャルグループ",
+     "ticker": "8369",
+     "stance": "neutral",
+     "timestamp": "00:15"
+    }
+   ]
+  },
+  {
+   "video_id": "gEV27QcCL58",
+   "title": "来週の相場に備えて！　日本株チャート分析LIVE　8/16",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TM",
+   "slot": 2,
+   "published": "2026-08-16T04:03:11+00:00",
+   "overview": "「トレーダーTOMO」による日本株のチャート分析ライブ動画の文字起こし。日経平均やTOPIXが新高値水準で推移する好地合いの中、視聴者からのリクエスト銘柄(レーザーテック、任天堂、キオクシア、パナソニック等)を中心に決算内容やチャート形状、需給動向を評価。半導体AI関連の底堅さを再確認しつつ、割安感の出た銘柄の押し目買い戦略や売り注意の銘柄について解説している。",
+   "market_view": "日経平均・TOPIXともに新高値更新と非常に強い相場環境が継続しており、半導体・AI関連を中心に好調な流れが続いている。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "レーザーテック",
+     "ticker": "6920",
+     "stance": "bullish",
+     "timestamp": "04:02"
+    },
+    {
+     "name": "任天堂",
+     "ticker": "7974",
+     "stance": "bullish",
+     "timestamp": "06:44"
+    },
+    {
+     "name": "キオクシアホールディングス",
+     "ticker": "285A",
+     "stance": "bullish",
+     "timestamp": "13:02"
+    },
+    {
+     "name": "ディスコ",
+     "ticker": "6146",
+     "stance": "bullish",
+     "timestamp": "19:57"
+    },
+    {
+     "name": "データセクション",
+     "ticker": "3905",
+     "stance": "bearish",
+     "timestamp": "21:32"
+    },
+    {
+     "name": "アドバンテスト",
+     "ticker": "6857",
+     "stance": "bullish",
+     "timestamp": "23:59"
+    },
+    {
+     "name": "パナソニック ホールディングス",
+     "ticker": "6752",
+     "stance": "bullish",
+     "timestamp": "24:37"
+    },
+    {
+     "name": "エバラ製作所",
+     "ticker": "6361",
+     "stance": "bullish",
+     "timestamp": "29:45"
+    },
+    {
+     "name": "トヨタ自動車",
+     "ticker": "7203",
+     "stance": "bullish",
+     "timestamp": "11:40"
+    },
+    {
+     "name": "楽天グループ",
+     "ticker": "4755",
+     "stance": "neutral",
+     "timestamp": "09:40"
+    }
+   ]
+  }
+ ]
+}

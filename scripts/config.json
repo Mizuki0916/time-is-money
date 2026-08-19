@@ -1,0 +1,60 @@
+{
+  "app_name": "Time is Money",
+  "app_short_name": "Time is Money",
+  "lookback_days": 7,
+  "retain_days": 90,
+  "max_videos_per_channel": 2,
+  "max_videos_per_run": 2,
+  "max_transcript_attempts": 8,
+  "pause_seconds": 30,
+  "block_cooldown_hours": 3,
+  "use_ytdlp_fallback": true,
+  "ytdlp_cookies_from_browser": "",
+  "ytdlp_impersonate": "chrome",
+  "enable_digest": true,
+  "digest_videos": 8,
+  "enable_prices": true,
+  "price_refresh_hours": 12,
+  "price_pause_seconds": 2,
+  "enable_volume_profile": true,
+  "profile_days": 5,
+  "chart_days": 120,
+  "transcript_languages": [
+    "ja",
+    "ja-JP",
+    "en"
+  ],
+  "llm": {
+    "provider": "gemini",
+    "gemini_model": "gemini-3.6-flash",
+    "openai_model": "gpt-4.1-mini",
+    "anthropic_model": "claude-sonnet-4-5-20250929",
+    "max_transcript_chars": 90000
+  },
+  "channels": [
+    {
+      "id": "UCsaeHha7ai_NNX8or8Jyb-g",
+      "name": "Trader's Lab",
+      "short": "TL",
+      "slot": 1
+    },
+    {
+      "id": "UCdQdRRLoajrt-5TEaAxslxA",
+      "name": "トレーダーTOMO",
+      "short": "TOMO",
+      "slot": 2
+    },
+    {
+      "id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+      "name": "Sho's投資情報局",
+      "short": "Sho",
+      "slot": 3
+    },
+    {
+      "id": "UCt7qqCkTFFRfKjXzwqUXq4g",
+      "name": "ぺこ株",
+      "short": "ぺこ",
+      "slot": 4
+    }
+  ]
+}

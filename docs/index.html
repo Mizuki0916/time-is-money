@@ -1,0 +1,1185 @@
+<!doctype html>
+<html lang="ja" data-theme="">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Time is Money</title>
+<meta name="description" content="選定した4人の株系YouTuberの動画を銘柄ごとにまとめて把握するアプリ">
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#0d0d0d" media="(prefers-color-scheme: dark)">
+<meta name="theme-color" content="#f9f9f7" media="(prefers-color-scheme: light)">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Time is Money">
+<link rel="apple-touch-icon" href="icon-192.png">
+<link rel="icon" href="icon-192.png">
+<style>
+/* ─────────────────────────────────────────────
+   トークン（配色はライト／ダークそれぞれ個別に選定）
+   ───────────────────────────────────────────── */
+:root {
+  color-scheme: light;
+  --page:        #f9f9f7;
+  --surface:     #fcfcfb;
+  --surface-2:   #f2f1ed;
+  --ink:         #0b0b0b;
+  --ink-2:       #52514e;
+  --ink-muted:   #898781;
+  --hairline:    #e1e0d9;
+  --border:      rgba(11,11,11,0.10);
+  --track:       #e6e5df;
+
+  --ch1: #2a78d6;  --ch2: #eb6834;  --ch3: #1baf7a;  --ch4: #eda100;
+
+  --bull:      #e34948;  --bull-ink: #0b0b0b;  --bull-soft: #fbe9e9;
+  --bear:      #2a78d6;  --bear-ink: #ffffff;  --bear-soft: #e4eefb;
+  --neutral:   #d9d8d2;  --neutral-ink: #0b0b0b; --neutral-soft: #efeeea;
+
+  --focus:     #2a78d6;
+  --shadow:    0 1px 2px rgba(11,11,11,.05), 0 6px 18px rgba(11,11,11,.05);
+}
+@media (prefers-color-scheme: dark) {
+  :root:where(:not([data-theme="light"])) {
+    color-scheme: dark;
+    --page:      #0d0d0d;
+    --surface:   #1a1a19;
+    --surface-2: #232322;
+    --ink:       #ffffff;
+    --ink-2:     #c3c2b7;
+    --ink-muted: #898781;
+    --hairline:  #2c2c2a;
+    --border:    rgba(255,255,255,0.10);
+    --track:     #2c2c2a;
+
+    --ch1: #3987e5;  --ch2: #d95926;  --ch3: #199e70;  --ch4: #c98500;
+
+    --bull:    #e66767;  --bull-ink: #0b0b0b;  --bull-soft: #3a2020;
+    --bear:    #3987e5;  --bear-ink: #0b0b0b;  --bear-soft: #16283f;
+    --neutral: #4a4a46;  --neutral-ink: #ffffff; --neutral-soft: #2a2a28;
+
+    --focus:   #3987e5;
+    --shadow:  0 1px 2px rgba(0,0,0,.4), 0 6px 18px rgba(0,0,0,.35);
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --page:      #0d0d0d;
+  --surface:   #1a1a19;
+  --surface-2: #232322;
+  --ink:       #ffffff;
+  --ink-2:     #c3c2b7;
+  --ink-muted: #898781;
+  --hairline:  #2c2c2a;
+  --border:    rgba(255,255,255,0.10);
+  --track:     #2c2c2a;
+  --ch1: #3987e5;  --ch2: #d95926;  --ch3: #199e70;  --ch4: #c98500;
+  --bull:    #e66767;  --bull-ink: #0b0b0b;  --bull-soft: #3a2020;
+  --bear:    #3987e5;  --bear-ink: #0b0b0b;  --bear-soft: #16283f;
+  --neutral: #4a4a46;  --neutral-ink: #ffffff; --neutral-soft: #2a2a28;
+  --focus:   #3987e5;
+  --shadow:  0 1px 2px rgba(0,0,0,.4), 0 6px 18px rgba(0,0,0,.35);
+}
+
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; }
+html { scroll-padding-top: 66px; }
+body {
+  background: var(--page);
+  color: var(--ink);
+  font-family: system-ui, -apple-system, "Hiragino Sans", "Segoe UI", sans-serif;
+  font-size: 15px;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: 100%;
+  padding-bottom: calc(28px + env(safe-area-inset-bottom));
+  overscroll-behavior-y: contain;
+}
+:focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; border-radius: 6px; }
+button { font: inherit; color: inherit; cursor: pointer; }
+
+.wrap { max-width: 760px; margin: 0 auto; padding: 0 14px; }
+
+/* ── ヘッダー ── */
+header {
+  position: sticky; top: 0; z-index: 30;
+  background: color-mix(in srgb, var(--page) 88%, transparent);
+  backdrop-filter: saturate(180%) blur(14px);
+  -webkit-backdrop-filter: saturate(180%) blur(14px);
+  border-bottom: 1px solid var(--hairline);
+  padding-top: env(safe-area-inset-top);
+}
+.head-row { display: flex; align-items: center; gap: 10px; height: 52px; }
+.logo { display: flex; align-items: center; gap: 8px; margin-right: auto; min-width: 0; }
+.logo-mark { width: 28px; height: 28px; flex: none; display: block; }
+.logo-mark svg { display: block; }
+.logo h1 { font-size: 16px; font-weight: 650; margin: 0; letter-spacing: .01em; white-space: nowrap; }
+.updated { font-size: 11px; color: var(--ink-muted); white-space: nowrap; }
+.icon-btn {
+  width: 34px; height: 34px; flex: none; display: grid; place-items: center;
+  background: var(--surface); border: 1px solid var(--border); border-radius: 9px;
+  font-size: 14px; line-height: 1;
+}
+.icon-btn:active { transform: scale(.94); }
+
+/* ── バナー ── */
+.banner {
+  display: none; margin: 10px 0 0; padding: 9px 12px; border-radius: 10px;
+  font-size: 12.5px; background: var(--neutral-soft); color: var(--ink-2);
+  border: 1px solid var(--border);
+}
+.banner.show { display: block; }
+
+/* ── 今日のポイント（トップ） ── */
+.digest {
+  display: none; margin: 14px 0 2px; padding: 14px 15px 13px;
+  background: var(--surface); border: 1px solid var(--border); border-radius: 16px;
+  box-shadow: var(--shadow); position: relative; overflow: hidden;
+}
+.digest.show { display: block; }
+.digest::before {
+  content: ""; position: absolute; inset: 0 0 auto 0; height: 3px;
+  background: linear-gradient(90deg, #f5c53d, #ffe08a, #d99a1e);
+}
+.dg-head { display: flex; align-items: flex-start; gap: 11px; }
+.dg-pig { flex: none; margin-top: -2px; }
+.dg-title { font-size: 11px; color: var(--ink-muted); letter-spacing: .04em; }
+.dg-headline {
+  font-size: 16.5px; font-weight: 650; line-height: 1.45; margin-top: 2px;
+  letter-spacing: -.005em;
+}
+.dg-trend { font-size: 13.5px; color: var(--ink-2); margin: 11px 0 0; line-height: 1.7; }
+.dg-points { margin: 12px 0 0; padding: 11px 12px; background: var(--surface-2); border-radius: 11px; }
+.dg-points h3 {
+  margin: 0 0 7px; font-size: 11.5px; font-weight: 650; color: var(--ink-2);
+  display: flex; align-items: center; gap: 6px;
+}
+.dg-points ol { margin: 0; padding-left: 18px; }
+.dg-points li { font-size: 13px; line-height: 1.65; margin-bottom: 5px; color: var(--ink); }
+.dg-points li:last-child { margin-bottom: 0; }
+.dg-points li::marker { color: var(--ink-muted); font-weight: 650; font-size: 11.5px; }
+.dg-consensus { font-size: 12.5px; color: var(--ink-2); margin: 11px 0 0; line-height: 1.65; }
+.dg-consensus b { font-weight: 650; color: var(--ink); }
+.dg-foot { font-size: 10.5px; color: var(--ink-muted); margin-top: 10px; }
+
+/* ── スタッツ ── */
+.kpi { display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px; margin: 14px 0 4px; }
+.tile {
+  background: var(--surface); border: 1px solid var(--border); border-radius: 12px;
+  padding: 10px 8px 9px; text-align: center; box-shadow: var(--shadow);
+}
+.tile .v { font-size: 21px; font-weight: 650; letter-spacing: -.01em; line-height: 1.15; display: block; }
+.tile .k { font-size: 10.5px; color: var(--ink-muted); margin-top: 2px; display: block; line-height: 1.3; }
+
+/* ── フィルタ（すべてのビューを一括でスコープする1ブロック） ── */
+.filters { padding: 12px 0 10px; }
+.seg {
+  display: grid; grid-template-columns: 1fr 1fr; gap: 3px; padding: 3px;
+  background: var(--surface-2); border-radius: 11px; margin-bottom: 10px;
+}
+.seg button {
+  border: 0; background: transparent; border-radius: 8px; padding: 7px 0;
+  font-size: 13.5px; font-weight: 550; color: var(--ink-2);
+}
+.seg button[aria-selected="true"] { background: var(--surface); color: var(--ink); box-shadow: var(--shadow); }
+
+.search { position: relative; margin-bottom: 10px; }
+.search input {
+  width: 100%; padding: 10px 34px 10px 12px; font-size: 15px;
+  background: var(--surface); color: var(--ink);
+  border: 1px solid var(--border); border-radius: 10px;
+}
+.search input::placeholder { color: var(--ink-muted); }
+.search .clear {
+  position: absolute; right: 4px; top: 50%; transform: translateY(-50%);
+  width: 28px; height: 28px; border: 0; background: transparent;
+  color: var(--ink-muted); font-size: 16px; display: none;
+}
+.search.has .clear { display: block; }
+
+.chips { display: flex; gap: 6px; overflow-x: auto; padding-bottom: 2px; scrollbar-width: none; }
+.chips::-webkit-scrollbar { display: none; }
+.chip {
+  flex: none; padding: 6px 11px; border-radius: 999px; font-size: 12.5px; white-space: nowrap;
+  background: var(--surface); border: 1px solid var(--border); color: var(--ink-2);
+  display: inline-flex; align-items: center; gap: 6px;
+}
+.chip[aria-pressed="true"] { background: var(--ink); color: var(--page); border-color: var(--ink); }
+.chip .dot { width: 8px; height: 8px; border-radius: 50%; flex: none; }
+.chip .code { font-size: 10.5px; font-weight: 700; letter-spacing: .04em; opacity: .75; }
+.chips + .chips { margin-top: 6px; }
+
+/* ── 凡例 ── */
+.legend { font-size: 11.5px; color: var(--ink-muted); padding: 10px 2px 8px; }
+.legend-row { display: flex; flex-wrap: wrap; gap: 3px 12px; align-items: center; }
+.legend-row + .legend-row { margin-top: 5px; }
+.legend .code {
+  font-weight: 700; letter-spacing: .03em; color: var(--ink-2);
+  background: var(--surface-2); border-radius: 4px; padding: 0 4px; margin-right: 1px;
+}
+.legend b { font-weight: 550; color: var(--ink-2); }
+.legend span { display: inline-flex; align-items: center; gap: 5px; }
+.swatch { width: 13px; height: 13px; border-radius: 3px; display: inline-block; flex: none; }
+
+/* ── 銘柄カード ── */
+.card {
+  background: var(--surface); border: 1px solid var(--border); border-radius: 14px;
+  margin-bottom: 9px; box-shadow: var(--shadow); overflow: hidden; scroll-margin-top: 66px;
+}
+.card > summary { list-style: none; cursor: pointer; padding: 13px 14px; display: block; }
+.card > summary::-webkit-details-marker { display: none; }
+.card-top { display: flex; align-items: baseline; gap: 8px; flex-wrap: wrap; }
+.stock-name { font-size: 16.5px; font-weight: 650; letter-spacing: -.005em; }
+.ticker {
+  font-size: 11.5px; font-variant-numeric: tabular-nums; letter-spacing: .04em;
+  color: var(--ink-2); background: var(--surface-2); border-radius: 5px; padding: 1px 6px;
+}
+.mkt { font-size: 10.5px; color: var(--ink-muted); border: 1px solid var(--border); border-radius: 5px; padding: 0 5px; }
+.when { margin-left: auto; font-size: 11px; color: var(--ink-muted); white-space: nowrap; }
+
+/* ── 株価 ── */
+.pricerow { display: flex; align-items: center; gap: 9px; margin-top: 9px; }
+.px { font-size: 19px; font-weight: 650; letter-spacing: -.01em; line-height: 1.1; }
+.chg { font-size: 13px; font-weight: 650; font-variant-numeric: tabular-nums; }
+.chg.up { color: var(--bull); } .chg.down { color: var(--bear); } .chg.flat { color: var(--ink-muted); }
+.live {
+  font-size: 10px; font-weight: 650; letter-spacing: .04em; color: var(--ink-2);
+  background: var(--surface-2); border: 1px solid var(--border); border-radius: 5px; padding: 1px 5px;
+}
+.spark { margin-left: auto; display: block; flex: none; }
+.metrics { display: flex; flex-wrap: wrap; gap: 5px; margin-top: 8px; }
+.metric {
+  font-size: 11.5px; color: var(--ink-2); background: var(--surface-2);
+  border-radius: 7px; padding: 3px 8px; display: inline-flex; gap: 5px; align-items: baseline;
+}
+.metric i { font-style: normal; color: var(--ink-muted); font-size: 10.5px; }
+.metric b { font-weight: 650; font-variant-numeric: tabular-nums; }
+.px-stale { font-size: 10.5px; color: var(--ink-muted); }
+
+/* 展開時の株価パネル */
+.pxpanel { background: var(--surface-2); border-radius: 11px; padding: 12px; margin: 12px 0 2px; }
+.pxpanel h4 { margin: 0 0 9px; font-size: 12px; font-weight: 650; color: var(--ink-2); }
+.pxgrid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 7px 14px; }
+.pxgrid div { display: flex; justify-content: space-between; font-size: 12.5px; gap: 8px; align-items: baseline; }
+.pxgrid div.wide { grid-column: 1 / -1; }
+.pxgrid span { color: var(--ink-muted); white-space: nowrap; }
+.pxgrid b { font-weight: 600; font-variant-numeric: tabular-nums; text-align: right; }
+.rsibar { margin-top: 12px; }
+.rsibar .cap { font-size: 11.5px; color: var(--ink-2); margin-bottom: 5px; }
+.rsibar .cap b { font-weight: 650; font-variant-numeric: tabular-nums; }
+.rsibar .track {
+  position: relative; height: 8px; border-radius: 4px; background: var(--track); overflow: hidden;
+}
+.rsibar .fill { position: absolute; inset: 0 auto 0 0; background: var(--ink-2); border-radius: 4px; }
+.rsibar .tick { position: absolute; top: -3px; bottom: -3px; width: 1px; background: var(--ink-muted); opacity: .55; }
+.rsibar .scale {
+  display: flex; justify-content: space-between; font-size: 10px;
+  color: var(--ink-muted); margin-top: 4px; font-variant-numeric: tabular-nums;
+}
+
+/* ── チャート ── */
+.chartbox { background: var(--surface-2); border-radius: 11px; padding: 11px 11px 9px; margin: 12px 0 2px; }
+.chart-head { display: flex; align-items: center; gap: 8px; margin-bottom: 8px; }
+.chart-head h4 { margin: 0; font-size: 12px; font-weight: 650; color: var(--ink-2); }
+.range { display: flex; gap: 2px; margin-left: auto; background: var(--surface); border-radius: 8px; padding: 2px; }
+.range button {
+  border: 0; background: transparent; border-radius: 6px; padding: 3px 9px;
+  font-size: 11px; color: var(--ink-muted); min-height: 24px;
+}
+.range button[aria-pressed="true"] { background: var(--surface-2); color: var(--ink); font-weight: 650; }
+.readout {
+  font-size: 11.5px; color: var(--ink-2); min-height: 17px; margin-bottom: 4px;
+  font-variant-numeric: tabular-nums; display: flex; flex-wrap: wrap; gap: 2px 10px;
+}
+.readout b { font-weight: 650; }
+.readout .up { color: var(--bull); } .readout .down { color: var(--bear); }
+.chart-svg { display: block; width: 100%; height: auto; touch-action: pan-y; }
+.chart-legend { display: flex; gap: 12px; font-size: 10.5px; color: var(--ink-muted); margin-top: 5px; }
+.chart-legend span { display: inline-flex; align-items: center; gap: 4px; }
+.chart-legend i { width: 12px; height: 0; border-top: 2px solid currentColor; display: inline-block; }
+.chart-note { font-size: 10.5px; color: var(--ink-muted); margin-top: 7px; line-height: 1.5; }
+.chart-loading { font-size: 12px; color: var(--ink-muted); padding: 14px 0; }
+
+/* コンセンサス：4チャンネル分のセルを固定順に並べ、色＝スタンス、文字＝発言者 */
+.consensus { display: grid; grid-template-columns: repeat(4, 1fr); gap: 2px; margin-top: 10px; }
+.cell {
+  height: 26px; border-radius: 5px; display: grid; place-items: center;
+  font-size: 10.5px; font-weight: 650; letter-spacing: .03em;
+  background: var(--track); color: var(--ink-muted);
+}
+.cell.bullish  { background: var(--bull);    color: var(--bull-ink); }
+.cell.bearish  { background: var(--bear);    color: var(--bear-ink); }
+.cell.neutral  { background: var(--neutral); color: var(--neutral-ink); }
+.cell.none     { background: transparent; border: 1px dashed var(--hairline); }
+.tally { display: flex; gap: 10px; margin-top: 8px; font-size: 11.5px; color: var(--ink-2); flex-wrap: wrap; }
+.tally b { font-variant-numeric: tabular-nums; font-weight: 650; }
+.flag {
+  font-size: 10.5px; font-weight: 600; padding: 1px 7px; border-radius: 999px;
+  background: var(--neutral-soft); color: var(--ink-2); border: 1px solid var(--border);
+}
+.hint { font-size: 11px; color: var(--ink-muted); margin-top: 7px; }
+.card[open] .hint { display: none; }
+
+/* ── 展開部：各人の見解 ── */
+.detail { border-top: 1px solid var(--hairline); padding: 4px 14px 14px; }
+.voice { padding: 13px 0; border-bottom: 1px solid var(--hairline); }
+.voice:last-child { border-bottom: 0; padding-bottom: 2px; }
+.voice-head { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+.rail { width: 3px; height: 15px; border-radius: 2px; flex: none; }
+.who { font-size: 13.5px; font-weight: 600; }
+.pill {
+  font-size: 11px; font-weight: 650; padding: 2px 9px; border-radius: 999px; letter-spacing: .02em;
+}
+.pill.bullish { background: var(--bull); color: var(--bull-ink); }
+.pill.bearish { background: var(--bear); color: var(--bear-ink); }
+.pill.neutral { background: var(--neutral); color: var(--neutral-ink); }
+.conf { font-size: 10.5px; color: var(--ink-muted); margin-left: auto; }
+.note { font-size: 13.5px; color: var(--ink); margin: 8px 0 0; }
+.nums { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 9px; }
+.num {
+  background: var(--surface-2); border-radius: 8px; padding: 5px 9px; font-size: 12px;
+  display: flex; align-items: baseline; gap: 6px;
+}
+.num i { font-style: normal; color: var(--ink-muted); font-size: 10.5px; }
+.num b { font-weight: 600; font-variant-numeric: tabular-nums; }
+.reasons { margin: 10px 0 0; padding-left: 17px; }
+.reasons li { font-size: 13px; color: var(--ink-2); margin-bottom: 4px; }
+.src { display: flex; align-items: center; gap: 7px; margin-top: 10px; flex-wrap: wrap; }
+.play {
+  display: inline-flex; align-items: center; gap: 5px; text-decoration: none;
+  font-size: 12px; font-weight: 600; color: var(--ink); background: var(--surface-2);
+  border: 1px solid var(--border); border-radius: 8px; padding: 6px 11px; min-height: 32px;
+}
+.play:active { transform: scale(.97); }
+.src-title { font-size: 11.5px; color: var(--ink-muted); flex: 1 1 140px; min-width: 0;
+  overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+/* ── 動画リスト ── */
+.vcard { background: var(--surface); border: 1px solid var(--border); border-radius: 14px;
+  padding: 13px 14px; margin-bottom: 9px; box-shadow: var(--shadow); }
+.vhead { display: flex; align-items: center; gap: 8px; font-size: 11.5px; color: var(--ink-muted); }
+.vtitle { font-size: 14.5px; font-weight: 600; margin: 6px 0 0; line-height: 1.45; }
+.vtitle a { color: inherit; text-decoration: none; }
+.vtitle a:hover { text-decoration: underline; }
+.vbody { font-size: 13px; color: var(--ink-2); margin: 7px 0 0; }
+.vpicks { display: flex; flex-wrap: wrap; gap: 5px; margin-top: 9px; }
+.vpick { font-size: 11.5px; padding: 2px 8px; border-radius: 999px; border: 1px solid var(--border); }
+.vpick.bullish { background: var(--bull-soft); }
+.vpick.bearish { background: var(--bear-soft); }
+.vpick.neutral { background: var(--neutral-soft); }
+.skip { font-size: 12.5px; color: var(--ink-muted); margin-top: 6px; font-style: normal; }
+
+/* ── テーブルビュー（色に頼らず読むための等価表示） ── */
+.table-wrap { overflow-x: auto; background: var(--surface); border: 1px solid var(--border);
+  border-radius: 14px; box-shadow: var(--shadow); }
+table { border-collapse: collapse; width: 100%; font-size: 12.5px; }
+th, td { padding: 8px 10px; text-align: left; border-bottom: 1px solid var(--hairline); white-space: nowrap; }
+th { font-weight: 600; color: var(--ink-2); background: var(--surface-2); position: sticky; top: 0; }
+td { font-variant-numeric: tabular-nums; }
+tbody tr:last-child td { border-bottom: 0; }
+
+.empty { text-align: center; padding: 46px 20px; color: var(--ink-muted); font-size: 13.5px; }
+.empty strong { display: block; color: var(--ink-2); font-size: 15px; margin-bottom: 6px; font-weight: 600; }
+.count { font-size: 11.5px; color: var(--ink-muted); padding: 2px 2px 9px; }
+
+footer { margin-top: 26px; padding: 16px 0 0; border-top: 1px solid var(--hairline);
+  font-size: 11.5px; color: var(--ink-muted); line-height: 1.7; }
+
+[hidden] { display: none !important; }
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; animation: none !important; } }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wrap head-row">
+    <div class="logo">
+      <span class="logo-mark" id="logoMark" aria-hidden="true"></span>
+      <h1>Time is Money</h1>
+    </div>
+    <span class="updated" id="updated"></span>
+    <button class="icon-btn" id="tableToggle" type="button" aria-pressed="false" title="表で見る" aria-label="表で見る">表</button>
+    <button class="icon-btn" id="themeToggle" type="button" title="配色を切り替える" aria-label="配色を切り替える">◐</button>
+  </div>
+</header>
+
+<main class="wrap">
+  <div class="banner" id="banner" role="status"></div>
+
+  <section class="digest" id="digest" aria-label="今日のポイント"></section>
+
+  <section class="kpi" id="kpi" aria-label="サマリー"></section>
+
+  <div class="filters">
+    <div class="seg" role="tablist" aria-label="表示の切り替え">
+      <button type="button" role="tab" id="tabStocks" aria-selected="true" aria-controls="viewStocks">銘柄で見る</button>
+      <button type="button" role="tab" id="tabVideos" aria-selected="false" aria-controls="viewVideos">動画で見る</button>
+    </div>
+
+    <div class="search" id="searchBox">
+      <input type="search" id="q" placeholder="銘柄名・コード・キーワードで絞り込む" autocomplete="off" aria-label="検索">
+      <button class="clear" id="qClear" type="button" aria-label="検索をクリア">×</button>
+    </div>
+
+    <div class="chips" id="viewChips" role="group" aria-label="絞り込み"></div>
+    <div class="chips" id="chChips" role="group" aria-label="投稿者で絞り込み"></div>
+  </div>
+
+  <div class="legend" id="legend" hidden>
+    <div class="legend-row">
+      <b>色</b>
+      <span><i class="swatch" style="background:var(--bull)"></i>強気</span>
+      <span><i class="swatch" style="background:var(--bear)"></i>弱気</span>
+      <span><i class="swatch" style="background:var(--neutral)"></i>中立</span>
+      <span><i class="swatch" style="border:1px dashed var(--hairline);background:transparent"></i>言及なし</span>
+    </div>
+    <div class="legend-row" id="legendChannels"><b>4マスの並び</b></div>
+  </div>
+
+  <div class="count" id="count"></div>
+
+  <section id="viewStocks" role="tabpanel" aria-labelledby="tabStocks"></section>
+  <section id="viewVideos" role="tabpanel" aria-labelledby="tabVideos" hidden></section>
+  <section id="viewTable" hidden></section>
+
+  <footer>
+    <p>選定した4チャンネルの動画から、AIが字幕をもとに自動で要約しています。要約は誤りを含むことがあります。数値や判断は必ず元動画（各項目の再生ボタン）で確認してください。</p>
+    <p>このアプリは情報整理を目的としたもので、投資助言ではありません。投資判断はご自身の責任でお願いします。</p>
+  </footer>
+</main>
+
+<script>
+(() => {
+'use strict';
+
+const $ = (id) => document.getElementById(id);
+const CH_VAR = { 1: 'var(--ch1)', 2: 'var(--ch2)', 3: 'var(--ch3)', 4: 'var(--ch4)' };
+const STANCE_JA = { bullish: '強気', bearish: '弱気', neutral: '中立' };
+const CONF_JA = { high: 'しっかり解説', medium: '', low: '軽く言及' };
+
+const state = {
+  index: null, videos: null, digest: null,
+  tab: 'stocks', table: false, q: '',
+  filter: 'all', channels: new Set(),
+};
+
+/* ── 小物 ── */
+const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) =>
+  ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+
+function relTime(iso) {
+  if (!iso) return '';
+  const t = new Date(iso);
+  if (isNaN(t)) return '';
+  const min = Math.floor((Date.now() - t) / 60000);
+  if (min < 1) return 'たった今';
+  if (min < 60) return `${min}分前`;
+  const h = Math.floor(min / 60);
+  if (h < 24) return `${h}時間前`;
+  const d = Math.floor(h / 24);
+  if (d < 7) return `${d}日前`;
+  return t.toLocaleDateString('ja-JP', { month: 'numeric', day: 'numeric' });
+}
+
+const ytLink = (id, sec) =>
+  `https://www.youtube.com/watch?v=${encodeURIComponent(id)}${sec > 0 ? `&t=${sec}s` : ''}`;
+
+function showBanner(msg) {
+  const b = $('banner');
+  if (!msg) { b.classList.remove('show'); b.textContent = ''; return; }
+  b.textContent = msg; b.classList.add('show');
+}
+
+/* ── データ読み込み ── */
+async function load() {
+  try {
+    const [a, b, dg] = await Promise.all([
+      fetch('data/index.json', { cache: 'no-cache' }).then((r) => r.ok ? r.json() : Promise.reject(r.status)),
+      fetch('data/videos.json', { cache: 'no-cache' }).then((r) => r.ok ? r.json() : Promise.reject(r.status)),
+      fetch('data/digest.json', { cache: 'no-cache' }).then((r) => r.ok ? r.json() : null).catch(() => null),
+    ]);
+    state.index = a; state.videos = b; state.digest = dg;
+    if (!navigator.onLine) showBanner('オフラインです。保存済みの内容を表示しています。');
+  } catch (err) {
+    state.index = state.index || { stocks: [], channels: [], stats: {} };
+    state.videos = state.videos || { videos: [] };
+    showBanner(navigator.onLine
+      ? 'データを読み込めませんでした。collect.py を実行してデータを作ってください。'
+      : 'オフラインです。まだ保存されたデータがありません。');
+  }
+  renderChrome();
+  render();
+}
+
+/* ── 固定部分 ── */
+function renderChrome() {
+  renderDigest(state.digest);
+  $('logoMark').innerHTML = pigSVG((state.digest && state.digest.mood) || 'neutral', 28, 'logo-pig');
+  const s = state.index.stats || {};
+  $('updated').textContent = state.index.generated_at ? '更新 ' + relTime(state.index.generated_at) : '';
+
+  $('kpi').innerHTML = [
+    ['追跡銘柄', s.stocks ?? 0],
+    ['今週の動画', s.videos_this_week ?? 0],
+    ['強気優勢', s.bullish_lead ?? 0],
+    ['意見が割れ', s.split ?? 0],
+  ].map(([k, v]) => `<div class="tile"><span class="v">${v}</span><span class="k">${k}</span></div>`).join('');
+
+  $('viewChips').innerHTML = [
+    ['all', 'すべて'], ['bull', '強気優勢'], ['split', '意見が割れている'],
+    ['oversold', 'RSI30以下'], ['overbought', 'RSI70以上'], ['volume', '出来高急増'],
+    ['jp', '日本株'], ['us', '米国株'], ['week', '今週'],
+  ].map(([id, label]) =>
+    `<button class="chip" type="button" data-f="${id}" aria-pressed="${state.filter === id}">${label}</button>`
+  ).join('');
+
+  $('legendChannels').innerHTML = '<b>4マスの並び</b>' + (state.index.channels || []).map((c) =>
+    `<span><i class="swatch" style="border-radius:50%;width:9px;height:9px;background:${CH_VAR[c.slot] || 'var(--ch1)'}"></i>` +
+    `<span class="code">${esc(c.short)}</span>${esc(c.name)}</span>`).join('');
+
+  $('chChips').innerHTML = (state.index.channels || []).map((c) =>
+    `<button class="chip" type="button" data-ch="${esc(c.id)}" aria-pressed="${state.channels.has(c.id)}">
+       <i class="dot" style="background:${CH_VAR[c.slot] || 'var(--ch1)'}"></i><span class="code">${esc(c.short)}</span>${esc(c.name)}</button>`
+  ).join('');
+}
+
+/* ── 絞り込み ── */
+const WEEK = 7 * 864e5;
+function within7Days(iso) {
+  const t = Date.parse(iso);
+  return !isNaN(t) && (Date.now() - t) < WEEK;
+}
+
+function filteredStocks() {
+  const q = state.q.trim().toLowerCase();
+  return (state.index.stocks || []).filter((st) => {
+    if (state.channels.size && !st.channel_ids.some((id) => state.channels.has(id))) return false;
+    const c = st.consensus || {};
+    if (state.filter === 'bull' && !(c.bullish > c.bearish)) return false;
+    if (state.filter === 'split' && !st.split) return false;
+    if (state.filter === 'jp' && st.market !== 'JP') return false;
+    if (state.filter === 'us' && st.market !== 'US') return false;
+    if (state.filter === 'week' && !within7Days(st.last_mentioned)) return false;
+    const p = st.price;
+    if (state.filter === 'oversold' && !(p && p.rsi14 !== null && p.rsi14 <= 30)) return false;
+    if (state.filter === 'overbought' && !(p && p.rsi14 !== null && p.rsi14 >= 70)) return false;
+    if (state.filter === 'volume' && !(p && p.volume_ratio && p.volume_ratio >= 1.5)) return false;
+    if (!q) return true;
+    const hay = [st.name, st.ticker,
+      ...(st.mentions || []).flatMap((m) => [m.stance_note, m.video_title, ...(m.reasons || [])])
+    ].join(' ').toLowerCase();
+    return hay.includes(q);
+  });
+}
+
+function filteredVideos() {
+  const q = state.q.trim().toLowerCase();
+  return (state.videos.videos || []).filter((v) => {
+    if (state.channels.size && !state.channels.has(v.channel_id)) return false;
+    if (state.filter === 'week' && !within7Days(v.published)) return false;
+    if (state.filter === 'jp' && v.market === 'US') return false;
+    if (state.filter === 'us' && v.market === 'JP') return false;
+    if (state.filter === 'bull' && !(v.picks || []).some((p) => p.stance === 'bullish')) return false;
+    if (state.filter === 'split') {
+      const st = new Set((v.picks || []).map((p) => p.stance));
+      if (!(st.has('bullish') && st.has('bearish'))) return false;
+    }
+    if (!q) return true;
+    return [v.title, v.overview, v.market_view, ...(v.picks || []).flatMap((p) => [p.name, p.ticker])]
+      .join(' ').toLowerCase().includes(q);
+  });
+}
+
+/* ── 株価の表示 ── */
+function unitOf(p) {
+  if (!p || !p.symbol) return '';
+  if (p.symbol.startsWith('^')) return '';   // 指数は単位を付けない
+  if (p.currency === 'JPY') return '円';
+  if (p.currency === 'USD') return '$';
+  return p.symbol.endsWith('.T') ? '円' : '';
+}
+
+function fmtPrice(v, p) {
+  if (v === null || v === undefined) return '—';
+  const unit = unitOf(p);
+  const digits = Math.abs(v) >= 1000 ? 0 : 2;
+  const n = v.toLocaleString('ja-JP', { minimumFractionDigits: digits, maximumFractionDigits: digits });
+  return unit === '$' ? '$' + n : n + unit;
+}
+
+function fmtVolume(v) {
+  if (!v) return '—';
+  if (v >= 1e8) return (v / 1e8).toFixed(2) + '億';
+  if (v >= 1e4) return Math.round(v / 1e4).toLocaleString('ja-JP') + '万';
+  return v.toLocaleString('ja-JP');
+}
+
+function chgClass(p) { return p > 0 ? 'up' : p < 0 ? 'down' : 'flat'; }
+function chgText(p) {
+  if (p === null || p === undefined) return '';
+  return (p > 0 ? '+' : '') + p.toFixed(2) + '%';
+}
+
+// 単一系列なので凡例は不要。色は系列色ではなく地の文の色を使い、
+// スタンスの赤青と意味が混ざらないようにしている。
+function sparkSVG(values) {
+  if (!values || values.length < 3) return '';
+  const w = 74, h = 24, pad = 2;
+  const min = Math.min(...values), max = Math.max(...values);
+  const span = (max - min) || 1;
+  const pts = values.map((v, i) => {
+    const x = pad + (w - pad * 2) * (i / (values.length - 1));
+    const y = pad + (h - pad * 2) * (1 - (v - min) / span);
+    return `${x.toFixed(1)},${y.toFixed(1)}`;
+  });
+  const [lx, ly] = pts[pts.length - 1].split(',');
+  return `<svg class="spark" width="${w}" height="${h}" viewBox="0 0 ${w} ${h}" aria-hidden="true" focusable="false">
+    <polyline points="${pts.join(' ')}" fill="none" stroke="var(--ink-2)" stroke-width="1.75"
+      stroke-linejoin="round" stroke-linecap="round"/>
+    <circle cx="${lx}" cy="${ly}" r="2.4" fill="var(--ink)"/>
+  </svg>`;
+}
+
+function priceSummary(p) {
+  if (!p) return '';
+  const live = p.live !== null && p.live !== undefined;
+  const shown = live ? p.live : p.close;
+  const chg = live ? p.live_change_pct : p.change_pct;
+  const metrics = [
+    p.trend ? `<span class="metric">${esc(p.trend)}</span>` : '',
+    p.rsi14 !== null && p.rsi14 !== undefined
+      ? `<span class="metric"><i>RSI</i><b>${p.rsi14}</b>${p.rsi_zone && p.rsi_zone !== '中立' ? ' ' + esc(p.rsi_zone) : ''}</span>` : '',
+    p.volume_ratio ? `<span class="metric"><i>出来高</i><b>${p.volume_ratio}</b>倍</span>` : '',
+  ].filter(Boolean).join('');
+
+  return `<div class="pricerow">
+      <span class="px">${fmtPrice(shown, p)}</span>
+      <span class="chg ${chgClass(chg)}">${chgText(chg)}</span>
+      ${live ? '<span class="live">ザラ場</span>' : ''}
+      ${sparkSVG(p.spark)}
+    </div>
+    ${metrics ? `<div class="metrics">${metrics}</div>` : ''}`;
+}
+
+function priceDetail(p) {
+  if (!p) return '';
+  const rsi = p.rsi14;
+  const meter = (rsi === null || rsi === undefined) ? '' : `
+    <div class="rsibar">
+      <div class="cap">RSI(14) <b>${rsi}</b>${p.rsi_zone ? ' · ' + esc(p.rsi_zone) : ''}</div>
+      <div class="track" role="img" aria-label="RSI ${rsi}（30以下で売られすぎ、70以上で買われすぎ）">
+        <div class="fill" style="width:${Math.max(0, Math.min(100, rsi))}%"></div>
+        <div class="tick" style="left:30%"></div>
+        <div class="tick" style="left:70%"></div>
+      </div>
+      <div class="scale"><span>0</span><span>30 売られすぎ</span><span>70 買われすぎ</span><span>100</span></div>
+    </div>`;
+
+  const live = p.live !== null && p.live !== undefined;
+  const rows = [
+    ...(live ? [['現在値（約20分遅れ）', `${fmtPrice(p.live, p)}　${chgText(p.live_change_pct)}`, true]] : []),
+    [live ? '前営業日の終値' : '終値', `${fmtPrice(p.close, p)}　${chgText(p.change_pct)}`, true],
+    ['出来高', p.volume ? fmtVolume(p.volume) + (p.volume_ratio ? `（25日平均の${p.volume_ratio}倍）` : '') : '—', true],
+    ['25日線', fmtPrice(p.ma25, p), false],
+    ['75日線', fmtPrice(p.ma75, p), false],
+    ['52週の高安レンジ内', p.pos52 === null || p.pos52 === undefined ? '—' : p.pos52 + '%', true],
+  ].map(([k, v, wide]) =>
+    `<div${wide ? ' class="wide"' : ''}><span>${k}</span><b>${esc(v)}</b></div>`).join('');
+
+  return `<div class="pxpanel">
+    <h4>株価 <span class="px-stale">${p.market_open
+      ? '取引時間中・指標は' + esc(p.date || '') + 'の終値まで'
+      : esc(p.date || '') + ' 終値時点'}</span></h4>
+    <div class="pxgrid">${rows}</div>
+    ${meter}
+  </div>`;
+}
+
+/* ── 金のブタさん（案内役）──
+   相場の空気に合わせて表情が変わる。装飾なので配色ルールの対象外。 */
+let pigSeq = 0;
+function pigSVG(mood, size, cls) {
+  const uid = ++pigSeq;
+  const happy = mood === 'bullish', worried = mood === 'bearish';
+  const eyes = happy
+    ? `<path d="M31 46q4.5 -5 9 0" stroke="#5a3a12" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+       <path d="M60 46q4.5 -5 9 0" stroke="#5a3a12" stroke-width="2.6" fill="none" stroke-linecap="round"/>`
+    : worried
+    ? `<circle cx="35.5" cy="48" r="2.9" fill="#5a3a12"/><circle cx="64.5" cy="48" r="2.9" fill="#5a3a12"/>
+       <path d="M29 41.5q6 -3.5 11 -.5" stroke="#5a3a12" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+       <path d="M71 41.5q-6 -3.5 -11 -.5" stroke="#5a3a12" stroke-width="2.2" fill="none" stroke-linecap="round"/>`
+    : `<circle cx="35.5" cy="47" r="3.1" fill="#5a3a12"/><circle cx="64.5" cy="47" r="3.1" fill="#5a3a12"/>
+       <circle cx="36.6" cy="45.9" r="1.05" fill="#fff" opacity=".9"/>
+       <circle cx="65.6" cy="45.9" r="1.05" fill="#fff" opacity=".9"/>`;
+  const mouth = happy
+    ? `<path d="M44 68.5q6 4.5 12 0" stroke="#5a3a12" stroke-width="2.1" fill="none" stroke-linecap="round"/>`
+    : worried
+    ? `<path d="M45 70q5 -3 10 0" stroke="#5a3a12" stroke-width="2" fill="none" stroke-linecap="round"/>` : '';
+  const g = `p${mood}${uid}`;
+  return `<svg class="${cls || 'dg-pig'}" width="${size}" height="${size}" viewBox="0 0 100 100" role="img"
+      aria-label="金のブタの案内役（${happy ? '機嫌がよい' : worried ? '心配そう' : '落ち着いた'}表情）">
+  <defs>
+    <linearGradient id="body${g}" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffe08a"/><stop offset=".45" stop-color="#f5c53d"/><stop offset="1" stop-color="#d99a1e"/>
+    </linearGradient>
+    <linearGradient id="ear${g}" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffd98f"/><stop offset="1" stop-color="#efb43a"/>
+    </linearGradient>
+    <radialGradient id="coin${g}" cx=".35" cy=".3">
+      <stop offset="0" stop-color="#fff3c4"/><stop offset="1" stop-color="#e8b530"/>
+    </radialGradient>
+  </defs>
+  ${happy ? `<g opacity=".9">
+    <path d="M14 24l1.6 4.2 4.2 1.6-4.2 1.6L14 35.6l-1.6-4.2-4.2-1.6 4.2-1.6z" fill="#ffd86b"/>
+    <path d="M86 34l1.2 3.1 3.1 1.2-3.1 1.2-1.2 3.1-1.2-3.1-3.1-1.2 3.1-1.2z" fill="#ffd86b"/>
+    <path d="M79 14l1 2.6 2.6 1-2.6 1-1 2.6-1-2.6-2.6-1 2.6-1z" fill="#ffe9a3"/></g>` : ''}
+  <g transform="translate(0,3)">
+    <circle cx="50" cy="17" r="9.5" fill="url(#coin${g})" stroke="#c8931f" stroke-width="1.2"/>
+    <text x="50" y="21.5" font-size="11" font-weight="700" text-anchor="middle" fill="#a8760f"
+      font-family="system-ui, sans-serif">¥</text>
+  </g>
+  <ellipse cx="50" cy="88" rx="26" ry="4" fill="#000" opacity=".18"/>
+  <path d="M27 40q-4-10 1-13 5-3 11 5z" fill="url(#ear${g})" stroke="#c8931f" stroke-width="1"/>
+  <path d="M73 40q4-10-1-13-5-3-11 5z" fill="url(#ear${g})" stroke="#c8931f" stroke-width="1"/>
+  <rect x="30" y="76" width="10" height="10" rx="4" fill="#e0a72a"/>
+  <rect x="60" y="76" width="10" height="10" rx="4" fill="#e0a72a"/>
+  <ellipse cx="50" cy="57" rx="34" ry="27" fill="url(#body${g})"/>
+  <rect x="40" y="32.5" width="20" height="4.6" rx="2.3" fill="#a8760f" opacity=".8"/>
+  <ellipse cx="26" cy="60" rx="5.2" ry="3.4" fill="#f58aa0" opacity=".45"/>
+  <ellipse cx="74" cy="60" rx="5.2" ry="3.4" fill="#f58aa0" opacity=".45"/>
+  ${eyes}
+  <ellipse cx="50" cy="62" rx="12.5" ry="9.5" fill="#ffcf6b" stroke="#d9a12b" stroke-width="1.1"/>
+  <ellipse cx="45.4" cy="62" rx="2.1" ry="2.9" fill="#b5801a"/>
+  <ellipse cx="54.6" cy="62" rx="2.1" ry="2.9" fill="#b5801a"/>
+  ${mouth}
+  <path d="M84 62q6 2 4 7" stroke="#e0a72a" stroke-width="2.4" fill="none" stroke-linecap="round"/>
+</svg>`;
+}
+
+const MOOD_JA = { bullish: '前向きな空気', bearish: '慎重な空気', neutral: '様子見の空気' };
+
+function renderDigest(dg) {
+  const host = $('digest');
+  if (!dg || !dg.headline) { host.classList.remove('show'); return; }
+  const points = (dg.watch_points || []).map((t) => `<li>${esc(t)}</li>`).join('');
+  const n = (dg.based_on || []).length;
+  host.innerHTML = `
+    <div class="dg-head">
+      ${pigSVG(dg.mood || 'neutral', 62)}
+      <div>
+        <div class="dg-title">今日のポイント・${esc(MOOD_JA[dg.mood] || MOOD_JA.neutral)}</div>
+        <div class="dg-headline">${esc(dg.headline)}</div>
+      </div>
+    </div>
+    ${dg.trend ? `<p class="dg-trend">${esc(dg.trend)}</p>` : ''}
+    ${points ? `<div class="dg-points">
+        <h3>チャートのどこを見るか</h3>
+        <ol>${points}</ol>
+      </div>` : ''}
+    ${dg.consensus ? `<p class="dg-consensus"><b>4人の見方</b>　${esc(dg.consensus)}</p>` : ''}
+    <p class="dg-foot">直近${n}本の動画からAIが自動でまとめています・${relTime(dg.generated_at)}</p>
+  `;
+  host.classList.add('show');
+}
+
+/* ── チャート ──
+   ローソク足は日本式（陽線=赤 / 陰線=青）。移動平均は地の文の色にして、
+   スタンスの赤青と意味が混ざらないようにしている。 */
+const charts = { data: null, loading: null };
+
+async function loadCharts() {
+  if (charts.data) return charts.data;
+  if (!charts.loading) {
+    charts.loading = fetch('data/charts.json', { cache: 'no-cache' })
+      .then((r) => (r.ok ? r.json() : { charts: {} }))
+      .catch(() => ({ charts: {} }))
+      .then((j) => { charts.data = j.charts || {}; return charts.data; });
+  }
+  return charts.loading;
+}
+
+function candleSVG(ch, span, p) {
+  const n = Math.min(span, ch.c.length);
+  const s = ch.c.length - n;
+  const c = ch.c.slice(s), h = ch.h.slice(s), l = ch.l.slice(s), o = ch.o.slice(s);
+  const v = ch.v.slice(s), d = ch.d.slice(s);
+  const ma25 = (ch.ma25 || []).slice(s), ma75 = (ch.ma75 || []).slice(s);
+
+  const W = 320, H = 186, padL = 2, padR = 40, top = 6, priceH = 122, volTop = 140, volH = 40;
+  const plotW = W - padL - padR;
+  const step = plotW / n;
+
+  const lows = l.filter((x) => x != null), highs = h.filter((x) => x != null);
+  const mas = [...ma25, ...ma75].filter((x) => x != null);
+  let min = Math.min(...lows, ...mas), max = Math.max(...highs, ...mas);
+  const pad = (max - min) * 0.06 || 1;
+  min -= pad; max += pad;
+  const y = (val) => top + priceH * (1 - (val - min) / (max - min));
+  const x = (i) => padL + step * (i + 0.5);
+
+  const bw = Math.max(1.2, Math.min(7, step * 0.62));
+  let candles = '';
+  for (let i = 0; i < n; i++) {
+    if (c[i] == null) continue;
+    const up = c[i] >= o[i];
+    const col = up ? 'var(--bull)' : 'var(--bear)';
+    const yo = y(o[i]), yc = y(c[i]);
+    const bodyTop = Math.min(yo, yc);
+    const bodyH = Math.max(1, Math.abs(yc - yo));
+    candles += `<line x1="${x(i).toFixed(1)}" y1="${y(h[i]).toFixed(1)}" x2="${x(i).toFixed(1)}" y2="${y(l[i]).toFixed(1)}" stroke="${col}" stroke-width="1"/>`
+      + `<rect x="${(x(i) - bw / 2).toFixed(1)}" y="${bodyTop.toFixed(1)}" width="${bw.toFixed(1)}" height="${bodyH.toFixed(1)}" fill="${col}"/>`;
+  }
+
+  const line = (arr, color, dash) => {
+    const pts = [];
+    arr.forEach((val, i) => { if (val != null) pts.push(`${x(i).toFixed(1)},${y(val).toFixed(1)}`); });
+    return pts.length > 1
+      ? `<polyline points="${pts.join(' ')}" fill="none" stroke="${color}" stroke-width="1.6" stroke-linejoin="round"${dash ? ` stroke-dasharray="${dash}"` : ''}/>` : '';
+  };
+
+  const maxV = Math.max(...v.filter(Boolean), 1);
+  let vols = '';
+  for (let i = 0; i < n; i++) {
+    const vh = Math.max(0.6, (v[i] / maxV) * volH);
+    vols += `<rect x="${(x(i) - bw / 2).toFixed(1)}" y="${(volTop + volH - vh).toFixed(1)}" width="${bw.toFixed(1)}" height="${vh.toFixed(1)}" fill="var(--ink-muted)" opacity="0.5"/>`;
+  }
+
+  // 右端の価格目盛（3本だけ）
+  let ticks = '';
+  [max - pad, (max + min) / 2, min + pad].forEach((val) => {
+    ticks += `<line x1="${padL}" y1="${y(val).toFixed(1)}" x2="${(W - padR).toFixed(1)}" y2="${y(val).toFixed(1)}" stroke="var(--hairline)" stroke-width="0.6"/>`
+      + `<text x="${(W - padR + 3).toFixed(1)}" y="${(y(val) + 3).toFixed(1)}" font-size="8.5" fill="var(--ink-muted)">${fmtPrice(Math.round(val * 100) / 100, p)}</text>`;
+  });
+
+  return `<svg class="chart-svg" viewBox="0 0 ${W} ${H}" role="img"
+      aria-label="${esc(d[0])}から${esc(d[n - 1])}までの日足チャートと出来高">
+    ${ticks}${vols}${candles}
+    ${line(ma75, 'var(--ink-muted)')}${line(ma25, 'var(--ink-2)')}
+    <text x="${padL}" y="${H - 2}" font-size="8.5" fill="var(--ink-muted)">${esc(d[0])}</text>
+    <text x="${(W - padR).toFixed(1)}" y="${H - 2}" font-size="8.5" fill="var(--ink-muted)" text-anchor="end">${esc(d[n - 1])}</text>
+    <rect class="hit" x="0" y="0" width="${W}" height="${H}" fill="transparent"/>
+  </svg>`;
+}
+
+function profileSVG(pr, p, last) {
+  const b = pr.buckets, n = b.length;
+  const W = 320, H = 132, padR = 46, barH = H / n;
+  const maxV = Math.max(...b, 1);
+  const span = pr.high - pr.low;
+  const priceAt = (i) => pr.low + (span * (i + 0.5)) / n;
+  const pocIdx = b.indexOf(maxV);
+
+  let bars = '';
+  for (let i = 0; i < n; i++) {
+    const w = Math.max(0.8, (b[i] / maxV) * (W - padR));
+    const yTop = H - barH * (i + 1) + 0.6;
+    const inVA = priceAt(i) >= pr.va_low && priceAt(i) <= pr.va_high;
+    const col = i === pocIdx ? 'var(--ink)' : (inVA ? 'var(--ink-2)' : 'var(--ink-muted)');
+    const op = i === pocIdx ? 1 : (inVA ? 0.72 : 0.38);
+    bars += `<rect x="0" y="${yTop.toFixed(1)}" width="${w.toFixed(1)}" height="${Math.max(1, barH - 1.2).toFixed(1)}" rx="1.5" fill="${col}" opacity="${op}"/>`;
+  }
+
+  const yOf = (price) => H - H * ((price - pr.low) / span);
+  let marks = '';
+  if (last != null && last >= pr.low && last <= pr.high) {
+    marks += `<line x1="0" y1="${yOf(last).toFixed(1)}" x2="${W - padR}" y2="${yOf(last).toFixed(1)}" stroke="var(--bull)" stroke-width="1.4"/>`
+      + `<text x="${W - padR + 3}" y="${(yOf(last) + 3).toFixed(1)}" font-size="8.5" fill="var(--bull)">現在 ${fmtPrice(last, p)}</text>`;
+  }
+  marks += `<text x="${W - padR + 3}" y="${(yOf(pr.poc) + 3).toFixed(1)}" font-size="8.5" fill="var(--ink)">最多 ${fmtPrice(pr.poc, p)}</text>`;
+
+  return `<svg class="chart-svg" viewBox="0 0 ${W} ${H}" role="img"
+      aria-label="価格帯別出来高。最も商いが多い価格帯は${fmtPrice(pr.poc, p)}、
+        ${fmtPrice(pr.va_low, p)}から${fmtPrice(pr.va_high, p)}の範囲に出来高の7割が集中">
+    ${bars}${marks}
+  </svg>`;
+}
+
+function renderChart(host, entry, price, span) {
+  if (!entry || !entry.daily) {
+    host.innerHTML = '<div class="chart-loading">この銘柄のチャートはまだありません。</div>';
+    return;
+  }
+  const p = price || {};
+  const pr = entry.profile;
+  host.innerHTML = `
+    <div class="chart-head">
+      <h4>チャート</h4>
+      <div class="range" role="group" aria-label="表示期間">
+        <button type="button" data-span="60" aria-pressed="${span === 60}">3か月</button>
+        <button type="button" data-span="120" aria-pressed="${span === 120}">6か月</button>
+      </div>
+    </div>
+    <div class="readout" data-readout>タップすると各日の値が出ます</div>
+    ${candleSVG(entry.daily, span, p)}
+    <div class="chart-legend">
+      <span style="color:var(--ink-2)"><i></i>25日線</span>
+      <span style="color:var(--ink-muted)"><i></i>75日線</span>
+      <span>陽線 <i class="swatch" style="background:var(--bull);width:9px;height:9px;border-radius:2px"></i></span>
+      <span>陰線 <i class="swatch" style="background:var(--bear);width:9px;height:9px;border-radius:2px"></i></span>
+    </div>
+    ${pr ? `
+      <div class="chart-head" style="margin-top:14px">
+        <h4>価格帯別出来高（直近${entry.profile_days || 5}営業日）</h4>
+      </div>
+      ${profileSVG(pr, p, p.close)}
+      <p class="chart-note">
+        いちばん商いが多かったのは <b>${fmtPrice(pr.poc, p)}</b> 付近です。
+        <b>${fmtPrice(pr.va_low, p)}〜${fmtPrice(pr.va_high, p)}</b> の範囲で出来高の約7割が成立しました。
+        この帯は支持線・抵抗線として意識されやすい水準です。
+      </p>` : ''}
+  `;
+
+  // 期間の切り替え
+  host.querySelectorAll('[data-span]').forEach((btn) => {
+    btn.addEventListener('click', () => renderChart(host, entry, price, Number(btn.dataset.span)));
+  });
+
+  // タップ／ホバーでその日の値を表示
+  const svg = host.querySelector('svg.chart-svg');
+  const out = host.querySelector('[data-readout]');
+  const ch = entry.daily;
+  const n = Math.min(span, ch.c.length), off = ch.c.length - n;
+  const show = (ev) => {
+    const box = svg.getBoundingClientRect();
+    const cx = (ev.touches ? ev.touches[0].clientX : ev.clientX) - box.left;
+    const i = Math.max(0, Math.min(n - 1, Math.floor((cx / box.width) * 320 / ((320 - 42) / n))));
+    const k = off + i;
+    if (ch.c[k] == null) return;
+    const up = ch.c[k] >= ch.o[k];
+    out.innerHTML = `<b>${esc(ch.d[k])}</b>`
+      + `<span>始 ${fmtPrice(ch.o[k], p)}</span><span>高 ${fmtPrice(ch.h[k], p)}</span>`
+      + `<span>安 ${fmtPrice(ch.l[k], p)}</span>`
+      + `<span class="${up ? 'up' : 'down'}">終 <b>${fmtPrice(ch.c[k], p)}</b></span>`
+      + `<span>出来高 ${fmtVolume(ch.v[k])}</span>`;
+  };
+  svg.addEventListener('pointermove', show);
+  svg.addEventListener('pointerdown', show);
+}
+
+/* ── 銘柄カード ── */
+function consensusCells(stock) {
+  const byChannel = new Map();
+  (stock.mentions || []).forEach((m) => { if (!byChannel.has(m.channel_id)) byChannel.set(m.channel_id, m); });
+  return (state.index.channels || []).map((c) => {
+    const m = byChannel.get(c.id);
+    const cls = m ? m.stance : 'none';
+    const label = m ? `${c.name}は${STANCE_JA[m.stance]}` : `${c.name}は言及なし`;
+    return `<div class="cell ${cls}" title="${esc(label)}" aria-label="${esc(label)}">${esc(c.short)}</div>`;
+  }).join('');
+}
+
+function stockCard(st) {
+  const c = st.consensus || { bullish: 0, bearish: 0, neutral: 0 };
+  const tally = [
+    c.bullish ? `<span>強気 <b>${c.bullish}</b></span>` : '',
+    c.bearish ? `<span>弱気 <b>${c.bearish}</b></span>` : '',
+    c.neutral ? `<span>中立 <b>${c.neutral}</b></span>` : '',
+    st.split ? '<span class="flag">意見が割れています</span>' : '',
+    st.voices >= 3 && !st.split ? '<span class="flag">注目度が高い</span>' : '',
+  ].filter(Boolean).join('');
+
+  const voices = (st.mentions || []).map((m) => {
+    const nums = [
+      m.target_price ? ['目標', m.target_price] : null,
+      m.entry ? ['買い場', m.entry] : null,
+      m.stop ? ['損切り', m.stop] : null,
+    ].filter(Boolean).map(([k, v]) => `<span class="num"><i>${k}</i><b>${esc(v)}</b></span>`).join('');
+
+    const reasons = (m.reasons || []).length
+      ? `<ul class="reasons">${m.reasons.map((r) => `<li>${esc(r)}</li>`).join('')}</ul>` : '';
+    const conf = CONF_JA[m.confidence] ? `<span class="conf">${CONF_JA[m.confidence]}</span>` : '';
+
+    return `<div class="voice">
+      <div class="voice-head">
+        <i class="rail" style="background:${CH_VAR[m.slot] || 'var(--ch1)'}"></i>
+        <span class="who">${esc(m.channel_name)}</span>
+        <span class="pill ${m.stance}">${STANCE_JA[m.stance]}</span>${conf}
+      </div>
+      ${m.stance_note ? `<p class="note">${esc(m.stance_note)}</p>` : ''}
+      ${nums ? `<div class="nums">${nums}</div>` : ''}
+      ${reasons}
+      <div class="src">
+        <a class="play" href="${ytLink(m.video_id, m.seconds)}" target="_blank" rel="noopener">
+          ▶ ${m.timestamp ? esc(m.timestamp) + ' から' : '動画を見る'}</a>
+        <span class="src-title">${esc(m.video_title)}・${relTime(m.published)}</span>
+      </div>
+    </div>`;
+  }).join('');
+
+  return `<details class="card" data-key="${esc(st.key)}">
+    <summary>
+      <div class="card-top">
+        <span class="stock-name">${esc(st.name)}</span>
+        ${st.ticker ? `<span class="ticker">${esc(st.ticker)}</span>` : ''}
+        ${st.market && st.market !== 'OTHER' ? `<span class="mkt">${st.market === 'JP' ? '日本株' : '米国株'}</span>` : ''}
+        <span class="when">${relTime(st.last_mentioned)}</span>
+      </div>
+      ${priceSummary(st.price)}
+      <div class="consensus" role="img" aria-label="4人のスタンス：${esc((st.mentions || []).map((m) => m.channel_name + 'は' + STANCE_JA[m.stance]).join('、')) || 'なし'}">
+        ${consensusCells(st)}
+      </div>
+      <div class="tally">${tally}</div>
+      <div class="hint">タップすると ${st.voices} 人分の見解を表示</div>
+    </summary>
+    <div class="detail">
+      ${priceDetail(st.price)}
+      ${st.price ? '<div class="chartbox" data-chart><div class="chart-loading">チャートを読み込み中…</div></div>' : ''}
+      ${voices}
+    </div>
+  </details>`;
+}
+
+/* ── 動画カード ── */
+function videoCard(v) {
+  const picks = (v.picks || []).map((p) =>
+    `<span class="vpick ${p.stance}">${esc(p.name)}${p.ticker ? ' ' + esc(p.ticker) : ''}</span>`).join('');
+  return `<article class="vcard">
+    <div class="vhead">
+      <i class="swatch" style="background:${CH_VAR[v.slot] || 'var(--ch1)'};width:9px;height:9px;border-radius:50%"></i>
+      <span>${esc(v.channel_name)}</span><span>・</span><span>${relTime(v.published)}</span>
+    </div>
+    <h3 class="vtitle"><a href="${ytLink(v.video_id, 0)}" target="_blank" rel="noopener">${esc(v.title)}</a></h3>
+    ${v.no_transcript
+      ? `<p class="skip">— ${esc(v.skip_reason || '字幕が無いため要約できませんでした')}</p>`
+      : `${v.overview ? `<p class="vbody">${esc(v.overview)}</p>` : ''}
+         ${v.market_view ? `<p class="vbody"><strong>相場観:</strong> ${esc(v.market_view)}</p>` : ''}
+         ${picks ? `<div class="vpicks">${picks}</div>` : '<p class="skip">— 個別銘柄の言及はありませんでした</p>'}`}
+  </article>`;
+}
+
+/* ── テーブルビュー ── */
+function tableView(rows) {
+  if (!rows.length) return emptyState();
+  const chans = state.index.channels || [];
+  return `<div class="table-wrap"><table>
+    <caption class="empty" style="display:none">銘柄ごとの各チャンネルのスタンス</caption>
+    <thead><tr><th>銘柄</th><th>コード</th>${chans.map((c) => `<th>${esc(c.name)}</th>`).join('')}
+      <th>終値</th><th>前日比</th><th>RSI</th><th>出来高比</th><th>最終言及</th></tr></thead>
+    <tbody>${rows.map((st) => {
+      const by = new Map();
+      (st.mentions || []).forEach((m) => { if (!by.has(m.channel_id)) by.set(m.channel_id, m); });
+      const p = st.price || {};
+      return `<tr><td>${esc(st.name)}</td><td>${esc(st.ticker || '—')}</td>` +
+        chans.map((c) => `<td>${by.has(c.id) ? STANCE_JA[by.get(c.id).stance] : '—'}</td>`).join('') +
+        `<td>${p.close !== undefined ? esc(fmtPrice(p.live != null ? p.live : p.close, p)) : '—'}</td>` +
+        `<td>${(p.live_change_pct != null || p.change_pct != null)
+            ? esc(chgText(p.live_change_pct != null ? p.live_change_pct : p.change_pct)) : '—'}</td>` +
+        `<td>${p.rsi14 !== undefined && p.rsi14 !== null ? p.rsi14 : '—'}</td>` +
+        `<td>${p.volume_ratio ? p.volume_ratio + '倍' : '—'}</td>` +
+        `<td>${relTime(st.last_mentioned)}</td></tr>`;
+    }).join('')}</tbody></table></div>`;
+}
+
+function emptyState() {
+  const hasData = (state.index.stocks || []).length || (state.videos.videos || []).length;
+  return `<div class="empty"><strong>${hasData ? '条件に合うものがありません' : 'まだデータがありません'}</strong>
+    ${hasData ? '検索やフィルタを外してみてください。' : 'PCで collect.py を実行すると、ここに要約が並びます。'}</div>`;
+}
+
+/* ── 描画 ── */
+function render() {
+  const stocksView = state.tab === 'stocks';
+  $('legend').hidden = !stocksView || state.table;
+  $('viewStocks').hidden = !(stocksView && !state.table);
+  $('viewTable').hidden = !(stocksView && state.table);
+  $('viewVideos').hidden = stocksView;
+  $('tableToggle').hidden = !stocksView;
+
+  if (stocksView) {
+    const rows = filteredStocks();
+    $('count').textContent = rows.length ? `${rows.length} 銘柄` : '';
+    if (state.table) $('viewTable').innerHTML = tableView(rows);
+    else $('viewStocks').innerHTML = rows.length ? rows.map(stockCard).join('') : emptyState();
+  } else {
+    const rows = filteredVideos();
+    $('count').textContent = rows.length ? `${rows.length} 本` : '';
+    $('viewVideos').innerHTML = rows.length ? rows.map(videoCard).join('') : emptyState();
+  }
+}
+
+/* ── イベント ── */
+$('tabStocks').addEventListener('click', () => setTab('stocks'));
+$('tabVideos').addEventListener('click', () => setTab('videos'));
+function setTab(t) {
+  state.tab = t;
+  $('tabStocks').setAttribute('aria-selected', String(t === 'stocks'));
+  $('tabVideos').setAttribute('aria-selected', String(t === 'videos'));
+  render();
+}
+
+let qTimer;
+$('q').addEventListener('input', (e) => {
+  state.q = e.target.value;
+  $('searchBox').classList.toggle('has', !!state.q);
+  clearTimeout(qTimer);
+  qTimer = setTimeout(render, 140);
+});
+$('qClear').addEventListener('click', () => {
+  state.q = ''; $('q').value = ''; $('searchBox').classList.remove('has'); render();
+});
+
+$('viewChips').addEventListener('click', (e) => {
+  const btn = e.target.closest('[data-f]');
+  if (!btn) return;
+  state.filter = btn.dataset.f;
+  [...$('viewChips').children].forEach((c) => c.setAttribute('aria-pressed', String(c === btn)));
+  render();
+});
+
+$('chChips').addEventListener('click', (e) => {
+  const btn = e.target.closest('[data-ch]');
+  if (!btn) return;
+  const id = btn.dataset.ch;
+  if (state.channels.has(id)) state.channels.delete(id); else state.channels.add(id);
+  btn.setAttribute('aria-pressed', String(state.channels.has(id)));
+  render();
+});
+
+$('tableToggle').addEventListener('click', (e) => {
+  state.table = !state.table;
+  e.currentTarget.setAttribute('aria-pressed', String(state.table));
+  render();
+});
+
+// カードを開いたときにチャートを読み込む（一覧の表示を軽く保つため後回しにしている）
+document.addEventListener('toggle', (e) => {
+  const card = e.target;
+  if (!(card instanceof HTMLDetailsElement) || !card.open || !card.dataset.key) return;
+  const host = card.querySelector('[data-chart]');
+  if (!host || host.dataset.done) return;
+  host.dataset.done = '1';
+  const stock = (state.index.stocks || []).find((s) => s.key === card.dataset.key);
+  loadCharts().then((all) => renderChart(host, all[card.dataset.key], stock && stock.price, 60));
+}, true);
+
+$('themeToggle').addEventListener('click', () => {
+  const cur = document.documentElement.dataset.theme;
+  const prefersDark = matchMedia('(prefers-color-scheme: dark)').matches;
+  const next = cur ? (cur === 'dark' ? 'light' : '') : (prefersDark ? 'light' : 'dark');
+  document.documentElement.dataset.theme = next;
+});
+
+addEventListener('online', () => { showBanner(''); load(); });
+addEventListener('offline', () => showBanner('オフラインです。保存済みの内容を表示しています。'));
+document.addEventListener('visibilitychange', () => { if (!document.hidden && navigator.onLine) load(); });
+
+load();
+
+if ('serviceWorker' in navigator) {
+  addEventListener('load', () => {
+    navigator.serviceWorker.register('sw.js').then((reg) => {
+      // 新しい版が用意できたら、次の操作を待たずに切り替える
+      reg.addEventListener('updatefound', () => {
+        const sw = reg.installing;
+        if (!sw) return;
+        sw.addEventListener('statechange', () => {
+          if (sw.state === 'installed' && navigator.serviceWorker.controller) location.reload();
+        });
+      });
+      reg.update();
+    }).catch(() => {});
+  });
+}
+})();
+</script>
+</body>
+</html>

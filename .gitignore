@@ -1,0 +1,11 @@
+# APIキー。絶対にコミットしない
+.env
+
+.venv/
+__pycache__/
+*.pyc
+logs/
+state.json
+*.tmp
+.DS_Store
+Thumbs.db
