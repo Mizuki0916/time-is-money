@@ -922,7 +922,10 @@ def _run() -> int:
         return 1
 
     if args.refresh_prices:
-        cfg["price_refresh_hours"] = 0      # キャッシュを無視して全部取り直す
+        # 3つとも 0 にしないと、取引時間中は20分間隔の方が優先されて取り直されない
+        cfg["price_refresh_hours"] = 0
+        cfg["price_refresh_minutes_open"] = 0
+        cfg["profile_refresh_hours"] = 0
         log("  株価は保存済みを使わず取り直します")
 
     llm_cfg = cfg.get("llm", {})
