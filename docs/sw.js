@@ -3,7 +3,7 @@
    ・アイコン等の変わらないファイルだけキャッシュ優先。
    ・圏外のときは最後に取得した内容を表示する。 */
 
-const VERSION = 'v26';
+const VERSION = 'v27';
 const SHELL = `shell-${VERSION}`;
 const DATA = `data-${VERSION}`;
 

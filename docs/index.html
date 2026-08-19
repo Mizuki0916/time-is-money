@@ -237,7 +237,7 @@ header {
 .when { margin-left: auto; font-size: 11px; color: var(--ink-muted); white-space: nowrap; }
 
 /* ── 株価 ── */
-.pricerow { display: flex; align-items: center; gap: 9px; margin-top: 9px; }
+.pricerow { display: flex; align-items: center; gap: 9px; margin-top: 9px; flex-wrap: wrap; }
 .px { font-size: 19px; font-weight: 650; letter-spacing: -.01em; line-height: 1.1; }
 .chg { font-size: 13px; font-weight: 650; font-variant-numeric: tabular-nums; }
 .chg.up { color: var(--bull); } .chg.down { color: var(--bear); } .chg.flat { color: var(--ink-muted); }
@@ -482,6 +482,14 @@ function relTime(iso) {
   return t.toLocaleDateString('ja-JP', { month: 'numeric', day: 'numeric' });
 }
 
+/** UNIX秒 → 「13:52」。株価が何時時点の値かを出すため。 */
+function clockTime(sec) {
+  if (!sec) return '';
+  const t = new Date(sec * 1000);
+  if (isNaN(t)) return '';
+  return t.toLocaleTimeString('ja-JP', { hour: '2-digit', minute: '2-digit' });
+}
+
 const ytLink = (id, sec) =>
   `https://www.youtube.com/watch?v=${encodeURIComponent(id)}${sec > 0 ? `&t=${sec}s` : ''}`;
 
@@ -654,10 +662,11 @@ function priceSummary(p) {
   ].filter(Boolean).join('');
 
   // 株価そのものの鮮度。動画の言及時刻と混同しないよう、値のとなりに出す。
-  // 取引時間中は「いつ時点の値か」、閉まっているときは「いつの終値か」。
+  // 取引時間中は「何時時点の値か＋遅れ」、閉まっているときは「いつの終値か」。
   let when = '';
   if (live && p.live_time) {
-    when = `<span class="pxwhen" title="この株価の時点（Yahooのデータは約20分遅れ）">${relTime(p.live_time)}</span>`;
+    when = `<span class="pxwhen" title="この株価の時点。無料のデータ源のため約20分遅れます">`
+         + `${clockTime(p.live_time)}時点・約20分遅れ</span>`;
   } else if (p.date) {
     const [, mm, dd] = p.date.split('-');
     when = `<span class="pxwhen" title="この株価の時点">${+mm}/${+dd} 終値</span>`;
@@ -1024,7 +1033,7 @@ function stockCard(st) {
         <span class="stock-name">${esc(st.name)}</span>
         ${st.ticker ? `<span class="ticker">${esc(st.ticker)}</span>` : ''}
         ${st.market && st.market !== 'OTHER' ? `<span class="mkt">${st.market === 'JP' ? '日本株' : '米国株'}</span>` : ''}
-        <span class="when" title="この銘柄が動画で最後に取り上げられた時刻">言及 ${relTime(st.last_mentioned)}</span>
+        <span class="when" title="この銘柄が動画で最後に取り上げられた時刻">動画 ${relTime(st.last_mentioned)}</span>
       </div>
       ${priceSummary(st.price)}
       <div class="consensus" role="img" aria-label="4人のスタンス：${esc((st.mentions || []).map((m) => m.channel_name + 'は' + STANCE_JA[m.stance]).join('、')) || 'なし'}">
