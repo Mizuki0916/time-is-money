@@ -1,0 +1,56 @@
+# Yahooの株価APIが GitHub の実行環境（データセンターIP）から使えるかを確かめるだけの検証用。
+# 手動でしか動きません。結果を見てから本番用のワークフローを入れます。
+name: Yahoo疎通チェック
+
+on:
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 必要なものだけ入れる
+        run: pip install requests
+
+      - name: Yahooから株価が取れるか確認
+        run: |
+          python - <<'PY'
+          import sys, time
+          sys.path.insert(0, "scripts")
+          import requests, prices
+
+          # 日本株・米国株・指数・為替をひと通り
+          targets = [("トヨタ", "7203", "JP"), ("キオクシア", "", "JP"),
+                     ("エヌビディア", "NVDA", "US"), ("日経平均", "", "JP"),
+                     ("ドル円", "", "OTHER")]
+          overrides = {prices.normalize_key("キオクシア"): "285A.T"}
+
+          s = requests.Session()
+          ok = fail = 0
+          for name, ticker, market in targets:
+              syms = prices.resolve_symbols(name, ticker, market, overrides)
+              if not syms:
+                  print(f"  - {name}: シンボル不明"); fail += 1; continue
+              rows, meta, why = prices.fetch_yahoo(syms[0], s)
+              if rows:
+                  last = rows[-1]
+                  print(f"  OK {name} ({syms[0]}): {last['date']} 終値 {last['close']} "
+                        f"/ 日足 {len(rows)}本 / 現在値 {meta.get('regularMarketPrice')}")
+                  ok += 1
+              else:
+                  print(f"  NG {name} ({syms[0]}): {why}"); fail += 1
+              time.sleep(2)
+
+          # 価格帯別出来高に使う分足も試す（こちらの方が弾かれやすい）
+          bars, why = prices.fetch_intraday("7203.T", s, 5)
+          print(f"  分足: {len(bars) if bars else 0} 本" + (f" / {why}" if not bars else ""))
+
+          print(f"\n結果: 成功 {ok} / 失敗 {fail}")
+          sys.exit(1 if fail else 0)
+          PY
