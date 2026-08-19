@@ -191,6 +191,7 @@ GIT_AUTO_PUSH=1
 .\run.ps1 --dry-run                    # AIを呼ばず、対象と字幕の有無だけ確認
 .\run.ps1 --video dQw4w9WgXcQ          # 特定の動画だけやり直す
 .\run.ps1 --rebuild                    # 要約はせずJSONだけ作り直す
+.\run.ps1 --refresh-prices             # 保存済みの株価を捨てて全銘柄を取り直す
 .\.venv\Scripts\python.exe scripts\check_captions.py   # 字幕診断
 .\.venv\Scripts\python.exe scripts\check_prices.py     # 株価診断
 .\.venv\Scripts\python.exe scripts\check_prices.py 7203 NVDA 日経平均   # 銘柄を指定して確認
@@ -227,6 +228,7 @@ GIT_AUTO_PUSH=1
 | `chart_days` | チャートに載せる日足の本数（初期値 120 = 約6か月） |
 | `enable_volume_profile` | 価格帯別出来高の取得。止めたいとき `false`（通信が半分になります） |
 | `profile_days` | 価格帯別出来高の集計日数（初期値 5 営業日） |
+| `symbol_overrides` | 銘柄名 → Yahooシンボルの手動指定。AIがコードを取り違える銘柄を直せます（例 `"キオクシア": "285A.T"`）。日本株は「コード.T」、米国株はティッカーそのまま |
 
 **チャンネルIDの調べ方**: チャンネルページを開いてソースを表示し、`UC` で始まる24文字を探すか、
 `https://www.youtube.com/@ハンドル名` を開いて「概要」→「チャンネルを共有」→「チャンネルIDをコピー」。

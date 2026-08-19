@@ -22,7 +22,7 @@ from datetime import datetime, timedelta, timezone
 
 import requests
 
-VERSION = "v22"
+VERSION = "v23"
 
 YAHOO_URL = "https://query1.finance.yahoo.com/v8/finance/chart/{symbol}"
 SEARCH_URL = "https://query1.finance.yahoo.com/v1/finance/search"
@@ -64,10 +64,21 @@ def normalize_key(text: str) -> str:
     return re.sub(r"[\s　・％%]", "", (text or "")).upper()
 
 
-def resolve_symbols(name: str, ticker: str, market: str) -> list[str]:
-    """銘柄名・コードから、試すべき Yahoo シンボルの候補を返す。"""
+def resolve_symbols(name: str, ticker: str, market: str,
+                    overrides: dict | None = None) -> list[str]:
+    """銘柄名・コードから、試すべき Yahoo シンボルの候補を返す。
+
+    overrides（config.json の symbol_overrides）が最優先。
+    AIが証券コードを取り違える銘柄や、英語社名が拾えず検索できない銘柄をここで救う。
+    """
     nkey = normalize_key(name)
     tkey = normalize_key(ticker)
+
+    if overrides:
+        forced = overrides.get(nkey) or (overrides.get(tkey) if tkey else "")
+        if forced:
+            return [forced]
+
     for alias, syms in INDEX_ALIASES.items():
         akey = normalize_key(alias)
         if nkey == akey or (tkey and tkey == akey):
@@ -529,9 +540,9 @@ def summarize(rows: list[dict], meta: dict | None = None) -> dict:
 
 def fetch_one(name: str, ticker: str, market: str, session: requests.Session,
               stooq_key: str = "", allow_search: bool = True, log=None,
-              name_en: str = ""):
+              name_en: str = "", overrides: dict | None = None):
     """候補シンボルを順に試して、最初に取れたものを返す。"""
-    candidates = resolve_symbols(name, ticker, market)
+    candidates = resolve_symbols(name, ticker, market, overrides)
     reasons = []
     searched = False
 
@@ -615,6 +626,8 @@ def update_prices(stocks: list[dict], cache: dict, cfg: dict, log=print,
     refresh_hours = cfg.get("price_refresh_hours", 12)
     pause = cfg.get("price_pause_seconds", 2)
     stooq_key = os.environ.get("STOOQ_API_KEY", "").strip()
+    overrides = {normalize_key(k): v.strip()
+                 for k, v in (cfg.get("symbol_overrides") or {}).items() if v and v.strip()}
     now = datetime.now(timezone.utc)
     entries = dict(cache.get("symbols", {}))
 
@@ -637,7 +650,8 @@ def update_prices(stocks: list[dict], cache: dict, cfg: dict, log=print,
             time.sleep(pause)
         data, reason = fetch_one(st.get("name", ""), st.get("ticker", ""),
                                  st.get("market", ""), session, stooq_key,
-                                 log=log, name_en=st.get("name_en", ""))
+                                 log=log, name_en=st.get("name_en", ""),
+                                 overrides=overrides)
         if data is None:
             failed += 1
             log(f"    ! {st.get('name', key)}: {reason}")

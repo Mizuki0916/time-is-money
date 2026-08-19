@@ -19,6 +19,14 @@
   "enable_volume_profile": true,
   "profile_days": 5,
   "chart_days": 120,
+  "_symbol_overrides_memo": "AIが証券コードを取り違える／英語社名を拾えない銘柄をここで直接指定します。左が銘柄名（アプリの表示名）、右がYahooのシンボル。日本株は「コード.T」、米国株はティッカーそのまま。",
+  "symbol_overrides": {
+    "キオクシア": "285A.T",
+    "キオクシアホールディングス": "285A.T",
+    "テラドローン": "278A.T",
+    "Terra Drone": "278A.T",
+    "サンコール": "5985.T"
+  },
   "transcript_languages": [
     "ja",
     "ja-JP",

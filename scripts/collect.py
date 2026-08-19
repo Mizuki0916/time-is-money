@@ -810,6 +810,18 @@ def git_push_if_enabled() -> None:
 
 
 def main() -> int:
+    """どの経路で終わっても最後に一度だけ push を試す。
+
+    要約した回だけでなく、株価だけ更新した回・今日のポイントだけ作り直した回も
+    docs/data が変わるため、公開サイトに反映する必要がある。
+    """
+    code = _run()
+    if code == 0:
+        git_push_if_enabled()
+    return code
+
+
+def _run() -> int:
     parser = argparse.ArgumentParser(description="株系YouTube要約コレクター")
     parser.add_argument("--limit", type=int, default=None, help="今回処理する動画の上限")
     parser.add_argument("--video", action="append", default=[], help="この動画IDだけ処理し直す")
@@ -818,6 +830,8 @@ def main() -> int:
     parser.add_argument("--force", action="store_true", help="制限中の待機を無視して実行する")
     parser.add_argument("--digest", action="store_true",
                         help="新着が無くても「今日のポイント」を作り直す")
+    parser.add_argument("--refresh-prices", action="store_true",
+                        help="保存済みの株価を使わず、全銘柄を取り直す")
     args = parser.parse_args()
 
     load_dotenv(ROOT / ".env")
@@ -825,6 +839,10 @@ def main() -> int:
     if cfg is None:
         log("config.json が読めません。中止します。")
         return 1
+
+    if args.refresh_prices:
+        cfg["price_refresh_hours"] = 0      # キャッシュを無視して全部取り直す
+        log("  株価は保存済みを使わず取り直します")
 
     llm_cfg = cfg.get("llm", {})
     channels = cfg.get("channels", [])
@@ -1019,7 +1037,6 @@ def main() -> int:
 
     log(f"\n■ 完了: 今回 {processed} 本を要約（スキップ/失敗 {failures} 本）")
     log(f"  追跡中の銘柄: {index['stats']['stocks']} 件 / 動画 {index['stats']['videos']} 本")
-    git_push_if_enabled()
     return 0
 
 
