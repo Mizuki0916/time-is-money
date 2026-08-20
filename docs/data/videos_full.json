@@ -1,6 +1,121 @@
 {
  "videos": [
   {
+   "video_id": "fJXK-AKNaqA",
+   "title": "【日経平均急落止まらない⁉AI半導体株が弱すぎる‼】海外投資家が日本株大量買い‼出遅れ銘柄、高配当株強いぞ‼金利低下でドル円158円に円高、自動車株急騰。米国株、ハイテク株弱い。仮想通貨BTC急騰",
+   "published": "2026-08-20T09:15:01+00:00",
+   "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "日経平均株価の値動きを2018年相場との類似性や信用需給、理論株価(EPS)の変化から構造的に解説しています。ハイテク・半導体株は高値で捕まった信用買いの期日売りに向けて戻り売りが警戒される一方、9月の配当シーズンに向けて高配当株やディフェンシブ株、需給が改善傾向にある出遅れ銘柄へ資金が向かう展開を予想しています。",
+   "market_view": "2018年相場に酷似しており、配当取りに向けた上昇後に下落するシナリオを想定。半導体株から高配当株・ディフェンシブ株や中小型株へのセクターローテーションを意識すべき相場環境です。",
+   "market": "MIX",
+   "picks": [
+    {
+     "name": "日経平均株価",
+     "name_en": "Nikkei 225",
+     "ticker": "N225",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "9月配当取りに向け強含みを予想",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "2018年相場と酷似しており、8月末から9月配当取りに向かって上昇を描くシナリオを想定しているため。",
+      "9月は配当シーズンであり、高配当株やディフェンシブ銘柄、出遅れ株に買いが入りやすい時期であるため。"
+     ],
+     "timestamp": "00:00",
+     "confidence": "high"
+    },
+    {
+     "name": "東京エレクトロン",
+     "name_en": "Tokyo Electron Limited",
+     "ticker": "8035",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "12月年末の信用期日売りに注意が必要",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "6月高値で買った投資家の信用期日が12月年末に到来し、戻り売りや投げ売りが出やすい環境であるため。",
+      "過去の半導体スーパーサイクル調整期と同様に、戻り高値を形成した後は年末まで軟調になりやすいため。"
+     ],
+     "timestamp": "27:34",
+     "confidence": "medium"
+    },
+    {
+     "name": "任天堂",
+     "name_en": "Nintendo Co., Ltd.",
+     "ticker": "7974",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "信用買いの減少に伴い需給改善が期待される",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "高値から半年が経過し信用買い残が減少傾向にあり、需給改善が進み強含みやすい構造になっているため。"
+     ],
+     "timestamp": "31:52",
+     "confidence": "medium"
+    },
+    {
+     "name": "ソニーグループ",
+     "name_en": "Sony Group Corporation",
+     "ticker": "6758",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "戻り売りをこなしつつ少しずつ水準切り上げ",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "信用買い残が減少傾向にあり、戻り売りをこなしながら徐々に株価水準を切り上げる動きが見られるため。"
+     ],
+     "timestamp": "32:12",
+     "confidence": "low"
+    },
+    {
+     "name": "メルク",
+     "name_en": "Merck & Co., Inc.",
+     "ticker": "MRK",
+     "market": "US",
+     "stance": "bullish",
+     "stance_note": "ディフェンシブ買戻しで株価が急上昇",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "米国市場でハイテク株からディフェンシブ株への資金シフトが起きており、大きく買われているため。"
+     ],
+     "timestamp": "35:05",
+     "confidence": "low"
+    },
+    {
+     "name": "ビットコイン",
+     "name_en": "Bitcoin",
+     "ticker": "BTC",
+     "market": "OTHER",
+     "stance": "bullish",
+     "stance_note": "資金流入により1100万円超えへ急騰",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "これまで動いていなかった暗号資産市場へ資金がシフトし、急激な上昇トレンドを見せているため。"
+     ],
+     "timestamp": "37:01",
+     "confidence": "low"
+    }
+   ]
+  },
+  {
    "video_id": "r63ac3rui7Y",
    "title": "【緊急事態.日経平均2134円大暴落ヤバい‼】AI半導体株急落で日本株木端微塵‼２０１８年相場か⁉キオクシア12％暴落。ドル円１５９円。金利急騰で米国株、ハイテク株荒れるか。仮想通貨BTC上昇",
    "published": "2026-08-19T14:34:19+00:00",
@@ -103,36 +218,36 @@
    ]
   },
   {
-   "video_id": "fI17pOvnfw8",
-   "title": "【緊急事態.日経平均2134円大暴落ヤバい‼】AI半導体株急落で日本株木端微塵‼２０１８年相場か⁉キオクシア12％暴落。ドル円１５９円。金利急騰で米国株、ハイテク株荒れるか。仮想通貨BTC上昇",
-   "published": "2026-08-19T09:15:02+00:00",
-   "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
+   "video_id": "_6s4yVCSIl8",
+   "title": "【日経平均】 難解な動き 押し目？一段下げ？ 私はこう考えます サンディスク・キオクシア・東京エレクトロン・アドバンテスト・ファーストリテイリング・ソフトバンクG",
+   "published": "2026-08-20T11:30:31+00:00",
+   "description": "※動画の趣旨は個人的主観の予測であり、値動きを保証するものではありません。\n　投資の判断は自己責任でお願いします。\n\nサンワード証券セミナー申し込み\nhttps://www.sunward-t.co.jp/seminar/2026/09/26_3/index_k.html\n\n◉トレンド分析の基礎おすすめ動画\n【永久保存版】初心者でもわかるダウ理論の使い方【前編】\nhttps://youtu.be/re9XBR2qcBw\n【永久保存版】初心者でもわかるダウ理論の使い方【後編】\nhttps://youtu.be/Z21W4VFSs9g\n【知らなきゃ勝てない】移動平均線で相場を読む最強の方法\nhttps://youtu.be/FfSX8hcRR2I\n【一目均衡表の真髄】初心者でも分かる完全ガイド\nhttps://youtu.be/xPkb1twTFFI\n\n◉SBI証券株式会社キャンペーン　手数料",
+   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+   "channel_name": "Trader's Lab",
+   "channel_short": "TL",
+   "slot": 1,
    "no_transcript": false,
    "skip_reason": "",
-   "overview": "日経平均がAI半導体株中心に暴落した背景について解説。空売り比率の低下や過去最高水準の信用買い残など、2018年の暴落相場と全く同じ急落条件が点灯していたことから今回の下落は予想通りと分析。目先はPER17倍水準でボトムを形成し、9月の配当取りに向けた反転上昇を期待する一方、高値で信用買いが積み上がる半導体株については年末にかけて戻り売り圧力が続くと警戒を示している。",
-   "market_view": "2018年同様の需給悪化による大調整だが、PER17倍水準での下げ止まりから9月配当に向けた反転を想定。ただし半導体株は信用期日売りで年末まで軟調な展開を警戒。",
-   "market": "MIX",
+   "overview": "日経平均株価が重要水準の6万6,300円を割り込んだことを受け、押し目買い想定から6万2,000円台への一段下げを警戒するシナリオに修正したと解説しています。これに伴い日経平均に依存しやすい主力・半導体銘柄のチャート分析を実施しました。多くの銘柄で戻り売り優勢の厳しい形状が確認される中、アドバンテストのみが中長期の上昇トレンドを維持しており力強さが際立っています。",
+   "market_view": "日経平均はサポートラインを割って一段下げのリスクが高まっているため、無理に攻めずキャッシュ比率を高めて静観するのが無難としています。",
+   "market": "JP",
    "picks": [
     {
-     "name": "日経平均株価",
-     "name_en": "Nikkei 225",
-     "ticker": "",
-     "market": "JP",
+     "name": "サンディスク",
+     "name_en": "SanDisk Corporation",
+     "ticker": "SNDK",
+     "market": "US",
      "stance": "neutral",
-     "stance_note": "押し目形成後に9月配当高期待",
+     "stance_note": "下げ止まるも戻り売り警戒",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "空売り比率低下や信用改ざん高水準など2018年暴落時と類似する条件が揃い、予想通りの調整局面を迎えている。",
-      "PER17倍水準の6万5796円付近が下値目処となり、9月の配当取りに向けた反転上昇のシナリオを想定している。"
+      "直近高値を上抜けて下落トレンドの止めは確認されたが、上昇転換には至っていない。",
+      "上方に雲や75日線が控えレジスタンスとなっており、25日線付近への調整下落リスクがある。"
      ],
-     "timestamp": "01:06",
-     "confidence": "high"
+     "timestamp": "21:18",
+     "confidence": "medium"
     },
     {
      "name": "キオクシア",
@@ -140,32 +255,83 @@
      "ticker": "285A",
      "market": "JP",
      "stance": "bearish",
-     "stance_note": "12%暴落で年末まで戻り売り懸念",
+     "stance_note": "25日線下向きで戻り売り優勢",
+     "target_price": "",
+     "entry": "38000円〜40000円",
+     "stop": "",
+     "reasons": [
+      "サンディスクよりチャート形状が悪く、25日移動平均線が下向きで上値が重い展開。",
+      "戻り売りが出やすい形状であり、2番底形成に向け3万後半から4万円前後への下落を想定。"
+     ],
+     "timestamp": "22:52",
+     "confidence": "high"
+    },
+    {
+     "name": "東京エレクトロン",
+     "name_en": "Tokyo Electron Limited",
+     "ticker": "8035",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "下落トレンド継続で戻り売り目線",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "AI半導体株の売り圧力に押され12%の大暴落を記録。高値掴みの信用買いが多く戻り売りが出やすい。",
-      "半導体株は6月高値からの半年期日が12月の節税売り期と重なるため、年末に向けて重い展開が続く見通し。"
+      "デッドクロスが確定し25日移動平均線を下回るなど、がっつりと下落トレンドが継続。",
+      "直近の戻り高値を更新しない限り反転上昇の形にならず、再び安値を模索する展開を警戒。"
      ],
-     "timestamp": "21:23",
+     "timestamp": "24:18",
      "confidence": "medium"
     },
     {
-     "name": "レーザーテック",
-     "name_en": "Lasertec Corporation",
-     "ticker": "6920",
+     "name": "アドバンテスト",
+     "name_en": "Advantest Corporation",
+     "ticker": "6857",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "中長期の上昇トレンド維持で強い",
+     "target_price": "",
+     "entry": "30000円",
+     "stop": "",
+     "reasons": [
+      "月足や週足などの上位足がすべてトレンドフォロー状態にあり、中長期では非常に強い形状。",
+      "日経平均の値動きに引っ張られて日々の乱高下は激しいが、個別銘柄としての強さは継続。"
+     ],
+     "timestamp": "25:36",
+     "confidence": "high"
+    },
+    {
+     "name": "ファーストリテイリング",
+     "name_en": "Fast Retailing Co., Ltd.",
+     "ticker": "9983",
      "market": "JP",
      "stance": "bearish",
-     "stance_note": "200日線割り込み年末へ下値模索",
+     "stance_note": "下落トレンド転換で上値重い",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "200日移動平均線を割り込み下落トレンドが鮮明化。信用取引で捕まっている投資家が多く戻り売りが強い。",
-      "過去のスーパーサイクル同様に暴落後の戻りは限定的で、12月末の信用期日に向けて水準を切り下げる展開を予想。"
+      "直近安値を割り込み高値・安値を切り下げる明確な下落トレンドが生じている。",
+      "デッドクロスも発生しており短期上昇相場は終了、週足の上値抵抗線も重く機能している。"
      ],
-     "timestamp": "21:49",
+     "timestamp": "27:24",
+     "confidence": "medium"
+    },
+    {
+     "name": "ソフトバンクグループ",
+     "name_en": "SoftBank Group Corp.",
+     "ticker": "9984",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "明確なトレンド無く判断保留",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "各種移動平均線やレジサポラインに挟まれており、明確な方向感が出ていない相場つき。",
+      "日経平均の動きに振られやすくチャートが複雑なため、積極的に手を出せる状態ではない。"
+     ],
+     "timestamp": "28:16",
      "confidence": "medium"
     }
    ]
@@ -286,142 +452,6 @@
      ],
      "timestamp": "36:36",
      "confidence": "medium"
-    }
-   ]
-  },
-  {
-   "video_id": "pN82UXc4s3Y",
-   "title": "【日経平均】 押し下げのシナリオ移行 買い場は来たぞ！ ただし〇〇は意識しろ サンディスク・キオクシア・太陽誘電・村田製作所・ユニチカ・サンコール",
-   "published": "2026-08-18T11:38:17+00:00",
-   "description": "※動画の趣旨は個人的主観の予測であり、値動きを保証するものではありません。\n　投資の判断は自己責任でお願いします。\n\nサンワード証券セミナー申し込み\nhttps://www.sunward-t.co.jp/seminar/2026/09/26_3/index_k.html\n\n◉トレンド分析の基礎おすすめ動画\n【永久保存版】初心者でもわかるダウ理論の使い方【前編】\nhttps://youtu.be/re9XBR2qcBw\n【永久保存版】初心者でもわかるダウ理論の使い方【後編】\nhttps://youtu.be/Z21W4VFSs9g\n【知らなきゃ勝てない】移動平均線で相場を読む最強の方法\nhttps://youtu.be/FfSX8hcRR2I\n【一目均衡表の真髄】初心者でも分かる完全ガイド\nhttps://youtu.be/xPkb1twTFFI\n\n◉SBI証券株式会社キャンペーン　手数料",
-   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-   "channel_name": "Trader's Lab",
-   "channel_short": "TL",
-   "slot": 1,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "日経平均先物の直近安値下割れに伴う押し下げフェーズへの移行と、マルチタイムフレーム分析に基づく上昇トレンド終了および下落転換のリスクについて詳細に解説しています。個別銘柄では、ハイテク株や半導体関連銘柄の過熱感・受給悪化を踏まえた警戒感を示すとともに、好決算で買われるサンコールなどの押し目買いシナリオを提案しています。",
-   "market_view": "国内長期金利が約30年ぶりの高値水準へ上昇したことや米国債利回りの高止まりを嫌気し、ハイテク・AI半導体関連銘柄を中心に売られる展開となっています。",
-   "market": "MIX",
-   "picks": [
-    {
-     "name": "日経平均株価",
-     "name_en": "Nikkei 225",
-     "ticker": "N225",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "押し下げ想定も押し安値割れで警戒",
-     "target_price": "",
-     "entry": "66500円〜67500円",
-     "stop": "66320円",
-     "reasons": [
-      "短期足で直近安値を下回り押し下げフェーズへ移行。想定押し目領域は6万6500円から6万7500円付近と分析。",
-      "4時間足の押し安値6万6320円を割ると上昇トレンドが終了し、さらなる下落転換のリスクが生じるため厳重警戒が必要。"
-     ],
-     "timestamp": "00:12",
-     "confidence": "high"
-    },
-    {
-     "name": "サンディスク",
-     "name_en": "SanDisk",
-     "ticker": "SNDK",
-     "market": "US",
-     "stance": "bearish",
-     "stance_note": "25日線乖離と時間外下落で調整警戒",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "プレ取引で5%下落しており、25日移動平均線からのプラス乖離やプラス2シグマ到達により短期的には調整下げが起きやすい。",
-      "直近戻り高値からの利確売り・戻り売りに押される展開が想定され、1400ドル台前半まで押し下がるリスクを指摘。"
-     ],
-     "timestamp": "28:02",
-     "confidence": "medium"
-    },
-    {
-     "name": "キオクシアホールディングス",
-     "name_en": "Kioxia Holdings",
-     "ticker": "285A",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "ボラティリティ過大で短期トレード限定",
-     "target_price": "",
-     "entry": "",
-     "stop": "56630円",
-     "reasons": [
-      "出来高が膨らみ大口のマネーゲーム化が進行。1日の価格変動が非常に大きく中長期の投資には不向きで短期売買に限定すべき。",
-      "明日以降に5万6630円を下割れると切り下げが生じ、レンジ下限である4万5000円付近までの押し下げリスクが高まる。"
-     ],
-     "timestamp": "30:13",
-     "confidence": "high"
-    },
-    {
-     "name": "太陽誘電",
-     "name_en": "Taiyo Yuden",
-     "ticker": "6976",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "受給悪化と25日線下向きで下落継続",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "信用買残が400万株を超えて受給が極めて悪化しており、戻り高値を更新できていないため対局の下落トレンドが継続中。",
-      "25日移動平均線が下向きで上値を抑えられており、直近安値8601円を割ると対局の下落波動が一段と加速する恐れがある。"
-     ],
-     "timestamp": "34:39",
-     "confidence": "high"
-    },
-    {
-     "name": "村田製作所",
-     "name_en": "Murata Manufacturing",
-     "ticker": "6981",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "信用買い増加と25日線下回り重い展開",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "信用改ざんが900万株に増加し受給が一段と悪化。株価も25日移動平均線を下回り戻り売り圧力が非常に強い状態。",
-      "過去の押し安値を下割れたことで下落トレンドが継続しており、安値を模索する展開が続きやすい構造となっている。"
-     ],
-     "timestamp": "39:13",
-     "confidence": "medium"
-    },
-    {
-     "name": "ユニチカ",
-     "name_en": "Unitika",
-     "ticker": "3103",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "仕手化で過熱感からの反落に警戒",
-     "target_price": "",
-     "entry": "1050円",
-     "stop": "",
-     "reasons": [
-      "急騰後の過熱感から陰線を形成して反落パターンへ入り、出来高の減少と信用改ざんの多さから受給バランスが悪い。",
-      "テクニカル的に乖離率が高く、プラス1シグマや25日線方向への1300円〜1050円付近までの下落調整リスクを想定。"
-     ],
-     "timestamp": "41:35",
-     "confidence": "medium"
-    },
-    {
-     "name": "サンコール",
-     "name_en": "Suncall",
-     "ticker": "5985",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "新高値更新。カップ形成の押し目待ち",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "好決算を受けてストップ高交え5連騰し史上最高値を更新。割安感があり中長期的には非常に良好な銘柄構造。",
-      "急激なV字回復により短期的加熱感があるため、直近高値からの利確売りで取っ手(カップウィズハンドル)を作る押し目を待つのが理想。"
-     ],
-     "timestamp": "45:44",
-     "confidence": "high"
     }
    ]
   },
