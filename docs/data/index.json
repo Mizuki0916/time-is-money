@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-22T03:59:09.018836+09:00",
+ "generated_at": "2026-08-22T04:31:13.050667+09:00",
  "channels": [
   {
    "id": "UCsaeHha7ai_NNX8or8Jyb-g",
@@ -639,10 +639,10 @@
     "date": "2026-08-20",
     "close": 1600.62,
     "change_pct": 2.02,
-    "live": 1601.75,
-    "live_change_pct": 0.07,
-    "live_time": 1787338744,
-    "volume": 11379700,
+    "live": 1600.89,
+    "live_change_pct": 0.02,
+    "live_time": 1787340667,
+    "volume": 11459600,
     "volume_ratio": 0.68,
     "rsi14": 53.9,
     "rsi_zone": "中立",
@@ -697,7 +697,7 @@
     "market_open": true,
     "symbol": "SNDK",
     "source": "yahoo",
-    "fetched_at": "2026-08-21T18:59:09.022453+00:00"
+    "fetched_at": "2026-08-21T19:31:13.053983+00:00"
    }
   },
   {
@@ -1287,10 +1287,10 @@
     "date": "2026-08-20",
     "close": 148.99,
     "change_pct": -2.11,
-    "live": 152.55,
-    "live_change_pct": 2.39,
-    "live_time": 1787338749,
-    "volume": 16200800,
+    "live": 152.68,
+    "live_change_pct": 2.47,
+    "live_time": 1787340674,
+    "volume": 16204700,
     "volume_ratio": 1.65,
     "rsi14": 75.4,
     "rsi_zone": "買われすぎ",
@@ -1345,7 +1345,7 @@
     "market_open": true,
     "symbol": "MRK",
     "source": "yahoo",
-    "fetched_at": "2026-08-21T18:59:09.022453+00:00"
+    "fetched_at": "2026-08-21T19:31:13.053983+00:00"
    }
   },
   {
@@ -1391,11 +1391,11 @@
     "date": "2026-08-20",
     "close": 32.15,
     "change_pct": 6.21,
-    "live": 34.09,
-    "live_change_pct": 6.02,
-    "live_time": 1787338751,
-    "volume": 3040400,
-    "volume_ratio": 1.94,
+    "live": 34.2,
+    "live_change_pct": 6.36,
+    "live_time": 1787340645,
+    "volume": 3047500,
+    "volume_ratio": 1.95,
     "rsi14": 73.9,
     "rsi_zone": "買われすぎ",
     "ma25": 28.65,
@@ -1449,7 +1449,7 @@
     "market_open": true,
     "symbol": "BTC",
     "source": "yahoo",
-    "fetched_at": "2026-08-21T18:59:09.022453+00:00"
+    "fetched_at": "2026-08-21T19:31:13.053983+00:00"
    }
   },
   {
