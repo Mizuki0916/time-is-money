@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-21T15:50:18.200508+00:00",
+ "updated_at": "2026-08-21T16:30:43.159879+00:00",
  "symbols": {
   "JP:1111": {
    "date": "2026-08-17",
@@ -1093,9 +1093,9 @@
    "date": "2026-08-20",
    "close": 1600.62,
    "change_pct": 2.02,
-   "live": 1594.22,
-   "live_change_pct": -0.4,
-   "live_time": 1787327417,
+   "live": 1596.13,
+   "live_change_pct": -0.28,
+   "live_time": 1787329831,
    "volume": 11379700,
    "volume_ratio": 0.68,
    "rsi14": 53.9,
@@ -1151,7 +1151,7 @@
    "market_open": true,
    "symbol": "SNDK",
    "source": "yahoo",
-   "fetched_at": "2026-08-21T15:50:18.200508+00:00"
+   "fetched_at": "2026-08-21T16:30:43.159879+00:00"
   },
   "JP:5985": {
    "date": "2026-08-19",
@@ -2693,9 +2693,9 @@
    "date": "2026-08-20",
    "close": 148.99,
    "change_pct": -2.11,
-   "live": 153.51,
-   "live_change_pct": 3.03,
-   "live_time": 1787327419,
+   "live": 152.67,
+   "live_change_pct": 2.47,
+   "live_time": 1787329841,
    "volume": 16200800,
    "volume_ratio": 1.65,
    "rsi14": 75.4,
@@ -2751,15 +2751,15 @@
    "market_open": true,
    "symbol": "MRK",
    "source": "yahoo",
-   "fetched_at": "2026-08-21T15:50:18.200508+00:00"
+   "fetched_at": "2026-08-21T16:30:43.159879+00:00"
   },
   "OTHER:BTC": {
    "date": "2026-08-20",
    "close": 32.15,
    "change_pct": 6.21,
-   "live": 34.22,
-   "live_change_pct": 6.42,
-   "live_time": 1787327419,
+   "live": 34.21,
+   "live_change_pct": 6.41,
+   "live_time": 1787329843,
    "volume": 3040400,
    "volume_ratio": 1.94,
    "rsi14": 73.9,
@@ -2815,7 +2815,7 @@
    "market_open": true,
    "symbol": "BTC",
    "source": "yahoo",
-   "fetched_at": "2026-08-21T15:50:18.200508+00:00"
+   "fetched_at": "2026-08-21T16:30:43.159879+00:00"
   }
  }
 }
