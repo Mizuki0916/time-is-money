@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-21T05:59:35.242644+00:00",
+ "updated_at": "2026-08-21T14:32:27.880192+00:00",
  "symbols": {
   "JP:1111": {
    "date": "2026-08-17",
@@ -1093,11 +1093,11 @@
    "date": "2026-08-20",
    "close": 1600.62,
    "change_pct": 2.02,
-   "live": null,
-   "live_change_pct": null,
-   "live_time": null,
-   "volume": 11002366,
-   "volume_ratio": 0.65,
+   "live": 1596.31,
+   "live_change_pct": -0.27,
+   "live_time": 1787322747,
+   "volume": 11379700,
+   "volume_ratio": 0.68,
    "rsi14": 53.9,
    "rsi_zone": "中立",
    "ma25": 1400.32,
@@ -1148,10 +1148,10 @@
    ],
    "currency": "USD",
    "exchange_name": "NasdaqGS",
-   "market_open": false,
+   "market_open": true,
    "symbol": "SNDK",
    "source": "yahoo",
-   "fetched_at": "2026-08-20T20:54:55.690237+00:00"
+   "fetched_at": "2026-08-21T14:32:27.880192+00:00"
   },
   "JP:5985": {
    "date": "2026-08-19",
@@ -2693,11 +2693,11 @@
    "date": "2026-08-20",
    "close": 148.99,
    "change_pct": -2.11,
-   "live": null,
-   "live_change_pct": null,
-   "live_time": null,
-   "volume": 13284018,
-   "volume_ratio": 1.37,
+   "live": 153.31,
+   "live_change_pct": 2.9,
+   "live_time": 1787322748,
+   "volume": 16200800,
+   "volume_ratio": 1.65,
    "rsi14": 75.4,
    "rsi_zone": "買われすぎ",
    "ma25": 131.97,
@@ -2748,20 +2748,20 @@
    ],
    "currency": "USD",
    "exchange_name": "NYSE",
-   "market_open": false,
+   "market_open": true,
    "symbol": "MRK",
    "source": "yahoo",
-   "fetched_at": "2026-08-20T20:54:55.690237+00:00"
+   "fetched_at": "2026-08-21T14:32:27.880192+00:00"
   },
   "OTHER:BTC": {
    "date": "2026-08-20",
    "close": 32.15,
    "change_pct": 6.21,
-   "live": null,
-   "live_change_pct": null,
-   "live_time": null,
-   "volume": 3021297,
-   "volume_ratio": 1.93,
+   "live": 34.13,
+   "live_change_pct": 6.17,
+   "live_time": 1787322746,
+   "volume": 3040400,
+   "volume_ratio": 1.94,
    "rsi14": 73.9,
    "rsi_zone": "買われすぎ",
    "ma25": 28.65,
@@ -2812,10 +2812,10 @@
    ],
    "currency": "USD",
    "exchange_name": "NYSEArca",
-   "market_open": false,
+   "market_open": true,
    "symbol": "BTC",
    "source": "yahoo",
-   "fetched_at": "2026-08-20T20:54:55.690237+00:00"
+   "fetched_at": "2026-08-21T14:32:27.880192+00:00"
   }
  }
 }
