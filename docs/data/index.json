@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-25T00:22:11.053177+09:00",
+ "generated_at": "2026-08-25T01:03:43.456416+09:00",
  "channels": [
   {
    "id": "UCsaeHha7ai_NNX8or8Jyb-g",
@@ -639,9 +639,9 @@
     "date": "2026-08-21",
     "close": 1596.08,
     "change_pct": -0.28,
-    "live": 1457.44,
-    "live_change_pct": -8.69,
-    "live_time": 1787584929,
+    "live": 1486.48,
+    "live_change_pct": -6.87,
+    "live_time": 1787587421,
     "volume": 7530100,
     "volume_ratio": 0.46,
     "rsi14": 53.7,
@@ -697,7 +697,7 @@
     "market_open": true,
     "symbol": "SNDK",
     "source": "yahoo",
-    "fetched_at": "2026-08-24T15:22:11.056789+00:00"
+    "fetched_at": "2026-08-24T16:03:43.460039+00:00"
    }
   },
   {
@@ -1287,9 +1287,9 @@
     "date": "2026-08-21",
     "close": 152.55,
     "change_pct": 2.39,
-    "live": 150.36,
-    "live_change_pct": -1.44,
-    "live_time": 1787584930,
+    "live": 151.31,
+    "live_change_pct": -0.82,
+    "live_time": 1787587420,
     "volume": 15961400,
     "volume_ratio": 1.61,
     "rsi14": 77.8,
@@ -1345,7 +1345,7 @@
     "market_open": true,
     "symbol": "MRK",
     "source": "yahoo",
-    "fetched_at": "2026-08-24T15:22:11.056789+00:00"
+    "fetched_at": "2026-08-24T16:03:43.460039+00:00"
    }
   },
   {
@@ -1391,9 +1391,9 @@
     "date": "2026-08-21",
     "close": 34.08,
     "change_pct": 6.0,
-    "live": 35.3,
-    "live_change_pct": 3.57,
-    "live_time": 1787584928,
+    "live": 35.08,
+    "live_change_pct": 2.93,
+    "live_time": 1787587426,
     "volume": 4123700,
     "volume_ratio": 2.46,
     "rsi14": 79.5,
@@ -1449,7 +1449,7 @@
     "market_open": true,
     "symbol": "BTC",
     "source": "yahoo",
-    "fetched_at": "2026-08-24T15:22:11.056789+00:00"
+    "fetched_at": "2026-08-24T16:03:43.460039+00:00"
    }
   },
   {
