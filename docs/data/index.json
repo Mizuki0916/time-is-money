@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-25T03:00:10.277135+09:00",
+ "generated_at": "2026-08-25T03:52:22.867206+09:00",
  "channels": [
   {
    "id": "UCsaeHha7ai_NNX8or8Jyb-g",
@@ -131,9 +131,9 @@
     "date": "2026-08-21",
     "close": 54320.0,
     "change_pct": 2.59,
-    "live": 50620.0,
-    "live_change_pct": -6.81,
-    "live_time": 1787551853,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
     "volume": 39845000,
     "volume_ratio": 0.83,
     "rsi14": 48.0,
@@ -186,10 +186,10 @@
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
-    "market_open": true,
+    "market_open": false,
     "symbol": "285A.T",
     "source": "yahoo",
-    "fetched_at": "2026-08-24T06:25:55.436457+00:00"
+    "fetched_at": "2026-08-24T18:52:22.870830+00:00"
    }
   },
   {
@@ -258,9 +258,9 @@
     "date": "2026-08-21",
     "close": 54290.0,
     "change_pct": 0.5,
-    "live": 54950.0,
-    "live_change_pct": 1.22,
-    "live_time": 1787551855,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
     "volume": 2144800,
     "volume_ratio": 0.5,
     "rsi14": 40.0,
@@ -313,10 +313,10 @@
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
-    "market_open": true,
+    "market_open": false,
     "symbol": "8035.T",
     "source": "yahoo",
-    "fetched_at": "2026-08-24T06:25:55.436457+00:00"
+    "fetched_at": "2026-08-24T18:52:22.870830+00:00"
    }
   },
   {
@@ -385,9 +385,9 @@
     "date": "2026-08-21",
     "close": 66016.36,
     "change_pct": -0.3,
-    "live": 65519.0,
-    "live_change_pct": -0.75,
-    "live_time": 1787551855,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
     "volume": 160000000,
     "volume_ratio": 0.9,
     "rsi14": 48.6,
@@ -440,10 +440,10 @@
     ],
     "currency": "JPY",
     "exchange_name": "Osaka",
-    "market_open": true,
+    "market_open": false,
     "symbol": "^N225",
     "source": "yahoo",
-    "fetched_at": "2026-08-24T06:25:55.436457+00:00"
+    "fetched_at": "2026-08-24T18:52:22.870830+00:00"
    }
   },
   {
@@ -513,9 +513,9 @@
     "date": "2026-08-21",
     "close": 3818.0,
     "change_pct": -1.19,
-    "live": 3618.0,
-    "live_change_pct": -5.24,
-    "live_time": 1787551857,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
     "volume": 21887100,
     "volume_ratio": 0.76,
     "rsi14": 49.5,
@@ -568,10 +568,10 @@
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
-    "market_open": true,
+    "market_open": false,
     "symbol": "5801.T",
     "source": "yahoo",
-    "fetched_at": "2026-08-24T06:25:55.436457+00:00"
+    "fetched_at": "2026-08-24T18:52:22.870830+00:00"
    }
   },
   {
@@ -639,9 +639,9 @@
     "date": "2026-08-21",
     "close": 1596.08,
     "change_pct": -0.28,
-    "live": 1478.74,
-    "live_change_pct": -7.35,
-    "live_time": 1787594409,
+    "live": 1499.43,
+    "live_change_pct": -6.06,
+    "live_time": 1787597548,
     "volume": 7530100,
     "volume_ratio": 0.46,
     "rsi14": 53.7,
@@ -697,7 +697,7 @@
     "market_open": true,
     "symbol": "SNDK",
     "source": "yahoo",
-    "fetched_at": "2026-08-24T18:00:10.280873+00:00"
+    "fetched_at": "2026-08-24T18:52:22.870830+00:00"
    }
   },
   {
@@ -744,9 +744,9 @@
     "date": "2026-08-21",
     "close": 35900.0,
     "change_pct": 1.53,
-    "live": 34590.0,
-    "live_change_pct": -3.65,
-    "live_time": 1787551862,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
     "volume": 6532300,
     "volume_ratio": 0.68,
     "rsi14": 59.6,
@@ -799,10 +799,10 @@
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
-    "market_open": true,
+    "market_open": false,
     "symbol": "6857.T",
     "source": "yahoo",
-    "fetched_at": "2026-08-24T06:25:55.436457+00:00"
+    "fetched_at": "2026-08-24T18:52:22.870830+00:00"
    }
   },
   {
@@ -849,9 +849,9 @@
     "date": "2026-08-21",
     "close": 73510.0,
     "change_pct": -3.63,
-    "live": 72880.0,
-    "live_change_pct": -0.86,
-    "live_time": 1787551863,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
     "volume": 1037600,
     "volume_ratio": 0.91,
     "rsi14": 35.2,
@@ -904,10 +904,10 @@
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
-    "market_open": true,
+    "market_open": false,
     "symbol": "9983.T",
     "source": "yahoo",
-    "fetched_at": "2026-08-24T06:25:55.436457+00:00"
+    "fetched_at": "2026-08-24T18:52:22.870830+00:00"
    }
   },
   {
@@ -954,9 +954,9 @@
     "date": "2026-08-21",
     "close": 5255.0,
     "change_pct": -2.45,
-    "live": 4992.0,
-    "live_change_pct": -5.0,
-    "live_time": 1787551867,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
     "volume": 28825800,
     "volume_ratio": 0.63,
     "rsi14": 43.8,
@@ -1009,10 +1009,10 @@
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
-    "market_open": true,
+    "market_open": false,
     "symbol": "9984.T",
     "source": "yahoo",
-    "fetched_at": "2026-08-24T06:25:55.436457+00:00"
+    "fetched_at": "2026-08-24T18:52:22.870830+00:00"
    }
   },
   {
@@ -1079,9 +1079,9 @@
     "date": "2026-08-21",
     "close": 8599.0,
     "change_pct": -2.07,
-    "live": 8767.0,
-    "live_change_pct": 1.95,
-    "live_time": 1787551868,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
     "volume": 5643400,
     "volume_ratio": 0.5,
     "rsi14": 62.0,
@@ -1134,10 +1134,10 @@
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
-    "market_open": true,
+    "market_open": false,
     "symbol": "7974.T",
     "source": "yahoo",
-    "fetched_at": "2026-08-24T06:25:55.436457+00:00"
+    "fetched_at": "2026-08-24T18:52:22.870830+00:00"
    }
   },
   {
@@ -1183,9 +1183,9 @@
     "date": "2026-08-21",
     "close": 3785.0,
     "change_pct": 0.21,
-    "live": 3859.0,
-    "live_change_pct": 1.96,
-    "live_time": 1787551870,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
     "volume": 9049500,
     "volume_ratio": 0.49,
     "rsi14": 58.2,
@@ -1238,10 +1238,10 @@
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
-    "market_open": true,
+    "market_open": false,
     "symbol": "6758.T",
     "source": "yahoo",
-    "fetched_at": "2026-08-24T06:25:55.436457+00:00"
+    "fetched_at": "2026-08-24T18:52:22.870830+00:00"
    }
   },
   {
@@ -1287,9 +1287,9 @@
     "date": "2026-08-21",
     "close": 152.55,
     "change_pct": 2.39,
-    "live": 150.76,
-    "live_change_pct": -1.17,
-    "live_time": 1787594410,
+    "live": 150.54,
+    "live_change_pct": -1.32,
+    "live_time": 1787597555,
     "volume": 15961400,
     "volume_ratio": 1.61,
     "rsi14": 77.8,
@@ -1345,7 +1345,7 @@
     "market_open": true,
     "symbol": "MRK",
     "source": "yahoo",
-    "fetched_at": "2026-08-24T18:00:10.280873+00:00"
+    "fetched_at": "2026-08-24T18:52:22.870830+00:00"
    }
   },
   {
@@ -1391,9 +1391,9 @@
     "date": "2026-08-21",
     "close": 34.08,
     "change_pct": 6.0,
-    "live": 34.84,
-    "live_change_pct": 2.23,
-    "live_time": 1787594382,
+    "live": 34.89,
+    "live_change_pct": 2.38,
+    "live_time": 1787597565,
     "volume": 4123700,
     "volume_ratio": 2.46,
     "rsi14": 79.5,
@@ -1449,7 +1449,7 @@
     "market_open": true,
     "symbol": "BTC",
     "source": "yahoo",
-    "fetched_at": "2026-08-24T18:00:10.280873+00:00"
+    "fetched_at": "2026-08-24T18:52:22.870830+00:00"
    }
   },
   {
@@ -1496,9 +1496,9 @@
     "date": "2026-08-21",
     "close": 2673.0,
     "change_pct": -3.45,
-    "live": 2666.0,
-    "live_change_pct": -0.26,
-    "live_time": 1787551868,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
     "volume": 14850200,
     "volume_ratio": 1.03,
     "rsi14": 42.0,
@@ -1551,10 +1551,10 @@
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
-    "market_open": true,
+    "market_open": false,
     "symbol": "7013.T",
     "source": "yahoo",
-    "fetched_at": "2026-08-24T06:25:55.436457+00:00"
+    "fetched_at": "2026-08-24T18:52:22.870830+00:00"
    }
   },
   {
@@ -1601,9 +1601,9 @@
     "date": "2026-08-21",
     "close": 3932.0,
     "change_pct": -3.01,
-    "live": 3957.0,
-    "live_change_pct": 0.64,
-    "live_time": 1787551869,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
     "volume": 16411300,
     "volume_ratio": 0.85,
     "rsi14": 46.6,
@@ -1656,10 +1656,10 @@
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
-    "market_open": true,
+    "market_open": false,
     "symbol": "7011.T",
     "source": "yahoo",
-    "fetched_at": "2026-08-24T06:25:55.436457+00:00"
+    "fetched_at": "2026-08-24T18:52:22.870830+00:00"
    }
   },
   {
@@ -1706,9 +1706,9 @@
     "date": "2026-08-21",
     "close": 2387.0,
     "change_pct": -1.28,
-    "live": 2406.0,
-    "live_change_pct": 0.8,
-    "live_time": 1787551867,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
     "volume": 4564900,
     "volume_ratio": 0.66,
     "rsi14": 61.9,
@@ -1761,10 +1761,10 @@
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
-    "market_open": true,
+    "market_open": false,
     "symbol": "4503.T",
     "source": "yahoo",
-    "fetched_at": "2026-08-24T06:25:55.436457+00:00"
+    "fetched_at": "2026-08-24T18:52:22.870830+00:00"
    }
   },
   {
@@ -1811,9 +1811,9 @@
     "date": "2026-08-21",
     "close": 4130.0,
     "change_pct": -1.43,
-    "live": 4213.0,
-    "live_change_pct": 2.01,
-    "live_time": 1787551871,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
     "volume": 2035200,
     "volume_ratio": 0.59,
     "rsi14": 62.5,
@@ -1866,10 +1866,10 @@
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
-    "market_open": true,
+    "market_open": false,
     "symbol": "9697.T",
     "source": "yahoo",
-    "fetched_at": "2026-08-24T06:25:55.436457+00:00"
+    "fetched_at": "2026-08-24T18:52:22.870830+00:00"
    }
   },
   {
@@ -1916,9 +1916,9 @@
     "date": "2026-08-21",
     "close": 9300.0,
     "change_pct": -3.36,
-    "live": 9138.0,
-    "live_change_pct": -1.74,
-    "live_time": 1787551882,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
     "volume": 22663500,
     "volume_ratio": 0.96,
     "rsi14": 39.1,
@@ -1971,10 +1971,10 @@
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
-    "market_open": true,
+    "market_open": false,
     "symbol": "6976.T",
     "source": "yahoo",
-    "fetched_at": "2026-08-24T06:25:55.436457+00:00"
+    "fetched_at": "2026-08-24T18:52:22.870830+00:00"
    }
   },
   {
@@ -2021,9 +2021,9 @@
     "date": "2026-08-21",
     "close": 7091.0,
     "change_pct": -1.58,
-    "live": 7076.0,
-    "live_change_pct": -0.21,
-    "live_time": 1787551884,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
     "volume": 15412300,
     "volume_ratio": 0.53,
     "rsi14": 41.4,
@@ -2076,10 +2076,10 @@
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
-    "market_open": true,
+    "market_open": false,
     "symbol": "6981.T",
     "source": "yahoo",
-    "fetched_at": "2026-08-24T06:25:55.436457+00:00"
+    "fetched_at": "2026-08-24T18:52:22.870830+00:00"
    }
   },
   {
@@ -2127,9 +2127,9 @@
     "date": "2026-08-21",
     "close": 5280.0,
     "change_pct": -1.14,
-    "live": 5007.0,
-    "live_change_pct": -5.17,
-    "live_time": 1787551885,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
     "volume": 62417600,
     "volume_ratio": 1.08,
     "rsi14": 51.8,
@@ -2182,10 +2182,10 @@
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
-    "market_open": true,
+    "market_open": false,
     "symbol": "5803.T",
     "source": "yahoo",
-    "fetched_at": "2026-08-24T06:25:55.436457+00:00"
+    "fetched_at": "2026-08-24T18:52:22.870830+00:00"
    }
   },
   {
@@ -2233,9 +2233,9 @@
     "date": "2026-08-21",
     "close": 2178.5,
     "change_pct": -1.8,
-    "live": 2156.5,
-    "live_change_pct": -1.01,
-    "live_time": 1787551886,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
     "volume": 15209700,
     "volume_ratio": 0.59,
     "rsi14": 43.1,
@@ -2288,10 +2288,10 @@
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
-    "market_open": true,
+    "market_open": false,
     "symbol": "5802.T",
     "source": "yahoo",
-    "fetched_at": "2026-08-24T06:25:55.436457+00:00"
+    "fetched_at": "2026-08-24T18:52:22.870830+00:00"
    }
   },
   {
@@ -2339,9 +2339,9 @@
     "date": "2026-08-21",
     "close": 3920.0,
     "change_pct": -2.12,
-    "live": 3945.0,
-    "live_change_pct": 0.64,
-    "live_time": 1787551849,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
     "volume": 757000,
     "volume_ratio": 1.08,
     "rsi14": 75.1,
@@ -2394,10 +2394,10 @@
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
-    "market_open": true,
+    "market_open": false,
     "symbol": "141A.T",
     "source": "yahoo",
-    "fetched_at": "2026-08-24T06:25:55.436457+00:00"
+    "fetched_at": "2026-08-24T18:52:22.870830+00:00"
    }
   },
   {
@@ -2443,9 +2443,9 @@
     "date": "2026-08-21",
     "close": 7278.0,
     "change_pct": 4.61,
-    "live": 7277.0,
-    "live_change_pct": -0.01,
-    "live_time": 1787551892,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
     "volume": 5966400,
     "volume_ratio": 1.96,
     "rsi14": 83.4,
@@ -2498,10 +2498,10 @@
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
-    "market_open": true,
+    "market_open": false,
     "symbol": "9104.T",
     "source": "yahoo",
-    "fetched_at": "2026-08-24T06:25:55.436457+00:00"
+    "fetched_at": "2026-08-24T18:52:22.870830+00:00"
    }
   },
   {
@@ -2547,9 +2547,9 @@
     "date": "2026-08-21",
     "close": 4841.0,
     "change_pct": 0.79,
-    "live": 4774.0,
-    "live_change_pct": -1.38,
-    "live_time": 1787551875,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
     "volume": 1170500,
     "volume_ratio": 1.17,
     "rsi14": 54.9,
@@ -2602,10 +2602,10 @@
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
-    "market_open": true,
+    "market_open": false,
     "symbol": "5844.T",
     "source": "yahoo-search",
-    "fetched_at": "2026-08-24T06:25:55.436457+00:00"
+    "fetched_at": "2026-08-24T18:52:22.870830+00:00"
    }
   }
  ]
