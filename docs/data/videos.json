@@ -1,6 +1,104 @@
 {
- "generated_at": "2026-08-25T05:30:16.760484+09:00",
+ "generated_at": "2026-08-25T05:30:01.573173+09:00",
  "videos": [
+  {
+   "video_id": "6mv_nsk92Q4",
+   "title": "【日経平均】 重要イベント前だが OPの異変 暴落の前兆か？ サンディスク・キオクシア・太陽誘電・住友金属鉱山・オンコリスバイオ・GO",
+   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+   "channel_name": "Trader's Lab",
+   "channel_short": "TL",
+   "slot": 1,
+   "published": "2026-08-24T11:53:13+00:00",
+   "overview": "重要イベントであるNVIDIA決算やジャクソンホール会議を控え市場は様子見ムードとなっており、日経平均や米主要指数には二番底形成に向けた調整リスクが高まっています。また、日経平均6万円のプットオプションに売買が集中するなど暴落の前兆も懸念されます。個別銘柄ではサンディスクやキオクシア、太陽誘電に下落警戒を示す一方、材料の出たオンコリスバイオや高値更新を続けるGOなどの買い目線銘柄も分析しています。",
+   "market_view": "イベント前の様子見姿勢が強まる中、直近安値を割り込むと日経平均は17倍PR水準を割り込み6万1000〜6万2000円台までの下落調整が入るリスクがあります。",
+   "market": "MIX",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "サンディスク",
+     "ticker": "SNDK",
+     "stance": "bearish",
+     "timestamp": "26:23"
+    },
+    {
+     "name": "キオクシア",
+     "ticker": "285A",
+     "stance": "bearish",
+     "timestamp": "28:16"
+    },
+    {
+     "name": "太陽誘電",
+     "ticker": "6976",
+     "stance": "bearish",
+     "timestamp": "30:54"
+    },
+    {
+     "name": "住友金属鉱山",
+     "ticker": "5713",
+     "stance": "neutral",
+     "timestamp": "35:05"
+    },
+    {
+     "name": "オンコリスバイオファーマ",
+     "ticker": "4588",
+     "stance": "bullish",
+     "timestamp": "37:52"
+    },
+    {
+     "name": "GO",
+     "ticker": "",
+     "stance": "bullish",
+     "timestamp": "41:33"
+    }
+   ]
+  },
+  {
+   "video_id": "k3zn-UUCKVE",
+   "title": "【日経平均暴落か⁉半導体株急落で日本株投げ売り加速‼】日本株空売り急増、海外勢買いで2018年相場意識。バリュー株、高配当銘柄強い。ドル円159円推移。米国株も続落か。仮想通貨BTC、金先物爆騰",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-08-24T09:15:04+00:00",
+   "overview": "日経平均や半導体株の下落要因を、2018年相場の再来や空売り不足・信用買い過多による需給悪化から構造的に解説する動画です。AIや半導体関連株は12月の損益通算や信用期日に向けて戻り売りに押されやすい一方、需給改善が進む出遅れ株やバリュー株、高配当株には資金が流入しています。9月配当に向けた高配当銘柄への資金シフトを推奨しています。",
+   "market_view": "日経平均は需給悪化や2018年のパターンを踏襲し目先弱含みやすいですが、9月配当に向けてバリュー株や高配当株には優位性があります。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "日経平均株価",
+     "ticker": "1321",
+     "stance": "bearish",
+     "timestamp": "01:21"
+    },
+    {
+     "name": "キオクシアホールディングス",
+     "ticker": "285A",
+     "stance": "bearish",
+     "timestamp": "23:05"
+    },
+    {
+     "name": "ソフトバンクグループ",
+     "ticker": "9984",
+     "stance": "bearish",
+     "timestamp": "23:08"
+    },
+    {
+     "name": "レーザーテック",
+     "ticker": "6920",
+     "stance": "bearish",
+     "timestamp": "23:14"
+    },
+    {
+     "name": "NTT",
+     "ticker": "9432",
+     "stance": "bullish",
+     "timestamp": "26:48"
+    }
+   ]
+  },
   {
    "video_id": "G3a02-y4uNg",
    "title": "【日経平均急落止まらない⁉AI半導体株が弱すぎる‼】海外投資家が日本株大量買い‼出遅れ銘柄、高配当株強いぞ‼金利低下でドル円158円に円高、自動車株急騰。米国株、ハイテク株弱い。仮想通貨BTC急騰",
@@ -120,110 +218,6 @@
      "ticker": "9107",
      "stance": "bullish",
      "timestamp": "41:00"
-    }
-   ]
-  },
-  {
-   "video_id": "_6s4yVCSIl8",
-   "title": "【日経平均】 難解な動き 押し目？一段下げ？ 私はこう考えます サンディスク・キオクシア・東京エレクトロン・アドバンテスト・ファーストリテイリング・ソフトバンクG",
-   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-   "channel_name": "Trader's Lab",
-   "channel_short": "TL",
-   "slot": 1,
-   "published": "2026-08-20T11:30:31+00:00",
-   "overview": "日経平均株価が重要水準の6万6,300円を割り込んだことを受け、押し目買い想定から6万2,000円台への一段下げを警戒するシナリオに修正したと解説しています。これに伴い日経平均に依存しやすい主力・半導体銘柄のチャート分析を実施しました。多くの銘柄で戻り売り優勢の厳しい形状が確認される中、アドバンテストのみが中長期の上昇トレンドを維持しており力強さが際立っています。",
-   "market_view": "日経平均はサポートラインを割って一段下げのリスクが高まっているため、無理に攻めずキャッシュ比率を高めて静観するのが無難としています。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "サンディスク",
-     "ticker": "SNDK",
-     "stance": "neutral",
-     "timestamp": "21:18"
-    },
-    {
-     "name": "キオクシア",
-     "ticker": "285A",
-     "stance": "bearish",
-     "timestamp": "22:52"
-    },
-    {
-     "name": "東京エレクトロン",
-     "ticker": "8035",
-     "stance": "bearish",
-     "timestamp": "24:18"
-    },
-    {
-     "name": "アドバンテスト",
-     "ticker": "6857",
-     "stance": "bullish",
-     "timestamp": "25:36"
-    },
-    {
-     "name": "ファーストリテイリング",
-     "ticker": "9983",
-     "stance": "bearish",
-     "timestamp": "27:24"
-    },
-    {
-     "name": "ソフトバンクグループ",
-     "ticker": "9984",
-     "stance": "neutral",
-     "timestamp": "28:16"
-    }
-   ]
-  },
-  {
-   "video_id": "fJXK-AKNaqA",
-   "title": "【日経平均急落止まらない⁉AI半導体株が弱すぎる‼】海外投資家が日本株大量買い‼出遅れ銘柄、高配当株強いぞ‼金利低下でドル円158円に円高、自動車株急騰。米国株、ハイテク株弱い。仮想通貨BTC急騰",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-08-20T09:15:01+00:00",
-   "overview": "日経平均株価の値動きを2018年相場との類似性や信用需給、理論株価(EPS)の変化から構造的に解説しています。ハイテク・半導体株は高値で捕まった信用買いの期日売りに向けて戻り売りが警戒される一方、9月の配当シーズンに向けて高配当株やディフェンシブ株、需給が改善傾向にある出遅れ銘柄へ資金が向かう展開を予想しています。",
-   "market_view": "2018年相場に酷似しており、配当取りに向けた上昇後に下落するシナリオを想定。半導体株から高配当株・ディフェンシブ株や中小型株へのセクターローテーションを意識すべき相場環境です。",
-   "market": "MIX",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "日経平均株価",
-     "ticker": "N225",
-     "stance": "bullish",
-     "timestamp": "00:00"
-    },
-    {
-     "name": "東京エレクトロン",
-     "ticker": "8035",
-     "stance": "bearish",
-     "timestamp": "27:34"
-    },
-    {
-     "name": "任天堂",
-     "ticker": "7974",
-     "stance": "bullish",
-     "timestamp": "31:52"
-    },
-    {
-     "name": "ソニーグループ",
-     "ticker": "6758",
-     "stance": "bullish",
-     "timestamp": "32:12"
-    },
-    {
-     "name": "メルク",
-     "ticker": "MRK",
-     "stance": "bullish",
-     "timestamp": "35:05"
-    },
-    {
-     "name": "ビットコイン",
-     "ticker": "BTC",
-     "stance": "bullish",
-     "timestamp": "37:01"
     }
    ]
   },
