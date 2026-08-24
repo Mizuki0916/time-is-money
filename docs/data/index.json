@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-25T05:29:06.232076+09:00",
+ "generated_at": "2026-08-25T06:01:29.787190+09:00",
  "channels": [
   {
    "id": "UCsaeHha7ai_NNX8or8Jyb-g",
@@ -282,8 +282,8 @@
     "live": null,
     "live_change_pct": null,
     "live_time": null,
-    "volume": 13575262,
-    "volume_ratio": 0.83,
+    "volume": 13927754,
+    "volume_ratio": 0.85,
     "rsi14": 49.7,
     "rsi_zone": "中立",
     "ma25": 1414.05,
@@ -337,7 +337,7 @@
     "market_open": false,
     "symbol": "SNDK",
     "source": "yahoo",
-    "fetched_at": "2026-08-24T20:29:06.314813+00:00"
+    "fetched_at": "2026-08-24T21:01:29.791503+00:00"
    }
   },
   {
@@ -723,8 +723,8 @@
     "live": null,
     "live_change_pct": null,
     "live_time": null,
-    "volume": 2145407,
-    "volume_ratio": 0.78,
+    "volume": 2207197,
+    "volume_ratio": 0.8,
     "rsi14": 73.5,
     "rsi_zone": "買われすぎ",
     "ma25": 10.09,
@@ -778,7 +778,7 @@
     "market_open": false,
     "symbol": "GO",
     "source": "yahoo-search",
-    "fetched_at": "2026-08-24T20:29:06.314813+00:00"
+    "fetched_at": "2026-08-24T21:01:29.791503+00:00"
    }
   },
   {
