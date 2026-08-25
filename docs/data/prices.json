@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-25T19:57:19.984835+00:00",
+ "updated_at": "2026-08-25T20:32:26.948418+00:00",
  "symbols": {
   "JP:1111": {
    "date": "2026-08-17",
@@ -1090,22 +1090,21 @@
    "fetched_at": "2026-08-25T17:59:15.427446+00:00"
   },
   "US:SNDK": {
-   "date": "2026-08-24",
-   "close": 1493.12,
-   "change_pct": -6.45,
-   "live": 1481.63,
-   "live_change_pct": -0.77,
-   "live_time": 1787687839,
-   "volume": 14032400,
-   "volume_ratio": 0.86,
-   "rsi14": 49.7,
+   "date": "2026-08-25",
+   "close": 1480.77,
+   "change_pct": -0.83,
+   "live": null,
+   "live_change_pct": null,
+   "live_time": null,
+   "volume": 8577697,
+   "volume_ratio": 0.53,
+   "rsi14": 49.2,
    "rsi_zone": "中立",
-   "ma25": 1414.05,
-   "ma75": 1620.63,
+   "ma25": 1409.71,
+   "ma75": 1622.51,
    "trend": "戻り歩調",
    "pos52": 63,
    "spark": [
-    2050.39,
     2273.73,
     2032.22,
     1745.0,
@@ -1144,14 +1143,15 @@
     1568.87,
     1600.62,
     1596.08,
-    1493.12
+    1493.12,
+    1480.77
    ],
    "currency": "USD",
    "exchange_name": "NasdaqGS",
-   "market_open": true,
+   "market_open": false,
    "symbol": "SNDK",
    "source": "yahoo",
-   "fetched_at": "2026-08-25T19:57:19.984835+00:00"
+   "fetched_at": "2026-08-25T20:32:26.948418+00:00"
   },
   "JP:5985": {
    "date": "2026-08-19",
@@ -2946,22 +2946,21 @@
    "fetched_at": "2026-08-25T17:59:15.427446+00:00"
   },
   "NAME:GO": {
-   "date": "2026-08-24",
-   "close": 12.04,
-   "change_pct": 3.79,
-   "live": 12.06,
-   "live_change_pct": 0.21,
-   "live_time": 1787687840,
-   "volume": 2207200,
-   "volume_ratio": 0.8,
-   "rsi14": 73.5,
+   "date": "2026-08-25",
+   "close": 12.12,
+   "change_pct": 0.66,
+   "live": null,
+   "live_change_pct": null,
+   "live_time": null,
+   "volume": 2604066,
+   "volume_ratio": 0.94,
+   "rsi14": 74.1,
    "rsi_zone": "買われすぎ",
-   "ma25": 10.09,
-   "ma75": 9.38,
+   "ma25": 10.2,
+   "ma75": 9.43,
    "trend": "上昇基調",
    "pos52": 49,
    "spark": [
-    9.72,
     9.98,
     9.98,
     10.39,
@@ -3000,14 +2999,15 @@
     11.3,
     11.11,
     11.6,
-    12.04
+    12.04,
+    12.12
    ],
    "currency": "USD",
    "exchange_name": "NasdaqGS",
-   "market_open": true,
+   "market_open": false,
    "symbol": "GO",
    "source": "yahoo-search",
-   "fetched_at": "2026-08-25T19:57:19.984835+00:00"
+   "fetched_at": "2026-08-25T20:32:26.948418+00:00"
   },
   "JP:8136": {
    "date": "2026-08-24",
