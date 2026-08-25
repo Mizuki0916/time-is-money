@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-25T14:59:05.137616+09:00",
+ "generated_at": "2026-08-25T23:41:43.563041+09:00",
  "channels": [
   {
    "id": "UCsaeHha7ai_NNX8or8Jyb-g",
@@ -37,7 +37,7 @@
  "stats": {
   "stocks": 27,
   "videos": 7,
-  "videos_this_week": 6,
+  "videos_this_week": 5,
   "bullish_lead": 7,
   "split": 1,
   "skipped": 0
@@ -279,10 +279,10 @@
     "date": "2026-08-24",
     "close": 1493.12,
     "change_pct": -6.45,
-    "live": null,
-    "live_change_pct": null,
-    "live_time": null,
-    "volume": 13927754,
+    "live": 1499.62,
+    "live_change_pct": 0.44,
+    "live_time": 1787668901,
+    "volume": 13946100,
     "volume_ratio": 0.85,
     "rsi14": 49.7,
     "rsi_zone": "中立",
@@ -334,10 +334,10 @@
     ],
     "currency": "USD",
     "exchange_name": "NasdaqGS",
-    "market_open": false,
+    "market_open": true,
     "symbol": "SNDK",
     "source": "yahoo",
-    "fetched_at": "2026-08-24T21:01:29.791503+00:00"
+    "fetched_at": "2026-08-25T14:41:43.567226+00:00"
    }
   },
   {
@@ -720,10 +720,10 @@
     "date": "2026-08-24",
     "close": 12.04,
     "change_pct": 3.79,
-    "live": null,
-    "live_change_pct": null,
-    "live_time": null,
-    "volume": 2207197,
+    "live": 12.0,
+    "live_change_pct": -0.33,
+    "live_time": 1787668871,
+    "volume": 2207200,
     "volume_ratio": 0.8,
     "rsi14": 73.5,
     "rsi_zone": "買われすぎ",
@@ -775,10 +775,10 @@
     ],
     "currency": "USD",
     "exchange_name": "NasdaqGS",
-    "market_open": false,
+    "market_open": true,
     "symbol": "GO",
     "source": "yahoo-search",
-    "fetched_at": "2026-08-24T21:01:29.791503+00:00"
+    "fetched_at": "2026-08-25T14:41:43.567226+00:00"
    }
   },
   {
