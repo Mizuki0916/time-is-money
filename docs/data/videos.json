@@ -1,6 +1,140 @@
 {
- "generated_at": "2026-08-26T06:03:00.951526+09:00",
+ "generated_at": "2026-08-26T06:24:37.107390+09:00",
  "videos": [
+  {
+   "video_id": "GA6JD-AVeKI",
+   "title": "【日本株信用害が爆増‼】日経平均急落ここからが本番か⁉半導体株はNVIDIA決算で大波乱？バリュー株、高配当銘柄強い。ドル円159円推移。米国株も続落か。仮想通貨BTC、金先物爆騰",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-08-25T15:13:05+00:00",
+   "overview": "日経平均株価や個別銘柄の最新需給動向を解説した動画。直近で落とし込んでいたハイテク・半導体株には信用買いが爆増して需給が悪化しており、年末に向けて戻り売りに押されやすいジグザグな展開を予想している。一方で、トヨタやNTTなどの自動車・バリュー銘柄は信用買いの減少や空売りの増加により需給改善が進んでおり、堅調な推移を期待している。",
+   "market_view": "日経平均はPER17倍ラインで底堅く推移。信用買い過多のハイテク株は上値が重い一方、需給改善が進む自動車や高配当株には踏み上げを伴う上昇が期待される。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "キオクシアホールディングス",
+     "ticker": "285A",
+     "stance": "bearish",
+     "timestamp": "02:09"
+    },
+    {
+     "name": "ソフトバンクグループ",
+     "ticker": "9984",
+     "stance": "bearish",
+     "timestamp": "05:41"
+    },
+    {
+     "name": "ソニーグループ",
+     "ticker": "6758",
+     "stance": "bullish",
+     "timestamp": "09:31"
+    },
+    {
+     "name": "レーザーテック",
+     "ticker": "6920",
+     "stance": "bearish",
+     "timestamp": "15:21"
+    },
+    {
+     "name": "太陽誘電",
+     "ticker": "6976",
+     "stance": "bearish",
+     "timestamp": "17:35"
+    },
+    {
+     "name": "村田製作所",
+     "ticker": "6981",
+     "stance": "bearish",
+     "timestamp": "21:23"
+    },
+    {
+     "name": "トヨタ自動車",
+     "ticker": "7203",
+     "stance": "bullish",
+     "timestamp": "36:00"
+    },
+    {
+     "name": "マツダ",
+     "ticker": "7261",
+     "stance": "bullish",
+     "timestamp": "40:42"
+    },
+    {
+     "name": "ヤマハ発動機",
+     "ticker": "7272",
+     "stance": "bullish",
+     "timestamp": "43:23"
+    },
+    {
+     "name": "IHI",
+     "ticker": "7013",
+     "stance": "bearish",
+     "timestamp": "48:45"
+    },
+    {
+     "name": "NTT",
+     "ticker": "9432",
+     "stance": "bullish",
+     "timestamp": "50:31"
+    }
+   ]
+  },
+  {
+   "video_id": "mNlpnzNHFEQ",
+   "title": "【日経平均】 方向感欠くが 下げトレンド継続確定 シナリオ変更なし サンディスク・キオクシア・古河電工・テラドローン・ティアフォー",
+   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+   "channel_name": "Trader's Lab",
+   "channel_short": "TL",
+   "slot": 1,
+   "published": "2026-08-25T11:34:23+00:00",
+   "overview": "本動画では、主要イベントを前に方向感を欠く日経平均株価について、4時間足レベルの下げトレンド継続シナリオを解説しています。また、米国市場の動向や関連指数を踏まえた上で、個別銘柄であるサンディスク、キオクシア、古河電気工業、テラドローン、ティアフォーのチャート形状や需給、材料について詳細な分析が行われています。",
+   "market_view": "エヌビディア決算やジャクソンホール会議などのイベント待ちで市場は方向感を欠いているものの、日経平均は戻りが鈍くテクニカル的に下落トレンドが継続しているため警戒が必要です。",
+   "market": "MIX",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "日経平均株価",
+     "ticker": "",
+     "stance": "bearish",
+     "timestamp": "00:18"
+    },
+    {
+     "name": "サンディスク",
+     "ticker": "SNDK",
+     "stance": "bearish",
+     "timestamp": "22:35"
+    },
+    {
+     "name": "キオクシア",
+     "ticker": "285A",
+     "stance": "bearish",
+     "timestamp": "23:59"
+    },
+    {
+     "name": "古河電気工業",
+     "ticker": "5801",
+     "stance": "bearish",
+     "timestamp": "26:09"
+    },
+    {
+     "name": "テラドローン",
+     "ticker": "278A",
+     "stance": "neutral",
+     "timestamp": "30:10"
+    },
+    {
+     "name": "ティアフォー",
+     "ticker": "",
+     "stance": "bullish",
+     "timestamp": "32:27"
+    }
+   ]
+  },
   {
    "video_id": "6mv_nsk92Q4",
    "title": "【日経平均】 重要イベント前だが OPの異変 暴落の前兆か？ サンディスク・キオクシア・太陽誘電・住友金属鉱山・オンコリスバイオ・GO",
@@ -96,128 +230,6 @@
      "ticker": "9432",
      "stance": "bullish",
      "timestamp": "26:48"
-    }
-   ]
-  },
-  {
-   "video_id": "G3a02-y4uNg",
-   "title": "【日経平均急落止まらない⁉AI半導体株が弱すぎる‼】海外投資家が日本株大量買い‼出遅れ銘柄、高配当株強いぞ‼金利低下でドル円158円に円高、自動車株急騰。米国株、ハイテク株弱い。仮想通貨BTC急騰",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-08-21T14:26:20+00:00",
-   "overview": "日経平均は想定通りのジグザグとした調整局面を迎えており、AI半導体株の踊り場が続く中で出遅れ株や高配当株へと資金が回るキャッチボール状態となっています。日本の10年債利回り低下やドル円の円高進行などの環境下で、個別銘柄では信用買い残の整理状況や移動平均線のクロス形状によって明確な強弱感が分かれています。",
-   "market_view": "日経平均は想定内のジグザグとした動きで推移しており、グロース株が軟調な一方でバリュー株やTOPIX構成銘柄が相対的に強い展開です。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "任天堂",
-     "ticker": "7974",
-     "stance": "neutral",
-     "timestamp": "03:16"
-    },
-    {
-     "name": "サンリオ",
-     "ticker": "8136",
-     "stance": "neutral",
-     "timestamp": "05:12"
-    },
-    {
-     "name": "シフト",
-     "ticker": "3697",
-     "stance": "bullish",
-     "timestamp": "06:52"
-    },
-    {
-     "name": "IHI",
-     "ticker": "7013",
-     "stance": "bearish",
-     "timestamp": "12:12"
-    },
-    {
-     "name": "富士通",
-     "ticker": "6702",
-     "stance": "neutral",
-     "timestamp": "18:03"
-    },
-    {
-     "name": "NTT",
-     "ticker": "9432",
-     "stance": "bullish",
-     "timestamp": "34:07"
-    },
-    {
-     "name": "トレンドマイクロ",
-     "ticker": "4704",
-     "stance": "bearish",
-     "timestamp": "41:02"
-    },
-    {
-     "name": "ニトリホールディングス",
-     "ticker": "9843",
-     "stance": "bearish",
-     "timestamp": "50:51"
-    }
-   ]
-  },
-  {
-   "video_id": "25tbukF3Guw",
-   "title": "【日経平均】 週明けは難解相場 〇〇ライン 超重要です！ サンディスク・キオクシア・太陽誘電・村田製作所・ユニチカ・メタプラネット・日本郵船・商船三井・川崎汽船",
-   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-   "channel_name": "Trader's Lab",
-   "channel_short": "TL",
-   "slot": 1,
-   "published": "2026-08-21T12:12:02+00:00",
-   "overview": "週明けの日経平均相場はジャクソンホール会議やNVIDIA決算を控えて難解な局面を迎えており、66,300円の水平ラインを超えられるかが焦点となります。主要個別銘柄では、キオクシアや太陽誘電など電子部品・半導体関連株の下落リスクが懸念される一方、イラン情勢等を背景とした思惑から川崎汽船をはじめとする海運株が買われ市場最高値を更新する動きが見られます。",
-   "market_view": "日経平均は66,300円のレジスタンスを抜けられない場合、65,000円割れから62,000〜63,000円台への一段下げシナリオに注意が必要です。",
-   "market": "MIX",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "サンディスク",
-     "ticker": "",
-     "stance": "bearish",
-     "timestamp": "28:18"
-    },
-    {
-     "name": "キオクシアホールディングス",
-     "ticker": "285A",
-     "stance": "bearish",
-     "timestamp": "30:04"
-    },
-    {
-     "name": "太陽誘電",
-     "ticker": "6976",
-     "stance": "bearish",
-     "timestamp": "33:33"
-    },
-    {
-     "name": "村田製作所",
-     "ticker": "6981",
-     "stance": "bearish",
-     "timestamp": "35:40"
-    },
-    {
-     "name": "ユニチカ",
-     "ticker": "3103",
-     "stance": "bearish",
-     "timestamp": "36:44"
-    },
-    {
-     "name": "メタプラネット",
-     "ticker": "3350",
-     "stance": "neutral",
-     "timestamp": "39:08"
-    },
-    {
-     "name": "川崎汽船",
-     "ticker": "9107",
-     "stance": "bullish",
-     "timestamp": "41:00"
     }
    ]
   },
