@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-25T20:32:26.948418+00:00",
+ "updated_at": "2026-08-25T21:02:58.367078+00:00",
  "symbols": {
   "JP:1111": {
    "date": "2026-08-17",
@@ -1096,8 +1096,8 @@
    "live": null,
    "live_change_pct": null,
    "live_time": null,
-   "volume": 8577697,
-   "volume_ratio": 0.53,
+   "volume": 8968170,
+   "volume_ratio": 0.55,
    "rsi14": 49.2,
    "rsi_zone": "中立",
    "ma25": 1409.71,
@@ -1151,7 +1151,7 @@
    "market_open": false,
    "symbol": "SNDK",
    "source": "yahoo",
-   "fetched_at": "2026-08-25T20:32:26.948418+00:00"
+   "fetched_at": "2026-08-25T21:02:58.367078+00:00"
   },
   "JP:5985": {
    "date": "2026-08-19",
@@ -2952,7 +2952,7 @@
    "live": null,
    "live_change_pct": null,
    "live_time": null,
-   "volume": 2604066,
+   "volume": 2604146,
    "volume_ratio": 0.94,
    "rsi14": 74.1,
    "rsi_zone": "買われすぎ",
@@ -3007,7 +3007,7 @@
    "market_open": false,
    "symbol": "GO",
    "source": "yahoo-search",
-   "fetched_at": "2026-08-25T20:32:26.948418+00:00"
+   "fetched_at": "2026-08-25T21:02:58.367078+00:00"
   },
   "JP:8136": {
    "date": "2026-08-24",
