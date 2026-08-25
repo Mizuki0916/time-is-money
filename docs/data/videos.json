@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-26T06:24:37.107390+09:00",
+ "generated_at": "2026-08-26T06:27:05.989897+09:00",
  "videos": [
   {
    "video_id": "GA6JD-AVeKI",
@@ -136,6 +136,68 @@
    ]
   },
   {
+   "video_id": "jjSips42sQ4",
+   "title": "【日本株信用害が爆増‼】日経平均急落ここからが本番か⁉半導体株はNVIDIA決算で大波乱？バリュー株、高配当銘柄強い。ドル円159円推移。米国株も続落か。仮想通貨BTC、金先物爆騰",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-08-25T09:15:02+00:00",
+   "overview": "日経平均株価は反発したものの、信用買い残の増加や2018年の暴落時と類似する需給構造・値動きパターンに注意が必要であると分析しています。特にAI・半導体関連株は信用期日売りやNVIDIA決算を控え上値が重くなるリスクを指摘する一方、信用買い残の整理が進んだNTTや任天堂といったバリュー株・高配当銘柄、中小型株への資金転換を意識した立ち回りを推奨しています。",
+   "market_view": "空売り残高の増加により目先はショートカバーが働き下がるに下がりにくい地合いですが、9月の配当取りに向けた動きや半導体株の信用需給悪化には警戒が必要です。",
+   "market": "MIX",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "レーザーテック",
+     "ticker": "6920",
+     "stance": "bearish",
+     "timestamp": "27:59"
+    },
+    {
+     "name": "NTT",
+     "ticker": "9432",
+     "stance": "bullish",
+     "timestamp": "27:35"
+    },
+    {
+     "name": "任天堂",
+     "ticker": "7974",
+     "stance": "bullish",
+     "timestamp": "27:43"
+    },
+    {
+     "name": "ソフトバンクグループ",
+     "ticker": "9984",
+     "stance": "neutral",
+     "timestamp": "26:59"
+    }
+   ]
+  },
+  {
+   "video_id": "7EwFOD-X_NY",
+   "title": "東京海上ホールディングス　株式分割&株主優待発表！　#shorts",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-08-25T09:12:35+00:00",
+   "overview": "東京海上ホールディングスによる株式分割と株主優待制度の新設発表について解説しています。9月30日付けでの15分割により株価が500円以下となり、NISAなどで個人投資家が買いやすくなる点や電子マネーが進呈される継続保有優待が評価されています。一方で、低価格化により信用買い残が増加して上値が重くなる懸念があるため、分割後の株価反応には警戒が必要と指摘しています。",
+   "market_view": "",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "東京海上ホールディングス",
+     "ticker": "8766",
+     "stance": "bearish",
+     "timestamp": "00:00"
+    }
+   ]
+  },
+  {
    "video_id": "6mv_nsk92Q4",
    "title": "【日経平均】 重要イベント前だが OPの異変 暴落の前兆か？ サンディスク・キオクシア・太陽誘電・住友金属鉱山・オンコリスバイオ・GO",
    "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
@@ -188,52 +250,6 @@
    ]
   },
   {
-   "video_id": "k3zn-UUCKVE",
-   "title": "【日経平均暴落か⁉半導体株急落で日本株投げ売り加速‼】日本株空売り急増、海外勢買いで2018年相場意識。バリュー株、高配当銘柄強い。ドル円159円推移。米国株も続落か。仮想通貨BTC、金先物爆騰",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-08-24T09:15:04+00:00",
-   "overview": "日経平均や半導体株の下落要因を、2018年相場の再来や空売り不足・信用買い過多による需給悪化から構造的に解説する動画です。AIや半導体関連株は12月の損益通算や信用期日に向けて戻り売りに押されやすい一方、需給改善が進む出遅れ株やバリュー株、高配当株には資金が流入しています。9月配当に向けた高配当銘柄への資金シフトを推奨しています。",
-   "market_view": "日経平均は需給悪化や2018年のパターンを踏襲し目先弱含みやすいですが、9月配当に向けてバリュー株や高配当株には優位性があります。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "日経平均株価",
-     "ticker": "1321",
-     "stance": "bearish",
-     "timestamp": "01:21"
-    },
-    {
-     "name": "キオクシアホールディングス",
-     "ticker": "285A",
-     "stance": "bearish",
-     "timestamp": "23:05"
-    },
-    {
-     "name": "ソフトバンクグループ",
-     "ticker": "9984",
-     "stance": "bearish",
-     "timestamp": "23:08"
-    },
-    {
-     "name": "レーザーテック",
-     "ticker": "6920",
-     "stance": "bearish",
-     "timestamp": "23:14"
-    },
-    {
-     "name": "NTT",
-     "ticker": "9432",
-     "stance": "bullish",
-     "timestamp": "26:48"
-    }
-   ]
-  },
-  {
    "video_id": "t-1jmIIex28",
    "title": "キオクシア（285A）株式テクニカルチャート分析",
    "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
@@ -252,40 +268,6 @@
      "ticker": "285A",
      "stance": "bullish",
      "timestamp": "06:18"
-    }
-   ]
-  },
-  {
-   "video_id": "JbGnAc8z-XQ",
-   "title": "フジクラ・古河電工・住友電工　株式テクニカルチャート分析",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-08-18T07:10:08+00:00",
-   "overview": "本動画では、日経平均が大幅安となる中で注目される電線関連3銘柄(フジクラ、古河電気工業、住友電気工業)のテクニカルチャート分析を行っています。相場下落やキオクシアの連動安などの地合い悪化を踏まえつつ、各銘柄のローソク足の形状、出来高、信用残、重要ラインを提示し、押し目狙いの優先順位とエントリー条件を解説しています。",
-   "market_view": "日経平均が大幅安となったが、キオクシアの連動安や夏休み明けの機関投資家による売り崩しなどが要因であり、正常な範囲内の調整と見ている。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "フジクラ",
-     "ticker": "5803",
-     "stance": "neutral",
-     "timestamp": "04:22"
-    },
-    {
-     "name": "古河電気工業",
-     "ticker": "5801",
-     "stance": "bullish",
-     "timestamp": "06:01"
-    },
-    {
-     "name": "住友電気工業",
-     "ticker": "5802",
-     "stance": "neutral",
-     "timestamp": "08:41"
     }
    ]
   },
