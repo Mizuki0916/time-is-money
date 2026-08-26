@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-26T23:41:36.608926+09:00",
+ "generated_at": "2026-08-27T01:05:14.691175+09:00",
  "channels": [
   {
    "id": "UCsaeHha7ai_NNX8or8Jyb-g",
@@ -1519,9 +1519,9 @@
     "date": "2026-08-25",
     "close": 1480.77,
     "change_pct": -0.83,
-    "live": 1472.78,
-    "live_change_pct": -0.54,
-    "live_time": 1787755294,
+    "live": 1494.01,
+    "live_change_pct": 0.89,
+    "live_time": 1787760314,
     "volume": 8991800,
     "volume_ratio": 0.56,
     "rsi14": 49.2,
@@ -1577,7 +1577,7 @@
     "market_open": true,
     "symbol": "SNDK",
     "source": "yahoo",
-    "fetched_at": "2026-08-26T14:41:36.611867+00:00"
+    "fetched_at": "2026-08-26T16:05:14.695610+00:00"
    }
   },
   {
@@ -2344,9 +2344,9 @@
     "date": "2026-08-25",
     "close": 12.12,
     "change_pct": 0.66,
-    "live": 12.16,
-    "live_change_pct": 0.34,
-    "live_time": 1787755279,
+    "live": 12.18,
+    "live_change_pct": 0.45,
+    "live_time": 1787760263,
     "volume": 2604300,
     "volume_ratio": 0.94,
     "rsi14": 74.1,
@@ -2402,7 +2402,7 @@
     "market_open": true,
     "symbol": "GO",
     "source": "yahoo-search",
-    "fetched_at": "2026-08-26T14:41:36.611867+00:00"
+    "fetched_at": "2026-08-26T16:05:14.695610+00:00"
    }
   },
   {
