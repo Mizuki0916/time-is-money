@@ -1,6 +1,122 @@
 {
- "generated_at": "2026-08-27T04:13:04.591467+09:00",
+ "generated_at": "2026-08-27T08:04:30.962964+09:00",
  "videos": [
+  {
+   "video_id": "cEI0whFX3W4",
+   "title": "【日本株動くぞ‼️】信用害爆増でAI半導体株が木端微塵‼️日経平均2018年相場でバリュー株、高配当銘柄強い。ドル円159円推移。米国株もNVIDIA 決算で大波乱⁉️仮想通貨BTC、金先物爆騰",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-08-26T15:24:07+00:00",
+   "overview": "NVIDIAの決算発表を前に日本株や米国株の相場見通しと注目銘柄のテクニカル分析が解説されました。日経平均は空売りのショートカバーによる上昇期待がある一方、信用買い残の爆増や受給悪化による反動体株の突っ込みへの警戒感が示されています。SHIFTやブリヂストンなど移動平均線のゴールデンクロスを形成した強気銘柄に加え、デッドクロスや信用期日を控える銘柄への注意点が語られています。",
+   "market_view": "NVIDIAの決算や売買代金等の条件次第で日経平均のショートカバーによる上昇が期待される一方、信用買い残の多い銘柄には注意が必要です。",
+   "market": "MIX",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "SHIFT",
+     "ticker": "3697",
+     "stance": "bullish",
+     "timestamp": "03:54"
+    },
+    {
+     "name": "NEC",
+     "ticker": "6701",
+     "stance": "neutral",
+     "timestamp": "05:15"
+    },
+    {
+     "name": "野村不動産ホールディングス",
+     "ticker": "3231",
+     "stance": "bearish",
+     "timestamp": "08:33"
+    },
+    {
+     "name": "JFEホールディングス",
+     "ticker": "5411",
+     "stance": "bullish",
+     "timestamp": "12:00"
+    },
+    {
+     "name": "東洋エンジニアリング",
+     "ticker": "6330",
+     "stance": "neutral",
+     "timestamp": "14:15"
+    },
+    {
+     "name": "JR西日本",
+     "ticker": "9021",
+     "stance": "bullish",
+     "timestamp": "18:38"
+    },
+    {
+     "name": "ブリヂストン",
+     "ticker": "5108",
+     "stance": "bullish",
+     "timestamp": "27:38"
+    },
+    {
+     "name": "キオクシアホールディングス",
+     "ticker": "285A",
+     "stance": "bearish",
+     "timestamp": "32:00"
+    },
+    {
+     "name": "レーザーテック",
+     "ticker": "6920",
+     "stance": "bearish",
+     "timestamp": "42:30"
+    }
+   ]
+  },
+  {
+   "video_id": "qr-3WZVIqZI",
+   "title": "【日経平均】 NDIVIA決算 今夜決着！ 私はこう考えます サンディスク・キオクシア・太陽誘電・テラドローン・アドバンテスト",
+   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+   "channel_name": "Trader's Lab",
+   "channel_short": "TL",
+   "slot": 1,
+   "published": "2026-08-26T11:00:33+00:00",
+   "overview": "エヌビディアの決算発表を前に、日経平均株価や米主要指数は明確な方向感に欠ける持ち合い相場が続いています。テクニカル的には上値の重い展開が想定され、各種指数の下ブレリスクへの警戒が必要です。個別銘柄ではテラドローンが防衛装備庁関連の好材料で急騰した一方、サンディスクやキオクシア、太陽誘電などの半導体・電子部品株はチャート形状悪化により下落リスクが指摘されています。アドバンテストのみ中長期で強気の推移を維持しています。",
+   "market_view": "エヌビディア決算を控え全体相場は様子見ムードですが、主要指数やSOX指数はテクニカル的に上値が重く、下落トレンドへの転換に警戒が必要です。",
+   "market": "MIX",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "サンディスク",
+     "ticker": "SNDK",
+     "stance": "bearish",
+     "timestamp": "17:20"
+    },
+    {
+     "name": "キオクシア",
+     "ticker": "285A",
+     "stance": "bearish",
+     "timestamp": "19:00"
+    },
+    {
+     "name": "太陽誘電",
+     "ticker": "6976",
+     "stance": "bearish",
+     "timestamp": "21:09"
+    },
+    {
+     "name": "テラドローン",
+     "ticker": "278A",
+     "stance": "bullish",
+     "timestamp": "23:58"
+    },
+    {
+     "name": "アドバンテスト",
+     "ticker": "6857",
+     "stance": "bullish",
+     "timestamp": "26:49"
+    }
+   ]
+  },
   {
    "video_id": "GA6JD-AVeKI",
    "title": "【日本株信用害が爆増‼】日経平均急落ここからが本番か⁉半導体株はNVIDIA決算で大波乱？バリュー株、高配当銘柄強い。ドル円159円推移。米国株も続落か。仮想通貨BTC、金先物爆騰",
@@ -136,46 +252,6 @@
    ]
   },
   {
-   "video_id": "jjSips42sQ4",
-   "title": "【日本株信用害が爆増‼】日経平均急落ここからが本番か⁉半導体株はNVIDIA決算で大波乱？バリュー株、高配当銘柄強い。ドル円159円推移。米国株も続落か。仮想通貨BTC、金先物爆騰",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-08-25T09:15:02+00:00",
-   "overview": "日経平均株価は反発したものの、信用買い残の増加や2018年の暴落時と類似する需給構造・値動きパターンに注意が必要であると分析しています。特にAI・半導体関連株は信用期日売りやNVIDIA決算を控え上値が重くなるリスクを指摘する一方、信用買い残の整理が進んだNTTや任天堂といったバリュー株・高配当銘柄、中小型株への資金転換を意識した立ち回りを推奨しています。",
-   "market_view": "空売り残高の増加により目先はショートカバーが働き下がるに下がりにくい地合いですが、9月の配当取りに向けた動きや半導体株の信用需給悪化には警戒が必要です。",
-   "market": "MIX",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "レーザーテック",
-     "ticker": "6920",
-     "stance": "bearish",
-     "timestamp": "27:59"
-    },
-    {
-     "name": "NTT",
-     "ticker": "9432",
-     "stance": "bullish",
-     "timestamp": "27:35"
-    },
-    {
-     "name": "任天堂",
-     "ticker": "7974",
-     "stance": "bullish",
-     "timestamp": "27:43"
-    },
-    {
-     "name": "ソフトバンクグループ",
-     "ticker": "9984",
-     "stance": "neutral",
-     "timestamp": "26:59"
-    }
-   ]
-  },
-  {
    "video_id": "7EwFOD-X_NY",
    "title": "東京海上ホールディングス　株式分割&株主優待発表！　#shorts",
    "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
@@ -194,58 +270,6 @@
      "ticker": "8766",
      "stance": "bearish",
      "timestamp": "00:00"
-    }
-   ]
-  },
-  {
-   "video_id": "6mv_nsk92Q4",
-   "title": "【日経平均】 重要イベント前だが OPの異変 暴落の前兆か？ サンディスク・キオクシア・太陽誘電・住友金属鉱山・オンコリスバイオ・GO",
-   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-   "channel_name": "Trader's Lab",
-   "channel_short": "TL",
-   "slot": 1,
-   "published": "2026-08-24T11:53:13+00:00",
-   "overview": "重要イベントであるNVIDIA決算やジャクソンホール会議を控え市場は様子見ムードとなっており、日経平均や米主要指数には二番底形成に向けた調整リスクが高まっています。また、日経平均6万円のプットオプションに売買が集中するなど暴落の前兆も懸念されます。個別銘柄ではサンディスクやキオクシア、太陽誘電に下落警戒を示す一方、材料の出たオンコリスバイオや高値更新を続けるGOなどの買い目線銘柄も分析しています。",
-   "market_view": "イベント前の様子見姿勢が強まる中、直近安値を割り込むと日経平均は17倍PR水準を割り込み6万1000〜6万2000円台までの下落調整が入るリスクがあります。",
-   "market": "MIX",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "サンディスク",
-     "ticker": "SNDK",
-     "stance": "bearish",
-     "timestamp": "26:23"
-    },
-    {
-     "name": "キオクシア",
-     "ticker": "285A",
-     "stance": "bearish",
-     "timestamp": "28:16"
-    },
-    {
-     "name": "太陽誘電",
-     "ticker": "6976",
-     "stance": "bearish",
-     "timestamp": "30:54"
-    },
-    {
-     "name": "住友金属鉱山",
-     "ticker": "5713",
-     "stance": "neutral",
-     "timestamp": "35:05"
-    },
-    {
-     "name": "オンコリスバイオファーマ",
-     "ticker": "4588",
-     "stance": "bullish",
-     "timestamp": "37:52"
-    },
-    {
-     "name": "GO",
-     "ticker": "",
-     "stance": "bullish",
-     "timestamp": "41:33"
     }
    ]
   },
