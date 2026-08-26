@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-26T06:19:32.425508+00:00",
+ "updated_at": "2026-08-26T14:41:36.611867+00:00",
  "symbols": {
   "JP:1111": {
    "date": "2026-08-17",
@@ -1093,11 +1093,11 @@
    "date": "2026-08-25",
    "close": 1480.77,
    "change_pct": -0.83,
-   "live": null,
-   "live_change_pct": null,
-   "live_time": null,
-   "volume": 8968170,
-   "volume_ratio": 0.55,
+   "live": 1472.78,
+   "live_change_pct": -0.54,
+   "live_time": 1787755294,
+   "volume": 8991800,
+   "volume_ratio": 0.56,
    "rsi14": 49.2,
    "rsi_zone": "中立",
    "ma25": 1409.71,
@@ -1148,10 +1148,10 @@
    ],
    "currency": "USD",
    "exchange_name": "NasdaqGS",
-   "market_open": false,
+   "market_open": true,
    "symbol": "SNDK",
    "source": "yahoo",
-   "fetched_at": "2026-08-25T21:23:24.074675+00:00"
+   "fetched_at": "2026-08-26T14:41:36.611867+00:00"
   },
   "JP:5985": {
    "date": "2026-08-19",
@@ -2949,10 +2949,10 @@
    "date": "2026-08-25",
    "close": 12.12,
    "change_pct": 0.66,
-   "live": null,
-   "live_change_pct": null,
-   "live_time": null,
-   "volume": 2604146,
+   "live": 12.16,
+   "live_change_pct": 0.34,
+   "live_time": 1787755279,
+   "volume": 2604300,
    "volume_ratio": 0.94,
    "rsi14": 74.1,
    "rsi_zone": "買われすぎ",
@@ -3004,10 +3004,10 @@
    ],
    "currency": "USD",
    "exchange_name": "NasdaqGS",
-   "market_open": false,
+   "market_open": true,
    "symbol": "GO",
    "source": "yahoo-search",
-   "fetched_at": "2026-08-25T21:23:24.074675+00:00"
+   "fetched_at": "2026-08-26T14:41:36.611867+00:00"
   },
   "JP:8136": {
    "date": "2026-08-21",
