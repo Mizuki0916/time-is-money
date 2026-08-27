@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-27T08:04:30.962964+09:00",
+ "generated_at": "2026-08-27T16:21:49.621627+09:00",
  "videos": [
   {
    "video_id": "cEI0whFX3W4",
@@ -118,16 +118,16 @@
    ]
   },
   {
-   "video_id": "GA6JD-AVeKI",
-   "title": "【日本株信用害が爆増‼】日経平均急落ここからが本番か⁉半導体株はNVIDIA決算で大波乱？バリュー株、高配当銘柄強い。ドル円159円推移。米国株も続落か。仮想通貨BTC、金先物爆騰",
+   "video_id": "LhJgVQFXUDM",
+   "title": "【日本株動くぞ‼️】信用害爆増でAI半導体株が木端微塵‼️日経平均2018年相場でバリュー株、高配当銘柄強い。ドル円159円推移。米国株もNVIDIA 決算で大波乱⁉️仮想通貨BTC、金先物爆騰",
    "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
    "channel_name": "Sho's投資情報局",
    "channel_short": "Sho",
    "slot": 3,
-   "published": "2026-08-25T15:13:05+00:00",
-   "overview": "日経平均株価や個別銘柄の最新需給動向を解説した動画。直近で落とし込んでいたハイテク・半導体株には信用買いが爆増して需給が悪化しており、年末に向けて戻り売りに押されやすいジグザグな展開を予想している。一方で、トヨタやNTTなどの自動車・バリュー銘柄は信用買いの減少や空売りの増加により需給改善が進んでおり、堅調な推移を期待している。",
-   "market_view": "日経平均はPER17倍ラインで底堅く推移。信用買い過多のハイテク株は上値が重い一方、需給改善が進む自動車や高配当株には踏み上げを伴う上昇が期待される。",
-   "market": "JP",
+   "published": "2026-08-26T09:15:03+00:00",
+   "overview": "日経平均株価は理論値からの反転上昇を見せているものの、空売り残高や信用倍率の観点から2018年相場と酷似した需給構造となっており、9月末の配当に向けた上昇後に調整するジグザグな値動きを想定しています。半導体関連株は6月に膨らんだ信用買いの6ヶ月期日や損益通算売りが年末にかけて重なるため上値が重いと分析。一方で、信用買い残が減少し需給が改善している出遅れバリュー株や高配当・ディフェンシブ銘柄へ資金が向かう二極化相場を予想しています。",
+   "market_view": "日経平均は空売り残高の増加により底堅く推移しているが、NVIDIA決算などのイベントや日本株の優位性スイッチ(NS倍率)次第で変動する展開。半導体株の重荷と高配当株への資金シフトによる二極化に注意が必要。",
+   "market": "MIX",
    "no_transcript": false,
    "skip_reason": "",
    "picks": [
@@ -135,67 +135,77 @@
      "name": "キオクシアホールディングス",
      "ticker": "285A",
      "stance": "bearish",
-     "timestamp": "02:09"
+     "timestamp": "19:25"
     },
     {
-     "name": "ソフトバンクグループ",
-     "ticker": "9984",
-     "stance": "bearish",
-     "timestamp": "05:41"
-    },
-    {
-     "name": "ソニーグループ",
-     "ticker": "6758",
+     "name": "日本電信電話",
+     "ticker": "9432",
      "stance": "bullish",
-     "timestamp": "09:31"
+     "timestamp": "20:44"
     },
     {
      "name": "レーザーテック",
      "ticker": "6920",
-     "stance": "bearish",
-     "timestamp": "15:21"
+     "stance": "neutral",
+     "timestamp": "18:59"
+    },
+    {
+     "name": "エヌビディア",
+     "ticker": "NVDA",
+     "stance": "neutral",
+     "timestamp": "26:38"
+    }
+   ]
+  },
+  {
+   "video_id": "CP-8CNx9jAw",
+   "title": "今日の活況銘柄を見てみる！（フジクラ・太陽誘電・ソフトバンクグループ・キオクシア・村田製作所等）株式テクニカルチャート分析",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-08-26T07:02:35+00:00",
+   "overview": "エヌビディア決算やジャクソンホール会議といった重要イベントを前に、全体相場は手控えムードの中で底堅い展開となりました。個別銘柄では信用買残の増加や出来高減少に伴う需給悪化が目立つ銘柄が多く、警戒が必要な状況です。キオクシアや太陽誘電などは上値のしこりが意識される一方で、村田製作所のように底堅く反転を試す銘柄も散見されます。",
+   "market_view": "主要イベント通過前の手控えで薄商いとなる中、日経平均は高値引けとなりましたが、個別では需給悪化が目立つ銘柄が多く警戒が必要です。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "フジクラ",
+     "ticker": "5803",
+     "stance": "neutral",
+     "timestamp": "03:37"
     },
     {
      "name": "太陽誘電",
      "ticker": "6976",
      "stance": "bearish",
-     "timestamp": "17:35"
+     "timestamp": "04:25"
+    },
+    {
+     "name": "キオクシア",
+     "ticker": "285A",
+     "stance": "bearish",
+     "timestamp": "05:11"
     },
     {
      "name": "村田製作所",
      "ticker": "6981",
-     "stance": "bearish",
-     "timestamp": "21:23"
-    },
-    {
-     "name": "トヨタ自動車",
-     "ticker": "7203",
      "stance": "bullish",
-     "timestamp": "36:00"
+     "timestamp": "07:44"
     },
     {
-     "name": "マツダ",
-     "ticker": "7261",
-     "stance": "bullish",
-     "timestamp": "40:42"
+     "name": "ソフトバンクグループ",
+     "ticker": "9984",
+     "stance": "neutral",
+     "timestamp": "08:35"
     },
     {
-     "name": "ヤマハ発動機",
-     "ticker": "7272",
-     "stance": "bullish",
-     "timestamp": "43:23"
-    },
-    {
-     "name": "IHI",
-     "ticker": "7013",
-     "stance": "bearish",
-     "timestamp": "48:45"
-    },
-    {
-     "name": "NTT",
-     "ticker": "9432",
-     "stance": "bullish",
-     "timestamp": "50:31"
+     "name": "古河電気工業",
+     "ticker": "5801",
+     "stance": "neutral",
+     "timestamp": "09:27"
     }
    ]
   },
@@ -270,28 +280,6 @@
      "ticker": "8766",
      "stance": "bearish",
      "timestamp": "00:00"
-    }
-   ]
-  },
-  {
-   "video_id": "t-1jmIIex28",
-   "title": "キオクシア（285A）株式テクニカルチャート分析",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-08-19T06:57:50+00:00",
-   "overview": "日経平均が大幅安となり半導体株が総崩れとなった相場環境において、全体相場を牽引するキオクシア(285A)のテクニカル分析を行った動画です。韓国コスピの弱さや主要株の下落が響いているものの、米エヌビディア決算を控えたポジション調整の側面が大きいと分析しています。キオクシアは急落したものの、下値支持線に近づいており押し目買いの機会を探る展開が示されています。",
-   "market_view": "海外市場や半導体株の崩れにより日経平均は大幅下落しているが、業績が良い銘柄が多く決算前のポジション整理が終われば安値で拾われる展開を予想している。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "キオクシア",
-     "ticker": "285A",
-     "stance": "bullish",
-     "timestamp": "06:18"
     }
    ]
   },
