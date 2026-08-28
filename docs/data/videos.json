@@ -1,6 +1,134 @@
 {
- "generated_at": "2026-08-28T08:35:17.409259+09:00",
+ "generated_at": "2026-08-28T16:24:42.993861+09:00",
  "videos": [
+  {
+   "video_id": "_Q1Y3Xh1pPQ",
+   "title": "今日の活況銘柄を見てみる！（フジクラ・太陽誘電・ティアフォー・村田製作所・ユニチカ・SBG等）株式テクニカルチャート分析",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-08-28T07:05:15+00:00",
+   "overview": "本日の株式市場の動向と注目の個別銘柄について解説。プライム市場の売買代金減少に伴いグロース市場への資金シフトが顕著となる中、需給悪化銘柄のスイング警戒や需給面の大切さを強調。個別では太陽誘電やフジクラ、村田製作所などの重い値動きを解説する一方、ストップ高となったティアフォー、出来高急増のユニチカや東洋エンジニアリングなど、足型や需給に変化が出ている銘柄のチャートを分析している。",
+   "market_view": "プライム市場の売買代金が下がりグロース市場へデイトレード資金が向かっている。需給が悪化している銘柄のスイングを避けることが基本となる相場環境である。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "太陽誘電",
+     "ticker": "6976",
+     "stance": "neutral",
+     "timestamp": "04:22"
+    },
+    {
+     "name": "フジクラ",
+     "ticker": "5803",
+     "stance": "neutral",
+     "timestamp": "05:54"
+    },
+    {
+     "name": "ティアフォー",
+     "ticker": "593A",
+     "stance": "bullish",
+     "timestamp": "06:33"
+    },
+    {
+     "name": "村田製作所",
+     "ticker": "6981",
+     "stance": "neutral",
+     "timestamp": "07:51"
+    },
+    {
+     "name": "ユニチカ",
+     "ticker": "3103",
+     "stance": "bullish",
+     "timestamp": "09:12"
+    },
+    {
+     "name": "ソフトバンクグループ",
+     "ticker": "9984",
+     "stance": "bearish",
+     "timestamp": "10:24"
+    },
+    {
+     "name": "古河電気工業",
+     "ticker": "5801",
+     "stance": "neutral",
+     "timestamp": "10:55"
+    },
+    {
+     "name": "東洋エンジニアリング",
+     "ticker": "6330",
+     "stance": "bullish",
+     "timestamp": "11:25"
+    }
+   ]
+  },
+  {
+   "video_id": "GZfb3Kol0fs",
+   "title": "【緊急】海外投資家が日本株大量売却‼日経平均寄天でAI半導体株も軟調。キオクシア5％高で高値掴み助かるか⁉ドル円、米国株もNVIDIA 決算で上昇。仮想通貨BTC、金先物強い",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-08-27T15:13:18+00:00",
+   "overview": "動画では日経平均が寄付き後に失速した背景や、海外投資家による約4000億円規模の日本株売り越しデータを踏まえ、市場全体の需給とショートカバーの発生条件を解説。米株市場でNVIDIAやセールスフォースが好決算を受けて急伸する一方、日本株は個別銘柄によって明暗が分かれる状況を分析。任天堂、三菱UFJ、スバル、パン・パシフィックなどのテクニカル形状や信用需給、9月配当月に向けた戦略が語られている。",
+   "market_view": "米株市場はNVIDIAやSaaS関連の好決算により堅調だが、日本株は海外勢の売り越しやNS倍率低下によりショートカバーの起動スイッチが入りにくく、上値が重い展開が続いている。",
+   "market": "MIX",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "任天堂",
+     "ticker": "7974",
+     "stance": "neutral",
+     "timestamp": "02:10"
+    },
+    {
+     "name": "三菱UFJフィナンシャル・グループ",
+     "ticker": "8306",
+     "stance": "bullish",
+     "timestamp": "03:46"
+    },
+    {
+     "name": "SUBARU",
+     "ticker": "7270",
+     "stance": "bullish",
+     "timestamp": "07:40"
+    },
+    {
+     "name": "三菱重工業",
+     "ticker": "7011",
+     "stance": "bearish",
+     "timestamp": "18:16"
+    },
+    {
+     "name": "日本製鉄",
+     "ticker": "5401",
+     "stance": "bullish",
+     "timestamp": "21:22"
+    },
+    {
+     "name": "セールスフォース",
+     "ticker": "CRM",
+     "stance": "bullish",
+     "timestamp": "21:53"
+    },
+    {
+     "name": "NVIDIA",
+     "ticker": "NVDA",
+     "stance": "bullish",
+     "timestamp": "24:28"
+    },
+    {
+     "name": "パン・パシフィック・インターナショナルホールディングス",
+     "ticker": "7532",
+     "stance": "bearish",
+     "timestamp": "51:38"
+    }
+   ]
+  },
   {
    "video_id": "cEI0whFX3W4",
    "title": "【日本株動くぞ‼️】信用害爆増でAI半導体株が木端微塵‼️日経平均2018年相場でバリュー株、高配当銘柄強い。ドル円159円推移。米国株もNVIDIA 決算で大波乱⁉️仮想通貨BTC、金先物爆騰",
@@ -118,46 +246,6 @@
    ]
   },
   {
-   "video_id": "LhJgVQFXUDM",
-   "title": "【日本株動くぞ‼️】信用害爆増でAI半導体株が木端微塵‼️日経平均2018年相場でバリュー株、高配当銘柄強い。ドル円159円推移。米国株もNVIDIA 決算で大波乱⁉️仮想通貨BTC、金先物爆騰",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-08-26T09:15:03+00:00",
-   "overview": "日経平均株価は理論値からの反転上昇を見せているものの、空売り残高や信用倍率の観点から2018年相場と酷似した需給構造となっており、9月末の配当に向けた上昇後に調整するジグザグな値動きを想定しています。半導体関連株は6月に膨らんだ信用買いの6ヶ月期日や損益通算売りが年末にかけて重なるため上値が重いと分析。一方で、信用買い残が減少し需給が改善している出遅れバリュー株や高配当・ディフェンシブ銘柄へ資金が向かう二極化相場を予想しています。",
-   "market_view": "日経平均は空売り残高の増加により底堅く推移しているが、NVIDIA決算などのイベントや日本株の優位性スイッチ(NS倍率)次第で変動する展開。半導体株の重荷と高配当株への資金シフトによる二極化に注意が必要。",
-   "market": "MIX",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "キオクシアホールディングス",
-     "ticker": "285A",
-     "stance": "bearish",
-     "timestamp": "19:25"
-    },
-    {
-     "name": "日本電信電話",
-     "ticker": "9432",
-     "stance": "bullish",
-     "timestamp": "20:44"
-    },
-    {
-     "name": "レーザーテック",
-     "ticker": "6920",
-     "stance": "neutral",
-     "timestamp": "18:59"
-    },
-    {
-     "name": "エヌビディア",
-     "ticker": "NVDA",
-     "stance": "neutral",
-     "timestamp": "26:38"
-    }
-   ]
-  },
-  {
    "video_id": "CP-8CNx9jAw",
    "title": "今日の活況銘柄を見てみる！（フジクラ・太陽誘電・ソフトバンクグループ・キオクシア・村田製作所等）株式テクニカルチャート分析",
    "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
@@ -258,28 +346,6 @@
      "ticker": "",
      "stance": "bullish",
      "timestamp": "32:27"
-    }
-   ]
-  },
-  {
-   "video_id": "7EwFOD-X_NY",
-   "title": "東京海上ホールディングス　株式分割&株主優待発表！　#shorts",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-08-25T09:12:35+00:00",
-   "overview": "東京海上ホールディングスによる株式分割と株主優待制度の新設発表について解説しています。9月30日付けでの15分割により株価が500円以下となり、NISAなどで個人投資家が買いやすくなる点や電子マネーが進呈される継続保有優待が評価されています。一方で、低価格化により信用買い残が増加して上値が重くなる懸念があるため、分割後の株価反応には警戒が必要と指摘しています。",
-   "market_view": "",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "東京海上ホールディングス",
-     "ticker": "8766",
-     "stance": "bearish",
-     "timestamp": "00:00"
     }
    ]
   },
