@@ -287,19 +287,19 @@
    ]
   },
   {
-   "video_id": "qr-3WZVIqZI",
-   "title": "【日経平均】 NDIVIA決算 今夜決着！ 私はこう考えます サンディスク・キオクシア・太陽誘電・テラドローン・アドバンテスト",
-   "published": "2026-08-26T11:00:33+00:00",
-   "description": "※動画の趣旨は個人的主観の予測であり、値動きを保証するものではありません。\n　投資の判断は自己責任でお願いします。\n\nサンワード証券セミナー申し込み\nhttps://www.sunward-t.co.jp/seminar/2026/09/26_3/index_k.html\n\n◉トレンド分析の基礎おすすめ動画\n【永久保存版】初心者でもわかるダウ理論の使い方【前編】\nhttps://youtu.be/re9XBR2qcBw\n【永久保存版】初心者でもわかるダウ理論の使い方【後編】\nhttps://youtu.be/Z21W4VFSs9g\n【知らなきゃ勝てない】移動平均線で相場を読む最強の方法\nhttps://youtu.be/FfSX8hcRR2I\n【一目均衡表の真髄】初心者でも分かる完全ガイド\nhttps://youtu.be/xPkb1twTFFI\n\n◉SBI証券株式会社キャンペーン　手数料",
+   "video_id": "-B7uz0GmbhY",
+   "title": "【日経平均】 週明け相場 方向感欠く テーマ株を見ろ サンディスク・キオクシア・テラドローン・ティアフォー・オンコリスバイオ・GO",
+   "published": "2026-08-28T12:00:48+00:00",
+   "description": "※動画の趣旨は個人的主観の予測であり、値動きを保証するものではありません。\n　投資の判断は自己責任でお願いします。\n\nトレンド分析マスターコース\n「無料オンライン講座(全5回)」＆豪華特典プレゼント！\n【完全無料】→ https://www.fpo.jp/suzuki/\n\nサンワード証券セミナー申し込み\nhttps://www.sunward-t.co.jp/seminar/2026/09/26_3/index_k.html\n\n◉トレンド分析の基礎おすすめ動画\n【永久保存版】初心者でもわかるダウ理論の使い方【前編】\nhttps://youtu.be/re9XBR2qcBw\n【永久保存版】初心者でもわかるダウ理論の使い方【後編】\nhttps://youtu.be/Z21W4VFSs9g\n【知らなきゃ勝てない】移動平均線で相場を読む最強の方法\nhttps://youtu.be/FfSX8hcR",
    "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
    "channel_name": "Trader's Lab",
    "channel_short": "TL",
    "slot": 1,
    "no_transcript": false,
    "skip_reason": "",
-   "overview": "エヌビディアの決算発表を前に、日経平均株価や米主要指数は明確な方向感に欠ける持ち合い相場が続いています。テクニカル的には上値の重い展開が想定され、各種指数の下ブレリスクへの警戒が必要です。個別銘柄ではテラドローンが防衛装備庁関連の好材料で急騰した一方、サンディスクやキオクシア、太陽誘電などの半導体・電子部品株はチャート形状悪化により下落リスクが指摘されています。アドバンテストのみ中長期で強気の推移を維持しています。",
-   "market_view": "エヌビディア決算を控え全体相場は様子見ムードですが、主要指数やSOX指数はテクニカル的に上値が重く、下落トレンドへの転換に警戒が必要です。",
-   "market": "MIX",
+   "overview": "日経平均はレンジ相場が続いており、週明け以降も方向感を欠く難解な相場環境が想定されています。AI・半導体などの主力株が指数連動で停滞する一方、市場の資金はテーマ性のあるグロース銘柄や中小型株へシフトしています。動画では下落基調を強めるキオクシアやサンディスクの警戒点とともに、高値更新やストップ高となったテラドローン、ティアフォー、オンコリスバイオ、GOのテクニカル分析と立ち回り方を解説しています。",
+   "market_view": "日経平均は方向感を欠くレンジ相場が続いており、AI・半導体関連からグロース系テーマ株への資金流入が見られます。",
+   "market": "JP",
    "picks": [
     {
      "name": "サンディスク",
@@ -307,15 +307,15 @@
      "ticker": "SNDK",
      "market": "US",
      "stance": "bearish",
-     "stance_note": "移動平均線のデッドクロスで下落警戒",
+     "stance_note": "25日線維持不可なら下抜け警戒",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "移動平均線がデッドクロスし25日線も下向きで、75日線や一目均衡表の雲がレジスタンスとして機能している。",
-      "SOX指数と同様に上値が重く下がりやすいチャート形状であり、200日線付近までの調整リスクが存在する。"
+      "プレ市場で下落しておりテクニカル的に中途半端な位置にあるため週明けの方向感見極めが必要。",
+      "25日線より上で推移を維持できない場合は急落や7月末安値水準までの調整リスクが意識される。"
      ],
-     "timestamp": "17:20",
+     "timestamp": "24:25",
      "confidence": "high"
     },
     {
@@ -324,152 +324,16 @@
      "ticker": "285A",
      "market": "JP",
      "stance": "bearish",
-     "stance_note": "25日線下向きで節目の価格下割れを警戒",
+     "stance_note": "5万円割れで下落トレンド鮮明",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "25日移動平均線が下向きでサンディスク以上に形状が悪く、直近高値圏での買い手がほとんど含み損の状況。",
-      "5万円の節目で踏みとどまっているものの昨日の安値を割ると崩れやすく、4万5000円前後に向けた下落を警戒。"
+      "投資報道にもかかわらず大幅下落し5万円を割り込むなど売り圧力が極めて強い状態になっている。",
+      "下向きの25日線に沿った下落基調に加え、直近安値割れにより日足・週足で下落トレンドが確定した。"
      ],
-     "timestamp": "19:00",
+     "timestamp": "26:21",
      "confidence": "high"
-    },
-    {
-     "name": "太陽誘電",
-     "name_en": "Taiyo Yuden Co., Ltd.",
-     "ticker": "6976",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "直近安値更新で受給バランスが悪化",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "直近安値を更新し、直近3ヶ月の買い手がほぼ全員含み損という著しくバランスの悪い需給構造となっている。",
-      "5日線とマイナス1シグマに沿ったバンドウォークが継続しており、上値が非常に重く買いづらい展開が続く。"
-     ],
-     "timestamp": "21:09",
-     "confidence": "high"
-    },
-    {
-     "name": "テラドローン",
-     "name_en": "Terra Drone Corporation",
-     "ticker": "278A",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "防衛関連の材料発表で押し目買いが有効",
-     "target_price": "",
-     "entry": "1400円台前半",
-     "stop": "",
-     "reasons": [
-      "防衛装備庁のドローン早期取得プログラムの実証試験通過という強力な好材料を受けストップ高となった。",
-      "短期的な過熱感があるため高値での飛びつき買いは避け、1400円台など押し目でのエントリーが有効。"
-     ],
-     "timestamp": "23:58",
-     "confidence": "high"
-    },
-    {
-     "name": "アドバンテスト",
-     "name_en": "Advantest Corporation",
-     "ticker": "6857",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "中長期の上昇トレンド継続で強気維持",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "半導体関連銘柄の中で唯一最高値を更新しており、月足・週足レベルでの上昇トレンドを強固に維持している。",
-      "日経平均の動きに左右され短期的なボラティリティは高いものの、単体でのチャート形状は良好で中長期優位。"
-     ],
-     "timestamp": "26:49",
-     "confidence": "high"
-    }
-   ]
-  },
-  {
-   "video_id": "mNlpnzNHFEQ",
-   "title": "【日経平均】 方向感欠くが 下げトレンド継続確定 シナリオ変更なし サンディスク・キオクシア・古河電工・テラドローン・ティアフォー",
-   "published": "2026-08-25T11:34:23+00:00",
-   "description": "※動画の趣旨は個人的主観の予測であり、値動きを保証するものではありません。\n　投資の判断は自己責任でお願いします。\n\nサンワード証券セミナー申し込み\nhttps://www.sunward-t.co.jp/seminar/2026/09/26_3/index_k.html\n\n◉トレンド分析の基礎おすすめ動画\n【永久保存版】初心者でもわかるダウ理論の使い方【前編】\nhttps://youtu.be/re9XBR2qcBw\n【永久保存版】初心者でもわかるダウ理論の使い方【後編】\nhttps://youtu.be/Z21W4VFSs9g\n【知らなきゃ勝てない】移動平均線で相場を読む最強の方法\nhttps://youtu.be/FfSX8hcRR2I\n【一目均衡表の真髄】初心者でも分かる完全ガイド\nhttps://youtu.be/xPkb1twTFFI\n\n◉SBI証券株式会社キャンペーン　手数料",
-   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-   "channel_name": "Trader's Lab",
-   "channel_short": "TL",
-   "slot": 1,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "本動画では、主要イベントを前に方向感を欠く日経平均株価について、4時間足レベルの下げトレンド継続シナリオを解説しています。また、米国市場の動向や関連指数を踏まえた上で、個別銘柄であるサンディスク、キオクシア、古河電気工業、テラドローン、ティアフォーのチャート形状や需給、材料について詳細な分析が行われています。",
-   "market_view": "エヌビディア決算やジャクソンホール会議などのイベント待ちで市場は方向感を欠いているものの、日経平均は戻りが鈍くテクニカル的に下落トレンドが継続しているため警戒が必要です。",
-   "market": "MIX",
-   "picks": [
-    {
-     "name": "日経平均株価",
-     "name_en": "Nikkei 225",
-     "ticker": "",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "4時間足で下落トレンドが継続",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "4時間足チャートにおいて高値と安値を切り下げる下落トレンドが形成されており戻りは限定的。",
-      "6万6300円付近の水平ゾーンや複数の移動平均線が強い上値抵抗線として機能している。"
-     ],
-     "timestamp": "00:18",
-     "confidence": "high"
-    },
-    {
-     "name": "サンディスク",
-     "name_en": "SanDisk Corporation",
-     "ticker": "SNDK",
-     "market": "US",
-     "stance": "bearish",
-     "stance_note": "25日線で下げ止まるも戻りは重い",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "窓を開けて下落した後に25日線付近で下げ止まったが明確な上昇転換には至っていない。",
-      "移動平均線や転換線が上に控えており、直近高値を上抜けない限り戻り売りに押されやすい。"
-     ],
-     "timestamp": "22:35",
-     "confidence": "medium"
-    },
-    {
-     "name": "キオクシア",
-     "name_en": "Kioxia Holdings Corporation",
-     "ticker": "285A",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "25日線が下向きで戻り売り優勢",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "25日移動平均線が下向きで推移しており、株価が戻してもテクニカル的に売られやすい。",
-      "直近安値を割り込むと4万5000円や4万円付近まで下落する可能性がありデイスイング推奨。"
-     ],
-     "timestamp": "23:59",
-     "confidence": "medium"
-    },
-    {
-     "name": "古河電気工業",
-     "name_en": "Furukawa Electric Co., Ltd.",
-     "ticker": "5801",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "急騰も対局は下落トレンドの戻り",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "10%超の上昇を見せたものの対局は下落トレンドであり過去の押し安値ラインで戻り売られやすい。",
-      "週足チャートにおいて複数の移動平均線がレジスタンスとして重なっており上値が限定的。"
-     ],
-     "timestamp": "26:09",
-     "confidence": "medium"
     },
     {
      "name": "テラドローン",
@@ -477,33 +341,196 @@
      "ticker": "278A",
      "market": "JP",
      "stance": "neutral",
-     "stance_note": "材料視でPTS上昇もバンド上限警戒",
+     "stance_note": "高値更新も過熱感から急落警戒",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "防衛装備庁の案件採択材料でPTSは上昇したがボリンジャーバンドが収縮中で利確が出やすい。",
-      "25日移動平均線が横ばい推移のため急騰時には利確売り圧力に押される展開に注意が必要。"
+      "防衛省関連の材料や株式分割などを背景に3日連続の大幅高で上場来高値を更新中である。",
+      "移動平均線からの乖離率が高くボリンジャーバンドでも過熱感が出ているため一時的急落に注意を要する。"
      ],
-     "timestamp": "30:10",
-     "confidence": "medium"
+     "timestamp": "33:24",
+     "confidence": "high"
     },
     {
      "name": "ティアフォー",
      "name_en": "TIER IV, Inc.",
      "ticker": "",
      "market": "JP",
-     "stance": "bullish",
-     "stance_note": "高値更新で青天井の上昇トレンド",
+     "stance": "neutral",
+     "stance_note": "S高で強いが勢い一巡の反落注意",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "自動運転関連のテーマ性と機関投資家の資金流入により高値を更新し青天井の展開が続く。",
-      "足元の短中期チャートでも高値と安値を順調に切り上げており買い勢力が優勢となっている。"
+      "トヨタの自動運転システム搭載報道が材料視され資金が流入しストップ高まで買われた。",
+      "上場直後でテクニカル指標が機能しにくく急反落リスクもあるためデイトレやロット調整が必要。"
      ],
-     "timestamp": "32:27",
+     "timestamp": "35:48",
+     "confidence": "high"
+    },
+    {
+     "name": "オンコリスバイオファルマ",
+     "name_en": "Oncolys BioPharma Inc.",
+     "ticker": "4588",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "実需評価でS高・上昇トレンド継続",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "食道がん治療製品の販売開始など実需面の評価が定着しストップ高および上場来高値を更新した。",
+      "月足・週足・日足の全時間軸で綺麗なトレンドフォローを形成しており出来高を伴う強い上昇が続く。"
+     ],
+     "timestamp": "38:11",
+     "confidence": "high"
+    },
+    {
+     "name": "GO",
+     "name_en": "GO Inc.",
+     "ticker": "5530",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "高値更新継続も乖離率上昇に留意",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "タクシー配車事業の成長期待から買いが続いており日足ベースで上場来高値更新が進行している。",
+      "移動平均線でのバンドウォークを継続し順調な展開だが乖離率が高まりつつある点には警戒を要する。"
+     ],
+     "timestamp": "41:11",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
+   "video_id": "Lx8g5YPr65Y",
+   "title": "【日経平均】 NVIDIA決算で上昇するも失速 膠着感強まる動き サンディスク・キオクシア・テラドローン・アスタリスク・ティアフォー・GO",
+   "published": "2026-08-27T11:44:19+00:00",
+   "description": "※動画の趣旨は個人的主観の予測であり、値動きを保証するものではありません。\n　投資の判断は自己責任でお願いします。\n\nサンワード証券セミナー申し込み\nhttps://www.sunward-t.co.jp/seminar/2026/09/26_3/index_k.html\n\n◉トレンド分析の基礎おすすめ動画\n【永久保存版】初心者でもわかるダウ理論の使い方【前編】\nhttps://youtu.be/re9XBR2qcBw\n【永久保存版】初心者でもわかるダウ理論の使い方【後編】\nhttps://youtu.be/Z21W4VFSs9g\n【知らなきゃ勝てない】移動平均線で相場を読む最強の方法\nhttps://youtu.be/FfSX8hcRR2I\n【一目均衡表の真髄】初心者でも分かる完全ガイド\nhttps://youtu.be/xPkb1twTFFI\n\n◉SBI証券株式会社キャンペーン　手数料",
+   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+   "channel_name": "Trader's Lab",
+   "channel_short": "TL",
+   "slot": 1,
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "日経平均株価はNVIDIAの決算を受けて朝方に上昇して始まったものの、アドバンテストの下落などの影響でマイナスに沈み膠着感を強めました。相場全体で指数の方向感が出ない中、短期・中期・長期で異なるトレンドを見せており判断が難しい展開です。このような指数の動きが難解な相場環境下では、独自のモメンタムやテーマ性を持つグロース系銘柄(テラドローン、アスタリスク、ティアフォー、GOなど)に絞った選定が有効であると解説されています。",
+   "market_view": "日経平均や主要指数はレンジ内で上値の重さが目立ち方向感を欠いており、上限突破または下限割り込みを確認するまでは過度な強気・弱気を控えるべき相場環境です。",
+   "market": "MIX",
+   "picks": [
+    {
+     "name": "NVIDIA",
+     "name_en": "NVIDIA Corporation",
+     "ticker": "NVDA",
+     "market": "US",
+     "stance": "neutral",
+     "stance_note": "中長期は上目線も直後の急伸後下落に警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "中長期では月足や週足のトレンドフォローが継続し上目線だが、決算通過直後のギャップアップ後は寄り天で下落する傾向が多く米国市場開始後の動きに警戒が必要。"
+     ],
+     "timestamp": "20:39",
      "confidence": "medium"
+    },
+    {
+     "name": "サンディスク",
+     "name_en": "SanDisk",
+     "ticker": "WDC",
+     "market": "US",
+     "stance": "neutral",
+     "stance_note": "17日高値突破まで反転上昇とは言えず様子見",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "NVIDIA決算を受けて寄り付きで上昇スタートも25日線が下向きで上に75日線等が控え、17日の高値を更新しない限り反転上昇とは言えない中途半端な動き。"
+     ],
+     "timestamp": "21:42",
+     "confidence": "medium"
+    },
+    {
+     "name": "キオクシア",
+     "name_en": "Kioxia Holdings Corporation",
+     "ticker": "285A",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "サポレジに挟まれ強烈なレンジ色が続く",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "岩手県での製造棟建設報道を受け買われ堅調な動きを見せたが、週足では主要移動平均線が上値抵抗となりサポートとレジスタンスに挟まれたレンジ色が強い展開。"
+     ],
+     "timestamp": "23:08",
+     "confidence": "medium"
+    },
+    {
+     "name": "テラドローン",
+     "name_en": "Terra Drone Corporation",
+     "ticker": "278A",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "上昇確定も25日線乖離が高く押し目を待つ",
+     "target_price": "",
+     "entry": "16560円付近",
+     "stop": "",
+     "reasons": [
+      "株式分割発表などを材料に上場来高値を更新し上昇トレンドが確定。ただし25日線との乖離率が30%を超えて高いため1万6560円付近への押し目を待つのが最適。"
+     ],
+     "timestamp": "24:59",
+     "confidence": "high"
+    },
+    {
+     "name": "アスタリスク",
+     "name_en": "Asterisk Inc.",
+     "ticker": "6522",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "ストップ高で上昇継続も加熱感からの押し警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "スマートカートの発表や時価総額の小ささから大口資金が集まりストップ高を記録。直近高値突破で上昇トレンド継続となるが、日足乖離率による押し目形成に注意。"
+     ],
+     "timestamp": "29:08",
+     "confidence": "high"
+    },
+    {
+     "name": "ティアフォー",
+     "name_en": "TIER IV, Inc.",
+     "ticker": "212A",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "自動運転テーマで上場来高値を更新し強気",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "相場の方向感が欠ける中で自動運転ソフト開発のテーマ性やルネサス連携などで資金が集中。本日も上場来高値を更新しており短期的にも強気のトレンドが継続。"
+     ],
+     "timestamp": "32:00",
+     "confidence": "high"
+    },
+    {
+     "name": "GO",
+     "name_en": "GO Inc.",
+     "ticker": "247A",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "高値更新で明確な上昇トレンドが継続",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "テーマ性の高さや物色難から買われ8%超の大幅高。直近高値3960円を上抜けて上場来高値を更新し、日足チャートで見ても誰が見ても明確な上昇トレンドを描く。"
+     ],
+     "timestamp": "33:45",
+     "confidence": "high"
     }
    ]
   },
