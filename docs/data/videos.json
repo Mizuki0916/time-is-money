@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-29T07:00:20.268944+09:00",
+ "generated_at": "2026-08-29T07:22:19.224311+09:00",
  "videos": [
   {
    "video_id": "fYej2v7Tq3k",
@@ -313,88 +313,76 @@
    ]
   },
   {
-   "video_id": "CP-8CNx9jAw",
-   "title": "今日の活況銘柄を見てみる！（フジクラ・太陽誘電・ソフトバンクグループ・キオクシア・村田製作所等）株式テクニカルチャート分析",
+   "video_id": "v9i7eYVQDQY",
+   "title": "NVIDIA決算！高成長に陰りみえず。株式テクニカルチャート分析",
    "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
    "channel_name": "トレーダーTOMO",
    "channel_short": "TOMO",
    "slot": 2,
-   "published": "2026-08-26T07:02:35+00:00",
-   "overview": "エヌビディア決算やジャクソンホール会議といった重要イベントを前に、全体相場は手控えムードの中で底堅い展開となりました。個別銘柄では信用買残の増加や出来高減少に伴う需給悪化が目立つ銘柄が多く、警戒が必要な状況です。キオクシアや太陽誘電などは上値のしこりが意識される一方で、村田製作所のように底堅く反転を試す銘柄も散見されます。",
-   "market_view": "主要イベント通過前の手控えで薄商いとなる中、日経平均は高値引けとなりましたが、個別では需給悪化が目立つ銘柄が多く警戒が必要です。",
-   "market": "JP",
+   "published": "2026-08-27T07:34:34+00:00",
+   "overview": "NVIDIAの決算発表を受け、売上高が前年同期比2.1倍となるなど強い業績と強気な来期見通しを解説しています。国内市場では半導体関連株の短期的な需給悪化が懸念される中、アドバンテストやイビデン、キオクシアなどの個別銘柄のチャート形状や需給関係、今後の見通しについて詳しく分析しています。",
+   "market_view": "日経平均は大きくギャップアップ後に利確売りに押される展開となり、半導体関連銘柄は短期的な需給悪化から重い動きが続いています。",
+   "market": "MIX",
    "no_transcript": false,
    "skip_reason": "",
    "picks": [
     {
-     "name": "フジクラ",
-     "ticker": "5803",
-     "stance": "neutral",
-     "timestamp": "03:37"
+     "name": "エヌビディア",
+     "ticker": "NVDA",
+     "stance": "bullish",
+     "timestamp": "00:03"
     },
     {
-     "name": "太陽誘電",
-     "ticker": "6976",
-     "stance": "bearish",
-     "timestamp": "04:25"
+     "name": "アドバンテスト",
+     "ticker": "6857",
+     "stance": "neutral",
+     "timestamp": "04:59"
+    },
+    {
+     "name": "イビデン",
+     "ticker": "4062",
+     "stance": "neutral",
+     "timestamp": "06:21"
     },
     {
      "name": "キオクシア",
      "ticker": "285A",
-     "stance": "bearish",
-     "timestamp": "05:11"
-    },
-    {
-     "name": "村田製作所",
-     "ticker": "6981",
-     "stance": "bullish",
-     "timestamp": "07:44"
-    },
-    {
-     "name": "ソフトバンクグループ",
-     "ticker": "9984",
      "stance": "neutral",
-     "timestamp": "08:35"
-    },
-    {
-     "name": "古河電気工業",
-     "ticker": "5801",
-     "stance": "neutral",
-     "timestamp": "09:27"
+     "timestamp": "06:38"
     }
    ]
   },
   {
-   "video_id": "rqmTyg3SIpY",
-   "title": "今週（8/17〜）専業が自信を持って買う1銘柄",
+   "video_id": "0B6s0lOnE1c",
+   "title": "今週（8/24〜）専業が自信を持って買う1銘柄",
    "channel_id": "UCt7qqCkTFFRfKjXzwqUXq4g",
    "channel_name": "ぺこ株",
-   "channel_short": "PK",
+   "channel_short": "ぺこ",
    "slot": 4,
-   "published": "2026-08-16T11:00:22+00:00",
-   "overview": "日本株専業投資家のペコ氏が、今週以降上昇が期待できる注目銘柄としてトライアルホールディングスを解説する動画です。西友の完全子会社化による売上高1兆円突破や、買収費用消化後の大幅増益見通しといったファンダメンタルズに加え、三役好転などのテクニカル面の両面から分析し、押し目を狙った具体的なエントリー戦略を提示しています。",
-   "market_view": "",
+   "published": "2026-08-23T11:00:30+00:00",
+   "overview": "日経平均が金利上昇や米大イベントを控えて乱高下する中、今週以降の上昇期待銘柄としてソニーグループをファンダメンタルズとテクニカルの両面から解説しています。TSMCとの提携による中長期での競争力強化やGTA6発売の波及効果、過去最高の営業利益率を見込む業績の良さなどを評価。併せてトライアル等の過去紹介銘柄の状況も振り返っています。",
+   "market_view": "長期金利の上昇や地政学リスク、NVIDIA決算やジャクソンホール会議前の警戒感からリスクオフで乱高下する難しい相場のため、無理せずペースを落とす対応が大事とされています。",
    "market": "JP",
    "no_transcript": false,
    "skip_reason": "",
    "picks": [
     {
+     "name": "ソニーグループ",
+     "ticker": "6758",
+     "stance": "bullish",
+     "timestamp": "03:26"
+    },
+    {
      "name": "トライアルホールディングス",
      "ticker": "141A",
      "stance": "bullish",
-     "timestamp": "01:21"
+     "timestamp": "02:42"
     },
     {
-     "name": "商船三井",
-     "ticker": "9104",
-     "stance": "neutral",
-     "timestamp": "01:05"
-    },
-    {
-     "name": "京都フィナンシャルグループ",
-     "ticker": "8369",
-     "stance": "neutral",
-     "timestamp": "00:15"
+     "name": "日本タバコ産業",
+     "ticker": "2914",
+     "stance": "bullish",
+     "timestamp": "03:09"
     }
    ]
   }
