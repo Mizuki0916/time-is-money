@@ -746,7 +746,7 @@
    "slot": 4,
    "no_transcript": true,
    "skip_reason": "動画が非公開・削除・配信予定などで取得できません",
-   "attempts": 3,
+   "attempts": 4,
    "overview": "",
    "market_view": "",
    "market": "",
