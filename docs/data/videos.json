@@ -1,6 +1,34 @@
 {
- "generated_at": "2026-08-29T07:57:32.471006+09:00",
+ "generated_at": "2026-08-29T08:21:56.960612+09:00",
  "videos": [
+  {
+   "video_id": "a8mvDBXRCSk",
+   "title": "キオクシア（285A）株式テクニカルチャート分析",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-08-28T23:00:04+00:00",
+   "overview": "キオクシア(285A)の株価下落背景と今後のテクニカル分析を解説しています。材料出尽くしによる出来高減少や信用改ざんの増加に加え、1ヶ月後に控える株式分割によるさらなる需給悪化への警戒を示しています。モデルケースとして村田製作所の動向を挙げつつ、当面はレンジ推移を見込み、分割後の値動きや出来高の変化を見極める姿勢をとっています。",
+   "market_view": "",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "キオクシアホールディングス",
+     "ticker": "285A",
+     "stance": "neutral",
+     "timestamp": "00:03"
+    },
+    {
+     "name": "村田製作所",
+     "ticker": "6981",
+     "stance": "neutral",
+     "timestamp": "08:41"
+    }
+   ]
+  },
   {
    "video_id": "fYej2v7Tq3k",
    "title": "ぺこ株 のライブ配信",
@@ -309,46 +337,6 @@
      "ticker": "247A",
      "stance": "bullish",
      "timestamp": "33:45"
-    }
-   ]
-  },
-  {
-   "video_id": "v9i7eYVQDQY",
-   "title": "NVIDIA決算！高成長に陰りみえず。株式テクニカルチャート分析",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-08-27T07:34:34+00:00",
-   "overview": "NVIDIAの決算発表を受け、売上高が前年同期比2.1倍となるなど強い業績と強気な来期見通しを解説しています。国内市場では半導体関連株の短期的な需給悪化が懸念される中、アドバンテストやイビデン、キオクシアなどの個別銘柄のチャート形状や需給関係、今後の見通しについて詳しく分析しています。",
-   "market_view": "日経平均は大きくギャップアップ後に利確売りに押される展開となり、半導体関連銘柄は短期的な需給悪化から重い動きが続いています。",
-   "market": "MIX",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "エヌビディア",
-     "ticker": "NVDA",
-     "stance": "bullish",
-     "timestamp": "00:03"
-    },
-    {
-     "name": "アドバンテスト",
-     "ticker": "6857",
-     "stance": "neutral",
-     "timestamp": "04:59"
-    },
-    {
-     "name": "イビデン",
-     "ticker": "4062",
-     "stance": "neutral",
-     "timestamp": "06:21"
-    },
-    {
-     "name": "キオクシア",
-     "ticker": "285A",
-     "stance": "neutral",
-     "timestamp": "06:38"
     }
    ]
   },

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-29T07:57:32.400371+09:00",
+ "generated_at": "2026-08-29T08:21:56.887415+09:00",
  "channels": [
   {
    "id": "UCsaeHha7ai_NNX8or8Jyb-g",
@@ -15,7 +15,7 @@
    "short": "TOMO",
    "slot": 2,
    "video_count": 2,
-   "latest": "2026-08-28T07:05:15+00:00"
+   "latest": "2026-08-28T23:00:04+00:00"
   },
   {
    "id": "UCK9Pl6bbWqMC_x7IDca2tIg",
@@ -35,7 +35,7 @@
   }
  ],
  "stats": {
-  "stocks": 34,
+  "stocks": 32,
   "videos": 7,
   "videos_this_week": 7,
   "bullish_lead": 17,
@@ -45,11 +45,33 @@
  "stocks": [
   {
    "key": "JP:285A",
-   "name": "キオクシア",
+   "name": "キオクシアホールディングス",
    "name_en": "Kioxia Holdings",
    "ticker": "285A",
    "market": "JP",
    "mentions": [
+    {
+     "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+     "channel_name": "トレーダーTOMO",
+     "channel_short": "TOMO",
+     "slot": 2,
+     "video_id": "a8mvDBXRCSk",
+     "video_title": "キオクシア（285A）株式テクニカルチャート分析",
+     "published": "2026-08-28T23:00:04+00:00",
+     "stance": "neutral",
+     "stance_note": "株式分割控えて受給警戒、見極め",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "決算やIR等の材料が出尽くした中で出来高の減少が顕著となっており、株価の上値を取りにくいチャート形状が続いているため。",
+      "約1ヶ月後に控える株式分割により個人投資家のスイング玉や信用改ざんが増加し、需給悪化に拍車がかかる懸念があるため。",
+      "足元は4万6000円から5万6000円程度のレンジ推移を想定し、分割後の値動きや出来高の推移を見極める必要があるため。"
+     ],
+     "timestamp": "00:03",
+     "seconds": 3,
+     "confidence": "high"
+    },
     {
      "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
      "channel_name": "Sho's投資情報局",
@@ -110,27 +132,6 @@
      "timestamp": "23:08",
      "seconds": 1388,
      "confidence": "medium"
-    },
-    {
-     "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-     "channel_name": "トレーダーTOMO",
-     "channel_short": "TOMO",
-     "slot": 2,
-     "video_id": "v9i7eYVQDQY",
-     "video_title": "NVIDIA決算！高成長に陰りみえず。株式テクニカルチャート分析",
-     "published": "2026-08-27T07:34:34+00:00",
-     "stance": "neutral",
-     "stance_note": "メモリ価格上昇は追い風も需給悪化から当面は慎重姿勢",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "NVIDIA決算で言及されたメモリ価格上昇や岩手県での新製造棟建設といった好材料が存在する。",
-      "個人の信用買い残高が高水準で回転日数も伸びており大口が入りにくく上値が重い慎重な位置。"
-     ],
-     "timestamp": "06:38",
-     "seconds": 398,
-     "confidence": "medium"
     }
    ],
    "consensus": {
@@ -140,7 +141,7 @@
    },
    "voices": 3,
    "split": false,
-   "last_mentioned": "2026-08-28T14:36:11+00:00",
+   "last_mentioned": "2026-08-28T23:00:04+00:00",
    "channel_ids": [
     "UCK9Pl6bbWqMC_x7IDca2tIg",
     "UCdQdRRLoajrt-5TEaAxslxA",
@@ -258,40 +259,18 @@
      "timestamp": "20:39",
      "seconds": 1239,
      "confidence": "medium"
-    },
-    {
-     "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-     "channel_name": "トレーダーTOMO",
-     "channel_short": "TOMO",
-     "slot": 2,
-     "video_id": "v9i7eYVQDQY",
-     "video_title": "NVIDIA決算！高成長に陰りみえず。株式テクニカルチャート分析",
-     "published": "2026-08-27T07:34:34+00:00",
-     "stance": "bullish",
-     "stance_note": "決算内容が非常に強く中長期での成長継続を示唆",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "5〜7月期決算は売上高前年同期比2.1倍、準利益2.3倍と市場予想を超えデータセンター向けが牽引。",
-      "8〜10月期のガイダンスや来期売上高前年比約70%増の見通しも市場予想を大幅に上回る強気な内容。"
-     ],
-     "timestamp": "00:03",
-     "seconds": 3,
-     "confidence": "high"
     }
    ],
    "consensus": {
-    "bullish": 2,
+    "bullish": 1,
     "bearish": 0,
     "neutral": 1
    },
-   "voices": 3,
+   "voices": 2,
    "split": false,
    "last_mentioned": "2026-08-27T15:13:18+00:00",
    "channel_ids": [
     "UCK9Pl6bbWqMC_x7IDca2tIg",
-    "UCdQdRRLoajrt-5TEaAxslxA",
     "UCsaeHha7ai_NNX8or8Jyb-g"
    ],
    "price": {
@@ -355,6 +334,131 @@
     "exchange_name": "NasdaqGS",
     "market_open": false,
     "symbol": "NVDA",
+    "source": "yahoo",
+    "fetched_at": "2026-08-28T21:54:19.663807+00:00"
+   }
+  },
+  {
+   "key": "JP:6981",
+   "name": "村田製作所",
+   "name_en": "Murata Manufacturing",
+   "ticker": "6981",
+   "market": "JP",
+   "mentions": [
+    {
+     "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+     "channel_name": "トレーダーTOMO",
+     "channel_short": "TOMO",
+     "slot": 2,
+     "video_id": "a8mvDBXRCSk",
+     "video_title": "キオクシア（285A）株式テクニカルチャート分析",
+     "published": "2026-08-28T23:00:04+00:00",
+     "stance": "neutral",
+     "stance_note": "出来高低迷で底値揉み合いの事例",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "上昇時の盛り上がりから一転して出来高が低迷しており、捕まった信用改ざんを削りながら底値揉み合いが続く状況のため。",
+      "MLCCの需要は存在するものの出来高が減少しており、キオクシアの株価動向を予測する上での類似事例として提示されたため。"
+     ],
+     "timestamp": "08:41",
+     "seconds": 521,
+     "confidence": "medium"
+    },
+    {
+     "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+     "channel_name": "トレーダーTOMO",
+     "channel_short": "TOMO",
+     "slot": 2,
+     "video_id": "_Q1Y3Xh1pPQ",
+     "video_title": "今日の活況銘柄を見てみる！（フジクラ・太陽誘電・ティアフォー・村田製作所・ユニチカ・SBG等）株式テクニカルチャート分析",
+     "published": "2026-08-28T07:05:15+00:00",
+     "stance": "neutral",
+     "stance_note": "辛抱の時期だが出来高がある限り監視は継続",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "7500円あたりが頭打ちになり板状況も良くないが、バリエーション的には過去と比べ相当安い位置にある。"
+     ],
+     "timestamp": "07:51",
+     "seconds": 471,
+     "confidence": "medium"
+    }
+   ],
+   "consensus": {
+    "bullish": 0,
+    "bearish": 0,
+    "neutral": 1
+   },
+   "voices": 1,
+   "split": false,
+   "last_mentioned": "2026-08-28T23:00:04+00:00",
+   "channel_ids": [
+    "UCdQdRRLoajrt-5TEaAxslxA"
+   ],
+   "price": {
+    "date": "2026-08-27",
+    "close": 7309.0,
+    "change_pct": 1.73,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 23952000,
+    "volume_ratio": 0.88,
+    "rsi14": 44.5,
+    "rsi_zone": "中立",
+    "ma25": 7458.4,
+    "ma75": 8666.19,
+    "trend": "下降基調",
+    "pos52": 50,
+    "spark": [
+     11890.0,
+     10875.0,
+     11080.0,
+     10250.0,
+     9212.0,
+     9027.0,
+     9475.0,
+     9860.0,
+     9066.0,
+     9100.0,
+     9100.0,
+     8400.0,
+     7632.0,
+     8001.0,
+     8317.0,
+     8538.0,
+     8311.0,
+     8102.0,
+     7153.0,
+     6231.0,
+     6416.0,
+     7416.0,
+     7161.0,
+     7129.0,
+     7829.0,
+     7421.0,
+     7263.0,
+     7302.0,
+     7538.0,
+     8311.0,
+     8235.0,
+     8290.0,
+     7496.0,
+     7331.0,
+     7205.0,
+     7091.0,
+     7067.0,
+     7130.0,
+     7185.0,
+     7309.0
+    ],
+    "currency": "JPY",
+    "exchange_name": "Tokyo",
+    "market_open": false,
+    "symbol": "6981.T",
     "source": "yahoo",
     "fetched_at": "2026-08-28T21:54:19.663807+00:00"
    }
@@ -1896,110 +2000,6 @@
    }
   },
   {
-   "key": "JP:6981",
-   "name": "村田製作所",
-   "name_en": "Murata Manufacturing Co., Ltd.",
-   "ticker": "6981",
-   "market": "JP",
-   "mentions": [
-    {
-     "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-     "channel_name": "トレーダーTOMO",
-     "channel_short": "TOMO",
-     "slot": 2,
-     "video_id": "_Q1Y3Xh1pPQ",
-     "video_title": "今日の活況銘柄を見てみる！（フジクラ・太陽誘電・ティアフォー・村田製作所・ユニチカ・SBG等）株式テクニカルチャート分析",
-     "published": "2026-08-28T07:05:15+00:00",
-     "stance": "neutral",
-     "stance_note": "辛抱の時期だが出来高がある限り監視は継続",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "7500円あたりが頭打ちになり板状況も良くないが、バリエーション的には過去と比べ相当安い位置にある。"
-     ],
-     "timestamp": "07:51",
-     "seconds": 471,
-     "confidence": "medium"
-    }
-   ],
-   "consensus": {
-    "bullish": 0,
-    "bearish": 0,
-    "neutral": 1
-   },
-   "voices": 1,
-   "split": false,
-   "last_mentioned": "2026-08-28T07:05:15+00:00",
-   "channel_ids": [
-    "UCdQdRRLoajrt-5TEaAxslxA"
-   ],
-   "price": {
-    "date": "2026-08-27",
-    "close": 7309.0,
-    "change_pct": 1.73,
-    "live": null,
-    "live_change_pct": null,
-    "live_time": null,
-    "volume": 23952000,
-    "volume_ratio": 0.88,
-    "rsi14": 44.5,
-    "rsi_zone": "中立",
-    "ma25": 7458.4,
-    "ma75": 8666.19,
-    "trend": "下降基調",
-    "pos52": 50,
-    "spark": [
-     11890.0,
-     10875.0,
-     11080.0,
-     10250.0,
-     9212.0,
-     9027.0,
-     9475.0,
-     9860.0,
-     9066.0,
-     9100.0,
-     9100.0,
-     8400.0,
-     7632.0,
-     8001.0,
-     8317.0,
-     8538.0,
-     8311.0,
-     8102.0,
-     7153.0,
-     6231.0,
-     6416.0,
-     7416.0,
-     7161.0,
-     7129.0,
-     7829.0,
-     7421.0,
-     7263.0,
-     7302.0,
-     7538.0,
-     8311.0,
-     8235.0,
-     8290.0,
-     7496.0,
-     7331.0,
-     7205.0,
-     7091.0,
-     7067.0,
-     7130.0,
-     7185.0,
-     7309.0
-    ],
-    "currency": "JPY",
-    "exchange_name": "Tokyo",
-    "market_open": false,
-    "symbol": "6981.T",
-    "source": "yahoo",
-    "fetched_at": "2026-08-28T21:54:19.663807+00:00"
-   }
-  },
-  {
    "key": "JP:3103",
    "name": "ユニチカ",
    "name_en": "UNITIKA LTD.",
@@ -3251,216 +3251,6 @@
     "symbol": "247A.T",
     "source": "yahoo",
     "fetched_at": "2026-08-28T22:00:05.251484+00:00"
-   }
-  },
-  {
-   "key": "JP:6857",
-   "name": "アドバンテスト",
-   "name_en": "Advantest Corporation",
-   "ticker": "6857",
-   "market": "JP",
-   "mentions": [
-    {
-     "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-     "channel_name": "トレーダーTOMO",
-     "channel_short": "TOMO",
-     "slot": 2,
-     "video_id": "v9i7eYVQDQY",
-     "video_title": "NVIDIA決算！高成長に陰りみえず。株式テクニカルチャート分析",
-     "published": "2026-08-27T07:34:34+00:00",
-     "stance": "neutral",
-     "stance_note": "短期的な需給悪化で重いがテスター需要での戻りに期待",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "寄り付きから板の状況が悪く大きな陰線を形成しており、短期的な需給の重さが懸念される。",
-      "NVIDIAの新型出荷に伴う新しいテスター需要が見込めるため、中長期的には戻りを試す展開を予想。"
-     ],
-     "timestamp": "04:59",
-     "seconds": 299,
-     "confidence": "medium"
-    }
-   ],
-   "consensus": {
-    "bullish": 0,
-    "bearish": 0,
-    "neutral": 1
-   },
-   "voices": 1,
-   "split": false,
-   "last_mentioned": "2026-08-27T07:34:34+00:00",
-   "channel_ids": [
-    "UCdQdRRLoajrt-5TEaAxslxA"
-   ],
-   "price": {
-    "date": "2026-08-27",
-    "close": 34610.0,
-    "change_pct": -3.05,
-    "live": null,
-    "live_change_pct": null,
-    "live_time": null,
-    "volume": 11025000,
-    "volume_ratio": 1.18,
-    "rsi14": 54.2,
-    "rsi_zone": "中立",
-    "ma25": 32853.6,
-    "ma75": 30047.13,
-    "trend": "上昇基調",
-    "pos52": 88,
-    "spark": [
-     32000.0,
-     28815.0,
-     29345.0,
-     29565.0,
-     28900.0,
-     27545.0,
-     29160.0,
-     29830.0,
-     28820.0,
-     29775.0,
-     31510.0,
-     29640.0,
-     27505.0,
-     29630.0,
-     29585.0,
-     30800.0,
-     28945.0,
-     28380.0,
-     25510.0,
-     25200.0,
-     27935.0,
-     32500.0,
-     31430.0,
-     31000.0,
-     33720.0,
-     32930.0,
-     32190.0,
-     34260.0,
-     34550.0,
-     35940.0,
-     36870.0,
-     37780.0,
-     35860.0,
-     35020.0,
-     35360.0,
-     35900.0,
-     34500.0,
-     34450.0,
-     35700.0,
-     34610.0
-    ],
-    "currency": "JPY",
-    "exchange_name": "Tokyo",
-    "market_open": false,
-    "symbol": "6857.T",
-    "source": "yahoo",
-    "fetched_at": "2026-08-28T21:54:19.663807+00:00"
-   }
-  },
-  {
-   "key": "JP:4062",
-   "name": "イビデン",
-   "name_en": "IBIDEN CO., LTD.",
-   "ticker": "4062",
-   "market": "JP",
-   "mentions": [
-    {
-     "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-     "channel_name": "トレーダーTOMO",
-     "channel_short": "TOMO",
-     "slot": 2,
-     "video_id": "v9i7eYVQDQY",
-     "video_title": "NVIDIA決算！高成長に陰りみえず。株式テクニカルチャート分析",
-     "published": "2026-08-27T07:34:34+00:00",
-     "stance": "neutral",
-     "stance_note": "NVIDIA向けシェア高く今後の力強い動きに注目",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "NVIDIA向けパッケージング基板で高いシェアを持ち、決算通過後の関連性から注目される。",
-      "ギャップアップ後に押し戻されたものの底堅さも見せており、今後の力強い動きが出るか注視。"
-     ],
-     "timestamp": "06:21",
-     "seconds": 381,
-     "confidence": "medium"
-    }
-   ],
-   "consensus": {
-    "bullish": 0,
-    "bearish": 0,
-    "neutral": 1
-   },
-   "voices": 1,
-   "split": false,
-   "last_mentioned": "2026-08-27T07:34:34+00:00",
-   "channel_ids": [
-    "UCdQdRRLoajrt-5TEaAxslxA"
-   ],
-   "price": {
-    "date": "2026-08-27",
-    "close": 20545.0,
-    "change_pct": 2.32,
-    "live": null,
-    "live_change_pct": null,
-    "live_time": null,
-    "volume": 9098700,
-    "volume_ratio": 1.12,
-    "rsi14": 55.0,
-    "rsi_zone": "中立",
-    "ma25": 18548.0,
-    "ma75": 19823.8,
-    "trend": "戻り歩調",
-    "pos52": 74,
-    "spark": [
-     25785.0,
-     23420.0,
-     23345.0,
-     21390.0,
-     19895.0,
-     19100.0,
-     19520.0,
-     20300.0,
-     18690.0,
-     17980.0,
-     19340.0,
-     17405.0,
-     15685.0,
-     17415.0,
-     18250.0,
-     18075.0,
-     17370.0,
-     16700.0,
-     14855.0,
-     13470.0,
-     13650.0,
-     16650.0,
-     15535.0,
-     16330.0,
-     20330.0,
-     19010.0,
-     19110.0,
-     19880.0,
-     20480.0,
-     21560.0,
-     20785.0,
-     21580.0,
-     20875.0,
-     19715.0,
-     19150.0,
-     19190.0,
-     18795.0,
-     19980.0,
-     20080.0,
-     20545.0
-    ],
-    "currency": "JPY",
-    "exchange_name": "Tokyo",
-    "market_open": false,
-    "symbol": "4062.T",
-    "source": "yahoo",
-    "fetched_at": "2026-08-28T22:22:13.536165+00:00"
    }
   },
   {

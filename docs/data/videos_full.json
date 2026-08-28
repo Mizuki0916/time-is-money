@@ -535,6 +535,58 @@
    ]
   },
   {
+   "video_id": "a8mvDBXRCSk",
+   "title": "キオクシア（285A）株式テクニカルチャート分析",
+   "published": "2026-08-28T23:00:04+00:00",
+   "description": "🔽サンワード証券さんコラボWEBセミナー\nテーマ「AI・半導体相場はまだ上がる？　年末相場の勝ち筋を読む！」\n\n2026年9月2日（水）\n18:00開演　20:00終了\n\n参加申し込みURL\nhttps://www.sunward-t.co.jp/seminar/2026/09/02_2/index_k.html\n\n・申し込みされた方のみ視聴可能となります。\n・後日アーカイブ視聴可能\n・参加無料\n\n🔽「株オンラインサロン」8月期新規メンバー募集中！\nエンジョイプランは初参加の方初月無料です★\n→　https://yoor.jp/door/tradertomo\n\n※ 参加プラン別のサービス内容はこちらの動画で解説しています。\n→https://youtu.be/LtXywHzgOHs?si=G3UipVQW0JsWkv5t\n\n株好きが集まる楽しいサロンを目指してます♪\n初心者歓迎です～ご参加",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "キオクシア(285A)の株価下落背景と今後のテクニカル分析を解説しています。材料出尽くしによる出来高減少や信用改ざんの増加に加え、1ヶ月後に控える株式分割によるさらなる需給悪化への警戒を示しています。モデルケースとして村田製作所の動向を挙げつつ、当面はレンジ推移を見込み、分割後の値動きや出来高の変化を見極める姿勢をとっています。",
+   "market_view": "",
+   "market": "JP",
+   "picks": [
+    {
+     "name": "キオクシアホールディングス",
+     "name_en": "Kioxia Holdings",
+     "ticker": "285A",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "株式分割控えて受給警戒、見極め",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "決算やIR等の材料が出尽くした中で出来高の減少が顕著となっており、株価の上値を取りにくいチャート形状が続いているため。",
+      "約1ヶ月後に控える株式分割により個人投資家のスイング玉や信用改ざんが増加し、需給悪化に拍車がかかる懸念があるため。",
+      "足元は4万6000円から5万6000円程度のレンジ推移を想定し、分割後の値動きや出来高の推移を見極める必要があるため。"
+     ],
+     "timestamp": "00:03",
+     "confidence": "high"
+    },
+    {
+     "name": "村田製作所",
+     "name_en": "Murata Manufacturing",
+     "ticker": "6981",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "出来高低迷で底値揉み合いの事例",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "上昇時の盛り上がりから一転して出来高が低迷しており、捕まった信用改ざんを削りながら底値揉み合いが続く状況のため。",
+      "MLCCの需要は存在するものの出来高が減少しており、キオクシアの株価動向を予測する上での類似事例として提示されたため。"
+     ],
+     "timestamp": "08:41",
+     "confidence": "medium"
+    }
+   ]
+  },
+  {
    "video_id": "_Q1Y3Xh1pPQ",
    "title": "今日の活況銘柄を見てみる！（フジクラ・太陽誘電・ティアフォー・村田製作所・ユニチカ・SBG等）株式テクニカルチャート分析",
    "published": "2026-08-28T07:05:15+00:00",
@@ -684,91 +736,6 @@
    ]
   },
   {
-   "video_id": "v9i7eYVQDQY",
-   "title": "NVIDIA決算！高成長に陰りみえず。株式テクニカルチャート分析",
-   "published": "2026-08-27T07:34:34+00:00",
-   "description": "🔽サンワード証券さんコラボWEBセミナー\nテーマ「AI・半導体相場はまだ上がる？　年末相場の勝ち筋を読む！」\n\n2026年9月2日（水）\n18:00開演　20:00終了\n\n参加申し込みURL\nhttps://www.sunward-t.co.jp/seminar/2026/09/02_2/index_k.html\n\n・申し込みされた方のみ視聴可能となります。\n・後日アーカイブ視聴可能\n・参加無料\n\n🔽「株オンラインサロン」8月期新規メンバー募集中！\nエンジョイプランは初参加の方初月無料です★\n→　https://yoor.jp/door/tradertomo\n\n※ 参加プラン別のサービス内容はこちらの動画で解説しています。\n→https://youtu.be/LtXywHzgOHs?si=G3UipVQW0JsWkv5t\n\n株好きが集まる楽しいサロンを目指してます♪\n初心者歓迎です～ご参加",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "NVIDIAの決算発表を受け、売上高が前年同期比2.1倍となるなど強い業績と強気な来期見通しを解説しています。国内市場では半導体関連株の短期的な需給悪化が懸念される中、アドバンテストやイビデン、キオクシアなどの個別銘柄のチャート形状や需給関係、今後の見通しについて詳しく分析しています。",
-   "market_view": "日経平均は大きくギャップアップ後に利確売りに押される展開となり、半導体関連銘柄は短期的な需給悪化から重い動きが続いています。",
-   "market": "MIX",
-   "picks": [
-    {
-     "name": "エヌビディア",
-     "name_en": "NVIDIA Corporation",
-     "ticker": "NVDA",
-     "market": "US",
-     "stance": "bullish",
-     "stance_note": "決算内容が非常に強く中長期での成長継続を示唆",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "5〜7月期決算は売上高前年同期比2.1倍、準利益2.3倍と市場予想を超えデータセンター向けが牽引。",
-      "8〜10月期のガイダンスや来期売上高前年比約70%増の見通しも市場予想を大幅に上回る強気な内容。"
-     ],
-     "timestamp": "00:03",
-     "confidence": "high"
-    },
-    {
-     "name": "アドバンテスト",
-     "name_en": "Advantest Corporation",
-     "ticker": "6857",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "短期的な需給悪化で重いがテスター需要での戻りに期待",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "寄り付きから板の状況が悪く大きな陰線を形成しており、短期的な需給の重さが懸念される。",
-      "NVIDIAの新型出荷に伴う新しいテスター需要が見込めるため、中長期的には戻りを試す展開を予想。"
-     ],
-     "timestamp": "04:59",
-     "confidence": "medium"
-    },
-    {
-     "name": "イビデン",
-     "name_en": "IBIDEN CO., LTD.",
-     "ticker": "4062",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "NVIDIA向けシェア高く今後の力強い動きに注目",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "NVIDIA向けパッケージング基板で高いシェアを持ち、決算通過後の関連性から注目される。",
-      "ギャップアップ後に押し戻されたものの底堅さも見せており、今後の力強い動きが出るか注視。"
-     ],
-     "timestamp": "06:21",
-     "confidence": "medium"
-    },
-    {
-     "name": "キオクシア",
-     "name_en": "Kioxia Holdings Corporation",
-     "ticker": "285A",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "メモリ価格上昇は追い風も需給悪化から当面は慎重姿勢",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "NVIDIA決算で言及されたメモリ価格上昇や岩手県での新製造棟建設といった好材料が存在する。",
-      "個人の信用買い残高が高水準で回転日数も伸びており大口が入りにくく上値が重い慎重な位置。"
-     ],
-     "timestamp": "06:38",
-     "confidence": "medium"
-    }
-   ]
-  },
-  {
    "video_id": "fYej2v7Tq3k",
    "title": "ぺこ株 のライブ配信",
    "published": "2026-08-28T14:41:36+00:00",
@@ -779,7 +746,7 @@
    "slot": 4,
    "no_transcript": true,
    "skip_reason": "動画が非公開・削除・配信予定などで取得できません",
-   "attempts": 2,
+   "attempts": 3,
    "overview": "",
    "market_view": "",
    "market": "",
