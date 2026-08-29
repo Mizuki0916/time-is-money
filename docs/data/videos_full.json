@@ -1,6 +1,105 @@
 {
  "videos": [
   {
+   "video_id": "gxqrio7RmR4",
+   "title": "【緊急事態、日本株投げ売り加速か‼】キオクシア大暴落ヤバい‼米金利急騰でAI半導体株暴落、日経先物下落でドル円160円に急騰‼米国株も資金シフト鮮明。仮想通貨BTC高止まり、金先物急落",
+   "published": "2026-08-29T04:00:00+00:00",
+   "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "米国の利上げ懸念に伴う金利急騰を受け、AI半導体株やSOX指数が下落する中、日本株相場の現状と今後の見通しを分析した動画です。日経平均は2018年相場と類似した推移を辿っており、9月に戻り高値を試す可能性があるものの、年末に向けた利上げ懸念や信用期日売りに警戒が必要と指摘しています。半導体株から出遅れ銘柄やバリュー株、ソフトウェア関連への資金シフトが継続すると捉えています。",
+   "market_view": "米金利急騰で半導体株が売られる一方、出遅れ株やバリュー株への資金シフトが鮮明化しており、日経平均は9月の戻りを経て年末に向け慎重な立ち回りが求められる相場環境です。",
+   "market": "MIX",
+   "picks": [
+    {
+     "name": "キオクシアホールディングス",
+     "name_en": "Kioxia Holdings Corporation",
+     "ticker": "285A",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "高値半年期の12月に向け投げ売り警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "前日に8.76%暴落しており、信用取引で買っている投資家がさらに厳しい状況に追い込まれているため。(47文字)",
+      "6月の高値から半年期を迎える12月にかけて、損益通算や信用期日対応の売りが重なり投げ売りが勃発しやすいため。(52文字)"
+     ],
+     "timestamp": "00:16",
+     "confidence": "high"
+    },
+    {
+     "name": "任天堂",
+     "name_en": "Nintendo Co., Ltd.",
+     "ticker": "7974",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "信用買残の減少と出遅れ物色で堅調",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "過去に大量に入り込んでいた信用買い残がかなりのペースで減少しており、受給面の改善が買いを呼び込んでいるため。(52文字)",
+      "市場全体で半導体やハイテク株から出遅れ銘柄やバリュー株への資金シフトが進んでおり、買われやすい環境なため。(51文字)"
+     ],
+     "timestamp": "27:10",
+     "confidence": "medium"
+    },
+    {
+     "name": "ソニーグループ",
+     "name_en": "Sony Group Corporation",
+     "ticker": "6758",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "需給改善と出遅れ物色で上昇期待",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "信用買い残が過去最高水準から減少傾向に転じて改善が進んでおり、出遅れ銘柄として資金がシフトしてきているため。(52文字)"
+     ],
+     "timestamp": "27:10",
+     "confidence": "medium"
+    },
+    {
+     "name": "NVIDIA",
+     "name_en": "NVIDIA Corporation",
+     "ticker": "NVDA",
+     "market": "US",
+     "stance": "bearish",
+     "stance_note": "米金利急騰を受け決算後の上昇分を消化",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "米国の金利急騰を受けて半導体株全般に売りが波及し、直近の決算発表後に上昇した上げ幅を消す下落となったため。(50文字)"
+     ],
+     "timestamp": "30:30",
+     "confidence": "medium"
+    },
+    {
+     "name": "セールスフォース",
+     "name_en": "Salesforce, Inc.",
+     "ticker": "CRM",
+     "market": "US",
+     "stance": "bullish",
+     "stance_note": "SaaS・ソフト銘柄への資金回帰で連投",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "米国株市場で出遅れていたSaaSやソフトウェア関連銘柄にマネーが回帰しており、株価が2日連続で上昇しているため。(52文字)"
+     ],
+     "timestamp": "31:01",
+     "confidence": "medium"
+    }
+   ]
+  },
+  {
    "video_id": "0OJjPpc6rJk",
    "title": "【緊急】海外投資家が日本株大量売却‼日経平均寄天でAI半導体株も軟調。キオクシア大暴落で高値掴み助かるか⁉ドル円、米国株もNVIDIA 決算で上昇。仮想通貨BTC、金先物強い",
    "published": "2026-08-28T14:36:11+00:00",
@@ -131,158 +230,6 @@
      ],
      "timestamp": "29:40",
      "confidence": "medium"
-    }
-   ]
-  },
-  {
-   "video_id": "GZfb3Kol0fs",
-   "title": "【緊急】海外投資家が日本株大量売却‼日経平均寄天でAI半導体株も軟調。キオクシア5％高で高値掴み助かるか⁉ドル円、米国株もNVIDIA 決算で上昇。仮想通貨BTC、金先物強い",
-   "published": "2026-08-27T15:13:18+00:00",
-   "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "動画では日経平均が寄付き後に失速した背景や、海外投資家による約4000億円規模の日本株売り越しデータを踏まえ、市場全体の需給とショートカバーの発生条件を解説。米株市場でNVIDIAやセールスフォースが好決算を受けて急伸する一方、日本株は個別銘柄によって明暗が分かれる状況を分析。任天堂、三菱UFJ、スバル、パン・パシフィックなどのテクニカル形状や信用需給、9月配当月に向けた戦略が語られている。",
-   "market_view": "米株市場はNVIDIAやSaaS関連の好決算により堅調だが、日本株は海外勢の売り越しやNS倍率低下によりショートカバーの起動スイッチが入りにくく、上値が重い展開が続いている。",
-   "market": "MIX",
-   "picks": [
-    {
-     "name": "任天堂",
-     "name_en": "Nintendo Co., Ltd.",
-     "ticker": "7974",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "移動平均線のGCを控え押し目待ち",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "100日移動平均線と50日・75日線のゴールデンクロスが9月頭に向けて形成される見通し。",
-      "過去の戻り高値で捕まっていた信用の期日売りに押されているが信用需給は改善傾向にある。"
-     ],
-     "timestamp": "02:10",
-     "confidence": "high"
-    },
-    {
-     "name": "三菱UFJフィナンシャル・グループ",
-     "name_en": "Mitsubishi UFJ Financial Group, Inc.",
-     "ticker": "8306",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "配当月と利上げ期待で反転期待",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "感応度の高い50日移動平均線で綺麗に反転上昇する動きが見られる。",
-      "来月が配当月であり日銀の追加利上げに対する反応が入るため下値は限定的と見込まれる。"
-     ],
-     "timestamp": "03:46",
-     "confidence": "high"
-    },
-    {
-     "name": "SUBARU",
-     "name_en": "SUBARU Corporation",
-     "ticker": "7270",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "高配当と解散価値割れで9月期待",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "配当利回りが4.48%と非常に高く、PBR0.65倍と解散価値を大きく割り込んでいる。",
-      "信用倍率は15.46倍と極端な信用買いの偏りはなく9月の株価上昇が期待できる。"
-     ],
-     "timestamp": "07:40",
-     "confidence": "medium"
-    },
-    {
-     "name": "三菱重工業",
-     "name_en": "Mitsubishi Heavy Industries, Ltd.",
-     "ticker": "7011",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "信用買い残過多で戻り売り警戒",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "下値切り下げ型の三角持ち合いの最終点に近く、チャート上でデッドクロスが形成されている。",
-      "直近で信用買い残が約132万株と重く、200日移動平均線付近で頭を押さえられやすい。"
-     ],
-     "timestamp": "18:16",
-     "confidence": "medium"
-    },
-    {
-     "name": "日本製鉄",
-     "name_en": "Nippon Steel Corporation",
-     "ticker": "5401",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "配当取りに向けホールド継続",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "来月が配当月であり、既に安い株価位置で買えているのであればそのまま継続保有が妥当。"
-     ],
-     "timestamp": "21:22",
-     "confidence": "low"
-    },
-    {
-     "name": "セールスフォース",
-     "name_en": "Salesforce, Inc.",
-     "ticker": "CRM",
-     "market": "US",
-     "stance": "bullish",
-     "stance_note": "決算通過で不確定要素払拭し急伸",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "好決算を受けて悪材料出尽くしとなり、株価が13%〜14%の大幅高を見せている。",
-      "AI懸念で売られていたSaaS関連市場の反転V字回復を牽引する強い動きとなっている。"
-     ],
-     "timestamp": "21:53",
-     "confidence": "medium"
-    },
-    {
-     "name": "NVIDIA",
-     "name_en": "NVIDIA Corporation",
-     "ticker": "NVDA",
-     "market": "US",
-     "stance": "bullish",
-     "stance_note": "好決算と追加需要材料で大幅高",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "凄まじい内容の決算発表を受けて株価は6%を超える上昇を見せている。",
-      "AmazonによるAI半導体200万個の追加購入などデータセンター向けの旺盛な需要が好材料。"
-     ],
-     "timestamp": "24:28",
-     "confidence": "medium"
-    },
-    {
-     "name": "パン・パシフィック・インターナショナルホールディングス",
-     "name_en": "Pan Pacific International Holdings Corporation",
-     "ticker": "7532",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "急落による信用買い増で需給悪化",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "決算発表後の急落時に約230万株の信用買いが入り、需給関係が一時的に重くなっている。",
-      "RSIの下値支持線を割り込む警戒感があり、過去のPBR推移からさらに下押しする恐れがある。"
-     ],
-     "timestamp": "51:38",
-     "confidence": "high"
     }
    ]
   },

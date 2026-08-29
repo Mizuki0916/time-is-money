@@ -1,6 +1,52 @@
 {
- "generated_at": "2026-08-29T12:57:23.805498+09:00",
+ "generated_at": "2026-08-29T13:21:31.159093+09:00",
  "videos": [
+  {
+   "video_id": "gxqrio7RmR4",
+   "title": "【緊急事態、日本株投げ売り加速か‼】キオクシア大暴落ヤバい‼米金利急騰でAI半導体株暴落、日経先物下落でドル円160円に急騰‼米国株も資金シフト鮮明。仮想通貨BTC高止まり、金先物急落",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-08-29T04:00:00+00:00",
+   "overview": "米国の利上げ懸念に伴う金利急騰を受け、AI半導体株やSOX指数が下落する中、日本株相場の現状と今後の見通しを分析した動画です。日経平均は2018年相場と類似した推移を辿っており、9月に戻り高値を試す可能性があるものの、年末に向けた利上げ懸念や信用期日売りに警戒が必要と指摘しています。半導体株から出遅れ銘柄やバリュー株、ソフトウェア関連への資金シフトが継続すると捉えています。",
+   "market_view": "米金利急騰で半導体株が売られる一方、出遅れ株やバリュー株への資金シフトが鮮明化しており、日経平均は9月の戻りを経て年末に向け慎重な立ち回りが求められる相場環境です。",
+   "market": "MIX",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "キオクシアホールディングス",
+     "ticker": "285A",
+     "stance": "bearish",
+     "timestamp": "00:16"
+    },
+    {
+     "name": "任天堂",
+     "ticker": "7974",
+     "stance": "bullish",
+     "timestamp": "27:10"
+    },
+    {
+     "name": "ソニーグループ",
+     "ticker": "6758",
+     "stance": "bullish",
+     "timestamp": "27:10"
+    },
+    {
+     "name": "NVIDIA",
+     "ticker": "NVDA",
+     "stance": "bearish",
+     "timestamp": "30:30"
+    },
+    {
+     "name": "セールスフォース",
+     "ticker": "CRM",
+     "stance": "bullish",
+     "timestamp": "31:01"
+    }
+   ]
+  },
   {
    "video_id": "a8mvDBXRCSk",
    "title": "キオクシア（285A）株式テクニカルチャート分析",
@@ -215,70 +261,6 @@
      "ticker": "6330",
      "stance": "bullish",
      "timestamp": "11:25"
-    }
-   ]
-  },
-  {
-   "video_id": "GZfb3Kol0fs",
-   "title": "【緊急】海外投資家が日本株大量売却‼日経平均寄天でAI半導体株も軟調。キオクシア5％高で高値掴み助かるか⁉ドル円、米国株もNVIDIA 決算で上昇。仮想通貨BTC、金先物強い",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-08-27T15:13:18+00:00",
-   "overview": "動画では日経平均が寄付き後に失速した背景や、海外投資家による約4000億円規模の日本株売り越しデータを踏まえ、市場全体の需給とショートカバーの発生条件を解説。米株市場でNVIDIAやセールスフォースが好決算を受けて急伸する一方、日本株は個別銘柄によって明暗が分かれる状況を分析。任天堂、三菱UFJ、スバル、パン・パシフィックなどのテクニカル形状や信用需給、9月配当月に向けた戦略が語られている。",
-   "market_view": "米株市場はNVIDIAやSaaS関連の好決算により堅調だが、日本株は海外勢の売り越しやNS倍率低下によりショートカバーの起動スイッチが入りにくく、上値が重い展開が続いている。",
-   "market": "MIX",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "任天堂",
-     "ticker": "7974",
-     "stance": "neutral",
-     "timestamp": "02:10"
-    },
-    {
-     "name": "三菱UFJフィナンシャル・グループ",
-     "ticker": "8306",
-     "stance": "bullish",
-     "timestamp": "03:46"
-    },
-    {
-     "name": "SUBARU",
-     "ticker": "7270",
-     "stance": "bullish",
-     "timestamp": "07:40"
-    },
-    {
-     "name": "三菱重工業",
-     "ticker": "7011",
-     "stance": "bearish",
-     "timestamp": "18:16"
-    },
-    {
-     "name": "日本製鉄",
-     "ticker": "5401",
-     "stance": "bullish",
-     "timestamp": "21:22"
-    },
-    {
-     "name": "セールスフォース",
-     "ticker": "CRM",
-     "stance": "bullish",
-     "timestamp": "21:53"
-    },
-    {
-     "name": "NVIDIA",
-     "ticker": "NVDA",
-     "stance": "bullish",
-     "timestamp": "24:28"
-    },
-    {
-     "name": "パン・パシフィック・インターナショナルホールディングス",
-     "ticker": "7532",
-     "stance": "bearish",
-     "timestamp": "51:38"
     }
    ]
   },
