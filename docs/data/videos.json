@@ -1,6 +1,64 @@
 {
- "generated_at": "2026-08-30T08:05:07.286455+09:00",
+ "generated_at": "2026-08-30T09:07:23.824981+09:00",
  "videos": [
+  {
+   "video_id": "v6qBmGGkr74",
+   "title": "来週の注目銘柄をみていく！（テラドローン・GO・ティアフォー・パワーエックス・東洋エンジニア。ユニチカなど）株式テクニカルチャート分析",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-08-29T23:00:12+00:00",
+   "overview": "FRBの追加利上げを示唆する発言や米国株安を受けて週明けの日経平均先物は下落スタートが予想される中、強さを見せるグロース銘柄を中心としたテクニカル分析が解説されています。タクシーアプリのGOやテラドローン、ティアフォーといった直近の話題株に加え、データセクション、パワーエックス、ユニチカ、東洋エンジニアリングのチャート形状や需給関係、エントリーのポイントが紹介されています。",
+   "market_view": "FRB議長の発言による利上げ懸念で米株や先物は下落しているが、国内グロース株には資金が流入し強い動きが見られる。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "GO",
+     "ticker": "",
+     "stance": "bullish",
+     "timestamp": "04:39"
+    },
+    {
+     "name": "テラドローン",
+     "ticker": "278A",
+     "stance": "bullish",
+     "timestamp": "06:15"
+    },
+    {
+     "name": "ティアフォー",
+     "ticker": "212A",
+     "stance": "bullish",
+     "timestamp": "07:58"
+    },
+    {
+     "name": "データセクション",
+     "ticker": "3905",
+     "stance": "bullish",
+     "timestamp": "09:56"
+    },
+    {
+     "name": "パワーエックス",
+     "ticker": "",
+     "stance": "bullish",
+     "timestamp": "11:31"
+    },
+    {
+     "name": "ユニチカ",
+     "ticker": "3103",
+     "stance": "bullish",
+     "timestamp": "12:34"
+    },
+    {
+     "name": "東洋エンジニアリング",
+     "ticker": "6330",
+     "stance": "bullish",
+     "timestamp": "13:51"
+    }
+   ]
+  },
   {
    "video_id": "gxqrio7RmR4",
    "title": "【緊急事態、日本株投げ売り加速か‼】キオクシア大暴落ヤバい‼米金利急騰でAI半導体株暴落、日経先物下落でドル円160円に急騰‼米国株も資金シフト鮮明。仮想通貨BTC高止まり、金先物急落",
@@ -197,70 +255,6 @@
      "ticker": "5530",
      "stance": "bullish",
      "timestamp": "41:11"
-    }
-   ]
-  },
-  {
-   "video_id": "_Q1Y3Xh1pPQ",
-   "title": "今日の活況銘柄を見てみる！（フジクラ・太陽誘電・ティアフォー・村田製作所・ユニチカ・SBG等）株式テクニカルチャート分析",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-08-28T07:05:15+00:00",
-   "overview": "本日の株式市場の動向と注目の個別銘柄について解説。プライム市場の売買代金減少に伴いグロース市場への資金シフトが顕著となる中、需給悪化銘柄のスイング警戒や需給面の大切さを強調。個別では太陽誘電やフジクラ、村田製作所などの重い値動きを解説する一方、ストップ高となったティアフォー、出来高急増のユニチカや東洋エンジニアリングなど、足型や需給に変化が出ている銘柄のチャートを分析している。",
-   "market_view": "プライム市場の売買代金が下がりグロース市場へデイトレード資金が向かっている。需給が悪化している銘柄のスイングを避けることが基本となる相場環境である。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "太陽誘電",
-     "ticker": "6976",
-     "stance": "neutral",
-     "timestamp": "04:22"
-    },
-    {
-     "name": "フジクラ",
-     "ticker": "5803",
-     "stance": "neutral",
-     "timestamp": "05:54"
-    },
-    {
-     "name": "ティアフォー",
-     "ticker": "593A",
-     "stance": "bullish",
-     "timestamp": "06:33"
-    },
-    {
-     "name": "村田製作所",
-     "ticker": "6981",
-     "stance": "neutral",
-     "timestamp": "07:51"
-    },
-    {
-     "name": "ユニチカ",
-     "ticker": "3103",
-     "stance": "bullish",
-     "timestamp": "09:12"
-    },
-    {
-     "name": "ソフトバンクグループ",
-     "ticker": "9984",
-     "stance": "bearish",
-     "timestamp": "10:24"
-    },
-    {
-     "name": "古河電気工業",
-     "ticker": "5801",
-     "stance": "neutral",
-     "timestamp": "10:55"
-    },
-    {
-     "name": "東洋エンジニアリング",
-     "ticker": "6330",
-     "stance": "bullish",
-     "timestamp": "11:25"
     }
    ]
   },
