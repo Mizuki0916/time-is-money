@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-30T23:05:15.873872+09:00",
+ "generated_at": "2026-08-31T00:06:10.179544+09:00",
  "videos": [
   {
    "video_id": "hRJm4_yF7Rs",
@@ -8,13 +8,62 @@
    "channel_name": "Sho's投資情報局",
    "channel_short": "Sho",
    "slot": 3,
-   "published": "2026-08-30T12:22:42+00:00",
-   "overview": "",
-   "market_view": "",
-   "market": "",
-   "no_transcript": true,
-   "skip_reason": "この動画には字幕がありません",
-   "picks": []
+   "published": "2026-08-30T14:20:51+00:00",
+   "overview": "米金利急騰や半導体株の急落を受けて日経平均先物が下落する中、半導体関連の警戒感と米国株のセクターローテーションを踏まえた日本株の展望を解説する動画です。個別銘柄では、9月の配当取りに向けた自動車・商社株の期待や、需給面・テクニカル面で特徴的な動きを見せる銘柄の分析が行われています。信用買い残の状況や移動平均線のクロスに着目した慎重な投資戦略が提言されています。",
+   "market_view": "米金利上昇による半導体株安や円安進行、米国株のセクターローテーションを背景に、日本株も9月配当取りに向けた出遅れバリュー株へのシフトが期待されます。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "キオクシアホールディングス",
+     "ticker": "285A",
+     "stance": "bearish",
+     "timestamp": "02:08"
+    },
+    {
+     "name": "トヨタ自動車",
+     "ticker": "7203",
+     "stance": "bullish",
+     "timestamp": "07:42"
+    },
+    {
+     "name": "オリエンタルランド",
+     "ticker": "4661",
+     "stance": "bullish",
+     "timestamp": "15:32"
+    },
+    {
+     "name": "東京海上ホールディングス",
+     "ticker": "8766",
+     "stance": "bearish",
+     "timestamp": "25:20"
+    },
+    {
+     "name": "日立製作所",
+     "ticker": "6501",
+     "stance": "bullish",
+     "timestamp": "36:06"
+    },
+    {
+     "name": "住友ファーマ",
+     "ticker": "4506",
+     "stance": "bullish",
+     "timestamp": "37:38"
+    },
+    {
+     "name": "本田技研工業",
+     "ticker": "7267",
+     "stance": "bullish",
+     "timestamp": "44:42"
+    },
+    {
+     "name": "DMG森精機",
+     "ticker": "6141",
+     "stance": "bearish",
+     "timestamp": "53:06"
+    }
+   ]
   },
   {
    "video_id": "nguw5YHcjUA",

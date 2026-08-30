@@ -3,19 +3,155 @@
   {
    "video_id": "hRJm4_yF7Rs",
    "title": "【緊急事態、日本株投げ売り加速か‼】キオクシア大暴落ヤバい‼米金利急騰でAI半導体株暴落、日経先物下落でドル円160円に急騰‼米国株も資金シフト鮮明。仮想通貨BTC高止まり、金先物急落",
-   "published": "2026-08-30T12:22:42+00:00",
+   "published": "2026-08-30T14:20:51+00:00",
    "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
    "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
    "channel_name": "Sho's投資情報局",
    "channel_short": "Sho",
    "slot": 3,
-   "no_transcript": true,
-   "skip_reason": "この動画には字幕がありません",
-   "attempts": 2,
-   "overview": "",
-   "market_view": "",
-   "market": "",
-   "picks": []
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "米金利急騰や半導体株の急落を受けて日経平均先物が下落する中、半導体関連の警戒感と米国株のセクターローテーションを踏まえた日本株の展望を解説する動画です。個別銘柄では、9月の配当取りに向けた自動車・商社株の期待や、需給面・テクニカル面で特徴的な動きを見せる銘柄の分析が行われています。信用買い残の状況や移動平均線のクロスに着目した慎重な投資戦略が提言されています。",
+   "market_view": "米金利上昇による半導体株安や円安進行、米国株のセクターローテーションを背景に、日本株も9月配当取りに向けた出遅れバリュー株へのシフトが期待されます。",
+   "market": "JP",
+   "picks": [
+    {
+     "name": "キオクシアホールディングス",
+     "name_en": "Kioxia Holdings Corporation",
+     "ticker": "285A",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "需給悪化による戻り売り警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "直近で株価が8.76%暴落しており、信用買いなどで捕まった投資家による戻り売りの圧力が強く受給環境が悪い状態です。",
+      "悪材料による下突っ込みが起きやすく、年初から年末にかけて戻り売りによる下落トレンドが継続する恐れがあります。"
+     ],
+     "timestamp": "02:08",
+     "confidence": "medium"
+    },
+    {
+     "name": "トヨタ自動車",
+     "name_en": "Toyota Motor Corporation",
+     "ticker": "7203",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "9月配当取りと円安進行に期待",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "ドル円が160円台へ復帰する円安進行が追い風となり、1円の円安につき業績へ約500億円のプラス影響が期待できます。",
+      "9月の配当権利落ち月を控えて高配当な自動車関連銘柄として物色の手が入りやすく出遅れ修正の上昇に期待できます。"
+     ],
+     "timestamp": "07:42",
+     "confidence": "medium"
+    },
+    {
+     "name": "オリエンタルランド",
+     "name_en": "Oriental Land Co., Ltd.",
+     "ticker": "4661",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "信用倍率低く踏み上げ上昇に期待",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "信用倍率が0.63倍と売り越し状態で受給が非常に軽く、買い戻しによる踏み上げ相場が発生しやすい環境です。",
+      "日足が25日移動平均線やボリンジャーバンド中央線に沿ってジリジリと上昇を続けておりテクニカル形状が良好です。"
+     ],
+     "timestamp": "15:32",
+     "confidence": "medium"
+    },
+    {
+     "name": "東京海上ホールディングス",
+     "name_en": "Tokio Marine Holdings, Inc.",
+     "ticker": "8766",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "15分割による信用買残増加に警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "株式の15分割を実施したことで見た目の株数が増加し、信用買い残が爆発的に急増して受給を悪化させる懸念があります。",
+      "分割発表に向かって上昇した場合はそこが天井となりやすく、分割後に上値が重くなり長期低迷するリスクに警戒が必要です。"
+     ],
+     "timestamp": "25:20",
+     "confidence": "medium"
+    },
+    {
+     "name": "日立製作所",
+     "name_en": "Hitachi, Ltd.",
+     "ticker": "6501",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "25日線沿いの上昇とGC形成期待",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "25日移動平均線に沿って着実に下値を切り上げる上昇パターンを形成しておりテクニカル面で堅調な推移が続いています。",
+      "週明けにも100日移動平均線と200日移動平均線のゴールデンクロス形成が見込まれており上昇に弾みがつく可能性があります。"
+     ],
+     "timestamp": "36:06",
+     "confidence": "medium"
+    },
+    {
+     "name": "住友ファーマ",
+     "name_en": "Sumitomo Pharma Co., Ltd.",
+     "ticker": "4506",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "バンドウォークによる上昇継続を予想",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "ボリンジャーバンドの上軌道に沿って上昇するバンドウォークが継続しており、強い上昇トレンドを維持しています。",
+      "RSIの上値抵抗線抜けや逆ダイバージェンス効果が発揮されており、短期的な上昇波動が継続しやすいテクニカル形状です。"
+     ],
+     "timestamp": "37:38",
+     "confidence": "medium"
+    },
+    {
+     "name": "本田技研工業",
+     "name_en": "Honda Motor Co., Ltd.",
+     "ticker": "7267",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "25日線サポートの上昇とGC期待",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "25日移動平均線をサポートラインとして上下動を繰り返しながら下値を切り上げる典型的な上昇チャートを形成しています。",
+      "9月中旬にかけて100日移動平均線と200日移動平均線のゴールデンクロス形成が想定され配当取りへ向けた上昇が期待できます。"
+     ],
+     "timestamp": "44:42",
+     "confidence": "medium"
+    },
+    {
+     "name": "DMG森精機",
+     "name_en": "DMG MORI Co., Ltd.",
+     "ticker": "6141",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "デッドクロス形成と需給悪化を懸念",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "25日線と100日移動平均線のデッドクロス形成が迫っており、テクニカル面で売り圧力が強まりやすい展開が予想されます。",
+      "株価下落の局面で信用買い残が約43万株急増しており、需給の重さから200日移動平均線を割り込む下落リスクがあります。"
+     ],
+     "timestamp": "53:06",
+     "confidence": "medium"
+    }
+   ]
   },
   {
    "video_id": "gxqrio7RmR4",
