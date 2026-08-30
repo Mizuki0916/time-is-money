@@ -1,6 +1,23 @@
 {
  "videos": [
   {
+   "video_id": "hRJm4_yF7Rs",
+   "title": "【緊急事態、日本株投げ売り加速か‼】キオクシア大暴落ヤバい‼米金利急騰でAI半導体株暴落、日経先物下落でドル円160円に急騰‼米国株も資金シフト鮮明。仮想通貨BTC高止まり、金先物急落",
+   "published": "2026-08-30T12:22:42+00:00",
+   "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "no_transcript": true,
+   "skip_reason": "この動画には字幕がありません",
+   "attempts": 1,
+   "overview": "",
+   "market_view": "",
+   "market": "",
+   "picks": []
+  },
+  {
    "video_id": "gxqrio7RmR4",
    "title": "【緊急事態、日本株投げ売り加速か‼】キオクシア大暴落ヤバい‼米金利急騰でAI半導体株暴落、日経先物下落でドル円160円に急騰‼米国株も資金シフト鮮明。仮想通貨BTC高止まり、金先物急落",
    "published": "2026-08-29T04:00:00+00:00",
@@ -95,140 +112,6 @@
       "米国株市場で出遅れていたSaaSやソフトウェア関連銘柄にマネーが回帰しており、株価が2日連続で上昇しているため。(52文字)"
      ],
      "timestamp": "31:01",
-     "confidence": "medium"
-    }
-   ]
-  },
-  {
-   "video_id": "0OJjPpc6rJk",
-   "title": "【緊急】海外投資家が日本株大量売却‼日経平均寄天でAI半導体株も軟調。キオクシア大暴落で高値掴み助かるか⁉ドル円、米国株もNVIDIA 決算で上昇。仮想通貨BTC、金先物強い",
-   "published": "2026-08-28T14:36:11+00:00",
-   "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "動画では、配信者の予想に沿った銘柄選定によって資産が増加している好調な相場環境について語られています。キオクシアの大暴落や半導体株の戻り売りの重さ、大林組のデッドクロス形成といった警戒銘柄を提示する一方、需給改善とゴールデンクロス形成が見られる任天堂やソニーフィナンシャルグループ、米国SaaSのセールスフォースなどを高評価として詳細に分析しています。",
-   "market_view": "9月に向けたショートカバー発動による日経平均の上昇期待を抱きつつも、反動体株の戻り売りや年末に向けた損益通算売りによるジグザグ相場を警戒しています。",
-   "market": "MIX",
-   "picks": [
-    {
-     "name": "キオクシア",
-     "name_en": "Kioxia Holdings",
-     "ticker": "285A",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "暴落とデッドクロス形成で警戒",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "8.76%の大暴落を記録し、50日移動平均線と75日移動平均線のデッドクロスが形成されテクニカル形状が悪化しているため。"
-     ],
-     "timestamp": "02:16",
-     "confidence": "high"
-    },
-    {
-     "name": "任天堂",
-     "name_en": "Nintendo",
-     "ticker": "7974",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "受給改善とゴールデンクロスで上昇期待",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "50日・75日・100日移動平均線の連続ゴールデンクロスが形成されテクニカル的に非常に強い形状となっているため。",
-      "信用買い残が減少して需給が軽くなっており、過去の高値掴み層の整理が進み上値を試しやすくなっているため。"
-     ],
-     "timestamp": "07:32",
-     "confidence": "high"
-    },
-    {
-     "name": "大林組",
-     "name_en": "Obayashi",
-     "ticker": "1802",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "デッドクロス連発で買いたくない形状",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "200日線、50日線、100日移動平均線が相次いでデッドクロスを形成する非常に悪いテクニカル形状が出ているため。",
-      "日銀による利上げ懸念が重なることや、レッドゾーン(2553円〜2668円)への下落リスクが意識されるため。"
-     ],
-     "timestamp": "10:25",
-     "confidence": "medium"
-    },
-    {
-     "name": "ソニーフィナンシャルグループ",
-     "name_en": "Sony Financial Group",
-     "ticker": "",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "需給改善と高い配当利回りで高評価",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "200日線と50日・75日・100日線のゴールデンクロス形成が進んでおりテクニカル面で良好なシグナルが出ているため。",
-      "信用買い残の減少による大幅な需給改善に加え、4.82%という高い配当利回りが買い要因となっているため。"
-     ],
-     "timestamp": "16:07",
-     "confidence": "medium"
-    },
-    {
-     "name": "良品計画",
-     "name_en": "Ryohin Keikaku",
-     "ticker": "7453",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "レッドゾーン到達で一部利確を推奨",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "株価がフィボナッチのレッドゾーンに到達しており、一時的な利益確定(スライス売り)を入れるべきタイミングのため。",
-      "PBRが過去の上限水準である6倍付近(足元5.85倍)まで買われており、過熱感から上値が重くなりやすいため。"
-     ],
-     "timestamp": "20:04",
-     "confidence": "medium"
-    },
-    {
-     "name": "ダイキン工業",
-     "name_en": "Daikin Industries",
-     "ticker": "6367",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "日柄調整中で明確なサイン待ち",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "200日移動平均線を下回って日柄調整が続いており、MACDのゴールデンクロスも騙しの懸念が残るため。",
-      "パラボリックの位置がまだ高くバンドウォーク終了サインが不完全なため、明確な転換サインが出るまで静観が妥当なため。"
-     ],
-     "timestamp": "48:15",
-     "confidence": "medium"
-    },
-    {
-     "name": "セールスフォース",
-     "name_en": "Salesforce",
-     "ticker": "CRM",
-     "market": "US",
-     "stance": "bullish",
-     "stance_note": "25日・200日線のGC形成で底強さ",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "決算等の好材料を受けて急上昇し、25日線と200日移動平均線のゴールデンクロス形成が見えて上値追いが期待できるため。"
-     ],
-     "timestamp": "29:40",
      "confidence": "medium"
     }
    ]

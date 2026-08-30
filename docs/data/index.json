@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-30T21:05:07.528896+09:00",
+ "generated_at": "2026-08-30T22:05:15.313265+09:00",
  "channels": [
   {
    "id": "UCsaeHha7ai_NNX8or8Jyb-g",
@@ -23,7 +23,7 @@
    "short": "Sho",
    "slot": 3,
    "video_count": 2,
-   "latest": "2026-08-29T04:00:00+00:00"
+   "latest": "2026-08-30T12:22:42+00:00"
   },
   {
    "id": "UCt7qqCkTFFRfKjXzwqUXq4g",
@@ -35,12 +35,12 @@
   }
  ],
  "stats": {
-  "stocks": 23,
-  "videos": 7,
-  "videos_this_week": 7,
-  "bullish_lead": 15,
+  "stocks": 19,
+  "videos": 6,
+  "videos_this_week": 6,
+  "bullish_lead": 14,
   "split": 0,
-  "skipped": 1
+  "skipped": 2
  },
  "stocks": [
   {
@@ -91,26 +91,6 @@
      ],
      "timestamp": "00:03",
      "seconds": 3,
-     "confidence": "high"
-    },
-    {
-     "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-     "channel_name": "Sho's投資情報局",
-     "channel_short": "Sho",
-     "slot": 3,
-     "video_id": "0OJjPpc6rJk",
-     "video_title": "【緊急】海外投資家が日本株大量売却‼日経平均寄天でAI半導体株も軟調。キオクシア大暴落で高値掴み助かるか⁉ドル円、米国株もNVIDIA 決算で上昇。仮想通貨BTC、金先物強い",
-     "published": "2026-08-28T14:36:11+00:00",
-     "stance": "bearish",
-     "stance_note": "暴落とデッドクロス形成で警戒",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "8.76%の大暴落を記録し、50日移動平均線と75日移動平均線のデッドクロスが形成されテクニカル形状が悪化しているため。"
-     ],
-     "timestamp": "02:16",
-     "seconds": 136,
      "confidence": "high"
     },
     {
@@ -230,7 +210,7 @@
     "market_open": false,
     "symbol": "285A.T",
     "source": "yahoo",
-    "fetched_at": "2026-08-30T00:06:25.787875+00:00"
+    "fetched_at": "2026-08-30T13:05:15.361759+00:00"
    }
   },
   {
@@ -297,67 +277,67 @@
    ],
    "price": {
     "date": "2026-08-27",
-    "close": 131.77,
-    "change_pct": 1.63,
+    "close": 45.98,
+    "change_pct": 1.08,
     "live": null,
     "live_change_pct": null,
     "live_time": null,
-    "volume": 6744000,
-    "volume_ratio": 1.74,
-    "rsi14": 21.3,
-    "rsi_zone": "売られすぎ",
-    "ma25": 190.67,
-    "ma75": 211.31,
-    "trend": "下降基調",
-    "pos52": 6,
+    "volume": 480600,
+    "volume_ratio": 1.16,
+    "rsi14": 58.1,
+    "rsi_zone": "中立",
+    "ma25": 43.47,
+    "ma75": 41.96,
+    "trend": "上昇基調",
+    "pos52": 55,
     "spark": [
-     236.18,
-     229.02,
-     223.13,
-     215.21,
-     217.32,
-     217.98,
-     216.1,
-     211.37,
-     208.89,
-     216.88,
-     217.36,
-     214.32,
-     208.41,
-     210.13,
-     204.36,
-     206.04,
-     205.6,
-     211.37,
-     205.99,
-     199.91,
-     195.91,
-     200.82,
-     200.74,
-     200.32,
-     198.62,
-     208.84,
-     214.1,
-     205.03,
-     202.66,
-     202.26,
-     201.97,
-     196.24,
-     191.52,
-     191.29,
-     179.34,
-     183.23,
-     179.33,
-     124.31,
-     129.66,
-     131.77
+     43.99,
+     44.05,
+     43.35,
+     41.28,
+     41.71,
+     39.45,
+     38.04,
+     39.07,
+     39.56,
+     38.68,
+     38.31,
+     37.57,
+     39.94,
+     40.21,
+     39.53,
+     39.35,
+     41.11,
+     40.8,
+     40.15,
+     42.08,
+     41.36,
+     42.13,
+     42.69,
+     43.33,
+     42.02,
+     43.51,
+     43.47,
+     43.44,
+     44.68,
+     43.81,
+     44.0,
+     45.39,
+     41.84,
+     45.53,
+     45.66,
+     46.21,
+     45.8,
+     46.85,
+     45.49,
+     45.98
     ],
     "currency": "USD",
     "exchange_name": "NYSE",
     "market_open": false,
-    "symbol": "DKS",
+    "symbol": "GOLD",
     "source": "yahoo-search",
-    "fetched_at": "2026-08-30T00:06:25.787875+00:00"
+    "fetched_at": "2026-08-30T13:05:15.361759+00:00"
    }
   },
   {
@@ -504,7 +484,7 @@
     "market_open": false,
     "symbol": "278A.T",
     "source": "yahoo",
-    "fetched_at": "2026-08-30T00:06:25.787875+00:00"
+    "fetched_at": "2026-08-30T13:05:15.361759+00:00"
    }
   },
   {
@@ -651,7 +631,7 @@
     "market_open": false,
     "symbol": "212A.T",
     "source": "yahoo",
-    "fetched_at": "2026-08-30T00:06:25.787875+00:00"
+    "fetched_at": "2026-08-30T13:05:15.361759+00:00"
    }
   },
   {
@@ -776,7 +756,7 @@
     "market_open": false,
     "symbol": "NVDA",
     "source": "yahoo",
-    "fetched_at": "2026-08-30T00:06:25.787875+00:00"
+    "fetched_at": "2026-08-30T13:05:15.361759+00:00"
    }
   },
   {
@@ -987,7 +967,7 @@
     "market_open": false,
     "symbol": "3905.T",
     "source": "yahoo",
-    "fetched_at": "2026-08-30T00:06:25.787875+00:00"
+    "fetched_at": "2026-08-30T13:05:15.361759+00:00"
    }
   },
   {
@@ -1092,7 +1072,7 @@
     "market_open": false,
     "symbol": "485A.T",
     "source": "yahoo-search",
-    "fetched_at": "2026-08-30T01:05:08.242700+00:00"
+    "fetched_at": "2026-08-30T13:05:15.361759+00:00"
    }
   },
   {
@@ -1197,7 +1177,7 @@
     "market_open": false,
     "symbol": "3103.T",
     "source": "yahoo",
-    "fetched_at": "2026-08-30T00:06:25.787875+00:00"
+    "fetched_at": "2026-08-30T13:05:15.361759+00:00"
    }
   },
   {
@@ -1302,7 +1282,7 @@
     "market_open": false,
     "symbol": "6330.T",
     "source": "yahoo",
-    "fetched_at": "2026-08-30T00:06:25.787875+00:00"
+    "fetched_at": "2026-08-30T13:05:15.361759+00:00"
    }
   },
   {
@@ -1332,27 +1312,6 @@
      "timestamp": "27:10",
      "seconds": 1630,
      "confidence": "medium"
-    },
-    {
-     "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-     "channel_name": "Sho's投資情報局",
-     "channel_short": "Sho",
-     "slot": 3,
-     "video_id": "0OJjPpc6rJk",
-     "video_title": "【緊急】海外投資家が日本株大量売却‼日経平均寄天でAI半導体株も軟調。キオクシア大暴落で高値掴み助かるか⁉ドル円、米国株もNVIDIA 決算で上昇。仮想通貨BTC、金先物強い",
-     "published": "2026-08-28T14:36:11+00:00",
-     "stance": "bullish",
-     "stance_note": "受給改善とゴールデンクロスで上昇期待",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "50日・75日・100日移動平均線の連続ゴールデンクロスが形成されテクニカル的に非常に強い形状となっているため。",
-      "信用買い残が減少して需給が軽くなっており、過去の高値掴み層の整理が進み上値を試しやすくなっているため。"
-     ],
-     "timestamp": "07:32",
-     "seconds": 452,
-     "confidence": "high"
     }
    ],
    "consensus": {
@@ -1428,7 +1387,7 @@
     "market_open": false,
     "symbol": "7974.T",
     "source": "yahoo",
-    "fetched_at": "2026-08-30T00:06:25.787875+00:00"
+    "fetched_at": "2026-08-30T13:05:15.361759+00:00"
    }
   },
   {
@@ -1532,7 +1491,7 @@
     "market_open": false,
     "symbol": "6758.T",
     "source": "yahoo",
-    "fetched_at": "2026-08-30T00:06:25.787875+00:00"
+    "fetched_at": "2026-08-30T13:05:15.361759+00:00"
    }
   },
   {
@@ -1560,26 +1519,6 @@
      ],
      "timestamp": "31:01",
      "seconds": 1861,
-     "confidence": "medium"
-    },
-    {
-     "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-     "channel_name": "Sho's投資情報局",
-     "channel_short": "Sho",
-     "slot": 3,
-     "video_id": "0OJjPpc6rJk",
-     "video_title": "【緊急】海外投資家が日本株大量売却‼日経平均寄天でAI半導体株も軟調。キオクシア大暴落で高値掴み助かるか⁉ドル円、米国株もNVIDIA 決算で上昇。仮想通貨BTC、金先物強い",
-     "published": "2026-08-28T14:36:11+00:00",
-     "stance": "bullish",
-     "stance_note": "25日・200日線のGC形成で底強さ",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "決算等の好材料を受けて急上昇し、25日線と200日移動平均線のゴールデンクロス形成が見えて上値追いが期待できるため。"
-     ],
-     "timestamp": "29:40",
-     "seconds": 1780,
      "confidence": "medium"
     }
    ],
@@ -1656,7 +1595,7 @@
     "market_open": false,
     "symbol": "CRM",
     "source": "yahoo",
-    "fetched_at": "2026-08-30T00:06:25.787875+00:00"
+    "fetched_at": "2026-08-30T13:05:15.361759+00:00"
    }
   },
   {
@@ -1761,427 +1700,7 @@
     "market_open": false,
     "symbol": "6981.T",
     "source": "yahoo",
-    "fetched_at": "2026-08-30T00:06:25.787875+00:00"
-   }
-  },
-  {
-   "key": "JP:1802",
-   "name": "大林組",
-   "name_en": "Obayashi",
-   "ticker": "1802",
-   "market": "JP",
-   "mentions": [
-    {
-     "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-     "channel_name": "Sho's投資情報局",
-     "channel_short": "Sho",
-     "slot": 3,
-     "video_id": "0OJjPpc6rJk",
-     "video_title": "【緊急】海外投資家が日本株大量売却‼日経平均寄天でAI半導体株も軟調。キオクシア大暴落で高値掴み助かるか⁉ドル円、米国株もNVIDIA 決算で上昇。仮想通貨BTC、金先物強い",
-     "published": "2026-08-28T14:36:11+00:00",
-     "stance": "bearish",
-     "stance_note": "デッドクロス連発で買いたくない形状",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "200日線、50日線、100日移動平均線が相次いでデッドクロスを形成する非常に悪いテクニカル形状が出ているため。",
-      "日銀による利上げ懸念が重なることや、レッドゾーン(2553円〜2668円)への下落リスクが意識されるため。"
-     ],
-     "timestamp": "10:25",
-     "seconds": 625,
-     "confidence": "medium"
-    }
-   ],
-   "consensus": {
-    "bullish": 0,
-    "bearish": 1,
-    "neutral": 0
-   },
-   "voices": 1,
-   "split": false,
-   "last_mentioned": "2026-08-28T14:36:11+00:00",
-   "channel_ids": [
-    "UCK9Pl6bbWqMC_x7IDca2tIg"
-   ],
-   "price": {
-    "date": "2026-08-28",
-    "close": 2990.5,
-    "change_pct": -0.08,
-    "live": null,
-    "live_change_pct": null,
-    "live_time": null,
-    "volume": 2338700,
-    "volume_ratio": 0.91,
-    "rsi14": 41.5,
-    "rsi_zone": "中立",
-    "ma25": 3083.12,
-    "ma75": 3189.87,
-    "trend": "下降基調",
-    "pos52": 32,
-    "spark": [
-     3274.0,
-     3305.0,
-     3405.0,
-     3369.0,
-     3255.0,
-     3249.0,
-     3225.0,
-     3182.0,
-     3187.0,
-     3242.0,
-     3241.0,
-     3208.0,
-     3242.0,
-     3261.0,
-     3272.0,
-     3284.0,
-     3331.0,
-     3273.0,
-     3263.0,
-     3227.0,
-     3164.0,
-     3114.0,
-     3122.0,
-     3140.0,
-     3163.0,
-     3030.0,
-     3018.0,
-     3027.0,
-     3039.0,
-     3051.0,
-     3034.0,
-     3012.0,
-     2902.0,
-     2977.0,
-     2941.5,
-     2998.0,
-     3011.0,
-     2973.0,
-     2993.0,
-     2990.5
-    ],
-    "currency": "JPY",
-    "exchange_name": "Tokyo",
-    "market_open": false,
-    "symbol": "1802.T",
-    "source": "yahoo",
-    "fetched_at": "2026-08-30T00:06:25.787875+00:00"
-   }
-  },
-  {
-   "key": "NAME:ソニーフィナンシャルグループ",
-   "name": "ソニーフィナンシャルグループ",
-   "name_en": "Sony Financial Group",
-   "ticker": "",
-   "market": "JP",
-   "mentions": [
-    {
-     "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-     "channel_name": "Sho's投資情報局",
-     "channel_short": "Sho",
-     "slot": 3,
-     "video_id": "0OJjPpc6rJk",
-     "video_title": "【緊急】海外投資家が日本株大量売却‼日経平均寄天でAI半導体株も軟調。キオクシア大暴落で高値掴み助かるか⁉ドル円、米国株もNVIDIA 決算で上昇。仮想通貨BTC、金先物強い",
-     "published": "2026-08-28T14:36:11+00:00",
-     "stance": "bullish",
-     "stance_note": "需給改善と高い配当利回りで高評価",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "200日線と50日・75日・100日線のゴールデンクロス形成が進んでおりテクニカル面で良好なシグナルが出ているため。",
-      "信用買い残の減少による大幅な需給改善に加え、4.82%という高い配当利回りが買い要因となっているため。"
-     ],
-     "timestamp": "16:07",
-     "seconds": 967,
-     "confidence": "medium"
-    }
-   ],
-   "consensus": {
-    "bullish": 1,
-    "bearish": 0,
-    "neutral": 0
-   },
-   "voices": 1,
-   "split": false,
-   "last_mentioned": "2026-08-28T14:36:11+00:00",
-   "channel_ids": [
-    "UCK9Pl6bbWqMC_x7IDca2tIg"
-   ],
-   "price": {
-    "date": "2026-08-28",
-    "close": 165.8,
-    "change_pct": 2.03,
-    "live": null,
-    "live_change_pct": null,
-    "live_time": null,
-    "volume": 68720600,
-    "volume_ratio": 1.19,
-    "rsi14": 69.6,
-    "rsi_zone": "中立",
-    "ma25": 157.34,
-    "ma75": 149.27,
-    "trend": "上昇基調",
-    "pos52": 74,
-    "spark": [
-     146.3,
-     146.8,
-     149.0,
-     150.5,
-     149.7,
-     147.8,
-     149.3,
-     150.9,
-     155.0,
-     158.0,
-     156.4,
-     154.7,
-     159.4,
-     159.8,
-     157.8,
-     154.3,
-     162.0,
-     156.1,
-     160.0,
-     159.4,
-     156.3,
-     155.3,
-     153.1,
-     153.5,
-     153.9,
-     152.6,
-     156.3,
-     154.4,
-     153.8,
-     155.8,
-     155.6,
-     155.0,
-     154.8,
-     157.3,
-     160.0,
-     160.9,
-     162.1,
-     162.7,
-     162.5,
-     165.8
-    ],
-    "currency": "JPY",
-    "exchange_name": "Tokyo",
-    "market_open": false,
-    "symbol": "8729.T",
-    "source": "yahoo-search",
-    "fetched_at": "2026-08-30T00:06:25.787875+00:00"
-   }
-  },
-  {
-   "key": "JP:7453",
-   "name": "良品計画",
-   "name_en": "Ryohin Keikaku",
-   "ticker": "7453",
-   "market": "JP",
-   "mentions": [
-    {
-     "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-     "channel_name": "Sho's投資情報局",
-     "channel_short": "Sho",
-     "slot": 3,
-     "video_id": "0OJjPpc6rJk",
-     "video_title": "【緊急】海外投資家が日本株大量売却‼日経平均寄天でAI半導体株も軟調。キオクシア大暴落で高値掴み助かるか⁉ドル円、米国株もNVIDIA 決算で上昇。仮想通貨BTC、金先物強い",
-     "published": "2026-08-28T14:36:11+00:00",
-     "stance": "neutral",
-     "stance_note": "レッドゾーン到達で一部利確を推奨",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "株価がフィボナッチのレッドゾーンに到達しており、一時的な利益確定(スライス売り)を入れるべきタイミングのため。",
-      "PBRが過去の上限水準である6倍付近(足元5.85倍)まで買われており、過熱感から上値が重くなりやすいため。"
-     ],
-     "timestamp": "20:04",
-     "seconds": 1204,
-     "confidence": "medium"
-    }
-   ],
-   "consensus": {
-    "bullish": 0,
-    "bearish": 0,
-    "neutral": 1
-   },
-   "voices": 1,
-   "split": false,
-   "last_mentioned": "2026-08-28T14:36:11+00:00",
-   "channel_ids": [
-    "UCK9Pl6bbWqMC_x7IDca2tIg"
-   ],
-   "price": {
-    "date": "2026-08-28",
-    "close": 4375.0,
-    "change_pct": 1.82,
-    "live": null,
-    "live_change_pct": null,
-    "live_time": null,
-    "volume": 2143900,
-    "volume_ratio": 0.75,
-    "rsi14": 56.7,
-    "rsi_zone": "中立",
-    "ma25": 4325.4,
-    "ma75": 3902.81,
-    "trend": "上昇基調",
-    "pos52": 92,
-    "spark": [
-     3510.0,
-     3615.0,
-     3670.0,
-     3811.0,
-     3812.0,
-     3752.0,
-     3623.0,
-     4233.0,
-     4310.0,
-     4166.0,
-     4370.0,
-     4259.0,
-     4244.0,
-     4161.0,
-     4224.0,
-     4202.0,
-     4313.0,
-     4305.0,
-     4414.0,
-     4224.0,
-     4177.0,
-     4217.0,
-     4212.0,
-     4260.0,
-     4395.0,
-     4412.0,
-     4526.0,
-     4495.0,
-     4480.0,
-     4499.0,
-     4345.0,
-     4303.0,
-     4241.0,
-     4379.0,
-     4237.0,
-     4241.0,
-     4289.0,
-     4297.0,
-     4297.0,
-     4375.0
-    ],
-    "currency": "JPY",
-    "exchange_name": "Tokyo",
-    "market_open": false,
-    "symbol": "7453.T",
-    "source": "yahoo",
-    "fetched_at": "2026-08-30T00:06:25.787875+00:00"
-   }
-  },
-  {
-   "key": "JP:6367",
-   "name": "ダイキン工業",
-   "name_en": "Daikin Industries",
-   "ticker": "6367",
-   "market": "JP",
-   "mentions": [
-    {
-     "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-     "channel_name": "Sho's投資情報局",
-     "channel_short": "Sho",
-     "slot": 3,
-     "video_id": "0OJjPpc6rJk",
-     "video_title": "【緊急】海外投資家が日本株大量売却‼日経平均寄天でAI半導体株も軟調。キオクシア大暴落で高値掴み助かるか⁉ドル円、米国株もNVIDIA 決算で上昇。仮想通貨BTC、金先物強い",
-     "published": "2026-08-28T14:36:11+00:00",
-     "stance": "neutral",
-     "stance_note": "日柄調整中で明確なサイン待ち",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "200日移動平均線を下回って日柄調整が続いており、MACDのゴールデンクロスも騙しの懸念が残るため。",
-      "パラボリックの位置がまだ高くバンドウォーク終了サインが不完全なため、明確な転換サインが出るまで静観が妥当なため。"
-     ],
-     "timestamp": "48:15",
-     "seconds": 2895,
-     "confidence": "medium"
-    }
-   ],
-   "consensus": {
-    "bullish": 0,
-    "bearish": 0,
-    "neutral": 1
-   },
-   "voices": 1,
-   "split": false,
-   "last_mentioned": "2026-08-28T14:36:11+00:00",
-   "channel_ids": [
-    "UCK9Pl6bbWqMC_x7IDca2tIg"
-   ],
-   "price": {
-    "date": "2026-08-28",
-    "close": 20895.0,
-    "change_pct": 0.26,
-    "live": null,
-    "live_change_pct": null,
-    "live_time": null,
-    "volume": 942500,
-    "volume_ratio": 0.65,
-    "rsi14": 31.1,
-    "rsi_zone": "中立",
-    "ma25": 22073.2,
-    "ma75": 23462.8,
-    "trend": "下降基調",
-    "pos52": 42,
-    "spark": [
-     25105.0,
-     25695.0,
-     26150.0,
-     25980.0,
-     25460.0,
-     25175.0,
-     25110.0,
-     24990.0,
-     24900.0,
-     24990.0,
-     24870.0,
-     24500.0,
-     24520.0,
-     24240.0,
-     24115.0,
-     23880.0,
-     24135.0,
-     23745.0,
-     23850.0,
-     23640.0,
-     23295.0,
-     23295.0,
-     23765.0,
-     22265.0,
-     22100.0,
-     22210.0,
-     22225.0,
-     21570.0,
-     21365.0,
-     21255.0,
-     21450.0,
-     21115.0,
-     20705.0,
-     20860.0,
-     20700.0,
-     20855.0,
-     20830.0,
-     20985.0,
-     20840.0,
-     20895.0
-    ],
-    "currency": "JPY",
-    "exchange_name": "Tokyo",
-    "market_open": false,
-    "symbol": "6367.T",
-    "source": "yahoo",
-    "fetched_at": "2026-08-30T00:06:25.787875+00:00"
+    "fetched_at": "2026-08-30T13:05:15.361759+00:00"
    }
   },
   {
@@ -2286,7 +1805,7 @@
     "market_open": false,
     "symbol": "SNDK",
     "source": "yahoo",
-    "fetched_at": "2026-08-30T00:06:25.787875+00:00"
+    "fetched_at": "2026-08-30T13:05:15.361759+00:00"
    }
   },
   {
@@ -2391,7 +1910,7 @@
     "market_open": false,
     "symbol": "4588.T",
     "source": "yahoo",
-    "fetched_at": "2026-08-30T00:06:25.787875+00:00"
+    "fetched_at": "2026-08-30T13:05:15.361759+00:00"
    }
   },
   {
@@ -2495,7 +2014,7 @@
     "market_open": false,
     "symbol": "WDC",
     "source": "yahoo",
-    "fetched_at": "2026-08-30T00:06:25.787875+00:00"
+    "fetched_at": "2026-08-30T13:05:15.361759+00:00"
    }
   },
   {
@@ -2599,7 +2118,7 @@
     "market_open": false,
     "symbol": "6522.T",
     "source": "yahoo",
-    "fetched_at": "2026-08-30T00:06:25.787875+00:00"
+    "fetched_at": "2026-08-30T13:05:15.361759+00:00"
    }
   },
   {
@@ -2703,7 +2222,7 @@
     "market_open": false,
     "symbol": "247A.T",
     "source": "yahoo",
-    "fetched_at": "2026-08-30T00:06:25.787875+00:00"
+    "fetched_at": "2026-08-30T13:05:15.361759+00:00"
    }
   }
  ]

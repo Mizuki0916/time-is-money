@@ -1,6 +1,21 @@
 {
- "generated_at": "2026-08-30T21:05:07.595787+09:00",
+ "generated_at": "2026-08-30T22:06:01.049824+09:00",
  "videos": [
+  {
+   "video_id": "hRJm4_yF7Rs",
+   "title": "【緊急事態、日本株投げ売り加速か‼】キオクシア大暴落ヤバい‼米金利急騰でAI半導体株暴落、日経先物下落でドル円160円に急騰‼米国株も資金シフト鮮明。仮想通貨BTC高止まり、金先物急落",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-08-30T12:22:42+00:00",
+   "overview": "",
+   "market_view": "",
+   "market": "",
+   "no_transcript": true,
+   "skip_reason": "この動画には字幕がありません",
+   "picks": []
+  },
   {
    "video_id": "nguw5YHcjUA",
    "title": "今週（8/31〜）専業が自信を持って買う1銘柄",
@@ -169,64 +184,6 @@
    "no_transcript": true,
    "skip_reason": "動画が非公開・削除・配信予定などで取得できません",
    "picks": []
-  },
-  {
-   "video_id": "0OJjPpc6rJk",
-   "title": "【緊急】海外投資家が日本株大量売却‼日経平均寄天でAI半導体株も軟調。キオクシア大暴落で高値掴み助かるか⁉ドル円、米国株もNVIDIA 決算で上昇。仮想通貨BTC、金先物強い",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-08-28T14:36:11+00:00",
-   "overview": "動画では、配信者の予想に沿った銘柄選定によって資産が増加している好調な相場環境について語られています。キオクシアの大暴落や半導体株の戻り売りの重さ、大林組のデッドクロス形成といった警戒銘柄を提示する一方、需給改善とゴールデンクロス形成が見られる任天堂やソニーフィナンシャルグループ、米国SaaSのセールスフォースなどを高評価として詳細に分析しています。",
-   "market_view": "9月に向けたショートカバー発動による日経平均の上昇期待を抱きつつも、反動体株の戻り売りや年末に向けた損益通算売りによるジグザグ相場を警戒しています。",
-   "market": "MIX",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "キオクシア",
-     "ticker": "285A",
-     "stance": "bearish",
-     "timestamp": "02:16"
-    },
-    {
-     "name": "任天堂",
-     "ticker": "7974",
-     "stance": "bullish",
-     "timestamp": "07:32"
-    },
-    {
-     "name": "大林組",
-     "ticker": "1802",
-     "stance": "bearish",
-     "timestamp": "10:25"
-    },
-    {
-     "name": "ソニーフィナンシャルグループ",
-     "ticker": "",
-     "stance": "bullish",
-     "timestamp": "16:07"
-    },
-    {
-     "name": "良品計画",
-     "ticker": "7453",
-     "stance": "neutral",
-     "timestamp": "20:04"
-    },
-    {
-     "name": "ダイキン工業",
-     "ticker": "6367",
-     "stance": "neutral",
-     "timestamp": "48:15"
-    },
-    {
-     "name": "セールスフォース",
-     "ticker": "CRM",
-     "stance": "bullish",
-     "timestamp": "29:40"
-    }
-   ]
   },
   {
    "video_id": "-B7uz0GmbhY",
