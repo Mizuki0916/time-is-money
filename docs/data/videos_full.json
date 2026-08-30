@@ -670,6 +670,41 @@
    ]
   },
   {
+   "video_id": "nguw5YHcjUA",
+   "title": "今週（8/31〜）専業が自信を持って買う1銘柄",
+   "published": "2026-08-30T11:00:38+00:00",
+   "description": "今週、個人的に注目している個別銘柄を1銘柄に絞って解説します。\n個人的見解ですが投資戦略の参考にしてもらえたら幸いです。\n\n※パパッと見たい方は倍速設定をご使用ください.\n\n投資に絶対はありません。\n紹介銘柄が気になっても売買は自己責任でお願いいたします。\n\nnoteでメンバーシップを開始しました。\n詳しくはリンクをご覧ください。\n\n【note】\nhttps://note.com/peco_kabu/membership\n\n【X】\nhttps://x.com/peco_kabu\n\n#投資 #株式投資 #株 #日本株 #nisa #日経平均 #NISA #米国株 #個別株",
+   "channel_id": "UCt7qqCkTFFRfKjXzwqUXq4g",
+   "channel_name": "ぺこ株",
+   "channel_short": "ぺこ",
+   "slot": 4,
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "動画では、ジャクソンホール会議後の米利上げ懸念や米金利上昇による市況への影響を解説した上で、専業投資家が注目する今週の上昇期待銘柄としてマクニカホールディングスを紹介しています。同社の事業内容や好決算といったファンダメンタルズ、三角持ち合いを形成するテクニカル面を分析し、打診買いからの段階的なエントリー戦略が解説されています。",
+   "market_view": "ジャクソンホール会議での高派的な発言を受けて米利上げ確率や米金利が上昇し、高PERのAI・半導体株には逆風となっています。ドル高円安が推移する一方で日経先物は下落しており、今週末の米雇用統計を前に警戒感のある展開です。",
+   "market": "JP",
+   "picks": [
+    {
+     "name": "マクニカホールディングス",
+     "name_en": "Macnica Holdings, Inc.",
+     "ticker": "3132",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "三角持ち合いの上抜けを確認後に打診買い検討",
+     "target_price": "",
+     "entry": "三角持ち合いのブレイクを確認後、打診買い",
+     "stop": "26週移動平均線付近",
+     "reasons": [
+      "1Q決算が大幅増収増益で着地し通期進捗率30%超えと今後の業績上方修正に期待が持てる点。",
+      "AIデータセンター需要やサイバーセキュリティ事業拡大など、成長分野のテーマを幅広く捉えている点。",
+      "3500円の抵抗線を明確に上抜け、週足チャートでもパーフェクトオーダーの上昇トレンドを形成している点。"
+     ],
+     "timestamp": "03:29",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
    "video_id": "fYej2v7Tq3k",
    "title": "ぺこ株 のライブ配信",
    "published": "2026-08-28T14:41:36+00:00",
@@ -685,73 +720,6 @@
    "market_view": "",
    "market": "",
    "picks": []
-  },
-  {
-   "video_id": "0B6s0lOnE1c",
-   "title": "今週（8/24〜）専業が自信を持って買う1銘柄",
-   "published": "2026-08-23T11:00:30+00:00",
-   "description": "今週、個人的に注目している個別銘柄を1銘柄に絞って解説します。\n個人的見解ですが投資戦略の参考にしてもらえたら幸いです。\n\n※パパッと見たい方は倍速設定をご使用ください.\n\n投資に絶対はありません。\n紹介銘柄が気になっても売買は自己責任でお願いいたします。\n\nnoteでメンバーシップを開始しました。\n詳しくはリンクをご覧ください。\n\n【note】\nhttps://note.com/peco_kabu/membership\n\n【X】\nhttps://x.com/peco_kabu\n\n#投資 #株式投資 #株 #日本株 #nisa #日経平均 #NISA #米国株 #個別株",
-   "channel_id": "UCt7qqCkTFFRfKjXzwqUXq4g",
-   "channel_name": "ぺこ株",
-   "channel_short": "ぺこ",
-   "slot": 4,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "日経平均が金利上昇や米大イベントを控えて乱高下する中、今週以降の上昇期待銘柄としてソニーグループをファンダメンタルズとテクニカルの両面から解説しています。TSMCとの提携による中長期での競争力強化やGTA6発売の波及効果、過去最高の営業利益率を見込む業績の良さなどを評価。併せてトライアル等の過去紹介銘柄の状況も振り返っています。",
-   "market_view": "長期金利の上昇や地政学リスク、NVIDIA決算やジャクソンホール会議前の警戒感からリスクオフで乱高下する難しい相場のため、無理せずペースを落とす対応が大事とされています。",
-   "market": "JP",
-   "picks": [
-    {
-     "name": "ソニーグループ",
-     "name_en": "Sony Group Corporation",
-     "ticker": "6758",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "長期主軸かつスイング買いも検討",
-     "target_price": "",
-     "entry": "打診600株、調整時に追加600株の計1200株",
-     "stop": "26週線あたり",
-     "reasons": [
-      "TSMCとの合弁会社設立で次世代イメージセンサーの競争力向上が期待され、中長期の成長材料となる点。",
-      "世界的大ヒット作GTA6の発売によりPS5本体や関連サービスなどプラットフォーム全体へ大きな恩恵がある点。",
-      "今期営業利益率が過去最高の13.7%を見込むなど好業績で、日足での底打ちや200日線超えなどチャートも好形状な点。"
-     ],
-     "timestamp": "03:26",
-     "confidence": "high"
-    },
-    {
-     "name": "トライアルホールディングス",
-     "name_en": "TRIAL Holdings Inc.",
-     "ticker": "141A",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "長期保有でガチホを継続",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "下落銘柄が多い相場環境下で前週比6.5%上昇と力強い動きを見せており、長期保有でガチホを継続する方針である点。"
-     ],
-     "timestamp": "02:42",
-     "confidence": "medium"
-    },
-    {
-     "name": "日本タバコ産業",
-     "name_en": "Japan Tobacco Inc.",
-     "ticker": "2914",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "リスクリワード内での保有継続",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "一時的に下げる場面はあったものの、設定したリスクリワードの範囲内であり慌てず保有を継続する方針である点。"
-     ],
-     "timestamp": "03:09",
-     "confidence": "low"
-    }
-   ]
   }
  ]
 }
