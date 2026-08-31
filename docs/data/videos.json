@@ -1,6 +1,104 @@
 {
- "generated_at": "2026-09-01T04:50:40.170476+09:00",
+ "generated_at": "2026-09-01T07:18:32.230112+09:00",
  "videos": [
+  {
+   "video_id": "o-6YpkuaOgw",
+   "title": "【日本株空売り急増で爆益チャンス‼】半導体株は年末安コースか⁉出遅れ株強い‼キオクシア大荒れ。ドル円159円推移。米国株、ハイテク株荒れるか。仮想通貨BTC高止まり、金先物急落",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-08-31T14:15:13+00:00",
+   "overview": "9月相場に向けた日本株の展望と個別銘柄のテクニカル分析が解説されています。高配当株やディフェンシブ株、出遅れ銘柄への資金シフトが意識される中、空売り増加に伴うショートカバーの可能性が指摘されています。一方で、時価総額が小さすぎる銘柄や需給の悪い銘柄への投資には強い警戒が示され、各種テクニカル指標の根拠を確認した上での立ち回りが推奨されています。",
+   "market_view": "日本株は権利取りやショートカバーによる底固い展開が期待される一方、米国株の波乱やドル円159円台推移などマクロ環境の動向に引き続き注意が必要な状況です。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "エムスリー",
+     "ticker": "2413",
+     "stance": "bullish",
+     "timestamp": "03:19"
+    },
+    {
+     "name": "秋葉ホールディングス",
+     "ticker": "6840",
+     "stance": "bearish",
+     "timestamp": "04:45"
+    },
+    {
+     "name": "大阪チタニウムテクノロジーズ",
+     "ticker": "5726",
+     "stance": "bearish",
+     "timestamp": "06:49"
+    },
+    {
+     "name": "霞ヶ関キャピタル",
+     "ticker": "3498",
+     "stance": "neutral",
+     "timestamp": "15:47"
+    },
+    {
+     "name": "三菱電機",
+     "ticker": "6503",
+     "stance": "bearish",
+     "timestamp": "33:51"
+    },
+    {
+     "name": "中外製薬",
+     "ticker": "4519",
+     "stance": "bullish",
+     "timestamp": "38:51"
+    },
+    {
+     "name": "ニトリホールディングス",
+     "ticker": "9843",
+     "stance": "neutral",
+     "timestamp": "51:47"
+    }
+   ]
+  },
+  {
+   "video_id": "Gx5NO3THicQ",
+   "title": "【日経平均】 FRB議長発言で乱高下！ 立ち回り意識せよ サンディスク・キオクシア・テラドローン・ティアフォー",
+   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+   "channel_name": "Trader's Lab",
+   "channel_short": "TL",
+   "slot": 1,
+   "published": "2026-08-31T11:00:10+00:00",
+   "overview": "FRB議長の高派発言を受けて日経平均が乱高下する中、主要指数および注目の個別銘柄についてチャート分析と立ち回り戦略を解説する動画です。全体相場は日足・週足レベルでレンジ傾向が強く明確な方向感が出ていないため、短期売買に限定すべきと分析しています。個別株では受給やテクニカル面の過熱感を踏まえ、サンディスク、キオクシア、テラドローン、ティアフォーの売買判断を提示しています。",
+   "market_view": "月足ベースでは長期上昇トレンドを維持しているものの、日足や週足では移動平均線が密集しレンジ相場が続いているため過度な楽観は禁物です。",
+   "market": "MIX",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "サンディスク",
+     "ticker": "SNDK",
+     "stance": "neutral",
+     "timestamp": "18:13"
+    },
+    {
+     "name": "キオクシア",
+     "ticker": "285A",
+     "stance": "neutral",
+     "timestamp": "19:51"
+    },
+    {
+     "name": "テラドローン",
+     "ticker": "278A",
+     "stance": "neutral",
+     "timestamp": "25:17"
+    },
+    {
+     "name": "ティアフォー",
+     "ticker": "",
+     "stance": "bullish",
+     "timestamp": "27:24"
+    }
+   ]
+  },
   {
    "video_id": "hRJm4_yF7Rs",
    "title": "【緊急事態、日本株投げ売り加速か‼】キオクシア大暴落ヤバい‼米金利急騰でAI半導体株暴落、日経先物下落でドル円160円に急騰‼米国株も資金シフト鮮明。仮想通貨BTC高止まり、金先物急落",
@@ -146,52 +244,6 @@
    ]
   },
   {
-   "video_id": "gxqrio7RmR4",
-   "title": "【緊急事態、日本株投げ売り加速か‼】キオクシア大暴落ヤバい‼米金利急騰でAI半導体株暴落、日経先物下落でドル円160円に急騰‼米国株も資金シフト鮮明。仮想通貨BTC高止まり、金先物急落",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-08-29T04:00:00+00:00",
-   "overview": "米国の利上げ懸念に伴う金利急騰を受け、AI半導体株やSOX指数が下落する中、日本株相場の現状と今後の見通しを分析した動画です。日経平均は2018年相場と類似した推移を辿っており、9月に戻り高値を試す可能性があるものの、年末に向けた利上げ懸念や信用期日売りに警戒が必要と指摘しています。半導体株から出遅れ銘柄やバリュー株、ソフトウェア関連への資金シフトが継続すると捉えています。",
-   "market_view": "米金利急騰で半導体株が売られる一方、出遅れ株やバリュー株への資金シフトが鮮明化しており、日経平均は9月の戻りを経て年末に向け慎重な立ち回りが求められる相場環境です。",
-   "market": "MIX",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "キオクシアホールディングス",
-     "ticker": "285A",
-     "stance": "bearish",
-     "timestamp": "00:16"
-    },
-    {
-     "name": "任天堂",
-     "ticker": "7974",
-     "stance": "bullish",
-     "timestamp": "27:10"
-    },
-    {
-     "name": "ソニーグループ",
-     "ticker": "6758",
-     "stance": "bullish",
-     "timestamp": "27:10"
-    },
-    {
-     "name": "NVIDIA",
-     "ticker": "NVDA",
-     "stance": "bearish",
-     "timestamp": "30:30"
-    },
-    {
-     "name": "セールスフォース",
-     "ticker": "CRM",
-     "stance": "bullish",
-     "timestamp": "31:01"
-    }
-   ]
-  },
-  {
    "video_id": "a8mvDBXRCSk",
    "title": "キオクシア（285A）株式テクニカルチャート分析",
    "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
@@ -283,64 +335,6 @@
      "ticker": "5530",
      "stance": "bullish",
      "timestamp": "41:11"
-    }
-   ]
-  },
-  {
-   "video_id": "Lx8g5YPr65Y",
-   "title": "【日経平均】 NVIDIA決算で上昇するも失速 膠着感強まる動き サンディスク・キオクシア・テラドローン・アスタリスク・ティアフォー・GO",
-   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-   "channel_name": "Trader's Lab",
-   "channel_short": "TL",
-   "slot": 1,
-   "published": "2026-08-27T11:44:19+00:00",
-   "overview": "日経平均株価はNVIDIAの決算を受けて朝方に上昇して始まったものの、アドバンテストの下落などの影響でマイナスに沈み膠着感を強めました。相場全体で指数の方向感が出ない中、短期・中期・長期で異なるトレンドを見せており判断が難しい展開です。このような指数の動きが難解な相場環境下では、独自のモメンタムやテーマ性を持つグロース系銘柄(テラドローン、アスタリスク、ティアフォー、GOなど)に絞った選定が有効であると解説されています。",
-   "market_view": "日経平均や主要指数はレンジ内で上値の重さが目立ち方向感を欠いており、上限突破または下限割り込みを確認するまでは過度な強気・弱気を控えるべき相場環境です。",
-   "market": "MIX",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "NVIDIA",
-     "ticker": "NVDA",
-     "stance": "neutral",
-     "timestamp": "20:39"
-    },
-    {
-     "name": "サンディスク",
-     "ticker": "WDC",
-     "stance": "neutral",
-     "timestamp": "21:42"
-    },
-    {
-     "name": "キオクシア",
-     "ticker": "285A",
-     "stance": "neutral",
-     "timestamp": "23:08"
-    },
-    {
-     "name": "テラドローン",
-     "ticker": "278A",
-     "stance": "bullish",
-     "timestamp": "24:59"
-    },
-    {
-     "name": "アスタリスク",
-     "ticker": "6522",
-     "stance": "bullish",
-     "timestamp": "29:08"
-    },
-    {
-     "name": "ティアフォー",
-     "ticker": "212A",
-     "stance": "bullish",
-     "timestamp": "32:00"
-    },
-    {
-     "name": "GO",
-     "ticker": "247A",
-     "stance": "bullish",
-     "timestamp": "33:45"
     }
    ]
   }
