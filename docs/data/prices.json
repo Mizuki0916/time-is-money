@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-01T17:35:15.390440+00:00",
+ "updated_at": "2026-09-01T20:09:08.069563+00:00",
  "symbols": {
   "JP:1111": {
    "date": "2026-08-17",
@@ -1090,22 +1090,21 @@
    "fetched_at": "2026-08-26T23:03:11.469362+00:00"
   },
   "US:SNDK": {
-   "date": "2026-08-31",
-   "close": 1566.7,
-   "change_pct": 5.5,
-   "live": 1563.61,
-   "live_change_pct": -0.2,
-   "live_time": 1788284137,
-   "volume": 23378800,
-   "volume_ratio": 1.48,
-   "rsi14": 53.2,
+   "date": "2026-09-01",
+   "close": 1536.87,
+   "change_pct": -1.9,
+   "live": null,
+   "live_change_pct": null,
+   "live_time": null,
+   "volume": 11465539,
+   "volume_ratio": 0.75,
+   "rsi14": 51.7,
    "rsi_zone": "中立",
-   "ma25": 1414.17,
-   "ma75": 1622.87,
+   "ma25": 1431.8,
+   "ma75": 1624.92,
    "trend": "戻り歩調",
-   "pos52": 66,
+   "pos52": 65,
    "spark": [
-    1617.7,
     1727.18,
     1858.27,
     1915.92,
@@ -1144,14 +1143,15 @@
     1499.37,
     1484.95,
     1484.98,
-    1566.7
+    1566.7,
+    1536.87
    ],
    "currency": "USD",
    "exchange_name": "NasdaqGS",
-   "market_open": true,
+   "market_open": false,
    "symbol": "SNDK",
    "source": "yahoo",
-   "fetched_at": "2026-09-01T17:35:15.390440+00:00"
+   "fetched_at": "2026-09-01T20:09:08.069563+00:00"
   },
   "JP:5985": {
    "date": "2026-08-19",
@@ -4902,22 +4902,21 @@
    "fetched_at": "2026-09-01T17:35:15.390440+00:00"
   },
   "JP:5530": {
-   "date": "2026-08-31",
-   "close": 0.88,
-   "change_pct": 46.0,
-   "live": 1.25,
-   "live_change_pct": 42.69,
-   "live_time": 1788284121,
-   "volume": 220002900,
-   "volume_ratio": 14.66,
-   "rsi14": 68.9,
-   "rsi_zone": "中立",
-   "ma25": 0.67,
+   "date": "2026-09-01",
+   "close": 1.23,
+   "change_pct": 40.41,
+   "live": null,
+   "live_change_pct": null,
+   "live_time": null,
+   "volume": 488748327,
+   "volume_ratio": 14.23,
+   "rsi14": 81.2,
+   "rsi_zone": "買われすぎ",
+   "ma25": 0.69,
    "ma75": 0.79,
    "trend": "戻り歩調",
-   "pos52": 13,
+   "pos52": 28,
    "spark": [
-    0.7,
     0.73,
     0.76,
     0.76,
@@ -4956,14 +4955,15 @@
     0.6,
     0.61,
     0.6,
-    0.88
+    0.88,
+    1.23
    ],
    "currency": "USD",
    "exchange_name": "NasdaqGS",
-   "market_open": true,
+   "market_open": false,
    "symbol": "GPRO",
    "source": "yahoo-search",
-   "fetched_at": "2026-09-01T17:35:15.390440+00:00"
+   "fetched_at": "2026-09-01T20:09:08.069563+00:00"
   },
   "US:WDC": {
    "date": "2026-08-27",
