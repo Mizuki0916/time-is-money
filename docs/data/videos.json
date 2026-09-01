@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-02T05:17:04.266875+09:00",
+ "generated_at": "2026-09-02T05:19:58.419370+09:00",
  "videos": [
   {
    "video_id": "O1j0vNfWIs4",
@@ -100,60 +100,94 @@
    ]
   },
   {
-   "video_id": "o-6YpkuaOgw",
-   "title": "【日本株空売り急増で爆益チャンス‼】半導体株は年末安コースか⁉出遅れ株強い‼キオクシア大荒れ。ドル円159円推移。米国株、ハイテク株荒れるか。仮想通貨BTC高止まり、金先物急落",
+   "video_id": "mqj_g5A3lzg",
+   "title": "【日経平均】 ⚠️警告 中東情勢激化でヤバい！ 下抜け警戒 サンディスク・キオクシア・テラドローン・ティアフォー",
+   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+   "channel_name": "Trader's Lab",
+   "channel_short": "TL",
+   "slot": 1,
+   "published": "2026-09-01T11:00:01+00:00",
+   "overview": "中東情勢の緊迫化に伴う原油高や先物急落を受け、日経平均および米国指数の下落警戒シナリオを詳細に解説した動画です。PER17倍割れに伴う更なる下値模索リスクを警告しつつ、個別銘柄としてサンディスク、キオクシア、テラドローン、ティアフォーを取り上げ、テクニカル分析に基づく値動きの分岐点やリスク管理の重要性を説明しています。",
+   "market_view": "中東情勢激化による原油高や先物の大幅下落を受け、日経平均・ナスダック共にレンジ下抜けや急落への警戒が必要な局面です。",
+   "market": "MIX",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "サンディスク",
+     "ticker": "",
+     "stance": "neutral",
+     "timestamp": "23:30"
+    },
+    {
+     "name": "キオクシア",
+     "ticker": "",
+     "stance": "bearish",
+     "timestamp": "25:18"
+    },
+    {
+     "name": "テラドローン",
+     "ticker": "278A",
+     "stance": "neutral",
+     "timestamp": "29:55"
+    },
+    {
+     "name": "ティアフォー",
+     "ticker": "",
+     "stance": "neutral",
+     "timestamp": "31:58"
+    }
+   ]
+  },
+  {
+   "video_id": "WG6v1L7kY54",
+   "title": "【日本株空売り減少だと‼】日経平均予想通りでボロ儲け‼️金利急騰で半導体株ピンチ⁉️→高配当銘柄、出遅れ株強いぞ‼️ドル円159円推移。米国株、ハイテク株軟調。仮想通貨BTC横、金先物急落",
    "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
    "channel_name": "Sho's投資情報局",
    "channel_short": "Sho",
    "slot": 3,
-   "published": "2026-08-31T14:15:13+00:00",
-   "overview": "9月相場に向けた日本株の展望と個別銘柄のテクニカル分析が解説されています。高配当株やディフェンシブ株、出遅れ銘柄への資金シフトが意識される中、空売り増加に伴うショートカバーの可能性が指摘されています。一方で、時価総額が小さすぎる銘柄や需給の悪い銘柄への投資には強い警戒が示され、各種テクニカル指標の根拠を確認した上での立ち回りが推奨されています。",
-   "market_view": "日本株は権利取りやショートカバーによる底固い展開が期待される一方、米国株の波乱やドル円159円台推移などマクロ環境の動向に引き続き注意が必要な状況です。",
+   "published": "2026-09-01T09:15:01+00:00",
+   "overview": "日経平均は予想通り理論株価付近で下げ止まる展開となった。マーケット全体の空売り残高が高水準を維持する中、9月の配当取りに向けた出遅れ高配当株やディフェンシブ銘柄が堅調に推移している。一方で半導体やハイテク株は、6月高値からの信用期日売りや年末の損益通算による売り圧力で戻り売りが警戒される。日米の利上げ動向に注意しつつ、需給の軽い銘柄を見極める局面である。",
+   "market_view": "マーケット全体に空売りが蓄積されており下がりづらい地合い。配当取りに向けた高配当・出遅れ銘柄優位の展開が継続する見通し。",
    "market": "JP",
    "no_transcript": false,
    "skip_reason": "",
    "picks": [
     {
-     "name": "エムスリー",
-     "ticker": "2413",
+     "name": "東京エレクトロン",
+     "ticker": "8035",
+     "stance": "bearish",
+     "timestamp": "24:29"
+    },
+    {
+     "name": "トヨタ通商",
+     "ticker": "8015",
      "stance": "bullish",
-     "timestamp": "03:19"
+     "timestamp": "23:56"
     },
     {
-     "name": "秋葉ホールディングス",
-     "ticker": "6840",
-     "stance": "bearish",
-     "timestamp": "04:45"
-    },
-    {
-     "name": "大阪チタニウムテクノロジーズ",
-     "ticker": "5726",
-     "stance": "bearish",
-     "timestamp": "06:49"
-    },
-    {
-     "name": "霞ヶ関キャピタル",
-     "ticker": "3498",
+     "name": "キオクシアホールディングス",
+     "ticker": "285A",
      "stance": "neutral",
-     "timestamp": "15:47"
+     "timestamp": "23:56"
     },
     {
-     "name": "三菱電機",
-     "ticker": "6503",
-     "stance": "bearish",
-     "timestamp": "33:51"
-    },
-    {
-     "name": "中外製薬",
-     "ticker": "4519",
+     "name": "トヨタ自動車",
+     "ticker": "7203",
      "stance": "bullish",
-     "timestamp": "38:51"
+     "timestamp": "26:59"
     },
     {
-     "name": "ニトリホールディングス",
-     "ticker": "9843",
-     "stance": "neutral",
-     "timestamp": "51:47"
+     "name": "任天堂",
+     "ticker": "7974",
+     "stance": "bullish",
+     "timestamp": "26:59"
+    },
+    {
+     "name": "ソニーグループ",
+     "ticker": "6758",
+     "stance": "bullish",
+     "timestamp": "26:59"
     }
    ]
   },
@@ -291,58 +325,6 @@
    "no_transcript": true,
    "skip_reason": "動画が非公開・削除・配信予定などで取得できません",
    "picks": []
-  },
-  {
-   "video_id": "-B7uz0GmbhY",
-   "title": "【日経平均】 週明け相場 方向感欠く テーマ株を見ろ サンディスク・キオクシア・テラドローン・ティアフォー・オンコリスバイオ・GO",
-   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-   "channel_name": "Trader's Lab",
-   "channel_short": "TL",
-   "slot": 1,
-   "published": "2026-08-28T12:00:48+00:00",
-   "overview": "日経平均はレンジ相場が続いており、週明け以降も方向感を欠く難解な相場環境が想定されています。AI・半導体などの主力株が指数連動で停滞する一方、市場の資金はテーマ性のあるグロース銘柄や中小型株へシフトしています。動画では下落基調を強めるキオクシアやサンディスクの警戒点とともに、高値更新やストップ高となったテラドローン、ティアフォー、オンコリスバイオ、GOのテクニカル分析と立ち回り方を解説しています。",
-   "market_view": "日経平均は方向感を欠くレンジ相場が続いており、AI・半導体関連からグロース系テーマ株への資金流入が見られます。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "サンディスク",
-     "ticker": "SNDK",
-     "stance": "bearish",
-     "timestamp": "24:25"
-    },
-    {
-     "name": "キオクシア",
-     "ticker": "285A",
-     "stance": "bearish",
-     "timestamp": "26:21"
-    },
-    {
-     "name": "テラドローン",
-     "ticker": "278A",
-     "stance": "neutral",
-     "timestamp": "33:24"
-    },
-    {
-     "name": "ティアフォー",
-     "ticker": "",
-     "stance": "neutral",
-     "timestamp": "35:48"
-    },
-    {
-     "name": "オンコリスバイオファルマ",
-     "ticker": "4588",
-     "stance": "bullish",
-     "timestamp": "38:11"
-    },
-    {
-     "name": "GO",
-     "ticker": "5530",
-     "stance": "bullish",
-     "timestamp": "41:11"
-    }
-   ]
   }
  ]
 }
