@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-02T18:21:07.773538+00:00",
+ "updated_at": "2026-09-02T20:06:26.002636+00:00",
  "symbols": {
   "JP:1111": {
    "date": "2026-08-17",
@@ -1090,22 +1090,21 @@
    "fetched_at": "2026-08-26T23:03:11.469362+00:00"
   },
   "US:SNDK": {
-   "date": "2026-09-01",
-   "close": 1536.87,
-   "change_pct": -1.9,
-   "live": 1540.74,
-   "live_change_pct": 0.25,
-   "live_time": 1788373278,
-   "volume": 11684400,
-   "volume_ratio": 0.77,
-   "rsi14": 51.7,
+   "date": "2026-09-02",
+   "close": 1553.4,
+   "change_pct": 1.08,
+   "live": null,
+   "live_change_pct": null,
+   "live_time": null,
+   "volume": 8188172,
+   "volume_ratio": 0.56,
+   "rsi14": 52.5,
    "rsi_zone": "中立",
-   "ma25": 1431.8,
-   "ma75": 1624.92,
+   "ma25": 1453.3,
+   "ma75": 1626.86,
    "trend": "戻り歩調",
-   "pos52": 65,
+   "pos52": 66,
    "spark": [
-    1727.18,
     1858.27,
     1915.92,
     1673.97,
@@ -1144,14 +1143,15 @@
     1484.95,
     1484.98,
     1566.7,
-    1536.87
+    1536.87,
+    1553.4
    ],
    "currency": "USD",
    "exchange_name": "NasdaqGS",
-   "market_open": true,
+   "market_open": false,
    "symbol": "SNDK",
    "source": "yahoo",
-   "fetched_at": "2026-09-02T18:21:07.773538+00:00"
+   "fetched_at": "2026-09-02T20:06:26.002636+00:00"
   },
   "JP:5985": {
    "date": "2026-08-19",
@@ -3650,17 +3650,17 @@
    "fetched_at": "2026-09-02T18:00:05.252630+00:00"
   },
   "NAME:ティアフォー": {
-   "date": "2026-08-26",
-   "close": 1328.0,
-   "change_pct": -4.53,
+   "date": "2026-09-01",
+   "close": 2539.0,
+   "change_pct": 5.84,
    "live": null,
    "live_change_pct": null,
    "live_time": null,
-   "volume": 20244400,
-   "volume_ratio": 2.2,
-   "rsi14": 65.1,
-   "rsi_zone": "中立",
-   "ma25": 1038.64,
+   "volume": 80030600,
+   "volume_ratio": 7.02,
+   "rsi14": 86.1,
+   "rsi_zone": "買われすぎ",
+   "ma25": 1203.52,
    "ma75": null,
    "trend": "判定不可",
    "pos52": null,
@@ -3689,14 +3689,18 @@
     1057.0,
     1145.0,
     1391.0,
-    1328.0
+    1328.0,
+    1599.0,
+    1999.0,
+    2399.0,
+    2539.0
    ],
    "currency": "JPY",
    "exchange_name": "Tokyo",
    "market_open": false,
    "symbol": "593A.T",
    "source": "yahoo-search",
-   "fetched_at": "2026-08-26T23:03:11.469362+00:00"
+   "fetched_at": "2026-09-02T20:06:26.002636+00:00"
   },
   "JP:8766": {
    "date": "2026-09-01",
@@ -6438,22 +6442,21 @@
    "fetched_at": "2026-09-01T20:19:43.405524+00:00"
   },
   "JP:8318": {
-   "date": "2026-09-01",
-   "close": 15.3,
-   "change_pct": 0.66,
-   "live": 15.1,
-   "live_change_pct": -1.31,
-   "live_time": 1788329006,
-   "volume": null,
-   "volume_ratio": null,
-   "rsi14": 59.8,
+   "date": "2026-09-02",
+   "close": 15.1,
+   "change_pct": -1.31,
+   "live": null,
+   "live_change_pct": null,
+   "live_time": null,
+   "volume": 223,
+   "volume_ratio": 25.0,
+   "rsi14": 55.7,
    "rsi_zone": "中立",
-   "ma25": 14.76,
-   "ma75": 13.94,
+   "ma25": 14.79,
+   "ma75": 13.97,
    "trend": "上昇基調",
-   "pos52": 99,
+   "pos52": 96,
    "spark": [
-    14.9,
     14.8,
     14.8,
     14.8,
@@ -6492,14 +6495,15 @@
     14.9,
     15.1,
     15.2,
-    15.3
+    15.3,
+    15.1
    ],
    "currency": "EUR",
    "exchange_name": "Frankfurt",
-   "market_open": true,
+   "market_open": false,
    "symbol": "CBR.F",
    "source": "yahoo-search",
-   "fetched_at": "2026-09-02T18:21:07.773538+00:00"
+   "fetched_at": "2026-09-02T20:06:26.002636+00:00"
   },
   "JP:4911": {
    "date": "2026-09-01",
