@@ -511,6 +511,159 @@
    ]
   },
   {
+   "video_id": "KUINcqDiiy0",
+   "title": "今日の活況銘柄を見てみる！（フジクラ・太陽誘電・村田製作所・キオクシア・ティアフォー等）株式テクニカルチャート分析",
+   "published": "2026-09-02T07:11:41+00:00",
+   "description": "🔽サンワード証券さんコラボWEBセミナー\nテーマ「AI・半導体相場はまだ上がる？　年末相場の勝ち筋を読む！」\n\n2026年9月2日（水）\n18:00開演　20:00終了\n\n参加申し込みURL\nhttps://www.sunward-t.co.jp/seminar/2026/09/02_2/index_k.html\n\n・申し込みされた方のみ視聴可能となります。\n・後日アーカイブ視聴可能\n・参加無料\n\n🔽「株オンラインサロン」8月期新規メンバー募集中！\nエンジョイプランは初参加の方初月無料です★\n→　https://yoor.jp/door/tradertomo\n\n※ 参加プラン別のサービス内容はこちらの動画で解説しています。\n→https://youtu.be/LtXywHzgOHs?si=G3UipVQW0JsWkv5t\n\n株好きが集まる楽しいサロンを目指してます♪\n初心者歓迎です～ご参加",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "世界的な金利上昇や原油高、地政学リスクを背景に日経平均が大幅下落する厳しい相場環境を解説しています。個別銘柄では全般的に需給が悪化して買いが入りづらい中、自動運転関連のティアフォーやダイナミックマップに資金が集中した動きを取り上げました。半導体・電子部品株や大手銘柄のチャート悪化に触れ、現金比率を高めて慎重に立ち回る重要性を強調しています。",
+   "market_view": "日米の金利上昇や原油高、インフレ懸念により全体地合いは非常に厳しく、無理なポジション取りを避け現金比率を高めて静観すべき局面です。",
+   "market": "JP",
+   "picks": [
+    {
+     "name": "ティアフォー",
+     "name_en": "Tier IV",
+     "ticker": "",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "日中デイトレ限定でテーマ性を狙う",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "大口の資金流入で一気にストップ高へ買われ、節目の3000円ラインを上抜ける展開となった。",
+      "割高感があり持ち越しは不推奨だが、高い出来高と自動運転テーマとしての関心は継続している。"
+     ],
+     "timestamp": "05:48",
+     "confidence": "high"
+    },
+    {
+     "name": "キオクシアホールディングス",
+     "name_en": "Kioxia Holdings",
+     "ticker": "285A",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "上値重く大きく下げた際のリバ狙い",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "寄り付き後は買いが入るも5万4000〜6000円付近のシコり玉が重く、抜けるには時間が必要。",
+      "出来高が減少し上値追いは緩やかと想定されるが、大きく下げた局面での押し目買い狙いは可能。"
+     ],
+     "timestamp": "07:23",
+     "confidence": "medium"
+    },
+    {
+     "name": "太陽誘電",
+     "name_en": "Taiyo Yuden",
+     "ticker": "6976",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "需給悪化のため積極的な買いは控える",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "寄り付きで損切りが十分に巻き込まれずダラダラと下落し、上値の重さを残す陰線となった。",
+      "オーバーアンダーの需給バランスも悪化しており、積極的に買いに向かえる状況ではない。"
+     ],
+     "timestamp": "08:32",
+     "confidence": "medium"
+    },
+    {
+     "name": "フジクラ",
+     "name_en": "Fujikura",
+     "ticker": "5803",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "節目割れとシコり台頭に警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "需給が悪化する中で本日も陰線を形成し、節目となる5300円を下回る厳しい展開となった。",
+      "出来高の盛り上がりに欠けシコりが残っているため、今後の更なる下落に警戒が必要な状態。"
+     ],
+     "timestamp": "09:06",
+     "confidence": "medium"
+    },
+    {
+     "name": "村田製作所",
+     "name_en": "Murata Manufacturing",
+     "ticker": "6981",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "スイングは避け続落リスクに警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "7600円台までに捕まった買い玉が多く存在し、上値のシコりが非常に重いチャート形状。",
+      "続落リスクが高まっているためスイング買いは避け、デイトレでの状況判断に留めるべき。"
+     ],
+     "timestamp": "09:37",
+     "confidence": "medium"
+    },
+    {
+     "name": "東京電力ホールディングス",
+     "name_en": "Tokyo Electric Power Company Holdings",
+     "ticker": "9501",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "他電力株の動向と併せて観察する",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "関西電力や北海道電力と同様に出来高5000万株超を維持しており、上目線のトレード対象になり得る。",
+      "足型自体は他の電力株ほど綺麗ではないため、主軸銘柄の動向を観察しつつサブとして扱うべき。"
+     ],
+     "timestamp": "10:27",
+     "confidence": "medium"
+    },
+    {
+     "name": "ダイナミックマッププラットフォーム",
+     "name_en": "Dynamic Map Platform",
+     "ticker": "336A",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "ティアフォーとの連動性を注視",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "自動運転テーマの連動で前場から買われストップ高となったが、張り付きは圧倒的ではない。",
+      "板が薄く剥がれるリスクがあるため慎重な対応が必要であり、ティアフォーの動きと連動する。"
+     ],
+     "timestamp": "11:18",
+     "confidence": "medium"
+    },
+    {
+     "name": "ソフトバンクグループ",
+     "name_en": "SoftBank Group",
+     "ticker": "9984",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "6000円超えまでスイング買い見送り",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "5000円の大台ラインを維持できず大口の板外しも重なって崩れ、ほぼ安値引けの重い足型。",
+      "需給悪化が著しいため6000円ラインを上抜けるまではスイングの買いポジションは控えるべき。"
+     ],
+     "timestamp": "12:20",
+     "confidence": "medium"
+    }
+   ]
+  },
+  {
    "video_id": "LHFaIr9AZHY",
    "title": "長期金利が３％に上昇！セクター別の株式投資戦略　#shorts",
    "published": "2026-09-01T11:32:55+00:00",
@@ -540,142 +693,6 @@
       "楽天銀行のようにしっかり預金を獲得できている銘柄については金利上昇の悪影響は限定的と考えられるため。"
      ],
      "timestamp": "01:04",
-     "confidence": "medium"
-    }
-   ]
-  },
-  {
-   "video_id": "v6qBmGGkr74",
-   "title": "来週の注目銘柄をみていく！（テラドローン・GO・ティアフォー・パワーエックス・東洋エンジニア。ユニチカなど）株式テクニカルチャート分析",
-   "published": "2026-08-29T23:00:12+00:00",
-   "description": "🔽サンワード証券さんコラボWEBセミナー\nテーマ「AI・半導体相場はまだ上がる？　年末相場の勝ち筋を読む！」\n\n2026年9月2日（水）\n18:00開演　20:00終了\n\n参加申し込みURL\nhttps://www.sunward-t.co.jp/seminar/2026/09/02_2/index_k.html\n\n・申し込みされた方のみ視聴可能となります。\n・後日アーカイブ視聴可能\n・参加無料\n\n🔽「株オンラインサロン」8月期新規メンバー募集中！\nエンジョイプランは初参加の方初月無料です★\n→　https://yoor.jp/door/tradertomo\n\n※ 参加プラン別のサービス内容はこちらの動画で解説しています。\n→https://youtu.be/LtXywHzgOHs?si=G3UipVQW0JsWkv5t\n\n株好きが集まる楽しいサロンを目指してます♪\n初心者歓迎です～ご参加",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "FRBの追加利上げを示唆する発言や米国株安を受けて週明けの日経平均先物は下落スタートが予想される中、強さを見せるグロース銘柄を中心としたテクニカル分析が解説されています。タクシーアプリのGOやテラドローン、ティアフォーといった直近の話題株に加え、データセクション、パワーエックス、ユニチカ、東洋エンジニアリングのチャート形状や需給関係、エントリーのポイントが紹介されています。",
-   "market_view": "FRB議長の発言による利上げ懸念で米株や先物は下落しているが、国内グロース株には資金が流入し強い動きが見られる。",
-   "market": "JP",
-   "picks": [
-    {
-     "name": "GO",
-     "name_en": "GO Inc.",
-     "ticker": "",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "4400円上抜けでの高値更新狙い",
-     "target_price": "",
-     "entry": "4400円の上",
-     "stop": "",
-     "reasons": [
-      "出来高400万株で要線主導の安値切り上げと高値更新を達成しており、足型・需給面ともに良好な推移を見せているため。",
-      "4400円近辺でパワーを溜めており、このラインを上抜ける上昇局面をデイトレードで狙っていく手法が有効とされるため。"
-     ],
-     "timestamp": "04:39",
-     "confidence": "high"
-    },
-    {
-     "name": "テラドローン",
-     "name_en": "Terra Drone Corporation",
-     "ticker": "278A",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "2万円超えでの高値更新を短期で狙う",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "バリュエーション面では割高感があるものの、700万株の出来高を伴う強い足型と需給により短期的な上値追いが期待できるため。",
-      "1万9000円台を固めて2万円を突破し、2万2000円手前で売りをこなす横ばい推移を見せており高値更新が狙えるため。"
-     ],
-     "timestamp": "06:15",
-     "confidence": "high"
-    },
-    {
-     "name": "ティアフォー",
-     "name_en": "TIER IV Inc.",
-     "ticker": "212A",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "2200円付近からの寄り付き上昇狙い",
-     "target_price": "",
-     "entry": "2200円付近",
-     "stop": "",
-     "reasons": [
-      "自動運転ソフト開発のIPO銘柄で、出来高3800万株超の反騰からストップ高となりPTSでも大幅高と非常に勢いが強いため。",
-      "安値を切り上げる陽線主導のチャート形状をしており、2000円を軽々と上抜けてスタートすることが想定されるため。"
-     ],
-     "timestamp": "07:58",
-     "confidence": "high"
-    },
-    {
-     "name": "データセクション",
-     "name_en": "Data Section Inc.",
-     "ticker": "3905",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "1700円上の大口買い追随狙い",
-     "target_price": "",
-     "entry": "1700円の上",
-     "stop": "",
-     "reasons": [
-      "出来高が約1200万株まで急増し底値圏からの反転の動きが見られ、大口の買いが入った際のボラティリティの高さが魅力であるため。",
-      "過去から意識されている1700円のライン上部に絞り、大口買いの上昇角度に合わせて初動に乗るトレードが有効であるため。"
-     ],
-     "timestamp": "09:56",
-     "confidence": "medium"
-    },
-    {
-     "name": "パワーエックス",
-     "name_en": "PowerX, Inc.",
-     "ticker": "",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "2000円上で2200円を目指す展開",
-     "target_price": "2200円",
-     "entry": "2000円の上",
-     "stop": "",
-     "reasons": [
-      "節目である2000円のラインを突破し、安値切り上げの綺麗な足型を形成しており出来高増加に伴い2200円が目指せるため。",
-      "信用改ざんが多くスイングには不向きだが、2000円上の水準に限定して立ち回ることでリスクを抑えたトレードが可能なため。"
-     ],
-     "timestamp": "11:31",
-     "confidence": "medium"
-    },
-    {
-     "name": "ユニチカ",
-     "name_en": "Unitika Ltd.",
-     "ticker": "3103",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "1700円超えからの大相場・2000円狙い",
-     "target_price": "2000円",
-     "entry": "1700円の上",
-     "stop": "",
-     "reasons": [
-      "出来高3200万株を伴う強いトレンドが続いており、過去の下落による振るい落としを経て1700円ラインを突破してきたため。",
-      "含み損玉の解消が進んでおり、板の買い注文(アンダー)の強さを確認しながら2000円突破の大相場を狙っていけるため。"
-     ],
-     "timestamp": "12:34",
-     "confidence": "medium"
-    },
-    {
-     "name": "東洋エンジニアリング",
-     "name_en": "Toyo Engineering Corporation",
-     "ticker": "6330",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "2800円超からの3000円突破狙い",
-     "target_price": "3000円",
-     "entry": "2800円の上(スイングは3000円上)",
-     "stop": "",
-     "reasons": [
-      "出来高が1400万株へ急増して急落前の2800円ラインに到達しており、板状況の改善とともに上値追いが期待できるため。",
-      "デイトレなら2800円以上で3000円手前までを狙い、スイングなら3000円を完全に上抜けた位置から絞り込むのが良いため。"
-     ],
-     "timestamp": "13:51",
      "confidence": "medium"
     }
    ]

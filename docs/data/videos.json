@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-03T03:01:44.589980+09:00",
+ "generated_at": "2026-09-03T03:21:31.458682+09:00",
  "videos": [
   {
    "video_id": "pEzH8fXKj7M",
@@ -102,6 +102,70 @@
      "ticker": "6857",
      "stance": "bearish",
      "timestamp": "35:49"
+    }
+   ]
+  },
+  {
+   "video_id": "KUINcqDiiy0",
+   "title": "今日の活況銘柄を見てみる！（フジクラ・太陽誘電・村田製作所・キオクシア・ティアフォー等）株式テクニカルチャート分析",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-09-02T07:11:41+00:00",
+   "overview": "世界的な金利上昇や原油高、地政学リスクを背景に日経平均が大幅下落する厳しい相場環境を解説しています。個別銘柄では全般的に需給が悪化して買いが入りづらい中、自動運転関連のティアフォーやダイナミックマップに資金が集中した動きを取り上げました。半導体・電子部品株や大手銘柄のチャート悪化に触れ、現金比率を高めて慎重に立ち回る重要性を強調しています。",
+   "market_view": "日米の金利上昇や原油高、インフレ懸念により全体地合いは非常に厳しく、無理なポジション取りを避け現金比率を高めて静観すべき局面です。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "ティアフォー",
+     "ticker": "",
+     "stance": "neutral",
+     "timestamp": "05:48"
+    },
+    {
+     "name": "キオクシアホールディングス",
+     "ticker": "285A",
+     "stance": "neutral",
+     "timestamp": "07:23"
+    },
+    {
+     "name": "太陽誘電",
+     "ticker": "6976",
+     "stance": "bearish",
+     "timestamp": "08:32"
+    },
+    {
+     "name": "フジクラ",
+     "ticker": "5803",
+     "stance": "bearish",
+     "timestamp": "09:06"
+    },
+    {
+     "name": "村田製作所",
+     "ticker": "6981",
+     "stance": "bearish",
+     "timestamp": "09:37"
+    },
+    {
+     "name": "東京電力ホールディングス",
+     "ticker": "9501",
+     "stance": "neutral",
+     "timestamp": "10:27"
+    },
+    {
+     "name": "ダイナミックマッププラットフォーム",
+     "ticker": "336A",
+     "stance": "neutral",
+     "timestamp": "11:18"
+    },
+    {
+     "name": "ソフトバンクグループ",
+     "ticker": "9984",
+     "stance": "bearish",
+     "timestamp": "12:20"
     }
    ]
   },
@@ -262,64 +326,6 @@
      "ticker": "3132",
      "stance": "bullish",
      "timestamp": "03:29"
-    }
-   ]
-  },
-  {
-   "video_id": "v6qBmGGkr74",
-   "title": "来週の注目銘柄をみていく！（テラドローン・GO・ティアフォー・パワーエックス・東洋エンジニア。ユニチカなど）株式テクニカルチャート分析",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-08-29T23:00:12+00:00",
-   "overview": "FRBの追加利上げを示唆する発言や米国株安を受けて週明けの日経平均先物は下落スタートが予想される中、強さを見せるグロース銘柄を中心としたテクニカル分析が解説されています。タクシーアプリのGOやテラドローン、ティアフォーといった直近の話題株に加え、データセクション、パワーエックス、ユニチカ、東洋エンジニアリングのチャート形状や需給関係、エントリーのポイントが紹介されています。",
-   "market_view": "FRB議長の発言による利上げ懸念で米株や先物は下落しているが、国内グロース株には資金が流入し強い動きが見られる。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "GO",
-     "ticker": "",
-     "stance": "bullish",
-     "timestamp": "04:39"
-    },
-    {
-     "name": "テラドローン",
-     "ticker": "278A",
-     "stance": "bullish",
-     "timestamp": "06:15"
-    },
-    {
-     "name": "ティアフォー",
-     "ticker": "212A",
-     "stance": "bullish",
-     "timestamp": "07:58"
-    },
-    {
-     "name": "データセクション",
-     "ticker": "3905",
-     "stance": "bullish",
-     "timestamp": "09:56"
-    },
-    {
-     "name": "パワーエックス",
-     "ticker": "",
-     "stance": "bullish",
-     "timestamp": "11:31"
-    },
-    {
-     "name": "ユニチカ",
-     "ticker": "3103",
-     "stance": "bullish",
-     "timestamp": "12:34"
-    },
-    {
-     "name": "東洋エンジニアリング",
-     "ticker": "6330",
-     "stance": "bullish",
-     "timestamp": "13:51"
     }
    ]
   },
