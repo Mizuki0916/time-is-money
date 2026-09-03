@@ -1,55 +1,101 @@
 {
- "generated_at": "2026-09-04T05:08:05.226582+09:00",
+ "generated_at": "2026-09-04T08:29:04.142639+09:00",
  "videos": [
   {
-   "video_id": "pEzH8fXKj7M",
-   "title": "【緊急】日経平均1889円急落ヤバい‼金利急騰で日本株全面安。半導体株需給悪化で木端微塵か⁉ドル円159円推移。原油急騰で米国株、ハイテク株も大荒れ。仮想通貨BTC横、金先物急落",
+   "video_id": "dmq5hXzdYl8",
+   "title": "円高爆速で日経平均急落か⁉海外投資家が日本株をさらに大量売却‼ドル円１５5円に急落。半導体株→高配当銘柄強い。利上げ懸念で米国株、ハイテク株も乱高下。仮想通貨BTC、金先物軟調",
    "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
    "channel_name": "Sho's投資情報局",
    "channel_short": "Sho",
    "slot": 3,
-   "published": "2026-09-02T14:42:51+00:00",
-   "overview": "日経平均が1889円急落し日本株が全面安となる中、配当月に向けた高配当・ディフェンシブ銘柄や需給の軽い銘柄への選別を解説する動画。半導体株などのハイテク銘柄は需給悪化で年末に向け上値が重い展開を予想する一方、下げた高配当銘柄には押し目買いの機運もあると指摘。各種指数や個別銘柄のテクニカル分析を行い、今後の相場動向と対処法を説明している。",
-   "market_view": "金利急騰や半導体株の需給悪化で日本株は全面安の展開。ショートカバーが入っておらず、配当落ちやSQ通過後の動きを注意深く見極める必要がある。",
+   "published": "2026-09-03T14:42:23+00:00",
+   "overview": "急速な円高進行(ドル円155円台)や日経平均EPSの下落に伴い、輸出関連の自動車株やハイテク株を中心に売り圧力が強まっています。一方で、バリュー株や高配当銘柄、ソフトウェア関連には資金流入が見られ、明確な二極化相場が続いています。個別株では需給面やチャートの形状に応じて戻り売り警戒銘柄と押し目買い対象の選別が重要であると解説されています。",
+   "market_view": "急速な円高進行により日本株の優位性が低下し、半導体・ハイテク株や自動車株が重い一方、高配当銘柄やバリュー株、ソフトウェア関連へ資金が向かう二極化相場となっています。",
    "market": "JP",
    "no_transcript": false,
    "skip_reason": "",
    "picks": [
     {
-     "name": "千葉銀行",
-     "ticker": "8318",
+     "name": "トヨタ自動車",
+     "ticker": "7203",
      "stance": "bearish",
-     "timestamp": "02:58"
-    },
-    {
-     "name": "資生堂",
-     "ticker": "4911",
-     "stance": "neutral",
-     "timestamp": "10:17"
-    },
-    {
-     "name": "ファーストリテイリング",
-     "ticker": "9983",
-     "stance": "bearish",
-     "timestamp": "15:28"
+     "timestamp": "05:05"
     },
     {
      "name": "レーザーテック",
      "ticker": "6920",
-     "stance": "bearish",
-     "timestamp": "17:33"
+     "stance": "neutral",
+     "timestamp": "10:57"
+    },
+    {
+     "name": "オリエンタルランド",
+     "ticker": "4661",
+     "stance": "bullish",
+     "timestamp": "12:28"
+    },
+    {
+     "name": "ソフトバンクグループ",
+     "ticker": "9984",
+     "stance": "neutral",
+     "timestamp": "13:08"
+    },
+    {
+     "name": "キオクシアホールディングス",
+     "ticker": "285A",
+     "stance": "neutral",
+     "timestamp": "14:38"
     },
     {
      "name": "任天堂",
      "ticker": "7974",
-     "stance": "bullish",
-     "timestamp": "45:12"
+     "stance": "neutral",
+     "timestamp": "20:42"
     },
     {
-     "name": "東京海上ホールディングス",
-     "ticker": "8766",
+     "name": "東京エレクトロン",
+     "ticker": "8035",
      "stance": "bearish",
-     "timestamp": "58:04"
+     "timestamp": "22:58"
+    },
+    {
+     "name": "川崎重工業",
+     "ticker": "7012",
+     "stance": "bearish",
+     "timestamp": "53:27"
+    }
+   ]
+  },
+  {
+   "video_id": "XiJFYn8X6l4",
+   "title": "海外投資家が日本株をさらに大量売却‼円高爆速で日経平均急落か⁉ドル円１５６円に急落。半導体株→高配当銘柄強い。利上げ懸念で米国株、ハイテク株も乱高下。仮想通貨BTC、金先物軟調",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-09-03T09:15:01+00:00",
+   "overview": "日本株は海外投資家の売り越しや急激な円高進行により、日経平均が下落トレンドを形成するなど軟調な展開が続いています。現在の相場環境は2018年の急落局面と酷似しており、高バリエーションの半導体・ハイテク株には戻り売り圧力がかかる一方、需給が良い高配当銘柄やディフェンシブ銘柄へ資金がシフトしています。年末に向けては信用需給の良し悪しによる銘柄の二極化が進むと予想され、需給の軽い銘柄への戦略的シフトが推奨されています。",
+   "market_view": "メジャーSQを控えてショートカバーの起動スイッチがオフになっており、海外勢の売りも続いているため、当面は日経平均の理論株価に連動した上値の重い展開に注意が必要です。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "レーザーテック",
+     "ticker": "6920",
+     "stance": "bullish",
+     "timestamp": "21:57"
+    },
+    {
+     "name": "古河電気工業",
+     "ticker": "5801",
+     "stance": "bearish",
+     "timestamp": "22:46"
+    },
+    {
+     "name": "NTT",
+     "ticker": "9432",
+     "stance": "bullish",
+     "timestamp": "24:44"
     }
    ]
   },
@@ -166,82 +212,6 @@
      "ticker": "9984",
      "stance": "bearish",
      "timestamp": "12:20"
-    }
-   ]
-  },
-  {
-   "video_id": "O1j0vNfWIs4",
-   "title": "日経平均先物が中東リスクで急落中‼️金利急騰で半導体株ピンチ⁉️→日本株、高配当銘柄、出遅れ株強いぞ‼️ドル円159円推移。米国株、ハイテク株軟調。仮想通貨BTC横、金先物急落",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-09-01T14:55:34+00:00",
-   "overview": "日経平均先物の急落や米国金利の上昇、半導体・ハイテク株の軟調な動きに対し、需給動向を中心に解説する動画です。キオクシアやレーザーテック、ソフトバンクグループなどは信用買い残の膨張やデッドクロス形成により戻り売り懸念が強いと分析されています。一方で、任天堂やカプコン、ソニーなどのゲーム関連株や出遅れ高配当株は需給改善やゴールデンクロス形成により堅調な推移が期待されています。",
-   "market_view": "米利上げ懸念や半導体株の軟調さから先物は下落していますが、空売り比率が高水準なため下値では買い戻しが入りやすい状況です。ハイテク株からバリュー株・出遅れ株への資金シフトが継続すると見込んでいます。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "キオクシアホールディングス",
-     "ticker": "285A",
-     "stance": "bearish",
-     "timestamp": "02:53"
-    },
-    {
-     "name": "レーザーテック",
-     "ticker": "6920",
-     "stance": "bearish",
-     "timestamp": "04:16"
-    },
-    {
-     "name": "信越化学工業",
-     "ticker": "4063",
-     "stance": "bearish",
-     "timestamp": "11:44"
-    },
-    {
-     "name": "スクウェア・エニックス・ホールディングス",
-     "ticker": "9684",
-     "stance": "bullish",
-     "timestamp": "18:24"
-    },
-    {
-     "name": "任天堂",
-     "ticker": "7974",
-     "stance": "bullish",
-     "timestamp": "18:08"
-    },
-    {
-     "name": "カプコン",
-     "ticker": "9697",
-     "stance": "bullish",
-     "timestamp": "19:11"
-    },
-    {
-     "name": "ソニーグループ",
-     "ticker": "6758",
-     "stance": "bullish",
-     "timestamp": "19:44"
-    },
-    {
-     "name": "サンリオ",
-     "ticker": "8136",
-     "stance": "bullish",
-     "timestamp": "43:35"
-    },
-    {
-     "name": "武田薬品工業",
-     "ticker": "4502",
-     "stance": "bullish",
-     "timestamp": "1:01:06"
-    },
-    {
-     "name": "ソフトバンクグループ",
-     "ticker": "9984",
-     "stance": "bearish",
-     "timestamp": "56:26"
     }
    ]
   },
