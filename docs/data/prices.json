@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-03T03:53:18.548797+00:00",
+ "updated_at": "2026-09-03T08:48:26.440103+00:00",
  "symbols": {
   "JP:1111": {
    "date": "2026-08-17",
@@ -1096,8 +1096,8 @@
    "live": null,
    "live_change_pct": null,
    "live_time": null,
-   "volume": 8188172,
-   "volume_ratio": 0.56,
+   "volume": 8913600,
+   "volume_ratio": 0.61,
    "rsi14": 52.5,
    "rsi_zone": "中立",
    "ma25": 1453.3,
@@ -1151,7 +1151,7 @@
    "market_open": false,
    "symbol": "SNDK",
    "source": "yahoo",
-   "fetched_at": "2026-09-02T20:06:26.002636+00:00"
+   "fetched_at": "2026-09-03T08:48:26.440103+00:00"
   },
   "JP:5985": {
    "date": "2026-08-19",
@@ -6446,11 +6446,11 @@
    "date": "2026-09-02",
    "close": 15.1,
    "change_pct": -1.31,
-   "live": null,
-   "live_change_pct": null,
-   "live_time": null,
-   "volume": 223,
-   "volume_ratio": 25.0,
+   "live": 15.4,
+   "live_change_pct": 1.99,
+   "live_time": 1788415339,
+   "volume": null,
+   "volume_ratio": null,
    "rsi14": 55.7,
    "rsi_zone": "中立",
    "ma25": 14.79,
@@ -6501,10 +6501,10 @@
    ],
    "currency": "EUR",
    "exchange_name": "Frankfurt",
-   "market_open": false,
+   "market_open": true,
    "symbol": "CBR.F",
    "source": "yahoo-search",
-   "fetched_at": "2026-09-02T20:06:26.002636+00:00"
+   "fetched_at": "2026-09-03T08:48:26.440103+00:00"
   },
   "JP:4911": {
    "date": "2026-09-02",
