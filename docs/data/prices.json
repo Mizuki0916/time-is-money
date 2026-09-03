@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-03T17:30:43.751035+00:00",
+ "updated_at": "2026-09-03T20:08:02.322158+00:00",
  "symbols": {
   "JP:1111": {
    "date": "2026-08-17",
@@ -1090,22 +1090,21 @@
    "fetched_at": "2026-08-26T23:03:11.469362+00:00"
   },
   "US:SNDK": {
-   "date": "2026-09-02",
-   "close": 1553.4,
-   "change_pct": 1.08,
-   "live": 1553.45,
-   "live_change_pct": 0.0,
-   "live_time": 1788456662,
-   "volume": 8913600,
-   "volume_ratio": 0.61,
-   "rsi14": 52.5,
+   "date": "2026-09-03",
+   "close": 1554.99,
+   "change_pct": 0.1,
+   "live": null,
+   "live_change_pct": null,
+   "live_time": null,
+   "volume": 8375587,
+   "volume_ratio": 0.6,
+   "rsi14": 52.6,
    "rsi_zone": "中立",
-   "ma25": 1453.3,
-   "ma75": 1626.86,
+   "ma25": 1464.3,
+   "ma75": 1629.82,
    "trend": "戻り歩調",
    "pos52": 66,
    "spark": [
-    1858.27,
     1915.92,
     1673.97,
     1757.82,
@@ -1144,14 +1143,15 @@
     1484.98,
     1566.7,
     1536.87,
-    1553.4
+    1553.4,
+    1554.99
    ],
    "currency": "USD",
    "exchange_name": "NasdaqGS",
-   "market_open": true,
+   "market_open": false,
    "symbol": "SNDK",
    "source": "yahoo",
-   "fetched_at": "2026-09-03T17:30:43.751035+00:00"
+   "fetched_at": "2026-09-03T20:08:02.322158+00:00"
   },
   "JP:5985": {
    "date": "2026-08-19",
@@ -6443,22 +6443,21 @@
    "fetched_at": "2026-09-01T20:19:43.405524+00:00"
   },
   "JP:8318": {
-   "date": "2026-09-02",
-   "close": 15.1,
-   "change_pct": -1.31,
-   "live": 15.4,
-   "live_change_pct": 1.99,
-   "live_time": 1788415339,
-   "volume": null,
-   "volume_ratio": null,
-   "rsi14": 55.7,
+   "date": "2026-09-03",
+   "close": 15.4,
+   "change_pct": 1.99,
+   "live": null,
+   "live_change_pct": null,
+   "live_time": null,
+   "volume": 223,
+   "volume_ratio": 25.0,
+   "rsi14": 60.2,
    "rsi_zone": "中立",
-   "ma25": 14.79,
-   "ma75": 13.97,
+   "ma25": 14.86,
+   "ma75": 14.01,
    "trend": "上昇基調",
-   "pos52": 96,
+   "pos52": 100,
    "spark": [
-    14.8,
     14.8,
     14.8,
     15.0,
@@ -6497,14 +6496,15 @@
     15.1,
     15.2,
     15.3,
-    15.1
+    15.1,
+    15.4
    ],
    "currency": "EUR",
    "exchange_name": "Frankfurt",
-   "market_open": true,
+   "market_open": false,
    "symbol": "CBR.F",
    "source": "yahoo-search",
-   "fetched_at": "2026-09-03T17:30:43.751035+00:00"
+   "fetched_at": "2026-09-03T20:08:02.322158+00:00"
   },
   "JP:4911": {
    "date": "2026-09-02",
