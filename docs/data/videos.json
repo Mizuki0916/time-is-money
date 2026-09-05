@@ -1,6 +1,88 @@
 {
- "generated_at": "2026-09-06T07:14:03.239936+09:00",
+ "generated_at": "2026-09-06T08:06:09.218927+09:00",
  "videos": [
+  {
+   "video_id": "lYi5x188e1s",
+   "title": "株式テクニカルチャート分析",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-09-05T23:00:25+00:00",
+   "overview": "米国の半導体株上昇を受け日経先物も底堅い動きを見せる中、明日からの相場に向けた注目銘柄のチャートや需給動向を分析しています。キオクシアやソフトバンクグループなどの大型株・半導体関連に強気の姿勢を示す一方、急騰後に急落したティアフォーなど自動運転関連のリバウンド狙いには難易度の高さを踏まえた慎重な対応を呼びかけています。",
+   "market_view": "米国相場で半導体株が買われたことで半導体セクターは力強い推移が期待されますが、相場全体としては小幅高程度にとどまり方向感を模索する展開です。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "キオクシア",
+     "ticker": "285A",
+     "stance": "bullish",
+     "timestamp": "02:37"
+    },
+    {
+     "name": "アドバンテスト",
+     "ticker": "6857",
+     "stance": "bullish",
+     "timestamp": "04:31"
+    },
+    {
+     "name": "イビデン",
+     "ticker": "4062",
+     "stance": "bullish",
+     "timestamp": "05:21"
+    },
+    {
+     "name": "古河電気工業",
+     "ticker": "5801",
+     "stance": "neutral",
+     "timestamp": "06:02"
+    },
+    {
+     "name": "ソフトバンクグループ",
+     "ticker": "9984",
+     "stance": "bullish",
+     "timestamp": "06:58"
+    },
+    {
+     "name": "三菱UFJフィナンシャル・グループ",
+     "ticker": "8306",
+     "stance": "bullish",
+     "timestamp": "08:13"
+    },
+    {
+     "name": "テラドローン",
+     "ticker": "278A",
+     "stance": "bullish",
+     "timestamp": "09:02"
+    },
+    {
+     "name": "全務テック",
+     "ticker": "",
+     "stance": "neutral",
+     "timestamp": "10:16"
+    },
+    {
+     "name": "エブリー",
+     "ticker": "5250",
+     "stance": "neutral",
+     "timestamp": "11:12"
+    },
+    {
+     "name": "ティアフォー",
+     "ticker": "593A",
+     "stance": "neutral",
+     "timestamp": "12:24"
+    },
+    {
+     "name": "ダイナミックマッププラットフォーム",
+     "ticker": "",
+     "stance": "neutral",
+     "timestamp": "14:19"
+    }
+   ]
+  },
   {
    "video_id": "-HDJ1CG3plc",
    "title": "キオクシア今後の上昇ある？9月末の株式３分割までのトレード戦略",
@@ -20,100 +102,6 @@
      "ticker": "285A",
      "stance": "neutral",
      "timestamp": "00:00"
-    }
-   ]
-  },
-  {
-   "video_id": "tYyTPlljQGc",
-   "title": "来週の相場に備えて！　日本株チャート分析LIVE　9/5",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-09-05T05:28:27+00:00",
-   "overview": "日銀の利上げ観測や米国雇用統計発表を受けた相場環境下で、個人投資家からのリクエスト銘柄(半導体、防衛、銀行、商社、グロース株等)のチャートや需給動向をLIVE分析した動画。機関投資家の空売りや信用買い残の過多による需給悪化銘柄への警戒を促す一方、節目突破や鍋底形成など足型の良い銘柄への押し目買い・上値追い戦略を解説している。",
-   "market_view": "利上げ確率の上昇や円高進行など全体地合いに慎重さが求められる局面。出来高不足や信用買い残が重い銘柄を避け、需給とチャート形状が良好な個別株に絞った立ち回りが推奨される。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "ディスコ",
-     "ticker": "6146",
-     "stance": "neutral",
-     "timestamp": "02:34"
-    },
-    {
-     "name": "日立製作所",
-     "ticker": "6501",
-     "stance": "bullish",
-     "timestamp": "03:57"
-    },
-    {
-     "name": "ソフトバンクグループ",
-     "ticker": "9984",
-     "stance": "bullish",
-     "timestamp": "15:11"
-    },
-    {
-     "name": "テラドローン",
-     "ticker": "278A",
-     "stance": "bullish",
-     "timestamp": "17:34"
-    },
-    {
-     "name": "インフロニア・ホールディングス",
-     "ticker": "5076",
-     "stance": "bullish",
-     "timestamp": "20:41"
-    },
-    {
-     "name": "安川電機",
-     "ticker": "6506",
-     "stance": "bearish",
-     "timestamp": "21:47"
-    },
-    {
-     "name": "東京海上ホールディングス",
-     "ticker": "8766",
-     "stance": "bullish",
-     "timestamp": "22:03"
-    },
-    {
-     "name": "三菱重工業",
-     "ticker": "7011",
-     "stance": "bearish",
-     "timestamp": "14:02"
-    },
-    {
-     "name": "三菱商事",
-     "ticker": "8058",
-     "stance": "bullish",
-     "timestamp": "43:58"
-    },
-    {
-     "name": "日立建機",
-     "ticker": "6305",
-     "stance": "bullish",
-     "timestamp": "47:02"
-    },
-    {
-     "name": "FOOD & LIFE COMPANIES",
-     "ticker": "3563",
-     "stance": "bullish",
-     "timestamp": "1:09:25"
-    },
-    {
-     "name": "ヘッドウォータース",
-     "ticker": "4011",
-     "stance": "bullish",
-     "timestamp": "1:18:44"
-    },
-    {
-     "name": "東洋エンジニアリング",
-     "ticker": "6330",
-     "stance": "bearish",
-     "timestamp": "1:20:32"
     }
    ]
   },
