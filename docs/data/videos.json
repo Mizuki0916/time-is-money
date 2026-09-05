@@ -1,6 +1,100 @@
 {
- "generated_at": "2026-09-05T15:14:31.334376+09:00",
+ "generated_at": "2026-09-05T16:15:40.173507+09:00",
  "videos": [
+  {
+   "video_id": "tYyTPlljQGc",
+   "title": "来週の相場に備えて！　日本株チャート分析LIVE　9/5",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-09-05T05:28:27+00:00",
+   "overview": "日銀の利上げ観測や米国雇用統計発表を受けた相場環境下で、個人投資家からのリクエスト銘柄(半導体、防衛、銀行、商社、グロース株等)のチャートや需給動向をLIVE分析した動画。機関投資家の空売りや信用買い残の過多による需給悪化銘柄への警戒を促す一方、節目突破や鍋底形成など足型の良い銘柄への押し目買い・上値追い戦略を解説している。",
+   "market_view": "利上げ確率の上昇や円高進行など全体地合いに慎重さが求められる局面。出来高不足や信用買い残が重い銘柄を避け、需給とチャート形状が良好な個別株に絞った立ち回りが推奨される。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "ディスコ",
+     "ticker": "6146",
+     "stance": "neutral",
+     "timestamp": "02:34"
+    },
+    {
+     "name": "日立製作所",
+     "ticker": "6501",
+     "stance": "bullish",
+     "timestamp": "03:57"
+    },
+    {
+     "name": "ソフトバンクグループ",
+     "ticker": "9984",
+     "stance": "bullish",
+     "timestamp": "15:11"
+    },
+    {
+     "name": "テラドローン",
+     "ticker": "278A",
+     "stance": "bullish",
+     "timestamp": "17:34"
+    },
+    {
+     "name": "インフロニア・ホールディングス",
+     "ticker": "5076",
+     "stance": "bullish",
+     "timestamp": "20:41"
+    },
+    {
+     "name": "安川電機",
+     "ticker": "6506",
+     "stance": "bearish",
+     "timestamp": "21:47"
+    },
+    {
+     "name": "東京海上ホールディングス",
+     "ticker": "8766",
+     "stance": "bullish",
+     "timestamp": "22:03"
+    },
+    {
+     "name": "三菱重工業",
+     "ticker": "7011",
+     "stance": "bearish",
+     "timestamp": "14:02"
+    },
+    {
+     "name": "三菱商事",
+     "ticker": "8058",
+     "stance": "bullish",
+     "timestamp": "43:58"
+    },
+    {
+     "name": "日立建機",
+     "ticker": "6305",
+     "stance": "bullish",
+     "timestamp": "47:02"
+    },
+    {
+     "name": "FOOD & LIFE COMPANIES",
+     "ticker": "3563",
+     "stance": "bullish",
+     "timestamp": "1:09:25"
+    },
+    {
+     "name": "ヘッドウォータース",
+     "ticker": "4011",
+     "stance": "bullish",
+     "timestamp": "1:18:44"
+    },
+    {
+     "name": "東洋エンジニアリング",
+     "ticker": "6330",
+     "stance": "bearish",
+     "timestamp": "1:20:32"
+    }
+   ]
+  },
   {
    "video_id": "bPNcJDDwSDc",
    "title": "日本株ついに爆上げ開始か⁉雇用統計でAI半導体株急騰→日経平均上昇。バリュー株、高配当銘柄どうなる。円高加速でドル円急落。利上げ懸念で米国株、ハイテク株上昇の違和感。仮想通貨BTCしっかり",
@@ -176,70 +270,6 @@
      "ticker": "278A",
      "stance": "bullish",
      "timestamp": "33:10"
-    }
-   ]
-  },
-  {
-   "video_id": "QMPhg2VKMrE",
-   "title": "今日の活況銘柄を見てみる！（ダイナマップ・SBG・太陽誘電・キオクシア・ティアフォー等）株式テクニカルチャート分析",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-09-04T07:04:43+00:00",
-   "overview": "本動画では、5日ぶりに大きく反発した日経平均の市場動向と、活況を呈した注目銘柄のテクニカルチャート分析を解説しています。ソフトバンクグループや太陽誘電、キオクシアなど資金流入が顕著な銘柄には強気姿勢を示す一方、ダイナミックマップやティアフォーなどの急落・高ボラティリティ銘柄については持ち越しを避け、デイトレードに限定した慎重な対応を呼びかけています。",
-   "market_view": "日経平均は主力株主導で大幅反発したものの、値下がり銘柄数が多く全面高とは言えません。今夜の米雇用統計やFOMCを控え、持ち越しリスクを避けてポジション量をコントロールすることが推奨されています。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "ダイナミックマップ",
-     "ticker": "336A",
-     "stance": "neutral",
-     "timestamp": "03:40"
-    },
-    {
-     "name": "ソフトバンクグループ",
-     "ticker": "9984",
-     "stance": "bullish",
-     "timestamp": "05:31"
-    },
-    {
-     "name": "太陽誘電",
-     "ticker": "6976",
-     "stance": "bullish",
-     "timestamp": "07:37"
-    },
-    {
-     "name": "キオクシア",
-     "ticker": "285A",
-     "stance": "bullish",
-     "timestamp": "08:35"
-    },
-    {
-     "name": "ティアフォー",
-     "ticker": "593A",
-     "stance": "neutral",
-     "timestamp": "09:29"
-    },
-    {
-     "name": "藤倉",
-     "ticker": "5803",
-     "stance": "bearish",
-     "timestamp": "11:00"
-    },
-    {
-     "name": "村田製作所",
-     "ticker": "6981",
-     "stance": "neutral",
-     "timestamp": "11:47"
-    },
-    {
-     "name": "古河電気工業",
-     "ticker": "5801",
-     "stance": "neutral",
-     "timestamp": "12:20"
     }
    ]
   },
