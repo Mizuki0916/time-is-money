@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-05T20:14:03.797971+09:00",
+ "generated_at": "2026-09-05T21:14:04.956597+09:00",
  "channels": [
   {
    "id": "UCsaeHha7ai_NNX8or8Jyb-g",
@@ -190,7 +190,7 @@
     "market_open": false,
     "symbol": "9984.T",
     "source": "yahoo",
-    "fetched_at": "2026-09-05T00:12:58.026770+00:00"
+    "fetched_at": "2026-09-05T12:14:04.995135+00:00"
    }
   },
   {
@@ -317,7 +317,7 @@
     "market_open": false,
     "symbol": "278A.T",
     "source": "yahoo",
-    "fetched_at": "2026-09-05T00:12:58.026770+00:00"
+    "fetched_at": "2026-09-05T12:14:04.995135+00:00"
    }
   },
   {
@@ -445,7 +445,7 @@
     "market_open": false,
     "symbol": "7011.T",
     "source": "yahoo",
-    "fetched_at": "2026-09-05T00:12:58.026770+00:00"
+    "fetched_at": "2026-09-05T12:14:04.995135+00:00"
    }
   },
   {
@@ -700,7 +700,7 @@
     "market_open": false,
     "symbol": "6330.T",
     "source": "yahoo",
-    "fetched_at": "2026-09-05T00:12:58.026770+00:00"
+    "fetched_at": "2026-09-05T12:14:04.995135+00:00"
    }
   },
   {
@@ -828,7 +828,7 @@
     "market_open": false,
     "symbol": "285A.T",
     "source": "yahoo",
-    "fetched_at": "2026-09-05T00:12:58.026770+00:00"
+    "fetched_at": "2026-09-05T12:14:04.995135+00:00"
    }
   },
   {
@@ -2089,7 +2089,7 @@
     "market_open": false,
     "symbol": "7203.T",
     "source": "yahoo",
-    "fetched_at": "2026-09-05T00:12:58.026770+00:00"
+    "fetched_at": "2026-09-05T12:14:04.995135+00:00"
    }
   },
   {
@@ -2195,7 +2195,7 @@
     "market_open": false,
     "symbol": "3697.T",
     "source": "yahoo",
-    "fetched_at": "2026-09-05T00:12:58.026770+00:00"
+    "fetched_at": "2026-09-05T12:14:04.995135+00:00"
    }
   },
   {
@@ -2300,7 +2300,7 @@
     "market_open": false,
     "symbol": "8267.T",
     "source": "yahoo",
-    "fetched_at": "2026-09-05T00:12:58.026770+00:00"
+    "fetched_at": "2026-09-05T12:14:04.995135+00:00"
    }
   },
   {
@@ -2406,7 +2406,7 @@
     "market_open": false,
     "symbol": "9697.T",
     "source": "yahoo",
-    "fetched_at": "2026-09-05T00:12:58.026770+00:00"
+    "fetched_at": "2026-09-05T12:14:04.995135+00:00"
    }
   },
   {
@@ -2512,7 +2512,7 @@
     "market_open": false,
     "symbol": "7974.T",
     "source": "yahoo",
-    "fetched_at": "2026-09-05T00:12:58.026770+00:00"
+    "fetched_at": "2026-09-05T12:14:04.995135+00:00"
    }
   },
   {
@@ -2617,7 +2617,7 @@
     "market_open": false,
     "symbol": "6702.T",
     "source": "yahoo",
-    "fetched_at": "2026-09-05T00:12:58.026770+00:00"
+    "fetched_at": "2026-09-05T12:14:04.995135+00:00"
    }
   },
   {
@@ -2661,22 +2661,21 @@
     "UCsaeHha7ai_NNX8or8Jyb-g"
    ],
    "price": {
-    "date": "2026-09-03",
-    "close": 1554.99,
-    "change_pct": 0.1,
+    "date": "2026-09-04",
+    "close": 1740.0,
+    "change_pct": 11.9,
     "live": null,
     "live_change_pct": null,
     "live_time": null,
-    "volume": 8688900,
-    "volume_ratio": 0.62,
-    "rsi14": 52.6,
+    "volume": 16487100,
+    "volume_ratio": 1.2,
+    "rsi14": 61.2,
     "rsi_zone": "中立",
-    "ma25": 1464.3,
-    "ma75": 1629.82,
+    "ma25": 1485.31,
+    "ma75": 1634.58,
     "trend": "戻り歩調",
-    "pos52": 66,
+    "pos52": 74,
     "spark": [
-     1915.92,
      1673.97,
      1757.82,
      1615.0,
@@ -2715,14 +2714,15 @@
      1566.7,
      1536.87,
      1553.4,
-     1554.99
+     1554.99,
+     1740.0
     ],
     "currency": "USD",
     "exchange_name": "NasdaqGS",
     "market_open": false,
     "symbol": "SNDK",
     "source": "yahoo",
-    "fetched_at": "2026-09-05T00:12:58.026770+00:00"
+    "fetched_at": "2026-09-05T12:14:04.995135+00:00"
    }
   },
   {
@@ -2849,7 +2849,7 @@
     "market_open": false,
     "symbol": "9983.T",
     "source": "yahoo",
-    "fetched_at": "2026-09-05T00:12:58.026770+00:00"
+    "fetched_at": "2026-09-05T12:14:04.995135+00:00"
    }
   },
   {
@@ -2976,7 +2976,7 @@
     "market_open": false,
     "symbol": "8035.T",
     "source": "yahoo",
-    "fetched_at": "2026-09-05T00:12:58.026770+00:00"
+    "fetched_at": "2026-09-05T12:14:04.995135+00:00"
    }
   },
   {
@@ -3399,7 +3399,7 @@
     "market_open": false,
     "symbol": "3132.T",
     "source": "yahoo",
-    "fetched_at": "2026-09-05T00:12:58.026770+00:00"
+    "fetched_at": "2026-09-05T12:14:04.995135+00:00"
    }
   }
  ]
