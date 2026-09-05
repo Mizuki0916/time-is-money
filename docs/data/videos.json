@@ -1,6 +1,46 @@
 {
- "generated_at": "2026-09-05T11:14:03.187759+09:00",
+ "generated_at": "2026-09-05T15:05:25.499275+09:00",
  "videos": [
+  {
+   "video_id": "bPNcJDDwSDc",
+   "title": "日本株ついに爆上げ開始か⁉雇用統計でAI半導体株急騰→日経平均上昇。バリュー株、高配当銘柄どうなる。円高加速でドル円急落。利上げ懸念で米国株、ハイテク株上昇の違和感。仮想通貨BTCしっかり",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-09-05T04:00:01+00:00",
+   "overview": "米国雇用統計の発表後にAI半導体株が急騰し、日経平均が大幅反発した相場環境を分析しています。2018年と同様の軌道を描く可能性に触れ、信用売り残などの条件を満たせば9月末の配当取りに向けたショートカバー主導の上昇が期待できるとしています。ただし配当落ち後や年末にかけては、6月高値の信用期日売りや米利上げ懸念による大暴落リスクにも警戒が必要だと述べています。",
+   "market_view": "PER17倍付近で下げ止まった日経平均は短期的に戻りを試す可能性があるものの、需給面の課題や年末にかけての信用期日売り・利上げ懸念による下落リスクに注意が必要です。",
+   "market": "MIX",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "ソフトバンクグループ",
+     "ticker": "9984",
+     "stance": "bullish",
+     "timestamp": "25:34"
+    },
+    {
+     "name": "マイクロン・テクノロジー",
+     "ticker": "MU",
+     "stance": "bullish",
+     "timestamp": "29:41"
+    },
+    {
+     "name": "アドビ",
+     "ticker": "ADBE",
+     "stance": "bearish",
+     "timestamp": "30:48"
+    },
+    {
+     "name": "テスラ",
+     "ticker": "TSLA",
+     "stance": "bearish",
+     "timestamp": "31:02"
+    }
+   ]
+  },
   {
    "video_id": "X5vR0ZBXvv4",
    "title": "キオクシア（285A）株式テクニカルチャート分析",
@@ -200,70 +240,6 @@
      "ticker": "5801",
      "stance": "neutral",
      "timestamp": "12:20"
-    }
-   ]
-  },
-  {
-   "video_id": "dmq5hXzdYl8",
-   "title": "円高爆速で日経平均急落か⁉海外投資家が日本株をさらに大量売却‼ドル円１５5円に急落。半導体株→高配当銘柄強い。利上げ懸念で米国株、ハイテク株も乱高下。仮想通貨BTC、金先物軟調",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-09-03T14:42:23+00:00",
-   "overview": "急速な円高進行(ドル円155円台)や日経平均EPSの下落に伴い、輸出関連の自動車株やハイテク株を中心に売り圧力が強まっています。一方で、バリュー株や高配当銘柄、ソフトウェア関連には資金流入が見られ、明確な二極化相場が続いています。個別株では需給面やチャートの形状に応じて戻り売り警戒銘柄と押し目買い対象の選別が重要であると解説されています。",
-   "market_view": "急速な円高進行により日本株の優位性が低下し、半導体・ハイテク株や自動車株が重い一方、高配当銘柄やバリュー株、ソフトウェア関連へ資金が向かう二極化相場となっています。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "トヨタ自動車",
-     "ticker": "7203",
-     "stance": "bearish",
-     "timestamp": "05:05"
-    },
-    {
-     "name": "レーザーテック",
-     "ticker": "6920",
-     "stance": "neutral",
-     "timestamp": "10:57"
-    },
-    {
-     "name": "オリエンタルランド",
-     "ticker": "4661",
-     "stance": "bullish",
-     "timestamp": "12:28"
-    },
-    {
-     "name": "ソフトバンクグループ",
-     "ticker": "9984",
-     "stance": "neutral",
-     "timestamp": "13:08"
-    },
-    {
-     "name": "キオクシアホールディングス",
-     "ticker": "285A",
-     "stance": "neutral",
-     "timestamp": "14:38"
-    },
-    {
-     "name": "任天堂",
-     "ticker": "7974",
-     "stance": "neutral",
-     "timestamp": "20:42"
-    },
-    {
-     "name": "東京エレクトロン",
-     "ticker": "8035",
-     "stance": "bearish",
-     "timestamp": "22:58"
-    },
-    {
-     "name": "川崎重工業",
-     "ticker": "7012",
-     "stance": "bearish",
-     "timestamp": "53:27"
     }
    ]
   },
