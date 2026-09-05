@@ -1,6 +1,165 @@
 {
  "videos": [
   {
+   "video_id": "TWD3XY5m2fY",
+   "title": "雇用統計は発表‼金利急騰で日経平均急落か⁉海外投資家が日本株をさらに大量売却‼ドル円急落。半導体株→高配当銘柄強い。利上げ懸念で米国株、ハイテク株も乱高下。仮想通貨BTC、金先物軟調",
+   "published": "2026-09-04T14:33:57+00:00",
+   "description": "「6か月20％オフ」のメンバークーポンを限定で配布します。\nMEDIABLEのVIP、プラチナプランが対象です。\n\n ※クーポンコード：6nenny\n\n◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "米国雇用統計の発表後に金利が上昇し円高が進行したことで、トヨタなど自動車関連株を中心に売りが優勢となりました。一方でソフトバンクグループやファーストリテーリング、半導体関連が日経平均を下支えする展開となっています。配信ではテクニカル分析を中心に個別銘柄のチャート形状や高値からの半年期日(信用期日売り)の影響、年末に向けた立ち回りについて解説しています。",
+   "market_view": "雇用統計を受けた金利急騰や円高進行により先物は乱高下したものの、下値では押し目買いやショートカバーの動きが期待されます。年末に向けては信用期日売りのピークや戻り売りの圧力を意識しながら慎重に見極める必要があります。",
+   "market": "MIX",
+   "picks": [
+    {
+     "name": "トヨタ自動車",
+     "name_en": "Toyota Motor",
+     "ticker": "7203",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "円高で下落も配当目当ての買い期待",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "米雇用統計発表後の急速な円高進行により自動車セクター全体に売り圧力がかかった。",
+      "配当権利取りに向けた押し目買いが入る期待があるため、下落しても悲観する必要はない。",
+      "需給関係がまだ悪く戻り売りが出やすいため、週明けの自律反発の動きを見極めたい。"
+     ],
+     "timestamp": "01:35",
+     "confidence": "high"
+    },
+    {
+     "name": "三菱重工業",
+     "name_en": "Mitsubishi Heavy Industries",
+     "ticker": "7011",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "テクニカル悪化と半年期日売りで上値重い",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "RSIやMACDなどでデッドクロスを形成しており、チャートのテクニカル形状が弱い。",
+      "高値からの半年期日にあたるため、高値で捕まった投資家による信用期日売りが出やすい。",
+      "受給が軽く上昇余地のある他の銘柄があるため、現時点で無理に買う必要はない。"
+     ],
+     "timestamp": "07:41",
+     "confidence": "high"
+    },
+    {
+     "name": "シフト",
+     "name_en": "SHIFT",
+     "ticker": "3697",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "移動平均線のGCと逆ダイバージェンス発動",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "株価の下落に対しRSIやMACDのボトムが切り上がる逆ダイバージェンス効果が出ている。",
+      "75日移動平均線と200日移動平均線のゴールデンクロス形成による上昇が期待できる。",
+      "テクニカル上の好転サインが複数重なっており、トレンド発生の鉄板パターンである。"
+     ],
+     "timestamp": "10:30",
+     "confidence": "high"
+    },
+    {
+     "name": "イオン",
+     "name_en": "Aeon",
+     "ticker": "8267",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "値上がり狙いではなく株主優待目的で買う銘柄",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "大幅な株価上昇を狙う銘柄ではなく、株主優待を活用することを目的とした銘柄である。",
+      "日常的に店舗を利用するなら、このあたりの水準で優待に必要な数100株を買えば十分である。"
+     ],
+     "timestamp": "11:47",
+     "confidence": "medium"
+    },
+    {
+     "name": "カプコン",
+     "name_en": "CAPCOM",
+     "ticker": "9697",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "移動平均線のGC形成とイベント期待",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "200日線と75日・100日線のゴールデンクロス形成が見られ、テクニカル面で良好である。",
+      "今月中旬に開催される東京ゲームショウに向けた思惑や先回り買いが入る可能性がある。",
+      "チャート形状が崩れておらず焦って売買する必要なくじっくり構えていられる状態。"
+     ],
+     "timestamp": "20:39",
+     "confidence": "high"
+    },
+    {
+     "name": "東洋エンジニアリング",
+     "name_en": "Toyo Engineering",
+     "ticker": "6330",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "200日線付近で利確売りが出やすく様子見",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "200日移動平均線近辺に位置しており、利益確定の売りが出やすい株価水準である。",
+      "ボリンジャーバンド25日線や中央線付近で反転できるかどうかの観察が必要である。",
+      "買える明確なテクニカルサインが出ていないため、安易なエントリーは避けるべき。"
+     ],
+     "timestamp": "32:26",
+     "confidence": "medium"
+    },
+    {
+     "name": "任天堂",
+     "name_en": "Nintendo",
+     "ticker": "7974",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "新作ダイレクト発表や来年材料に期待",
+     "target_price": "15000",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "9月中旬のニンテンドーダイレクトでの新作発表など株価の支援材料が控えている。",
+      "安値で拾えている場合は短期で売らず、1万円大台超えやその上を目指して長期保有が良い。",
+      "来年に向けて強力なゲームタイトルの発売が控えており支援材料が豊富である。"
+     ],
+     "timestamp": "39:06",
+     "confidence": "medium"
+    },
+    {
+     "name": "富士通",
+     "name_en": "Fujitsu",
+     "ticker": "6702",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "新高値圏で回転が効いており非常に良好",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "直近の信用取引などで購入した投資家のほぼ全員が含み益となっている好好調な状態。",
+      "売買の回転が非常によく効いており、崩れる兆候もなくそのまま保有で問題ない。"
+     ],
+     "timestamp": "47:10",
+     "confidence": "medium"
+    }
+   ]
+  },
+  {
    "video_id": "dmq5hXzdYl8",
    "title": "円高爆速で日経平均急落か⁉海外投資家が日本株をさらに大量売却‼ドル円１５5円に急落。半導体株→高配当銘柄強い。利上げ懸念で米国株、ハイテク株も乱高下。仮想通貨BTC、金先物軟調",
    "published": "2026-09-03T14:42:23+00:00",
@@ -149,74 +308,6 @@
       "フィボナッチのレッドゾーンまでの下落や、逆ダイバージェンス効果の発現を待つべき段階。"
      ],
      "timestamp": "53:27",
-     "confidence": "medium"
-    }
-   ]
-  },
-  {
-   "video_id": "XiJFYn8X6l4",
-   "title": "海外投資家が日本株をさらに大量売却‼円高爆速で日経平均急落か⁉ドル円１５６円に急落。半導体株→高配当銘柄強い。利上げ懸念で米国株、ハイテク株も乱高下。仮想通貨BTC、金先物軟調",
-   "published": "2026-09-03T09:15:01+00:00",
-   "description": "「6か月20％オフ」のメンバークーポンを限定で配布します。\nMEDIABLEのVIP、プラチナプランが対象です。\n\n ※クーポンコード：6nenny\n\n◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "日本株は海外投資家の売り越しや急激な円高進行により、日経平均が下落トレンドを形成するなど軟調な展開が続いています。現在の相場環境は2018年の急落局面と酷似しており、高バリエーションの半導体・ハイテク株には戻り売り圧力がかかる一方、需給が良い高配当銘柄やディフェンシブ銘柄へ資金がシフトしています。年末に向けては信用需給の良し悪しによる銘柄の二極化が進むと予想され、需給の軽い銘柄への戦略的シフトが推奨されています。",
-   "market_view": "メジャーSQを控えてショートカバーの起動スイッチがオフになっており、海外勢の売りも続いているため、当面は日経平均の理論株価に連動した上値の重い展開に注意が必要です。",
-   "market": "JP",
-   "picks": [
-    {
-     "name": "レーザーテック",
-     "name_en": "Lasertec Corporation",
-     "ticker": "6920",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "競合台頭の遅れから収益機会継続と判断",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "中国が自前で露光装置を製造するには10年以上かかると報じられ、競合の出現は当面先になると見られた。",
-      "市場における同社の優位性が維持され、今後も継続的な収益機会が得られるとの材料から買い戻しの動きが入った。"
-     ],
-     "timestamp": "21:57",
-     "confidence": "medium"
-    },
-    {
-     "name": "古河電気工業",
-     "name_en": "Furukawa Electric Co., Ltd.",
-     "ticker": "5801",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "株式分割後の需給悪化と期日売りに警戒",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "10株式分割を実施したことで信用買残をはじめとする需給関係が悪化しており、株価の重石となっている。",
-      "6月高値で買った個人の信用期日売りや年末に向けた損益通算の投げ売りが重なるリスクがある。"
-     ],
-     "timestamp": "22:46",
-     "confidence": "medium"
-    },
-    {
-     "name": "NTT",
-     "name_en": "Nippon Telegraph and Telephone Corporation",
-     "ticker": "9432",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "需給改善と配当権利取りで買われる",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "信用取引の需給が改善傾向にあり、需給の悪化したハイテク株と比べて資金が入りやすい環境になっている。",
-      "9月の配当権利取りに向けた需要が支えとなり、ボトムからの上昇基調が継続している。"
-     ],
-     "timestamp": "24:44",
      "confidence": "medium"
     }
    ]
@@ -426,6 +517,41 @@
    ]
   },
   {
+   "video_id": "X5vR0ZBXvv4",
+   "title": "キオクシア（285A）株式テクニカルチャート分析",
+   "published": "2026-09-04T23:36:28+00:00",
+   "description": "🔽「株オンラインサロン」9月期新規メンバー募集中！\nエンジョイプランは初参加の方初月無料です★\n→　https://yoor.jp/door/tradertomo\n\n※ 参加プラン別のサービス内容はこちらの動画で解説しています。\n→https://youtu.be/LtXywHzgOHs?si=G3UipVQW0JsWkv5t\n\n株好きが集まる楽しいサロンを目指してます♪\n初心者歓迎です～ご参加お待ちしています！\n\n\n---------------------------------------------\n🔽公式LINEやってます！ともだち登録お願いします☆\n---------------------------------------------\n\n「うねり取り株投資実践講義」（総時間147分）視聴可。\n→https://s.lmes.jp/landing-qr/1657820518-",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "米国雇用統計の結果や米株・SOX指数の動きを分析した上で、キオクシア(285A)のテクニカル・需給分析を中心に解説。キオクシアはDRAM代替技術の紹介やAppleとの長期契約報道が買い材料視され、需給面でも改ざん減少やTOPIX構成比率拡大などの好材料がある。9月末の株式分割に伴う短期的な売り圧力には注意が必要だが、長期ではホールド方針を提示している。",
+   "market_view": "米国雇用統計が強い結果となり利上げ観測が浮上する中、SOX指数が大幅高となり半導体株の強さが際立つ展開となっている。",
+   "market": "JP",
+   "picks": [
+    {
+     "name": "キオクシア",
+     "name_en": "Kioxia Holdings",
+     "ticker": "285A",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "短期のリスクに注意しつつ長期ホールド",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "DRAM代替となるNAND技術の発表やAppleとの長期契約報道など、好影響を与える材料が出ているため。",
+      "信用改ざんの減少見込みや、10月末以降のTOPIX構成比率引き上げに伴う買い需要が好材料視されるため。",
+      "5万6000円付近の出来高ボリュームゾーンを上抜ければ、6万2000円超にかけて上値が軽くなるため。"
+     ],
+     "timestamp": "05:29",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
    "video_id": "KUINcqDiiy0",
    "title": "今日の活況銘柄を見てみる！（フジクラ・太陽誘電・村田製作所・キオクシア・ティアフォー等）株式テクニカルチャート分析",
    "published": "2026-09-02T07:11:41+00:00",
@@ -574,40 +700,6 @@
       "需給悪化が著しいため6000円ラインを上抜けるまではスイングの買いポジションは控えるべき。"
      ],
      "timestamp": "12:20",
-     "confidence": "medium"
-    }
-   ]
-  },
-  {
-   "video_id": "LHFaIr9AZHY",
-   "title": "長期金利が３％に上昇！セクター別の株式投資戦略　#shorts",
-   "published": "2026-09-01T11:32:55+00:00",
-   "description": "🔽「株オンラインサロン」8月期新規メンバー募集中！\nエンジョイプランは初参加の方初月無料です★\n→　https://yoor.jp/door/tradertomo\n\n※ 参加プラン別のサービス内容はこちらの動画で解説しています。\n→https://youtu.be/LtXywHzgOHs?si=G3UipVQW0JsWkv5t\n\n株好きが集まる楽しいサロンを目指してます♪\n初心者歓迎です～ご参加お待ちしています！\n\n\n---------------------------------------------\n🔽公式LINEやってます！ともだち登録お願いします☆\n---------------------------------------------\n\n「うねり取り株投資実践講義」（総時間147分）視聴可。\n→https://s.lmes.jp/landing-qr/1657820518-",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "長期金利上昇に伴う金融セクター別の株式投資戦略を解説。大手銀行は貸出金利上昇による利ざや改善で業績が数年単位で好調に推移すると予測。生命保険は保有債券のリバランス状況を見極めて押し目を狙う展開を提示。ネット銀行や地域金融機関は厳しさが残るものの、楽天銀行のように預金獲得力が高い銘柄はネガティブな影響が限定的であると分析している。",
-   "market_view": "長期金利上昇局面では利ざやが改善する大手銀行が優位となる一方、保有債券の含み損や預金獲得競争に晒される地銀やネット銀行には注意が必要。",
-   "market": "JP",
-   "picks": [
-    {
-     "name": "楽天銀行",
-     "name_en": "Rakuten Bank, Ltd.",
-     "ticker": "5838",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "預金獲得力が高く悪影響は限定的",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "住宅ローン比率が高いネット銀行は厳しい展開が予想されるが預金獲得力の強弱で明暗が分かれるため。",
-      "楽天銀行のようにしっかり預金を獲得できている銘柄については金利上昇の悪影響は限定的と考えられるため。"
-     ],
-     "timestamp": "01:04",
      "confidence": "medium"
     }
    ]
