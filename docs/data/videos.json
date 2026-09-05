@@ -1,6 +1,28 @@
 {
- "generated_at": "2026-09-05T21:14:41.340270+09:00",
+ "generated_at": "2026-09-05T22:14:49.101153+09:00",
  "videos": [
+  {
+   "video_id": "-HDJ1CG3plc",
+   "title": "キオクシア今後の上昇ある？9月末の株式３分割までのトレード戦略",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-09-05T12:26:03+00:00",
+   "overview": "キオクシアの今後の株価動向とトレード戦略について解説しています。DRAM代替品の確立による需要拡大はポジティブ要素とされる一方、9月末の株式3分割に伴う長期ホルダーの売りや信用買い残の増加といった需給面の懸念が示されています。出来高を維持しながら分割を迎えられるかが重要であり、日々の値動きを注視して判断する必要があります。",
+   "market_view": "",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "キオクシア",
+     "ticker": "285A",
+     "stance": "neutral",
+     "timestamp": "00:00"
+    }
+   ]
+  },
   {
    "video_id": "tYyTPlljQGc",
    "title": "来週の相場に備えて！　日本株チャート分析LIVE　9/5",
@@ -132,28 +154,6 @@
      "ticker": "TSLA",
      "stance": "bearish",
      "timestamp": "31:02"
-    }
-   ]
-  },
-  {
-   "video_id": "X5vR0ZBXvv4",
-   "title": "キオクシア（285A）株式テクニカルチャート分析",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-09-04T23:36:28+00:00",
-   "overview": "米国雇用統計の結果や米株・SOX指数の動きを分析した上で、キオクシア(285A)のテクニカル・需給分析を中心に解説。キオクシアはDRAM代替技術の紹介やAppleとの長期契約報道が買い材料視され、需給面でも改ざん減少やTOPIX構成比率拡大などの好材料がある。9月末の株式分割に伴う短期的な売り圧力には注意が必要だが、長期ではホールド方針を提示している。",
-   "market_view": "米国雇用統計が強い結果となり利上げ観測が浮上する中、SOX指数が大幅高となり半導体株の強さが際立つ展開となっている。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "キオクシア",
-     "ticker": "285A",
-     "stance": "bullish",
-     "timestamp": "05:29"
     }
    ]
   },

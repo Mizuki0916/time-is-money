@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-05T21:14:04.956597+09:00",
+ "generated_at": "2026-09-05T22:14:46.997842+09:00",
  "channels": [
   {
    "id": "UCsaeHha7ai_NNX8or8Jyb-g",
@@ -15,7 +15,7 @@
    "short": "TOMO",
    "slot": 2,
    "video_count": 2,
-   "latest": "2026-09-05T05:28:27+00:00"
+   "latest": "2026-09-05T12:26:03+00:00"
   },
   {
    "id": "UCK9Pl6bbWqMC_x7IDca2tIg",
@@ -38,7 +38,7 @@
   "stocks": 30,
   "videos": 7,
   "videos_this_week": 7,
-  "bullish_lead": 17,
+  "bullish_lead": 16,
   "split": 1,
   "skipped": 1
  },
@@ -189,6 +189,133 @@
     "exchange_name": "Tokyo",
     "market_open": false,
     "symbol": "9984.T",
+    "source": "yahoo",
+    "fetched_at": "2026-09-05T12:14:04.995135+00:00"
+   }
+  },
+  {
+   "key": "JP:285A",
+   "name": "キオクシア",
+   "name_en": "Kioxia Holdings",
+   "ticker": "285A",
+   "market": "JP",
+   "mentions": [
+    {
+     "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+     "channel_name": "トレーダーTOMO",
+     "channel_short": "TOMO",
+     "slot": 2,
+     "video_id": "-HDJ1CG3plc",
+     "video_title": "キオクシア今後の上昇ある？9月末の株式３分割までのトレード戦略",
+     "published": "2026-09-05T12:26:03+00:00",
+     "stance": "neutral",
+     "stance_note": "分割に伴う需給悪化に警戒し日々の値動きを注視",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "DRAM代替品としての需要拡大が期待できる点は、将来的な買い需要に向けたポジティブ材料である。",
+      "9月末の3分割に伴う信用改残の増加や、長期ホルダーの売りをこなせるかという需給懸念がある。"
+     ],
+     "timestamp": "00:00",
+     "seconds": 0,
+     "confidence": "high"
+    },
+    {
+     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+     "channel_name": "Trader's Lab",
+     "channel_short": "TL",
+     "slot": 1,
+     "video_id": "qGCzhtrktqU",
+     "video_title": "【日経平均】 一段下げは一旦回避 不安定さ残る相場 来週の立ち回りはこれ意識して サンディスク・キオクシア・ファーストリテイリング・東京エレクトロン・テラドローン・オンコリスバイオ",
+     "published": "2026-09-04T11:04:19+00:00",
+     "stance": "neutral",
+     "stance_note": "レンジ相場で明確なブレイク待ち",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "チャートは完全にレンジ相場の様相を呈しており、上下どちらかに抜けるのを待つ局面。",
+      "8月17日につけた高値である6万3350円を明確に超えないと完全な下げ止まりとは言えない。"
+     ],
+     "timestamp": "27:00",
+     "seconds": 1620,
+     "confidence": "medium"
+    }
+   ],
+   "consensus": {
+    "bullish": 0,
+    "bearish": 0,
+    "neutral": 2
+   },
+   "voices": 2,
+   "split": false,
+   "last_mentioned": "2026-09-05T12:26:03+00:00",
+   "channel_ids": [
+    "UCdQdRRLoajrt-5TEaAxslxA",
+    "UCsaeHha7ai_NNX8or8Jyb-g"
+   ],
+   "price": {
+    "date": "2026-09-04",
+    "close": 54460.0,
+    "change_pct": 5.4,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 30527100,
+    "volume_ratio": 0.8,
+    "rsi14": 51.0,
+    "rsi_zone": "中立",
+    "ma25": 51554.4,
+    "ma75": 66703.33,
+    "trend": "戻り歩調",
+    "pos52": 49,
+    "spark": [
+     77860.0,
+     77000.0,
+     67100.0,
+     69100.0,
+     73100.0,
+     62110.0,
+     52110.0,
+     61060.0,
+     64270.0,
+     61880.0,
+     56010.0,
+     54550.0,
+     44550.0,
+     38380.0,
+     39500.0,
+     46500.0,
+     49160.0,
+     52090.0,
+     54300.0,
+     48740.0,
+     47730.0,
+     48010.0,
+     49870.0,
+     51800.0,
+     53740.0,
+     61840.0,
+     57150.0,
+     49950.0,
+     52950.0,
+     54320.0,
+     50930.0,
+     51260.0,
+     50000.0,
+     52500.0,
+     47900.0,
+     49990.0,
+     51000.0,
+     51000.0,
+     51670.0,
+     54460.0
+    ],
+    "currency": "JPY",
+    "exchange_name": "Tokyo",
+    "market_open": false,
+    "symbol": "285A.T",
     "source": "yahoo",
     "fetched_at": "2026-09-05T12:14:04.995135+00:00"
    }
@@ -699,134 +826,6 @@
     "exchange_name": "Tokyo",
     "market_open": false,
     "symbol": "6330.T",
-    "source": "yahoo",
-    "fetched_at": "2026-09-05T12:14:04.995135+00:00"
-   }
-  },
-  {
-   "key": "JP:285A",
-   "name": "キオクシア",
-   "name_en": "Kioxia Holdings",
-   "ticker": "285A",
-   "market": "JP",
-   "mentions": [
-    {
-     "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-     "channel_name": "トレーダーTOMO",
-     "channel_short": "TOMO",
-     "slot": 2,
-     "video_id": "X5vR0ZBXvv4",
-     "video_title": "キオクシア（285A）株式テクニカルチャート分析",
-     "published": "2026-09-04T23:36:28+00:00",
-     "stance": "bullish",
-     "stance_note": "短期のリスクに注意しつつ長期ホールド",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "DRAM代替となるNAND技術の発表やAppleとの長期契約報道など、好影響を与える材料が出ているため。",
-      "信用改ざんの減少見込みや、10月末以降のTOPIX構成比率引き上げに伴う買い需要が好材料視されるため。",
-      "5万6000円付近の出来高ボリュームゾーンを上抜ければ、6万2000円超にかけて上値が軽くなるため。"
-     ],
-     "timestamp": "05:29",
-     "seconds": 329,
-     "confidence": "high"
-    },
-    {
-     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-     "channel_name": "Trader's Lab",
-     "channel_short": "TL",
-     "slot": 1,
-     "video_id": "qGCzhtrktqU",
-     "video_title": "【日経平均】 一段下げは一旦回避 不安定さ残る相場 来週の立ち回りはこれ意識して サンディスク・キオクシア・ファーストリテイリング・東京エレクトロン・テラドローン・オンコリスバイオ",
-     "published": "2026-09-04T11:04:19+00:00",
-     "stance": "neutral",
-     "stance_note": "レンジ相場で明確なブレイク待ち",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "チャートは完全にレンジ相場の様相を呈しており、上下どちらかに抜けるのを待つ局面。",
-      "8月17日につけた高値である6万3350円を明確に超えないと完全な下げ止まりとは言えない。"
-     ],
-     "timestamp": "27:00",
-     "seconds": 1620,
-     "confidence": "medium"
-    }
-   ],
-   "consensus": {
-    "bullish": 1,
-    "bearish": 0,
-    "neutral": 1
-   },
-   "voices": 2,
-   "split": false,
-   "last_mentioned": "2026-09-04T23:36:28+00:00",
-   "channel_ids": [
-    "UCdQdRRLoajrt-5TEaAxslxA",
-    "UCsaeHha7ai_NNX8or8Jyb-g"
-   ],
-   "price": {
-    "date": "2026-09-04",
-    "close": 54460.0,
-    "change_pct": 5.4,
-    "live": null,
-    "live_change_pct": null,
-    "live_time": null,
-    "volume": 30527100,
-    "volume_ratio": 0.8,
-    "rsi14": 51.0,
-    "rsi_zone": "中立",
-    "ma25": 51554.4,
-    "ma75": 66703.33,
-    "trend": "戻り歩調",
-    "pos52": 49,
-    "spark": [
-     77860.0,
-     77000.0,
-     67100.0,
-     69100.0,
-     73100.0,
-     62110.0,
-     52110.0,
-     61060.0,
-     64270.0,
-     61880.0,
-     56010.0,
-     54550.0,
-     44550.0,
-     38380.0,
-     39500.0,
-     46500.0,
-     49160.0,
-     52090.0,
-     54300.0,
-     48740.0,
-     47730.0,
-     48010.0,
-     49870.0,
-     51800.0,
-     53740.0,
-     61840.0,
-     57150.0,
-     49950.0,
-     52950.0,
-     54320.0,
-     50930.0,
-     51260.0,
-     50000.0,
-     52500.0,
-     47900.0,
-     49990.0,
-     51000.0,
-     51000.0,
-     51670.0,
-     54460.0
-    ],
-    "currency": "JPY",
-    "exchange_name": "Tokyo",
-    "market_open": false,
-    "symbol": "285A.T",
     "source": "yahoo",
     "fetched_at": "2026-09-05T12:14:04.995135+00:00"
    }
@@ -3081,7 +3080,7 @@
     "market_open": false,
     "symbol": "4588.T",
     "source": "yahoo",
-    "fetched_at": "2026-09-05T00:25:06.771301+00:00"
+    "fetched_at": "2026-09-05T13:14:47.102064+00:00"
    }
   },
   {
