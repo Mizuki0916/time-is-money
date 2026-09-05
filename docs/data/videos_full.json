@@ -313,6 +313,125 @@
    ]
   },
   {
+   "video_id": "qGCzhtrktqU",
+   "title": "【日経平均】 一段下げは一旦回避 不安定さ残る相場 来週の立ち回りはこれ意識して サンディスク・キオクシア・ファーストリテイリング・東京エレクトロン・テラドローン・オンコリスバイオ",
+   "published": "2026-09-04T11:04:19+00:00",
+   "description": "※動画の趣旨は個人的主観の予測であり、値動きを保証するものではありません。\n　投資の判断は自己責任でお願いします。\n\nトレンド分析マスターコース\n「無料オンライン講座(全5回)」＆豪華特典プレゼント！\n【完全無料】→ https://www.fpo.jp/suzuki/\n\nサンワード証券セミナー申し込み\nhttps://www.sunward-t.co.jp/seminar/2026/09/26_3/index_k.html\n\n◉トレンド分析の基礎おすすめ動画\n【永久保存版】初心者でもわかるダウ理論の使い方【前編】\nhttps://youtu.be/re9XBR2qcBw\n【永久保存版】初心者でもわかるダウ理論の使い方【後編】\nhttps://youtu.be/Z21W4VFSs9g\n【知らなきゃ勝てない】移動平均線で相場を読む最強の方法\nhttps://youtu.be/FfSX8hcR",
+   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+   "channel_name": "Trader's Lab",
+   "channel_short": "TL",
+   "slot": 1,
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "日経平均株価は一段安を回避したものの戻り歩調の域を出ず、不安定な持ち合い相場が続く見通しが示されています。米国市場の動向や主要なイベントを控え警戒感が残る相場環境です。動画内では相場全体の見通しに加え、指数が難解な中で資金が向きやすい強気の個別銘柄や注意が必要な寄与度の高い銘柄の分析を行っています。",
+   "market_view": "日経平均は6万5000円台を回復したもののモメンタムの改善ではなく、来週も持ち合い相場が想定される警戒が必要な相場環境です。",
+   "market": "MIX",
+   "picks": [
+    {
+     "name": "サンディスク",
+     "name_en": "SanDisk",
+     "ticker": "SNDK",
+     "market": "US",
+     "stance": "neutral",
+     "stance_note": "高値超えまでは戻り歩調の範囲内",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "25日移動平均線が上向きを維持しており、短期的には下値を支えやすい一定の強さがある。",
+      "直近高値である1700ドルを上抜けない限りは、完全な上昇トレンド転換とは言えない。"
+     ],
+     "timestamp": "25:42",
+     "confidence": "medium"
+    },
+    {
+     "name": "キオクシア",
+     "name_en": "Kioxia Holdings",
+     "ticker": "285A",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "レンジ相場で明確なブレイク待ち",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "チャートは完全にレンジ相場の様相を呈しており、上下どちらかに抜けるのを待つ局面。",
+      "8月17日につけた高値である6万3350円を明確に超えないと完全な下げ止まりとは言えない。"
+     ],
+     "timestamp": "27:00",
+     "confidence": "medium"
+    },
+    {
+     "name": "ファーストリテイリング",
+     "name_en": "Fast Retailing",
+     "ticker": "9983",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "下方向へのバンドブレイクで形悪い",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "日足チャートで下方向へのバンドウォークが発生しており、チャート形状が非常に悪化している。",
+      "押し安値を更新して200日移動平均線も下回っており、日経平均の重荷となる懸念がある。"
+     ],
+     "timestamp": "29:24",
+     "confidence": "medium"
+    },
+    {
+     "name": "東京エレクトロン",
+     "name_en": "Tokyo Electron",
+     "ticker": "8035",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "直近安値更新で切り下げトレンド",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "直近最安値を更新する展開となっており、高値と安値を切り下げる下落トレンドが続いている。",
+      "上がる力が徐々に弱くなっており、4月末につけた安値水準まで下落する可能性に警戒が必要。"
+     ],
+     "timestamp": "30:46",
+     "confidence": "medium"
+    },
+    {
+     "name": "オンコリスバイオファーマ",
+     "name_en": "Oncolys BioPharma",
+     "ticker": "4588",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "カップウィズハンドル風の強気チャート",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "4000円前後で固めた後に大幅上昇しており、カップウィズハンドルに近い好形状を描く。",
+      "直近高値を更新できれば上値に過去の抵抗がない青天井となり、さらなる高値追いが狙える。"
+     ],
+     "timestamp": "31:55",
+     "confidence": "medium"
+    },
+    {
+     "name": "テラドローン",
+     "name_en": "Terra Drone",
+     "ticker": "278A",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "10%超の大幅高で上昇トレンド継続",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "直近の調整を経て10%超の大幅高となっており、資金流入による強い上昇が続いている。",
+      "2万2290円の直近高値を上抜けていくことができれば、上昇チャートが継続する見込み。"
+     ],
+     "timestamp": "33:10",
+     "confidence": "medium"
+    }
+   ]
+  },
+  {
    "video_id": "AeiXSWn9MBc",
    "title": "【日経平均】 ついに下抜け！ トリプル安もキツい展開 このライン割れたらヤバいです サンディスク・キオクシア・東京エレクトロン・ソフトバンクグループ・ファーストリテイリング・アドバンテスト",
    "published": "2026-09-02T11:42:09+00:00",
@@ -432,91 +551,6 @@
    ]
   },
   {
-   "video_id": "mqj_g5A3lzg",
-   "title": "【日経平均】 ⚠️警告 中東情勢激化でヤバい！ 下抜け警戒 サンディスク・キオクシア・テラドローン・ティアフォー",
-   "published": "2026-09-01T11:00:01+00:00",
-   "description": "※動画の趣旨は個人的主観の予測であり、値動きを保証するものではありません。\n　投資の判断は自己責任でお願いします。\n\nサンワード証券セミナー申し込み\nhttps://www.sunward-t.co.jp/seminar/2026/09/26_3/index_k.html\n\n◉トレンド分析の基礎おすすめ動画\n【永久保存版】初心者でもわかるダウ理論の使い方【前編】\nhttps://youtu.be/re9XBR2qcBw\n【永久保存版】初心者でもわかるダウ理論の使い方【後編】\nhttps://youtu.be/Z21W4VFSs9g\n【知らなきゃ勝てない】移動平均線で相場を読む最強の方法\nhttps://youtu.be/FfSX8hcRR2I\n【一目均衡表の真髄】初心者でも分かる完全ガイド\nhttps://youtu.be/xPkb1twTFFI\n\n◉SBI証券株式会社キャンペーン　手数料",
-   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-   "channel_name": "Trader's Lab",
-   "channel_short": "TL",
-   "slot": 1,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "中東情勢の緊迫化に伴う原油高や先物急落を受け、日経平均および米国指数の下落警戒シナリオを詳細に解説した動画です。PER17倍割れに伴う更なる下値模索リスクを警告しつつ、個別銘柄としてサンディスク、キオクシア、テラドローン、ティアフォーを取り上げ、テクニカル分析に基づく値動きの分岐点やリスク管理の重要性を説明しています。",
-   "market_view": "中東情勢激化による原油高や先物の大幅下落を受け、日経平均・ナスダック共にレンジ下抜けや急落への警戒が必要な局面です。",
-   "market": "MIX",
-   "picks": [
-    {
-     "name": "サンディスク",
-     "name_en": "SanDisk Corporation",
-     "ticker": "",
-     "market": "US",
-     "stance": "neutral",
-     "stance_note": "レンジ内で上値が重く指数急落時の連動に注意",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "75日線や雲がレジスタンスとなっており、17日高値突破か24日安値割れまで明確なトレンドが出ない状況。",
-      "25日線を下回って推移し続けた場合はモメンタムが悪化し、7月末や200日線付近までの下落リスクが存在する。"
-     ],
-     "timestamp": "23:30",
-     "confidence": "medium"
-    },
-    {
-     "name": "キオクシア",
-     "name_en": "Kioxia Holdings Corporation",
-     "ticker": "",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "高値切り下げの形状が続いており下落リスクに警戒",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "上昇したものの出来高が3000万株を切っており、全員参加型の上昇ではなく騙しの可能性が高い点に注意が必要。",
-      "日足で高値切り下げの形状が続いており、過去の安値割れで4万円から4万5000円水準への下落シナリオも視野に入る。"
-     ],
-     "timestamp": "25:18",
-     "confidence": "high"
-    },
-    {
-     "name": "テラドローン",
-     "name_en": "Terra Drone Corporation",
-     "ticker": "278A",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "急拡大後の乖離埋めで14,000円付近への調整を想定",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "直近の上昇で25日線との乖離が大きく、前日安値を更新したため過熱感を冷ます押し目形成の動きが警戒される。",
-      "テクニカル的には8月4日高値である1万4400円付近まで押し下げても中長期の上昇トレンドは維持される範囲内。"
-     ],
-     "timestamp": "29:55",
-     "confidence": "medium"
-    },
-    {
-     "name": "ティアフォー",
-     "name_en": "TIER IV, Inc.",
-     "ticker": "",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "30分足レベルでの上昇転換か安値割れの動きを注視",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "上下幅が大きく非常にハイリスクな値動きであり、短期的には持ち合い状態のためデイトレレベルでの判断が求められる。",
-      "30分足レベルで今日高値である2万2773円を超えれば上昇トレンドが確認できるが、安値割れなら下値余地が広がる。"
-     ],
-     "timestamp": "31:58",
-     "confidence": "low"
-    }
-   ]
-  },
-  {
    "video_id": "X5vR0ZBXvv4",
    "title": "キオクシア（285A）株式テクニカルチャート分析",
    "published": "2026-09-04T23:36:28+00:00",
@@ -552,152 +586,152 @@
    ]
   },
   {
-   "video_id": "KUINcqDiiy0",
-   "title": "今日の活況銘柄を見てみる！（フジクラ・太陽誘電・村田製作所・キオクシア・ティアフォー等）株式テクニカルチャート分析",
-   "published": "2026-09-02T07:11:41+00:00",
-   "description": "🔽サンワード証券さんコラボWEBセミナー\nテーマ「AI・半導体相場はまだ上がる？　年末相場の勝ち筋を読む！」\n\n2026年9月2日（水）\n18:00開演　20:00終了\n\n参加申し込みURL\nhttps://www.sunward-t.co.jp/seminar/2026/09/02_2/index_k.html\n\n・申し込みされた方のみ視聴可能となります。\n・後日アーカイブ視聴可能\n・参加無料\n\n🔽「株オンラインサロン」8月期新規メンバー募集中！\nエンジョイプランは初参加の方初月無料です★\n→　https://yoor.jp/door/tradertomo\n\n※ 参加プラン別のサービス内容はこちらの動画で解説しています。\n→https://youtu.be/LtXywHzgOHs?si=G3UipVQW0JsWkv5t\n\n株好きが集まる楽しいサロンを目指してます♪\n初心者歓迎です～ご参加",
+   "video_id": "QMPhg2VKMrE",
+   "title": "今日の活況銘柄を見てみる！（ダイナマップ・SBG・太陽誘電・キオクシア・ティアフォー等）株式テクニカルチャート分析",
+   "published": "2026-09-04T07:04:43+00:00",
+   "description": "🔽「株オンラインサロン」9月期新規メンバー募集中！\nエンジョイプランは初参加の方は初月無料です★\n→　https://yoor.jp/door/tradertomo\n\n※ 参加プラン別のサービス内容はこちらの動画で解説しています。\n→https://youtu.be/LtXywHzgOHs?si=G3UipVQW0JsWkv5t\n\n株好きが集まる楽しいサロンを目指してます♪\n初心者歓迎です～ご参加お待ちしています！\n\n\n---------------------------------------------\n🔽公式LINEやってます！ともだち登録お願いします☆\n---------------------------------------------\n\n「うねり取り株投資実践講義」（総時間147分）視聴可。\n→https://s.lmes.jp/landing-qr/1657820518",
    "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
    "channel_name": "トレーダーTOMO",
    "channel_short": "TOMO",
    "slot": 2,
    "no_transcript": false,
    "skip_reason": "",
-   "overview": "世界的な金利上昇や原油高、地政学リスクを背景に日経平均が大幅下落する厳しい相場環境を解説しています。個別銘柄では全般的に需給が悪化して買いが入りづらい中、自動運転関連のティアフォーやダイナミックマップに資金が集中した動きを取り上げました。半導体・電子部品株や大手銘柄のチャート悪化に触れ、現金比率を高めて慎重に立ち回る重要性を強調しています。",
-   "market_view": "日米の金利上昇や原油高、インフレ懸念により全体地合いは非常に厳しく、無理なポジション取りを避け現金比率を高めて静観すべき局面です。",
+   "overview": "本動画では、5日ぶりに大きく反発した日経平均の市場動向と、活況を呈した注目銘柄のテクニカルチャート分析を解説しています。ソフトバンクグループや太陽誘電、キオクシアなど資金流入が顕著な銘柄には強気姿勢を示す一方、ダイナミックマップやティアフォーなどの急落・高ボラティリティ銘柄については持ち越しを避け、デイトレードに限定した慎重な対応を呼びかけています。",
+   "market_view": "日経平均は主力株主導で大幅反発したものの、値下がり銘柄数が多く全面高とは言えません。今夜の米雇用統計やFOMCを控え、持ち越しリスクを避けてポジション量をコントロールすることが推奨されています。",
    "market": "JP",
    "picks": [
     {
-     "name": "ティアフォー",
-     "name_en": "Tier IV",
-     "ticker": "",
+     "name": "ダイナミックマップ",
+     "name_en": "Dynamic Map Platform Co., Ltd.",
+     "ticker": "336A",
      "market": "JP",
      "stance": "neutral",
-     "stance_note": "日中デイトレ限定でテーマ性を狙う",
+     "stance_note": "急落後だが短期的なリバウンド狙いに留める",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "大口の資金流入で一気にストップ高へ買われ、節目の3000円ラインを上抜ける展開となった。",
-      "割高感があり持ち越しは不推奨だが、高い出来高と自動運転テーマとしての関心は継続している。"
+      "大幅ギャップアップから大陰線となったが、約5000万株の出来高を作っており1500円付近で揉み合い履歴があるため短期的なリバ狙いは可能。(67字)",
+      "セクター全体の息が長いためスイングは避けデイトレに徹底する方針とし、板の状況が改善した段階で週明けの買い判定を行いたい。(60字)"
      ],
-     "timestamp": "05:48",
+     "timestamp": "03:40",
      "confidence": "high"
     },
     {
-     "name": "キオクシアホールディングス",
-     "name_en": "Kioxia Holdings",
-     "ticker": "285A",
+     "name": "ソフトバンクグループ",
+     "name_en": "SoftBank Group Corp.",
+     "ticker": "9984",
      "market": "JP",
-     "stance": "neutral",
-     "stance_note": "上値重く大きく下げた際のリバ狙い",
-     "target_price": "",
-     "entry": "",
+     "stance": "bullish",
+     "stance_note": "出来高伴い上昇、6000円を目指す展開",
+     "target_price": "6000",
+     "entry": "5200",
      "stop": "",
      "reasons": [
-      "寄り付き後は買いが入るも5万4000〜6000円付近のシコり玉が重く、抜けるには時間が必要。",
-      "出来高が減少し上値追いは緩やかと想定されるが、大きく下げた局面での押し目買い狙いは可能。"
+      "前日比で圧倒的な出来高を伴ってスタートし、5200円を抜けたポイントから上昇トレンドを維持して引けまで強く推移した。(58字)",
+      "週明けも出来高が継続すればさらに一段上を目指せる展開であり、次の節目として6000円到達を意識した強い動きが期待できる。(59字)"
      ],
-     "timestamp": "07:23",
-     "confidence": "medium"
+     "timestamp": "05:31",
+     "confidence": "high"
     },
     {
      "name": "太陽誘電",
-     "name_en": "Taiyo Yuden",
+     "name_en": "Taiyo Yuden Co., Ltd.",
      "ticker": "6976",
      "market": "JP",
-     "stance": "bearish",
-     "stance_note": "需給悪化のため積極的な買いは控える",
+     "stance": "bullish",
+     "stance_note": "窓埋めから上昇、1万円突破に期待",
+     "target_price": "10000",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "寄り付きで窓を埋めてから再度上昇に転じる好ましいチャート形状で、アンダーがしっかりついて安定感のある値動きを見せた。(58字)",
+      "出来高は3000万株を超えて注目度が高く、意識されていた9300円台を保って引けたため来週以降に1万円の大台を狙う動きが期待できる。(63字)"
+     ],
+     "timestamp": "07:37",
+     "confidence": "high"
+    },
+    {
+     "name": "キオクシア",
+     "name_en": "Kioxia Holdings Corporation",
+     "ticker": "285A",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "5万5000円を上抜け、大相場へ期待",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "寄り付きで損切りが十分に巻き込まれずダラダラと下落し、上値の重さを残す陰線となった。",
-      "オーバーアンダーの需給バランスも悪化しており、積極的に買いに向かえる状況ではない。"
+      "5万円台中盤のサポートが堅固で下値での売りをしっかりこなしており、途中から買い板が厚くなり良好な推移を見せた。(52字)",
+      "直近で上値抵抗となっていた5万5000円の節目を上髭で抜けてきており、週明けに向けて大相場への発展に期待が高まる形状となっている。(63字)"
      ],
-     "timestamp": "08:32",
-     "confidence": "medium"
+     "timestamp": "08:35",
+     "confidence": "high"
     },
     {
-     "name": "フジクラ",
-     "name_en": "Fujikura",
+     "name": "ティアフォー",
+     "name_en": "TIER IV, Inc.",
+     "ticker": "593A",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "3000円回復を確認してから検討",
+     "target_price": "",
+     "entry": "",
+     "stop": "3500",
+     "reasons": [
+      "終始買い板が弱いスタートとなり損切りラインを下回る急落でストップ安に張り付くなど、前日と比較して出来高の減少スピードが早い。(62字)",
+      "急激な振り落としがあったため短期的なリバウンドの可能性は残るが、週明けに3000円の節目ラインを奪還してからエントリーを検討する。(63字)"
+     ],
+     "timestamp": "09:29",
+     "confidence": "high"
+    },
+    {
+     "name": "藤倉",
+     "name_en": "Fujikura Ltd.",
      "ticker": "5803",
      "market": "JP",
      "stance": "bearish",
-     "stance_note": "節目割れとシコり台頭に警戒",
+     "stance_note": "戻り売りが多く見送り推奨",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "需給が悪化する中で本日も陰線を形成し、節目となる5300円を下回る厳しい展開となった。",
-      "出来高の盛り上がりに欠けシコりが残っているため、今後の更なる下落に警戒が必要な状態。"
+      "出来高が3400万株と徐々に減少傾向にあり、場を通して買いたい資金が入っているように見えず地合いの良さが反映されていない。(58字)",
+      "需給面で上値に捕まっているシコリ玉が多く存在するため、現状の電線セクターの中で積極的に買いに向かう局面ではないと判断される。(60字)"
      ],
-     "timestamp": "09:06",
+     "timestamp": "11:00",
      "confidence": "medium"
     },
     {
      "name": "村田製作所",
-     "name_en": "Murata Manufacturing",
+     "name_en": "Murata Manufacturing Co., Ltd.",
      "ticker": "6981",
      "market": "JP",
-     "stance": "bearish",
-     "stance_note": "スイングは避け続落リスクに警戒",
+     "stance": "neutral",
+     "stance_note": "7600円超えまで様子見が妥当",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "7600円台までに捕まった買い玉が多く存在し、上値のシコりが非常に重いチャート形状。",
-      "続落リスクが高まっているためスイング買いは避け、デイトレでの状況判断に留めるべき。"
+      "太陽誘電と比較して出来高のボリュームで見劣りし、直近の上値を抑える重たい抵抗線を超えられていないため見送りが妥当。(57字)",
+      "約7600円の節目を明確に抜けてこない限りは、直近で捕まっている売り注文を消化しきれず上昇への勢いがつきにくいチャート構造である。(63字)"
      ],
-     "timestamp": "09:37",
+     "timestamp": "11:47",
      "confidence": "medium"
     },
     {
-     "name": "東京電力ホールディングス",
-     "name_en": "Tokyo Electric Power Company Holdings",
-     "ticker": "9501",
+     "name": "古河電気工業",
+     "name_en": "Furukawa Electric Co., Ltd.",
+     "ticker": "5801",
      "market": "JP",
      "stance": "neutral",
-     "stance_note": "他電力株の動向と併せて観察する",
+     "stance_note": "4000円超えにはさらなる出来高が必要",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "関西電力や北海道電力と同様に出来高5000万株超を維持しており、上目線のトレード対象になり得る。",
-      "足型自体は他の電力株ほど綺麗ではないため、主軸銘柄の動向を観察しつつサブとして扱うべき。"
-     ],
-     "timestamp": "10:27",
-     "confidence": "medium"
-    },
-    {
-     "name": "ダイナミックマッププラットフォーム",
-     "name_en": "Dynamic Map Platform",
-     "ticker": "336A",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "ティアフォーとの連動性を注視",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "自動運転テーマの連動で前場から買われストップ高となったが、張り付きは圧倒的ではない。",
-      "板が薄く剥がれるリスクがあるため慎重な対応が必要であり、ティアフォーの動きと連動する。"
-     ],
-     "timestamp": "11:18",
-     "confidence": "medium"
-    },
-    {
-     "name": "ソフトバンクグループ",
-     "name_en": "SoftBank Group",
-     "ticker": "9984",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "6000円超えまでスイング買い見送り",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "5000円の大台ラインを維持できず大口の板外しも重なって崩れ、ほぼ安値引けの重い足型。",
-      "需給悪化が著しいため6000円ラインを上抜けるまではスイングの買いポジションは控えるべき。"
+      "電線株の中では藤倉より良好で寄り付きや12時半の大口買いで反発したものの、3900円付近で揉み合い足踏みとなった。(55字)",
+      "4000円から4100円付近に厚い戻り売りが控えているため、すんなり上抜けるには出来高3000万〜4000万株規模の強い買いが必要。(63字)"
      ],
      "timestamp": "12:20",
      "confidence": "medium"
