@@ -1,6 +1,40 @@
 {
- "generated_at": "2026-09-06T20:05:08.190249+09:00",
+ "generated_at": "2026-09-06T21:06:34.056613+09:00",
  "videos": [
+  {
+   "video_id": "7uZBjfcSJa0",
+   "title": "今週（9/7〜）専業が自信を持って買う1銘柄",
+   "channel_id": "UCt7qqCkTFFRfKjXzwqUXq4g",
+   "channel_name": "ぺこ株",
+   "channel_short": "ぺこ",
+   "slot": 4,
+   "published": "2026-09-06T11:00:35+00:00",
+   "overview": "日本株専業投資家が今週以降の上昇を期待する本命銘柄として「出光興産」を分析する動画です。1Q決算の表面上の増益に惑わされず本質的な海外トレーディング事業の伸びを高く評価し、テクニカル面でもパーフェクトオーダー形成や厚いサポートゾーンを確認したうえで具体的に計2000株のエントリー計画を提示しています。",
+   "market_view": "日経平均は三角持ち合いを形成して上値が重く方向感がない状況ですが、強い米雇用統計後の日経先物上昇など掴みどころのない相場が続いています。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "出光興産",
+     "ticker": "5019",
+     "stance": "bullish",
+     "timestamp": "02:39"
+    },
+    {
+     "name": "マクニカホールディングス",
+     "ticker": "3132",
+     "stance": "neutral",
+     "timestamp": "01:49"
+    },
+    {
+     "name": "JT",
+     "ticker": "2914",
+     "stance": "bullish",
+     "timestamp": "02:18"
+    }
+   ]
+  },
   {
    "video_id": "lYi5x188e1s",
    "title": "株式テクニカルチャート分析",
@@ -334,21 +368,6 @@
      "timestamp": "03:29"
     }
    ]
-  },
-  {
-   "video_id": "fYej2v7Tq3k",
-   "title": "ぺこ株 のライブ配信",
-   "channel_id": "UCt7qqCkTFFRfKjXzwqUXq4g",
-   "channel_name": "ぺこ株",
-   "channel_short": "ぺこ",
-   "slot": 4,
-   "published": "2026-08-28T14:41:36+00:00",
-   "overview": "",
-   "market_view": "",
-   "market": "",
-   "no_transcript": true,
-   "skip_reason": "動画が非公開・削除・配信予定などで取得できません",
-   "picks": []
   }
  ]
 }

@@ -726,6 +726,73 @@
    ]
   },
   {
+   "video_id": "7uZBjfcSJa0",
+   "title": "今週（9/7〜）専業が自信を持って買う1銘柄",
+   "published": "2026-09-06T11:00:35+00:00",
+   "description": "今週、個人的に注目している個別銘柄を1銘柄に絞って解説します。\n個人的見解ですが投資戦略の参考にしてもらえたら幸いです。\n\n※パパッと見たい方は倍速設定をご使用ください.\n\n投資に絶対はありません。\n紹介銘柄が気になっても売買は自己責任でお願いいたします。\n\nnoteでメンバーシップを開始しました。\n詳しくはリンクをご覧ください。\n\n【note】\nhttps://note.com/peco_kabu/membership\n\n【X】\nhttps://x.com/peco_kabu\n\n#投資 #株式投資 #株 #日本株 #nisa #日経平均 #NISA #米国株 #個別株",
+   "channel_id": "UCt7qqCkTFFRfKjXzwqUXq4g",
+   "channel_name": "ぺこ株",
+   "channel_short": "ぺこ",
+   "slot": 4,
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "日本株専業投資家が今週以降の上昇を期待する本命銘柄として「出光興産」を分析する動画です。1Q決算の表面上の増益に惑わされず本質的な海外トレーディング事業の伸びを高く評価し、テクニカル面でもパーフェクトオーダー形成や厚いサポートゾーンを確認したうえで具体的に計2000株のエントリー計画を提示しています。",
+   "market_view": "日経平均は三角持ち合いを形成して上値が重く方向感がない状況ですが、強い米雇用統計後の日経先物上昇など掴みどころのない相場が続いています。",
+   "market": "JP",
+   "picks": [
+    {
+     "name": "出光興産",
+     "name_en": "Idemitsu Kosan Co.,Ltd.",
+     "ticker": "5019",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "押し目で計2000株の分割購入を検討",
+     "target_price": "1561円〜1671円",
+     "entry": "出来高ゾーン(13週・26週線)への調整時または打診後追加",
+     "stop": "26週線または13週線",
+     "reasons": [
+      "1Q決算で海外トレーディング事業の利益が前年同期比158億円増と順調に推移しており本質的な稼ぐ力が好調な点。",
+      "日足チャートで1Q決算後にトレンド転換しパーフェクトオーダーを形成しておりテクニカル的にも強い上昇形状である点。",
+      "週足で出来高ゾーンに13週線と26週線が重なっており下値サポートが非常に厚くリスクを限定して狙える点。"
+     ],
+     "timestamp": "02:39",
+     "confidence": "high"
+    },
+    {
+     "name": "マクニカホールディングス",
+     "name_en": "Macnica Holdings, Inc.",
+     "ticker": "3132",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "損切りライン引きつけ待ちで様子見継続",
+     "target_price": "",
+     "entry": "",
+     "stop": "26週線あたり",
+     "reasons": [
+      "26週線あたりを損切りラインとして設定したいが現状の株価位置ではリスクリワードが悪いため欲しいラインまで引きつけを待つため。"
+     ],
+     "timestamp": "01:49",
+     "confidence": "low"
+    },
+    {
+     "name": "JT",
+     "name_en": "Japan Tobacco Inc.",
+     "ticker": "2914",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "円高懸念で下落も押し目での追加買いを検討",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "円高懸念から直近で売り込まれているものの買い増し枠が残っており、さらに下げる局面があれば追加買いを狙いたいため。"
+     ],
+     "timestamp": "02:18",
+     "confidence": "low"
+    }
+   ]
+  },
+  {
    "video_id": "nguw5YHcjUA",
    "title": "今週（8/31〜）専業が自信を持って買う1銘柄",
    "published": "2026-08-30T11:00:38+00:00",
@@ -759,23 +826,6 @@
      "confidence": "high"
     }
    ]
-  },
-  {
-   "video_id": "fYej2v7Tq3k",
-   "title": "ぺこ株 のライブ配信",
-   "published": "2026-08-28T14:41:36+00:00",
-   "description": "",
-   "channel_id": "UCt7qqCkTFFRfKjXzwqUXq4g",
-   "channel_name": "ぺこ株",
-   "channel_short": "ぺこ",
-   "slot": 4,
-   "no_transcript": true,
-   "skip_reason": "動画が非公開・削除・配信予定などで取得できません",
-   "attempts": 8,
-   "overview": "",
-   "market_view": "",
-   "market": "",
-   "picks": []
   }
  ]
 }

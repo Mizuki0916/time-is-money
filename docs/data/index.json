@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-06T20:05:08.083851+09:00",
+ "generated_at": "2026-09-06T21:06:13.599184+09:00",
  "channels": [
   {
    "id": "UCsaeHha7ai_NNX8or8Jyb-g",
@@ -31,16 +31,16 @@
    "short": "ぺこ",
    "slot": 4,
    "video_count": 2,
-   "latest": "2026-08-30T11:00:38+00:00"
+   "latest": "2026-09-06T11:00:35+00:00"
   }
  ],
  "stats": {
-  "stocks": 29,
-  "videos": 7,
-  "videos_this_week": 6,
-  "bullish_lead": 14,
+  "stocks": 31,
+  "videos": 8,
+  "videos_this_week": 7,
+  "bullish_lead": 15,
   "split": 1,
-  "skipped": 1
+  "skipped": 0
  },
  "stocks": [
   {
@@ -597,6 +597,342 @@
    }
   },
   {
+   "key": "JP:5019",
+   "name": "出光興産",
+   "name_en": "Idemitsu Kosan Co.,Ltd.",
+   "ticker": "5019",
+   "market": "JP",
+   "mentions": [
+    {
+     "channel_id": "UCt7qqCkTFFRfKjXzwqUXq4g",
+     "channel_name": "ぺこ株",
+     "channel_short": "ぺこ",
+     "slot": 4,
+     "video_id": "7uZBjfcSJa0",
+     "video_title": "今週（9/7〜）専業が自信を持って買う1銘柄",
+     "published": "2026-09-06T11:00:35+00:00",
+     "stance": "bullish",
+     "stance_note": "押し目で計2000株の分割購入を検討",
+     "target_price": "1561円〜1671円",
+     "entry": "出来高ゾーン(13週・26週線)への調整時または打診後追加",
+     "stop": "26週線または13週線",
+     "reasons": [
+      "1Q決算で海外トレーディング事業の利益が前年同期比158億円増と順調に推移しており本質的な稼ぐ力が好調な点。",
+      "日足チャートで1Q決算後にトレンド転換しパーフェクトオーダーを形成しておりテクニカル的にも強い上昇形状である点。",
+      "週足で出来高ゾーンに13週線と26週線が重なっており下値サポートが非常に厚くリスクを限定して狙える点。"
+     ],
+     "timestamp": "02:39",
+     "seconds": 159,
+     "confidence": "high"
+    }
+   ],
+   "consensus": {
+    "bullish": 1,
+    "bearish": 0,
+    "neutral": 0
+   },
+   "voices": 1,
+   "split": false,
+   "last_mentioned": "2026-09-06T11:00:35+00:00",
+   "channel_ids": [
+    "UCt7qqCkTFFRfKjXzwqUXq4g"
+   ],
+   "price": {
+    "date": "2026-09-04",
+    "close": 1470.0,
+    "change_pct": -1.31,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 5203300,
+    "volume_ratio": 1.25,
+    "rsi14": 66.8,
+    "rsi_zone": "中立",
+    "ma25": 1351.5,
+    "ma75": 1310.7,
+    "trend": "上昇基調",
+    "pos52": 72,
+    "spark": [
+     1243.0,
+     1240.0,
+     1246.5,
+     1270.5,
+     1279.5,
+     1262.5,
+     1241.0,
+     1292.5,
+     1316.0,
+     1325.0,
+     1333.5,
+     1314.0,
+     1307.0,
+     1321.0,
+     1308.5,
+     1311.0,
+     1267.0,
+     1249.5,
+     1241.0,
+     1258.5,
+     1321.0,
+     1294.5,
+     1297.0,
+     1283.0,
+     1306.5,
+     1330.0,
+     1370.5,
+     1337.0,
+     1349.5,
+     1383.5,
+     1378.5,
+     1378.5,
+     1357.5,
+     1370.0,
+     1379.5,
+     1420.0,
+     1482.5,
+     1462.0,
+     1489.5,
+     1470.0
+    ],
+    "currency": "JPY",
+    "exchange_name": "Tokyo",
+    "market_open": false,
+    "symbol": "5019.T",
+    "source": "yahoo",
+    "fetched_at": "2026-09-06T12:06:13.654520+00:00"
+   }
+  },
+  {
+   "key": "JP:3132",
+   "name": "マクニカホールディングス",
+   "name_en": "Macnica Holdings, Inc.",
+   "ticker": "3132",
+   "market": "JP",
+   "mentions": [
+    {
+     "channel_id": "UCt7qqCkTFFRfKjXzwqUXq4g",
+     "channel_name": "ぺこ株",
+     "channel_short": "ぺこ",
+     "slot": 4,
+     "video_id": "7uZBjfcSJa0",
+     "video_title": "今週（9/7〜）専業が自信を持って買う1銘柄",
+     "published": "2026-09-06T11:00:35+00:00",
+     "stance": "neutral",
+     "stance_note": "損切りライン引きつけ待ちで様子見継続",
+     "target_price": "",
+     "entry": "",
+     "stop": "26週線あたり",
+     "reasons": [
+      "26週線あたりを損切りラインとして設定したいが現状の株価位置ではリスクリワードが悪いため欲しいラインまで引きつけを待つため。"
+     ],
+     "timestamp": "01:49",
+     "seconds": 109,
+     "confidence": "low"
+    },
+    {
+     "channel_id": "UCt7qqCkTFFRfKjXzwqUXq4g",
+     "channel_name": "ぺこ株",
+     "channel_short": "ぺこ",
+     "slot": 4,
+     "video_id": "nguw5YHcjUA",
+     "video_title": "今週（8/31〜）専業が自信を持って買う1銘柄",
+     "published": "2026-08-30T11:00:38+00:00",
+     "stance": "bullish",
+     "stance_note": "三角持ち合いの上抜けを確認後に打診買い検討",
+     "target_price": "",
+     "entry": "三角持ち合いのブレイクを確認後、打診買い",
+     "stop": "26週移動平均線付近",
+     "reasons": [
+      "1Q決算が大幅増収増益で着地し通期進捗率30%超えと今後の業績上方修正に期待が持てる点。",
+      "AIデータセンター需要やサイバーセキュリティ事業拡大など、成長分野のテーマを幅広く捉えている点。",
+      "3500円の抵抗線を明確に上抜け、週足チャートでもパーフェクトオーダーの上昇トレンドを形成している点。"
+     ],
+     "timestamp": "03:29",
+     "seconds": 209,
+     "confidence": "high"
+    }
+   ],
+   "consensus": {
+    "bullish": 0,
+    "bearish": 0,
+    "neutral": 1
+   },
+   "voices": 1,
+   "split": false,
+   "last_mentioned": "2026-09-06T11:00:35+00:00",
+   "channel_ids": [
+    "UCt7qqCkTFFRfKjXzwqUXq4g"
+   ],
+   "price": {
+    "date": "2026-09-04",
+    "close": 3547.0,
+    "change_pct": 1.31,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 591200,
+    "volume_ratio": 0.65,
+    "rsi14": 51.6,
+    "rsi_zone": "中立",
+    "ma25": 3555.08,
+    "ma75": 3348.4,
+    "trend": "調整中",
+    "pos52": 84,
+    "spark": [
+     3173.0,
+     3256.0,
+     3162.0,
+     3253.0,
+     3419.0,
+     3300.0,
+     3201.0,
+     3284.0,
+     3369.0,
+     3409.0,
+     3378.0,
+     3579.0,
+     3082.0,
+     2954.0,
+     3105.0,
+     3295.0,
+     3262.0,
+     3450.0,
+     3846.0,
+     3705.0,
+     3621.0,
+     3592.0,
+     3676.0,
+     3723.0,
+     3798.0,
+     3760.0,
+     3596.0,
+     3285.0,
+     3349.0,
+     3332.0,
+     3410.0,
+     3433.0,
+     3520.0,
+     3599.0,
+     3577.0,
+     3710.0,
+     3746.0,
+     3544.0,
+     3501.0,
+     3547.0
+    ],
+    "currency": "JPY",
+    "exchange_name": "Tokyo",
+    "market_open": false,
+    "symbol": "3132.T",
+    "source": "yahoo",
+    "fetched_at": "2026-09-06T01:05:07.237120+00:00"
+   }
+  },
+  {
+   "key": "JP:2914",
+   "name": "JT",
+   "name_en": "Japan Tobacco Inc.",
+   "ticker": "2914",
+   "market": "JP",
+   "mentions": [
+    {
+     "channel_id": "UCt7qqCkTFFRfKjXzwqUXq4g",
+     "channel_name": "ぺこ株",
+     "channel_short": "ぺこ",
+     "slot": 4,
+     "video_id": "7uZBjfcSJa0",
+     "video_title": "今週（9/7〜）専業が自信を持って買う1銘柄",
+     "published": "2026-09-06T11:00:35+00:00",
+     "stance": "bullish",
+     "stance_note": "円高懸念で下落も押し目での追加買いを検討",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "円高懸念から直近で売り込まれているものの買い増し枠が残っており、さらに下げる局面があれば追加買いを狙いたいため。"
+     ],
+     "timestamp": "02:18",
+     "seconds": 138,
+     "confidence": "low"
+    }
+   ],
+   "consensus": {
+    "bullish": 1,
+    "bearish": 0,
+    "neutral": 0
+   },
+   "voices": 1,
+   "split": false,
+   "last_mentioned": "2026-09-06T11:00:35+00:00",
+   "channel_ids": [
+    "UCt7qqCkTFFRfKjXzwqUXq4g"
+   ],
+   "price": {
+    "date": "2026-09-04",
+    "close": 6803.0,
+    "change_pct": -2.09,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 5485700,
+    "volume_ratio": 1.41,
+    "rsi14": 46.8,
+    "rsi_zone": "中立",
+    "ma25": 6982.96,
+    "ma75": 6443.21,
+    "trend": "調整中",
+    "pos52": 86,
+    "spark": [
+     6186.0,
+     6117.0,
+     6101.0,
+     6116.0,
+     6110.0,
+     6195.0,
+     6347.0,
+     6425.0,
+     6458.0,
+     6369.0,
+     6461.0,
+     6531.0,
+     6648.0,
+     6781.0,
+     6665.0,
+     7135.0,
+     6993.0,
+     6819.0,
+     6825.0,
+     7030.0,
+     7108.0,
+     7095.0,
+     7026.0,
+     7068.0,
+     7132.0,
+     7100.0,
+     6932.0,
+     6914.0,
+     6870.0,
+     6980.0,
+     6890.0,
+     6986.0,
+     6983.0,
+     7001.0,
+     6948.0,
+     6935.0,
+     7050.0,
+     7003.0,
+     6948.0,
+     6803.0
+    ],
+    "currency": "JPY",
+    "exchange_name": "Tokyo",
+    "market_open": false,
+    "symbol": "2914.T",
+    "source": "yahoo",
+    "fetched_at": "2026-09-06T12:06:13.654520+00:00"
+   }
+  },
+  {
    "key": "JP:6857",
    "name": "アドバンテスト",
    "name_en": "Advantest Corporation",
@@ -698,7 +1034,7 @@
     "market_open": false,
     "symbol": "6857.T",
     "source": "yahoo",
-    "fetched_at": "2026-09-05T23:05:54.424974+00:00"
+    "fetched_at": "2026-09-06T12:06:13.654520+00:00"
    }
   },
   {
@@ -803,7 +1139,7 @@
     "market_open": false,
     "symbol": "4062.T",
     "source": "yahoo",
-    "fetched_at": "2026-09-05T23:05:54.424974+00:00"
+    "fetched_at": "2026-09-06T12:06:13.654520+00:00"
    }
   },
   {
@@ -908,7 +1244,7 @@
     "market_open": false,
     "symbol": "5801.T",
     "source": "yahoo",
-    "fetched_at": "2026-09-05T23:05:54.424974+00:00"
+    "fetched_at": "2026-09-06T12:06:13.654520+00:00"
    }
   },
   {
@@ -1013,7 +1349,7 @@
     "market_open": false,
     "symbol": "8306.T",
     "source": "yahoo",
-    "fetched_at": "2026-09-05T23:05:54.424974+00:00"
+    "fetched_at": "2026-09-06T12:06:13.654520+00:00"
    }
   },
   {
@@ -1159,7 +1495,7 @@
     "market_open": false,
     "symbol": "5250.T",
     "source": "yahoo",
-    "fetched_at": "2026-09-05T23:05:54.424974+00:00"
+    "fetched_at": "2026-09-06T12:06:13.654520+00:00"
    }
   },
   {
@@ -1256,7 +1592,7 @@
     "market_open": false,
     "symbol": "593A.T",
     "source": "yahoo",
-    "fetched_at": "2026-09-05T23:05:54.424974+00:00"
+    "fetched_at": "2026-09-06T12:06:13.654520+00:00"
    }
   },
   {
@@ -3093,112 +3429,6 @@
     "symbol": "8058.T",
     "source": "yahoo",
     "fetched_at": "2026-09-06T03:05:06.841078+00:00"
-   }
-  },
-  {
-   "key": "JP:3132",
-   "name": "マクニカホールディングス",
-   "name_en": "Macnica Holdings, Inc.",
-   "ticker": "3132",
-   "market": "JP",
-   "mentions": [
-    {
-     "channel_id": "UCt7qqCkTFFRfKjXzwqUXq4g",
-     "channel_name": "ぺこ株",
-     "channel_short": "ぺこ",
-     "slot": 4,
-     "video_id": "nguw5YHcjUA",
-     "video_title": "今週（8/31〜）専業が自信を持って買う1銘柄",
-     "published": "2026-08-30T11:00:38+00:00",
-     "stance": "bullish",
-     "stance_note": "三角持ち合いの上抜けを確認後に打診買い検討",
-     "target_price": "",
-     "entry": "三角持ち合いのブレイクを確認後、打診買い",
-     "stop": "26週移動平均線付近",
-     "reasons": [
-      "1Q決算が大幅増収増益で着地し通期進捗率30%超えと今後の業績上方修正に期待が持てる点。",
-      "AIデータセンター需要やサイバーセキュリティ事業拡大など、成長分野のテーマを幅広く捉えている点。",
-      "3500円の抵抗線を明確に上抜け、週足チャートでもパーフェクトオーダーの上昇トレンドを形成している点。"
-     ],
-     "timestamp": "03:29",
-     "seconds": 209,
-     "confidence": "high"
-    }
-   ],
-   "consensus": {
-    "bullish": 1,
-    "bearish": 0,
-    "neutral": 0
-   },
-   "voices": 1,
-   "split": false,
-   "last_mentioned": "2026-08-30T11:00:38+00:00",
-   "channel_ids": [
-    "UCt7qqCkTFFRfKjXzwqUXq4g"
-   ],
-   "price": {
-    "date": "2026-09-04",
-    "close": 3547.0,
-    "change_pct": 1.31,
-    "live": null,
-    "live_change_pct": null,
-    "live_time": null,
-    "volume": 591200,
-    "volume_ratio": 0.65,
-    "rsi14": 51.6,
-    "rsi_zone": "中立",
-    "ma25": 3555.08,
-    "ma75": 3348.4,
-    "trend": "調整中",
-    "pos52": 84,
-    "spark": [
-     3173.0,
-     3256.0,
-     3162.0,
-     3253.0,
-     3419.0,
-     3300.0,
-     3201.0,
-     3284.0,
-     3369.0,
-     3409.0,
-     3378.0,
-     3579.0,
-     3082.0,
-     2954.0,
-     3105.0,
-     3295.0,
-     3262.0,
-     3450.0,
-     3846.0,
-     3705.0,
-     3621.0,
-     3592.0,
-     3676.0,
-     3723.0,
-     3798.0,
-     3760.0,
-     3596.0,
-     3285.0,
-     3349.0,
-     3332.0,
-     3410.0,
-     3433.0,
-     3520.0,
-     3599.0,
-     3577.0,
-     3710.0,
-     3746.0,
-     3544.0,
-     3501.0,
-     3547.0
-    ],
-    "currency": "JPY",
-    "exchange_name": "Tokyo",
-    "market_open": false,
-    "symbol": "3132.T",
-    "source": "yahoo",
-    "fetched_at": "2026-09-06T01:05:07.237120+00:00"
    }
   }
  ]
