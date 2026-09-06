@@ -1,6 +1,21 @@
 {
- "generated_at": "2026-09-06T21:06:34.056613+09:00",
+ "generated_at": "2026-09-06T22:05:36.050413+09:00",
  "videos": [
+  {
+   "video_id": "SCKDbDfkSqM",
+   "title": "日本株ついに爆上げ開始か⁉雇用統計でAI半導体株急騰→日経平均上昇。バリュー株、高配当銘柄どうなる。円高加速でドル円急落。利上げ懸念で米国株、ハイテク株上昇の違和感。仮想通貨BTCしっかり",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-09-06T12:51:53+00:00",
+   "overview": "",
+   "market_view": "",
+   "market": "",
+   "no_transcript": true,
+   "skip_reason": "この動画には字幕がありません",
+   "picks": []
+  },
   {
    "video_id": "7uZBjfcSJa0",
    "title": "今週（9/7〜）専業が自信を持って買う1銘柄",
@@ -176,70 +191,6 @@
      "ticker": "TSLA",
      "stance": "bearish",
      "timestamp": "31:02"
-    }
-   ]
-  },
-  {
-   "video_id": "TWD3XY5m2fY",
-   "title": "雇用統計は発表‼金利急騰で日経平均急落か⁉海外投資家が日本株をさらに大量売却‼ドル円急落。半導体株→高配当銘柄強い。利上げ懸念で米国株、ハイテク株も乱高下。仮想通貨BTC、金先物軟調",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-09-04T14:33:57+00:00",
-   "overview": "米国雇用統計の発表後に金利が上昇し円高が進行したことで、トヨタなど自動車関連株を中心に売りが優勢となりました。一方でソフトバンクグループやファーストリテーリング、半導体関連が日経平均を下支えする展開となっています。配信ではテクニカル分析を中心に個別銘柄のチャート形状や高値からの半年期日(信用期日売り)の影響、年末に向けた立ち回りについて解説しています。",
-   "market_view": "雇用統計を受けた金利急騰や円高進行により先物は乱高下したものの、下値では押し目買いやショートカバーの動きが期待されます。年末に向けては信用期日売りのピークや戻り売りの圧力を意識しながら慎重に見極める必要があります。",
-   "market": "MIX",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "トヨタ自動車",
-     "ticker": "7203",
-     "stance": "neutral",
-     "timestamp": "01:35"
-    },
-    {
-     "name": "三菱重工業",
-     "ticker": "7011",
-     "stance": "bearish",
-     "timestamp": "07:41"
-    },
-    {
-     "name": "シフト",
-     "ticker": "3697",
-     "stance": "bullish",
-     "timestamp": "10:30"
-    },
-    {
-     "name": "イオン",
-     "ticker": "8267",
-     "stance": "neutral",
-     "timestamp": "11:47"
-    },
-    {
-     "name": "カプコン",
-     "ticker": "9697",
-     "stance": "bullish",
-     "timestamp": "20:39"
-    },
-    {
-     "name": "東洋エンジニアリング",
-     "ticker": "6330",
-     "stance": "neutral",
-     "timestamp": "32:26"
-    },
-    {
-     "name": "任天堂",
-     "ticker": "7974",
-     "stance": "bullish",
-     "timestamp": "39:06"
-    },
-    {
-     "name": "富士通",
-     "ticker": "6702",
-     "stance": "bullish",
-     "timestamp": "47:10"
     }
    ]
   },

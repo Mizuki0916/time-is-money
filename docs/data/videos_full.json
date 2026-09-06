@@ -1,6 +1,23 @@
 {
  "videos": [
   {
+   "video_id": "SCKDbDfkSqM",
+   "title": "日本株ついに爆上げ開始か⁉雇用統計でAI半導体株急騰→日経平均上昇。バリュー株、高配当銘柄どうなる。円高加速でドル円急落。利上げ懸念で米国株、ハイテク株上昇の違和感。仮想通貨BTCしっかり",
+   "published": "2026-09-06T12:51:53+00:00",
+   "description": "「6か月20％オフ」のメンバークーポンを限定で配布します。\nMEDIABLEのVIP、プラチナプランが対象です。\n\n ※クーポンコード：6nenny\n\n◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "no_transcript": true,
+   "skip_reason": "この動画には字幕がありません",
+   "attempts": 1,
+   "overview": "",
+   "market_view": "",
+   "market": "",
+   "picks": []
+  },
+  {
    "video_id": "bPNcJDDwSDc",
    "title": "日本株ついに爆上げ開始か⁉雇用統計でAI半導体株急騰→日経平均上昇。バリュー株、高配当銘柄どうなる。円高加速でドル円急落。利上げ懸念で米国株、ハイテク株上昇の違和感。仮想通貨BTCしっかり",
    "published": "2026-09-05T04:00:01+00:00",
@@ -81,165 +98,6 @@
       "悪材料を嫌気した売りに押され、株価は5.92%下落した。"
      ],
      "timestamp": "31:02",
-     "confidence": "medium"
-    }
-   ]
-  },
-  {
-   "video_id": "TWD3XY5m2fY",
-   "title": "雇用統計は発表‼金利急騰で日経平均急落か⁉海外投資家が日本株をさらに大量売却‼ドル円急落。半導体株→高配当銘柄強い。利上げ懸念で米国株、ハイテク株も乱高下。仮想通貨BTC、金先物軟調",
-   "published": "2026-09-04T14:33:57+00:00",
-   "description": "「6か月20％オフ」のメンバークーポンを限定で配布します。\nMEDIABLEのVIP、プラチナプランが対象です。\n\n ※クーポンコード：6nenny\n\n◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "米国雇用統計の発表後に金利が上昇し円高が進行したことで、トヨタなど自動車関連株を中心に売りが優勢となりました。一方でソフトバンクグループやファーストリテーリング、半導体関連が日経平均を下支えする展開となっています。配信ではテクニカル分析を中心に個別銘柄のチャート形状や高値からの半年期日(信用期日売り)の影響、年末に向けた立ち回りについて解説しています。",
-   "market_view": "雇用統計を受けた金利急騰や円高進行により先物は乱高下したものの、下値では押し目買いやショートカバーの動きが期待されます。年末に向けては信用期日売りのピークや戻り売りの圧力を意識しながら慎重に見極める必要があります。",
-   "market": "MIX",
-   "picks": [
-    {
-     "name": "トヨタ自動車",
-     "name_en": "Toyota Motor",
-     "ticker": "7203",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "円高で下落も配当目当ての買い期待",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "米雇用統計発表後の急速な円高進行により自動車セクター全体に売り圧力がかかった。",
-      "配当権利取りに向けた押し目買いが入る期待があるため、下落しても悲観する必要はない。",
-      "需給関係がまだ悪く戻り売りが出やすいため、週明けの自律反発の動きを見極めたい。"
-     ],
-     "timestamp": "01:35",
-     "confidence": "high"
-    },
-    {
-     "name": "三菱重工業",
-     "name_en": "Mitsubishi Heavy Industries",
-     "ticker": "7011",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "テクニカル悪化と半年期日売りで上値重い",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "RSIやMACDなどでデッドクロスを形成しており、チャートのテクニカル形状が弱い。",
-      "高値からの半年期日にあたるため、高値で捕まった投資家による信用期日売りが出やすい。",
-      "受給が軽く上昇余地のある他の銘柄があるため、現時点で無理に買う必要はない。"
-     ],
-     "timestamp": "07:41",
-     "confidence": "high"
-    },
-    {
-     "name": "シフト",
-     "name_en": "SHIFT",
-     "ticker": "3697",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "移動平均線のGCと逆ダイバージェンス発動",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "株価の下落に対しRSIやMACDのボトムが切り上がる逆ダイバージェンス効果が出ている。",
-      "75日移動平均線と200日移動平均線のゴールデンクロス形成による上昇が期待できる。",
-      "テクニカル上の好転サインが複数重なっており、トレンド発生の鉄板パターンである。"
-     ],
-     "timestamp": "10:30",
-     "confidence": "high"
-    },
-    {
-     "name": "イオン",
-     "name_en": "Aeon",
-     "ticker": "8267",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "値上がり狙いではなく株主優待目的で買う銘柄",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "大幅な株価上昇を狙う銘柄ではなく、株主優待を活用することを目的とした銘柄である。",
-      "日常的に店舗を利用するなら、このあたりの水準で優待に必要な数100株を買えば十分である。"
-     ],
-     "timestamp": "11:47",
-     "confidence": "medium"
-    },
-    {
-     "name": "カプコン",
-     "name_en": "CAPCOM",
-     "ticker": "9697",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "移動平均線のGC形成とイベント期待",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "200日線と75日・100日線のゴールデンクロス形成が見られ、テクニカル面で良好である。",
-      "今月中旬に開催される東京ゲームショウに向けた思惑や先回り買いが入る可能性がある。",
-      "チャート形状が崩れておらず焦って売買する必要なくじっくり構えていられる状態。"
-     ],
-     "timestamp": "20:39",
-     "confidence": "high"
-    },
-    {
-     "name": "東洋エンジニアリング",
-     "name_en": "Toyo Engineering",
-     "ticker": "6330",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "200日線付近で利確売りが出やすく様子見",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "200日移動平均線近辺に位置しており、利益確定の売りが出やすい株価水準である。",
-      "ボリンジャーバンド25日線や中央線付近で反転できるかどうかの観察が必要である。",
-      "買える明確なテクニカルサインが出ていないため、安易なエントリーは避けるべき。"
-     ],
-     "timestamp": "32:26",
-     "confidence": "medium"
-    },
-    {
-     "name": "任天堂",
-     "name_en": "Nintendo",
-     "ticker": "7974",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "新作ダイレクト発表や来年材料に期待",
-     "target_price": "15000",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "9月中旬のニンテンドーダイレクトでの新作発表など株価の支援材料が控えている。",
-      "安値で拾えている場合は短期で売らず、1万円大台超えやその上を目指して長期保有が良い。",
-      "来年に向けて強力なゲームタイトルの発売が控えており支援材料が豊富である。"
-     ],
-     "timestamp": "39:06",
-     "confidence": "medium"
-    },
-    {
-     "name": "富士通",
-     "name_en": "Fujitsu",
-     "ticker": "6702",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "新高値圏で回転が効いており非常に良好",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "直近の信用取引などで購入した投資家のほぼ全員が含み益となっている好好調な状態。",
-      "売買の回転が非常によく効いており、崩れる兆候もなくそのまま保有で問題ない。"
-     ],
-     "timestamp": "47:10",
      "confidence": "medium"
     }
    ]
