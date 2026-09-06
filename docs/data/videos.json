@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-06T23:05:26.844606+09:00",
+ "generated_at": "2026-09-07T00:06:56.754029+09:00",
  "videos": [
   {
    "video_id": "SCKDbDfkSqM",
@@ -8,13 +8,68 @@
    "channel_name": "Sho's投資情報局",
    "channel_short": "Sho",
    "slot": 3,
-   "published": "2026-09-06T12:51:53+00:00",
-   "overview": "",
-   "market_view": "",
-   "market": "",
-   "no_transcript": true,
-   "skip_reason": "この動画には字幕がありません",
-   "picks": []
+   "published": "2026-09-06T14:41:51+00:00",
+   "overview": "米雇用統計後のハイテク株高や円高進行を踏まえ、配当権利付き月である9月の日本株相場の見通しや個別の需給・テクニカル分析が行われた動画です。高配当株や自動車株、造船株など多数の銘柄のチャート形状や移動平均線のクロス、信用需給を精査し、危険なチャートパターンの見送り方や期待できるエントリー基準が詳しく解説されています。",
+   "market_view": "米国株休場明け前後の日経平均やハイテク株の動きを注視しつつ、配当落ち後の需給変化や年末の損益通算を見据えた慎重な対応が求められます。",
+   "market": "MIX",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "三菱商事",
+     "ticker": "8058",
+     "stance": "neutral",
+     "timestamp": "03:39"
+    },
+    {
+     "name": "パン・パシフィック・インターナショナルホールディングス",
+     "ticker": "7532",
+     "stance": "neutral",
+     "timestamp": "04:45"
+    },
+    {
+     "name": "三菱UFJフィナンシャル・グループ",
+     "ticker": "8306",
+     "stance": "neutral",
+     "timestamp": "07:19"
+    },
+    {
+     "name": "王子ホールディングス",
+     "ticker": "3861",
+     "stance": "bullish",
+     "timestamp": "09:19"
+    },
+    {
+     "name": "野村不動産ホールディングス",
+     "ticker": "3231",
+     "stance": "neutral",
+     "timestamp": "12:20"
+    },
+    {
+     "name": "ホンダ",
+     "ticker": "7267",
+     "stance": "bullish",
+     "timestamp": "19:42"
+    },
+    {
+     "name": "安川電機",
+     "ticker": "6506",
+     "stance": "bearish",
+     "timestamp": "26:02"
+    },
+    {
+     "name": "名村造船所",
+     "ticker": "7014",
+     "stance": "bullish",
+     "timestamp": "53:49"
+    },
+    {
+     "name": "きんでん",
+     "ticker": "1944",
+     "stance": "bearish",
+     "timestamp": "55:25"
+    }
+   ]
   },
   {
    "video_id": "7uZBjfcSJa0",
