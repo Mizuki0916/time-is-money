@@ -162,9 +162,9 @@
    ]
   },
   {
-   "video_id": "SCKDbDfkSqM",
-   "title": "日本株ついに爆上げ開始か⁉雇用統計でAI半導体株急騰→日経平均上昇。バリュー株、高配当銘柄どうなる。円高加速でドル円急落。利上げ懸念で米国株、ハイテク株上昇の違和感。仮想通貨BTCしっかり",
-   "published": "2026-09-06T14:41:51+00:00",
+   "video_id": "scPzURO2n9I",
+   "title": "日本株ついに爆上げ来たか‼️AI半導体株急騰で日経平均大幅高。キオクシア急騰ヤバい‼️バリュー株、高配当銘柄どうなる。円高加速でドル円急落。利上げ懸念で米国株、ハイテク株上昇。仮想通貨BTCしっかり",
+   "published": "2026-09-07T09:15:01+00:00",
    "description": "「6か月20％オフ」のメンバークーポンを限定で配布します。\nMEDIABLEのVIP、プラチナプランが対象です。\n\n ※クーポンコード：6nenny\n\n◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー",
    "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
    "channel_name": "Sho's投資情報局",
@@ -172,161 +172,76 @@
    "slot": 3,
    "no_transcript": false,
    "skip_reason": "",
-   "overview": "米雇用統計後のハイテク株高や円高進行を踏まえ、配当権利付き月である9月の日本株相場の見通しや個別の需給・テクニカル分析が行われた動画です。高配当株や自動車株、造船株など多数の銘柄のチャート形状や移動平均線のクロス、信用需給を精査し、危険なチャートパターンの見送り方や期待できるエントリー基準が詳しく解説されています。",
-   "market_view": "米国株休場明け前後の日経平均やハイテク株の動きを注視しつつ、配当落ち後の需給変化や年末の損益通算を見据えた慎重な対応が求められます。",
-   "market": "MIX",
+   "overview": "日経平均が大幅高となる中、2018年の相場展開と類似したパターンで9月末に向けた上昇を試す局面であると解説。日勝合計の売り算やNS倍率の上昇を背景としたショートカバーによる半導体・ハイテク株主導の上昇を分析している。一方で、高値で捕まっている信用買い残の期日売りや配当地後の急落リスク、年末にかけての損益通算売りを警戒し、戻り高値での売却検討を提示している。",
+   "market_view": "需給面でのショートカバーが働き月末にかけて株高を期待できるが、配当地後や12月の信用期日・損益通算売りに警戒が必要。",
+   "market": "JP",
    "picks": [
     {
-     "name": "三菱商事",
-     "name_en": "Mitsubishi Corporation",
-     "ticker": "8058",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "配当取りの動きとレンジ維持を注視",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "配当権利月であり株価が上に切り上がるか注視が必要で横ばいの動きが続くなら警戒を要する。",
-      "ボックスレンジが長引く場合は配当落ち後に下落する恐れがあり200日線割れのリスクがある。"
-     ],
-     "timestamp": "03:39",
-     "confidence": "medium"
-    },
-    {
-     "name": "パン・パシフィック・インターナショナルホールディングス",
-     "name_en": "Pan Pacific International Holdings Corporation",
-     "ticker": "7532",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "底打ちサインが出るまで静観",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "信用倍率が6.3倍と需給が悪化しており25日線と75日線のデッドクロスも懸念される。",
-      "安易に底値と決めつけずチャート上に明確な反転初動サインが出現するのを待つべきである。"
-     ],
-     "timestamp": "04:45",
-     "confidence": "medium"
-    },
-    {
-     "name": "三菱UFJフィナンシャル・グループ",
-     "name_en": "Mitsubishi UFJ Financial Group, Inc.",
-     "ticker": "8306",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "配当落ち後の下落警戒",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "日銀の金融政策決定会合付近までは底堅いものの配当落ち後に下落する懸念が存在する。",
-      "5日移動平均線と50日移動平均線のデッドクロスが形成されると悪化する恐れがある。"
-     ],
-     "timestamp": "07:19",
-     "confidence": "medium"
-    },
-    {
-     "name": "王子ホールディングス",
-     "name_en": "Oji Holdings Corporation",
-     "ticker": "3861",
+     "name": "日経平均株価",
+     "name_en": "Nikkei 225",
+     "ticker": "998407",
      "market": "JP",
      "stance": "bullish",
-     "stance_note": "ゴールデンクロス形成と高配当に期待",
+     "stance_note": "9月末に向けショートカバー主導で上昇を予想",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "50日線と200日線などのゴールデンクロス形成が近づいており上昇転換が期待される。",
-      "配当利回りが4%を超えPBRも0.68倍と低解散価値で配当取りに向けた買いが期待できる。"
+      "2018年相場と酷似した展開であり、PER17倍の理論値付近でボトムアウトして反転しているため。",
+      "日勝合計売り算が8000億円を超えており、NS倍率の上昇に伴いショートカバーが発生しているため。"
      ],
-     "timestamp": "09:19",
-     "confidence": "medium"
+     "timestamp": "01:15",
+     "confidence": "high"
     },
     {
-     "name": "野村不動産ホールディングス",
-     "name_en": "Nomura Real Estate Holdings, Inc.",
-     "ticker": "3231",
+     "name": "ソフトバンクグループ",
+     "name_en": "SoftBank Group Corp.",
+     "ticker": "9984",
      "market": "JP",
      "stance": "neutral",
-     "stance_note": "上値重くボックス圏での推移を想定",
+     "stance_note": "急騰も高値掴みの信用買いによる戻り売りに警戒",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "金利上昇や需給の重さから上値が重く配当取りに向けてボックス圏のジグザグ推移が見込まれる。",
-      "PBR1倍割れで高配当だが利上げ懸念が重荷であり配当落ちまでに上がらなければ注意が必要。"
+      "オープンAI関連材料等で大幅上昇したものの、高値掴みの信用買いによる期日売りが懸念されるため。",
+      "一筋縄でのV字回復ではなく、戻り高値での年末に向けたやりやり売りが出やすい受給関係なため。"
      ],
-     "timestamp": "12:20",
+     "timestamp": "19:00",
+     "confidence": "high"
+    },
+    {
+     "name": "キオクシアホールディングス",
+     "name_en": "Kioxia Holdings Corporation",
+     "ticker": "285A",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "9%超の急騰も上値での戻り売り圧力を警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "本日9.31%急騰したものの、高値から大幅に乖離しており上で捕まっている層の売りが重いと見られるため。",
+      "1本調子で高値を奪還するわけではなく、12月にかけてジグザグとした動きになる可能性が高いため。"
+     ],
+     "timestamp": "20:53",
      "confidence": "medium"
     },
     {
-     "name": "ホンダ",
-     "name_en": "Honda Motor Co., Ltd.",
-     "ticker": "7267",
+     "name": "レーザーテック",
+     "name_en": "Lasertec Corporation",
+     "ticker": "6920",
      "market": "JP",
-     "stance": "bullish",
-     "stance_note": "配当権利取りと移動平均線好転に期待",
+     "stance": "neutral",
+     "stance_note": "7%超反発も戻り売りが入りやすく持続性に疑問",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "円高傾向は懸念材料だが高配当銘柄として需要があり配当取りに向けた買戻しが期待される。",
-      "9月10日頃に200日移動平均線同士のゴールデンクロス形成が見込まれ上値追いが期待できる。"
+      "本日7.26%上昇したものの、過去のスーパーサイクル後の値動き同様に戻り売りに押されやすいため。",
+      "現在の株価回復が持続可能か疑問視されており、スイングトレード主体の短期的な局面にとどまるため。"
      ],
-     "timestamp": "19:42",
-     "confidence": "medium"
-    },
-    {
-     "name": "安川電機",
-     "name_en": "Yaskawa Electric Corporation",
-     "ticker": "6506",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "決算警戒感とデッドクロス形成で慎重姿勢",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "前回の決算発表後に株価が暴落したため次回決算に向けた買いが限定的になりやすい。",
-      "各移動平均線のデッドクロス形成が迫っておりテクニカル面でも下落リスクに注意を要する。"
-     ],
-     "timestamp": "26:02",
-     "confidence": "medium"
-    },
-    {
-     "name": "名村造船所",
-     "name_en": "Namura Shipbuilding Co., Ltd.",
-     "ticker": "7014",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "上昇トレンド継続と需給改善を評価",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "ボリンジャーバンド中央線と日足をサポートに切り上げており上昇トレンドを維持している。",
-      "50日線と200日線のゴールデンクロス形成が見込まれテクニカル面の好転が期待できる。"
-     ],
-     "timestamp": "53:49",
-     "confidence": "medium"
-    },
-    {
-     "name": "きんでん",
-     "name_en": "KINDEN CORPORATION",
-     "ticker": "1944",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "連続デッドクロス形成でリスク回避推奨",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "200日線と各長期移動平均線が相次いでデッドクロスを形成し危険なチャート形状である。",
-      "過去のパターンから下落リスクが高く負け筋になりやすいため手を出さないのが無難である。"
-     ],
-     "timestamp": "55:25",
+     "timestamp": "21:23",
      "confidence": "medium"
     }
    ]
