@@ -1,6 +1,110 @@
 {
- "generated_at": "2026-09-08T03:36:18.954650+09:00",
+ "generated_at": "2026-09-08T07:44:16.787936+09:00",
  "videos": [
+  {
+   "video_id": "YWzLjScZAyE",
+   "title": "日本株ついに爆上げ来たか‼️AI半導体株急騰で日経平均大幅高。キオクシア急騰ヤバい‼️バリュー株、高配当銘柄どうなる。円高加速でドル円急落。利上げ懸念で米国株、ハイテク株上昇。仮想通貨BTCしっかり",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-09-07T14:25:35+00:00",
+   "overview": "ドル円が154円台まで円高に進行する一方、日経平均はAI半導体株の急騰に支えられて大幅高となりました。アンソロピックIPO延期に伴う安心感やショートカバーが半導体株の上昇を牽引したものの、バリュー株や高配当銘柄の値動きは限定的でした。動画ではソフトバンクグループやキオクシアをはじめとする主要銘柄のテクニカル分析を行い、配当落ち後の需給変化や戻り売り圧力に対する警戒感を提示しています。",
+   "market_view": "ドル円の円高進行によりドル建て日経平均に上昇圧力がかかり、ショートカバーで半導体株が買われた一方、配当落ち後の転換点や信用需給には引き続き警戒が必要です。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "ソフトバンクグループ",
+     "ticker": "9984",
+     "stance": "neutral",
+     "timestamp": "03:02"
+    },
+    {
+     "name": "キオクシアホールディングス",
+     "ticker": "285A",
+     "stance": "bullish",
+     "timestamp": "04:09"
+    },
+    {
+     "name": "太陽誘電",
+     "ticker": "6976",
+     "stance": "bullish",
+     "timestamp": "07:09"
+    },
+    {
+     "name": "東京エレクトロン",
+     "ticker": "8035",
+     "stance": "neutral",
+     "timestamp": "08:47"
+    },
+    {
+     "name": "レーザーテック",
+     "ticker": "6920",
+     "stance": "neutral",
+     "timestamp": "13:36"
+    },
+    {
+     "name": "村田製作所",
+     "ticker": "6981",
+     "stance": "neutral",
+     "timestamp": "15:49"
+    },
+    {
+     "name": "任天堂",
+     "ticker": "7974",
+     "stance": "bullish",
+     "timestamp": "21:43"
+    },
+    {
+     "name": "ファーストリテーリング",
+     "ticker": "9983",
+     "stance": "bearish",
+     "timestamp": "27:12"
+    }
+   ]
+  },
+  {
+   "video_id": "OQdGxvFlK1M",
+   "title": "【日経平均】 SOX、メモリー増産報道で上昇 見るべきポイントは〇〇 サンディスク・キオクシア・テラドローン・オンコリスバイオ",
+   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+   "channel_name": "Trader's Lab",
+   "channel_short": "TL",
+   "slot": 1,
+   "published": "2026-09-07T11:30:18+00:00",
+   "overview": "動画では、日経平均や米主要指数のチャート分析とともに、注目個別銘柄のテクニカル分析が行われています。日経平均は半導体株の上昇を受けて大幅高となったものの、依然として戻りの範囲内であり、今週はCPIやメジャーSQを控えたレンジ相場と試算されています。個別株では過熱感や需給改善の状況を踏まえた売買戦略が解説されています。",
+   "market_view": "日経平均は米SOX指数の上昇を受け反発したものの下落に対する戻りの一環であり、今週は6万4000円〜6万6000円台を中心としたレンジ相場を想定しています。",
+   "market": "MIX",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "サンディスク",
+     "ticker": "",
+     "stance": "bullish",
+     "timestamp": "15:48"
+    },
+    {
+     "name": "キオクシア",
+     "ticker": "",
+     "stance": "neutral",
+     "timestamp": "16:40"
+    },
+    {
+     "name": "テラドローン",
+     "ticker": "278A",
+     "stance": "neutral",
+     "timestamp": "18:18"
+    },
+    {
+     "name": "オンコリスバイオ",
+     "ticker": "4588",
+     "stance": "bullish",
+     "timestamp": "20:35"
+    }
+   ]
+  },
   {
    "video_id": "SCKDbDfkSqM",
    "title": "日本株ついに爆上げ開始か⁉雇用統計でAI半導体株急騰→日経平均上昇。バリュー株、高配当銘柄どうなる。円高加速でドル円急落。利上げ懸念で米国株、ハイテク株上昇の違和感。仮想通貨BTCしっかり",
@@ -210,46 +314,6 @@
    ]
   },
   {
-   "video_id": "bPNcJDDwSDc",
-   "title": "日本株ついに爆上げ開始か⁉雇用統計でAI半導体株急騰→日経平均上昇。バリュー株、高配当銘柄どうなる。円高加速でドル円急落。利上げ懸念で米国株、ハイテク株上昇の違和感。仮想通貨BTCしっかり",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-09-05T04:00:01+00:00",
-   "overview": "米国雇用統計の発表後にAI半導体株が急騰し、日経平均が大幅反発した相場環境を分析しています。2018年と同様の軌道を描く可能性に触れ、信用売り残などの条件を満たせば9月末の配当取りに向けたショートカバー主導の上昇が期待できるとしています。ただし配当落ち後や年末にかけては、6月高値の信用期日売りや米利上げ懸念による大暴落リスクにも警戒が必要だと述べています。",
-   "market_view": "PER17倍付近で下げ止まった日経平均は短期的に戻りを試す可能性があるものの、需給面の課題や年末にかけての信用期日売り・利上げ懸念による下落リスクに注意が必要です。",
-   "market": "MIX",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "ソフトバンクグループ",
-     "ticker": "9984",
-     "stance": "bullish",
-     "timestamp": "25:34"
-    },
-    {
-     "name": "マイクロン・テクノロジー",
-     "ticker": "MU",
-     "stance": "bullish",
-     "timestamp": "29:41"
-    },
-    {
-     "name": "アドビ",
-     "ticker": "ADBE",
-     "stance": "bearish",
-     "timestamp": "30:48"
-    },
-    {
-     "name": "テスラ",
-     "ticker": "TSLA",
-     "stance": "bearish",
-     "timestamp": "31:02"
-    }
-   ]
-  },
-  {
    "video_id": "qGCzhtrktqU",
    "title": "【日経平均】 一段下げは一旦回避 不安定さ残る相場 来週の立ち回りはこれ意識して サンディスク・キオクシア・ファーストリテイリング・東京エレクトロン・テラドローン・オンコリスバイオ",
    "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
@@ -298,58 +362,6 @@
      "ticker": "278A",
      "stance": "bullish",
      "timestamp": "33:10"
-    }
-   ]
-  },
-  {
-   "video_id": "hH18FPA1tlc",
-   "title": "【日経平均】 軟調な動き 下抜けは時間の問題か チャートに答えがあります 東京エレクトロン・ソフトバンクグループ・ファーストリテイリング・三菱商事・ダイナミックマップ",
-   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-   "channel_name": "Trader's Lab",
-   "channel_short": "TL",
-   "slot": 1,
-   "published": "2026-09-03T10:00:14+00:00",
-   "overview": "日経平均株価が重要サポートラインを下抜け、下落N波動の形成やデータ悪化から6万円前後までの調整リスクが強まっていると解説。主力銘柄であるファーストリテイリングやソフトバンクグループ、東京エレクトロンもチャート形状が悪化しており警戒が必要とされる。一方でバークシャー報道のある三菱商事や、テーマ性で急騰するダイナミックマッププラットフォームなど一部銘柄に資金が集中する展開となっている。",
-   "market_view": "日経平均や米主要指数で下落N波動が形成され、金利上昇やデータ悪化に伴い全体相場は下抜け暴落リスクを孕む神経質な地合いが続いている。",
-   "market": "MIX",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "日経平均株価",
-     "ticker": "N225",
-     "stance": "bearish",
-     "timestamp": "00:17"
-    },
-    {
-     "name": "ファーストリテイリング",
-     "ticker": "9983",
-     "stance": "bearish",
-     "timestamp": "25:08"
-    },
-    {
-     "name": "東京エレクトロン",
-     "ticker": "8035",
-     "stance": "bearish",
-     "timestamp": "26:46"
-    },
-    {
-     "name": "ソフトバンクグループ",
-     "ticker": "9984",
-     "stance": "bearish",
-     "timestamp": "27:51"
-    },
-    {
-     "name": "三菱商事",
-     "ticker": "8058",
-     "stance": "bullish",
-     "timestamp": "28:41"
-    },
-    {
-     "name": "ダイナミックマッププラットフォーム",
-     "ticker": "",
-     "stance": "neutral",
-     "timestamp": "29:21"
     }
    ]
   },
