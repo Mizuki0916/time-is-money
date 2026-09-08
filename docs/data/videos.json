@@ -1,6 +1,98 @@
 {
- "generated_at": "2026-09-08T16:13:29.241930+09:00",
+ "generated_at": "2026-09-08T20:37:27.603076+09:00",
  "videos": [
+  {
+   "video_id": "CYFTkDu1Gcc",
+   "title": "【日経平均】 円高進行懸念 チャートが見れない人は相場のカモです サンディスク・キオクシア・太陽誘電・村田製作所・オンコリスバイオ・豊和工業",
+   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+   "channel_name": "Trader's Lab",
+   "channel_short": "TL",
+   "slot": 1,
+   "published": "2026-09-08T11:00:06+00:00",
+   "overview": "日経平均株価の急落と円高進行による相場への影響をテクニカル分析を交えて解説しています。戻り高値を超えない限り下落基調が続くため目先の反発に惑わされないよう注意を促しています。個別銘柄では強気な形状のサンディスクや高値更新中のオンコリスバイオ、豊和工業を取り上げる一方、軟調なキオクシアや円高が重荷となる太陽誘電・村田製作所には警戒感を示しています。",
+   "market_view": "日経平均は1000円超の急落となり、円高進行や移動平均線の抵抗から下げ基調が継続しており上値が重い展開です。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "サンディスク",
+     "ticker": "",
+     "stance": "bullish",
+     "timestamp": "22:07"
+    },
+    {
+     "name": "キオクシア",
+     "ticker": "285A",
+     "stance": "bearish",
+     "timestamp": "22:55"
+    },
+    {
+     "name": "太陽誘電",
+     "ticker": "6976",
+     "stance": "bearish",
+     "timestamp": "25:38"
+    },
+    {
+     "name": "村田製作所",
+     "ticker": "6981",
+     "stance": "bearish",
+     "timestamp": "28:39"
+    },
+    {
+     "name": "オンコリスバイオファーマ",
+     "ticker": "4588",
+     "stance": "bullish",
+     "timestamp": "30:09"
+    },
+    {
+     "name": "豊和工業",
+     "ticker": "6203",
+     "stance": "neutral",
+     "timestamp": "33:22"
+    }
+   ]
+  },
+  {
+   "video_id": "JZ-WrcwZR9Q",
+   "title": "【緊急】円高加速で日経平均1130円急落‼日本株木端微塵か⁉キオクシア高値掴み助からない⁉ドル円152円に急落で自動車株続落。原油急騰、利上げ懸念でAI半導体株弱い。米国株。仮想通貨BTC弱い",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-09-08T09:15:01+00:00",
+   "overview": "日経平均は1130円安と急落したものの、PER17倍の理論値である6万4911円を維持しており三角持ち合いの範囲内にあります。急激な円高進行や半導体株の戻り売り重力が重しとなる中、現在の相場環境は2018年の急落局面と酷似しています。メジャーSQ通過までは荒れやすい展開が警戒されますが、配当取りや空売りの買い戻しによるショートカバーの機会も模索されています。",
+   "market_view": "急激な円高進行や半導体株の戻り売りに押され波乱含みですが、PER17倍の理論値水準を維持できれば下値は限定的と見られます。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "日経平均株価",
+     "ticker": "",
+     "stance": "neutral",
+     "timestamp": "01:07"
+    },
+    {
+     "name": "ソフトバンクグループ",
+     "ticker": "9984",
+     "stance": "bullish",
+     "timestamp": "02:22"
+    },
+    {
+     "name": "キオクシアホールディングス",
+     "ticker": "285A",
+     "stance": "bearish",
+     "timestamp": "02:42"
+    },
+    {
+     "name": "トヨタ自動車",
+     "ticker": "7203",
+     "stance": "bearish",
+     "timestamp": "02:44"
+    }
+   ]
+  },
   {
    "video_id": "T3QeOwF1skg",
    "title": "ソフトバンクG（9984）株式テクニカルチャート分析",
@@ -128,46 +220,6 @@
    ]
   },
   {
-   "video_id": "scPzURO2n9I",
-   "title": "日本株ついに爆上げ来たか‼️AI半導体株急騰で日経平均大幅高。キオクシア急騰ヤバい‼️バリュー株、高配当銘柄どうなる。円高加速でドル円急落。利上げ懸念で米国株、ハイテク株上昇。仮想通貨BTCしっかり",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-09-07T09:15:01+00:00",
-   "overview": "日経平均が大幅高となる中、2018年の相場展開と類似したパターンで9月末に向けた上昇を試す局面であると解説。日勝合計の売り算やNS倍率の上昇を背景としたショートカバーによる半導体・ハイテク株主導の上昇を分析している。一方で、高値で捕まっている信用買い残の期日売りや配当地後の急落リスク、年末にかけての損益通算売りを警戒し、戻り高値での売却検討を提示している。",
-   "market_view": "需給面でのショートカバーが働き月末にかけて株高を期待できるが、配当地後や12月の信用期日・損益通算売りに警戒が必要。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "日経平均株価",
-     "ticker": "998407",
-     "stance": "bullish",
-     "timestamp": "01:15"
-    },
-    {
-     "name": "ソフトバンクグループ",
-     "ticker": "9984",
-     "stance": "neutral",
-     "timestamp": "19:00"
-    },
-    {
-     "name": "キオクシアホールディングス",
-     "ticker": "285A",
-     "stance": "neutral",
-     "timestamp": "20:53"
-    },
-    {
-     "name": "レーザーテック",
-     "ticker": "6920",
-     "stance": "neutral",
-     "timestamp": "21:23"
-    }
-   ]
-  },
-  {
    "video_id": "7uZBjfcSJa0",
    "title": "今週（9/7〜）専業が自信を持って買う1銘柄",
    "channel_id": "UCt7qqCkTFFRfKjXzwqUXq4g",
@@ -280,58 +332,6 @@
      "ticker": "",
      "stance": "neutral",
      "timestamp": "14:19"
-    }
-   ]
-  },
-  {
-   "video_id": "qGCzhtrktqU",
-   "title": "【日経平均】 一段下げは一旦回避 不安定さ残る相場 来週の立ち回りはこれ意識して サンディスク・キオクシア・ファーストリテイリング・東京エレクトロン・テラドローン・オンコリスバイオ",
-   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-   "channel_name": "Trader's Lab",
-   "channel_short": "TL",
-   "slot": 1,
-   "published": "2026-09-04T11:04:19+00:00",
-   "overview": "日経平均株価は一段安を回避したものの戻り歩調の域を出ず、不安定な持ち合い相場が続く見通しが示されています。米国市場の動向や主要なイベントを控え警戒感が残る相場環境です。動画内では相場全体の見通しに加え、指数が難解な中で資金が向きやすい強気の個別銘柄や注意が必要な寄与度の高い銘柄の分析を行っています。",
-   "market_view": "日経平均は6万5000円台を回復したもののモメンタムの改善ではなく、来週も持ち合い相場が想定される警戒が必要な相場環境です。",
-   "market": "MIX",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "サンディスク",
-     "ticker": "SNDK",
-     "stance": "neutral",
-     "timestamp": "25:42"
-    },
-    {
-     "name": "キオクシア",
-     "ticker": "285A",
-     "stance": "neutral",
-     "timestamp": "27:00"
-    },
-    {
-     "name": "ファーストリテイリング",
-     "ticker": "9983",
-     "stance": "bearish",
-     "timestamp": "29:24"
-    },
-    {
-     "name": "東京エレクトロン",
-     "ticker": "8035",
-     "stance": "bearish",
-     "timestamp": "30:46"
-    },
-    {
-     "name": "オンコリスバイオファーマ",
-     "ticker": "4588",
-     "stance": "bullish",
-     "timestamp": "31:55"
-    },
-    {
-     "name": "テラドローン",
-     "ticker": "278A",
-     "stance": "bullish",
-     "timestamp": "33:10"
     }
    ]
   },
