@@ -1,6 +1,23 @@
 {
  "videos": [
   {
+   "video_id": "UxhXfzk1Ljc",
+   "title": "【緊急】円高加速で日経平均1130円急落‼日本株木端微塵か⁉キオクシア高値掴み助からない⁉ドル円152円に急落で自動車株続落。原油急騰、利上げ懸念でAI半導体株弱い。米国株。仮想通貨BTC弱い",
+   "published": "2026-09-08T12:31:25+00:00",
+   "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "no_transcript": true,
+   "skip_reason": "この動画には字幕がありません",
+   "attempts": 1,
+   "overview": "",
+   "market_view": "",
+   "market": "",
+   "picks": []
+  },
+  {
    "video_id": "JZ-WrcwZR9Q",
    "title": "【緊急】円高加速で日経平均1130円急落‼日本株木端微塵か⁉キオクシア高値掴み助からない⁉ドル円152円に急落で自動車株続落。原油急騰、利上げ懸念でAI半導体株弱い。米国株。仮想通貨BTC弱い",
    "published": "2026-09-08T09:15:01+00:00",
@@ -81,167 +98,6 @@
       "企業の想定為替レートとの乖離により将来的な業績下方修正リスクが警戒される。"
      ],
      "timestamp": "02:44",
-     "confidence": "medium"
-    }
-   ]
-  },
-  {
-   "video_id": "YWzLjScZAyE",
-   "title": "日本株ついに爆上げ来たか‼️AI半導体株急騰で日経平均大幅高。キオクシア急騰ヤバい‼️バリュー株、高配当銘柄どうなる。円高加速でドル円急落。利上げ懸念で米国株、ハイテク株上昇。仮想通貨BTCしっかり",
-   "published": "2026-09-07T14:25:35+00:00",
-   "description": "「6か月20％オフ」のメンバークーポンを限定で配布します。\nMEDIABLEのVIP、プラチナプランが対象です。\n\n ※クーポンコード：6nenny\n\n◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "ドル円が154円台まで円高に進行する一方、日経平均はAI半導体株の急騰に支えられて大幅高となりました。アンソロピックIPO延期に伴う安心感やショートカバーが半導体株の上昇を牽引したものの、バリュー株や高配当銘柄の値動きは限定的でした。動画ではソフトバンクグループやキオクシアをはじめとする主要銘柄のテクニカル分析を行い、配当落ち後の需給変化や戻り売り圧力に対する警戒感を提示しています。",
-   "market_view": "ドル円の円高進行によりドル建て日経平均に上昇圧力がかかり、ショートカバーで半導体株が買われた一方、配当落ち後の転換点や信用需給には引き続き警戒が必要です。",
-   "market": "JP",
-   "picks": [
-    {
-     "name": "ソフトバンクグループ",
-     "name_en": "SoftBank Group Corp.",
-     "ticker": "9984",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "ダブルボトム超えも戻り売り警戒",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "ダブルボトムのネックラインを上抜けて足元では力強く続伸している。",
-      "MACDやRSIに過熱感はないものの、株価戻り局面では戻り売りが出やすい。",
-      "NS倍率の上昇に伴いショートカバーが誘発されて買われている。"
-     ],
-     "timestamp": "03:02",
-     "confidence": "high"
-    },
-    {
-     "name": "キオクシアホールディングス",
-     "name_en": "Kioxia Holdings Corporation",
-     "ticker": "285A",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "9.3%急騰で続進、戻しを試す",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "直近で9.3%急騰して続伸しており、強い上昇モメンタムが見られる。",
-      "アンソロピックIPO延期に伴い換金売りの警戒感が和らぎ買い物戻しが入った。",
-      "高い空売り比率を背景に強烈なショートカバーが巻き起こっている。"
-     ],
-     "timestamp": "04:09",
-     "confidence": "medium"
-    },
-    {
-     "name": "太陽誘電",
-     "name_en": "Taiyo Yuden Co., Ltd.",
-     "ticker": "6976",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "テクニカル指標の好転で上値試す",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "株価が4.2%上昇し、パラボリック点灯およびRSIの上値を上抜けた。",
-      "MACDでのゴールデンクロス形成が入りテクニカル的に上方向を示す。",
-      "需給面の重たさは残るものの短期的な買いシグナルが出始めている。"
-     ],
-     "timestamp": "07:09",
-     "confidence": "medium"
-    },
-    {
-     "name": "東京エレクトロン",
-     "name_en": "Tokyo Electron Limited",
-     "ticker": "8035",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "株式分割と配当落ち後の需給に注意",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "4.73%上昇して強含んでいるが、月末に5分割の株式分割を控えている。",
-      "信用改ざん自体が少ないため分割による需給悪化の影響は軽微と判断。",
-      "分割自体よりも配当落ち後の動きがトレンド転換点にならないか注意を要する。"
-     ],
-     "timestamp": "08:47",
-     "confidence": "high"
-    },
-    {
-     "name": "レーザーテック",
-     "name_en": "Lasertec Corporation",
-     "ticker": "6920",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "デッドクロス形成もボリンジャー圏内",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "25日線と200日線のデッドクロスが入ったが下落リアクションは浅い。",
-      "ボリンジャーバンドのプラマイ2シグマの範囲内でのレンジ推移が継続。",
-      "配当通過後に予期せぬ崩れが発生しないか足元の板と需給のチェックが必要。"
-     ],
-     "timestamp": "13:36",
-     "confidence": "high"
-    },
-    {
-     "name": "村田製作所",
-     "name_en": "Murata Manufacturing Co., Ltd.",
-     "ticker": "6981",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "61.8%戻しラインでの攻防に注目",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "5.97%の大幅上昇を見せて直近の戻り歩調を強めている。",
-      "直近高安の61.8%戻しラインである7890円〜8000円近辺を目指す展開。",
-      "戻し目標ライン到達後に再度山を形成してジグザグにならないか要確認。"
-     ],
-     "timestamp": "15:49",
-     "confidence": "medium"
-    },
-    {
-     "name": "任天堂",
-     "name_en": "Nintendo Co., Ltd.",
-     "ticker": "7974",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "レーティング引上げと新発表期待",
-     "target_price": "13200円",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "国内大手証券が強気評価を継続し目標株価を1万3200円に引き上げた。",
-      "任天堂ダイレクトなど新作発表イベントによる株価刺激が期待される。",
-      "朝方に信用売りの投げが出た後、押し目ではしっかりと買い戻されている。"
-     ],
-     "timestamp": "21:43",
-     "confidence": "medium"
-    },
-    {
-     "name": "ファーストリテーリング",
-     "name_en": "Fast Retailing Co., Ltd.",
-     "ticker": "9983",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "バンドウォーク終了で手出し無用",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "バンドウォークが終了して日高調整局面へと移行している。",
-      "5日移動平均線と各移動平均線のデッドクロスが形成され下落を示唆。",
-      "チャート形状が悪化しており反転シグナルが出るまで静観が妥当。"
-     ],
-     "timestamp": "27:12",
      "confidence": "medium"
     }
    ]

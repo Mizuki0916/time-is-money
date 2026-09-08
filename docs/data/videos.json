@@ -1,6 +1,21 @@
 {
- "generated_at": "2026-09-08T21:39:56.964475+09:00",
+ "generated_at": "2026-09-08T22:40:15.150952+09:00",
  "videos": [
+  {
+   "video_id": "UxhXfzk1Ljc",
+   "title": "【緊急】円高加速で日経平均1130円急落‼日本株木端微塵か⁉キオクシア高値掴み助からない⁉ドル円152円に急落で自動車株続落。原油急騰、利上げ懸念でAI半導体株弱い。米国株。仮想通貨BTC弱い",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-09-08T12:31:25+00:00",
+   "overview": "",
+   "market_view": "",
+   "market": "",
+   "no_transcript": true,
+   "skip_reason": "この動画には字幕がありません",
+   "picks": []
+  },
   {
    "video_id": "CYFTkDu1Gcc",
    "title": "【日経平均】 円高進行懸念 チャートが見れない人は相場のカモです サンディスク・キオクシア・太陽誘電・村田製作所・オンコリスバイオ・豊和工業",
@@ -112,70 +127,6 @@
      "ticker": "9984",
      "stance": "bullish",
      "timestamp": "04:55"
-    }
-   ]
-  },
-  {
-   "video_id": "YWzLjScZAyE",
-   "title": "日本株ついに爆上げ来たか‼️AI半導体株急騰で日経平均大幅高。キオクシア急騰ヤバい‼️バリュー株、高配当銘柄どうなる。円高加速でドル円急落。利上げ懸念で米国株、ハイテク株上昇。仮想通貨BTCしっかり",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-09-07T14:25:35+00:00",
-   "overview": "ドル円が154円台まで円高に進行する一方、日経平均はAI半導体株の急騰に支えられて大幅高となりました。アンソロピックIPO延期に伴う安心感やショートカバーが半導体株の上昇を牽引したものの、バリュー株や高配当銘柄の値動きは限定的でした。動画ではソフトバンクグループやキオクシアをはじめとする主要銘柄のテクニカル分析を行い、配当落ち後の需給変化や戻り売り圧力に対する警戒感を提示しています。",
-   "market_view": "ドル円の円高進行によりドル建て日経平均に上昇圧力がかかり、ショートカバーで半導体株が買われた一方、配当落ち後の転換点や信用需給には引き続き警戒が必要です。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "ソフトバンクグループ",
-     "ticker": "9984",
-     "stance": "neutral",
-     "timestamp": "03:02"
-    },
-    {
-     "name": "キオクシアホールディングス",
-     "ticker": "285A",
-     "stance": "bullish",
-     "timestamp": "04:09"
-    },
-    {
-     "name": "太陽誘電",
-     "ticker": "6976",
-     "stance": "bullish",
-     "timestamp": "07:09"
-    },
-    {
-     "name": "東京エレクトロン",
-     "ticker": "8035",
-     "stance": "neutral",
-     "timestamp": "08:47"
-    },
-    {
-     "name": "レーザーテック",
-     "ticker": "6920",
-     "stance": "neutral",
-     "timestamp": "13:36"
-    },
-    {
-     "name": "村田製作所",
-     "ticker": "6981",
-     "stance": "neutral",
-     "timestamp": "15:49"
-    },
-    {
-     "name": "任天堂",
-     "ticker": "7974",
-     "stance": "bullish",
-     "timestamp": "21:43"
-    },
-    {
-     "name": "ファーストリテーリング",
-     "ticker": "9983",
-     "stance": "bearish",
-     "timestamp": "27:12"
     }
    ]
   },
