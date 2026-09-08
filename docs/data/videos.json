@@ -1,6 +1,28 @@
 {
- "generated_at": "2026-09-08T12:59:53.480751+09:00",
+ "generated_at": "2026-09-08T16:13:29.241930+09:00",
  "videos": [
+  {
+   "video_id": "T3QeOwF1skg",
+   "title": "ソフトバンクG（9984）株式テクニカルチャート分析",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-09-08T07:00:22+00:00",
+   "overview": "中東情勢の緊迫化による原油高や円高進行の影響で日経平均は後場から大幅安となりました。そうした地合いの中で、円高の影響を受けづらくメジャーSQに向けた指数寄与度の高さからソフトバンクグループ(9984)が買われています。過去の重い信用改ざんによる売りをこなす急増した出来高を伴って上昇しており、短期的には7,000円抜けを狙える強い展開と分析しています。",
+   "market_view": "中東情勢の悪化や円高進行により日経平均は大幅安となりましたが、レンジ内の推移に留まっています。メジャーSQ週で上下変動が大きくなりやすいため警戒が必要です。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "ソフトバンクグループ",
+     "ticker": "9984",
+     "stance": "bullish",
+     "timestamp": "04:55"
+    }
+   ]
+  },
   {
    "video_id": "YWzLjScZAyE",
    "title": "日本株ついに爆上げ来たか‼️AI半導体株急騰で日経平均大幅高。キオクシア急騰ヤバい‼️バリュー株、高配当銘柄どうなる。円高加速でドル円急落。利上げ懸念で米国株、ハイテク株上昇。仮想通貨BTCしっかり",
@@ -258,28 +280,6 @@
      "ticker": "",
      "stance": "neutral",
      "timestamp": "14:19"
-    }
-   ]
-  },
-  {
-   "video_id": "-HDJ1CG3plc",
-   "title": "キオクシア今後の上昇ある？9月末の株式３分割までのトレード戦略",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-09-05T12:26:03+00:00",
-   "overview": "キオクシアの今後の株価動向とトレード戦略について解説しています。DRAM代替品の確立による需要拡大はポジティブ要素とされる一方、9月末の株式3分割に伴う長期ホルダーの売りや信用買い残の増加といった需給面の懸念が示されています。出来高を維持しながら分割を迎えられるかが重要であり、日々の値動きを注視して判断する必要があります。",
-   "market_view": "",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "キオクシア",
-     "ticker": "285A",
-     "stance": "neutral",
-     "timestamp": "00:00"
     }
    ]
   },
