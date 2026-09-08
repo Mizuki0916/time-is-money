@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-08T20:40:08.844346+09:00",
+ "generated_at": "2026-09-08T21:39:53.684351+09:00",
  "channels": [
   {
    "id": "UCsaeHha7ai_NNX8or8Jyb-g",
@@ -1190,23 +1190,21 @@
     "UCK9Pl6bbWqMC_x7IDca2tIg"
    ],
    "price": {
-    "date": "2026-09-04",
-    "close": 65020.94,
-    "change_pct": 1.26,
+    "date": "2026-09-08",
+    "close": 65269.33,
+    "change_pct": -1.7,
     "live": null,
     "live_change_pct": null,
     "live_time": null,
-    "volume": 155800000,
-    "volume_ratio": 0.93,
-    "rsi14": 45.3,
+    "volume": null,
+    "volume_ratio": null,
+    "rsi14": 46.9,
     "rsi_zone": "中立",
-    "ma25": 66067.79,
-    "ma75": 66735.27,
+    "ma25": 66209.88,
+    "ma75": 66823.88,
     "trend": "下降基調",
     "pos52": 75,
     "spark": [
-     67743.85,
-     68557.73,
      67242.73,
      67743.5,
      68751.51,
@@ -1244,14 +1242,16 @@
      66215.34,
      64325.64,
      64214.48,
-     65020.94
+     65020.94,
+     66399.84,
+     65269.33
     ],
     "currency": "JPY",
     "exchange_name": "Osaka",
     "market_open": false,
     "symbol": "^N225",
     "source": "yahoo",
-    "fetched_at": "2026-09-07T23:40:37.683285+00:00"
+    "fetched_at": "2026-09-08T12:39:53.750164+00:00"
    }
   },
   {
