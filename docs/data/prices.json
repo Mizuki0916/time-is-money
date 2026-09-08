@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-08T19:40:00.104458+00:00",
+ "updated_at": "2026-09-08T20:05:08.887730+00:00",
  "symbols": {
   "JP:1111": {
    "date": "2026-08-17",
@@ -7796,22 +7796,21 @@
    "fetched_at": "2026-09-07T22:42:57.454415+00:00"
   },
   "NAME:サンディスク": {
-   "date": "2026-09-04",
-   "close": 1740.0,
-   "change_pct": 11.9,
-   "live": 1759.88,
-   "live_change_pct": 1.14,
-   "live_time": 1788896403,
-   "volume": 16487100,
-   "volume_ratio": 1.2,
-   "rsi14": 61.2,
+   "date": "2026-09-08",
+   "close": 1737.99,
+   "change_pct": -0.12,
+   "live": null,
+   "live_change_pct": null,
+   "live_time": null,
+   "volume": 10879063,
+   "volume_ratio": 0.8,
+   "rsi14": 61.1,
    "rsi_zone": "中立",
-   "ma25": 1485.31,
-   "ma75": 1634.58,
+   "ma25": 1503.31,
+   "ma75": 1639.19,
    "trend": "戻り歩調",
    "pos52": 74,
    "spark": [
-    1673.97,
     1757.82,
     1615.0,
     1411.08,
@@ -7850,14 +7849,15 @@
     1536.87,
     1553.4,
     1554.99,
-    1740.0
+    1740.0,
+    1737.99
    ],
    "currency": "USD",
    "exchange_name": "NasdaqGS",
-   "market_open": true,
+   "market_open": false,
    "symbol": "SNDK",
    "source": "yahoo-search",
-   "fetched_at": "2026-09-08T19:40:00.104458+00:00"
+   "fetched_at": "2026-09-08T20:05:08.887730+00:00"
   },
   "JP:6203": {
    "date": "2026-09-08",
