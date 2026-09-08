@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-09T00:06:37.709070+09:00",
+ "generated_at": "2026-09-09T00:41:53.028720+09:00",
  "videos": [
   {
    "video_id": "UxhXfzk1Ljc",
@@ -9,12 +9,67 @@
    "channel_short": "Sho",
    "slot": 3,
    "published": "2026-09-08T14:28:03+00:00",
-   "overview": "",
-   "market_view": "",
-   "market": "",
-   "no_transcript": true,
-   "skip_reason": "この動画には字幕がありません",
-   "picks": []
+   "overview": "急落した日本株相場について、円高加速やメジャーSQ前の荒れやすい地合い、個別銘柄の需給動向を中心に分析しています。キオクシアは円高による為替損や分割に伴う見た目の信用買い増に警戒を示し、トヨタは割安水準ながら円高影響が重荷と解説。任天堂は半年期日の通過による戻りを期待する一方、NTTやフジクラなどは受給悪化を指摘。ソフトバンクグループのようにショートカバーが機能している銘柄や、利上げ織り込みと配当落ち後の調整が懸念される三菱UFJなど、個別の需給変化に応じた立ち回りを解説しています。",
+   "market_view": "円高進行やVIX指数のMACDゴールデンクロス形成により、メジャーSQ通過までは波乱含みのレンジ展開となりやすい地合い。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "キオクシアホールディングス",
+     "ticker": "285A",
+     "stance": "neutral",
+     "timestamp": "05:10"
+    },
+    {
+     "name": "トヨタ自動車",
+     "ticker": "7203",
+     "stance": "neutral",
+     "timestamp": "06:27"
+    },
+    {
+     "name": "任天堂",
+     "ticker": "7974",
+     "stance": "bullish",
+     "timestamp": "08:07"
+    },
+    {
+     "name": "NTT",
+     "ticker": "9432",
+     "stance": "bearish",
+     "timestamp": "11:42"
+    },
+    {
+     "name": "ソニーグループ",
+     "ticker": "6758",
+     "stance": "bullish",
+     "timestamp": "15:45"
+    },
+    {
+     "name": "太陽誘電",
+     "ticker": "6976",
+     "stance": "bullish",
+     "timestamp": "35:59"
+    },
+    {
+     "name": "ソフトバンクグループ",
+     "ticker": "9984",
+     "stance": "bullish",
+     "timestamp": "44:23"
+    },
+    {
+     "name": "フジクラ",
+     "ticker": "5803",
+     "stance": "bearish",
+     "timestamp": "43:15"
+    },
+    {
+     "name": "三菱UFJフィナンシャル・グループ",
+     "ticker": "8306",
+     "stance": "bearish",
+     "timestamp": "47:20"
+    }
+   ]
   },
   {
    "video_id": "CYFTkDu1Gcc",

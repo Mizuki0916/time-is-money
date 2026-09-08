@@ -9,13 +9,165 @@
    "channel_name": "Sho's投資情報局",
    "channel_short": "Sho",
    "slot": 3,
-   "no_transcript": true,
-   "skip_reason": "この動画には字幕がありません",
-   "attempts": 2,
-   "overview": "",
-   "market_view": "",
-   "market": "",
-   "picks": []
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "急落した日本株相場について、円高加速やメジャーSQ前の荒れやすい地合い、個別銘柄の需給動向を中心に分析しています。キオクシアは円高による為替損や分割に伴う見た目の信用買い増に警戒を示し、トヨタは割安水準ながら円高影響が重荷と解説。任天堂は半年期日の通過による戻りを期待する一方、NTTやフジクラなどは受給悪化を指摘。ソフトバンクグループのようにショートカバーが機能している銘柄や、利上げ織り込みと配当落ち後の調整が懸念される三菱UFJなど、個別の需給変化に応じた立ち回りを解説しています。",
+   "market_view": "円高進行やVIX指数のMACDゴールデンクロス形成により、メジャーSQ通過までは波乱含みのレンジ展開となりやすい地合い。",
+   "market": "JP",
+   "picks": [
+    {
+     "name": "キオクシアホールディングス",
+     "name_en": "Kioxia Holdings Corporation",
+     "ticker": "285A",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "円高による為替損や信用枚数の多さに警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "想定為替レート162円台に対して足元の円高で10円近いビハインドとなり、為替損が発生していること。",
+      "信用倍率は9.87倍で若干改善したものの、株式分割に伴い見た目の信用買い枚数が増加し悪化して見える点。"
+     ],
+     "timestamp": "05:10",
+     "confidence": "medium"
+    },
+    {
+     "name": "トヨタ自動車",
+     "name_en": "Toyota Motor Corporation",
+     "ticker": "7203",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "解散価値水準で買いやすいが円高が重荷",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "PER10.7倍、PBR0.93倍と解散価値水準まで調整しており、割安感から買いやすい水準に入っていること。",
+      "ドル円が152円台まで急降下したことで、業績への円高ネガティブ影響から株価が急落している点。"
+     ],
+     "timestamp": "06:27",
+     "confidence": "high"
+    },
+    {
+     "name": "任天堂",
+     "name_en": "Nintendo Co., Ltd.",
+     "ticker": "7974",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "安値圏での放置銘柄として中長期で有望",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "レーティング引き上げや今後の新作タイトル期待がある中、放置されている安値圏で拾う優良銘柄である点。",
+      "4月高値からの半年期日(10月8日頃)を抜ければ、高値掴みの含み損を抱える売り圧力が解消される見込みであること。"
+     ],
+     "timestamp": "08:07",
+     "confidence": "high"
+    },
+    {
+     "name": "NTT",
+     "name_en": "Nippon Telegraph and Telephone Corporation",
+     "ticker": "9432",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "値幅が乏しい中で信用買いが増加し受給悪化",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "値幅が限られる銘柄にもかかわらず、信用買い残が430万株増加するなど受給が著しく悪化している点。"
+     ],
+     "timestamp": "11:42",
+     "confidence": "medium"
+    },
+    {
+     "name": "ソニーグループ",
+     "name_en": "Sony Group Corporation",
+     "ticker": "6758",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "ゴールデンクロス形成が進みテクニカル改善",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "信用倍率6.85倍と受給バランス自体は悪くなく、株価は移動平均線付近で横ばい推移を続けている点。",
+      "200日移動平均線と50日線のゴールデンクロスを形成し、今後は75日線や100日線とのクロスも控えていること。"
+     ],
+     "timestamp": "15:45",
+     "confidence": "medium"
+    },
+    {
+     "name": "太陽誘電",
+     "name_en": "Taiyo Yuden Co., Ltd.",
+     "ticker": "6976",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "信用買い減少と売り増加で受給が改善",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "信用買い残が333万株減少し、空売りが23万株増加したことで需給バランスが改善している点。",
+      "積み上がった空売りのショートカバー(買戻し)が入ったことで急反発する動きが確認されたこと。"
+     ],
+     "timestamp": "35:59",
+     "confidence": "medium"
+    },
+    {
+     "name": "ソフトバンクグループ",
+     "name_en": "SoftBank Group Corp.",
+     "ticker": "9984",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "空売り急増に伴うショートカバーで株価上昇",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "信用買い残が206万株減少し、空売りが98万株増加したことで受給が大幅に改善している点。",
+      "積み上がった空売りが焼かれる形で典型的なショートカバーが発生し、株価の押し上げ要因となっていること。"
+     ],
+     "timestamp": "44:23",
+     "confidence": "high"
+    },
+    {
+     "name": "フジクラ",
+     "name_en": "Fujikura Ltd.",
+     "ticker": "5803",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "信用買い増加で受給悪化しデッドクロス懸念",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "信用買い残が167万株増加し、信用倍率が24.52倍まで悪化して上が重くなっている点。",
+      "テクニカル面でデッドクロスが形成されそうな形状となっており、数日間の日柄調整が必要に見える点。"
+     ],
+     "timestamp": "43:15",
+     "confidence": "medium"
+    },
+    {
+     "name": "三菱UFJフィナンシャル・グループ",
+     "name_en": "Mitsubishi UFJ Financial Group, Inc.",
+     "ticker": "8306",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "日銀利上げ織り込みや配当落ち後の調整に警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "日銀の追加利上げ観測が事前に織り込まれ、材料出尽くしとなる懸念が存在している点。",
+      "RSIのダイバージエンス発生に加え、配当落ち後に移動平均線のデッドクロスが重なる調整警戒感がある点。"
+     ],
+     "timestamp": "47:20",
+     "confidence": "high"
+    }
+   ]
   },
   {
    "video_id": "JZ-WrcwZR9Q",
