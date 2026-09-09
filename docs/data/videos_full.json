@@ -2,25 +2,8 @@
  "videos": [
   {
    "video_id": "h9ypPPYaaIY",
-   "title": "【緊急】日本株崩壊寸前か⁉円高加速で日経平均上値重い。AI半導体株大荒れ。キオクシア高値掴み助からない⁉ドル円153円に急落。米国株、ハイテク株急騰。仮想通貨BTC弱い",
-   "published": "2026-09-09T12:39:55+00:00",
-   "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "no_transcript": true,
-   "skip_reason": "この動画には字幕がありません",
-   "attempts": 1,
-   "overview": "",
-   "market_view": "",
-   "market": "",
-   "picks": []
-  },
-  {
-   "video_id": "UxhXfzk1Ljc",
-   "title": "【緊急】円高加速で日経平均1130円急落‼日本株木端微塵か⁉キオクシア高値掴み助からない⁉ドル円152円に急落で自動車株続落。原油急騰、利上げ懸念でAI半導体株弱い。米国株。仮想通貨BTC弱い",
-   "published": "2026-09-08T14:28:03+00:00",
+   "title": "【緊急】日本株、円高加速で日経平均上値重い。AI半導体株大荒れ。キオクシア高値掴み助からない⁉ドル円153円に急落。米国株、ハイテク株急騰。仮想通貨BTC弱い",
+   "published": "2026-09-09T14:33:22+00:00",
    "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
    "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
    "channel_name": "Sho's投資情報局",
@@ -28,110 +11,63 @@
    "slot": 3,
    "no_transcript": false,
    "skip_reason": "",
-   "overview": "急落した日本株相場について、円高加速やメジャーSQ前の荒れやすい地合い、個別銘柄の需給動向を中心に分析しています。キオクシアは円高による為替損や分割に伴う見た目の信用買い増に警戒を示し、トヨタは割安水準ながら円高影響が重荷と解説。任天堂は半年期日の通過による戻りを期待する一方、NTTやフジクラなどは受給悪化を指摘。ソフトバンクグループのようにショートカバーが機能している銘柄や、利上げ織り込みと配当落ち後の調整が懸念される三菱UFJなど、個別の需給変化に応じた立ち回りを解説しています。",
-   "market_view": "円高進行やVIX指数のMACDゴールデンクロス形成により、メジャーSQ通過までは波乱含みのレンジ展開となりやすい地合い。",
+   "overview": "この動画では、円高の加速や米国ハイテク株の乱高下、メジャーSQを控えた日経平均の上値の重さについて解説されています。個別銘柄では、新作ゼルダの発表で期待が高まる任天堂やFF7最終章の発売スケジュールを意識するスクウェア・エニックスなどのゲーム関連株、アーム株高により強い上昇トレンドが続くソフトバンクグループ、高配当でPBR割安な住友林業などのチャート形状や受給状態を詳しく分析しています。",
+   "market_view": "メジャーSQを前に先物中心に乱高下しやすく、ドル円が153円台前半へ急落したことで日経平均は上値が重い展開となっています。",
    "market": "JP",
    "picks": [
-    {
-     "name": "キオクシアホールディングス",
-     "name_en": "Kioxia Holdings Corporation",
-     "ticker": "285A",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "円高による為替損や信用枚数の多さに警戒",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "想定為替レート162円台に対して足元の円高で10円近いビハインドとなり、為替損が発生していること。",
-      "信用倍率は9.87倍で若干改善したものの、株式分割に伴い見た目の信用買い枚数が増加し悪化して見える点。"
-     ],
-     "timestamp": "05:10",
-     "confidence": "medium"
-    },
-    {
-     "name": "トヨタ自動車",
-     "name_en": "Toyota Motor Corporation",
-     "ticker": "7203",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "解散価値水準で買いやすいが円高が重荷",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "PER10.7倍、PBR0.93倍と解散価値水準まで調整しており、割安感から買いやすい水準に入っていること。",
-      "ドル円が152円台まで急降下したことで、業績への円高ネガティブ影響から株価が急落している点。"
-     ],
-     "timestamp": "06:27",
-     "confidence": "high"
-    },
     {
      "name": "任天堂",
      "name_en": "Nintendo Co., Ltd.",
      "ticker": "7974",
      "market": "JP",
      "stance": "bullish",
-     "stance_note": "安値圏での放置銘柄として中長期で有望",
+     "stance_note": "新作発表の好感から10月以降の折込上昇に期待",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "レーティング引き上げや今後の新作タイトル期待がある中、放置されている安値圏で拾う優良銘柄である点。",
-      "4月高値からの半年期日(10月8日頃)を抜ければ、高値掴みの含み損を抱える売り圧力が解消される見込みであること。"
+      "ゼルダなどの新作動画の反響が非常に良く海外人気も高いため業績への期待感が強い",
+      "11月発売予定のため1か月前の10月頃から株価へ先行して折り込まれて上がると予想",
+      "安い位置で買えている場合は無理に売らずそのまま放置して待つのも相場というスタンス"
      ],
-     "timestamp": "08:07",
+     "timestamp": "01:21",
      "confidence": "high"
     },
     {
-     "name": "NTT",
-     "name_en": "Nippon Telegraph and Telephone Corporation",
-     "ticker": "9432",
+     "name": "シフト",
+     "name_en": "SHIFT Inc.",
+     "ticker": "3697",
      "market": "JP",
-     "stance": "bearish",
-     "stance_note": "値幅が乏しい中で信用買いが増加し受給悪化",
+     "stance": "neutral",
+     "stance_note": "バンド歩行終了と指標の反転確認を待つ",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "値幅が限られる銘柄にもかかわらず、信用買い残が430万株増加するなど受給が著しく悪化している点。"
+      "米国のソフトウェア関連株の下落に伴って国内のサーズ系銘柄も連安している状況にある",
+      "移動平均線の断続的ゴールデンクロス形成により200日線付近で反転するかを注視",
+      "バンド歩行の下落サイン終了やMACDが上昇トレンドを形成するのを確認する必要がある"
      ],
-     "timestamp": "11:42",
+     "timestamp": "04:09",
      "confidence": "medium"
     },
     {
-     "name": "ソニーグループ",
-     "name_en": "Sony Group Corporation",
-     "ticker": "6758",
+     "name": "スクウェア・エニックス・ホールディングス",
+     "name_en": "Square Enix Holdings Co., Ltd.",
+     "ticker": "9684",
      "market": "JP",
      "stance": "bullish",
-     "stance_note": "ゴールデンクロス形成が進みテクニカル改善",
+     "stance_note": "FF7最終章の発売スケジュールに向けた上昇に期待",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "信用倍率6.85倍と受給バランス自体は悪くなく、株価は移動平均線付近で横ばい推移を続けている点。",
-      "200日移動平均線と50日線のゴールデンクロスを形成し、今後は75日線や100日線とのクロスも控えていること。"
+      "テクニカル指標ではなく今後の大型タイトル発売のスケジュールを重視して判断する",
+      "来年春のファイナルファンタジー7リメイク最終章の発売に向かってジリジリ上がる展開",
+      "今回は全デバイスで販売可能なため過去作品よりも幅広い層へリーチし売上が見込める"
      ],
-     "timestamp": "15:45",
-     "confidence": "medium"
-    },
-    {
-     "name": "太陽誘電",
-     "name_en": "Taiyo Yuden Co., Ltd.",
-     "ticker": "6976",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "信用買い減少と売り増加で受給が改善",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "信用買い残が333万株減少し、空売りが23万株増加したことで需給バランスが改善している点。",
-      "積み上がった空売りのショートカバー(買戻し)が入ったことで急反発する動きが確認されたこと。"
-     ],
-     "timestamp": "35:59",
-     "confidence": "medium"
+     "timestamp": "16:35",
+     "confidence": "high"
     },
     {
      "name": "ソフトバンクグループ",
@@ -139,50 +75,102 @@
      "ticker": "9984",
      "market": "JP",
      "stance": "bullish",
-     "stance_note": "空売り急増に伴うショートカバーで株価上昇",
+     "stance_note": "アーム株高を追い風に強いバンド歩行が継続",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "信用買い残が206万株減少し、空売りが98万株増加したことで受給が大幅に改善している点。",
-      "積み上がった空売りが焼かれる形で典型的なショートカバーが発生し、株価の押し上げ要因となっていること。"
+      "傘下のアーム株価の上昇が連日続いておりグループ全体の株価を大きく押し上げている",
+      "ボリンジャーバンドの上のラインに沿って連日上昇する強いバンド歩行の形を形成している",
+      "フィボナッチ分析による目標水準であるレッドゾーン(9792〜10630円)を意識"
      ],
-     "timestamp": "44:23",
+     "timestamp": "27:00",
      "confidence": "high"
     },
     {
-     "name": "フジクラ",
-     "name_en": "Fujikura Ltd.",
-     "ticker": "5803",
+     "name": "住友林業",
+     "name_en": "Sumitomo Forestry Co., Ltd.",
+     "ticker": "1911",
      "market": "JP",
-     "stance": "bearish",
-     "stance_note": "信用買い増加で受給悪化しデッドクロス懸念",
+     "stance": "bullish",
+     "stance_note": "利回り4%付近への押し目を待って年末へ仕込む",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "信用買い残が167万株増加し、信用倍率が24.52倍まで悪化して上が重くなっている点。",
-      "テクニカル面でデッドクロスが形成されそうな形状となっており、数日間の日柄調整が必要に見える点。"
+      "PBRが0.7倍程度と割安感があり配当利回りも3.97%と高水準な位置に位置している",
+      "ここからあと1割程度下落して配当利回りが4%を超えてくれば買い増しの検討ライン",
+      "バンド歩行終了サインの点灯を確認しながら年末に向かって仕込んでいく高配当銘柄"
      ],
-     "timestamp": "43:15",
+     "timestamp": "45:07",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
+   "video_id": "9W60bSywLaA",
+   "title": "【緊急】日本株崩壊寸前か⁉円高加速で日経平均上値重い。AI半導体株大荒れ。キオクシア高値掴み助からない⁉ドル円153円に急落。米国株、ハイテク株急騰。仮想通貨BTC弱い",
+   "published": "2026-09-09T09:15:01+00:00",
+   "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "メジャーSQ週を迎える日経平均株価について、VIX指数のMACDゴールデンクロスなど下落サインの点灯や153円台までの円高進行による上値の重さを解説。2018年暴落時との信用需給の類似性を指摘しつつ、NS倍率の上昇や海外投資家の買越しといった上昇条件が揃うかどうかが焦点であると分析。半導体株に関しては高値掴みの信用買い残や年末の損益通算売りを背景に、戻り売り圧力が継続すると警戒を示しています。",
+   "market_view": "メジャーSQ週における地合いの荒れや急速な円高進行により日本株は上値の重い展開。ただしショートカバーの条件が整えば反転上昇の余地も残ります。",
+   "market": "MIX",
+   "picks": [
+    {
+     "name": "日経平均株価",
+     "name_en": "Nikkei 225",
+     "ticker": "N225",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "下落サイン点灯も条件次第で上昇余地あり",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "メジャーSQ週に向かってVIX指数のMACDがゴールデンクロスを形成しており、短期的には乱高下や下落の波乱が発生しやすい。",
+      "PER17倍の理論値付近で下げ止まっているが、本格上昇にはNS倍率改善や海外勢の日本株買越しなどの条件が必要とされる。"
+     ],
+     "timestamp": "00:00",
+     "confidence": "high"
+    },
+    {
+     "name": "東京エレクトロン",
+     "name_en": "Tokyo Electron Limited",
+     "ticker": "8035",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "信用期日や損益通算売りで戻り売りが優勢",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "6月や7月の高値で買った信用買いの期日到来が12月に重なり、年末の損益通算売りも相まって売り圧力が強まりやすい。",
+      "株価の上昇場面があってもV字回復とはならず、上値で捕まっている投資家からの戻り売りでジグザグな展開が想定される。"
+     ],
+     "timestamp": "22:15",
      "confidence": "medium"
     },
     {
-     "name": "三菱UFJフィナンシャル・グループ",
-     "name_en": "Mitsubishi UFJ Financial Group, Inc.",
-     "ticker": "8306",
+     "name": "キオクシア",
+     "name_en": "Kioxia Holdings Corporation",
+     "ticker": "285A",
      "market": "JP",
      "stance": "bearish",
-     "stance_note": "日銀利上げ織り込みや配当落ち後の調整に警戒",
+     "stance_note": "高値圏での捕まりが多く上値が重い",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "日銀の追加利上げ観測が事前に織り込まれ、材料出尽くしとなる懸念が存在している点。",
-      "RSIのダイバージエンス発生に加え、配当落ち後に移動平均線のデッドクロスが重なる調整警戒感がある点。"
+      "高値圏で捕まっているポジションが多く存在しており、年末にかけて株価が持ち直す局面でも戻り売りに押されやすい。"
      ],
-     "timestamp": "47:20",
-     "confidence": "high"
+     "timestamp": "24:43",
+     "confidence": "low"
     }
    ]
   },

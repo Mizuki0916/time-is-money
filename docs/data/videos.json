@@ -1,20 +1,51 @@
 {
- "generated_at": "2026-09-09T23:10:21.526114+09:00",
+ "generated_at": "2026-09-09T23:48:29.962053+09:00",
  "videos": [
   {
    "video_id": "h9ypPPYaaIY",
-   "title": "【緊急】日本株崩壊寸前か⁉円高加速で日経平均上値重い。AI半導体株大荒れ。キオクシア高値掴み助からない⁉ドル円153円に急落。米国株、ハイテク株急騰。仮想通貨BTC弱い",
+   "title": "【緊急】日本株、円高加速で日経平均上値重い。AI半導体株大荒れ。キオクシア高値掴み助からない⁉ドル円153円に急落。米国株、ハイテク株急騰。仮想通貨BTC弱い",
    "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
    "channel_name": "Sho's投資情報局",
    "channel_short": "Sho",
    "slot": 3,
-   "published": "2026-09-09T12:39:55+00:00",
-   "overview": "",
-   "market_view": "",
-   "market": "",
-   "no_transcript": true,
-   "skip_reason": "この動画には字幕がありません",
-   "picks": []
+   "published": "2026-09-09T14:33:22+00:00",
+   "overview": "この動画では、円高の加速や米国ハイテク株の乱高下、メジャーSQを控えた日経平均の上値の重さについて解説されています。個別銘柄では、新作ゼルダの発表で期待が高まる任天堂やFF7最終章の発売スケジュールを意識するスクウェア・エニックスなどのゲーム関連株、アーム株高により強い上昇トレンドが続くソフトバンクグループ、高配当でPBR割安な住友林業などのチャート形状や受給状態を詳しく分析しています。",
+   "market_view": "メジャーSQを前に先物中心に乱高下しやすく、ドル円が153円台前半へ急落したことで日経平均は上値が重い展開となっています。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "任天堂",
+     "ticker": "7974",
+     "stance": "bullish",
+     "timestamp": "01:21"
+    },
+    {
+     "name": "シフト",
+     "ticker": "3697",
+     "stance": "neutral",
+     "timestamp": "04:09"
+    },
+    {
+     "name": "スクウェア・エニックス・ホールディングス",
+     "ticker": "9684",
+     "stance": "bullish",
+     "timestamp": "16:35"
+    },
+    {
+     "name": "ソフトバンクグループ",
+     "ticker": "9984",
+     "stance": "bullish",
+     "timestamp": "27:00"
+    },
+    {
+     "name": "住友林業",
+     "ticker": "1911",
+     "stance": "bullish",
+     "timestamp": "45:07"
+    }
+   ]
   },
   {
    "video_id": "b6Q538dj2bA",
@@ -63,6 +94,40 @@
    ]
   },
   {
+   "video_id": "9W60bSywLaA",
+   "title": "【緊急】日本株崩壊寸前か⁉円高加速で日経平均上値重い。AI半導体株大荒れ。キオクシア高値掴み助からない⁉ドル円153円に急落。米国株、ハイテク株急騰。仮想通貨BTC弱い",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-09-09T09:15:01+00:00",
+   "overview": "メジャーSQ週を迎える日経平均株価について、VIX指数のMACDゴールデンクロスなど下落サインの点灯や153円台までの円高進行による上値の重さを解説。2018年暴落時との信用需給の類似性を指摘しつつ、NS倍率の上昇や海外投資家の買越しといった上昇条件が揃うかどうかが焦点であると分析。半導体株に関しては高値掴みの信用買い残や年末の損益通算売りを背景に、戻り売り圧力が継続すると警戒を示しています。",
+   "market_view": "メジャーSQ週における地合いの荒れや急速な円高進行により日本株は上値の重い展開。ただしショートカバーの条件が整えば反転上昇の余地も残ります。",
+   "market": "MIX",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "日経平均株価",
+     "ticker": "N225",
+     "stance": "neutral",
+     "timestamp": "00:00"
+    },
+    {
+     "name": "東京エレクトロン",
+     "ticker": "8035",
+     "stance": "bearish",
+     "timestamp": "22:15"
+    },
+    {
+     "name": "キオクシア",
+     "ticker": "285A",
+     "stance": "bearish",
+     "timestamp": "24:43"
+    }
+   ]
+  },
+  {
    "video_id": "gupgrIYlKeA",
    "title": "電線御三家（フジクラ・古河電工・住友電工）株式テクニカルチャート分析",
    "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
@@ -93,76 +158,6 @@
      "ticker": "5802",
      "stance": "bearish",
      "timestamp": "08:18"
-    }
-   ]
-  },
-  {
-   "video_id": "UxhXfzk1Ljc",
-   "title": "【緊急】円高加速で日経平均1130円急落‼日本株木端微塵か⁉キオクシア高値掴み助からない⁉ドル円152円に急落で自動車株続落。原油急騰、利上げ懸念でAI半導体株弱い。米国株。仮想通貨BTC弱い",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-09-08T14:28:03+00:00",
-   "overview": "急落した日本株相場について、円高加速やメジャーSQ前の荒れやすい地合い、個別銘柄の需給動向を中心に分析しています。キオクシアは円高による為替損や分割に伴う見た目の信用買い増に警戒を示し、トヨタは割安水準ながら円高影響が重荷と解説。任天堂は半年期日の通過による戻りを期待する一方、NTTやフジクラなどは受給悪化を指摘。ソフトバンクグループのようにショートカバーが機能している銘柄や、利上げ織り込みと配当落ち後の調整が懸念される三菱UFJなど、個別の需給変化に応じた立ち回りを解説しています。",
-   "market_view": "円高進行やVIX指数のMACDゴールデンクロス形成により、メジャーSQ通過までは波乱含みのレンジ展開となりやすい地合い。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "キオクシアホールディングス",
-     "ticker": "285A",
-     "stance": "neutral",
-     "timestamp": "05:10"
-    },
-    {
-     "name": "トヨタ自動車",
-     "ticker": "7203",
-     "stance": "neutral",
-     "timestamp": "06:27"
-    },
-    {
-     "name": "任天堂",
-     "ticker": "7974",
-     "stance": "bullish",
-     "timestamp": "08:07"
-    },
-    {
-     "name": "NTT",
-     "ticker": "9432",
-     "stance": "bearish",
-     "timestamp": "11:42"
-    },
-    {
-     "name": "ソニーグループ",
-     "ticker": "6758",
-     "stance": "bullish",
-     "timestamp": "15:45"
-    },
-    {
-     "name": "太陽誘電",
-     "ticker": "6976",
-     "stance": "bullish",
-     "timestamp": "35:59"
-    },
-    {
-     "name": "ソフトバンクグループ",
-     "ticker": "9984",
-     "stance": "bullish",
-     "timestamp": "44:23"
-    },
-    {
-     "name": "フジクラ",
-     "ticker": "5803",
-     "stance": "bearish",
-     "timestamp": "43:15"
-    },
-    {
-     "name": "三菱UFJフィナンシャル・グループ",
-     "ticker": "8306",
-     "stance": "bearish",
-     "timestamp": "47:20"
     }
    ]
   },
