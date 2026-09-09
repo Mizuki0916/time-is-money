@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-09T09:05:14.686633+00:00",
+ "updated_at": "2026-09-09T14:10:20.276434+00:00",
  "symbols": {
   "JP:1111": {
    "date": "2026-08-17",
@@ -1090,22 +1090,21 @@
    "fetched_at": "2026-09-09T06:05:16.882728+00:00"
   },
   "US:SNDK": {
-   "date": "2026-09-04",
-   "close": 1740.0,
-   "change_pct": 11.9,
-   "live": null,
-   "live_change_pct": null,
-   "live_time": null,
-   "volume": 16487100,
-   "volume_ratio": 1.2,
-   "rsi14": 61.2,
+   "date": "2026-09-08",
+   "close": 1737.99,
+   "change_pct": -0.12,
+   "live": 1800.0,
+   "live_change_pct": 3.57,
+   "live_time": 1788963021,
+   "volume": 11138500,
+   "volume_ratio": 0.82,
+   "rsi14": 61.1,
    "rsi_zone": "中立",
-   "ma25": 1485.31,
-   "ma75": 1634.58,
+   "ma25": 1503.31,
+   "ma75": 1639.19,
    "trend": "戻り歩調",
    "pos52": 74,
    "spark": [
-    1673.97,
     1757.82,
     1615.0,
     1411.08,
@@ -1144,14 +1143,15 @@
     1536.87,
     1553.4,
     1554.99,
-    1740.0
+    1740.0,
+    1737.99
    ],
    "currency": "USD",
    "exchange_name": "NasdaqGS",
-   "market_open": false,
+   "market_open": true,
    "symbol": "SNDK",
    "source": "yahoo",
-   "fetched_at": "2026-09-07T22:42:57.454415+00:00"
+   "fetched_at": "2026-09-09T14:10:20.276434+00:00"
   },
   "JP:5985": {
    "date": "2026-08-19",
