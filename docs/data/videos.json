@@ -1,6 +1,40 @@
 {
- "generated_at": "2026-09-09T15:06:22.763726+09:00",
+ "generated_at": "2026-09-09T16:06:16.837726+09:00",
  "videos": [
+  {
+   "video_id": "gupgrIYlKeA",
+   "title": "電線御三家（フジクラ・古河電工・住友電工）株式テクニカルチャート分析",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-09-09T06:56:06+00:00",
+   "overview": "米コーニングの材料発表をきっかけに急伸した日本の電線大手3社(フジクラ、古河電工、住友電工)のテクニカルチャートと需給動向を解説しています。足型の良さや上値の軽さから古河電工を最も有望な銘柄とし、フジクラを2番手として注視する一方、戻り売りのシコリが重い住友電工は見送る姿勢を示しています。",
+   "market_view": "原油高や円高の進行が警戒される中、後場は半導体株を中心に下落したものの、電線関連銘柄は前日の米国市場の流れを受けて最後まで堅調に推移しました。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "古河電気工業",
+     "ticker": "5801",
+     "stance": "bullish",
+     "timestamp": "06:10"
+    },
+    {
+     "name": "フジクラ",
+     "ticker": "5803",
+     "stance": "neutral",
+     "timestamp": "04:35"
+    },
+    {
+     "name": "住友電気工業",
+     "ticker": "5802",
+     "stance": "bearish",
+     "timestamp": "08:18"
+    }
+   ]
+  },
   {
    "video_id": "UxhXfzk1Ljc",
    "title": "【緊急】円高加速で日経平均1130円急落‼日本株木端微塵か⁉キオクシア高値掴み助からない⁉ドル円152円に急落で自動車株続落。原油急騰、利上げ懸念でAI半導体株弱い。米国株。仮想通貨BTC弱い",
@@ -256,88 +290,6 @@
      "ticker": "2914",
      "stance": "bullish",
      "timestamp": "02:18"
-    }
-   ]
-  },
-  {
-   "video_id": "lYi5x188e1s",
-   "title": "株式テクニカルチャート分析",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-09-05T23:00:25+00:00",
-   "overview": "米国の半導体株上昇を受け日経先物も底堅い動きを見せる中、明日からの相場に向けた注目銘柄のチャートや需給動向を分析しています。キオクシアやソフトバンクグループなどの大型株・半導体関連に強気の姿勢を示す一方、急騰後に急落したティアフォーなど自動運転関連のリバウンド狙いには難易度の高さを踏まえた慎重な対応を呼びかけています。",
-   "market_view": "米国相場で半導体株が買われたことで半導体セクターは力強い推移が期待されますが、相場全体としては小幅高程度にとどまり方向感を模索する展開です。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "キオクシア",
-     "ticker": "285A",
-     "stance": "bullish",
-     "timestamp": "02:37"
-    },
-    {
-     "name": "アドバンテスト",
-     "ticker": "6857",
-     "stance": "bullish",
-     "timestamp": "04:31"
-    },
-    {
-     "name": "イビデン",
-     "ticker": "4062",
-     "stance": "bullish",
-     "timestamp": "05:21"
-    },
-    {
-     "name": "古河電気工業",
-     "ticker": "5801",
-     "stance": "neutral",
-     "timestamp": "06:02"
-    },
-    {
-     "name": "ソフトバンクグループ",
-     "ticker": "9984",
-     "stance": "bullish",
-     "timestamp": "06:58"
-    },
-    {
-     "name": "三菱UFJフィナンシャル・グループ",
-     "ticker": "8306",
-     "stance": "bullish",
-     "timestamp": "08:13"
-    },
-    {
-     "name": "テラドローン",
-     "ticker": "278A",
-     "stance": "bullish",
-     "timestamp": "09:02"
-    },
-    {
-     "name": "全務テック",
-     "ticker": "",
-     "stance": "neutral",
-     "timestamp": "10:16"
-    },
-    {
-     "name": "エブリー",
-     "ticker": "5250",
-     "stance": "neutral",
-     "timestamp": "11:12"
-    },
-    {
-     "name": "ティアフォー",
-     "ticker": "593A",
-     "stance": "neutral",
-     "timestamp": "12:24"
-    },
-    {
-     "name": "ダイナミックマッププラットフォーム",
-     "ticker": "",
-     "stance": "neutral",
-     "timestamp": "14:19"
     }
    ]
   },

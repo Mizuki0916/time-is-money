@@ -463,6 +463,74 @@
    ]
   },
   {
+   "video_id": "gupgrIYlKeA",
+   "title": "電線御三家（フジクラ・古河電工・住友電工）株式テクニカルチャート分析",
+   "published": "2026-09-09T06:56:06+00:00",
+   "description": "🔽「株オンラインサロン」9月期新規メンバー募集中！\nエンジョイプランは初参加の方初月無料です★\n→　https://yoor.jp/door/tradertomo\n\n※ 参加プラン別のサービス内容はこちらの動画で解説しています。\n→https://youtu.be/AGZetFvA-Xk?si=Qy_ctky7kW1QSOHX\n\n株好きが集まる楽しいサロンを目指してます♪\n初心者歓迎です～ご参加お待ちしています！\n\n🔽サブチャンネルもやってます＾＾\nhttps://www.youtube.com/@TOMO-subtrader\n\n---------------------------------------------\n🔽公式LINEやってます！ともだち登録お願いします☆\n---------------------------------------------\n\n「うねり取り株投資実践講",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "米コーニングの材料発表をきっかけに急伸した日本の電線大手3社(フジクラ、古河電工、住友電工)のテクニカルチャートと需給動向を解説しています。足型の良さや上値の軽さから古河電工を最も有望な銘柄とし、フジクラを2番手として注視する一方、戻り売りのシコリが重い住友電工は見送る姿勢を示しています。",
+   "market_view": "原油高や円高の進行が警戒される中、後場は半導体株を中心に下落したものの、電線関連銘柄は前日の米国市場の流れを受けて最後まで堅調に推移しました。",
+   "market": "JP",
+   "picks": [
+    {
+     "name": "古河電気工業",
+     "name_en": "Furukawa Electric Co., Ltd.",
+     "ticker": "5801",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "電線3社の中で最本命。4200円抜けを狙う",
+     "target_price": "",
+     "entry": "",
+     "stop": "4000円割れ",
+     "reasons": [
+      "ダブルボトム気味の形状から4000円ラインを突破しレンジ抜けになりそうな動き。(69字)",
+      "電線3社の中で最も足型が良く、4200円上抜けからの上昇をメインで狙いたい銘柄。(70字)"
+     ],
+     "timestamp": "06:10",
+     "confidence": "high"
+    },
+    {
+     "name": "フジクラ",
+     "name_en": "Fujikura Ltd.",
+     "ticker": "5803",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "古河電工に次ぐ2番手として注視",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "日足で綺麗なダブルボトムを形成し、5300円付近をギャップアップで超えた点は高材料。(73字)",
+      "過去の決算時に比べて出来高が少なく勢いに欠け、6000円付近までしこり玉が残る。(69字)"
+     ],
+     "timestamp": "04:35",
+     "confidence": "high"
+    },
+    {
+     "name": "住友電気工業",
+     "name_en": "Sumitomo Electric Industries, Ltd.",
+     "ticker": "5802",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "戻り売りシコリが多く狙う必要なし",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "株式分割後に底値圏で低迷しており、2230円付近までに重い戻り売りシコリが存在。(72字)",
+      "信用買いの多くが含み損で馬中の出来高も伸びず、スイング勢中心で上昇確度が低い。(69字)"
+     ],
+     "timestamp": "08:18",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
    "video_id": "T3QeOwF1skg",
    "title": "ソフトバンクG（9984）株式テクニカルチャート分析",
    "published": "2026-09-08T07:00:22+00:00",
@@ -493,210 +561,6 @@
      ],
      "timestamp": "04:55",
      "confidence": "high"
-    }
-   ]
-  },
-  {
-   "video_id": "lYi5x188e1s",
-   "title": "株式テクニカルチャート分析",
-   "published": "2026-09-05T23:00:25+00:00",
-   "description": "🔽「株オンラインサロン」9月期新規メンバー募集中！\nエンジョイプランは初参加の方初月無料です★\n→　https://yoor.jp/door/tradertomo\n\n※ 参加プラン別のサービス内容はこちらの動画で解説しています。\n→https://youtu.be/LtXywHzgOHs?si=G3UipVQW0JsWkv5t\n\n株好きが集まる楽しいサロンを目指してます♪\n初心者歓迎です～ご参加お待ちしています！\n\n\n---------------------------------------------\n🔽公式LINEやってます！ともだち登録お願いします☆\n---------------------------------------------\n\n「うねり取り株投資実践講義」（総時間147分）視聴可。\n→https://s.lmes.jp/landing-qr/1657820518-",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "米国の半導体株上昇を受け日経先物も底堅い動きを見せる中、明日からの相場に向けた注目銘柄のチャートや需給動向を分析しています。キオクシアやソフトバンクグループなどの大型株・半導体関連に強気の姿勢を示す一方、急騰後に急落したティアフォーなど自動運転関連のリバウンド狙いには難易度の高さを踏まえた慎重な対応を呼びかけています。",
-   "market_view": "米国相場で半導体株が買われたことで半導体セクターは力強い推移が期待されますが、相場全体としては小幅高程度にとどまり方向感を模索する展開です。",
-   "market": "JP",
-   "picks": [
-    {
-     "name": "キオクシア",
-     "name_en": "Kioxia Holdings Corporation",
-     "ticker": "285A",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "5万5000円上なら強気で狙う",
-     "target_price": "",
-     "entry": "5万5000円〜5万6000円",
-     "stop": "",
-     "reasons": [
-      "5万円付近のラインを固めており、融資残の減少など需給面での追い風も見られるため。",
-      "9月末に株式分割を控えており受給悪化への警戒は必要なものの足元は強い推移が期待できるため。"
-     ],
-     "timestamp": "02:37",
-     "confidence": "high"
-    },
-    {
-     "name": "アドバンテスト",
-     "name_en": "Advantest Corporation",
-     "ticker": "6857",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "需給良好で上値を狙う展開を期待",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "融資残の減少があり元々空売りが入っているため他の銘柄に比べて需給悪化が見られないため。",
-      "短期的な下落でしこりは増えたものの1週間かけて上値を目指していける可能性があるため。"
-     ],
-     "timestamp": "04:31",
-     "confidence": "medium"
-    },
-    {
-     "name": "イビデン",
-     "name_en": "IBIDEN CO., LTD.",
-     "ticker": "4062",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "2万円上抜けでの積極的な買いを検討",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "決算反応が良くここ数週間で2万円のラインを固めており保ち合いの上抜けが期待できるため。",
-      "出来高も高水準を保っており全体モメンタム次第で2万円抜けのブレイクが狙えるため。"
-     ],
-     "timestamp": "05:21",
-     "confidence": "medium"
-    },
-    {
-     "name": "古河電気工業",
-     "name_en": "Furukawa Electric Co., Ltd.",
-     "ticker": "5801",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "上値は重いがブレイクなら限定的に狙う",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "出来高は作れているものの3900円のラインが重くしこりも多く残っているため。",
-      "初速で3000万株規模の出来高を伴って4000円の上へ上抜けるかが焦点となるため。"
-     ],
-     "timestamp": "06:02",
-     "confidence": "medium"
-    },
-    {
-     "name": "ソフトバンクグループ",
-     "name_en": "SoftBank Group Corp.",
-     "ticker": "9984",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "出来高伴い6000円を目指す展開",
-     "target_price": "6000円",
-     "entry": "",
-     "stop": "5500円",
-     "reasons": [
-      "出来高が前日の倍近くに増えて売りをこなし5500円のラインを抜けてきたため。",
-      "出来高が継続していれば乗っかってみる価値があり目標は6000円ラインとなるため。"
-     ],
-     "timestamp": "06:58",
-     "confidence": "high"
-    },
-    {
-     "name": "三菱UFJフィナンシャル・グループ",
-     "name_en": "Mitsubishi UFJ Financial Group, Inc.",
-     "ticker": "8306",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "新高値更新からの急上昇に注目",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "安値を切り上げて出来高が増加傾向にあり信用改ざんも減少して需給が改善しているため。",
-      "前回7月の高値を抜けて新高値更新となれば一気に大陽線が出る可能性があるため。"
-     ],
-     "timestamp": "08:13",
-     "confidence": "medium"
-    },
-    {
-     "name": "テラドローン",
-     "name_en": "Terra Drone Corporation",
-     "ticker": "278A",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "2万1000円の上抜けイメージ",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "ドローン関連で唯一強く2万円ラインを上抜けて2万500円で節目を形成しているため。",
-      "板が薄く振れ幅が大きいため寄り付き直後ではなく大口の動きを確認してから狙いたいため。"
-     ],
-     "timestamp": "09:02",
-     "confidence": "medium"
-    },
-    {
-     "name": "全務テック",
-     "name_en": "",
-     "ticker": "",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "デイトレ限定の短期狙い",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "出来高が急増し安値を切り上げる陽線が出ているが上髭が長くデイトレ専用なため。",
-      "出来高が止まった瞬間に終わるリスクがあるためフットワーク軽い対応が必要なため。"
-     ],
-     "timestamp": "10:16",
-     "confidence": "low"
-    },
-    {
-     "name": "エブリー",
-     "name_en": "Every, Inc.",
-     "ticker": "5250",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "振り落とし後のリバウンド狙い",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "ストップ高まで買われたがPTSで下落しており振り落としからの上昇が狙えるため。",
-      "低株価かつ出来高が急増しておりギャンブル性は高いものの短期の妙味があるため。"
-     ],
-     "timestamp": "11:12",
-     "confidence": "low"
-    },
-    {
-     "name": "ティアフォー",
-     "name_en": "TIER IV, Inc.",
-     "ticker": "593A",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "2400円〜2500円付近でのリバ狙い",
-     "target_price": "",
-     "entry": "2400円〜2500円",
-     "stop": "",
-     "reasons": [
-      "ストップ安となったが捕まっている高値球の30パーセント損切りラインに当たるため。",
-      "2400円から2500円付近で損切りが一巡すれば短期的なリバウンドが狙えるため。"
-     ],
-     "timestamp": "12:24",
-     "confidence": "high"
-    },
-    {
-     "name": "ダイナミックマッププラットフォーム",
-     "name_en": "Dynamic Map Platform Co., Ltd.",
-     "ticker": "",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "下限ラインからの戻り狙い",
-     "target_price": "",
-     "entry": "1350円〜1400円台",
-     "stop": "",
-     "reasons": [
-      "ティアフォーと連動性があるが連動して下落する場合は1400円台等が下限となるため。",
-      "PTSは上昇しているが過信はできず半導体等に資金が向かわない場合の選択肢となるため。"
-     ],
-     "timestamp": "14:19",
-     "confidence": "medium"
     }
    ]
   },
