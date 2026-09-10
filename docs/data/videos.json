@@ -1,6 +1,104 @@
 {
- "generated_at": "2026-09-11T04:59:05.655173+09:00",
+ "generated_at": "2026-09-11T06:26:57.830438+09:00",
  "videos": [
+  {
+   "video_id": "jM65H3Vwum4",
+   "title": "海外投資家がついに日本株爆買い‼️日経平均月末急騰か⁉️AI半導体株高値掴み助かる❓任天堂急落。ドル円153円推移。金利急騰で米国株不安定。仮想通貨BTC下落",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-09-10T14:41:17+00:00",
+   "overview": "メジャーSQ前や米国CPI発表を控えて株式市場は荒い値動きが続いており、米国金利上昇やビックス指数の上昇が警戒されています。一方で海外投資家による日本株の買い越しなど、上昇に向けた条件も徐々に整いつつあり来週以降の相場好転が期待されます。個別銘柄では、新作発表後に急落した任天堂の需給改善と11月に向けた戻り歩調、半導体・ハイテク株の戻り売り圧力などが解説されています。",
+   "market_view": "メジャーSQ前の波乱や米国CPIを控え短期的には乱高下しやすいが、海外投資家の買越し等もあり来週以降の上昇基調への転換に期待がかかる。",
+   "market": "MIX",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "任天堂",
+     "ticker": "7974",
+     "stance": "bullish",
+     "timestamp": "14:22"
+    },
+    {
+     "name": "レーザーテック",
+     "ticker": "6920",
+     "stance": "bearish",
+     "timestamp": "07:51"
+    },
+    {
+     "name": "NVIDIA",
+     "ticker": "NVDA",
+     "stance": "bearish",
+     "timestamp": "34:16"
+    },
+    {
+     "name": "ソフトバンクグループ",
+     "ticker": "9984",
+     "stance": "bullish",
+     "timestamp": "53:48"
+    },
+    {
+     "name": "コナミグループ",
+     "ticker": "9766",
+     "stance": "neutral",
+     "timestamp": "54:46"
+    }
+   ]
+  },
+  {
+   "video_id": "hla1tOIb-0g",
+   "title": "【日経平均】 SQ通過と明日はCPI 目線は変わらず 現金比率は高めておけ 東京エレクトロン・ソフトバンクG・ファーストリテイリング・三井金属・東洋エンジニアリング",
+   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+   "channel_name": "Trader's Lab",
+   "channel_short": "TL",
+   "slot": 1,
+   "published": "2026-09-10T11:03:09+00:00",
+   "overview": "SQ通過およびCPI発表を控え、日経平均や米国株市場は上値が重く下抜けリスクを孕む神経質な展開が続いています。指数寄与度の高い東京エレクトロンやファーストリテイリングが軟調で、三井金属は下落トレンドへ転換するなど警戒が必要です。動画では全体として下落シナリオへの備えを優先し、現金比率を高める売買戦略を推奨しています。",
+   "market_view": "原油高や金利上昇に伴うインフレ警戒感もあり、全体として下抜けリスクが意識される警戒度の高い相場環境です。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "日経平均株価",
+     "ticker": "",
+     "stance": "bearish",
+     "timestamp": "01:58"
+    },
+    {
+     "name": "東京エレクトロン",
+     "ticker": "8035",
+     "stance": "bearish",
+     "timestamp": "24:48"
+    },
+    {
+     "name": "ソフトバンクグループ",
+     "ticker": "9984",
+     "stance": "neutral",
+     "timestamp": "26:26"
+    },
+    {
+     "name": "ファーストリテイリング",
+     "ticker": "9983",
+     "stance": "bearish",
+     "timestamp": "28:46"
+    },
+    {
+     "name": "三井金属",
+     "ticker": "5706",
+     "stance": "bearish",
+     "timestamp": "29:50"
+    },
+    {
+     "name": "東洋エンジニアリング",
+     "ticker": "6330",
+     "stance": "bullish",
+     "timestamp": "34:28"
+    }
+   ]
+  },
   {
    "video_id": "h9ypPPYaaIY",
    "title": "【緊急】日本株、円高加速で日経平均上値重い。AI半導体株大荒れ。キオクシア高値掴み助からない⁉ドル円153円に急落。米国株、ハイテク株急騰。仮想通貨BTC弱い",
@@ -94,40 +192,6 @@
    ]
   },
   {
-   "video_id": "9W60bSywLaA",
-   "title": "【緊急】日本株崩壊寸前か⁉円高加速で日経平均上値重い。AI半導体株大荒れ。キオクシア高値掴み助からない⁉ドル円153円に急落。米国株、ハイテク株急騰。仮想通貨BTC弱い",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-09-09T09:15:01+00:00",
-   "overview": "メジャーSQ週を迎える日経平均株価について、VIX指数のMACDゴールデンクロスなど下落サインの点灯や153円台までの円高進行による上値の重さを解説。2018年暴落時との信用需給の類似性を指摘しつつ、NS倍率の上昇や海外投資家の買越しといった上昇条件が揃うかどうかが焦点であると分析。半導体株に関しては高値掴みの信用買い残や年末の損益通算売りを背景に、戻り売り圧力が継続すると警戒を示しています。",
-   "market_view": "メジャーSQ週における地合いの荒れや急速な円高進行により日本株は上値の重い展開。ただしショートカバーの条件が整えば反転上昇の余地も残ります。",
-   "market": "MIX",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "日経平均株価",
-     "ticker": "N225",
-     "stance": "neutral",
-     "timestamp": "00:00"
-    },
-    {
-     "name": "東京エレクトロン",
-     "ticker": "8035",
-     "stance": "bearish",
-     "timestamp": "22:15"
-    },
-    {
-     "name": "キオクシア",
-     "ticker": "285A",
-     "stance": "bearish",
-     "timestamp": "24:43"
-    }
-   ]
-  },
-  {
    "video_id": "gupgrIYlKeA",
    "title": "電線御三家（フジクラ・古河電工・住友電工）株式テクニカルチャート分析",
    "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
@@ -158,58 +222,6 @@
      "ticker": "5802",
      "stance": "bearish",
      "timestamp": "08:18"
-    }
-   ]
-  },
-  {
-   "video_id": "CYFTkDu1Gcc",
-   "title": "【日経平均】 円高進行懸念 チャートが見れない人は相場のカモです サンディスク・キオクシア・太陽誘電・村田製作所・オンコリスバイオ・豊和工業",
-   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-   "channel_name": "Trader's Lab",
-   "channel_short": "TL",
-   "slot": 1,
-   "published": "2026-09-08T11:00:06+00:00",
-   "overview": "日経平均株価の急落と円高進行による相場への影響をテクニカル分析を交えて解説しています。戻り高値を超えない限り下落基調が続くため目先の反発に惑わされないよう注意を促しています。個別銘柄では強気な形状のサンディスクや高値更新中のオンコリスバイオ、豊和工業を取り上げる一方、軟調なキオクシアや円高が重荷となる太陽誘電・村田製作所には警戒感を示しています。",
-   "market_view": "日経平均は1000円超の急落となり、円高進行や移動平均線の抵抗から下げ基調が継続しており上値が重い展開です。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "サンディスク",
-     "ticker": "",
-     "stance": "bullish",
-     "timestamp": "22:07"
-    },
-    {
-     "name": "キオクシア",
-     "ticker": "285A",
-     "stance": "bearish",
-     "timestamp": "22:55"
-    },
-    {
-     "name": "太陽誘電",
-     "ticker": "6976",
-     "stance": "bearish",
-     "timestamp": "25:38"
-    },
-    {
-     "name": "村田製作所",
-     "ticker": "6981",
-     "stance": "bearish",
-     "timestamp": "28:39"
-    },
-    {
-     "name": "オンコリスバイオファーマ",
-     "ticker": "4588",
-     "stance": "bullish",
-     "timestamp": "30:09"
-    },
-    {
-     "name": "豊和工業",
-     "ticker": "6203",
-     "stance": "neutral",
-     "timestamp": "33:22"
     }
    ]
   },
