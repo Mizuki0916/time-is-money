@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-12T06:56:41.477517+09:00",
+ "generated_at": "2026-09-12T07:23:11.274783+09:00",
  "channels": [
   {
    "id": "UCsaeHha7ai_NNX8or8Jyb-g",
@@ -15,7 +15,7 @@
    "short": "TOMO",
    "slot": 2,
    "video_count": 2,
-   "latest": "2026-09-11T07:05:52+00:00"
+   "latest": "2026-09-11T22:00:06+00:00"
   },
   {
    "id": "UCK9Pl6bbWqMC_x7IDca2tIg",
@@ -112,27 +112,6 @@
      "timestamp": "26:26",
      "seconds": 1586,
      "confidence": "high"
-    },
-    {
-     "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-     "channel_name": "トレーダーTOMO",
-     "channel_short": "TOMO",
-     "slot": 2,
-     "video_id": "sWAgWY855c8",
-     "video_title": "今日の活況銘柄を見てみる！（ソフトバンクG・太陽誘電・キオクシア・フジクラ・村田製作所等）株式テクニカルチャート分析",
-     "published": "2026-09-10T07:11:16+00:00",
-     "stance": "neutral",
-     "stance_note": "6800円台を固め7000円を目指す展開を想定",
-     "target_price": "7000",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "メジャーSQを見据えた指数底上げの動きで無理くり買い戻されており6800円のラインで下げ渋る展開となった。(52文字)",
-      "6800円の節目が支持線として機能し始めており6600円を維持できれば7000円を目指す展開も十分狙える。(50文字)"
-     ],
-     "timestamp": "04:47",
-     "seconds": 287,
-     "confidence": "high"
     }
    ],
    "consensus": {
@@ -214,6 +193,133 @@
    }
   },
   {
+   "key": "IDX:^N225",
+   "name": "日経平均",
+   "name_en": "Nikkei 225",
+   "ticker": "N225",
+   "market": "JP",
+   "mentions": [
+    {
+     "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+     "channel_name": "トレーダーTOMO",
+     "channel_short": "TOMO",
+     "slot": 2,
+     "video_id": "YUt94g4cP-M",
+     "video_title": "原油が100ドルまで再上昇！日経との連動性に注目！今後のトレード戦略",
+     "published": "2026-09-11T22:00:06+00:00",
+     "stance": "neutral",
+     "stance_note": "原油との連動性を注視し持ち越し回避",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "日経225とブレント原油との逆相関・連動性が再び高まっており、原油の動きを見ながらのトレードが有効になっているため。",
+      "ネガティブな不確定要素が多い地合いのため、銘柄の安易な持ち越しは避けデイトレで決済を徹底する戦略が推奨されるため。"
+     ],
+     "timestamp": "00:00",
+     "seconds": 0,
+     "confidence": "high"
+    },
+    {
+     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+     "channel_name": "Trader's Lab",
+     "channel_short": "TL",
+     "slot": 1,
+     "video_id": "hla1tOIb-0g",
+     "video_title": "【日経平均】 SQ通過と明日はCPI 目線は変わらず 現金比率は高めておけ 東京エレクトロン・ソフトバンクG・ファーストリテイリング・三井金属・東洋エンジニアリング",
+     "published": "2026-09-10T11:03:09+00:00",
+     "stance": "bearish",
+     "stance_note": "下抜けリスクが高く現金比率を高めるべき",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "直近戻り高値を超えられないまま下値ラインに接近しており、6万3710円を割ると急落リスクが高まるため。(51字)",
+      "ボリンジャーバンドのマイナス1シグマを下回り三役逆転するなど、テクニカル面で悪化傾向が強まっているため。(50字)"
+     ],
+     "timestamp": "01:58",
+     "seconds": 118,
+     "confidence": "high"
+    }
+   ],
+   "consensus": {
+    "bullish": 0,
+    "bearish": 1,
+    "neutral": 1
+   },
+   "voices": 2,
+   "split": false,
+   "last_mentioned": "2026-09-11T22:00:06+00:00",
+   "channel_ids": [
+    "UCdQdRRLoajrt-5TEaAxslxA",
+    "UCsaeHha7ai_NNX8or8Jyb-g"
+   ],
+   "price": {
+    "date": "2026-09-10",
+    "close": 65270.95,
+    "change_pct": 0.2,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 153400000,
+    "volume_ratio": 0.97,
+    "rsi14": 47.1,
+    "rsi_zone": "中立",
+    "ma25": 66216.11,
+    "ma75": 66827.34,
+    "trend": "下降基調",
+    "pos52": 75,
+    "spark": [
+     68751.51,
+     66835.54,
+     64141.12,
+     66232.19,
+     66115.6,
+     66422.6,
+     64611.15,
+     64931.19,
+     62364.92,
+     61434.19,
+     61867.43,
+     64362.02,
+     63754.9,
+     63957.53,
+     66300.44,
+     65683.26,
+     65606.71,
+     66970.22,
+     67524.06,
+     68308.59,
+     68713.8,
+     69220.25,
+     67460.73,
+     65326.42,
+     66216.79,
+     66016.36,
+     65528.09,
+     65856.43,
+     66262.16,
+     66131.98,
+     66405.56,
+     66311.93,
+     66215.34,
+     64325.64,
+     64214.48,
+     65020.94,
+     66399.84,
+     65269.33,
+     65142.78,
+     65270.95
+    ],
+    "currency": "JPY",
+    "exchange_name": "Osaka",
+    "market_open": false,
+    "symbol": "^N225",
+    "source": "yahoo",
+    "fetched_at": "2026-09-11T16:56:10.091222+00:00"
+   }
+  },
+  {
    "key": "JP:285A",
    "name": "キオクシア",
    "name_en": "Kioxia Holdings",
@@ -260,27 +366,6 @@
      ],
      "timestamp": "07:05",
      "seconds": 425,
-     "confidence": "high"
-    },
-    {
-     "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-     "channel_name": "トレーダーTOMO",
-     "channel_short": "TOMO",
-     "slot": 2,
-     "video_id": "sWAgWY855c8",
-     "video_title": "今日の活況銘柄を見てみる！（ソフトバンクG・太陽誘電・キオクシア・フジクラ・村田製作所等）株式テクニカルチャート分析",
-     "published": "2026-09-10T07:11:16+00:00",
-     "stance": "bullish",
-     "stance_note": "5万8000円の上で6万円を目指す動きを想定",
-     "target_price": "60000",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "出来高をしっかりこなして要線で引け5万8000円の重要ラインを死守できたことで明日以降も攻めていける形となった。(53文字)",
-      "5万8000円の上を維持できれば第1目標の5万9000円から最終的に6万円の大台を目指す上昇展開が期待できる。(51文字)"
-     ],
-     "timestamp": "07:24",
-     "seconds": 444,
      "confidence": "high"
     }
    ],
@@ -683,27 +768,6 @@
      ],
      "timestamp": "12:58",
      "seconds": 778,
-     "confidence": "high"
-    },
-    {
-     "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-     "channel_name": "トレーダーTOMO",
-     "channel_short": "TOMO",
-     "slot": 2,
-     "video_id": "sWAgWY855c8",
-     "video_title": "今日の活況銘柄を見てみる！（ソフトバンクG・太陽誘電・キオクシア・フジクラ・村田製作所等）株式テクニカルチャート分析",
-     "published": "2026-09-10T07:11:16+00:00",
-     "stance": "neutral",
-     "stance_note": "ボラティリティが高くスイング不向き",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "ドローン関連として大幅高となったが値動きの幅が非常に大きくスイングトレードには向かない難易度の高い銘柄である。(51文字)",
-      "2400円ライン手前でパワーを溜める展開だがギャップによる急落リスクもあり短期的な値動きに注意が必要である。(50文字)"
-     ],
-     "timestamp": "10:14",
-     "seconds": 614,
      "confidence": "high"
     }
    ],
@@ -1399,27 +1463,6 @@
      "timestamp": "06:17",
      "seconds": 377,
      "confidence": "high"
-    },
-    {
-     "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-     "channel_name": "トレーダーTOMO",
-     "channel_short": "TOMO",
-     "slot": 2,
-     "video_id": "sWAgWY855c8",
-     "video_title": "今日の活況銘柄を見てみる！（ソフトバンクG・太陽誘電・キオクシア・フジクラ・村田製作所等）株式テクニカルチャート分析",
-     "published": "2026-09-10T07:11:16+00:00",
-     "stance": "bullish",
-     "stance_note": "短期的な状況改善から1万円復帰を目指す",
-     "target_price": "10000",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "チャート形状は反転に苦戦していたが足元の買い上がりにより短期的には状況が大きく改善し明日以降も注目できる。(51文字)",
-      "出来高を維持しながら大口の買いが入っており村田製作所と共に同セクターで買われ節目の1万円突破を目指す動きに期待。(55文字)"
-     ],
-     "timestamp": "06:04",
-     "seconds": 364,
-     "confidence": "high"
     }
    ],
    "consensus": {
@@ -1525,27 +1568,6 @@
      "timestamp": "08:02",
      "seconds": 482,
      "confidence": "medium"
-    },
-    {
-     "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-     "channel_name": "トレーダーTOMO",
-     "channel_short": "TOMO",
-     "slot": 2,
-     "video_id": "sWAgWY855c8",
-     "video_title": "今日の活況銘柄を見てみる！（ソフトバンクG・太陽誘電・キオクシア・フジクラ・村田製作所等）株式テクニカルチャート分析",
-     "published": "2026-09-10T07:11:16+00:00",
-     "stance": "neutral",
-     "stance_note": "上値に重さがあり太陽誘電に比べると慎重",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "後場から一気に買い戻されて上昇したものの上値には依然として戻り売り圧力やシコリが残っており進行は重たい。(50文字)",
-      "太陽誘電と比較して振り落としが少なく信用改ざんも多いため綺麗に上がりやすい一方で上値追いの勢いは劣る。(50文字)"
-     ],
-     "timestamp": "09:07",
-     "seconds": 547,
-     "confidence": "high"
     }
    ],
    "consensus": {
@@ -1651,27 +1673,6 @@
      "timestamp": "08:58",
      "seconds": 538,
      "confidence": "medium"
-    },
-    {
-     "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-     "channel_name": "トレーダーTOMO",
-     "channel_short": "TOMO",
-     "slot": 2,
-     "video_id": "sWAgWY855c8",
-     "video_title": "今日の活況銘柄を見てみる！（ソフトバンクG・太陽誘電・キオクシア・フジクラ・村田製作所等）株式テクニカルチャート分析",
-     "published": "2026-09-10T07:11:16+00:00",
-     "stance": "bearish",
-     "stance_note": "ギャップダウンの陰線でやり直しの展開",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "寄り付きでのギャップダウンから大陰線スタートとなり出来高の継続性にも疑問が残る苦しいチャート形状となった。(50文字)",
-      "重要なサポートである5500円ラインを下回ってしまい上値追いは厳しく下から仕切り直す必要がある局面にある。(50文字)"
-     ],
-     "timestamp": "08:25",
-     "seconds": 505,
-     "confidence": "high"
     }
    ],
    "consensus": {
@@ -1776,27 +1777,6 @@
      ],
      "timestamp": "10:18",
      "seconds": 618,
-     "confidence": "high"
-    },
-    {
-     "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-     "channel_name": "トレーダーTOMO",
-     "channel_short": "TOMO",
-     "slot": 2,
-     "video_id": "sWAgWY855c8",
-     "video_title": "今日の活況銘柄を見てみる！（ソフトバンクG・太陽誘電・キオクシア・フジクラ・村田製作所等）株式テクニカルチャート分析",
-     "published": "2026-09-10T07:11:16+00:00",
-     "stance": "neutral",
-     "stance_note": "4000円以上を維持も出来高減少で過度な期待厳禁",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "大幅なギャップダウンから下げ渋り重要水準である4000円ラインをキープできた点は評価できるが盛り上がりに欠ける。(53文字)",
-      "出来高が大きく減少しており出来高の細りが見られるため4000円超えの狙いは維持しつつも過度な期待は禁物である。(52文字)"
-     ],
-     "timestamp": "11:21",
-     "seconds": 681,
      "confidence": "high"
     }
    ],
@@ -2187,111 +2167,6 @@
     "exchange_name": "Tokyo",
     "market_open": false,
     "symbol": "9766.T",
-    "source": "yahoo",
-    "fetched_at": "2026-09-11T16:56:10.091222+00:00"
-   }
-  },
-  {
-   "key": "IDX:^N225",
-   "name": "日経平均",
-   "name_en": "Nikkei 225",
-   "ticker": "",
-   "market": "JP",
-   "mentions": [
-    {
-     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-     "channel_name": "Trader's Lab",
-     "channel_short": "TL",
-     "slot": 1,
-     "video_id": "hla1tOIb-0g",
-     "video_title": "【日経平均】 SQ通過と明日はCPI 目線は変わらず 現金比率は高めておけ 東京エレクトロン・ソフトバンクG・ファーストリテイリング・三井金属・東洋エンジニアリング",
-     "published": "2026-09-10T11:03:09+00:00",
-     "stance": "bearish",
-     "stance_note": "下抜けリスクが高く現金比率を高めるべき",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "直近戻り高値を超えられないまま下値ラインに接近しており、6万3710円を割ると急落リスクが高まるため。(51字)",
-      "ボリンジャーバンドのマイナス1シグマを下回り三役逆転するなど、テクニカル面で悪化傾向が強まっているため。(50字)"
-     ],
-     "timestamp": "01:58",
-     "seconds": 118,
-     "confidence": "high"
-    }
-   ],
-   "consensus": {
-    "bullish": 0,
-    "bearish": 1,
-    "neutral": 0
-   },
-   "voices": 1,
-   "split": false,
-   "last_mentioned": "2026-09-10T11:03:09+00:00",
-   "channel_ids": [
-    "UCsaeHha7ai_NNX8or8Jyb-g"
-   ],
-   "price": {
-    "date": "2026-09-10",
-    "close": 65270.95,
-    "change_pct": 0.2,
-    "live": null,
-    "live_change_pct": null,
-    "live_time": null,
-    "volume": 153400000,
-    "volume_ratio": 0.97,
-    "rsi14": 47.1,
-    "rsi_zone": "中立",
-    "ma25": 66216.11,
-    "ma75": 66827.34,
-    "trend": "下降基調",
-    "pos52": 75,
-    "spark": [
-     68751.51,
-     66835.54,
-     64141.12,
-     66232.19,
-     66115.6,
-     66422.6,
-     64611.15,
-     64931.19,
-     62364.92,
-     61434.19,
-     61867.43,
-     64362.02,
-     63754.9,
-     63957.53,
-     66300.44,
-     65683.26,
-     65606.71,
-     66970.22,
-     67524.06,
-     68308.59,
-     68713.8,
-     69220.25,
-     67460.73,
-     65326.42,
-     66216.79,
-     66016.36,
-     65528.09,
-     65856.43,
-     66262.16,
-     66131.98,
-     66405.56,
-     66311.93,
-     66215.34,
-     64325.64,
-     64214.48,
-     65020.94,
-     66399.84,
-     65269.33,
-     65142.78,
-     65270.95
-    ],
-    "currency": "JPY",
-    "exchange_name": "Osaka",
-    "market_open": false,
-    "symbol": "^N225",
     "source": "yahoo",
     "fetched_at": "2026-09-11T16:56:10.091222+00:00"
    }

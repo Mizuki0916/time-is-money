@@ -1,6 +1,28 @@
 {
- "generated_at": "2026-09-12T06:56:41.559336+09:00",
+ "generated_at": "2026-09-12T07:23:11.380682+09:00",
  "videos": [
+  {
+   "video_id": "YUt94g4cP-M",
+   "title": "原油が100ドルまで再上昇！日経との連動性に注目！今後のトレード戦略",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-09-11T22:00:06+00:00",
+   "overview": "日経225とブレント原油相場の逆相関関係や連動性が再び高まっている状況について解説しています。原油の動きを見ながらトレードを行うことの重要性を指摘しつつ、地合いにはネガティブな不確定要素が多く存在するため、安くなった銘柄であっても安易に持ち越さず、デイトレードでその日のうちに決済を完了させるリスク管理トレード戦略を推奨しています。",
+   "market_view": "ネガティブな不確定要素が多い状況であり、割安感のある銘柄があっても安易な持ち越しは避けリスク管理を徹底すべき地合い。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "日経平均株価",
+     "ticker": "N225",
+     "stance": "neutral",
+     "timestamp": "00:00"
+    }
+   ]
+  },
   {
    "video_id": "vo6dQUwAYIY",
    "title": "【CPI発表。日本株動くぞ‼】AI半導体株木端微塵で日経平均暴落続くか⁉キオクシア急落。ドル円154円推移。金利急騰で米国株不安定。仮想通貨BTC落",
@@ -258,64 +280,6 @@
      "ticker": "6330",
      "stance": "bullish",
      "timestamp": "34:28"
-    }
-   ]
-  },
-  {
-   "video_id": "sWAgWY855c8",
-   "title": "今日の活況銘柄を見てみる！（ソフトバンクG・太陽誘電・キオクシア・フジクラ・村田製作所等）株式テクニカルチャート分析",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-09-10T07:11:16+00:00",
-   "overview": "TSMCの好決算やメジャーSQを前に日経平均は3日ぶりに反発したものの、個別銘柄ごとに明暗が分かれる展開となりました。動画では活況を見せるソフトバンクグループ、太陽誘電、キオクシア、フジクラなどのテクニカルチャートを分析。節目を守ったキオクシアや短期的な改善が見られる太陽誘電に期待を示す一方、ギャップダウンしたフジクラやシコリの残る村田製作所には慎重な立ち回りを求めています。",
-   "market_view": "TSMCの売上高更新によりAI半導体需要の強さが確認されたものの、WTI原油価格が95ドル台で高止まりしており、株式市場全体へ幅広く資金が及ぶには不透明感が残る地合いです。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "ソフトバンクグループ",
-     "ticker": "9984",
-     "stance": "neutral",
-     "timestamp": "04:47"
-    },
-    {
-     "name": "太陽誘電",
-     "ticker": "6976",
-     "stance": "bullish",
-     "timestamp": "06:04"
-    },
-    {
-     "name": "キオクシア",
-     "ticker": "285A",
-     "stance": "bullish",
-     "timestamp": "07:24"
-    },
-    {
-     "name": "フジクラ",
-     "ticker": "5803",
-     "stance": "bearish",
-     "timestamp": "08:25"
-    },
-    {
-     "name": "村田製作所",
-     "ticker": "6981",
-     "stance": "neutral",
-     "timestamp": "09:07"
-    },
-    {
-     "name": "東亜工業",
-     "ticker": "6203",
-     "stance": "neutral",
-     "timestamp": "10:14"
-    },
-    {
-     "name": "古河電気工業",
-     "ticker": "5801",
-     "stance": "neutral",
-     "timestamp": "11:21"
     }
    ]
   },
