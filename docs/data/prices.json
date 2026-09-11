@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-11T19:56:39.527178+00:00",
+ "updated_at": "2026-09-11T20:22:34.406869+00:00",
  "symbols": {
   "JP:1111": {
    "date": "2026-08-17",
@@ -4154,22 +4154,21 @@
    "fetched_at": "2026-08-28T07:23:10.955805+00:00"
   },
   "US:NVDA": {
-   "date": "2026-09-10",
-   "close": 218.36,
-   "change_pct": -2.37,
-   "live": 218.72,
-   "live_change_pct": 0.16,
-   "live_time": 1789156604,
-   "volume": 105768000,
-   "volume_ratio": 0.85,
+   "date": "2026-09-11",
+   "close": 218.29,
+   "change_pct": -0.03,
+   "live": null,
+   "live_change_pct": null,
+   "live_time": null,
+   "volume": 85571151,
+   "volume_ratio": 0.69,
    "rsi14": 49.8,
    "rsi_zone": "中立",
-   "ma25": 220.49,
-   "ma75": 210.67,
+   "ma25": 220.47,
+   "ma75": 210.72,
    "trend": "調整中",
    "pos52": 75,
    "spark": [
-    207.4,
     202.81,
     203.28,
     207.29,
@@ -4208,14 +4207,15 @@
     230.36,
     225.73,
     223.67,
-    218.36
+    218.36,
+    218.29
    ],
    "currency": "USD",
    "exchange_name": "NasdaqGS",
-   "market_open": true,
+   "market_open": false,
    "symbol": "NVDA",
    "source": "yahoo",
-   "fetched_at": "2026-09-11T19:56:39.527178+00:00"
+   "fetched_at": "2026-09-11T20:22:34.406869+00:00"
   },
   "JP:593A": {
    "date": "2026-09-08",
