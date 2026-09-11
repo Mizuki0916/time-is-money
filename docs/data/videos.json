@@ -1,6 +1,104 @@
 {
- "generated_at": "2026-09-11T13:01:41.723277+09:00",
+ "generated_at": "2026-09-12T01:57:07.986406+09:00",
  "videos": [
+  {
+   "video_id": "vo6dQUwAYIY",
+   "title": "【CPI発表。日本株動くぞ‼】AI半導体株木端微塵で日経平均暴落続くか⁉キオクシア急落。ドル円154円推移。金利急騰で米国株不安定。仮想通貨BTC落",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-09-11T14:32:35+00:00",
+   "overview": "CPI発表を迎える中で日経平均が暴落し、キオクシアやアドバンテストなどのAI・半導体株が大幅安となった背景を解説。一方で円高一服による自動車関連や出遅れバリュー株、高配当株は買われており資産防衛に機能したと指摘。発表された米CPIは概ね予想の範囲内で無難に通過し米国金利やドル円(154円台)も織り込みが進んだ。9月配当落ち以降は需給の軽い銘柄と重い銘柄で年末に向けた二極化が顕著になると予想している。",
+   "market_view": "半導体・ハイテク株から出遅れバリュー株や高配当株への資金シフトが継続。配当落ち後から年末に向けて需給の軽い銘柄への二極化が加速すると見込んでいる。",
+   "market": "MIX",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "キオクシア",
+     "ticker": "285A",
+     "stance": "bearish",
+     "timestamp": "01:23"
+    },
+    {
+     "name": "アドバンテスト",
+     "ticker": "6857",
+     "stance": "bearish",
+     "timestamp": "05:07"
+    },
+    {
+     "name": "レーザーテック",
+     "ticker": "6920",
+     "stance": "bearish",
+     "timestamp": "05:43"
+    },
+    {
+     "name": "ルネサスエレクトロニクス",
+     "ticker": "6723",
+     "stance": "bearish",
+     "timestamp": "09:34"
+    },
+    {
+     "name": "東京エレクトロン",
+     "ticker": "8035",
+     "stance": "bearish",
+     "timestamp": "10:12"
+    },
+    {
+     "name": "任天堂",
+     "ticker": "7974",
+     "stance": "neutral",
+     "timestamp": "02:46"
+    }
+   ]
+  },
+  {
+   "video_id": "33RyRfnF-I8",
+   "title": "【日経平均】 ついに63700円下抜け 今夜のCPI、来週のFOMC 一段下げのリスク高まる 東京エレクトロン・アドバンテスト・テラドローン・豊和工業・三井金属",
+   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+   "channel_name": "Trader's Lab",
+   "channel_short": "TL",
+   "slot": 1,
+   "published": "2026-09-11T12:07:15+00:00",
+   "overview": "日経平均が6万3700円の直近安値を下抜けたことで下落トレンドが継続しており、CPIやFOMCなどの重要イベントを前に一段安のリスクが高まっていると分析しています。相場全体の悪化を受けて現金比率を高めるリスク管理を推奨しています。個別銘柄では過熱感がありつつも20年ぶり高値を更新した豊和工業や上昇トレンドのテラドローンに注目する一方、チャート形状が悪化している東京エレクトロンや三井金属には強い警戒感を示しています。",
+   "market_view": "日経平均は安値更新により下落トレンドが確定しており、イベント通過後も16倍PER水準である5万9000円〜6万円前後までの調整リスクを警戒すべき状況です。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "東京エレクトロン",
+     "ticker": "8035",
+     "stance": "bearish",
+     "timestamp": "25:33"
+    },
+    {
+     "name": "アドバンテスト",
+     "ticker": "6857",
+     "stance": "neutral",
+     "timestamp": "26:54"
+    },
+    {
+     "name": "豊和工業",
+     "ticker": "6203",
+     "stance": "bullish",
+     "timestamp": "27:36"
+    },
+    {
+     "name": "テラドローン",
+     "ticker": "278A",
+     "stance": "bullish",
+     "timestamp": "30:15"
+    },
+    {
+     "name": "三井金属",
+     "ticker": "5706",
+     "stance": "bearish",
+     "timestamp": "31:53"
+    }
+   ]
+  },
   {
    "video_id": "jM65H3Vwum4",
    "title": "海外投資家がついに日本株爆買い‼️日経平均月末急騰か⁉️AI半導体株高値掴み助かる❓任天堂急落。ドル円153円推移。金利急騰で米国株不安定。仮想通貨BTC下落",
@@ -96,98 +194,6 @@
      "ticker": "6330",
      "stance": "bullish",
      "timestamp": "34:28"
-    }
-   ]
-  },
-  {
-   "video_id": "h9ypPPYaaIY",
-   "title": "【緊急】日本株、円高加速で日経平均上値重い。AI半導体株大荒れ。キオクシア高値掴み助からない⁉ドル円153円に急落。米国株、ハイテク株急騰。仮想通貨BTC弱い",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-09-09T14:33:22+00:00",
-   "overview": "この動画では、円高の加速や米国ハイテク株の乱高下、メジャーSQを控えた日経平均の上値の重さについて解説されています。個別銘柄では、新作ゼルダの発表で期待が高まる任天堂やFF7最終章の発売スケジュールを意識するスクウェア・エニックスなどのゲーム関連株、アーム株高により強い上昇トレンドが続くソフトバンクグループ、高配当でPBR割安な住友林業などのチャート形状や受給状態を詳しく分析しています。",
-   "market_view": "メジャーSQを前に先物中心に乱高下しやすく、ドル円が153円台前半へ急落したことで日経平均は上値が重い展開となっています。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "任天堂",
-     "ticker": "7974",
-     "stance": "bullish",
-     "timestamp": "01:21"
-    },
-    {
-     "name": "シフト",
-     "ticker": "3697",
-     "stance": "neutral",
-     "timestamp": "04:09"
-    },
-    {
-     "name": "スクウェア・エニックス・ホールディングス",
-     "ticker": "9684",
-     "stance": "bullish",
-     "timestamp": "16:35"
-    },
-    {
-     "name": "ソフトバンクグループ",
-     "ticker": "9984",
-     "stance": "bullish",
-     "timestamp": "27:00"
-    },
-    {
-     "name": "住友林業",
-     "ticker": "1911",
-     "stance": "bullish",
-     "timestamp": "45:07"
-    }
-   ]
-  },
-  {
-   "video_id": "b6Q538dj2bA",
-   "title": "【日経平均】 日経平均 再び下抜け カウントダウン近いか サンディスク・キオクシア・太陽誘電・古河電気工業・オンコリスバイオ",
-   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-   "channel_name": "Trader's Lab",
-   "channel_short": "TL",
-   "slot": 1,
-   "published": "2026-09-09T12:01:28+00:00",
-   "overview": "日経平均をはじめとする主要指数は戻り売り優勢の下落基調にあり、直近の上昇は騙しの可能性があると解説しています。円高や原油高、米株の天井感も警戒される中で現金比率を高めるリスク管理を推奨しています。個別銘柄では地合いに左右されず新高値を更新するオンコリスバイオを評価する一方、古河電工や太陽誘電、キオクシアなどは上値の重さやレンジ推移を指摘しています。",
-   "market_view": "日経平均は6万6000円台の戻りが売られ下落基調が継続しており、主要サポート割れによるさらなる下落リスクに警戒が必要です。",
-   "market": "MIX",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "サンディスク",
-     "ticker": "SNDK",
-     "stance": "neutral",
-     "timestamp": "26:35"
-    },
-    {
-     "name": "キオクシア",
-     "ticker": "285A",
-     "stance": "neutral",
-     "timestamp": "27:35"
-    },
-    {
-     "name": "太陽誘電",
-     "ticker": "6976",
-     "stance": "bearish",
-     "timestamp": "29:10"
-    },
-    {
-     "name": "古河電気工業",
-     "ticker": "5801",
-     "stance": "neutral",
-     "timestamp": "30:45"
-    },
-    {
-     "name": "オンコリスバイオファーマ",
-     "ticker": "4588",
-     "stance": "bullish",
-     "timestamp": "33:10"
     }
    ]
   },
