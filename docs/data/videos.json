@@ -1,6 +1,28 @@
 {
- "generated_at": "2026-09-12T07:56:46.740855+09:00",
+ "generated_at": "2026-09-12T08:57:07.808418+09:00",
  "videos": [
+  {
+   "video_id": "MPoszd4N0zE",
+   "title": "大増配でも買いづらいエアトリ（6191）株式テクニカルチャート分析",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-09-11T23:30:39+00:00",
+   "overview": "エアトリ(6191)の大幅増配発表に伴う株価動向と投資判断について解説された動画です。今後3年間で総額100億円超の還元方針や今期160円への増配は目立つものの、3年後には配当が10円へ戻ることが明記されており長期保有には不向きと分析しています。配当落ちリスクや信用買い残の重さも考慮し、追撃買いは推奨しない慎重な見解が示されています。",
+   "market_view": "",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "エアトリ",
+     "ticker": "6191",
+     "stance": "bearish",
+     "timestamp": "00:02"
+    }
+   ]
+  },
   {
    "video_id": "YUt94g4cP-M",
    "title": "原油が100ドルまで再上昇！日経との連動性に注目！今後のトレード戦略",
@@ -118,70 +140,6 @@
      "ticker": "5706",
      "stance": "bearish",
      "timestamp": "31:53"
-    }
-   ]
-  },
-  {
-   "video_id": "w_4MhTF4tp8",
-   "title": "今日の活況銘柄を見てみる！（ソフトバンクG・太陽誘電・フジクラ・古河電工・キオクシア・豊和工業・パワーX等）株式テクニカルチャート分析",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-09-11T07:05:52+00:00",
-   "overview": "原油高や米金利上昇などマクロ環境の悪化に伴い相場の不透明感が増す中、持ち越しを控えてデイトレード主体で対応する重要性が解説されています。個別銘柄ではソフトバンクグループや太陽誘電、キオクシア、古河電工、パワーX、豊和工業などの活況銘柄について、チャート形状、出来高、信用需給を踏まえた週明けの売買戦略が具体的に提示されています。",
-   "market_view": "原油高や米金利上昇などのネガティブな不確定要素が多く警戒が必要な環境であり、安易な持ち越しは避けデイトレードに徹する立ち回りが推奨されます。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "ソフトバンクグループ",
-     "ticker": "9984",
-     "stance": "neutral",
-     "timestamp": "05:14"
-    },
-    {
-     "name": "太陽誘電",
-     "ticker": "6976",
-     "stance": "bullish",
-     "timestamp": "06:17"
-    },
-    {
-     "name": "キオクシア",
-     "ticker": "285A",
-     "stance": "bullish",
-     "timestamp": "07:05"
-    },
-    {
-     "name": "村田製作所",
-     "ticker": "6981",
-     "stance": "neutral",
-     "timestamp": "08:02"
-    },
-    {
-     "name": "フジクラ",
-     "ticker": "5803",
-     "stance": "neutral",
-     "timestamp": "08:58"
-    },
-    {
-     "name": "古河電気工業",
-     "ticker": "5801",
-     "stance": "bullish",
-     "timestamp": "10:18"
-    },
-    {
-     "name": "パワーX",
-     "ticker": "485A",
-     "stance": "bullish",
-     "timestamp": "11:26"
-    },
-    {
-     "name": "豊和工業",
-     "ticker": "6203",
-     "stance": "neutral",
-     "timestamp": "12:58"
     }
    ]
   },

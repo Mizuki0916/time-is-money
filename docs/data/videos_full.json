@@ -443,6 +443,41 @@
    ]
   },
   {
+   "video_id": "MPoszd4N0zE",
+   "title": "大増配でも買いづらいエアトリ（6191）株式テクニカルチャート分析",
+   "published": "2026-09-11T23:30:39+00:00",
+   "description": "🔽「株のオンラインサロン」やってます！\n→　https://yoor.jp/door/tradertomo\n\n※ 参加プラン別のサービス内容はこちらの動画で解説しています。\n→https://youtu.be/AGZetFvA-Xk?si=Qy_ctky7kW1QSOHX\n\n株好きが集まる楽しいサロンを目指してます♪\n初心者歓迎です～ご参加お待ちしています！\n\n🔽サブチャンネルもやってます＾＾\nhttps://www.youtube.com/@TOMO-subtrader\n\n---------------------------------------------\n🔽公式LINEやってます！ともだち登録お願いします☆\n---------------------------------------------\n\n「うねり取り株投資実践講義」（総時間147分）視聴可。\n→https://s.l",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "エアトリ(6191)の大幅増配発表に伴う株価動向と投資判断について解説された動画です。今後3年間で総額100億円超の還元方針や今期160円への増配は目立つものの、3年後には配当が10円へ戻ることが明記されており長期保有には不向きと分析しています。配当落ちリスクや信用買い残の重さも考慮し、追撃買いは推奨しない慎重な見解が示されています。",
+   "market_view": "",
+   "market": "JP",
+   "picks": [
+    {
+     "name": "エアトリ",
+     "name_en": "AirTrip Corp.",
+     "ticker": "6191",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "3年後の減配が確定しており配当目的の長期購入は非推奨",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "今後3年間は160円配当を維持する方針だが3年後に10円へ大幅減配する計画であり長期的な高配当株としては買えないため。",
+      "9月の一括配当後に大きな配当落ちが予想されるほか個人の信用買い残が多く機関投資家の売りにより上値が重くなりやすいため。",
+      "最終利益を超える配当支払い計画となっており本業の旅行事業も競争激化で今後の大幅な利益成長が期待しづらいため。"
+     ],
+     "timestamp": "00:02",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
    "video_id": "YUt94g4cP-M",
    "title": "原油が100ドルまで再上昇！日経との連動性に注目！今後のトレード戦略",
    "published": "2026-09-11T22:00:06+00:00",
@@ -472,159 +507,6 @@
       "ネガティブな不確定要素が多い地合いのため、銘柄の安易な持ち越しは避けデイトレで決済を徹底する戦略が推奨されるため。"
      ],
      "timestamp": "00:00",
-     "confidence": "high"
-    }
-   ]
-  },
-  {
-   "video_id": "w_4MhTF4tp8",
-   "title": "今日の活況銘柄を見てみる！（ソフトバンクG・太陽誘電・フジクラ・古河電工・キオクシア・豊和工業・パワーX等）株式テクニカルチャート分析",
-   "published": "2026-09-11T07:05:52+00:00",
-   "description": "🔽「株のオンラインサロン」やってます！\n→　https://yoor.jp/door/tradertomo\n\n※ 参加プラン別のサービス内容はこちらの動画で解説しています。\n→https://youtu.be/AGZetFvA-Xk?si=Qy_ctky7kW1QSOHX\n\n株好きが集まる楽しいサロンを目指してます♪\n初心者歓迎です～ご参加お待ちしています！\n\n🔽サブチャンネルもやってます＾＾\nhttps://www.youtube.com/@TOMO-subtrader\n\n---------------------------------------------\n🔽公式LINEやってます！ともだち登録お願いします☆\n---------------------------------------------\n\n「うねり取り株投資実践講義」（総時間147分）視聴可。\n→https://s.l",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "原油高や米金利上昇などマクロ環境の悪化に伴い相場の不透明感が増す中、持ち越しを控えてデイトレード主体で対応する重要性が解説されています。個別銘柄ではソフトバンクグループや太陽誘電、キオクシア、古河電工、パワーX、豊和工業などの活況銘柄について、チャート形状、出来高、信用需給を踏まえた週明けの売買戦略が具体的に提示されています。",
-   "market_view": "原油高や米金利上昇などのネガティブな不確定要素が多く警戒が必要な環境であり、安易な持ち越しは避けデイトレードに徹する立ち回りが推奨されます。",
-   "market": "JP",
-   "picks": [
-    {
-     "name": "ソフトバンクグループ",
-     "name_en": "SoftBank Group Corp.",
-     "ticker": "9984",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "6600円付近は重く戻りを警戒",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "6600円や6800円の抵抗線が効いており、上値を簡単に抜けていく展開は考えにくい状況である。",
-      "出来高が7000万株を維持していれば観察継続だが、時間をかけて6000円近辺まで戻るイメージを持つべき。"
-     ],
-     "timestamp": "05:14",
-     "confidence": "high"
-    },
-    {
-     "name": "太陽誘電",
-     "name_en": "Taiyo Yuden Co., Ltd.",
-     "ticker": "6976",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "安値拾いの動きを確認し週明け注視",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "ギャップダウンで始まったものの寄り付き後に売りをこなして陽線で引き、安値圏での拾われ方を確認できた。",
-      "出来高は3100万株と相変わらず活況を維持しており、週明け月曜日も注目度を高めて見ていきたい。"
-     ],
-     "timestamp": "06:17",
-     "confidence": "high"
-    },
-    {
-     "name": "キオクシア",
-     "name_en": "Kioxia Holdings Corporation",
-     "ticker": "285A",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "5万4000円上部での押し目を狙う",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "2000円や5万4000円のラインが機能しており、その前後の水準でしっかりと持ち合う動きが作られている。",
-      "月曜日に寄り付きで買い指値が厚くつくようであれば、5万4000円以上での狙いが有効である。"
-     ],
-     "timestamp": "07:05",
-     "confidence": "high"
-    },
-    {
-     "name": "村田製作所",
-     "name_en": "Murata Manufacturing Co., Ltd.",
-     "ticker": "6981",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "上値重くデイトレードでのみ対応",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "安値はしっかり拾われて良い足形となっているが、上部にはしこりが溜まっており上抜けは容易ではない。",
-      "地合いの下振れリスクがあるため持ち越しは避け、寄り付きから見極めて日中に決済する対応が推奨される。"
-     ],
-     "timestamp": "08:02",
-     "confidence": "medium"
-    },
-    {
-     "name": "フジクラ",
-     "name_en": "Fujikura Ltd.",
-     "ticker": "5803",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "5000円以上でしこり重く静観優先",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "5000円ラインの上で個人の信用買い残が増加しており、上値にしこりがかなり溜まっている展開である。",
-      "出来高も減少傾向にあり積極的にトレードする理由に乏しく、同業では古河電工の方を優先すべき。"
-     ],
-     "timestamp": "08:58",
-     "confidence": "medium"
-    },
-    {
-     "name": "古河電気工業",
-     "name_en": "Furukawa Electric Co., Ltd.",
-     "ticker": "5801",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "4000円以上で週明けトップピック",
-     "target_price": "4200円",
-     "entry": "4000円上部",
-     "stop": "",
-     "reasons": [
-      "地合い悪化の中でも下落率が1%程度に留まり、フジクラに比べチャート上での上抜けの可能性が残っている。",
-      "バークレイズによる空売りが解消されておりポジティブ要素として機能、4000円以上限定で狙う方針。"
-     ],
-     "timestamp": "10:18",
-     "confidence": "high"
-    },
-    {
-     "name": "パワーX",
-     "name_en": "PowerX, Inc.",
-     "ticker": "485A",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "資金循環で上昇、2150円台に注目",
-     "target_price": "",
-     "entry": "2150〜2200円",
-     "stop": "",
-     "reasons": [
-      "主力半導体銘柄の軟調さからグロース市場へ資金が流れ、出来高2200万株と十分な規模で買われている。",
-      "意識される2200円ライン付近で推移しており、月曜日も2150〜2200円を下値支持として狙える。"
-     ],
-     "timestamp": "11:26",
-     "confidence": "high"
-    },
-    {
-     "name": "豊和工業",
-     "name_en": "Howa Machinery, Ltd.",
-     "ticker": "6203",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "デイトレ限定、持ち越しリスク警戒",
-     "target_price": "3000円",
-     "entry": "2400円超え",
-     "stop": "",
-     "reasons": [
-      "寄り付きから圧倒的な出来高集中を見せ、2400円の節目ラインを突破したことでストップ高まで買われた。",
-      "テーマ性の持続力に懸念があり崩れる時は速いため、持ち越しはリスクが高くデイトレ限定の立ち回りが必要。"
-     ],
-     "timestamp": "12:58",
      "confidence": "high"
     }
    ]
