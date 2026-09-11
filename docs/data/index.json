@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-12T03:22:35.651848+09:00",
+ "generated_at": "2026-09-12T03:56:39.352583+09:00",
  "channels": [
   {
    "id": "UCsaeHha7ai_NNX8or8Jyb-g",
@@ -2025,9 +2025,9 @@
     "date": "2026-09-10",
     "close": 218.36,
     "change_pct": -2.37,
-    "live": 219.24,
-    "live_change_pct": 0.4,
-    "live_time": 1789150960,
+    "live": 219.5,
+    "live_change_pct": 0.52,
+    "live_time": 1789153003,
     "volume": 105482000,
     "volume_ratio": 0.85,
     "rsi14": 49.8,
@@ -2083,7 +2083,7 @@
     "market_open": true,
     "symbol": "NVDA",
     "source": "yahoo",
-    "fetched_at": "2026-09-11T18:22:35.684930+00:00"
+    "fetched_at": "2026-09-11T18:56:39.384671+00:00"
    }
   },
   {
