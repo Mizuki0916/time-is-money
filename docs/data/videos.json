@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-12T01:57:07.986406+09:00",
+ "generated_at": "2026-09-12T02:24:55.618422+09:00",
  "videos": [
   {
    "video_id": "vo6dQUwAYIY",
@@ -96,6 +96,70 @@
      "ticker": "5706",
      "stance": "bearish",
      "timestamp": "31:53"
+    }
+   ]
+  },
+  {
+   "video_id": "w_4MhTF4tp8",
+   "title": "今日の活況銘柄を見てみる！（ソフトバンクG・太陽誘電・フジクラ・古河電工・キオクシア・豊和工業・パワーX等）株式テクニカルチャート分析",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-09-11T07:05:52+00:00",
+   "overview": "原油高や米金利上昇などマクロ環境の悪化に伴い相場の不透明感が増す中、持ち越しを控えてデイトレード主体で対応する重要性が解説されています。個別銘柄ではソフトバンクグループや太陽誘電、キオクシア、古河電工、パワーX、豊和工業などの活況銘柄について、チャート形状、出来高、信用需給を踏まえた週明けの売買戦略が具体的に提示されています。",
+   "market_view": "原油高や米金利上昇などのネガティブな不確定要素が多く警戒が必要な環境であり、安易な持ち越しは避けデイトレードに徹する立ち回りが推奨されます。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "ソフトバンクグループ",
+     "ticker": "9984",
+     "stance": "neutral",
+     "timestamp": "05:14"
+    },
+    {
+     "name": "太陽誘電",
+     "ticker": "6976",
+     "stance": "bullish",
+     "timestamp": "06:17"
+    },
+    {
+     "name": "キオクシア",
+     "ticker": "285A",
+     "stance": "bullish",
+     "timestamp": "07:05"
+    },
+    {
+     "name": "村田製作所",
+     "ticker": "6981",
+     "stance": "neutral",
+     "timestamp": "08:02"
+    },
+    {
+     "name": "フジクラ",
+     "ticker": "5803",
+     "stance": "neutral",
+     "timestamp": "08:58"
+    },
+    {
+     "name": "古河電気工業",
+     "ticker": "5801",
+     "stance": "bullish",
+     "timestamp": "10:18"
+    },
+    {
+     "name": "パワーX",
+     "ticker": "485A",
+     "stance": "bullish",
+     "timestamp": "11:26"
+    },
+    {
+     "name": "豊和工業",
+     "ticker": "6203",
+     "stance": "neutral",
+     "timestamp": "12:58"
     }
    ]
   },
@@ -198,49 +262,15 @@
    ]
   },
   {
-   "video_id": "gupgrIYlKeA",
-   "title": "電線御三家（フジクラ・古河電工・住友電工）株式テクニカルチャート分析",
+   "video_id": "sWAgWY855c8",
+   "title": "今日の活況銘柄を見てみる！（ソフトバンクG・太陽誘電・キオクシア・フジクラ・村田製作所等）株式テクニカルチャート分析",
    "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
    "channel_name": "トレーダーTOMO",
    "channel_short": "TOMO",
    "slot": 2,
-   "published": "2026-09-09T06:56:06+00:00",
-   "overview": "米コーニングの材料発表をきっかけに急伸した日本の電線大手3社(フジクラ、古河電工、住友電工)のテクニカルチャートと需給動向を解説しています。足型の良さや上値の軽さから古河電工を最も有望な銘柄とし、フジクラを2番手として注視する一方、戻り売りのシコリが重い住友電工は見送る姿勢を示しています。",
-   "market_view": "原油高や円高の進行が警戒される中、後場は半導体株を中心に下落したものの、電線関連銘柄は前日の米国市場の流れを受けて最後まで堅調に推移しました。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "古河電気工業",
-     "ticker": "5801",
-     "stance": "bullish",
-     "timestamp": "06:10"
-    },
-    {
-     "name": "フジクラ",
-     "ticker": "5803",
-     "stance": "neutral",
-     "timestamp": "04:35"
-    },
-    {
-     "name": "住友電気工業",
-     "ticker": "5802",
-     "stance": "bearish",
-     "timestamp": "08:18"
-    }
-   ]
-  },
-  {
-   "video_id": "T3QeOwF1skg",
-   "title": "ソフトバンクG（9984）株式テクニカルチャート分析",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-09-08T07:00:22+00:00",
-   "overview": "中東情勢の緊迫化による原油高や円高進行の影響で日経平均は後場から大幅安となりました。そうした地合いの中で、円高の影響を受けづらくメジャーSQに向けた指数寄与度の高さからソフトバンクグループ(9984)が買われています。過去の重い信用改ざんによる売りをこなす急増した出来高を伴って上昇しており、短期的には7,000円抜けを狙える強い展開と分析しています。",
-   "market_view": "中東情勢の悪化や円高進行により日経平均は大幅安となりましたが、レンジ内の推移に留まっています。メジャーSQ週で上下変動が大きくなりやすいため警戒が必要です。",
+   "published": "2026-09-10T07:11:16+00:00",
+   "overview": "TSMCの好決算やメジャーSQを前に日経平均は3日ぶりに反発したものの、個別銘柄ごとに明暗が分かれる展開となりました。動画では活況を見せるソフトバンクグループ、太陽誘電、キオクシア、フジクラなどのテクニカルチャートを分析。節目を守ったキオクシアや短期的な改善が見られる太陽誘電に期待を示す一方、ギャップダウンしたフジクラやシコリの残る村田製作所には慎重な立ち回りを求めています。",
+   "market_view": "TSMCの売上高更新によりAI半導体需要の強さが確認されたものの、WTI原油価格が95ドル台で高止まりしており、株式市場全体へ幅広く資金が及ぶには不透明感が残る地合いです。",
    "market": "JP",
    "no_transcript": false,
    "skip_reason": "",
@@ -248,8 +278,44 @@
     {
      "name": "ソフトバンクグループ",
      "ticker": "9984",
+     "stance": "neutral",
+     "timestamp": "04:47"
+    },
+    {
+     "name": "太陽誘電",
+     "ticker": "6976",
      "stance": "bullish",
-     "timestamp": "04:55"
+     "timestamp": "06:04"
+    },
+    {
+     "name": "キオクシア",
+     "ticker": "285A",
+     "stance": "bullish",
+     "timestamp": "07:24"
+    },
+    {
+     "name": "フジクラ",
+     "ticker": "5803",
+     "stance": "bearish",
+     "timestamp": "08:25"
+    },
+    {
+     "name": "村田製作所",
+     "ticker": "6981",
+     "stance": "neutral",
+     "timestamp": "09:07"
+    },
+    {
+     "name": "東亜工業",
+     "ticker": "6203",
+     "stance": "neutral",
+     "timestamp": "10:14"
+    },
+    {
+     "name": "古河電気工業",
+     "ticker": "5801",
+     "stance": "neutral",
+     "timestamp": "11:21"
     }
    ]
   },
