@@ -1,6 +1,40 @@
 {
- "generated_at": "2026-09-12T11:56:40.330058+09:00",
+ "generated_at": "2026-09-12T12:57:17.753784+09:00",
  "videos": [
+  {
+   "video_id": "eNsVHFW4orc",
+   "title": "米CPI無事通過？FOMC・日銀会合見通し",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-09-12T02:00:22+00:00",
+   "overview": "8月の米CPIはコア前月比が上振れたものの利上げ織り込みの進展で米株は上昇し、半導体株の反発を受けて日経先物も上昇しました。来週はFOMCや日銀会合のほかシルバーウィークの連休を控えているため、慎重なポジション管理が推奨されています。相場全体を先導する銘柄の動きや新しい物色テーマの出現が今後の注目点です。",
+   "market_view": "イベント通過感や半導体株の自律反発が期待される一方、日銀会合や大型連休を控えて慎重なリスク管理が求められる相場環境です。",
+   "market": "MIX",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "ソフトバンクグループ",
+     "ticker": "9984",
+     "stance": "neutral",
+     "timestamp": "07:21"
+    },
+    {
+     "name": "アドバンテスト",
+     "ticker": "6857",
+     "stance": "neutral",
+     "timestamp": "07:21"
+    },
+    {
+     "name": "キオクシア",
+     "ticker": "285A",
+     "stance": "neutral",
+     "timestamp": "07:37"
+    }
+   ]
+  },
   {
    "video_id": "MPoszd4N0zE",
    "title": "大増配でも買いづらいエアトリ（6191）株式テクニカルチャート分析",
@@ -20,28 +54,6 @@
      "ticker": "6191",
      "stance": "bearish",
      "timestamp": "00:02"
-    }
-   ]
-  },
-  {
-   "video_id": "YUt94g4cP-M",
-   "title": "原油が100ドルまで再上昇！日経との連動性に注目！今後のトレード戦略",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-09-11T22:00:06+00:00",
-   "overview": "日経225とブレント原油相場の逆相関関係や連動性が再び高まっている状況について解説しています。原油の動きを見ながらトレードを行うことの重要性を指摘しつつ、地合いにはネガティブな不確定要素が多く存在するため、安くなった銘柄であっても安易に持ち越さず、デイトレードでその日のうちに決済を完了させるリスク管理トレード戦略を推奨しています。",
-   "market_view": "ネガティブな不確定要素が多い状況であり、割安感のある銘柄があっても安易な持ち越しは避けリスク管理を徹底すべき地合い。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "日経平均株価",
-     "ticker": "N225",
-     "stance": "neutral",
-     "timestamp": "00:00"
     }
    ]
   },

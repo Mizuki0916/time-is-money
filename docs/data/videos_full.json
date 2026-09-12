@@ -443,6 +443,71 @@
    ]
   },
   {
+   "video_id": "eNsVHFW4orc",
+   "title": "米CPI無事通過？FOMC・日銀会合見通し",
+   "published": "2026-09-12T02:00:22+00:00",
+   "description": "🔽「株のオンラインサロン」やってます！\n→　https://yoor.jp/door/tradertomo\n\n※ 参加プラン別のサービス内容はこちらの動画で解説しています。\n→https://youtu.be/AGZetFvA-Xk?si=Qy_ctky7kW1QSOHX\n\n株好きが集まる楽しいサロンを目指してます♪\n初心者歓迎です～ご参加お待ちしています！\n\n🔽サブチャンネルもやってます＾＾\nhttps://www.youtube.com/@TOMO-subtrader\n\n---------------------------------------------\n🔽公式LINEやってます！ともだち登録お願いします☆\n---------------------------------------------\n\n「うねり取り株投資実践講義」（総時間147分）視聴可。\n→https://s.l",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "8月の米CPIはコア前月比が上振れたものの利上げ織り込みの進展で米株は上昇し、半導体株の反発を受けて日経先物も上昇しました。来週はFOMCや日銀会合のほかシルバーウィークの連休を控えているため、慎重なポジション管理が推奨されています。相場全体を先導する銘柄の動きや新しい物色テーマの出現が今後の注目点です。",
+   "market_view": "イベント通過感や半導体株の自律反発が期待される一方、日銀会合や大型連休を控えて慎重なリスク管理が求められる相場環境です。",
+   "market": "MIX",
+   "picks": [
+    {
+     "name": "ソフトバンクグループ",
+     "name_en": "SoftBank Group Corp.",
+     "ticker": "9984",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "寄与度が高く日経平均を牽引できるか注目",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "日経平均への寄与度が高い主要銘柄であり、相場全体を牽引していけるのかどうかが今後の展開を見るうえで重要視されている。"
+     ],
+     "timestamp": "07:21",
+     "confidence": "low"
+    },
+    {
+     "name": "アドバンテスト",
+     "name_en": "Advantest Corporation",
+     "ticker": "6857",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "日経平均を引っ張っていけるかがポイント",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "指数寄与度が高く、売られすぎた半導体関連の自律反発とともに全体相場を引っ張っていけるかどうかがポイントとされている。"
+     ],
+     "timestamp": "07:21",
+     "confidence": "low"
+    },
+    {
+     "name": "キオクシア",
+     "name_en": "Kioxia Holdings Corporation",
+     "ticker": "285A",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "売買代金の多さから相場を先導できるか注視",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "売買代金が多く市場の関心が高い銘柄であり、相場全体を先導していく役割を果たせるかどうかが注視されている。"
+     ],
+     "timestamp": "07:37",
+     "confidence": "low"
+    }
+   ]
+  },
+  {
    "video_id": "MPoszd4N0zE",
    "title": "大増配でも買いづらいエアトリ（6191）株式テクニカルチャート分析",
    "published": "2026-09-11T23:30:39+00:00",
@@ -473,40 +538,6 @@
       "最終利益を超える配当支払い計画となっており本業の旅行事業も競争激化で今後の大幅な利益成長が期待しづらいため。"
      ],
      "timestamp": "00:02",
-     "confidence": "high"
-    }
-   ]
-  },
-  {
-   "video_id": "YUt94g4cP-M",
-   "title": "原油が100ドルまで再上昇！日経との連動性に注目！今後のトレード戦略",
-   "published": "2026-09-11T22:00:06+00:00",
-   "description": "🔽「株のオンラインサロン」やってます！\n→　https://yoor.jp/door/tradertomo\n\n※ 参加プラン別のサービス内容はこちらの動画で解説しています。\n→https://youtu.be/AGZetFvA-Xk?si=Qy_ctky7kW1QSOHX\n\n株好きが集まる楽しいサロンを目指してます♪\n初心者歓迎です～ご参加お待ちしています！\n\n🔽サブチャンネルもやってます＾＾\nhttps://www.youtube.com/@TOMO-subtrader\n\n---------------------------------------------\n🔽公式LINEやってます！ともだち登録お願いします☆\n---------------------------------------------\n\n「うねり取り株投資実践講義」（総時間147分）視聴可。\n→https://s.l",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "日経225とブレント原油相場の逆相関関係や連動性が再び高まっている状況について解説しています。原油の動きを見ながらトレードを行うことの重要性を指摘しつつ、地合いにはネガティブな不確定要素が多く存在するため、安くなった銘柄であっても安易に持ち越さず、デイトレードでその日のうちに決済を完了させるリスク管理トレード戦略を推奨しています。",
-   "market_view": "ネガティブな不確定要素が多い状況であり、割安感のある銘柄があっても安易な持ち越しは避けリスク管理を徹底すべき地合い。",
-   "market": "JP",
-   "picks": [
-    {
-     "name": "日経平均株価",
-     "name_en": "Nikkei 225",
-     "ticker": "N225",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "原油との連動性を注視し持ち越し回避",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "日経225とブレント原油との逆相関・連動性が再び高まっており、原油の動きを見ながらのトレードが有効になっているため。",
-      "ネガティブな不確定要素が多い地合いのため、銘柄の安易な持ち越しは避けデイトレで決済を徹底する戦略が推奨されるため。"
-     ],
-     "timestamp": "00:00",
      "confidence": "high"
     }
    ]
