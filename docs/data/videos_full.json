@@ -407,6 +407,159 @@
    ]
   },
   {
+   "video_id": "L3C4Bkh47ro",
+   "title": "明日注目の銘柄を見ていく！（ソフトバンクG・太陽誘電・キオクシア・豊和工業・任天堂等）株式テクニカルチャート分析",
+   "published": "2026-09-12T23:00:29+00:00",
+   "description": "🔽「株のオンラインサロン」やってます！\n→　https://yoor.jp/door/tradertomo\n\n※ 参加プラン別のサービス内容はこちらの動画で解説しています。\n→https://youtu.be/AGZetFvA-Xk?si=Qy_ctky7kW1QSOHX\n\n株好きが集まる楽しいサロンを目指してます♪\n初心者歓迎です～ご参加お待ちしています！\n\n🔽サブチャンネルもやってます＾＾\nhttps://www.youtube.com/@TOMO-subtrader\n\n---------------------------------------------\n🔽公式LINEやってます！ともだち登録お願いします☆\n---------------------------------------------\n\n「うねり取り株投資実践講義」（総時間147分）視聴可。\n→https://s.l",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "原油価格の急変動やFOMC・日銀会合といった重要イベントを控える難解な地合いの中で、監視すべき注目銘柄とテクニカル分析が解説されています。半導体や電子部品の主力株から、原油高関連、ドローンテーマ、決算後のリバウンド狙いまで幅広く取り上げ、上値の重い銘柄が多い中で出来高や節目のラインを見極めた丁寧な取引の必要性を提示しています。",
+   "market_view": "原油価格の影響でネガティブな反応もあるが、米国株の堅調さや半導体指数の上昇を受けて日経平均はギャップアップ始動の可能性がある。ただし主要イベントを控え買い上がりは限られるため、半身の姿勢で出来高を伴う銘柄を攻めることが推奨されている。",
+   "market": "JP",
+   "picks": [
+    {
+     "name": "太陽誘電",
+     "name_en": "Taiyo Yuden Co., Ltd.",
+     "ticker": "6976",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "調整後も高い出来高を維持し節目からの再上昇を狙う",
+     "target_price": "",
+     "entry": "9200円あたりの固めたラインを中心にエントリー",
+     "stop": "",
+     "reasons": [
+      "大幅な調整後も参加者が減らず高い出来高と市場注目度を維持している。",
+      "9200円付近でラインを固めており9600円や大台に向けた上昇勢いが期待できる。"
+     ],
+     "timestamp": "02:35",
+     "confidence": "high"
+    },
+    {
+     "name": "キオクシア",
+     "name_en": "Kioxia Holdings Corporation",
+     "ticker": "285A",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "5万4000円ラインを節目に上値追いを狙う",
+     "target_price": "",
+     "entry": "5万4000円の支持確認や1000円刻みの節目ライン",
+     "stop": "",
+     "reasons": [
+      "大幅ギャップダウンから5万4000円ラインを回復して引けており底固さが見られる。",
+      "下髭などで節目をしっかり確認できれば、上値を目指してエントリー可能と分析。"
+     ],
+     "timestamp": "03:52",
+     "confidence": "high"
+    },
+    {
+     "name": "ソフトバンクグループ",
+     "name_en": "SoftBank Group Corp.",
+     "ticker": "9984",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "安値買いはあるが戻り売りが予想され判断保留",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "ギャップダウンから陽線で売りをこなしているが直近で捕まっている玉が存在する。",
+      "6800円や7000円の節目を抜けるまでは上値が重く、1日様子見も選択肢となる。"
+     ],
+     "timestamp": "04:58",
+     "confidence": "medium"
+    },
+    {
+     "name": "INPEX",
+     "name_en": "INPEX CORPORATION",
+     "ticker": "1605",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "原油高の恩恵を受けやすく3900円からのリバ狙い",
+     "target_price": "",
+     "entry": "3900円〜4000円のリバウンドまたは4000円超え",
+     "stop": "",
+     "reasons": [
+      "原油高の恩恵を直接享受できる数少ない銘柄であり高い出来高を維持している。",
+      "3900円のラインが堅く見え、原油価格の再上昇があれば上値を目指せる展開。"
+     ],
+     "timestamp": "06:45",
+     "confidence": "medium"
+    },
+    {
+     "name": "テラドローン",
+     "name_en": "Terra Drone Corporation",
+     "ticker": "188A",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "大口の関心はあるが直近決算跨ぎは危険回避",
+     "target_price": "",
+     "entry": "2万1000円の上",
+     "stop": "",
+     "reasons": [
+      "2分割前で2万1000円に引けさせるなど大口の監視がしっかりと入っている。",
+      "直近で決算発表を控えており跨ぎのリスクが高いためデイトレ主体が望ましい。"
+     ],
+     "timestamp": "07:27",
+     "confidence": "medium"
+    },
+    {
+     "name": "豊和工業",
+     "name_en": "Howa Machinery, Ltd.",
+     "ticker": "6203",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "ストップ高で急騰もやりすぎ感と崩れに警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "ドローン関連としてストップ高張り付きとなったが急騰に過熱感が出ている。",
+      "大口の売りが入ると特別売り気配などで急落する危険があるため警戒が必要。"
+     ],
+     "timestamp": "08:14",
+     "confidence": "medium"
+    },
+    {
+     "name": "任天堂",
+     "name_en": "Nintendo Co., Ltd.",
+     "ticker": "7974",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "8000円を軸に8400円の窓埋めを目指すリバ狙い",
+     "target_price": "8400円",
+     "entry": "8000円ラインを背にしたエントリー",
+     "stop": "",
+     "reasons": [
+      "直近で売られているものの8000円のラインで底固めを行っている。",
+      "8400円付近まで窓が空いており、リバウンド狙いのトレードがやりやすい。"
+     ],
+     "timestamp": "09:28",
+     "confidence": "medium"
+    },
+    {
+     "name": "タイミー",
+     "name_en": "Timee, Inc.",
+     "ticker": "215A",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "業績期待の戻り余地はあるが新高値抜けの確認が必要",
+     "target_price": "",
+     "entry": "直近高値を上抜けていくタイミング",
+     "stop": "",
+     "reasons": [
+      "決算で下落したものの長期アルバイト採用などの新プラン展開で中長期的な期待はある。",
+      "直近足型が悪く売り圧力が残るため高値をしっかり抜けてからの狙いが安全。"
+     ],
+     "timestamp": "09:59",
+     "confidence": "medium"
+    }
+   ]
+  },
+  {
    "video_id": "eNsVHFW4orc",
    "title": "米CPI無事通過？FOMC・日銀会合見通し",
    "published": "2026-09-12T02:00:22+00:00",
@@ -468,41 +621,6 @@
      ],
      "timestamp": "07:37",
      "confidence": "low"
-    }
-   ]
-  },
-  {
-   "video_id": "MPoszd4N0zE",
-   "title": "大増配でも買いづらいエアトリ（6191）株式テクニカルチャート分析",
-   "published": "2026-09-11T23:30:39+00:00",
-   "description": "🔽「株のオンラインサロン」やってます！\n→　https://yoor.jp/door/tradertomo\n\n※ 参加プラン別のサービス内容はこちらの動画で解説しています。\n→https://youtu.be/AGZetFvA-Xk?si=Qy_ctky7kW1QSOHX\n\n株好きが集まる楽しいサロンを目指してます♪\n初心者歓迎です～ご参加お待ちしています！\n\n🔽サブチャンネルもやってます＾＾\nhttps://www.youtube.com/@TOMO-subtrader\n\n---------------------------------------------\n🔽公式LINEやってます！ともだち登録お願いします☆\n---------------------------------------------\n\n「うねり取り株投資実践講義」（総時間147分）視聴可。\n→https://s.l",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "エアトリ(6191)の大幅増配発表に伴う株価動向と投資判断について解説された動画です。今後3年間で総額100億円超の還元方針や今期160円への増配は目立つものの、3年後には配当が10円へ戻ることが明記されており長期保有には不向きと分析しています。配当落ちリスクや信用買い残の重さも考慮し、追撃買いは推奨しない慎重な見解が示されています。",
-   "market_view": "",
-   "market": "JP",
-   "picks": [
-    {
-     "name": "エアトリ",
-     "name_en": "AirTrip Corp.",
-     "ticker": "6191",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "3年後の減配が確定しており配当目的の長期購入は非推奨",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "今後3年間は160円配当を維持する方針だが3年後に10円へ大幅減配する計画であり長期的な高配当株としては買えないため。",
-      "9月の一括配当後に大きな配当落ちが予想されるほか個人の信用買い残が多く機関投資家の売りにより上値が重くなりやすいため。",
-      "最終利益を超える配当支払い計画となっており本業の旅行事業も競争激化で今後の大幅な利益成長が期待しづらいため。"
-     ],
-     "timestamp": "00:02",
-     "confidence": "high"
     }
    ]
   },

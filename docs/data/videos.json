@@ -1,6 +1,70 @@
 {
- "generated_at": "2026-09-13T07:05:06.453857+09:00",
+ "generated_at": "2026-09-13T08:05:50.675775+09:00",
  "videos": [
+  {
+   "video_id": "L3C4Bkh47ro",
+   "title": "明日注目の銘柄を見ていく！（ソフトバンクG・太陽誘電・キオクシア・豊和工業・任天堂等）株式テクニカルチャート分析",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-09-12T23:00:29+00:00",
+   "overview": "原油価格の急変動やFOMC・日銀会合といった重要イベントを控える難解な地合いの中で、監視すべき注目銘柄とテクニカル分析が解説されています。半導体や電子部品の主力株から、原油高関連、ドローンテーマ、決算後のリバウンド狙いまで幅広く取り上げ、上値の重い銘柄が多い中で出来高や節目のラインを見極めた丁寧な取引の必要性を提示しています。",
+   "market_view": "原油価格の影響でネガティブな反応もあるが、米国株の堅調さや半導体指数の上昇を受けて日経平均はギャップアップ始動の可能性がある。ただし主要イベントを控え買い上がりは限られるため、半身の姿勢で出来高を伴う銘柄を攻めることが推奨されている。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "太陽誘電",
+     "ticker": "6976",
+     "stance": "bullish",
+     "timestamp": "02:35"
+    },
+    {
+     "name": "キオクシア",
+     "ticker": "285A",
+     "stance": "bullish",
+     "timestamp": "03:52"
+    },
+    {
+     "name": "ソフトバンクグループ",
+     "ticker": "9984",
+     "stance": "neutral",
+     "timestamp": "04:58"
+    },
+    {
+     "name": "INPEX",
+     "ticker": "1605",
+     "stance": "bullish",
+     "timestamp": "06:45"
+    },
+    {
+     "name": "テラドローン",
+     "ticker": "188A",
+     "stance": "neutral",
+     "timestamp": "07:27"
+    },
+    {
+     "name": "豊和工業",
+     "ticker": "6203",
+     "stance": "bearish",
+     "timestamp": "08:14"
+    },
+    {
+     "name": "任天堂",
+     "ticker": "7974",
+     "stance": "bullish",
+     "timestamp": "09:28"
+    },
+    {
+     "name": "タイミー",
+     "ticker": "215A",
+     "stance": "neutral",
+     "timestamp": "09:59"
+    }
+   ]
+  },
   {
    "video_id": "gf2JhUqx2Es",
    "title": "【日本株今年最後の大チャンス来るか‼】CPI通貨で日経平均急騰。AI半導体株助かるか⁉TOPIXシフト加速？金利急騰でドル円１５３円、米国株、ナスダック、ハイテク株上昇。仮想通貨弱い。",
@@ -66,28 +130,6 @@
      "ticker": "285A",
      "stance": "neutral",
      "timestamp": "07:37"
-    }
-   ]
-  },
-  {
-   "video_id": "MPoszd4N0zE",
-   "title": "大増配でも買いづらいエアトリ（6191）株式テクニカルチャート分析",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-09-11T23:30:39+00:00",
-   "overview": "エアトリ(6191)の大幅増配発表に伴う株価動向と投資判断について解説された動画です。今後3年間で総額100億円超の還元方針や今期160円への増配は目立つものの、3年後には配当が10円へ戻ることが明記されており長期保有には不向きと分析しています。配当落ちリスクや信用買い残の重さも考慮し、追撃買いは推奨しない慎重な見解が示されています。",
-   "market_view": "",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "エアトリ",
-     "ticker": "6191",
-     "stance": "bearish",
-     "timestamp": "00:02"
     }
    ]
   },
