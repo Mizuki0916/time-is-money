@@ -1,6 +1,40 @@
 {
- "generated_at": "2026-09-12T12:57:17.753784+09:00",
+ "generated_at": "2026-09-12T13:58:06.091209+09:00",
  "videos": [
+  {
+   "video_id": "gf2JhUqx2Es",
+   "title": "【日本株今年最後の大チャンス来るか‼】CPI通貨で日経平均急騰。AI半導体株助かるか⁉TOPIXシフト加速？金利急騰でドル円１５３円、米国株、ナスダック、ハイテク株上昇。仮想通貨弱い。",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-09-12T04:00:02+00:00",
+   "overview": "CPI発表の通過を受けて日経先物が上昇し、9月末に向けた日本株の反発が期待される一方、半導体株やハイテク株は信用買い残の期日売りや米国利上げ懸念により年末にかけて戻り売りが優勢になると分析。2018年相場との類似点を挙げ、今後は需給の軽い高配当株やバリュー株、出遅れ銘柄へ資金がシフトする二極化が進むと予想している。",
+   "market_view": "9月末に向けた一時的な反発を想定するが、半導体株の需給悪化と米国金利急騰により銘柄選別が進み、二極化相場が強まると見込む。",
+   "market": "MIX",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "東京エレクトロン",
+     "ticker": "8035",
+     "stance": "bearish",
+     "timestamp": "21:49"
+    },
+    {
+     "name": "キオクシアホールディングス",
+     "ticker": "285A",
+     "stance": "bearish",
+     "timestamp": "33:20"
+    },
+    {
+     "name": "オラクル",
+     "ticker": "ORCL",
+     "stance": "bearish",
+     "timestamp": "37:46"
+    }
+   ]
+  },
   {
    "video_id": "eNsVHFW4orc",
    "title": "米CPI無事通過？FOMC・日銀会合見通し",
@@ -152,52 +186,6 @@
      "ticker": "5706",
      "stance": "bearish",
      "timestamp": "31:53"
-    }
-   ]
-  },
-  {
-   "video_id": "jM65H3Vwum4",
-   "title": "海外投資家がついに日本株爆買い‼️日経平均月末急騰か⁉️AI半導体株高値掴み助かる❓任天堂急落。ドル円153円推移。金利急騰で米国株不安定。仮想通貨BTC下落",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-09-10T14:41:17+00:00",
-   "overview": "メジャーSQ前や米国CPI発表を控えて株式市場は荒い値動きが続いており、米国金利上昇やビックス指数の上昇が警戒されています。一方で海外投資家による日本株の買い越しなど、上昇に向けた条件も徐々に整いつつあり来週以降の相場好転が期待されます。個別銘柄では、新作発表後に急落した任天堂の需給改善と11月に向けた戻り歩調、半導体・ハイテク株の戻り売り圧力などが解説されています。",
-   "market_view": "メジャーSQ前の波乱や米国CPIを控え短期的には乱高下しやすいが、海外投資家の買越し等もあり来週以降の上昇基調への転換に期待がかかる。",
-   "market": "MIX",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "任天堂",
-     "ticker": "7974",
-     "stance": "bullish",
-     "timestamp": "14:22"
-    },
-    {
-     "name": "レーザーテック",
-     "ticker": "6920",
-     "stance": "bearish",
-     "timestamp": "07:51"
-    },
-    {
-     "name": "NVIDIA",
-     "ticker": "NVDA",
-     "stance": "bearish",
-     "timestamp": "34:16"
-    },
-    {
-     "name": "ソフトバンクグループ",
-     "ticker": "9984",
-     "stance": "bullish",
-     "timestamp": "53:48"
-    },
-    {
-     "name": "コナミグループ",
-     "ticker": "9766",
-     "stance": "neutral",
-     "timestamp": "54:46"
     }
    ]
   },

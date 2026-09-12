@@ -1,6 +1,72 @@
 {
  "videos": [
   {
+   "video_id": "gf2JhUqx2Es",
+   "title": "【日本株今年最後の大チャンス来るか‼】CPI通貨で日経平均急騰。AI半導体株助かるか⁉TOPIXシフト加速？金利急騰でドル円１５３円、米国株、ナスダック、ハイテク株上昇。仮想通貨弱い。",
+   "published": "2026-09-12T04:00:02+00:00",
+   "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "CPI発表の通過を受けて日経先物が上昇し、9月末に向けた日本株の反発が期待される一方、半導体株やハイテク株は信用買い残の期日売りや米国利上げ懸念により年末にかけて戻り売りが優勢になると分析。2018年相場との類似点を挙げ、今後は需給の軽い高配当株やバリュー株、出遅れ銘柄へ資金がシフトする二極化が進むと予想している。",
+   "market_view": "9月末に向けた一時的な反発を想定するが、半導体株の需給悪化と米国金利急騰により銘柄選別が進み、二極化相場が強まると見込む。",
+   "market": "MIX",
+   "picks": [
+    {
+     "name": "東京エレクトロン",
+     "name_en": "Tokyo Electron Limited",
+     "ticker": "8035",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "信用高値掴みの期日売りで戻り売り優勢",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "6〜7月の高値で信用取引により買った投資家の期日売りや損益通算売りが年末にかけて出やすいこと。",
+      "スーパーサイクル後の下落調整相場パターンを踏まえると、V字回復せず戻り高値売りが優勢になると見込むこと。"
+     ],
+     "timestamp": "21:49",
+     "confidence": "medium"
+    },
+    {
+     "name": "キオクシアホールディングス",
+     "name_en": "Kioxia Holdings Corporation",
+     "ticker": "285A",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "需給悪化と日経下落寄与で軟調推移",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "直近の日経平均下落寄与上位に入っており、半導体株全体の需給悪化の影響を受けて軟調に推移していること。"
+     ],
+     "timestamp": "33:20",
+     "confidence": "low"
+    },
+    {
+     "name": "オラクル",
+     "name_en": "Oracle Corporation",
+     "ticker": "ORCL",
+     "market": "US",
+     "stance": "bearish",
+     "stance_note": "決算発表後の売り圧力で急落",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "決算発表後に株価が大きく売られており、米国ソフトウェア関連銘柄の中で売り圧力を受けて急落していること。"
+     ],
+     "timestamp": "37:46",
+     "confidence": "low"
+    }
+   ]
+  },
+  {
    "video_id": "vo6dQUwAYIY",
    "title": "【CPI発表。日本株動くぞ‼】AI半導体株木端微塵で日経平均暴落続くか⁉キオクシア急落。ドル円154円推移。金利急騰で米国株不安定。仮想通貨BTC落",
    "published": "2026-09-11T14:32:35+00:00",
@@ -116,108 +182,6 @@
      ],
      "timestamp": "02:46",
      "confidence": "medium"
-    }
-   ]
-  },
-  {
-   "video_id": "jM65H3Vwum4",
-   "title": "海外投資家がついに日本株爆買い‼️日経平均月末急騰か⁉️AI半導体株高値掴み助かる❓任天堂急落。ドル円153円推移。金利急騰で米国株不安定。仮想通貨BTC下落",
-   "published": "2026-09-10T14:41:17+00:00",
-   "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "メジャーSQ前や米国CPI発表を控えて株式市場は荒い値動きが続いており、米国金利上昇やビックス指数の上昇が警戒されています。一方で海外投資家による日本株の買い越しなど、上昇に向けた条件も徐々に整いつつあり来週以降の相場好転が期待されます。個別銘柄では、新作発表後に急落した任天堂の需給改善と11月に向けた戻り歩調、半導体・ハイテク株の戻り売り圧力などが解説されています。",
-   "market_view": "メジャーSQ前の波乱や米国CPIを控え短期的には乱高下しやすいが、海外投資家の買越し等もあり来週以降の上昇基調への転換に期待がかかる。",
-   "market": "MIX",
-   "picks": [
-    {
-     "name": "任天堂",
-     "name_en": "Nintendo Co., Ltd.",
-     "ticker": "7974",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "急落はパニック売り。11月新作へ向け戻り期待",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "ニンテンドーダイレクト後の期待剥落や半年期日の信用投げ売りで急落したが、投げ売り一巡の動きと見られる。",
-      "11月発売のゼルダ新作に対するゲーマーの評価は非常に高く、発売1ヶ月前の10月頃から期待感を織り込む上昇が期待できる。"
-     ],
-     "timestamp": "14:22",
-     "confidence": "high"
-    },
-    {
-     "name": "レーザーテック",
-     "name_en": "Lasertec Corporation",
-     "ticker": "6920",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "200日線の戻り売りと信用需給の悪さに警戒",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "200日移動平均線付近では戻り売りが出やすく、上方の50日線も下降しておりデッドクロス形成の懸念がある。",
-      "信用買残136万株に対し売残12.2万株と信用倍率が11.2倍まで悪化しており、需給面が重い。"
-     ],
-     "timestamp": "07:51",
-     "confidence": "medium"
-    },
-    {
-     "name": "NVIDIA",
-     "name_en": "NVIDIA Corporation",
-     "ticker": "NVDA",
-     "market": "US",
-     "stance": "bearish",
-     "stance_note": "MACDデッドクロスで下落トレンド継続を警戒",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "株価は2%程度下落して下髭を引いているものの、MACDがデッドクロスを形成している。",
-      "米国ハイテク株全般に売り圧力がかかっており、年末に向けた乱高下の中で戻り売りが出やすい。"
-     ],
-     "timestamp": "34:16",
-     "confidence": "low"
-    },
-    {
-     "name": "ソフトバンクグループ",
-     "name_en": "SoftBank Group Corp.",
-     "ticker": "9984",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "内需・通信関連の堅調さに支えられ好調",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "通信キャリア株など内需関連銘柄が底堅い推移を見せる中で上昇基調を維持している。",
-      "傘下のアーム株の下落傾向はあるものの、全体として堅調な値動きが続いている。"
-     ],
-     "timestamp": "53:48",
-     "confidence": "low"
-    },
-    {
-     "name": "コナミグループ",
-     "name_en": "Konami Group Corporation",
-     "ticker": "9766",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "バンドウォーク下落も売り長で買い戻し期待",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "テクニカル的には下落方向へのバンドウォークが形成されており上値が重い展開。",
-      "信用倍率が0.4倍と売り越し状態(売り長)のため、ショートカバーによる買い戻しが入る可能性がある。"
-     ],
-     "timestamp": "54:46",
-     "confidence": "low"
     }
    ]
   },
