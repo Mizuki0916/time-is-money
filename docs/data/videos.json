@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-14T00:48:19.830146+09:00",
+ "generated_at": "2026-09-14T00:55:09.920641+09:00",
  "videos": [
   {
    "video_id": "dF5W2p2sKeM",
@@ -8,13 +8,120 @@
    "channel_name": "Sho's投資情報局",
    "channel_short": "Sho",
    "slot": 3,
-   "published": "2026-09-13T02:50:37+00:00",
-   "overview": "",
-   "market_view": "",
-   "market": "",
-   "no_transcript": true,
-   "skip_reason": "動画が非公開・削除・配信予定などで取得できません",
-   "picks": []
+   "published": "2026-09-13T14:20:49+00:00",
+   "overview": "AI開発原則や脅威論、OpenAIのIPO延期などの材料から、ソフトバンクグループやキオクシアなど半導体・AI関連銘柄の暴落警戒感を解説。一方でメモリー価格高騰が和らぐ連想から、シフトや任天堂、ソニーグループなどソフトウェア・IP関連株や、高配当・バリュー株、TOPIX優勢の循環物色への期待感を示しています。またチャート形状や移動平均線のクロスに着目した個別銘柄のテクニカル分析を行っています。",
+   "market_view": "半導体・AI株には年末にかけて需給の重さや急落リスクがある一方、NT倍率低下に伴いTOPIX優勢の展開や高配当・バリュー株への循環物色が期待される。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "シフト",
+     "ticker": "3697",
+     "stance": "bullish",
+     "timestamp": "03:34"
+    },
+    {
+     "name": "任天堂",
+     "ticker": "7974",
+     "stance": "bullish",
+     "timestamp": "04:59"
+    },
+    {
+     "name": "サンリオ",
+     "ticker": "8136",
+     "stance": "bullish",
+     "timestamp": "05:27"
+    },
+    {
+     "name": "ソニーグループ",
+     "ticker": "6758",
+     "stance": "bullish",
+     "timestamp": "11:59"
+    },
+    {
+     "name": "JX金属",
+     "ticker": "5016",
+     "stance": "bearish",
+     "timestamp": "15:51"
+    },
+    {
+     "name": "日本製鉄",
+     "ticker": "7011",
+     "stance": "bearish",
+     "timestamp": "30:22"
+    },
+    {
+     "name": "ソフトバンクグループ",
+     "ticker": "9984",
+     "stance": "bearish",
+     "timestamp": "03:51"
+    },
+    {
+     "name": "キオクシアホールディングス",
+     "ticker": "285A",
+     "stance": "bearish",
+     "timestamp": "43:35"
+    },
+    {
+     "name": "ヒューリック",
+     "ticker": "3003",
+     "stance": "neutral",
+     "timestamp": "23:12"
+    },
+    {
+     "name": "LIXIL",
+     "ticker": "5938",
+     "stance": "neutral",
+     "timestamp": "51:30"
+    }
+   ]
+  },
+  {
+   "video_id": "pYBhmu1RxDs",
+   "title": "今週（9/14〜）現状報告と展望解説",
+   "channel_id": "UCt7qqCkTFFRfKjXzwqUXq4g",
+   "channel_name": "ぺこ株",
+   "channel_short": "ぺこ",
+   "slot": 4,
+   "published": "2026-09-13T11:00:10+00:00",
+   "overview": "今週は買いたい新規銘柄がなく現状報告と展望解説を実施。前回紹介した出光興産やマクニカは強い動きを見せるも押し目買い逃しとなり、現在保有しているJTは円高と信用倍率悪化による警戒感を表明した。今週はFOMCや日銀金融政策決定会合など重大イベントが控えているため、結果が出るまでは全力買いを控え小ロットの打診買いにとどめる慎重な姿勢を示している。",
+   "market_view": "売買代金の減少が続く中で日米の金融政策や中東情勢など不確定要素が多く、イベント通過で方向感が出るまでは積極的に動きにくい環境である。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "出光興産",
+     "ticker": "5019",
+     "stance": "bullish",
+     "timestamp": "00:33"
+    },
+    {
+     "name": "マクニカ",
+     "ticker": "3132",
+     "stance": "bullish",
+     "timestamp": "01:00"
+    },
+    {
+     "name": "JT",
+     "ticker": "2914",
+     "stance": "bearish",
+     "timestamp": "01:21"
+    },
+    {
+     "name": "テラドローン",
+     "ticker": "278A",
+     "stance": "neutral",
+     "timestamp": "05:46"
+    },
+    {
+     "name": "サンバイオ",
+     "ticker": "4592",
+     "stance": "neutral",
+     "timestamp": "05:47"
+    }
+   ]
   },
   {
    "video_id": "L3C4Bkh47ro",
@@ -277,28 +384,6 @@
      "ticker": "2914",
      "stance": "bullish",
      "timestamp": "02:18"
-    }
-   ]
-  },
-  {
-   "video_id": "nguw5YHcjUA",
-   "title": "今週（8/31〜）専業が自信を持って買う1銘柄",
-   "channel_id": "UCt7qqCkTFFRfKjXzwqUXq4g",
-   "channel_name": "ぺこ株",
-   "channel_short": "ぺこ",
-   "slot": 4,
-   "published": "2026-08-30T11:00:38+00:00",
-   "overview": "動画では、ジャクソンホール会議後の米利上げ懸念や米金利上昇による市況への影響を解説した上で、専業投資家が注目する今週の上昇期待銘柄としてマクニカホールディングスを紹介しています。同社の事業内容や好決算といったファンダメンタルズ、三角持ち合いを形成するテクニカル面を分析し、打診買いからの段階的なエントリー戦略が解説されています。",
-   "market_view": "ジャクソンホール会議での高派的な発言を受けて米利上げ確率や米金利が上昇し、高PERのAI・半導体株には逆風となっています。ドル高円安が推移する一方で日経先物は下落しており、今週末の米雇用統計を前に警戒感のある展開です。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "マクニカホールディングス",
-     "ticker": "3132",
-     "stance": "bullish",
-     "timestamp": "03:29"
     }
    ]
   }

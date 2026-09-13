@@ -3,19 +3,185 @@
   {
    "video_id": "dF5W2p2sKeM",
    "title": "【AIバブル崩壊か⁉️】日本株今年最後の大チャンス来るか。CPI通貨で日経平均急騰。TOPIXシフト加速来い‼️金利急騰でドル円１５３円、米国株、ナスダック、ハイテク株上昇。仮想通貨弱い。",
-   "published": "2026-09-13T02:50:37+00:00",
+   "published": "2026-09-13T14:20:49+00:00",
    "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
    "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
    "channel_name": "Sho's投資情報局",
    "channel_short": "Sho",
    "slot": 3,
-   "no_transcript": true,
-   "skip_reason": "動画が非公開・削除・配信予定などで取得できません",
-   "attempts": 5,
-   "overview": "",
-   "market_view": "",
-   "market": "",
-   "picks": []
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "AI開発原則や脅威論、OpenAIのIPO延期などの材料から、ソフトバンクグループやキオクシアなど半導体・AI関連銘柄の暴落警戒感を解説。一方でメモリー価格高騰が和らぐ連想から、シフトや任天堂、ソニーグループなどソフトウェア・IP関連株や、高配当・バリュー株、TOPIX優勢の循環物色への期待感を示しています。またチャート形状や移動平均線のクロスに着目した個別銘柄のテクニカル分析を行っています。",
+   "market_view": "半導体・AI株には年末にかけて需給の重さや急落リスクがある一方、NT倍率低下に伴いTOPIX優勢の展開や高配当・バリュー株への循環物色が期待される。",
+   "market": "JP",
+   "picks": [
+    {
+     "name": "シフト",
+     "name_en": "SHIFT Inc.",
+     "ticker": "3697",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "逆相関でソフト関連に上昇可能性",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "AI関連の下落局面においてソフトウェア関連やサーズ系は逆相関で買われる可能性があるため。",
+      "RSIの上値ライン抜けやゴールデンクロス形成が入るかチャートの節目に注目しているため。"
+     ],
+     "timestamp": "03:34",
+     "confidence": "medium"
+    },
+    {
+     "name": "任天堂",
+     "name_en": "Nintendo Co., Ltd.",
+     "ticker": "7974",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "安いところで買えた人は保有でOK",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "メモリー価格等で下げていたが、収益を上げている銘柄としてAI懸念局面で反転上昇が期待されるため。",
+      "過去の高値で購入した信用買いの投げ売りが進んでおり、安値で仕込めた人は保有継続が妥当なため。"
+     ],
+     "timestamp": "04:59",
+     "confidence": "medium"
+    },
+    {
+     "name": "サンリオ",
+     "name_en": "Sanrio Company, Ltd.",
+     "ticker": "8136",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "IP・サーズ系として任天堂同様に注目",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "任天堂と同様のIP関連銘柄であり、半導体・AI株と逆の動きをして買われてくるかに注目しているため。"
+     ],
+     "timestamp": "05:27",
+     "confidence": "low"
+    },
+    {
+     "name": "ソニーグループ",
+     "name_en": "Sony Group Corporation",
+     "ticker": "6758",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "各移動平均線のゴールデンクロス期待",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "移動平均線がゴールデンクロスを形成してくると、過去の傾向からその後に反転上昇しやすいチャートのため。",
+      "半導体株と逆の動きをする銘柄群として、AI懸念下での循環物色の受け皿となる可能性があるため。"
+     ],
+     "timestamp": "11:59",
+     "confidence": "medium"
+    },
+    {
+     "name": "JX金属",
+     "name_en": "JX Advanced Metals Corporation",
+     "ticker": "5016",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "移動平均線のデッドクロス懸念で警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "50日移動平均線と200日移動平均線のデッドクロスが入る可能性がありチャート形状が悪化しているため。",
+      "50日移動平均線の重要度が高く、クロス時の下落リアクションが通常以上に強まる警戒感があるため。"
+     ],
+     "timestamp": "15:51",
+     "confidence": "medium"
+    },
+    {
+     "name": "日本製鉄",
+     "name_en": "Nippon Steel Corporation",
+     "ticker": "7011",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "需給悪化と移動平均線の悪化で手出し無用",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "移動平均線が下向きでデッドクロスが連続して入る悪形状となっており下落初動の可能性があるため。",
+      "6月高値からの半年期月が12月に控え、年末に向かって投げ売りが出やすい受給環境となっているため。"
+     ],
+     "timestamp": "30:22",
+     "confidence": "medium"
+    },
+    {
+     "name": "ソフトバンクグループ",
+     "name_en": "SoftBank Group Corp.",
+     "ticker": "9984",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "AI開発原則・脅威論の報道で急落警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "OpenAIのIPO延期報道やAI開発原則・脅威論のニュースを受けて大きく急落しているため。"
+     ],
+     "timestamp": "03:51",
+     "confidence": "medium"
+    },
+    {
+     "name": "キオクシアホールディングス",
+     "name_en": "Kioxia Holdings Corporation",
+     "ticker": "285A",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "上限切り下げの三角持ち合いで重い",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "上値を切り下げる三角持ち合いを形成しており、短期的には下落傾向で戻り売りが重いチャートのため。",
+      "5月〜7月の高値買付分の半年期日である11月末から年末にかけて投げ売りが出やすい受給のため。"
+     ],
+     "timestamp": "43:35",
+     "confidence": "medium"
+    },
+    {
+     "name": "ヒューリック",
+     "name_en": "Hulic Co., Ltd.",
+     "ticker": "3003",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "サインが出ておらず明確になるまで様子見",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "三角持ち合いを下割れしデッドクロス懸念があるが、各種テクニカル指標で明確なサインが出ていないため。"
+     ],
+     "timestamp": "23:12",
+     "confidence": "medium"
+    },
+    {
+     "name": "LIXIL",
+     "name_en": "LIXIL Corporation",
+     "ticker": "5938",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "米利上げ影響とボックス相場で時間かかる",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "米国金利の上昇懸念が重荷となり、高配当・割安感はあるものの長期間ボックス圏の動きが続いているため。"
+     ],
+     "timestamp": "51:30",
+     "confidence": "low"
+    }
+   ]
   },
   {
    "video_id": "gf2JhUqx2Es",
@@ -523,6 +689,103 @@
    ]
   },
   {
+   "video_id": "pYBhmu1RxDs",
+   "title": "今週（9/14〜）現状報告と展望解説",
+   "published": "2026-09-13T11:00:10+00:00",
+   "description": "今週、個人的に注目している個別銘柄を1銘柄に絞って解説します。\n個人的見解ですが投資戦略の参考にしてもらえたら幸いです。\n\n※パパッと見たい方は倍速設定をご使用ください.\n\n投資に絶対はありません。\n紹介銘柄が気になっても売買は自己責任でお願いいたします。\n\nnoteでメンバーシップを開始しました。\n詳しくはリンクをご覧ください。\n\n【note】\nhttps://note.com/peco_kabu/membership\n\n【X】\nhttps://x.com/peco_kabu\n\n#投資 #株式投資 #株 #日本株 #nisa #日経平均 #NISA #米国株 #個別株",
+   "channel_id": "UCt7qqCkTFFRfKjXzwqUXq4g",
+   "channel_name": "ぺこ株",
+   "channel_short": "ぺこ",
+   "slot": 4,
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "今週は買いたい新規銘柄がなく現状報告と展望解説を実施。前回紹介した出光興産やマクニカは強い動きを見せるも押し目買い逃しとなり、現在保有しているJTは円高と信用倍率悪化による警戒感を表明した。今週はFOMCや日銀金融政策決定会合など重大イベントが控えているため、結果が出るまでは全力買いを控え小ロットの打診買いにとどめる慎重な姿勢を示している。",
+   "market_view": "売買代金の減少が続く中で日米の金融政策や中東情勢など不確定要素が多く、イベント通過で方向感が出るまでは積極的に動きにくい環境である。",
+   "market": "JP",
+   "picks": [
+    {
+     "name": "出光興産",
+     "name_en": "Idemitsu Kosan Co.,Ltd.",
+     "ticker": "5019",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "押し目届かず上昇も強気継続",
+     "target_price": "",
+     "entry": "1450円",
+     "stop": "",
+     "reasons": [
+      "週足チャートの形状が非常に強い上昇を示しているものの、想定した押し目価格に届かず買い逃した。"
+     ],
+     "timestamp": "00:33",
+     "confidence": "medium"
+    },
+    {
+     "name": "マクニカ",
+     "name_en": "Macnica Holdings, Inc.",
+     "ticker": "3132",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "地合い悪い中で強い動きを展開",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "厳しい相場環境下においても銘柄選定通り強さを見せているが、押し目を狙いすぎて買い損ねている。"
+     ],
+     "timestamp": "01:00",
+     "confidence": "medium"
+    },
+    {
+     "name": "JT",
+     "name_en": "Japan Tobacco Inc.",
+     "ticker": "2914",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "急激な円高と信用買残高増加に警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "想定為替レート156円に対し円高が進んでいることに加え、信用倍率が12倍を超えて需給悪化が危うい。"
+     ],
+     "timestamp": "01:21",
+     "confidence": "high"
+    },
+    {
+     "name": "テラドローン",
+     "name_en": "Terra Drone Corporation",
+     "ticker": "278A",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "決算発表予定銘柄として注目",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "今週予定されている国内決算企業70社の中で、月曜日に発表を控える気になる銘柄として名前が挙がった。"
+     ],
+     "timestamp": "05:46",
+     "confidence": "low"
+    },
+    {
+     "name": "サンバイオ",
+     "name_en": "SanBio Company Limited",
+     "ticker": "4592",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "決算発表予定銘柄として注目",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "今週決算発表がある企業のうち、月曜日の発表予定銘柄として関心が寄せられている。"
+     ],
+     "timestamp": "05:47",
+     "confidence": "low"
+    }
+   ]
+  },
+  {
    "video_id": "7uZBjfcSJa0",
    "title": "今週（9/7〜）専業が自信を持って買う1銘柄",
    "published": "2026-09-06T11:00:35+00:00",
@@ -586,41 +849,6 @@
      ],
      "timestamp": "02:18",
      "confidence": "low"
-    }
-   ]
-  },
-  {
-   "video_id": "nguw5YHcjUA",
-   "title": "今週（8/31〜）専業が自信を持って買う1銘柄",
-   "published": "2026-08-30T11:00:38+00:00",
-   "description": "今週、個人的に注目している個別銘柄を1銘柄に絞って解説します。\n個人的見解ですが投資戦略の参考にしてもらえたら幸いです。\n\n※パパッと見たい方は倍速設定をご使用ください.\n\n投資に絶対はありません。\n紹介銘柄が気になっても売買は自己責任でお願いいたします。\n\nnoteでメンバーシップを開始しました。\n詳しくはリンクをご覧ください。\n\n【note】\nhttps://note.com/peco_kabu/membership\n\n【X】\nhttps://x.com/peco_kabu\n\n#投資 #株式投資 #株 #日本株 #nisa #日経平均 #NISA #米国株 #個別株",
-   "channel_id": "UCt7qqCkTFFRfKjXzwqUXq4g",
-   "channel_name": "ぺこ株",
-   "channel_short": "ぺこ",
-   "slot": 4,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "動画では、ジャクソンホール会議後の米利上げ懸念や米金利上昇による市況への影響を解説した上で、専業投資家が注目する今週の上昇期待銘柄としてマクニカホールディングスを紹介しています。同社の事業内容や好決算といったファンダメンタルズ、三角持ち合いを形成するテクニカル面を分析し、打診買いからの段階的なエントリー戦略が解説されています。",
-   "market_view": "ジャクソンホール会議での高派的な発言を受けて米利上げ確率や米金利が上昇し、高PERのAI・半導体株には逆風となっています。ドル高円安が推移する一方で日経先物は下落しており、今週末の米雇用統計を前に警戒感のある展開です。",
-   "market": "JP",
-   "picks": [
-    {
-     "name": "マクニカホールディングス",
-     "name_en": "Macnica Holdings, Inc.",
-     "ticker": "3132",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "三角持ち合いの上抜けを確認後に打診買い検討",
-     "target_price": "",
-     "entry": "三角持ち合いのブレイクを確認後、打診買い",
-     "stop": "26週移動平均線付近",
-     "reasons": [
-      "1Q決算が大幅増収増益で着地し通期進捗率30%超えと今後の業績上方修正に期待が持てる点。",
-      "AIデータセンター需要やサイバーセキュリティ事業拡大など、成長分野のテーマを幅広く捉えている点。",
-      "3500円の抵抗線を明確に上抜け、週足チャートでもパーフェクトオーダーの上昇トレンドを形成している点。"
-     ],
-     "timestamp": "03:29",
-     "confidence": "high"
     }
    ]
   }
