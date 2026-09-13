@@ -1,6 +1,21 @@
 {
- "generated_at": "2026-09-13T15:05:47.138510+09:00",
+ "generated_at": "2026-09-13T16:05:13.859878+09:00",
  "videos": [
+  {
+   "video_id": "dF5W2p2sKeM",
+   "title": "【日本株今年最後の大チャンス来るか‼】CPI通貨で日経平均急騰。AI半導体株助かるか⁉TOPIXシフト加速？金利急騰でドル円１５３円、米国株、ナスダック、ハイテク株上昇。仮想通貨弱い。",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-09-13T02:50:37+00:00",
+   "overview": "",
+   "market_view": "",
+   "market": "",
+   "no_transcript": true,
+   "skip_reason": "動画が非公開・削除・配信予定などで取得できません",
+   "picks": []
+  },
   {
    "video_id": "L3C4Bkh47ro",
    "title": "明日注目の銘柄を見ていく！（ソフトバンクG・太陽誘電・キオクシア・豊和工業・任天堂等）株式テクニカルチャート分析",
@@ -130,58 +145,6 @@
      "ticker": "285A",
      "stance": "neutral",
      "timestamp": "07:37"
-    }
-   ]
-  },
-  {
-   "video_id": "vo6dQUwAYIY",
-   "title": "【CPI発表。日本株動くぞ‼】AI半導体株木端微塵で日経平均暴落続くか⁉キオクシア急落。ドル円154円推移。金利急騰で米国株不安定。仮想通貨BTC落",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-09-11T14:32:35+00:00",
-   "overview": "CPI発表を迎える中で日経平均が暴落し、キオクシアやアドバンテストなどのAI・半導体株が大幅安となった背景を解説。一方で円高一服による自動車関連や出遅れバリュー株、高配当株は買われており資産防衛に機能したと指摘。発表された米CPIは概ね予想の範囲内で無難に通過し米国金利やドル円(154円台)も織り込みが進んだ。9月配当落ち以降は需給の軽い銘柄と重い銘柄で年末に向けた二極化が顕著になると予想している。",
-   "market_view": "半導体・ハイテク株から出遅れバリュー株や高配当株への資金シフトが継続。配当落ち後から年末に向けて需給の軽い銘柄への二極化が加速すると見込んでいる。",
-   "market": "MIX",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "キオクシア",
-     "ticker": "285A",
-     "stance": "bearish",
-     "timestamp": "01:23"
-    },
-    {
-     "name": "アドバンテスト",
-     "ticker": "6857",
-     "stance": "bearish",
-     "timestamp": "05:07"
-    },
-    {
-     "name": "レーザーテック",
-     "ticker": "6920",
-     "stance": "bearish",
-     "timestamp": "05:43"
-    },
-    {
-     "name": "ルネサスエレクトロニクス",
-     "ticker": "6723",
-     "stance": "bearish",
-     "timestamp": "09:34"
-    },
-    {
-     "name": "東京エレクトロン",
-     "ticker": "8035",
-     "stance": "bearish",
-     "timestamp": "10:12"
-    },
-    {
-     "name": "任天堂",
-     "ticker": "7974",
-     "stance": "neutral",
-     "timestamp": "02:46"
     }
    ]
   },
