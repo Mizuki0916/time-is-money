@@ -1,6 +1,116 @@
 {
- "generated_at": "2026-09-15T04:02:08.838851+09:00",
+ "generated_at": "2026-09-15T04:46:15.062572+09:00",
  "videos": [
+  {
+   "video_id": "oceD2e4rIkU",
+   "title": "【緊急事態】AI半導体株急落で日経平均急落‼️キオクシア、SBG大暴落ヤバい‼️日本株TOPIX、バリュー株強いぞ‼️金利急騰でドル円１５4円、米国株、ハイテク株大荒れか⁉️仮想通貨弱い。",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-09-14T14:32:28+00:00",
+   "overview": "動画では、AI半導体株の急落やソフトバンクグループ・キオクシアの大幅下落、米国ソックス指数の急落に伴うハイテク株の荒れ模様について解説されています。日経平均はPER17倍ラインで止まり想定の範囲内としつつも、半導体株の上値の重さを指摘。一方で、任天堂をはじめとするゲーム関連株やSaaS・ソフトウェア関連、高配当バリュー株などの出遅れ銘柄への資金循環が続いており、受給面や移動平均線の形状を踏まえた個別の立ち回りが示されています。",
+   "market_view": "半導体株は年末にかけて上値が重くジグザグな展開が想定される一方、出遅れ感のあるバリュー株やゲーム・SaaSなどソフトウェア関連へ資金が向かう物色ローテーションが意識されています。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "ソフトバンクグループ",
+     "ticker": "9984",
+     "stance": "bearish",
+     "timestamp": "05:03"
+    },
+    {
+     "name": "任天堂",
+     "ticker": "7974",
+     "stance": "bullish",
+     "timestamp": "07:46"
+    },
+    {
+     "name": "ソニーグループ",
+     "ticker": "6758",
+     "stance": "bullish",
+     "timestamp": "08:35"
+    },
+    {
+     "name": "SHIFT",
+     "ticker": "3697",
+     "stance": "bullish",
+     "timestamp": "13:34"
+    },
+    {
+     "name": "日本電信電話(NTT)",
+     "ticker": "9432",
+     "stance": "bearish",
+     "timestamp": "37:27"
+    },
+    {
+     "name": "住友電気工業",
+     "ticker": "5802",
+     "stance": "bearish",
+     "timestamp": "44:08"
+    },
+    {
+     "name": "バンダイナムコホールディングス",
+     "ticker": "7832",
+     "stance": "bullish",
+     "timestamp": "58:38"
+    }
+   ]
+  },
+  {
+   "video_id": "y3FNyTU_5Ns",
+   "title": "【日経平均】 ⚠️安値更新 下抜けリスク高まる  サンディスク・キオクシア・太陽誘電・東京エレクトロン・ソフトバンクG",
+   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+   "channel_name": "Trader's Lab",
+   "channel_short": "TL",
+   "slot": 1,
+   "published": "2026-09-14T11:00:16+00:00",
+   "overview": "日経平均株価や米主要指数が下落基調を強める中、現金比率を高めたリスク管理の重要性が解説されている。日経平均は重要な下値支持線を下抜けて安値を更新しており、6万円前後の水準までの調整が警戒される。個別銘柄でも半導体やAI関連株を中心にテクニカル形状の悪化が目立ち、下げ止まりが確認できるまでは安易な押し目買いを避けるべき局面であると主張している。",
+   "market_view": "AI・半導体関連株を中心に下落基調が続いており、原油高・金利高・円高の三ツ高も重なって日本株全体に逆風が強い地合いとなっている。",
+   "market": "MIX",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "日経平均株価",
+     "ticker": "N225",
+     "stance": "bearish",
+     "timestamp": "13:08"
+    },
+    {
+     "name": "サンディスク",
+     "ticker": "SNDK",
+     "stance": "neutral",
+     "timestamp": "26:38"
+    },
+    {
+     "name": "キオクシア",
+     "ticker": "285A",
+     "stance": "bearish",
+     "timestamp": "27:30"
+    },
+    {
+     "name": "太陽誘電",
+     "ticker": "6976",
+     "stance": "bearish",
+     "timestamp": "28:57"
+    },
+    {
+     "name": "東京エレクトロン",
+     "ticker": "8035",
+     "stance": "bearish",
+     "timestamp": "32:39"
+    },
+    {
+     "name": "ソフトバンクグループ",
+     "ticker": "9984",
+     "stance": "bearish",
+     "timestamp": "34:10"
+    }
+   ]
+  },
   {
    "video_id": "dF5W2p2sKeM",
    "title": "【AIバブル崩壊か⁉️】日本株今年最後の大チャンス来るか。CPI通貨で日経平均急騰。TOPIXシフト加速来い‼️金利急騰でドル円１５３円、米国株、ナスダック、ハイテク株上昇。仮想通貨弱い。",
@@ -188,40 +298,6 @@
    ]
   },
   {
-   "video_id": "gf2JhUqx2Es",
-   "title": "【日本株今年最後の大チャンス来るか‼】CPI通貨で日経平均急騰。AI半導体株助かるか⁉TOPIXシフト加速？金利急騰でドル円１５３円、米国株、ナスダック、ハイテク株上昇。仮想通貨弱い。",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-09-12T04:00:02+00:00",
-   "overview": "CPI発表の通過を受けて日経先物が上昇し、9月末に向けた日本株の反発が期待される一方、半導体株やハイテク株は信用買い残の期日売りや米国利上げ懸念により年末にかけて戻り売りが優勢になると分析。2018年相場との類似点を挙げ、今後は需給の軽い高配当株やバリュー株、出遅れ銘柄へ資金がシフトする二極化が進むと予想している。",
-   "market_view": "9月末に向けた一時的な反発を想定するが、半導体株の需給悪化と米国金利急騰により銘柄選別が進み、二極化相場が強まると見込む。",
-   "market": "MIX",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "東京エレクトロン",
-     "ticker": "8035",
-     "stance": "bearish",
-     "timestamp": "21:49"
-    },
-    {
-     "name": "キオクシアホールディングス",
-     "ticker": "285A",
-     "stance": "bearish",
-     "timestamp": "33:20"
-    },
-    {
-     "name": "オラクル",
-     "ticker": "ORCL",
-     "stance": "bearish",
-     "timestamp": "37:46"
-    }
-   ]
-  },
-  {
    "video_id": "eNsVHFW4orc",
    "title": "米CPI無事通過？FOMC・日銀会合見通し",
    "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
@@ -298,58 +374,6 @@
      "ticker": "5706",
      "stance": "bearish",
      "timestamp": "31:53"
-    }
-   ]
-  },
-  {
-   "video_id": "hla1tOIb-0g",
-   "title": "【日経平均】 SQ通過と明日はCPI 目線は変わらず 現金比率は高めておけ 東京エレクトロン・ソフトバンクG・ファーストリテイリング・三井金属・東洋エンジニアリング",
-   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-   "channel_name": "Trader's Lab",
-   "channel_short": "TL",
-   "slot": 1,
-   "published": "2026-09-10T11:03:09+00:00",
-   "overview": "SQ通過およびCPI発表を控え、日経平均や米国株市場は上値が重く下抜けリスクを孕む神経質な展開が続いています。指数寄与度の高い東京エレクトロンやファーストリテイリングが軟調で、三井金属は下落トレンドへ転換するなど警戒が必要です。動画では全体として下落シナリオへの備えを優先し、現金比率を高める売買戦略を推奨しています。",
-   "market_view": "原油高や金利上昇に伴うインフレ警戒感もあり、全体として下抜けリスクが意識される警戒度の高い相場環境です。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "日経平均株価",
-     "ticker": "",
-     "stance": "bearish",
-     "timestamp": "01:58"
-    },
-    {
-     "name": "東京エレクトロン",
-     "ticker": "8035",
-     "stance": "bearish",
-     "timestamp": "24:48"
-    },
-    {
-     "name": "ソフトバンクグループ",
-     "ticker": "9984",
-     "stance": "neutral",
-     "timestamp": "26:26"
-    },
-    {
-     "name": "ファーストリテイリング",
-     "ticker": "9983",
-     "stance": "bearish",
-     "timestamp": "28:46"
-    },
-    {
-     "name": "三井金属",
-     "ticker": "5706",
-     "stance": "bearish",
-     "timestamp": "29:50"
-    },
-    {
-     "name": "東洋エンジニアリング",
-     "ticker": "6330",
-     "stance": "bullish",
-     "timestamp": "34:28"
     }
    ]
   },
