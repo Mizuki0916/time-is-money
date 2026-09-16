@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-16T20:05:07.386258+00:00",
+ "updated_at": "2026-09-16T21:02:42.988450+00:00",
  "symbols": {
   "JP:1111": {
    "date": "2026-08-17",
@@ -447,7 +447,7 @@
    "market_open": false,
    "symbol": "285A.T",
    "source": "yahoo",
-   "fetched_at": "2026-09-16T08:39:32.039809+00:00"
+   "fetched_at": "2026-09-16T21:02:42.988450+00:00"
   },
   "JP:6976": {
    "date": "2026-09-16",
@@ -511,7 +511,7 @@
    "market_open": false,
    "symbol": "6976.T",
    "source": "yahoo",
-   "fetched_at": "2026-09-16T08:39:32.039809+00:00"
+   "fetched_at": "2026-09-16T21:02:42.988450+00:00"
   },
   "JP:6981": {
    "date": "2026-09-16",
@@ -1096,8 +1096,8 @@
    "live": null,
    "live_change_pct": null,
    "live_time": null,
-   "volume": 7184007,
-   "volume_ratio": 0.58,
+   "volume": 7313623,
+   "volume_ratio": 0.59,
    "rsi14": 47.0,
    "rsi_zone": "中立",
    "ma25": 1580.71,
@@ -1151,7 +1151,7 @@
    "market_open": false,
    "symbol": "SNDK",
    "source": "yahoo",
-   "fetched_at": "2026-09-16T20:05:07.386258+00:00"
+   "fetched_at": "2026-09-16T21:02:42.988450+00:00"
   },
   "JP:5985": {
    "date": "2026-08-19",
@@ -1407,7 +1407,7 @@
    "market_open": false,
    "symbol": "9984.T",
    "source": "yahoo",
-   "fetched_at": "2026-09-16T08:39:32.039809+00:00"
+   "fetched_at": "2026-09-16T21:02:42.988450+00:00"
   },
   "JP:5801": {
    "date": "2026-09-15",
@@ -2178,21 +2178,22 @@
    "fetched_at": "2026-08-19T04:36:24.190592+00:00"
   },
   "IDX:^N225": {
-   "date": "2026-09-16",
-   "close": 63923.0,
-   "change_pct": 0.69,
+   "date": "2026-09-15",
+   "close": 63484.1,
+   "change_pct": -0.01,
    "live": null,
    "live_change_pct": null,
    "live_time": null,
-   "volume": null,
-   "volume_ratio": null,
-   "rsi14": 42.2,
+   "volume": 135000000,
+   "volume_ratio": 0.88,
+   "rsi14": 39.4,
    "rsi_zone": "中立",
-   "ma25": 65781.19,
-   "ma75": 66720.08,
+   "ma25": 65925.24,
+   "ma75": 66760.23,
    "trend": "下降基調",
-   "pos52": 70,
+   "pos52": 68,
    "spark": [
+    66232.19,
     66115.6,
     66422.6,
     64611.15,
@@ -2231,15 +2232,14 @@
     65270.95,
     64011.34,
     63492.99,
-    63484.1,
-    63923.0
+    63484.1
    ],
    "currency": "JPY",
    "exchange_name": "Osaka",
    "market_open": false,
    "symbol": "^N225",
    "source": "yahoo",
-   "fetched_at": "2026-09-16T08:39:32.039809+00:00"
+   "fetched_at": "2026-09-16T21:02:42.988450+00:00"
   },
   "JP:5802": {
    "date": "2026-09-16",
@@ -2623,7 +2623,7 @@
    "market_open": false,
    "symbol": "8035.T",
    "source": "yahoo",
-   "fetched_at": "2026-09-16T08:39:32.039809+00:00"
+   "fetched_at": "2026-09-16T21:02:42.988450+00:00"
   },
   "JP:9983": {
    "date": "2026-09-11",
@@ -2943,7 +2943,7 @@
    "market_open": false,
    "symbol": "4588.T",
    "source": "yahoo",
-   "fetched_at": "2026-09-16T08:39:32.039809+00:00"
+   "fetched_at": "2026-09-16T21:02:42.988450+00:00"
   },
   "NAME:GO": {
    "date": "2026-09-01",
@@ -3647,7 +3647,7 @@
    "market_open": false,
    "symbol": "278A.T",
    "source": "yahoo",
-   "fetched_at": "2026-09-16T08:39:32.039809+00:00"
+   "fetched_at": "2026-09-16T21:02:42.988450+00:00"
   },
   "NAME:ティアフォー": {
    "date": "2026-09-04",
@@ -5297,7 +5297,7 @@
    "market_open": false,
    "symbol": "2914.T",
    "source": "yahoo",
-   "fetched_at": "2026-09-16T08:39:32.039809+00:00"
+   "fetched_at": "2026-09-16T21:02:42.988450+00:00"
   },
   "NAME:パワーエックス": {
    "date": "2026-09-01",
@@ -5425,7 +5425,7 @@
    "market_open": false,
    "symbol": "3132.T",
    "source": "yahoo",
-   "fetched_at": "2026-09-16T08:39:32.039809+00:00"
+   "fetched_at": "2026-09-16T21:02:42.988450+00:00"
   },
   "JP:4661": {
    "date": "2026-09-04",
@@ -7601,7 +7601,7 @@
    "market_open": false,
    "symbol": "5019.T",
    "source": "yahoo",
-   "fetched_at": "2026-09-16T08:39:32.039809+00:00"
+   "fetched_at": "2026-09-16T21:02:42.988450+00:00"
   },
   "JP:3861": {
    "date": "2026-09-07",
@@ -7921,7 +7921,7 @@
    "market_open": false,
    "symbol": "6203.T",
    "source": "yahoo",
-   "fetched_at": "2026-09-16T08:39:32.039809+00:00"
+   "fetched_at": "2026-09-16T21:02:42.988450+00:00"
   },
   "JP:1911": {
    "date": "2026-09-10",
@@ -8817,7 +8817,7 @@
    "market_open": false,
    "symbol": "4592.T",
    "source": "yahoo",
-   "fetched_at": "2026-09-16T08:39:32.039809+00:00"
+   "fetched_at": "2026-09-16T21:02:42.988450+00:00"
   },
   "JP:7832": {
    "date": "2026-09-16",
