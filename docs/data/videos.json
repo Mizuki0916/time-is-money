@@ -1,6 +1,21 @@
 {
- "generated_at": "2026-09-16T20:05:05.042811+09:00",
+ "generated_at": "2026-09-16T21:05:11.602680+09:00",
  "videos": [
+  {
+   "video_id": "izCs7sG4Dm4",
+   "title": "【緊急】日本株空売り激減ヤバい‼️AI半導体株急落で日経平均崩壊か⁉️キオクシア助かるか。金利急騰で高配当株どうなる。ドル円155円,米国株、ハイテク株暴落。仮想通貨弱い。",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-09-16T11:09:29+00:00",
+   "overview": "",
+   "market_view": "",
+   "market": "",
+   "no_transcript": true,
+   "skip_reason": "動画が非公開・削除・配信予定などで取得できません",
+   "picks": []
+  },
   {
    "video_id": "32g_zns2kno",
    "title": "【日経平均】 AI減速懸念、金利高 イベント通過後の値動きに備えろ  サンディスク・キオクシア・太陽誘電・豊和工業・オンコリスバイオ",
@@ -130,64 +145,6 @@
      "ticker": "7011",
      "stance": "bearish",
      "timestamp": "11:00"
-    }
-   ]
-  },
-  {
-   "video_id": "oceD2e4rIkU",
-   "title": "【緊急事態】AI半導体株急落で日経平均急落‼️キオクシア、SBG大暴落ヤバい‼️日本株TOPIX、バリュー株強いぞ‼️金利急騰でドル円１５4円、米国株、ハイテク株大荒れか⁉️仮想通貨弱い。",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-09-14T14:32:28+00:00",
-   "overview": "動画では、AI半導体株の急落やソフトバンクグループ・キオクシアの大幅下落、米国ソックス指数の急落に伴うハイテク株の荒れ模様について解説されています。日経平均はPER17倍ラインで止まり想定の範囲内としつつも、半導体株の上値の重さを指摘。一方で、任天堂をはじめとするゲーム関連株やSaaS・ソフトウェア関連、高配当バリュー株などの出遅れ銘柄への資金循環が続いており、受給面や移動平均線の形状を踏まえた個別の立ち回りが示されています。",
-   "market_view": "半導体株は年末にかけて上値が重くジグザグな展開が想定される一方、出遅れ感のあるバリュー株やゲーム・SaaSなどソフトウェア関連へ資金が向かう物色ローテーションが意識されています。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "ソフトバンクグループ",
-     "ticker": "9984",
-     "stance": "bearish",
-     "timestamp": "05:03"
-    },
-    {
-     "name": "任天堂",
-     "ticker": "7974",
-     "stance": "bullish",
-     "timestamp": "07:46"
-    },
-    {
-     "name": "ソニーグループ",
-     "ticker": "6758",
-     "stance": "bullish",
-     "timestamp": "08:35"
-    },
-    {
-     "name": "SHIFT",
-     "ticker": "3697",
-     "stance": "bullish",
-     "timestamp": "13:34"
-    },
-    {
-     "name": "日本電信電話(NTT)",
-     "ticker": "9432",
-     "stance": "bearish",
-     "timestamp": "37:27"
-    },
-    {
-     "name": "住友電気工業",
-     "ticker": "5802",
-     "stance": "bearish",
-     "timestamp": "44:08"
-    },
-    {
-     "name": "バンダイナムコホールディングス",
-     "ticker": "7832",
-     "stance": "bullish",
-     "timestamp": "58:38"
     }
    ]
   },
