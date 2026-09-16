@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-16T23:05:13.092413+09:00",
+ "generated_at": "2026-09-17T00:06:21.130581+09:00",
  "videos": [
   {
    "video_id": "izCs7sG4Dm4",
@@ -8,13 +8,62 @@
    "channel_name": "Sho's投資情報局",
    "channel_short": "Sho",
    "slot": 3,
-   "published": "2026-09-16T11:09:29+00:00",
-   "overview": "",
-   "market_view": "",
-   "market": "",
-   "no_transcript": true,
-   "skip_reason": "この動画には字幕がありません",
-   "picks": []
+   "published": "2026-09-16T13:56:33+00:00",
+   "overview": "FOMCの結果発表を控える中、日経平均株価はPER17倍の理論値付近で足踏み状態となっています。日本株全体の売り残減少や信用倍率の高止まりからショートカバーによる上昇期待は薄く、上値の重い展開が指摘されています。個別銘柄ではキオクシアやフジクラ、ファナックなど信用買いが溜まり需給が悪化している銘柄に警戒を促す一方、年末に向けた損益通算の大渋滞を避けた早めのポジション整理と銘柄選別の重要性を解説しています。",
+   "market_view": "日経平均はテクニカル的にデッドクロスや下落トレンドのサインが出ており上値が重い展開です。トピックス優位の地合いが続いており、需給が良い銘柄への集中が推奨されます。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "キオクシア",
+     "ticker": "285A",
+     "stance": "bearish",
+     "timestamp": "12:00"
+    },
+    {
+     "name": "レーザーテック",
+     "ticker": "6920",
+     "stance": "neutral",
+     "timestamp": "22:23"
+    },
+    {
+     "name": "東京エレクトロン",
+     "ticker": "8035",
+     "stance": "bearish",
+     "timestamp": "25:19"
+    },
+    {
+     "name": "古河電気工業",
+     "ticker": "5801",
+     "stance": "neutral",
+     "timestamp": "26:30"
+    },
+    {
+     "name": "ファナック",
+     "ticker": "6954",
+     "stance": "bearish",
+     "timestamp": "27:26"
+    },
+    {
+     "name": "トヨタ自動車",
+     "ticker": "7203",
+     "stance": "bearish",
+     "timestamp": "32:28"
+    },
+    {
+     "name": "IHI",
+     "ticker": "7013",
+     "stance": "bearish",
+     "timestamp": "35:05"
+    },
+    {
+     "name": "フジクラ",
+     "ticker": "5803",
+     "stance": "bearish",
+     "timestamp": "39:42"
+    }
+   ]
   },
   {
    "video_id": "32g_zns2kno",

@@ -3,19 +3,155 @@
   {
    "video_id": "izCs7sG4Dm4",
    "title": "【緊急】日本株空売り激減ヤバい‼️AI半導体株急落で日経平均崩壊か⁉️キオクシア助かるか。金利急騰で高配当株どうなる。ドル円155円,米国株、ハイテク株暴落。仮想通貨弱い。",
-   "published": "2026-09-16T11:09:29+00:00",
+   "published": "2026-09-16T13:56:33+00:00",
    "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
    "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
    "channel_name": "Sho's投資情報局",
    "channel_short": "Sho",
    "slot": 3,
-   "no_transcript": true,
-   "skip_reason": "この動画には字幕がありません",
-   "attempts": 3,
-   "overview": "",
-   "market_view": "",
-   "market": "",
-   "picks": []
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "FOMCの結果発表を控える中、日経平均株価はPER17倍の理論値付近で足踏み状態となっています。日本株全体の売り残減少や信用倍率の高止まりからショートカバーによる上昇期待は薄く、上値の重い展開が指摘されています。個別銘柄ではキオクシアやフジクラ、ファナックなど信用買いが溜まり需給が悪化している銘柄に警戒を促す一方、年末に向けた損益通算の大渋滞を避けた早めのポジション整理と銘柄選別の重要性を解説しています。",
+   "market_view": "日経平均はテクニカル的にデッドクロスや下落トレンドのサインが出ており上値が重い展開です。トピックス優位の地合いが続いており、需給が良い銘柄への集中が推奨されます。",
+   "market": "JP",
+   "picks": [
+    {
+     "name": "キオクシア",
+     "name_en": "Kioxia Holdings Corporation",
+     "ticker": "285A",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "信用買い捕まりと需給悪化で上値重い",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "直近で信用買い残が71万株増加し信用倍率が16.23倍と悪化しているため買い手が捕まっている。",
+      "FOMC発表や半導体市況の不透明感もあり目先は戻り売りに押されやすい受給環境となっている。"
+     ],
+     "timestamp": "12:00",
+     "confidence": "medium"
+    },
+    {
+     "name": "レーザーテック",
+     "name_en": "Lasertec Corporation",
+     "ticker": "6920",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "信用買減少・売増で需給は若干改善傾向",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "直近のデータで信用買い残が15万株減少し空売り残が3万株増加したため需給は若干改善した。",
+      "PER35.6倍と高バリュエーションであり、地合い全体の半導体株の動きに左右されやすい。"
+     ],
+     "timestamp": "22:23",
+     "confidence": "medium"
+    },
+    {
+     "name": "東京エレクトロン",
+     "name_en": "Tokyo Electron Limited",
+     "ticker": "8035",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "信用買いが増加しており需給が悪化",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "直近1週間で信用買い残が19万株増加しており需給バランスの悪化が確認されている。",
+      "株価下落局面での戻り売り圧力が懸念され、上値を追いにくいテクニカル形状となっている。"
+     ],
+     "timestamp": "25:19",
+     "confidence": "medium"
+    },
+    {
+     "name": "古河電気工業",
+     "name_en": "Furukawa Electric Co., Ltd.",
+     "ticker": "5801",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "信用買い減少で需給倍率は15.5倍へ改善",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "信用買い残が119万株と大幅に減少し、信用倍率が15.5倍まで改善してきている。",
+      "PER25.5倍と評価が高まる一方で、全体的な相場環境を見極める段階にある。"
+     ],
+     "timestamp": "26:30",
+     "confidence": "medium"
+    },
+    {
+     "name": "ファナック",
+     "name_en": "FANUC CORPORATION",
+     "ticker": "6954",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "移動平均線デッドクロスで需給過去最悪",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "75日線や200日線などの移動平均線がデッドクロスを形成しやすくテクニカル面で弱い。",
+      "信用倍率が6.68倍と過去2年間で最も悪い水準まで悪化しており警戒が必要とされる。"
+     ],
+     "timestamp": "27:26",
+     "confidence": "medium"
+    },
+    {
+     "name": "トヨタ自動車",
+     "name_en": "Toyota Motor Corporation",
+     "ticker": "7203",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "信用買い増加で需給悪化し上値重い",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "信用買い残が49万株増加し信用倍率が4.13倍へと悪化していることが確認された。",
+      "配当権利月であるにもかかわらず上値が重く、一時的な調整局面に入る可能性がある。"
+     ],
+     "timestamp": "32:28",
+     "confidence": "medium"
+    },
+    {
+     "name": "IHI",
+     "name_en": "IHI Corporation",
+     "ticker": "7013",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "高値期日到来と戻り売り圧力で上値重い",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "信用倍率が42.54倍と非常に高い水準にとどまっており、受給面での重さが目立つ。",
+      "4月から5月の高値期日である半年(10月末)に向けて戻り売り圧力が強まりやすい。"
+     ],
+     "timestamp": "35:05",
+     "confidence": "medium"
+    },
+    {
+     "name": "フジクラ",
+     "name_en": "Fujikura Ltd.",
+     "ticker": "5803",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "信用買い減少も倍率32倍で需給悪化",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "信用買い残が52万株減少したものの、依然として信用倍率が32.08倍と著しく高水準である。",
+      "5月の高値から半年の期日通過に伴う売り圧力が継続しやすく需給の重い展開が予想される。"
+     ],
+     "timestamp": "39:42",
+     "confidence": "medium"
+    }
+   ]
   },
   {
    "video_id": "aXDqVgmXTuE",
