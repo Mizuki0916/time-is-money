@@ -420,9 +420,9 @@
    ]
   },
   {
-   "video_id": "L3C4Bkh47ro",
-   "title": "明日注目の銘柄を見ていく！（ソフトバンクG・太陽誘電・キオクシア・豊和工業・任天堂等）株式テクニカルチャート分析",
-   "published": "2026-09-12T23:00:29+00:00",
+   "video_id": "0JFCkFsGCsg",
+   "title": "今日の活況銘柄を見てみる！（ソフトバンクG・太陽誘電・キオクシア・村田製作所・フジクラ・豊和工業・三菱重工など）株式テクニカルチャート分析",
+   "published": "2026-09-15T07:18:04+00:00",
    "description": "🔽「株のオンラインサロン」やってます！\n→　https://yoor.jp/door/tradertomo\n\n※ 参加プラン別のサービス内容はこちらの動画で解説しています。\n→https://youtu.be/AGZetFvA-Xk?si=Qy_ctky7kW1QSOHX\n\n株好きが集まる楽しいサロンを目指してます♪\n初心者歓迎です～ご参加お待ちしています！\n\n🔽サブチャンネルもやってます＾＾\nhttps://www.youtube.com/@TOMO-subtrader\n\n---------------------------------------------\n🔽公式LINEやってます！ともだち登録お願いします☆\n---------------------------------------------\n\n「うねり取り株投資実践講義」（総時間147分）視聴可。\n→https://s.l",
    "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
    "channel_name": "トレーダーTOMO",
@@ -430,25 +430,42 @@
    "slot": 2,
    "no_transcript": false,
    "skip_reason": "",
-   "overview": "原油価格の急変動やFOMC・日銀会合といった重要イベントを控える難解な地合いの中で、監視すべき注目銘柄とテクニカル分析が解説されています。半導体や電子部品の主力株から、原油高関連、ドローンテーマ、決算後のリバウンド狙いまで幅広く取り上げ、上値の重い銘柄が多い中で出来高や節目のラインを見極めた丁寧な取引の必要性を提示しています。",
-   "market_view": "原油価格の影響でネガティブな反応もあるが、米国株の堅調さや半導体指数の上昇を受けて日経平均はギャップアップ始動の可能性がある。ただし主要イベントを控え買い上がりは限られるため、半身の姿勢で出来高を伴う銘柄を攻めることが推奨されている。",
+   "overview": "米金利の上昇や原油高、FOMC等のイベントを控えて全体相場が伸び悩む中、注目銘柄のテクニカル分析が行われました。ソフトバンクグループのリバウンドや太陽誘電・村田製作所などのボラティリティを活かした短期デイトレード戦略が示された一方、レンジ崩れのフジクラや防衛費報道で一時買われたもののシコリが重い三菱重工には警戒感が示されています。",
+   "market_view": "金利上昇局面では高バリュエーション銘柄の上値が重くなりやすく、全体相場も上方向へ強く追うのは難しい環境です。スイングよりもデイトレードで1日ごとに丁寧に仕切る姿勢が推奨されます。",
    "market": "JP",
    "picks": [
+    {
+     "name": "ソフトバンクグループ",
+     "name_en": "SoftBank Group Corp.",
+     "ticker": "9984",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "出来高伴うリバウンドで窓埋め達成",
+     "target_price": "",
+     "entry": "5800円ライン",
+     "stop": "",
+     "reasons": [
+      "前日に5800円付近で下げ渋った後、当日はギャップアップから大幅リバウンドとなり窓埋めを完了したため。",
+      "出来高8000万株超と商いが活況であり、出来高が維持されれば再度高値を目指す展開が十分可能なため。"
+     ],
+     "timestamp": "04:35",
+     "confidence": "high"
+    },
     {
      "name": "太陽誘電",
      "name_en": "Taiyo Yuden Co., Ltd.",
      "ticker": "6976",
      "market": "JP",
-     "stance": "bullish",
-     "stance_note": "調整後も高い出来高を維持し節目からの再上昇を狙う",
+     "stance": "neutral",
+     "stance_note": "高ボラ活かしたデイトレに限定",
      "target_price": "",
-     "entry": "9200円あたりの固めたラインを中心にエントリー",
+     "entry": "",
      "stop": "",
      "reasons": [
-      "大幅な調整後も参加者が減らず高い出来高と市場注目度を維持している。",
-      "9200円付近でラインを固めており9600円や大台に向けた上昇勢いが期待できる。"
+      "安値圏での押し目買いが入るものの金利上昇局面では高バリュエーション株の上値は重くなりやすいため。",
+      "日中のボラティリティが高く短期で利益を取りやすい反面、下に抜けると底なしになるリスクがあるため。"
      ],
-     "timestamp": "02:35",
+     "timestamp": "05:56",
      "confidence": "high"
     },
     {
@@ -456,126 +473,75 @@
      "name_en": "Kioxia Holdings Corporation",
      "ticker": "285A",
      "market": "JP",
-     "stance": "bullish",
-     "stance_note": "5万4000円ラインを節目に上値追いを狙う",
+     "stance": "neutral",
+     "stance_note": "株式分割後の出来高維持が焦点",
      "target_price": "",
-     "entry": "5万4000円の支持確認や1000円刻みの節目ライン",
+     "entry": "",
      "stop": "",
      "reasons": [
-      "大幅ギャップダウンから5万4000円ラインを回復して引けており底固さが見られる。",
-      "下髭などで節目をしっかり確認できれば、上値を目指してエントリー可能と分析。"
+      "安値圏での買い需要はあるものの、決算まで期間があり株価全体に重たさが意識されやすいため。",
+      "9月末の3株式分割後に高い出来高を継続できるかが鍵であり、節目を意識した短期売買に向くため。"
      ],
-     "timestamp": "03:52",
+     "timestamp": "07:48",
      "confidence": "high"
     },
     {
-     "name": "ソフトバンクグループ",
-     "name_en": "SoftBank Group Corp.",
-     "ticker": "9984",
+     "name": "村田製作所",
+     "name_en": "Murata Manufacturing Co., Ltd.",
+     "ticker": "6981",
      "market": "JP",
      "stance": "neutral",
-     "stance_note": "安値買いはあるが戻り売りが予想され判断保留",
+     "stance_note": "7400円軸の素直な値動きを狙う",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "ギャップダウンから陽線で売りをこなしているが直近で捕まっている玉が存在する。",
-      "6800円や7000円の節目を抜けるまでは上値が重く、1日様子見も選択肢となる。"
+      "太陽誘電と類似したチャート形状だが極端に激しい動きが少なく、初心者でも比較的扱いやすいため。",
+      "出来高2000万株規模を維持しており、7400円ラインをサポートに短期でちょこちょこ取るのに適するため。"
      ],
-     "timestamp": "04:58",
+     "timestamp": "09:27",
      "confidence": "medium"
     },
     {
-     "name": "INPEX",
-     "name_en": "INPEX CORPORATION",
-     "ticker": "1605",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "原油高の恩恵を受けやすく3900円からのリバ狙い",
-     "target_price": "",
-     "entry": "3900円〜4000円のリバウンドまたは4000円超え",
-     "stop": "",
-     "reasons": [
-      "原油高の恩恵を直接享受できる数少ない銘柄であり高い出来高を維持している。",
-      "3900円のラインが堅く見え、原油価格の再上昇があれば上値を目指せる展開。"
-     ],
-     "timestamp": "06:45",
-     "confidence": "medium"
-    },
-    {
-     "name": "テラドローン",
-     "name_en": "Terra Drone Corporation",
-     "ticker": "188A",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "大口の関心はあるが直近決算跨ぎは危険回避",
-     "target_price": "",
-     "entry": "2万1000円の上",
-     "stop": "",
-     "reasons": [
-      "2分割前で2万1000円に引けさせるなど大口の監視がしっかりと入っている。",
-      "直近で決算発表を控えており跨ぎのリスクが高いためデイトレ主体が望ましい。"
-     ],
-     "timestamp": "07:27",
-     "confidence": "medium"
-    },
-    {
-     "name": "豊和工業",
-     "name_en": "Howa Machinery, Ltd.",
-     "ticker": "6203",
+     "name": "フジクラ",
+     "name_en": "Fujikura Ltd.",
+     "ticker": "5803",
      "market": "JP",
      "stance": "bearish",
-     "stance_note": "ストップ高で急騰もやりすぎ感と崩れに警戒",
+     "stance_note": "レンジ加減割れで上値シコリが重い",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "ドローン関連としてストップ高張り付きとなったが急騰に過熱感が出ている。",
-      "大口の売りが入ると特別売り気配などで急落する危険があるため警戒が必要。"
+      "決算をピークに出来高が細っており、直近で揉み合いレンジの加減を割り込んでしまっているため。",
+      "上値に含み損を抱えた買い方のシコリ玉が多く残っており、積極的に狙う妙味が見出せないため。"
      ],
-     "timestamp": "08:14",
+     "timestamp": "10:15",
      "confidence": "medium"
     },
     {
-     "name": "任天堂",
-     "name_en": "Nintendo Co., Ltd.",
-     "ticker": "7974",
+     "name": "三菱重工業",
+     "name_en": "Mitsubishi Heavy Industries, Ltd.",
+     "ticker": "7011",
      "market": "JP",
-     "stance": "bullish",
-     "stance_note": "8000円を軸に8400円の窓埋めを目指すリバ狙い",
-     "target_price": "8400円",
-     "entry": "8000円ラインを背にしたエントリー",
-     "stop": "",
-     "reasons": [
-      "直近で売られているものの8000円のラインで底固めを行っている。",
-      "8400円付近まで窓が空いており、リバウンド狙いのトレードがやりやすい。"
-     ],
-     "timestamp": "09:28",
-     "confidence": "medium"
-    },
-    {
-     "name": "タイミー",
-     "name_en": "Timee, Inc.",
-     "ticker": "215A",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "業績期待の戻り余地はあるが新高値抜けの確認が必要",
+     "stance": "bearish",
+     "stance_note": "防衛特需の急騰もシコリ重く失速",
      "target_price": "",
-     "entry": "直近高値を上抜けていくタイミング",
+     "entry": "",
      "stop": "",
      "reasons": [
-      "決算で下落したものの長期アルバイト採用などの新プラン展開で中長期的な期待はある。",
-      "直近足型が悪く売り圧力が残るため高値をしっかり抜けてからの狙いが安全。"
+      "防衛費増額のニュースで後場に急騰したものの、3800円の抵抗線で戻り売りに押されて伸び悩んだため。",
+      "信用買い残が大きく需給が悪化しているため、出来高の急増が継続しない限りスイング買いは危険なため。"
      ],
-     "timestamp": "09:59",
-     "confidence": "medium"
+     "timestamp": "11:00",
+     "confidence": "high"
     }
    ]
   },
   {
-   "video_id": "eNsVHFW4orc",
-   "title": "米CPI無事通過？FOMC・日銀会合見通し",
-   "published": "2026-09-12T02:00:22+00:00",
+   "video_id": "fK6Q42PMlmY",
+   "title": "対米投資第3弾：次世代原発の小型モジュール炉の関連銘柄を見てみる",
+   "published": "2026-09-14T07:09:57+00:00",
    "description": "🔽「株のオンラインサロン」やってます！\n→　https://yoor.jp/door/tradertomo\n\n※ 参加プラン別のサービス内容はこちらの動画で解説しています。\n→https://youtu.be/AGZetFvA-Xk?si=Qy_ctky7kW1QSOHX\n\n株好きが集まる楽しいサロンを目指してます♪\n初心者歓迎です～ご参加お待ちしています！\n\n🔽サブチャンネルもやってます＾＾\nhttps://www.youtube.com/@TOMO-subtrader\n\n---------------------------------------------\n🔽公式LINEやってます！ともだち登録お願いします☆\n---------------------------------------------\n\n「うねり取り株投資実践講義」（総時間147分）視聴可。\n→https://s.l",
    "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
    "channel_name": "トレーダーTOMO",
@@ -583,57 +549,128 @@
    "slot": 2,
    "no_transcript": false,
    "skip_reason": "",
-   "overview": "8月の米CPIはコア前月比が上振れたものの利上げ織り込みの進展で米株は上昇し、半導体株の反発を受けて日経先物も上昇しました。来週はFOMCや日銀会合のほかシルバーウィークの連休を控えているため、慎重なポジション管理が推奨されています。相場全体を先導する銘柄の動きや新しい物色テーマの出現が今後の注目点です。",
-   "market_view": "イベント通過感や半導体株の自律反発が期待される一方、日銀会合や大型連休を控えて慎重なリスク管理が求められる相場環境です。",
-   "market": "MIX",
+   "overview": "対米投資第3弾として次世代原発の小型モジュール炉(SMR)建設が有力視された報道を受け、原発関連銘柄の動向を解説している。日立製作所や三菱重工業などの大型株は出来高が伴わず地合い要因が大きいと分析する一方、日本ギア工業や助川電気工業といった小型株は初動から強い買戻しが入っており大相場へ発展する可能性を指摘している。",
+   "market_view": "OpenAIのIPO見送りによるソフトバンクグループの急落や地政学リスク等で日経平均は下落したが、ディフェンシブ株やバリュー株への買いが支えとなり全面安は回避された。",
+   "market": "JP",
    "picks": [
+    {
+     "name": "助川電気工業",
+     "name_en": "Sukegawa Electric Co., Ltd.",
+     "ticker": "7711",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "受給改善から大相場へ発展の期待",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "対米投資第3弾で小型モジュール炉の建設が有力視された報道を受けストップ高となったこと。",
+      "信用買残の減少や機関投資家の買い戻しが進んでおり受給状態の改善から大相場が期待できること。"
+     ],
+     "timestamp": "11:07",
+     "confidence": "high"
+    },
+    {
+     "name": "日本ギア工業",
+     "name_en": "Nippon Gear Co., Ltd.",
+     "ticker": "6356",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "初動から買いが強く大相場に注目",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "価格帯が低く個人投資家が手掛けやすい水準でストップ高を付け節目を上抜けてきたこと。",
+      "初動から明確な買い注文が入っており明日以降に大相場へ発展する可能性を秘めていること。"
+     ],
+     "timestamp": "10:35",
+     "confidence": "high"
+    },
+    {
+     "name": "日立製作所",
+     "name_en": "Hitachi, Ltd.",
+     "ticker": "6501",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "テーマでの上昇ではなく出来高次第",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "ベルノバとの共同開発による小型係水路の実用化で先行するテーマの土本命銘柄であること。",
+      "出来高が大幅に増えておらずテーマでの上昇とは言い難いが安値を切り上げ要線を継続していること。"
+     ],
+     "timestamp": "06:13",
+     "confidence": "medium"
+    },
+    {
+     "name": "三菱重工業",
+     "name_en": "Mitsubishi Heavy Industries, Ltd.",
+     "ticker": "7011",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "テーマでの資金流入ではなくニュートラル",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "日本の原子力開発を牽引しトラック輸送可能な超小型マイクロ炉など多彩な設計を進めること。",
+      "本日の株価は上昇したものの出来高は1000万株まで落としており地合いでの上昇と見られること。"
+     ],
+     "timestamp": "07:42",
+     "confidence": "medium"
+    },
+    {
+     "name": "日本製鋼所",
+     "name_en": "The Japan Steel Works, Ltd.",
+     "ticker": "5631",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "信用シコリあるがレンジ下限のリバ狙い",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "原発向けの各種部品や部材・素材分野で高い市場シェアを持つ代表的な関連銘柄であること。",
+      "個人信用のシコリや機関の空売りが懸念されるがレンジ下限からのリバウンド狙いが可能なこと。"
+     ],
+     "timestamp": "08:41",
+     "confidence": "medium"
+    },
+    {
+     "name": "岡野バルブ製造",
+     "name_en": "Okano Valve Mfg. Co., Ltd.",
+     "ticker": "6492",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "板が薄く値嵩株のため手掛けづらい",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "原発向けの高温高圧バルブ分野で高いシェアを誇り小型原発関連銘柄として物色されたこと。",
+      "出来高が増加したものの値嵩株で板が薄いため振らされるリスクが高く手掛けづらいこと。"
+     ],
+     "timestamp": "09:58",
+     "confidence": "medium"
+    },
     {
      "name": "ソフトバンクグループ",
      "name_en": "SoftBank Group Corp.",
      "ticker": "9984",
      "market": "JP",
-     "stance": "neutral",
-     "stance_note": "寄与度が高く日経平均を牽引できるか注目",
+     "stance": "bearish",
+     "stance_note": "OpenAIの年内IPO見送りを受け急落",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "日経平均への寄与度が高い主要銘柄であり、相場全体を牽引していけるのかどうかが今後の展開を見るうえで重要視されている。"
+      "出資先のOpenAIが今年中のIPOを見送り非上場を継続すると表明したことが嫌気されたこと。",
+      "日経平均への影響度が大きい中で株価が10%以上も急落し全体相場の押し下げ要因となったこと。"
      ],
-     "timestamp": "07:21",
-     "confidence": "low"
-    },
-    {
-     "name": "アドバンテスト",
-     "name_en": "Advantest Corporation",
-     "ticker": "6857",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "日経平均を引っ張っていけるかがポイント",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "指数寄与度が高く、売られすぎた半導体関連の自律反発とともに全体相場を引っ張っていけるかどうかがポイントとされている。"
-     ],
-     "timestamp": "07:21",
-     "confidence": "low"
-    },
-    {
-     "name": "キオクシア",
-     "name_en": "Kioxia Holdings Corporation",
-     "ticker": "285A",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "売買代金の多さから相場を先導できるか注視",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "売買代金が多く市場の関心が高い銘柄であり、相場全体を先導していく役割を果たせるかどうかが注視されている。"
-     ],
-     "timestamp": "07:37",
-     "confidence": "low"
+     "timestamp": "00:02",
+     "confidence": "medium"
     }
    ]
   },

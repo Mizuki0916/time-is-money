@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-16T17:40:32.588889+09:00",
+ "generated_at": "2026-09-16T18:07:33.365411+09:00",
  "videos": [
   {
    "video_id": "32g_zns2kno",
@@ -78,6 +78,58 @@
      "ticker": "285A",
      "stance": "bearish",
      "timestamp": "18:29"
+    }
+   ]
+  },
+  {
+   "video_id": "0JFCkFsGCsg",
+   "title": "今日の活況銘柄を見てみる！（ソフトバンクG・太陽誘電・キオクシア・村田製作所・フジクラ・豊和工業・三菱重工など）株式テクニカルチャート分析",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-09-15T07:18:04+00:00",
+   "overview": "米金利の上昇や原油高、FOMC等のイベントを控えて全体相場が伸び悩む中、注目銘柄のテクニカル分析が行われました。ソフトバンクグループのリバウンドや太陽誘電・村田製作所などのボラティリティを活かした短期デイトレード戦略が示された一方、レンジ崩れのフジクラや防衛費報道で一時買われたもののシコリが重い三菱重工には警戒感が示されています。",
+   "market_view": "金利上昇局面では高バリュエーション銘柄の上値が重くなりやすく、全体相場も上方向へ強く追うのは難しい環境です。スイングよりもデイトレードで1日ごとに丁寧に仕切る姿勢が推奨されます。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "ソフトバンクグループ",
+     "ticker": "9984",
+     "stance": "bullish",
+     "timestamp": "04:35"
+    },
+    {
+     "name": "太陽誘電",
+     "ticker": "6976",
+     "stance": "neutral",
+     "timestamp": "05:56"
+    },
+    {
+     "name": "キオクシア",
+     "ticker": "285A",
+     "stance": "neutral",
+     "timestamp": "07:48"
+    },
+    {
+     "name": "村田製作所",
+     "ticker": "6981",
+     "stance": "neutral",
+     "timestamp": "09:27"
+    },
+    {
+     "name": "フジクラ",
+     "ticker": "5803",
+     "stance": "bearish",
+     "timestamp": "10:15"
+    },
+    {
+     "name": "三菱重工業",
+     "ticker": "7011",
+     "stance": "bearish",
+     "timestamp": "11:00"
     }
    ]
   },
@@ -192,6 +244,64 @@
    ]
   },
   {
+   "video_id": "fK6Q42PMlmY",
+   "title": "対米投資第3弾：次世代原発の小型モジュール炉の関連銘柄を見てみる",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-09-14T07:09:57+00:00",
+   "overview": "対米投資第3弾として次世代原発の小型モジュール炉(SMR)建設が有力視された報道を受け、原発関連銘柄の動向を解説している。日立製作所や三菱重工業などの大型株は出来高が伴わず地合い要因が大きいと分析する一方、日本ギア工業や助川電気工業といった小型株は初動から強い買戻しが入っており大相場へ発展する可能性を指摘している。",
+   "market_view": "OpenAIのIPO見送りによるソフトバンクグループの急落や地政学リスク等で日経平均は下落したが、ディフェンシブ株やバリュー株への買いが支えとなり全面安は回避された。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "助川電気工業",
+     "ticker": "7711",
+     "stance": "bullish",
+     "timestamp": "11:07"
+    },
+    {
+     "name": "日本ギア工業",
+     "ticker": "6356",
+     "stance": "bullish",
+     "timestamp": "10:35"
+    },
+    {
+     "name": "日立製作所",
+     "ticker": "6501",
+     "stance": "neutral",
+     "timestamp": "06:13"
+    },
+    {
+     "name": "三菱重工業",
+     "ticker": "7011",
+     "stance": "neutral",
+     "timestamp": "07:42"
+    },
+    {
+     "name": "日本製鋼所",
+     "ticker": "5631",
+     "stance": "neutral",
+     "timestamp": "08:41"
+    },
+    {
+     "name": "岡野バルブ製造",
+     "ticker": "6492",
+     "stance": "neutral",
+     "timestamp": "09:58"
+    },
+    {
+     "name": "ソフトバンクグループ",
+     "ticker": "9984",
+     "stance": "bearish",
+     "timestamp": "00:02"
+    }
+   ]
+  },
+  {
    "video_id": "pYBhmu1RxDs",
    "title": "今週（9/14〜）現状報告と展望解説",
    "channel_id": "UCt7qqCkTFFRfKjXzwqUXq4g",
@@ -234,104 +344,6 @@
      "ticker": "4592",
      "stance": "neutral",
      "timestamp": "05:47"
-    }
-   ]
-  },
-  {
-   "video_id": "L3C4Bkh47ro",
-   "title": "明日注目の銘柄を見ていく！（ソフトバンクG・太陽誘電・キオクシア・豊和工業・任天堂等）株式テクニカルチャート分析",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-09-12T23:00:29+00:00",
-   "overview": "原油価格の急変動やFOMC・日銀会合といった重要イベントを控える難解な地合いの中で、監視すべき注目銘柄とテクニカル分析が解説されています。半導体や電子部品の主力株から、原油高関連、ドローンテーマ、決算後のリバウンド狙いまで幅広く取り上げ、上値の重い銘柄が多い中で出来高や節目のラインを見極めた丁寧な取引の必要性を提示しています。",
-   "market_view": "原油価格の影響でネガティブな反応もあるが、米国株の堅調さや半導体指数の上昇を受けて日経平均はギャップアップ始動の可能性がある。ただし主要イベントを控え買い上がりは限られるため、半身の姿勢で出来高を伴う銘柄を攻めることが推奨されている。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "太陽誘電",
-     "ticker": "6976",
-     "stance": "bullish",
-     "timestamp": "02:35"
-    },
-    {
-     "name": "キオクシア",
-     "ticker": "285A",
-     "stance": "bullish",
-     "timestamp": "03:52"
-    },
-    {
-     "name": "ソフトバンクグループ",
-     "ticker": "9984",
-     "stance": "neutral",
-     "timestamp": "04:58"
-    },
-    {
-     "name": "INPEX",
-     "ticker": "1605",
-     "stance": "bullish",
-     "timestamp": "06:45"
-    },
-    {
-     "name": "テラドローン",
-     "ticker": "188A",
-     "stance": "neutral",
-     "timestamp": "07:27"
-    },
-    {
-     "name": "豊和工業",
-     "ticker": "6203",
-     "stance": "bearish",
-     "timestamp": "08:14"
-    },
-    {
-     "name": "任天堂",
-     "ticker": "7974",
-     "stance": "bullish",
-     "timestamp": "09:28"
-    },
-    {
-     "name": "タイミー",
-     "ticker": "215A",
-     "stance": "neutral",
-     "timestamp": "09:59"
-    }
-   ]
-  },
-  {
-   "video_id": "eNsVHFW4orc",
-   "title": "米CPI無事通過？FOMC・日銀会合見通し",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-09-12T02:00:22+00:00",
-   "overview": "8月の米CPIはコア前月比が上振れたものの利上げ織り込みの進展で米株は上昇し、半導体株の反発を受けて日経先物も上昇しました。来週はFOMCや日銀会合のほかシルバーウィークの連休を控えているため、慎重なポジション管理が推奨されています。相場全体を先導する銘柄の動きや新しい物色テーマの出現が今後の注目点です。",
-   "market_view": "イベント通過感や半導体株の自律反発が期待される一方、日銀会合や大型連休を控えて慎重なリスク管理が求められる相場環境です。",
-   "market": "MIX",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "ソフトバンクグループ",
-     "ticker": "9984",
-     "stance": "neutral",
-     "timestamp": "07:21"
-    },
-    {
-     "name": "アドバンテスト",
-     "ticker": "6857",
-     "stance": "neutral",
-     "timestamp": "07:21"
-    },
-    {
-     "name": "キオクシア",
-     "ticker": "285A",
-     "stance": "neutral",
-     "timestamp": "07:37"
     }
    ]
   },
