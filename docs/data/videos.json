@@ -1,6 +1,110 @@
 {
- "generated_at": "2026-09-18T05:57:19.314185+09:00",
+ "generated_at": "2026-09-18T06:36:06.301478+09:00",
  "videos": [
+  {
+   "video_id": "SLd7wqOozFk",
+   "title": "日本株稼ぎ時や‼︎米利上げでAI半導体株崩壊か⁉ 日経平均→TOPIXシフト。キオクシア急落助からない？ドル円155円。円キオクシア助かるか。米国株乱高下。",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-09-17T14:28:55+00:00",
+   "overview": "日経平均先物の急騰や米国株の上昇を背景に、日本株全体の好調な地合いが解説されたライブ配信です。配当取りに向けた出遅れ株やバリュー株の上昇が目立つ一方、半導体関連株や権利落後に警戒が必要な不動産株・個別銘柄のテクニカル分析が詳細に行われました。日銀の利上げ織り込みや12月の米利上げ警戒など、今後のキャッシュポジション管理の重要性についても触れられています。",
+   "market_view": "日経平均先物が大幅上昇するなど地合いは良好ですが、権利落ち後の反動や12月の米利上げ懸念を踏まえキャッシュ管理が重要と指摘しています。",
+   "market": "MIX",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "任天堂",
+     "ticker": "7974",
+     "stance": "bullish",
+     "timestamp": "05:50"
+    },
+    {
+     "name": "キオクシアホールディングス",
+     "ticker": "285A",
+     "stance": "bearish",
+     "timestamp": "07:12"
+    },
+    {
+     "name": "東洋エンジニアリング",
+     "ticker": "6300",
+     "stance": "neutral",
+     "timestamp": "12:24"
+    },
+    {
+     "name": "第一三共",
+     "ticker": "4568",
+     "stance": "bullish",
+     "timestamp": "20:18"
+    },
+    {
+     "name": "NEC",
+     "ticker": "6701",
+     "stance": "bullish",
+     "timestamp": "23:51"
+    },
+    {
+     "name": "三井不動産",
+     "ticker": "8801",
+     "stance": "bearish",
+     "timestamp": "40:35"
+    },
+    {
+     "name": "FOOD & LIFE COMPANIES",
+     "ticker": "3563",
+     "stance": "bearish",
+     "timestamp": "50:03"
+    }
+   ]
+  },
+  {
+   "video_id": "sy7ikDZzheY",
+   "title": "【日経平均】 FOMCは無事通過？ 明日は日銀会合 〇〇がポイント  サンディスク・キオクシア・テラドローン・オンコリスバイオ・三井金属",
+   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+   "channel_name": "Trader's Lab",
+   "channel_short": "TL",
+   "slot": 1,
+   "published": "2026-09-17T11:00:02+00:00",
+   "overview": "本動画では、FOMC通過後の市場環境や日経平均・米株指数の分析を行い、全体相場が依然として下落基調であり自律反発の域を出ていない点について警戒を促しています。個別銘柄としては、テクニカル悪化やモメンタム悪化が見られるキオクシアや三井金属、反発したテラドローン、上場来高値を更新し力強い上昇を見せるオンコリスバイオファーマなどのチャート分析と戦略を解説しています。",
+   "market_view": "日経平均や主要指数は下落基調が続いており、一時的な上昇も自律反発の範囲内にとどまる戻り売りの相場環境と判断されています。",
+   "market": "MIX",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "サンディスク",
+     "ticker": "",
+     "stance": "bearish",
+     "timestamp": "21:04"
+    },
+    {
+     "name": "キオクシア",
+     "ticker": "285A",
+     "stance": "bearish",
+     "timestamp": "21:37"
+    },
+    {
+     "name": "テラドローン",
+     "ticker": "278A",
+     "stance": "neutral",
+     "timestamp": "23:31"
+    },
+    {
+     "name": "オンコリスバイオファーマ",
+     "ticker": "4588",
+     "stance": "bullish",
+     "timestamp": "24:47"
+    },
+    {
+     "name": "三井金属",
+     "ticker": "5706",
+     "stance": "bearish",
+     "timestamp": "27:28"
+    }
+   ]
+  },
   {
    "video_id": "izCs7sG4Dm4",
    "title": "【緊急】日本株空売り激減ヤバい‼️AI半導体株急落で日経平均崩壊か⁉️キオクシア助かるか。金利急騰で高配当株どうなる。ドル円155円,米国株、ハイテク株暴落。仮想通貨弱い。",
@@ -112,40 +216,6 @@
    ]
   },
   {
-   "video_id": "aXDqVgmXTuE",
-   "title": "【緊急】日本株空売り激減ヤバい‼️AI半導体株急落で日経平均崩壊か⁉️キオクシア助かるか。金利急騰で高配当株どうなる。ドル円155円,米国株、ハイテク株暴落。仮想通貨弱い。",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-09-15T09:15:01+00:00",
-   "overview": "日経平均はソフトバンクグループの急騰で下値を支えられたものの、空売り残高が8000億円を割り込みショートカバーの動力が失われたことで下落リスクが高まっています。米国の半導体株安や金利上昇によりハイテク株全体の戻りは限定的で、12月に信用取引の期日を迎えるキオクシアなどの銘柄には戻り売りや損益通算売りが警戒されます。配当権利落ち後の年末相場に向けては、需給が悪化している銘柄から需給良好な銘柄への選別が重要と示唆されています。",
-   "market_view": "市場全体の信用空売り残高が激減し上昇ブースターが失われた中で、米金利高や半導体株安を受けて日本株は上値の重い下落トレンドが意識されています。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "日経平均株価",
-     "ticker": "998407",
-     "stance": "bearish",
-     "timestamp": "01:03"
-    },
-    {
-     "name": "ソフトバンクグループ",
-     "ticker": "9984",
-     "stance": "neutral",
-     "timestamp": "23:14"
-    },
-    {
-     "name": "キオクシアホールディングス",
-     "ticker": "285A",
-     "stance": "bearish",
-     "timestamp": "18:29"
-    }
-   ]
-  },
-  {
    "video_id": "0JFCkFsGCsg",
    "title": "今日の活況銘柄を見てみる！（ソフトバンクG・太陽誘電・キオクシア・村田製作所・フジクラ・豊和工業・三菱重工など）株式テクニカルチャート分析",
    "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
@@ -194,58 +264,6 @@
      "ticker": "7011",
      "stance": "bearish",
      "timestamp": "11:00"
-    }
-   ]
-  },
-  {
-   "video_id": "y3FNyTU_5Ns",
-   "title": "【日経平均】 ⚠️安値更新 下抜けリスク高まる  サンディスク・キオクシア・太陽誘電・東京エレクトロン・ソフトバンクG",
-   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-   "channel_name": "Trader's Lab",
-   "channel_short": "TL",
-   "slot": 1,
-   "published": "2026-09-14T11:00:16+00:00",
-   "overview": "日経平均株価や米主要指数が下落基調を強める中、現金比率を高めたリスク管理の重要性が解説されている。日経平均は重要な下値支持線を下抜けて安値を更新しており、6万円前後の水準までの調整が警戒される。個別銘柄でも半導体やAI関連株を中心にテクニカル形状の悪化が目立ち、下げ止まりが確認できるまでは安易な押し目買いを避けるべき局面であると主張している。",
-   "market_view": "AI・半導体関連株を中心に下落基調が続いており、原油高・金利高・円高の三ツ高も重なって日本株全体に逆風が強い地合いとなっている。",
-   "market": "MIX",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "日経平均株価",
-     "ticker": "N225",
-     "stance": "bearish",
-     "timestamp": "13:08"
-    },
-    {
-     "name": "サンディスク",
-     "ticker": "SNDK",
-     "stance": "neutral",
-     "timestamp": "26:38"
-    },
-    {
-     "name": "キオクシア",
-     "ticker": "285A",
-     "stance": "bearish",
-     "timestamp": "27:30"
-    },
-    {
-     "name": "太陽誘電",
-     "ticker": "6976",
-     "stance": "bearish",
-     "timestamp": "28:57"
-    },
-    {
-     "name": "東京エレクトロン",
-     "ticker": "8035",
-     "stance": "bearish",
-     "timestamp": "32:39"
-    },
-    {
-     "name": "ソフトバンクグループ",
-     "ticker": "9984",
-     "stance": "bearish",
-     "timestamp": "34:10"
     }
    ]
   },

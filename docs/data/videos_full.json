@@ -1,6 +1,139 @@
 {
  "videos": [
   {
+   "video_id": "SLd7wqOozFk",
+   "title": "日本株稼ぎ時や‼︎米利上げでAI半導体株崩壊か⁉ 日経平均→TOPIXシフト。キオクシア急落助からない？ドル円155円。円キオクシア助かるか。米国株乱高下。",
+   "published": "2026-09-17T14:28:55+00:00",
+   "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "日経平均先物の急騰や米国株の上昇を背景に、日本株全体の好調な地合いが解説されたライブ配信です。配当取りに向けた出遅れ株やバリュー株の上昇が目立つ一方、半導体関連株や権利落後に警戒が必要な不動産株・個別銘柄のテクニカル分析が詳細に行われました。日銀の利上げ織り込みや12月の米利上げ警戒など、今後のキャッシュポジション管理の重要性についても触れられています。",
+   "market_view": "日経平均先物が大幅上昇するなど地合いは良好ですが、権利落ち後の反動や12月の米利上げ懸念を踏まえキャッシュ管理が重要と指摘しています。",
+   "market": "MIX",
+   "picks": [
+    {
+     "name": "任天堂",
+     "name_en": "Nintendo",
+     "ticker": "7974",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "含み益層が多く上昇トレンド継続",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "買っている人全員が含み益状態となっており直近の信用買いをこなして大きく上昇した。",
+      "全体的な株価上昇の波に乗っており上値追いの展開が期待できるチャート形状である。"
+     ],
+     "timestamp": "05:50",
+     "confidence": "medium"
+    },
+    {
+     "name": "キオクシアホールディングス",
+     "name_en": "Kioxia Holdings",
+     "ticker": "285A",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "三角持ち合いと需給悪化に警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "上値切り下がり型の三角持ち合いを形成しており戻り売りに警戒が必要な形状である。",
+      "信用買い残が膨大であり株式分割に伴う買い残増加で需給悪化が進む懸念がある。"
+     ],
+     "timestamp": "07:12",
+     "confidence": "high"
+    },
+    {
+     "name": "東洋エンジニアリング",
+     "name_en": "Toyo Engineering",
+     "ticker": "6300",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "200日線付近で一部利確を考慮",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "200日移動平均線付近に達しており目先の利益確定を挟みつつ残りで上抜けを狙う局面である。",
+      "高値で捕まっていたシコリ難平の売りが消化されれば上抜けしやすくなる可能性がある。"
+     ],
+     "timestamp": "12:24",
+     "confidence": "medium"
+    },
+    {
+     "name": "第一三共",
+     "name_en": "Daiichi Sankyo",
+     "ticker": "4568",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "テクニカル指標の好転で上昇相場へ",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "RSIの上値抵抗線を上に突破しMACDもゴールデンクロスを形成して上昇トレンドに入った。"
+     ],
+     "timestamp": "20:18",
+     "confidence": "medium"
+    },
+    {
+     "name": "NEC",
+     "name_en": "NEC Corporation",
+     "ticker": "6701",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "移動平均線のGC形成で強い展開",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "50日移動平均線と200日移動平均線のゴールデンクロス形成が進み非常に強いチャート形状である。",
+      "RSIの上値ラインを上抜けしたことで MACDも上昇を示唆するサインを出している。"
+     ],
+     "timestamp": "23:51",
+     "confidence": "medium"
+    },
+    {
+     "name": "三井不動産",
+     "name_en": "Mitsui Fudosan",
+     "ticker": "8801",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "権利落ち後の押し目買いを狙う",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "配当取りの時期にもかかわらず株価の上値が重く権利落ち後に安値を狙うのが安全である。"
+     ],
+     "timestamp": "40:35",
+     "confidence": "medium"
+    },
+    {
+     "name": "FOOD & LIFE COMPANIES",
+     "name_en": "FOOD & LIFE COMPANIES",
+     "ticker": "3563",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "下落バンドウォーク終了を待つ段階",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "日足がマイナス2シグマに沿って下落する強烈なバンドウォーク中で反転の兆候を待つ必要がある。"
+     ],
+     "timestamp": "50:03",
+     "confidence": "medium"
+    }
+   ]
+  },
+  {
    "video_id": "izCs7sG4Dm4",
    "title": "【緊急】日本株空売り激減ヤバい‼️AI半導体株急落で日経平均崩壊か⁉️キオクシア助かるか。金利急騰で高配当株どうなる。ドル円155円,米国株、ハイテク株暴落。仮想通貨弱い。",
    "published": "2026-09-16T13:56:33+00:00",
@@ -154,70 +287,103 @@
    ]
   },
   {
-   "video_id": "aXDqVgmXTuE",
-   "title": "【緊急】日本株空売り激減ヤバい‼️AI半導体株急落で日経平均崩壊か⁉️キオクシア助かるか。金利急騰で高配当株どうなる。ドル円155円,米国株、ハイテク株暴落。仮想通貨弱い。",
-   "published": "2026-09-15T09:15:01+00:00",
-   "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
+   "video_id": "sy7ikDZzheY",
+   "title": "【日経平均】 FOMCは無事通過？ 明日は日銀会合 〇〇がポイント  サンディスク・キオクシア・テラドローン・オンコリスバイオ・三井金属",
+   "published": "2026-09-17T11:00:02+00:00",
+   "description": "※動画の趣旨は個人的主観の予測であり、値動きを保証するものではありません。\n　投資の判断は自己責任でお願いします。\n\nサンワード証券セミナー申し込み\nhttps://www.sunward-t.co.jp/seminar/2026/09/26_3/index_k.html\n\n◉トレンド分析の基礎おすすめ動画\n【永久保存版】初心者でもわかるダウ理論の使い方【前編】\nhttps://youtu.be/re9XBR2qcBw\n【永久保存版】初心者でもわかるダウ理論の使い方【後編】\nhttps://youtu.be/Z21W4VFSs9g\n【知らなきゃ勝てない】移動平均線で相場を読む最強の方法\nhttps://youtu.be/FfSX8hcRR2I\n【一目均衡表の真髄】初心者でも分かる完全ガイド\nhttps://youtu.be/xPkb1twTFFI\n\n◉SBI証券株式会社キャンペーン　手数料",
+   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+   "channel_name": "Trader's Lab",
+   "channel_short": "TL",
+   "slot": 1,
    "no_transcript": false,
    "skip_reason": "",
-   "overview": "日経平均はソフトバンクグループの急騰で下値を支えられたものの、空売り残高が8000億円を割り込みショートカバーの動力が失われたことで下落リスクが高まっています。米国の半導体株安や金利上昇によりハイテク株全体の戻りは限定的で、12月に信用取引の期日を迎えるキオクシアなどの銘柄には戻り売りや損益通算売りが警戒されます。配当権利落ち後の年末相場に向けては、需給が悪化している銘柄から需給良好な銘柄への選別が重要と示唆されています。",
-   "market_view": "市場全体の信用空売り残高が激減し上昇ブースターが失われた中で、米金利高や半導体株安を受けて日本株は上値の重い下落トレンドが意識されています。",
-   "market": "JP",
+   "overview": "本動画では、FOMC通過後の市場環境や日経平均・米株指数の分析を行い、全体相場が依然として下落基調であり自律反発の域を出ていない点について警戒を促しています。個別銘柄としては、テクニカル悪化やモメンタム悪化が見られるキオクシアや三井金属、反発したテラドローン、上場来高値を更新し力強い上昇を見せるオンコリスバイオファーマなどのチャート分析と戦略を解説しています。",
+   "market_view": "日経平均や主要指数は下落基調が続いており、一時的な上昇も自律反発の範囲内にとどまる戻り売りの相場環境と判断されています。",
+   "market": "MIX",
    "picks": [
     {
-     "name": "日経平均株価",
-     "name_en": "Nikkei 225",
-     "ticker": "998407",
-     "market": "JP",
+     "name": "サンディスク",
+     "name_en": "SanDisk",
+     "ticker": "",
+     "market": "US",
      "stance": "bearish",
-     "stance_note": "空売り激減と指標悪化で下落警戒",
+     "stance_note": "25日線下回りでモメンタム悪化の懸念あり",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "日市場全体の信用売り残が1年2ヶ月ぶりに8000億円を下回り、上昇の原動力となるショートカバーの燃料が消失したため。",
-      "移動平均線のデッドクロス形成やEPS低下による理論株価の切り下がりが進んでおり、下落トレンドが意識されているため。"
+      "日足の25日移動平均線を下回っており、株価が停滞すると時間経過とともにモメンタムが悪化する懸念が出ている。"
      ],
-     "timestamp": "01:03",
-     "confidence": "high"
-    },
-    {
-     "name": "ソフトバンクグループ",
-     "name_en": "SoftBank Group Corp.",
-     "ticker": "9984",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "IPO材料で急騰も相場全体の支え役",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "子会社のIPO関連ニュースが出たことで株価が7.54%上昇し、日経平均を1銘柄で約353円押し上げる要因となったため。",
-      "米即数指数の急落や半導体株が軟調なマーケット環境において、材料視された資金の買いが集まり株価を下支えしたため。"
-     ],
-     "timestamp": "23:14",
+     "timestamp": "21:04",
      "confidence": "medium"
     },
     {
-     "name": "キオクシアホールディングス",
-     "name_en": "Kioxia Holdings Corporation",
+     "name": "キオクシア",
+     "name_en": "Kioxia Holdings",
      "ticker": "285A",
      "market": "JP",
      "stance": "bearish",
-     "stance_note": "12月の信用期日到来で売り圧力警戒",
+     "stance_note": "25日線下向きで下方向への圧力強い",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "6月の高値で買った信用買いの半年期日が12月に到来するため、戻り売りや期日売りの圧力が強まりやすい展開が想定されるため。",
-      "年末に向かっての税制上の損益通算売りや米利上げ観測など、高PR・ハイテク株にネガティブな要因が重なるリスクがあるため。"
+      "25日移動平均線が下向きで現在値が低いため、時間の経過とともに下方向へのモメンタムが強まりやすいチャート形状である。",
+      "週足でも26週移動平均線を明確に割り込んでおり、主要な節目を割るとさらに一段安へ向かうリスクが想定される。"
      ],
-     "timestamp": "18:29",
-     "confidence": "medium"
+     "timestamp": "21:37",
+     "confidence": "high"
+    },
+    {
+     "name": "テラドローン",
+     "name_en": "Terra Drone",
+     "ticker": "278A",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "25日線付近で反発も週足下落リスクに注意",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "前日の大幅下落から約10%買い戻され、日足の25日移動平均線に対して反発する動きを見せている。",
+      "週足レベルでは13週移動平均線付近までの下落リスクが潜んでおり、日足と週足の目線の違いに注意が必要である。"
+     ],
+     "timestamp": "23:31",
+     "confidence": "high"
+    },
+    {
+     "name": "オンコリスバイオファーマ",
+     "name_en": "Oncolys BioPharma",
+     "ticker": "4588",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "連日の上場来高値更新で強い上昇傾向",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "地合いが渋い中でも連日で上場来高値を更新しており、機関投資家の空売り撤退も手伝って強い上昇傾向にある。",
+      "日足がバンドウォークの形状で上昇しており、前日の下落をすぐに吸収する力強い切り返しを見せている。"
+     ],
+     "timestamp": "24:47",
+     "confidence": "high"
+    },
+    {
+     "name": "三井金属",
+     "name_en": "Mitsui Mining & Smelting",
+     "ticker": "5706",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "週足で三役逆転し下落トレンドが継続",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "日足・週足ともにマイナス1〜2シグマを下回る下落バンドウォークが続いており、下落トレンドが強まっている。",
+      "週足レベルで雲の下限を割り込んで三役逆転が完成しており、戻り売りや含み損の投げ売りなど複数の売り圧力が存在する。"
+     ],
+     "timestamp": "27:28",
+     "confidence": "high"
     }
    ]
   },
@@ -319,119 +485,6 @@
       "ボリンジャーバンド+1シマや移動平均線乖離率が高い状態を保ったまま推移しておりトレンド崩れまで保有可能。"
      ],
      "timestamp": "30:31",
-     "confidence": "high"
-    }
-   ]
-  },
-  {
-   "video_id": "y3FNyTU_5Ns",
-   "title": "【日経平均】 ⚠️安値更新 下抜けリスク高まる  サンディスク・キオクシア・太陽誘電・東京エレクトロン・ソフトバンクG",
-   "published": "2026-09-14T11:00:16+00:00",
-   "description": "※動画の趣旨は個人的主観の予測であり、値動きを保証するものではありません。\n　投資の判断は自己責任でお願いします。\n\nサンワード証券セミナー申し込み\nhttps://www.sunward-t.co.jp/seminar/2026/09/26_3/index_k.html\n\n◉トレンド分析の基礎おすすめ動画\n【永久保存版】初心者でもわかるダウ理論の使い方【前編】\nhttps://youtu.be/re9XBR2qcBw\n【永久保存版】初心者でもわかるダウ理論の使い方【後編】\nhttps://youtu.be/Z21W4VFSs9g\n【知らなきゃ勝てない】移動平均線で相場を読む最強の方法\nhttps://youtu.be/FfSX8hcRR2I\n【一目均衡表の真髄】初心者でも分かる完全ガイド\nhttps://youtu.be/xPkb1twTFFI\n\n◉SBI証券株式会社キャンペーン　手数料",
-   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-   "channel_name": "Trader's Lab",
-   "channel_short": "TL",
-   "slot": 1,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "日経平均株価や米主要指数が下落基調を強める中、現金比率を高めたリスク管理の重要性が解説されている。日経平均は重要な下値支持線を下抜けて安値を更新しており、6万円前後の水準までの調整が警戒される。個別銘柄でも半導体やAI関連株を中心にテクニカル形状の悪化が目立ち、下げ止まりが確認できるまでは安易な押し目買いを避けるべき局面であると主張している。",
-   "market_view": "AI・半導体関連株を中心に下落基調が続いており、原油高・金利高・円高の三ツ高も重なって日本株全体に逆風が強い地合いとなっている。",
-   "market": "MIX",
-   "picks": [
-    {
-     "name": "日経平均株価",
-     "name_en": "Nikkei 225",
-     "ticker": "N225",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "安値更新で5万9000円〜6万円への調整警戒",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "重要な下値ラインを割り込んで高値と安値の切り下げが継続。目先は5万9000円から6万円付近までの底模索が想定される下落トレンド。"
-     ],
-     "timestamp": "13:08",
-     "confidence": "high"
-    },
-    {
-     "name": "サンディスク",
-     "name_en": "SanDisk",
-     "ticker": "SNDK",
-     "market": "US",
-     "stance": "neutral",
-     "stance_note": "8月14日高値を超えずレンジ色が強い動き",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "8月14日につけた高値を超えない限り上昇転換せずレンジ色が強い。25日移動平均線付近での攻防が続いており明確な方向感に欠ける。"
-     ],
-     "timestamp": "26:38",
-     "confidence": "medium"
-    },
-    {
-     "name": "キオクシア",
-     "name_en": "Kioxia Holdings Corporation",
-     "ticker": "285A",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "25日線割り込みでモメンタムが悪化",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "25日移動平均線を割り込みモメンタムが悪化。移動平均線や一目均衡表の雲が上値抵抗線となり、当面は強気相場への復帰が難しい形状。"
-     ],
-     "timestamp": "27:30",
-     "confidence": "high"
-    },
-    {
-     "name": "太陽誘電",
-     "name_en": "Taiyo Yuden Co., Ltd.",
-     "ticker": "6976",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "8600円割れで明確な下落トレンド形成",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "直近の7月末安値8600円を下割り日足で下落トレンドが継続。ボリンジャーバンドのマイナス1シグマに沿った下落が確定し非常に脆弱。"
-     ],
-     "timestamp": "28:57",
-     "confidence": "high"
-    },
-    {
-     "name": "東京エレクトロン",
-     "name_en": "Tokyo Electron Limited",
-     "ticker": "8035",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "7月末安値に接近しチャート形状が悪化",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "直近安値や7月末安値の水準まで下落しチャート形状が悪化。25日移動平均線が下向きとなっておりバンドウォークによる下落加速に警戒。"
-     ],
-     "timestamp": "32:39",
-     "confidence": "high"
-    },
-    {
-     "name": "ソフトバンクグループ",
-     "name_en": "SoftBank Group Corp.",
-     "ticker": "9984",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "戻り高値で押し戻され乱高下が続く難局面",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "アンソロピック関連報道の影響で大幅下落し戻り高値付近で反落。ボラティリティが高くレンジ内での乱高下が続きテクニカル分析が難解。"
-     ],
-     "timestamp": "34:10",
      "confidence": "high"
     }
    ]
