@@ -1,6 +1,49 @@
 {
- "generated_at": "2026-09-19T04:54:41.787303+09:00",
+ "generated_at": "2026-09-20T19:13:03.005051+09:00",
  "videos": [
+  {
+   "video_id": "AF76GilGkC0",
+   "title": "日本株稼ぎ時や‼︎米利上げでAI半導体株急伸。日銀利上げで日経平均上昇→TOPIX下落。キオクシア助かるか？ドル円157円。米国株乱高下。",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-09-20T01:31:18+00:00",
+   "overview": "",
+   "market_view": "",
+   "market": "",
+   "no_transcript": true,
+   "skip_reason": "動画が非公開・削除・配信予定などで取得できません",
+   "picks": []
+  },
+  {
+   "video_id": "3fhDy59Pu9M",
+   "title": "個別銘柄の需給を見るポイントについて【初心者向け】",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-09-19T23:00:05+00:00",
+   "overview": "個別銘柄の需給分析における基本ポイントとして、信用改ざんと常時出来高の比較や含み損玉(しこり)の有無を確認する重要性を解説する動画です。業績が良くても上値にしこりがあり出来高が減少している銘柄は上値が重くなりやすく、一方で信用改ざんが多くても株価上昇によって保有者が含み益となっていれば上値を伸ばしやすい点などを事例を交えて説明しています。",
+   "market_view": "",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "フジクラ",
+     "ticker": "5803",
+     "stance": "bearish",
+     "timestamp": "03:54"
+    },
+    {
+     "name": "ノースサンド",
+     "ticker": "446A",
+     "stance": "bullish",
+     "timestamp": "11:48"
+    }
+   ]
+  },
   {
    "video_id": "7fGcuWv8_Bo",
    "title": "今日の活況銘柄を見てみる！（ソフトバンクG・太陽誘電・キオクシア・フジクラ・村田製作所・古河電工等）株式テクニカルチャート分析",
@@ -164,46 +207,6 @@
    ]
   },
   {
-   "video_id": "ISRVktqoevc",
-   "title": "米利上げでAI半導体株崩壊か⁉ 日経平均弱すぎる。海外投資家が日本株をついに大量売却‼ TOPIXシフト。キオクシア急落助からない？ドル円155円。円キオクシア助かるか。米国株乱高下。",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-09-17T09:15:00+00:00",
-   "overview": "米利上げ発表に伴いハイテク・半導体株が軟調となる中、配当取り需要からバリュー株や出遅れ銘柄への資金シフトが進む現状を解説しています。日経平均は信用倍率や空売り残高の不足から上値が重く、PER18倍水準が意識される展開を想定しています。一方で9月配当落ち後の需給悪化や年末に向けた損益通算売りによるハイテク株の下落リスクを警戒し、バリュー株優勢の戦略を推奨しています。",
-   "market_view": "米利上げによりハイテク株からバリュー株・高配当株へのシフトが進み、TOPIX優勢の展開が続くが、空売り残高不足により日経平均の上値は重いと分析しています。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "キオクシアホールディングス",
-     "ticker": "285A",
-     "stance": "bearish",
-     "timestamp": "01:19"
-    },
-    {
-     "name": "レーザーテック",
-     "ticker": "6920",
-     "stance": "bearish",
-     "timestamp": "01:19"
-    },
-    {
-     "name": "SUBARU",
-     "ticker": "7270",
-     "stance": "bullish",
-     "timestamp": "01:37"
-    },
-    {
-     "name": "任天堂",
-     "ticker": "7974",
-     "stance": "bullish",
-     "timestamp": "01:37"
-    }
-   ]
-  },
-  {
    "video_id": "32g_zns2kno",
    "title": "【日経平均】 AI減速懸念、金利高 イベント通過後の値動きに備えろ  サンディスク・キオクシア・太陽誘電・豊和工業・オンコリスバイオ",
    "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
@@ -246,58 +249,6 @@
      "ticker": "4588",
      "stance": "bullish",
      "timestamp": "30:31"
-    }
-   ]
-  },
-  {
-   "video_id": "0JFCkFsGCsg",
-   "title": "今日の活況銘柄を見てみる！（ソフトバンクG・太陽誘電・キオクシア・村田製作所・フジクラ・豊和工業・三菱重工など）株式テクニカルチャート分析",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-09-15T07:18:04+00:00",
-   "overview": "米金利の上昇や原油高、FOMC等のイベントを控えて全体相場が伸び悩む中、注目銘柄のテクニカル分析が行われました。ソフトバンクグループのリバウンドや太陽誘電・村田製作所などのボラティリティを活かした短期デイトレード戦略が示された一方、レンジ崩れのフジクラや防衛費報道で一時買われたもののシコリが重い三菱重工には警戒感が示されています。",
-   "market_view": "金利上昇局面では高バリュエーション銘柄の上値が重くなりやすく、全体相場も上方向へ強く追うのは難しい環境です。スイングよりもデイトレードで1日ごとに丁寧に仕切る姿勢が推奨されます。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "ソフトバンクグループ",
-     "ticker": "9984",
-     "stance": "bullish",
-     "timestamp": "04:35"
-    },
-    {
-     "name": "太陽誘電",
-     "ticker": "6976",
-     "stance": "neutral",
-     "timestamp": "05:56"
-    },
-    {
-     "name": "キオクシア",
-     "ticker": "285A",
-     "stance": "neutral",
-     "timestamp": "07:48"
-    },
-    {
-     "name": "村田製作所",
-     "ticker": "6981",
-     "stance": "neutral",
-     "timestamp": "09:27"
-    },
-    {
-     "name": "フジクラ",
-     "ticker": "5803",
-     "stance": "bearish",
-     "timestamp": "10:15"
-    },
-    {
-     "name": "三菱重工業",
-     "ticker": "7011",
-     "stance": "bearish",
-     "timestamp": "11:00"
     }
    ]
   },

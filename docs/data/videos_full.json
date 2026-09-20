@@ -1,6 +1,23 @@
 {
  "videos": [
   {
+   "video_id": "AF76GilGkC0",
+   "title": "日本株稼ぎ時や‼︎米利上げでAI半導体株急伸。日銀利上げで日経平均上昇→TOPIX下落。キオクシア助かるか？ドル円157円。米国株乱高下。",
+   "published": "2026-09-20T01:31:18+00:00",
+   "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "no_transcript": true,
+   "skip_reason": "動画が非公開・削除・配信予定などで取得できません",
+   "attempts": 1,
+   "overview": "",
+   "market_view": "",
+   "market": "",
+   "picks": []
+  },
+  {
    "video_id": "SLd7wqOozFk",
    "title": "日本株稼ぎ時や‼︎米利上げでAI半導体株崩壊か⁉ 日経平均→TOPIXシフト。キオクシア急落助からない？ドル円155円。円キオクシア助かるか。米国株乱高下。",
    "published": "2026-09-17T14:28:55+00:00",
@@ -130,87 +147,6 @@
      ],
      "timestamp": "50:03",
      "confidence": "medium"
-    }
-   ]
-  },
-  {
-   "video_id": "ISRVktqoevc",
-   "title": "米利上げでAI半導体株崩壊か⁉ 日経平均弱すぎる。海外投資家が日本株をついに大量売却‼ TOPIXシフト。キオクシア急落助からない？ドル円155円。円キオクシア助かるか。米国株乱高下。",
-   "published": "2026-09-17T09:15:00+00:00",
-   "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "米利上げ発表に伴いハイテク・半導体株が軟調となる中、配当取り需要からバリュー株や出遅れ銘柄への資金シフトが進む現状を解説しています。日経平均は信用倍率や空売り残高の不足から上値が重く、PER18倍水準が意識される展開を想定しています。一方で9月配当落ち後の需給悪化や年末に向けた損益通算売りによるハイテク株の下落リスクを警戒し、バリュー株優勢の戦略を推奨しています。",
-   "market_view": "米利上げによりハイテク株からバリュー株・高配当株へのシフトが進み、TOPIX優勢の展開が続くが、空売り残高不足により日経平均の上値は重いと分析しています。",
-   "market": "JP",
-   "picks": [
-    {
-     "name": "キオクシアホールディングス",
-     "name_en": "Kioxia Holdings Corporation",
-     "ticker": "285A",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "米利上げ背景の半導体安で急落",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "米国の利上げ決定を受けたハイテク株・半導体関連株の軟調な流れに押され、前日比1.77%の下落となっているため。"
-     ],
-     "timestamp": "01:19",
-     "confidence": "medium"
-    },
-    {
-     "name": "レーザーテック",
-     "name_en": "Lasertec Corporation",
-     "ticker": "6920",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "米利上げに伴い半導体株として軟調",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "米国の利上げを受けてAI・半導体関連銘柄全体に売りが先行し、上値が重く軟調な展開となっているため。"
-     ],
-     "timestamp": "01:19",
-     "confidence": "medium"
-    },
-    {
-     "name": "SUBARU",
-     "name_en": "Subaru Corporation",
-     "ticker": "7270",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "出遅れ高配当株として上昇傾向",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "9月の配当取り需要やバリュー株への資金シフトを追い風に、出遅れ感のある高配当銘柄として買われているため。"
-     ],
-     "timestamp": "01:37",
-     "confidence": "medium"
-    },
-    {
-     "name": "任天堂",
-     "name_en": "Nintendo Co., Ltd.",
-     "ticker": "7974",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "資金シフトを受け株価は堅調",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "ハイテク・半導体株から資金が退避する流れの中で、しっかりとした動きを見せる銘柄として買われているため。"
-     ],
-     "timestamp": "01:37",
-     "confidence": "low"
     }
    ]
   },
@@ -418,6 +354,59 @@
    ]
   },
   {
+   "video_id": "3fhDy59Pu9M",
+   "title": "個別銘柄の需給を見るポイントについて【初心者向け】",
+   "published": "2026-09-19T23:00:05+00:00",
+   "description": "🔽動画内で紹介した需給確認サイト「株ビジョン」\nhttps://stockscope.app/\n\n🔽「株のオンラインサロン」やってます！\n→　https://yoor.jp/door/tradertomo\n\n※ 参加プラン別のサービス内容はこちらの動画で解説しています。\n→https://youtu.be/AGZetFvA-Xk?si=Qy_ctky7kW1QSOHX\n\n株好きが集まる楽しいサロンを目指してます♪\n初心者歓迎です～ご参加お待ちしています！\n\n🔽サブチャンネルもやってます＾＾\nhttps://www.youtube.com/@TOMO-subtrader\n\n---------------------------------------------\n🔽公式LINEやってます！ともだち登録お願いします☆\n--------------------------------------",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "個別銘柄の需給分析における基本ポイントとして、信用改ざんと常時出来高の比較や含み損玉(しこり)の有無を確認する重要性を解説する動画です。業績が良くても上値にしこりがあり出来高が減少している銘柄は上値が重くなりやすく、一方で信用改ざんが多くても株価上昇によって保有者が含み益となっていれば上値を伸ばしやすい点などを事例を交えて説明しています。",
+   "market_view": "",
+   "market": "JP",
+   "picks": [
+    {
+     "name": "フジクラ",
+     "name_en": "Fujikura Ltd.",
+     "ticker": "5803",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "上値のしこりと出来高減少で需給悪化",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "出来高が減少傾向にある一方で信用改ざんが高水準で滞留しており需給悪化が著しい。",
+      "現在の株価位置よりも高い価格帯に出来高が偏っており、含み損のしこり玉が多数存在する。",
+      "企業業績自体は非常に好調であるものの、上値のしこり玉による戻り売り圧力が強い。"
+     ],
+     "timestamp": "03:54",
+     "confidence": "medium"
+    },
+    {
+     "name": "ノースサンド",
+     "name_en": "Northsand Co., Ltd.",
+     "ticker": "446A",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "含み益状態でしこりがなく上昇しやすい",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "信用改ざんの数量は多いものの株価上昇に伴い保有者のほぼ全員が含み益の状態である。",
+      "含み損となっているしこり玉が存在しないため、上値を追う展開で売り圧力を受けにくい。",
+      "信用外のうち約7割が期限のない一般信用であり、短期的な返済期日の圧力が少ない。"
+     ],
+     "timestamp": "11:48",
+     "confidence": "medium"
+    }
+   ]
+  },
+  {
    "video_id": "7fGcuWv8_Bo",
    "title": "今日の活況銘柄を見てみる！（ソフトバンクG・太陽誘電・キオクシア・フジクラ・村田製作所・古河電工等）株式テクニカルチャート分析",
    "published": "2026-09-18T07:16:12+00:00",
@@ -549,125 +538,6 @@
       "機関の空売り解消など好材料もあるため、リスクを抑えて4200円や4400円の抵抗線を抜けてから攻める待ち姿勢が好ましい。"
      ],
      "timestamp": "10:59",
-     "confidence": "high"
-    }
-   ]
-  },
-  {
-   "video_id": "0JFCkFsGCsg",
-   "title": "今日の活況銘柄を見てみる！（ソフトバンクG・太陽誘電・キオクシア・村田製作所・フジクラ・豊和工業・三菱重工など）株式テクニカルチャート分析",
-   "published": "2026-09-15T07:18:04+00:00",
-   "description": "🔽「株のオンラインサロン」やってます！\n→　https://yoor.jp/door/tradertomo\n\n※ 参加プラン別のサービス内容はこちらの動画で解説しています。\n→https://youtu.be/AGZetFvA-Xk?si=Qy_ctky7kW1QSOHX\n\n株好きが集まる楽しいサロンを目指してます♪\n初心者歓迎です～ご参加お待ちしています！\n\n🔽サブチャンネルもやってます＾＾\nhttps://www.youtube.com/@TOMO-subtrader\n\n---------------------------------------------\n🔽公式LINEやってます！ともだち登録お願いします☆\n---------------------------------------------\n\n「うねり取り株投資実践講義」（総時間147分）視聴可。\n→https://s.l",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "米金利の上昇や原油高、FOMC等のイベントを控えて全体相場が伸び悩む中、注目銘柄のテクニカル分析が行われました。ソフトバンクグループのリバウンドや太陽誘電・村田製作所などのボラティリティを活かした短期デイトレード戦略が示された一方、レンジ崩れのフジクラや防衛費報道で一時買われたもののシコリが重い三菱重工には警戒感が示されています。",
-   "market_view": "金利上昇局面では高バリュエーション銘柄の上値が重くなりやすく、全体相場も上方向へ強く追うのは難しい環境です。スイングよりもデイトレードで1日ごとに丁寧に仕切る姿勢が推奨されます。",
-   "market": "JP",
-   "picks": [
-    {
-     "name": "ソフトバンクグループ",
-     "name_en": "SoftBank Group Corp.",
-     "ticker": "9984",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "出来高伴うリバウンドで窓埋め達成",
-     "target_price": "",
-     "entry": "5800円ライン",
-     "stop": "",
-     "reasons": [
-      "前日に5800円付近で下げ渋った後、当日はギャップアップから大幅リバウンドとなり窓埋めを完了したため。",
-      "出来高8000万株超と商いが活況であり、出来高が維持されれば再度高値を目指す展開が十分可能なため。"
-     ],
-     "timestamp": "04:35",
-     "confidence": "high"
-    },
-    {
-     "name": "太陽誘電",
-     "name_en": "Taiyo Yuden Co., Ltd.",
-     "ticker": "6976",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "高ボラ活かしたデイトレに限定",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "安値圏での押し目買いが入るものの金利上昇局面では高バリュエーション株の上値は重くなりやすいため。",
-      "日中のボラティリティが高く短期で利益を取りやすい反面、下に抜けると底なしになるリスクがあるため。"
-     ],
-     "timestamp": "05:56",
-     "confidence": "high"
-    },
-    {
-     "name": "キオクシア",
-     "name_en": "Kioxia Holdings Corporation",
-     "ticker": "285A",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "株式分割後の出来高維持が焦点",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "安値圏での買い需要はあるものの、決算まで期間があり株価全体に重たさが意識されやすいため。",
-      "9月末の3株式分割後に高い出来高を継続できるかが鍵であり、節目を意識した短期売買に向くため。"
-     ],
-     "timestamp": "07:48",
-     "confidence": "high"
-    },
-    {
-     "name": "村田製作所",
-     "name_en": "Murata Manufacturing Co., Ltd.",
-     "ticker": "6981",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "7400円軸の素直な値動きを狙う",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "太陽誘電と類似したチャート形状だが極端に激しい動きが少なく、初心者でも比較的扱いやすいため。",
-      "出来高2000万株規模を維持しており、7400円ラインをサポートに短期でちょこちょこ取るのに適するため。"
-     ],
-     "timestamp": "09:27",
-     "confidence": "medium"
-    },
-    {
-     "name": "フジクラ",
-     "name_en": "Fujikura Ltd.",
-     "ticker": "5803",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "レンジ加減割れで上値シコリが重い",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "決算をピークに出来高が細っており、直近で揉み合いレンジの加減を割り込んでしまっているため。",
-      "上値に含み損を抱えた買い方のシコリ玉が多く残っており、積極的に狙う妙味が見出せないため。"
-     ],
-     "timestamp": "10:15",
-     "confidence": "medium"
-    },
-    {
-     "name": "三菱重工業",
-     "name_en": "Mitsubishi Heavy Industries, Ltd.",
-     "ticker": "7011",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "防衛特需の急騰もシコリ重く失速",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "防衛費増額のニュースで後場に急騰したものの、3800円の抵抗線で戻り売りに押されて伸び悩んだため。",
-      "信用買い残が大きく需給が悪化しているため、出来高の急増が継続しない限りスイング買いは危険なため。"
-     ],
-     "timestamp": "11:00",
      "confidence": "high"
     }
    ]
