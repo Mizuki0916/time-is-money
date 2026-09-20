@@ -9,18 +9,146 @@
    "channel_name": "Sho's投資情報局",
    "channel_short": "Sho",
    "slot": 3,
-   "no_transcript": true,
-   "skip_reason": "この動画には字幕がありません",
-   "attempts": 3,
-   "overview": "",
-   "market_view": "",
-   "market": "",
-   "picks": []
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "ライブ配信において、リスナーからのアンケートに基づいて個別銘柄のテクニカル分析および需給分析を中心に解説しています。高金利局面にもかかわらずグロス株や中小型株へ資金が向かう相場の違和感を指摘しつつ、株価における需給の重要性や高値から半年経過した銘柄の需給変化、ボリンジャーバンドのバンドウォークやダイバージエンス効果といったチャート指標の活用法について具体銘柄を挙げながら説明しています。",
+   "market_view": "高金利局面であるにもかかわらずグロス・中小型株に資金が向かうなど違和感のある動きが見られ、ファンダメンタルズ以上に需給の良し悪しを極めて重視すべき相場環境です。",
+   "market": "JP",
+   "picks": [
+    {
+     "name": "ファーストリテイリング",
+     "name_en": "Fast Retailing Co., Ltd.",
+     "ticker": "9983",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "移動平均デッドクロスと戻り売り警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "25日線と200日線のデッドクロス形成があり、MACDのゴールデンクロスが騙しとなって25日線(中央線)付近で反転下落する可能性があるため。"
+     ],
+     "timestamp": "03:58",
+     "confidence": "medium"
+    },
+    {
+     "name": "メルカリ",
+     "name_en": "Mercari, Inc.",
+     "ticker": "4385",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "バンドウォーク終了サインの確認待ち",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "株価が急落して強烈なバンドウォークを形成しているため、バンドウォーク終了のサインとMACDの上昇トレンド形成を確認するまでは静観が望ましいため。"
+     ],
+     "timestamp": "05:39",
+     "confidence": "medium"
+    },
+    {
+     "name": "平和",
+     "name_en": "HEIWA CORPORATION",
+     "ticker": "6412",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "ダイバージエンス発生による下振れ警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "株価は上がっているがRSIやMACDの上昇幅が切り下がるダイバージエンスが出ており、50日線と5日線のデッドクロスやRSI下線割れで下落加速の恐れがあるため。"
+     ],
+     "timestamp": "10:04",
+     "confidence": "medium"
+    },
+    {
+     "name": "セイコーエプソン",
+     "name_en": "Seiko Epson Corporation",
+     "ticker": "6724",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "過熱感とダイバージエンスで一部利確検討",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "200日線からの乖離率が30%超でフィボナッチのレッドゾーンに到達し、日足抵抗切り上がりに対しRSIが下がるダイバージエンスが出ているため一部利確も検討。"
+     ],
+     "timestamp": "12:00",
+     "confidence": "medium"
+    },
+    {
+     "name": "オークネット",
+     "name_en": "Aucnet Inc.",
+     "ticker": "3964",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "上方の移動平均デッドクロス形成に警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "株価は上昇傾向にあるものの、ボリンジャーバンド中央線や25日移動平均線付近で頭を押さえられ、移動平均線のデッドクロスを組みやすい形状となっているため。"
+     ],
+     "timestamp": "25:25",
+     "confidence": "medium"
+    },
+    {
+     "name": "エクサウィザーズ",
+     "name_en": "ExaWizards Inc.",
+     "ticker": "4259",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "バンドウォーク継続で強気維持",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "出来高を伴ってボリンジャーバンドの+1シグマに沿って上昇する強烈なバンドウォークを形成しており、そのパターンが継続する限りは上値を追える展開であるため。"
+     ],
+     "timestamp": "31:13",
+     "confidence": "medium"
+    },
+    {
+     "name": "任天堂",
+     "name_en": "Nintendo Co., Ltd.",
+     "ticker": "7974",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "持ち合いと移動平均線の抜け待ち",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "50日移動平均線と200日移動平均線が交錯するタイミングや三角持ち合いの上下抜けを見極める局面であり、材料発表などに向けたトレンドの発生を待つ段階であるため。"
+     ],
+     "timestamp": "40:00",
+     "confidence": "medium"
+    },
+    {
+     "name": "IHI",
+     "name_en": "IHI Corporation",
+     "ticker": "7013",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "高値半年期の需給通過待ち",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "高値からの半年期にあたり戻り売りが出やすい受給の谷に位置しているため、あと1ヶ月程度経過して受給改善が進むかどうかの確認が必要な局面であるため。"
+     ],
+     "timestamp": "42:50",
+     "confidence": "medium"
+    }
+   ]
   },
   {
-   "video_id": "SLd7wqOozFk",
-   "title": "日本株稼ぎ時や‼︎米利上げでAI半導体株崩壊か⁉ 日経平均→TOPIXシフト。キオクシア急落助からない？ドル円155円。円キオクシア助かるか。米国株乱高下。",
-   "published": "2026-09-17T14:28:55+00:00",
+   "video_id": "iaDo02r1in8",
+   "title": "【日本株に違和感‼︎】AI半導体株また騙し上げか⁉︎グロース株急騰。 日経平均882円高で高配当、バリュー株下落。ドル円も機関円爆買いで大荒れ。米国株、ナスダック、ハイテク株、仮想通貨BTC急騰。",
+   "published": "2026-09-19T04:00:01+00:00",
    "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
    "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
    "channel_name": "Sho's投資情報局",
@@ -28,124 +156,42 @@
    "slot": 3,
    "no_transcript": false,
    "skip_reason": "",
-   "overview": "日経平均先物の急騰や米国株の上昇を背景に、日本株全体の好調な地合いが解説されたライブ配信です。配当取りに向けた出遅れ株やバリュー株の上昇が目立つ一方、半導体関連株や権利落後に警戒が必要な不動産株・個別銘柄のテクニカル分析が詳細に行われました。日銀の利上げ織り込みや12月の米利上げ警戒など、今後のキャッシュポジション管理の重要性についても触れられています。",
-   "market_view": "日経平均先物が大幅上昇するなど地合いは良好ですが、権利落ち後の反動や12月の米利上げ懸念を踏まえキャッシュ管理が重要と指摘しています。",
-   "market": "MIX",
+   "overview": "日経平均株価は予想通りの反転上昇を見せているが、上昇を牽引するのはAI半導体株などの一部ハイテク株にとどまり、高配当株やバリュー株は冴えない展開が続いている。信用取引における売り残が少なくショートカバーの爆発的なブースターが期待できないため、上昇余地は限定的とみる。配当落ち後の急落や年末に向けた信用期日売りの圧力に警戒が必要であり、需給が軽い銘柄への選別投資が推奨されている。",
+   "market_view": "日経平均は目先反発しているものの受給面の燃料不足から上値は限られ、配当落ち後や年末の信用期日売りに向けた戻り売りに警戒を要する局面である。",
+   "market": "JP",
    "picks": [
     {
-     "name": "任天堂",
-     "name_en": "Nintendo",
-     "ticker": "7974",
+     "name": "日経平均株価",
+     "name_en": "Nikkei 225",
+     "ticker": "1321",
      "market": "JP",
-     "stance": "bullish",
-     "stance_note": "含み益層が多く上昇トレンド継続",
+     "stance": "neutral",
+     "stance_note": "月内は戻り試すも配当落ち後に警戒",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "買っている人全員が含み益状態となっており直近の信用買いをこなして大きく上昇した。",
-      "全体的な株価上昇の波に乗っており上値追いの展開が期待できるチャート形状である。"
+      "日足パラボリックの下点灯やMACDのゴールデンクロス形成により、短期的には戻りを試す上昇トレンドを形成している。",
+      "西証合計の信用売り残が8000億円未満と少なく踏み上げのブースターを欠くため、上昇幅は限られる見通し。"
      ],
-     "timestamp": "05:50",
-     "confidence": "medium"
-    },
-    {
-     "name": "キオクシアホールディングス",
-     "name_en": "Kioxia Holdings",
-     "ticker": "285A",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "三角持ち合いと需給悪化に警戒",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "上値切り下がり型の三角持ち合いを形成しており戻り売りに警戒が必要な形状である。",
-      "信用買い残が膨大であり株式分割に伴う買い残増加で需給悪化が進む懸念がある。"
-     ],
-     "timestamp": "07:12",
+     "timestamp": "00:00",
      "confidence": "high"
     },
     {
-     "name": "東洋エンジニアリング",
-     "name_en": "Toyo Engineering",
-     "ticker": "6300",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "200日線付近で一部利確を考慮",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "200日移動平均線付近に達しており目先の利益確定を挟みつつ残りで上抜けを狙う局面である。",
-      "高値で捕まっていたシコリ難平の売りが消化されれば上抜けしやすくなる可能性がある。"
-     ],
-     "timestamp": "12:24",
-     "confidence": "medium"
-    },
-    {
-     "name": "第一三共",
-     "name_en": "Daiichi Sankyo",
-     "ticker": "4568",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "テクニカル指標の好転で上昇相場へ",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "RSIの上値抵抗線を上に突破しMACDもゴールデンクロスを形成して上昇トレンドに入った。"
-     ],
-     "timestamp": "20:18",
-     "confidence": "medium"
-    },
-    {
-     "name": "NEC",
-     "name_en": "NEC Corporation",
-     "ticker": "6701",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "移動平均線のGC形成で強い展開",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "50日移動平均線と200日移動平均線のゴールデンクロス形成が進み非常に強いチャート形状である。",
-      "RSIの上値ラインを上抜けしたことで MACDも上昇を示唆するサインを出している。"
-     ],
-     "timestamp": "23:51",
-     "confidence": "medium"
-    },
-    {
-     "name": "三井不動産",
-     "name_en": "Mitsui Fudosan",
-     "ticker": "8801",
+     "name": "レーザーテック",
+     "name_en": "Lasertec Corporation",
+     "ticker": "6920",
      "market": "JP",
      "stance": "bearish",
-     "stance_note": "権利落ち後の押し目買いを狙う",
+     "stance_note": "短期反発も年末に向けた戻り売りを警戒",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "配当取りの時期にもかかわらず株価の上値が重く権利落ち後に安値を狙うのが安全である。"
+      "RSIの上値抵抗線を上抜けし、MACDゴールデンクロス形成により短期的には強い急降下後の反発が入っている。",
+      "高値で捕まった信用買い残が多く、年末の信用期日や損益通算に向けた売り圧力が加速するため戻り高値は売り姿勢。"
      ],
-     "timestamp": "40:35",
-     "confidence": "medium"
-    },
-    {
-     "name": "FOOD & LIFE COMPANIES",
-     "name_en": "FOOD & LIFE COMPANIES",
-     "ticker": "3563",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "下落バンドウォーク終了を待つ段階",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "日足がマイナス2シグマに沿って下落する強烈なバンドウォーク中で反転の兆候を待つ必要がある。"
-     ],
-     "timestamp": "50:03",
+     "timestamp": "26:34",
      "confidence": "medium"
     }
    ]

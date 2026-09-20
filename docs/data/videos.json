@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-21T02:08:00.592280+09:00",
+ "generated_at": "2026-09-21T07:31:47.926210+09:00",
  "videos": [
   {
    "video_id": "AF76GilGkC0",
@@ -9,12 +9,61 @@
    "channel_short": "Sho",
    "slot": 3,
    "published": "2026-09-20T14:07:40+00:00",
-   "overview": "",
-   "market_view": "",
-   "market": "",
-   "no_transcript": true,
-   "skip_reason": "この動画には字幕がありません",
-   "picks": []
+   "overview": "ライブ配信において、リスナーからのアンケートに基づいて個別銘柄のテクニカル分析および需給分析を中心に解説しています。高金利局面にもかかわらずグロス株や中小型株へ資金が向かう相場の違和感を指摘しつつ、株価における需給の重要性や高値から半年経過した銘柄の需給変化、ボリンジャーバンドのバンドウォークやダイバージエンス効果といったチャート指標の活用法について具体銘柄を挙げながら説明しています。",
+   "market_view": "高金利局面であるにもかかわらずグロス・中小型株に資金が向かうなど違和感のある動きが見られ、ファンダメンタルズ以上に需給の良し悪しを極めて重視すべき相場環境です。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "ファーストリテイリング",
+     "ticker": "9983",
+     "stance": "bearish",
+     "timestamp": "03:58"
+    },
+    {
+     "name": "メルカリ",
+     "ticker": "4385",
+     "stance": "neutral",
+     "timestamp": "05:39"
+    },
+    {
+     "name": "平和",
+     "ticker": "6412",
+     "stance": "bearish",
+     "timestamp": "10:04"
+    },
+    {
+     "name": "セイコーエプソン",
+     "ticker": "6724",
+     "stance": "bearish",
+     "timestamp": "12:00"
+    },
+    {
+     "name": "オークネット",
+     "ticker": "3964",
+     "stance": "neutral",
+     "timestamp": "25:25"
+    },
+    {
+     "name": "エクサウィザーズ",
+     "ticker": "4259",
+     "stance": "bullish",
+     "timestamp": "31:13"
+    },
+    {
+     "name": "任天堂",
+     "ticker": "7974",
+     "stance": "neutral",
+     "timestamp": "40:00"
+    },
+    {
+     "name": "IHI",
+     "ticker": "7013",
+     "stance": "neutral",
+     "timestamp": "42:50"
+    }
+   ]
   },
   {
    "video_id": "3fhDy59Pu9M",
@@ -103,6 +152,34 @@
    ]
   },
   {
+   "video_id": "iaDo02r1in8",
+   "title": "【日本株に違和感‼︎】AI半導体株また騙し上げか⁉︎グロース株急騰。 日経平均882円高で高配当、バリュー株下落。ドル円も機関円爆買いで大荒れ。米国株、ナスダック、ハイテク株、仮想通貨BTC急騰。",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-09-19T04:00:01+00:00",
+   "overview": "日経平均株価は予想通りの反転上昇を見せているが、上昇を牽引するのはAI半導体株などの一部ハイテク株にとどまり、高配当株やバリュー株は冴えない展開が続いている。信用取引における売り残が少なくショートカバーの爆発的なブースターが期待できないため、上昇余地は限定的とみる。配当落ち後の急落や年末に向けた信用期日売りの圧力に警戒が必要であり、需給が軽い銘柄への選別投資が推奨されている。",
+   "market_view": "日経平均は目先反発しているものの受給面の燃料不足から上値は限られ、配当落ち後や年末の信用期日売りに向けた戻り売りに警戒を要する局面である。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "日経平均株価",
+     "ticker": "1321",
+     "stance": "neutral",
+     "timestamp": "00:00"
+    },
+    {
+     "name": "レーザーテック",
+     "ticker": "6920",
+     "stance": "bearish",
+     "timestamp": "26:34"
+    }
+   ]
+  },
+  {
    "video_id": "e-RjSmsn6QM",
    "title": "年末までには上がっていそうな「非」AI関連銘柄３選！",
    "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
@@ -133,64 +210,6 @@
      "ticker": "7936",
      "stance": "bullish",
      "timestamp": "09:01"
-    }
-   ]
-  },
-  {
-   "video_id": "SLd7wqOozFk",
-   "title": "日本株稼ぎ時や‼︎米利上げでAI半導体株崩壊か⁉ 日経平均→TOPIXシフト。キオクシア急落助からない？ドル円155円。円キオクシア助かるか。米国株乱高下。",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-09-17T14:28:55+00:00",
-   "overview": "日経平均先物の急騰や米国株の上昇を背景に、日本株全体の好調な地合いが解説されたライブ配信です。配当取りに向けた出遅れ株やバリュー株の上昇が目立つ一方、半導体関連株や権利落後に警戒が必要な不動産株・個別銘柄のテクニカル分析が詳細に行われました。日銀の利上げ織り込みや12月の米利上げ警戒など、今後のキャッシュポジション管理の重要性についても触れられています。",
-   "market_view": "日経平均先物が大幅上昇するなど地合いは良好ですが、権利落ち後の反動や12月の米利上げ懸念を踏まえキャッシュ管理が重要と指摘しています。",
-   "market": "MIX",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "任天堂",
-     "ticker": "7974",
-     "stance": "bullish",
-     "timestamp": "05:50"
-    },
-    {
-     "name": "キオクシアホールディングス",
-     "ticker": "285A",
-     "stance": "bearish",
-     "timestamp": "07:12"
-    },
-    {
-     "name": "東洋エンジニアリング",
-     "ticker": "6300",
-     "stance": "neutral",
-     "timestamp": "12:24"
-    },
-    {
-     "name": "第一三共",
-     "ticker": "4568",
-     "stance": "bullish",
-     "timestamp": "20:18"
-    },
-    {
-     "name": "NEC",
-     "ticker": "6701",
-     "stance": "bullish",
-     "timestamp": "23:51"
-    },
-    {
-     "name": "三井不動産",
-     "ticker": "8801",
-     "stance": "bearish",
-     "timestamp": "40:35"
-    },
-    {
-     "name": "FOOD & LIFE COMPANIES",
-     "ticker": "3563",
-     "stance": "bearish",
-     "timestamp": "50:03"
     }
    ]
   },
