@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-20T20:12:48.324682+09:00",
+ "generated_at": "2026-09-20T21:12:30.505747+09:00",
  "videos": [
   {
    "video_id": "AF76GilGkC0",
@@ -103,60 +103,36 @@
    ]
   },
   {
-   "video_id": "7fGcuWv8_Bo",
-   "title": "今日の活況銘柄を見てみる！（ソフトバンクG・太陽誘電・キオクシア・フジクラ・村田製作所・古河電工等）株式テクニカルチャート分析",
+   "video_id": "e-RjSmsn6QM",
+   "title": "年末までには上がっていそうな「非」AI関連銘柄３選！",
    "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
    "channel_name": "トレーダーTOMO",
    "channel_short": "TOMO",
    "slot": 2,
-   "published": "2026-09-18T07:16:12+00:00",
-   "overview": "日銀の利上げ決定後も株式市場への悪影響は限定的と捉えられ、日経平均は上昇しました。久しぶりに半導体やAI関連銘柄へ資金が集中する展開となっています。動画ではソフトバンクグループやキオクシア、太陽誘電などの注目の活況銘柄について、チャート形状や信用需給、機関投資家の空売り動向を交えて解説しています。",
-   "market_view": "日銀の利上げは金融緩和正常化の範囲内と受け止められており、インフレ懸念払拭の観点から株式市場にはむしろプラス視される見方もあります。",
+   "published": "2026-09-19T01:13:42+00:00",
+   "overview": "非AI関連銘柄の中から、足元で株価が沈んでいるものの業績や自社株買いなどの好材料があり、年末までに株価反転が期待できる日本株3銘柄を紹介。メルカリ、フード&ライフカンパニーズ、アシックスを取り上げ、それぞれの業績動向、海外展開、需給状態、および週足チャートでの鍋底形成からのエントリー戦略を解説している。",
+   "market_view": "AI・半導体相場に疲れた投資家向けに、業績は健実でありながら安値で放置されている非AI関連の日本株に注目している。",
    "market": "JP",
    "no_transcript": false,
    "skip_reason": "",
    "picks": [
     {
-     "name": "ソフトバンクグループ",
-     "ticker": "9984",
-     "stance": "neutral",
-     "timestamp": "05:07"
-    },
-    {
-     "name": "太陽誘電",
-     "ticker": "6976",
-     "stance": "neutral",
-     "timestamp": "05:50"
-    },
-    {
-     "name": "キオクシアホールディングス",
-     "ticker": "285A",
+     "name": "メルカリ",
+     "ticker": "4385",
      "stance": "bullish",
-     "timestamp": "07:01"
+     "timestamp": "00:53"
     },
     {
-     "name": "フジクラ",
-     "ticker": "5803",
-     "stance": "bearish",
-     "timestamp": "08:05"
-    },
-    {
-     "name": "村田製作所",
-     "ticker": "6981",
+     "name": "フード&ライフカンパニーズ",
+     "ticker": "3563",
      "stance": "bullish",
-     "timestamp": "08:53"
+     "timestamp": "05:15"
     },
     {
-     "name": "KOKUSAI ELECTRIC",
-     "ticker": "6525",
+     "name": "アシックス",
+     "ticker": "7936",
      "stance": "bullish",
-     "timestamp": "09:42"
-    },
-    {
-     "name": "古河電気工業",
-     "ticker": "5801",
-     "stance": "neutral",
-     "timestamp": "10:59"
+     "timestamp": "09:01"
     }
    ]
   },
