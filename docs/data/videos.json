@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-20T19:13:03.005051+09:00",
+ "generated_at": "2026-09-20T20:12:48.324682+09:00",
  "videos": [
   {
    "video_id": "AF76GilGkC0",
@@ -41,6 +41,64 @@
      "ticker": "446A",
      "stance": "bullish",
      "timestamp": "11:48"
+    }
+   ]
+  },
+  {
+   "video_id": "E1jGFfK2Zas",
+   "title": "【日経平均】 日銀利上げで上昇 自立反発の範疇 慎重な立ち回りが必要です サンディスク・キオクシア・オンコリスバイオ・テクニスコ・ブレインズテクノロジー・ミナトホールディングス",
+   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+   "channel_name": "Trader's Lab",
+   "channel_short": "TL",
+   "slot": 1,
+   "published": "2026-09-19T05:56:49+00:00",
+   "overview": "日銀の利上げ発表を経て日経平均は上昇したものの、テクニカル的には下落基調における一時的な自律反発の範疇であり、慎重な対応が求められると解説しています。また、個別銘柄ではレンジ相場が続くキオクシアやサンディスクのほか、好材料や好決算を背景にストップ高や高値更新を見せるオンコリスバイオやミナトホールディングスなどの注目株を分析しています。",
+   "market_view": "日経平均は自律反発で6万5000円台に乗せたものの基本は下落基調であり、米市場休場中の連休明けに向けリスク管理と短期主軸の慎重な立ち回りが推奨されます。",
+   "market": "MIX",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "日経平均株価",
+     "ticker": "",
+     "stance": "bearish",
+     "timestamp": "01:41"
+    },
+    {
+     "name": "サンディスク",
+     "ticker": "WDC",
+     "stance": "neutral",
+     "timestamp": "22:38"
+    },
+    {
+     "name": "キオクシア",
+     "ticker": "285A",
+     "stance": "neutral",
+     "timestamp": "23:18"
+    },
+    {
+     "name": "オンコリスバイオファーマ",
+     "ticker": "4588",
+     "stance": "bullish",
+     "timestamp": "24:19"
+    },
+    {
+     "name": "テクニスコ",
+     "ticker": "2962",
+     "stance": "bullish",
+     "timestamp": "27:32"
+    },
+    {
+     "name": "ブレインズテクノロジー",
+     "ticker": "4075",
+     "stance": "bullish",
+     "timestamp": "29:36"
+    },
+    {
+     "name": "ミナトホールディングス",
+     "ticker": "6862",
+     "stance": "bullish",
+     "timestamp": "31:10"
     }
    ]
   },
@@ -203,52 +261,6 @@
      "ticker": "5706",
      "stance": "bearish",
      "timestamp": "27:28"
-    }
-   ]
-  },
-  {
-   "video_id": "32g_zns2kno",
-   "title": "【日経平均】 AI減速懸念、金利高 イベント通過後の値動きに備えろ  サンディスク・キオクシア・太陽誘電・豊和工業・オンコリスバイオ",
-   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-   "channel_name": "Trader's Lab",
-   "channel_short": "TL",
-   "slot": 1,
-   "published": "2026-09-15T11:24:10+00:00",
-   "overview": "本動画では、FOMCや日銀政策決定決定会合などの重要イベントを控え、日経平均や米主要指数が下落基調にある環境認識と相場戦略が解説されています。指数全体が警戒感を強める中、現金比率を高める等のリスク管理が推奨されています。個別銘柄では過熱感やチャート形状に応じた立ち回りとして、サンディスク、キオクシア、太陽誘電、豊和工業、オンコリスバイオの分析が行われました。",
-   "market_view": "日経平均や米国株指数は下落トレンドが継続しており、イベント通過後の下抜けリスクに備えて現金比率を高めるなどの慎重な立ち回りが推奨されています。",
-   "market": "MIX",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "サンディスク",
-     "ticker": "",
-     "stance": "bearish",
-     "timestamp": "24:52"
-    },
-    {
-     "name": "キオクシアホールディングス",
-     "ticker": "285A",
-     "stance": "bearish",
-     "timestamp": "25:22"
-    },
-    {
-     "name": "太陽誘電",
-     "ticker": "6976",
-     "stance": "bearish",
-     "timestamp": "26:47"
-    },
-    {
-     "name": "豊和工業",
-     "ticker": "6203",
-     "stance": "neutral",
-     "timestamp": "28:25"
-    },
-    {
-     "name": "オンコリスバイオファーマ",
-     "ticker": "4588",
-     "stance": "bullish",
-     "timestamp": "30:31"
     }
    ]
   },
