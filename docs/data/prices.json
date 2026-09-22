@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-22T04:16:18.676140+00:00",
+ "updated_at": "2026-09-22T09:26:16.365017+00:00",
  "symbols": {
   "JP:1111": {
    "date": "2026-08-17",
@@ -4980,22 +4980,21 @@
    "fetched_at": "2026-09-01T20:15:38.329080+00:00"
   },
   "US:WDC": {
-   "date": "2026-09-18",
-   "close": 441.36,
-   "change_pct": 4.13,
-   "live": 446.64,
-   "live_change_pct": 1.2,
-   "live_time": 1790017365,
-   "volume": 13506300,
-   "volume_ratio": 2.04,
-   "rsi14": 45.8,
+   "date": "2026-09-21",
+   "close": 448.17,
+   "change_pct": 1.54,
+   "live": null,
+   "live_change_pct": null,
+   "live_time": null,
+   "volume": 7620200,
+   "volume_ratio": 1.17,
+   "rsi14": 47.6,
    "rsi_zone": "中立",
-   "ma25": 458.23,
-   "ma75": 522.15,
+   "ma25": 455.8,
+   "ma75": 520.21,
    "trend": "下降基調",
-   "pos52": 52,
+   "pos52": 53,
    "spark": [
-    519.8,
     497.92,
     463.51,
     462.04,
@@ -5034,14 +5033,15 @@
     411.96,
     416.97,
     423.87,
-    441.36
+    441.36,
+    448.17
    ],
    "currency": "USD",
    "exchange_name": "NasdaqGS",
-   "market_open": true,
+   "market_open": false,
    "symbol": "WDC",
    "source": "yahoo",
-   "fetched_at": "2026-09-21T19:02:22.170854+00:00"
+   "fetched_at": "2026-09-22T09:26:16.365017+00:00"
   },
   "JP:6522": {
    "date": "2026-08-28",
