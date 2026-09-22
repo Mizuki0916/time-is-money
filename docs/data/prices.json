@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-22T18:56:06.230920+00:00",
+ "updated_at": "2026-09-22T19:56:09.328469+00:00",
  "symbols": {
   "JP:1111": {
    "date": "2026-08-17",
@@ -4983,10 +4983,10 @@
    "date": "2026-09-21",
    "close": 448.17,
    "change_pct": 1.54,
-   "live": 461.19,
-   "live_change_pct": 2.91,
-   "live_time": 1790103366,
-   "volume": 7620200,
+   "live": 462.5,
+   "live_change_pct": 3.2,
+   "live_time": 1790106971,
+   "volume": 7636000,
    "volume_ratio": 1.17,
    "rsi14": 47.6,
    "rsi_zone": "中立",
@@ -5041,7 +5041,7 @@
    "market_open": true,
    "symbol": "WDC",
    "source": "yahoo",
-   "fetched_at": "2026-09-22T18:56:06.230920+00:00"
+   "fetched_at": "2026-09-22T19:56:09.328469+00:00"
   },
   "JP:6522": {
    "date": "2026-08-28",
