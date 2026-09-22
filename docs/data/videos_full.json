@@ -434,6 +434,57 @@
    ]
   },
   {
+   "video_id": "JjzyxzhS3SI",
+   "title": "村田製作所・太陽誘電・TDK：MLCC関連銘柄今後のトレード戦略",
+   "published": "2026-09-22T10:00:10+00:00",
+   "description": "🔽「株のオンラインサロン」やってます！\n→　https://yoor.jp/door/tradertomo\n\n※ 参加プラン別のサービス内容はこちらの動画で解説しています。\n→https://youtu.be/AGZetFvA-Xk?si=Qy_ctky7kW1QSOHX\n\n株好きが集まる楽しいサロンを目指してます♪\n初心者歓迎です～ご参加お待ちしています！\n\n🔽サブチャンネルもやってます＾＾\nhttps://www.youtube.com/@TOMO-subtrader\n\n---------------------------------------------\n🔽公式LINEやってます！ともだち登録お願いします☆\n---------------------------------------------\n\n「うねり取り株投資実践講義」（総時間147分）視聴可。\n→https://s.l",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "村田製作所と太陽誘電のMLCC関連大手2社についてバリュエーションの観点から今後の投資戦略を解説しています。電子部品セクターのピーク適正PERは20倍台〜30倍未満と捉えており、来期コンセンサス予想を基準にすると両社ともにPER30倍程度となるため、足元の株価水準はフェアバリュー(適正株価)であると分析しています。",
+   "market_view": "",
+   "market": "JP",
+   "picks": [
+    {
+     "name": "村田製作所",
+     "name_en": "Murata Manufacturing Co., Ltd.",
+     "ticker": "6981",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "コンセンサスベースで株価は適正水準",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "電子部品業界のピーク時の適正PERは20倍台から30倍未満と捉えているため。",
+      "来期利益を5000億円と仮定してもPER30倍程度となり割安感に欠けるため。"
+     ],
+     "timestamp": "00:00",
+     "confidence": "high"
+    },
+    {
+     "name": "太陽誘電",
+     "name_en": "Taiyo Yuden Co., Ltd.",
+     "ticker": "6976",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "現状の8000〜9000円台は妥当な水準",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "バリュエーションの適正水準はPER20倍台後半が限界と考えているため。",
+      "来期コンセンサス利益485億円試算でPER30倍となり現状は適正株価なため。"
+     ],
+     "timestamp": "00:34",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
    "video_id": "3fhDy59Pu9M",
    "title": "個別銘柄の需給を見るポイントについて【初心者向け】",
    "published": "2026-09-19T23:00:05+00:00",
@@ -483,74 +534,6 @@
      ],
      "timestamp": "11:48",
      "confidence": "medium"
-    }
-   ]
-  },
-  {
-   "video_id": "e-RjSmsn6QM",
-   "title": "年末までには上がっていそうな「非」AI関連銘柄３選！",
-   "published": "2026-09-19T01:13:42+00:00",
-   "description": "🔽「株のオンラインサロン」やってます！\n→　https://yoor.jp/door/tradertomo\n\n※ 参加プラン別のサービス内容はこちらの動画で解説しています。\n→https://youtu.be/AGZetFvA-Xk?si=Qy_ctky7kW1QSOHX\n\n株好きが集まる楽しいサロンを目指してます♪\n初心者歓迎です～ご参加お待ちしています！\n\n🔽サブチャンネルもやってます＾＾\nhttps://www.youtube.com/@TOMO-subtrader\n\n---------------------------------------------\n🔽公式LINEやってます！ともだち登録お願いします☆\n---------------------------------------------\n\n「うねり取り株投資実践講義」（総時間147分）視聴可。\n→https://s.l",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "非AI関連銘柄の中から、足元で株価が沈んでいるものの業績や自社株買いなどの好材料があり、年末までに株価反転が期待できる日本株3銘柄を紹介。メルカリ、フード&ライフカンパニーズ、アシックスを取り上げ、それぞれの業績動向、海外展開、需給状態、および週足チャートでの鍋底形成からのエントリー戦略を解説している。",
-   "market_view": "AI・半導体相場に疲れた投資家向けに、業績は健実でありながら安値で放置されている非AI関連の日本株に注目している。",
-   "market": "JP",
-   "picks": [
-    {
-     "name": "メルカリ",
-     "name_en": "Mercari, Inc.",
-     "ticker": "4385",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "下げ止まり確認後の反転狙い",
-     "target_price": "",
-     "entry": "鍋底っぽい持ち合いを作って下げ止まりを確認してから",
-     "stop": "",
-     "reasons": [
-      "国内ECやフィンテック事業の順調な成長に加え、US事業の取引GMV底打ちと黒字定着が見込めること。",
-      "ポケカ出品禁止等の影響で売られすぎているが、長期で意識される3550円付近のレジサポラインまで調整していること。"
-     ],
-     "timestamp": "00:53",
-     "confidence": "high"
-    },
-    {
-     "name": "フード&ライフカンパニーズ",
-     "name_en": "FOOD & LIFE COMPANIES LTD.",
-     "ticker": "3563",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "月次・鍋底形成確認後の狙い",
-     "target_price": "",
-     "entry": "10月頭の月次までに1本打診買い、鍋底を作ってから追加",
-     "stop": "",
-     "reasons": [
-      "8月の月次業績が好調で、国内頭打ちの中で中国を中心に海外店舗数を急増させており成長が見込めること。",
-      "日経平均不採用等の理由で一時調整したが、過去に反発した4500円〜4600円付近まで深く下落し反転の目があること。"
-     ],
-     "timestamp": "05:15",
-     "confidence": "high"
-    },
-    {
-     "name": "アシックス",
-     "name_en": "ASICS Corporation",
-     "ticker": "7936",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "4000円撤退ラインでの上値狙い",
-     "target_price": "",
-     "entry": "4000円付近で鍋底形成を確認してから",
-     "stop": "4000円",
-     "reasons": [
-      "中間決算が好調で上振れ余地があり、株価下落に対して会社側が自社株買いや償却を発表し買い支え姿勢を見せたこと。",
-      "一時4000円を割り込んだが取り戻して横ばいで耐えており、ピックアップした3銘柄の中で一番エントリーしやすいこと。"
-     ],
-     "timestamp": "09:01",
-     "confidence": "high"
     }
    ]
   },

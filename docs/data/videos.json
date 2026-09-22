@@ -1,6 +1,34 @@
 {
- "generated_at": "2026-09-23T02:55:56.639697+09:00",
+ "generated_at": "2026-09-23T02:57:39.428830+09:00",
  "videos": [
+  {
+   "video_id": "JjzyxzhS3SI",
+   "title": "村田製作所・太陽誘電・TDK：MLCC関連銘柄今後のトレード戦略",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-09-22T10:00:10+00:00",
+   "overview": "村田製作所と太陽誘電のMLCC関連大手2社についてバリュエーションの観点から今後の投資戦略を解説しています。電子部品セクターのピーク適正PERは20倍台〜30倍未満と捉えており、来期コンセンサス予想を基準にすると両社ともにPER30倍程度となるため、足元の株価水準はフェアバリュー(適正株価)であると分析しています。",
+   "market_view": "",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "村田製作所",
+     "ticker": "6981",
+     "stance": "neutral",
+     "timestamp": "00:00"
+    },
+    {
+     "name": "太陽誘電",
+     "ticker": "6976",
+     "stance": "neutral",
+     "timestamp": "00:34"
+    }
+   ]
+  },
   {
    "video_id": "AF76GilGkC0",
    "title": "日本株稼ぎ時や‼︎米利上げでAI半導体株急伸。日銀利上げで日経平均上昇→TOPIX下落。キオクシア助かるか？ドル円157円。米国株乱高下。",
@@ -176,40 +204,6 @@
      "ticker": "6920",
      "stance": "bearish",
      "timestamp": "26:34"
-    }
-   ]
-  },
-  {
-   "video_id": "e-RjSmsn6QM",
-   "title": "年末までには上がっていそうな「非」AI関連銘柄３選！",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-09-19T01:13:42+00:00",
-   "overview": "非AI関連銘柄の中から、足元で株価が沈んでいるものの業績や自社株買いなどの好材料があり、年末までに株価反転が期待できる日本株3銘柄を紹介。メルカリ、フード&ライフカンパニーズ、アシックスを取り上げ、それぞれの業績動向、海外展開、需給状態、および週足チャートでの鍋底形成からのエントリー戦略を解説している。",
-   "market_view": "AI・半導体相場に疲れた投資家向けに、業績は健実でありながら安値で放置されている非AI関連の日本株に注目している。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "メルカリ",
-     "ticker": "4385",
-     "stance": "bullish",
-     "timestamp": "00:53"
-    },
-    {
-     "name": "フード&ライフカンパニーズ",
-     "ticker": "3563",
-     "stance": "bullish",
-     "timestamp": "05:15"
-    },
-    {
-     "name": "アシックス",
-     "ticker": "7936",
-     "stance": "bullish",
-     "timestamp": "09:01"
     }
    ]
   },
