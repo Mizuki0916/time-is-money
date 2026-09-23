@@ -1,6 +1,142 @@
 {
  "videos": [
   {
+   "video_id": "fkKxzE1nKTk",
+   "title": "日本株稼ぎ時や‼︎AI半導体株急伸で日経平均狙い通り爆上げか⁉キオクシア助かるか？ドル円157円。米国株、ナスダック、ハイテク株、仮想通貨BTC急騰",
+   "published": "2026-09-22T14:53:05+00:00",
+   "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "日経平均先物が急騰する中、今後の日本株相場の見通しや個別銘柄のテクニカル分析を行っています。配当権利直前での高配当株買いを警戒し、10月以降や年末に向けた需給好転銘柄へのシフトを提言しています。NECや東洋エンジニアリング、日本マイクロニクスなどのチャート形状や信用期日通過による回転の軽さを解説しつつ、配当落ち後の下落リスクに対する警戒も呼びかけています。",
+   "market_view": "日経平均先物が大幅高となっており連休明けは上昇が期待されますが、配当落ち後の不穏な動きには注意が必要です。2018年の相場展開も念頭に、配当落ち後に崩れる場合は受給の悪い銘柄を中心に警戒を高めるべきとしています。",
+   "market": "MIX",
+   "picks": [
+    {
+     "name": "NEC",
+     "name_en": "NEC Corporation",
+     "ticker": "6701",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "200日線下向きでややネガティブ",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "移動平均線のゴールデンクロス形成が10月上旬に入ってくる見通しである。",
+      "RSI上抜けやMACDのゴールデンクロスなどテクニカル指標の改善が見られる。",
+      "200日移動平均線が下向きのためクロス後に一度押す可能性がありフラット化が必要。"
+     ],
+     "timestamp": "02:08",
+     "confidence": "medium"
+    },
+    {
+     "name": "イビデン",
+     "name_en": "Ibiden Co., Ltd.",
+     "ticker": "4062",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "株式分割後の値動きを確認したい",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "分割前は三角持ち合いを形成しながらほぼ横ばいで推移している。",
+      "株式分割が実施された後に上下どちらへ動くかを慎重に見極める必要がある。"
+     ],
+     "timestamp": "06:21",
+     "confidence": "medium"
+    },
+    {
+     "name": "東洋エンジニアリング",
+     "name_en": "Toyo Engineering Corporation",
+     "ticker": "6330",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "信用期日通過で需給好転に期待",
+     "target_price": "3805",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "ボリンジャーバンドの中央線の上で推移する典型的な強い上昇パターンである。",
+      "3月高値からの信用半年期日を通過するため捕まっていた買い方の売りが解消する。",
+      "200日線を上抜けると回転が軽くなり3500円から3805円付近を目指す可能性がある。"
+     ],
+     "timestamp": "14:00",
+     "confidence": "medium"
+    },
+    {
+     "name": "SUBARU",
+     "name_en": "Subaru Corporation",
+     "ticker": "7270",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "権利直前の高配当狙い買いは警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "高配当株の権利落ち直前に買いに行く時期は過ぎており権利落ち後の下落リスクがある。",
+      "過去に高値で買われた信用買いの重さが残っており上値の重い展開が懸念される。"
+     ],
+     "timestamp": "16:54",
+     "confidence": "medium"
+    },
+    {
+     "name": "アシックス",
+     "name_en": "Asics Corporation",
+     "ticker": "7936",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "デッドクロスが見えるため静観",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "チャート上にデッドクロスが見えており買いに向かうにはまだリスクが高い。"
+     ],
+     "timestamp": "26:35",
+     "confidence": "low"
+    },
+    {
+     "name": "日本マイクロニクス",
+     "name_en": "Micronics Japan Co., Ltd.",
+     "ticker": "6871",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "RSI上抜けでトレンド発生の兆し",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "RSIの上値抵抗線を上に抜けたため上昇トレンドが発生しつつある。",
+      "5日移動平均線と25日移動平均線のゴールデンクロス形成などが注目される。"
+     ],
+     "timestamp": "51:05",
+     "confidence": "medium"
+    },
+    {
+     "name": "住友電気工業",
+     "name_en": "Sumitomo Electric Industries, Ltd.",
+     "ticker": "5802",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "全体地合い好転に伴う上昇期待",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "日経平均先物の急騰など市場全体の強い地合いに乗って連動高が期待される。"
+     ],
+     "timestamp": "1:00:10",
+     "confidence": "low"
+    }
+   ]
+  },
+  {
    "video_id": "AF76GilGkC0",
    "title": "日本株稼ぎ時や‼︎米利上げでAI半導体株急伸。日銀利上げで日経平均上昇→TOPIX下落。キオクシア助かるか？ドル円157円。米国株乱高下。",
    "published": "2026-09-20T14:07:40+00:00",
@@ -141,57 +277,6 @@
       "高値からの半年期にあたり戻り売りが出やすい受給の谷に位置しているため、あと1ヶ月程度経過して受給改善が進むかどうかの確認が必要な局面であるため。"
      ],
      "timestamp": "42:50",
-     "confidence": "medium"
-    }
-   ]
-  },
-  {
-   "video_id": "iaDo02r1in8",
-   "title": "【日本株に違和感‼︎】AI半導体株また騙し上げか⁉︎グロース株急騰。 日経平均882円高で高配当、バリュー株下落。ドル円も機関円爆買いで大荒れ。米国株、ナスダック、ハイテク株、仮想通貨BTC急騰。",
-   "published": "2026-09-19T04:00:01+00:00",
-   "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "日経平均株価は予想通りの反転上昇を見せているが、上昇を牽引するのはAI半導体株などの一部ハイテク株にとどまり、高配当株やバリュー株は冴えない展開が続いている。信用取引における売り残が少なくショートカバーの爆発的なブースターが期待できないため、上昇余地は限定的とみる。配当落ち後の急落や年末に向けた信用期日売りの圧力に警戒が必要であり、需給が軽い銘柄への選別投資が推奨されている。",
-   "market_view": "日経平均は目先反発しているものの受給面の燃料不足から上値は限られ、配当落ち後や年末の信用期日売りに向けた戻り売りに警戒を要する局面である。",
-   "market": "JP",
-   "picks": [
-    {
-     "name": "日経平均株価",
-     "name_en": "Nikkei 225",
-     "ticker": "1321",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "月内は戻り試すも配当落ち後に警戒",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "日足パラボリックの下点灯やMACDのゴールデンクロス形成により、短期的には戻りを試す上昇トレンドを形成している。",
-      "西証合計の信用売り残が8000億円未満と少なく踏み上げのブースターを欠くため、上昇幅は限られる見通し。"
-     ],
-     "timestamp": "00:00",
-     "confidence": "high"
-    },
-    {
-     "name": "レーザーテック",
-     "name_en": "Lasertec Corporation",
-     "ticker": "6920",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "短期反発も年末に向けた戻り売りを警戒",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "RSIの上値抵抗線を上抜けし、MACDゴールデンクロス形成により短期的には強い急降下後の反発が入っている。",
-      "高値で捕まった信用買い残が多く、年末の信用期日や損益通算に向けた売り圧力が加速するため戻り高値は売り姿勢。"
-     ],
-     "timestamp": "26:34",
      "confidence": "medium"
     }
    ]
@@ -434,6 +519,95 @@
    ]
   },
   {
+   "video_id": "13Ul8QJf6k8",
+   "title": "金属関連銘柄（JX金属・三井金属・住友金属鉱山・三菱マテリアル）株式テクニカルチャート分析",
+   "published": "2026-09-22T23:00:31+00:00",
+   "description": "🔽「株のオンラインサロン」やってます！\n→　https://yoor.jp/door/tradertomo\n\n※ 参加プラン別のサービス内容はこちらの動画で解説しています。\n→https://youtu.be/AGZetFvA-Xk?si=Qy_ctky7kW1QSOHX\n\n株好きが集まる楽しいサロンを目指してます♪\n初心者歓迎です～ご参加お待ちしています！\n\n🔽サブチャンネルもやってます＾＾\nhttps://www.youtube.com/@TOMO-subtrader\n\n---------------------------------------------\n🔽公式LINEやってます！ともだち登録お願いします☆\n---------------------------------------------\n\n「うねり取り株投資実践講義」（総時間147分）視聴可。\n→https://s.l",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "金属関連銘柄(JX金属、三井金属、住友金属鉱山、三菱マテリアル)のテクニカルチャートおよび需給・業績の分析を行っています。JX金属は成長期待があるものの信用買残など需給面が重く、三井金属は10分割によるしこり懸念や1Q決算失速が響いています。住友金属鉱山や三菱マテリアルも市況依存度が高く需給面で難があり、現状はどの銘柄も積極的に買いづらい状況と結論づけています。",
+   "market_view": "日経平均は高値ライン付近で上髭をつけており、WTI原油価格の変動や金・銀・銅価格の動向、日米金利差による円安進行など地合いの動向を注視しています。",
+   "market": "JP",
+   "picks": [
+    {
+     "name": "JX金属",
+     "name_en": "JX Metals Corporation",
+     "ticker": "5016",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "需給悪化や株化稀釈化懸念で短期上昇は困難",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "スパッタリングターゲット等で評価される一方、転換社債による株式稀釈化懸念や大規模投資に伴う資金面の懸念が存在する。",
+      "個人信用買残が2186万株と常時出来高に対し多く受給面が苦しい上、大口投資家の空売り監視下もあり上値が重い。",
+      "情報修正や長期での利益成長は期待できるものの、6ヶ月の信用期日が解消されるまでは短期の上昇は見込みづらい。"
+     ],
+     "timestamp": "01:38",
+     "confidence": "high"
+    },
+    {
+     "name": "三井金属",
+     "name_en": "Mitsui Mining & Smelting Co., Ltd.",
+     "ticker": "5706",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "10分割控えてしこり懸念強くしばらく上値重い",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "AI関連の銅箔などで注目されるが、1Q決算がコンセンサスに届かずアナリストの業績や目標株価の下方修正が目立つ。",
+      "出来高に対して信用買残が増加して重たさが出ているほか、デイトレでも触りにくいなど受給面の悪化が見られる。",
+      "株式の10分割を控えており、膨大な信用買いのしこりが残存して出来高も伴わずしばらく上がれないと見込まれる。"
+     ],
+     "timestamp": "06:11",
+     "confidence": "high"
+    },
+    {
+     "name": "住友金属鉱山",
+     "name_en": "Sumitomo Metal Mining Co., Ltd.",
+     "ticker": "5713",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "市況依存度が高くスイングトレードには不向き",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "銅・金鉱山や精錬が主体で市況依存度が高く、AI関連材料の割合が大きくないため高い評価がつきづらい。",
+      "出来高に対して信用買残の解消が不十分であり機関投資家の監視もあるため、スイングトレードには向かない。",
+      "金属価格の上昇や円安はプラスに働くが円高の影響も受けやすいため、関連市況の動きを注視して取引する必要がある。"
+     ],
+     "timestamp": "09:52",
+     "confidence": "high"
+    },
+    {
+     "name": "三菱マテリアル",
+     "name_en": "Mitsubishi Materials Corporation",
+     "ticker": "5711",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "上値が重くPERの低さのみでの判断は禁物",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "業績上振れは重要鉱物タングステンの価格上昇による面が大きく、来期減益予想のためPERの低さだけで割安とは言えない。",
+      "信用買残200万株に対して同等の出来高がある日がほとんどなく売買が滞っており、機関の空売り動向も確認される。",
+      "5000円ラインを守るものの5400〜5500円付近は重く、過去に複数回跳ね返された6100円のボックス圏を意識する展開。"
+     ],
+     "timestamp": "12:09",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
    "video_id": "JjzyxzhS3SI",
    "title": "村田製作所・太陽誘電・TDK：MLCC関連銘柄今後のトレード戦略",
    "published": "2026-09-22T10:00:10+00:00",
@@ -481,59 +655,6 @@
      ],
      "timestamp": "00:34",
      "confidence": "high"
-    }
-   ]
-  },
-  {
-   "video_id": "3fhDy59Pu9M",
-   "title": "個別銘柄の需給を見るポイントについて【初心者向け】",
-   "published": "2026-09-19T23:00:05+00:00",
-   "description": "🔽動画内で紹介した需給確認サイト「株ビジョン」\nhttps://stockscope.app/\n\n🔽「株のオンラインサロン」やってます！\n→　https://yoor.jp/door/tradertomo\n\n※ 参加プラン別のサービス内容はこちらの動画で解説しています。\n→https://youtu.be/AGZetFvA-Xk?si=Qy_ctky7kW1QSOHX\n\n株好きが集まる楽しいサロンを目指してます♪\n初心者歓迎です～ご参加お待ちしています！\n\n🔽サブチャンネルもやってます＾＾\nhttps://www.youtube.com/@TOMO-subtrader\n\n---------------------------------------------\n🔽公式LINEやってます！ともだち登録お願いします☆\n--------------------------------------",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "個別銘柄の需給分析における基本ポイントとして、信用改ざんと常時出来高の比較や含み損玉(しこり)の有無を確認する重要性を解説する動画です。業績が良くても上値にしこりがあり出来高が減少している銘柄は上値が重くなりやすく、一方で信用改ざんが多くても株価上昇によって保有者が含み益となっていれば上値を伸ばしやすい点などを事例を交えて説明しています。",
-   "market_view": "",
-   "market": "JP",
-   "picks": [
-    {
-     "name": "フジクラ",
-     "name_en": "Fujikura Ltd.",
-     "ticker": "5803",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "上値のしこりと出来高減少で需給悪化",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "出来高が減少傾向にある一方で信用改ざんが高水準で滞留しており需給悪化が著しい。",
-      "現在の株価位置よりも高い価格帯に出来高が偏っており、含み損のしこり玉が多数存在する。",
-      "企業業績自体は非常に好調であるものの、上値のしこり玉による戻り売り圧力が強い。"
-     ],
-     "timestamp": "03:54",
-     "confidence": "medium"
-    },
-    {
-     "name": "ノースサンド",
-     "name_en": "Northsand Co., Ltd.",
-     "ticker": "446A",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "含み益状態でしこりがなく上昇しやすい",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "信用改ざんの数量は多いものの株価上昇に伴い保有者のほぼ全員が含み益の状態である。",
-      "含み損となっているしこり玉が存在しないため、上値を追う展開で売り圧力を受けにくい。",
-      "信用外のうち約7割が期限のない一般信用であり、短期的な返済期日の圧力が少ない。"
-     ],
-     "timestamp": "11:48",
-     "confidence": "medium"
     }
    ]
   },

@@ -1,6 +1,104 @@
 {
- "generated_at": "2026-09-23T16:08:40.063330+09:00",
+ "generated_at": "2026-09-23T17:08:08.884534+09:00",
  "videos": [
+  {
+   "video_id": "13Ul8QJf6k8",
+   "title": "金属関連銘柄（JX金属・三井金属・住友金属鉱山・三菱マテリアル）株式テクニカルチャート分析",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-09-22T23:00:31+00:00",
+   "overview": "金属関連銘柄(JX金属、三井金属、住友金属鉱山、三菱マテリアル)のテクニカルチャートおよび需給・業績の分析を行っています。JX金属は成長期待があるものの信用買残など需給面が重く、三井金属は10分割によるしこり懸念や1Q決算失速が響いています。住友金属鉱山や三菱マテリアルも市況依存度が高く需給面で難があり、現状はどの銘柄も積極的に買いづらい状況と結論づけています。",
+   "market_view": "日経平均は高値ライン付近で上髭をつけており、WTI原油価格の変動や金・銀・銅価格の動向、日米金利差による円安進行など地合いの動向を注視しています。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "JX金属",
+     "ticker": "5016",
+     "stance": "bearish",
+     "timestamp": "01:38"
+    },
+    {
+     "name": "三井金属",
+     "ticker": "5706",
+     "stance": "bearish",
+     "timestamp": "06:11"
+    },
+    {
+     "name": "住友金属鉱山",
+     "ticker": "5713",
+     "stance": "neutral",
+     "timestamp": "09:52"
+    },
+    {
+     "name": "三菱マテリアル",
+     "ticker": "5711",
+     "stance": "neutral",
+     "timestamp": "12:09"
+    }
+   ]
+  },
+  {
+   "video_id": "fkKxzE1nKTk",
+   "title": "日本株稼ぎ時や‼︎AI半導体株急伸で日経平均狙い通り爆上げか⁉キオクシア助かるか？ドル円157円。米国株、ナスダック、ハイテク株、仮想通貨BTC急騰",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-09-22T14:53:05+00:00",
+   "overview": "日経平均先物が急騰する中、今後の日本株相場の見通しや個別銘柄のテクニカル分析を行っています。配当権利直前での高配当株買いを警戒し、10月以降や年末に向けた需給好転銘柄へのシフトを提言しています。NECや東洋エンジニアリング、日本マイクロニクスなどのチャート形状や信用期日通過による回転の軽さを解説しつつ、配当落ち後の下落リスクに対する警戒も呼びかけています。",
+   "market_view": "日経平均先物が大幅高となっており連休明けは上昇が期待されますが、配当落ち後の不穏な動きには注意が必要です。2018年の相場展開も念頭に、配当落ち後に崩れる場合は受給の悪い銘柄を中心に警戒を高めるべきとしています。",
+   "market": "MIX",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "NEC",
+     "ticker": "6701",
+     "stance": "neutral",
+     "timestamp": "02:08"
+    },
+    {
+     "name": "イビデン",
+     "ticker": "4062",
+     "stance": "neutral",
+     "timestamp": "06:21"
+    },
+    {
+     "name": "東洋エンジニアリング",
+     "ticker": "6330",
+     "stance": "bullish",
+     "timestamp": "14:00"
+    },
+    {
+     "name": "SUBARU",
+     "ticker": "7270",
+     "stance": "bearish",
+     "timestamp": "16:54"
+    },
+    {
+     "name": "アシックス",
+     "ticker": "7936",
+     "stance": "bearish",
+     "timestamp": "26:35"
+    },
+    {
+     "name": "日本マイクロニクス",
+     "ticker": "6871",
+     "stance": "bullish",
+     "timestamp": "51:05"
+    },
+    {
+     "name": "住友電気工業",
+     "ticker": "5802",
+     "stance": "bullish",
+     "timestamp": "1:00:10"
+    }
+   ]
+  },
   {
    "video_id": "JjzyxzhS3SI",
    "title": "村田製作所・太陽誘電・TDK：MLCC関連銘柄今後のトレード戦略",
@@ -94,34 +192,6 @@
    ]
   },
   {
-   "video_id": "3fhDy59Pu9M",
-   "title": "個別銘柄の需給を見るポイントについて【初心者向け】",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-09-19T23:00:05+00:00",
-   "overview": "個別銘柄の需給分析における基本ポイントとして、信用改ざんと常時出来高の比較や含み損玉(しこり)の有無を確認する重要性を解説する動画です。業績が良くても上値にしこりがあり出来高が減少している銘柄は上値が重くなりやすく、一方で信用改ざんが多くても株価上昇によって保有者が含み益となっていれば上値を伸ばしやすい点などを事例を交えて説明しています。",
-   "market_view": "",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "フジクラ",
-     "ticker": "5803",
-     "stance": "bearish",
-     "timestamp": "03:54"
-    },
-    {
-     "name": "ノースサンド",
-     "ticker": "446A",
-     "stance": "bullish",
-     "timestamp": "11:48"
-    }
-   ]
-  },
-  {
    "video_id": "E1jGFfK2Zas",
    "title": "【日経平均】 日銀利上げで上昇 自立反発の範疇 慎重な立ち回りが必要です サンディスク・キオクシア・オンコリスバイオ・テクニスコ・ブレインズテクノロジー・ミナトホールディングス",
    "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
@@ -176,34 +246,6 @@
      "ticker": "6862",
      "stance": "bullish",
      "timestamp": "31:10"
-    }
-   ]
-  },
-  {
-   "video_id": "iaDo02r1in8",
-   "title": "【日本株に違和感‼︎】AI半導体株また騙し上げか⁉︎グロース株急騰。 日経平均882円高で高配当、バリュー株下落。ドル円も機関円爆買いで大荒れ。米国株、ナスダック、ハイテク株、仮想通貨BTC急騰。",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-09-19T04:00:01+00:00",
-   "overview": "日経平均株価は予想通りの反転上昇を見せているが、上昇を牽引するのはAI半導体株などの一部ハイテク株にとどまり、高配当株やバリュー株は冴えない展開が続いている。信用取引における売り残が少なくショートカバーの爆発的なブースターが期待できないため、上昇余地は限定的とみる。配当落ち後の急落や年末に向けた信用期日売りの圧力に警戒が必要であり、需給が軽い銘柄への選別投資が推奨されている。",
-   "market_view": "日経平均は目先反発しているものの受給面の燃料不足から上値は限られ、配当落ち後や年末の信用期日売りに向けた戻り売りに警戒を要する局面である。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "日経平均株価",
-     "ticker": "1321",
-     "stance": "neutral",
-     "timestamp": "00:00"
-    },
-    {
-     "name": "レーザーテック",
-     "ticker": "6920",
-     "stance": "bearish",
-     "timestamp": "26:34"
     }
    ]
   },
