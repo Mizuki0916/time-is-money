@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-24T04:07:56.040248+09:00",
+ "generated_at": "2026-09-24T05:07:46.157137+09:00",
  "channels": [
   {
    "id": "UCsaeHha7ai_NNX8or8Jyb-g",
@@ -1726,23 +1726,21 @@
     "UCsaeHha7ai_NNX8or8Jyb-g"
    ],
    "price": {
-    "date": "2026-09-21",
-    "close": 448.17,
-    "change_pct": 1.54,
-    "live": 468.76,
-    "live_change_pct": 4.59,
-    "live_time": 1790190472,
-    "volume": 7636000,
-    "volume_ratio": 1.17,
-    "rsi14": 47.6,
+    "date": "2026-09-23",
+    "close": 473.69,
+    "change_pct": 1.96,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 4921656,
+    "volume_ratio": 0.78,
+    "rsi14": 54.0,
     "rsi_zone": "中立",
-    "ma25": 455.8,
-    "ma75": 520.21,
-    "trend": "下降基調",
-    "pos52": 53,
+    "ma25": 452.05,
+    "ma75": 518.22,
+    "trend": "戻り歩調",
+    "pos52": 57,
     "spark": [
-     497.92,
-     463.51,
      462.04,
      533.04,
      544.84,
@@ -1780,14 +1778,16 @@
      416.97,
      423.87,
      441.36,
-     448.17
+     448.17,
+     464.6,
+     473.69
     ],
     "currency": "USD",
     "exchange_name": "NasdaqGS",
-    "market_open": true,
+    "market_open": false,
     "symbol": "WDC",
     "source": "yahoo",
-    "fetched_at": "2026-09-23T19:07:56.067991+00:00"
+    "fetched_at": "2026-09-23T20:07:46.187492+00:00"
    }
   },
   {
