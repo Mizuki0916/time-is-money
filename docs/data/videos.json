@@ -1,6 +1,21 @@
 {
- "generated_at": "2026-09-23T18:06:53.864774+09:00",
+ "generated_at": "2026-09-23T19:05:11.688515+09:00",
  "videos": [
+  {
+   "video_id": "G8MuX1eDtUc",
+   "title": "日本株稼ぎ時や‼︎AI半導体株急伸で日経平均狙い通り爆上げか⁉キオクシア助かるか？ドル円157円。米国株、ナスダック、ハイテク株、仮想通貨BTC急騰",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-09-23T09:04:29+00:00",
+   "overview": "",
+   "market_view": "",
+   "market": "",
+   "no_transcript": true,
+   "skip_reason": "動画が非公開・削除・配信予定などで取得できません",
+   "picks": []
+  },
   {
    "video_id": "13Ul8QJf6k8",
    "title": "金属関連銘柄（JX金属・三井金属・住友金属鉱山・三菱マテリアル）株式テクニカルチャート分析",
@@ -124,58 +139,6 @@
      "ticker": "6976",
      "stance": "neutral",
      "timestamp": "00:34"
-    }
-   ]
-  },
-  {
-   "video_id": "BH9PrD20HvE",
-   "title": "日本株稼ぎ時や‼︎米利上げでAI半導体株急伸。日銀利上げで日経平均上昇→TOPIX下落。キオクシア助かるか？ドル円157円。米国株乱高下。",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-09-21T14:20:25+00:00",
-   "overview": "9月後半の相場環境において、日経平均株価は配当取りに向けた月末までの上昇シナリオを2018年の展開どおりに辿っていると解説。一方で、高配当銘柄を権利直前に駆け込みで購入する手法には警鐘を鳴らしました。個別銘柄では、川崎重工業やサンリオなどのテクニカル分析をはじめ、信用買い残の重さから上値の重いイオンなどの需給面、急伸する米国株・アームの動向などを検証しています。",
-   "market_view": "日経平均株価は原油安やVIX低下を追い風に、月末に向かって2018年と同様の想定どおりの上昇軌道を辿ると予想。ただし権利落ち後の10月以降の急な反落には警戒が必要です。",
-   "market": "MIX",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "日経平均株価",
-     "ticker": "N225",
-     "stance": "bullish",
-     "timestamp": "01:24"
-    },
-    {
-     "name": "川崎重工業",
-     "ticker": "7012",
-     "stance": "neutral",
-     "timestamp": "04:48"
-    },
-    {
-     "name": "サンリオ",
-     "ticker": "8136",
-     "stance": "neutral",
-     "timestamp": "07:40"
-    },
-    {
-     "name": "イオン",
-     "ticker": "8267",
-     "stance": "bearish",
-     "timestamp": "18:30"
-    },
-    {
-     "name": "シフト",
-     "ticker": "3697",
-     "stance": "neutral",
-     "timestamp": "37:22"
-    },
-    {
-     "name": "アーム",
-     "ticker": "ARM",
-     "stance": "bullish",
-     "timestamp": "28:10"
     }
    ]
   },
