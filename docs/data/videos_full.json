@@ -154,6 +154,91 @@
    ]
   },
   {
+   "video_id": "v5gSIZdmS3I",
+   "title": "【日経平均】 米国市場爆上げ！ 日経先物66000円越え！ 今後の値動きは〇〇",
+   "published": "2026-09-23T10:22:15+00:00",
+   "description": "※動画の趣旨は個人的主観の予測であり、値動きを保証するものではありません。\n　投資の判断は自己責任でお願いします。\n\nトレンド分析マスターコース\n「無料オンライン講座(全5回)」＆豪華特典プレゼント！\n【完全無料】→ https://www.fpo.jp/suzuki/\n\nサンワード証券セミナー申し込み\nhttps://www.sunward-t.co.jp/seminar/2026/09/26_3/index_k.html\n\n◉トレンド分析の基礎おすすめ動画\n【永久保存版】初心者でもわかるダウ理論の使い方【前編】\nhttps://youtu.be/re9XBR2qcBw\n【永久保存版】初心者でもわかるダウ理論の使い方【後編】\nhttps://youtu.be/Z21W4VFSs9g\n【知らなきゃ勝てない】移動平均線で相場を読む最強の方法\nhttps://youtu.be/FfSX8hcR",
+   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+   "channel_name": "Trader's Lab",
+   "channel_short": "TL",
+   "slot": 1,
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "祝日期間中の米国株高と日経先物の急伸を受けた相場環境の臨時解説動画です。米国市場ではナスダック100やS&P500が最高値を更新し調整終了から上昇転換した一方、SOX指数はレンジ感が残る状況です。日経平均は先物が一時6万7000円台まで買われたものの、テクニカル上の抵抗線が多く上値の重さが意識されており、明確な高値更新がない限りはレンジ推移や一時的な調整を挟むシナリオを提示しています。",
+   "market_view": "米株の上昇転換により地合いは改善しているものの、指数ごとの温度差やテクニカル抵抗線が存在するため、日本株は即座に一本調子で上がるわけではなくレンジや押し目を形成しやすい環境です。",
+   "market": "MIX",
+   "picks": [
+    {
+     "name": "日経平均株価",
+     "name_en": "Nikkei 225",
+     "ticker": "N225",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "抵抗線が多く明確な上抜けまでレンジ想定",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "米株高で先物は一時6万7000円超に急伸したが、雲上限やボリンジャーバンドなど複数のテクニカル抵抗線が重なり上値は重い。",
+      "高値である6万7140円を大きく超えて上抜けない限りは、6万4000円から6万6000円台でのレンジ推移や調整が想定される。"
+     ],
+     "timestamp": "17:58",
+     "confidence": "high"
+    },
+    {
+     "name": "NASDAQ 100",
+     "name_en": "NASDAQ 100 Index",
+     "ticker": "NDX",
+     "market": "US",
+     "stance": "bullish",
+     "stance_note": "最高値更新で調整終了し上昇トレンドへ",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "8月17日高値や史上最高値を更新したことで、これまでの調整フェーズが完全に終了し上昇トレンドへ転換したと判断できるため。",
+      "スピード違反的な上昇からの短期的な押し目・調整が入る可能性はあるが、カップウィズハンドルを形成し持続的な上昇が期待される。"
+     ],
+     "timestamp": "08:38",
+     "confidence": "high"
+    },
+    {
+     "name": "TOPIX",
+     "name_en": "Tokyo Stock Price Index",
+     "ticker": "TOPX",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "中長期は堅調も短期的には揺さぶり警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "月足・週足レベルでトレンドフォローが継続しており、内需系やインバウンド・金融関連を中心に中長期的には堅調な推移が期待できるため。",
+      "日足レベルでは25日移動平均線が下向きで短期の揺さぶりはあるものの、高値更新を窺う下値の固い展開が続いている。"
+     ],
+     "timestamp": "15:58",
+     "confidence": "medium"
+    },
+    {
+     "name": "SOX指数",
+     "name_en": "PHLX Semiconductor Index",
+     "ticker": "SOX",
+     "market": "US",
+     "stance": "neutral",
+     "stance_note": "底打ちは確認されたがスクイーズでレンジ推移",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "8月高値を更新して底打ちは確認されたが、75日線が25日線の上にあるなど移動平均線の並びが弱くレンジ感が強いため。",
+      "ボリンジャーバンドがスクイーズしており、短期的に一方向へ強い上昇トレンドが持続しにくいテクニカル形状となっている。"
+     ],
+     "timestamp": "13:32",
+     "confidence": "medium"
+    }
+   ]
+  },
+  {
    "video_id": "E1jGFfK2Zas",
    "title": "【日経平均】 日銀利上げで上昇 自立反発の範疇 慎重な立ち回りが必要です サンディスク・キオクシア・オンコリスバイオ・テクニスコ・ブレインズテクノロジー・ミナトホールディングス",
    "published": "2026-09-19T05:56:49+00:00",
@@ -286,107 +371,6 @@
      ],
      "timestamp": "31:10",
      "confidence": "medium"
-    }
-   ]
-  },
-  {
-   "video_id": "sy7ikDZzheY",
-   "title": "【日経平均】 FOMCは無事通過？ 明日は日銀会合 〇〇がポイント  サンディスク・キオクシア・テラドローン・オンコリスバイオ・三井金属",
-   "published": "2026-09-17T11:00:02+00:00",
-   "description": "※動画の趣旨は個人的主観の予測であり、値動きを保証するものではありません。\n　投資の判断は自己責任でお願いします。\n\nサンワード証券セミナー申し込み\nhttps://www.sunward-t.co.jp/seminar/2026/09/26_3/index_k.html\n\n◉トレンド分析の基礎おすすめ動画\n【永久保存版】初心者でもわかるダウ理論の使い方【前編】\nhttps://youtu.be/re9XBR2qcBw\n【永久保存版】初心者でもわかるダウ理論の使い方【後編】\nhttps://youtu.be/Z21W4VFSs9g\n【知らなきゃ勝てない】移動平均線で相場を読む最強の方法\nhttps://youtu.be/FfSX8hcRR2I\n【一目均衡表の真髄】初心者でも分かる完全ガイド\nhttps://youtu.be/xPkb1twTFFI\n\n◉SBI証券株式会社キャンペーン　手数料",
-   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-   "channel_name": "Trader's Lab",
-   "channel_short": "TL",
-   "slot": 1,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "本動画では、FOMC通過後の市場環境や日経平均・米株指数の分析を行い、全体相場が依然として下落基調であり自律反発の域を出ていない点について警戒を促しています。個別銘柄としては、テクニカル悪化やモメンタム悪化が見られるキオクシアや三井金属、反発したテラドローン、上場来高値を更新し力強い上昇を見せるオンコリスバイオファーマなどのチャート分析と戦略を解説しています。",
-   "market_view": "日経平均や主要指数は下落基調が続いており、一時的な上昇も自律反発の範囲内にとどまる戻り売りの相場環境と判断されています。",
-   "market": "MIX",
-   "picks": [
-    {
-     "name": "サンディスク",
-     "name_en": "SanDisk",
-     "ticker": "",
-     "market": "US",
-     "stance": "bearish",
-     "stance_note": "25日線下回りでモメンタム悪化の懸念あり",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "日足の25日移動平均線を下回っており、株価が停滞すると時間経過とともにモメンタムが悪化する懸念が出ている。"
-     ],
-     "timestamp": "21:04",
-     "confidence": "medium"
-    },
-    {
-     "name": "キオクシア",
-     "name_en": "Kioxia Holdings",
-     "ticker": "285A",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "25日線下向きで下方向への圧力強い",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "25日移動平均線が下向きで現在値が低いため、時間の経過とともに下方向へのモメンタムが強まりやすいチャート形状である。",
-      "週足でも26週移動平均線を明確に割り込んでおり、主要な節目を割るとさらに一段安へ向かうリスクが想定される。"
-     ],
-     "timestamp": "21:37",
-     "confidence": "high"
-    },
-    {
-     "name": "テラドローン",
-     "name_en": "Terra Drone",
-     "ticker": "278A",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "25日線付近で反発も週足下落リスクに注意",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "前日の大幅下落から約10%買い戻され、日足の25日移動平均線に対して反発する動きを見せている。",
-      "週足レベルでは13週移動平均線付近までの下落リスクが潜んでおり、日足と週足の目線の違いに注意が必要である。"
-     ],
-     "timestamp": "23:31",
-     "confidence": "high"
-    },
-    {
-     "name": "オンコリスバイオファーマ",
-     "name_en": "Oncolys BioPharma",
-     "ticker": "4588",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "連日の上場来高値更新で強い上昇傾向",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "地合いが渋い中でも連日で上場来高値を更新しており、機関投資家の空売り撤退も手伝って強い上昇傾向にある。",
-      "日足がバンドウォークの形状で上昇しており、前日の下落をすぐに吸収する力強い切り返しを見せている。"
-     ],
-     "timestamp": "24:47",
-     "confidence": "high"
-    },
-    {
-     "name": "三井金属",
-     "name_en": "Mitsui Mining & Smelting",
-     "ticker": "5706",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "週足で三役逆転し下落トレンドが継続",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "日足・週足ともにマイナス1〜2シグマを下回る下落バンドウォークが続いており、下落トレンドが強まっている。",
-      "週足レベルで雲の下限を割り込んで三役逆転が完成しており、戻り売りや含み損の投げ売りなど複数の売り圧力が存在する。"
-     ],
-     "timestamp": "27:28",
-     "confidence": "high"
     }
    ]
   },

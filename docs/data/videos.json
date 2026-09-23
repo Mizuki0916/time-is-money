@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-24T05:07:46.914043+09:00",
+ "generated_at": "2026-09-24T06:08:44.451789+09:00",
  "videos": [
   {
    "video_id": "G8MuX1eDtUc",
@@ -15,6 +15,46 @@
    "no_transcript": true,
    "skip_reason": "この動画には字幕がありません",
    "picks": []
+  },
+  {
+   "video_id": "v5gSIZdmS3I",
+   "title": "【日経平均】 米国市場爆上げ！ 日経先物66000円越え！ 今後の値動きは〇〇",
+   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+   "channel_name": "Trader's Lab",
+   "channel_short": "TL",
+   "slot": 1,
+   "published": "2026-09-23T10:22:15+00:00",
+   "overview": "祝日期間中の米国株高と日経先物の急伸を受けた相場環境の臨時解説動画です。米国市場ではナスダック100やS&P500が最高値を更新し調整終了から上昇転換した一方、SOX指数はレンジ感が残る状況です。日経平均は先物が一時6万7000円台まで買われたものの、テクニカル上の抵抗線が多く上値の重さが意識されており、明確な高値更新がない限りはレンジ推移や一時的な調整を挟むシナリオを提示しています。",
+   "market_view": "米株の上昇転換により地合いは改善しているものの、指数ごとの温度差やテクニカル抵抗線が存在するため、日本株は即座に一本調子で上がるわけではなくレンジや押し目を形成しやすい環境です。",
+   "market": "MIX",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "日経平均株価",
+     "ticker": "N225",
+     "stance": "neutral",
+     "timestamp": "17:58"
+    },
+    {
+     "name": "NASDAQ 100",
+     "ticker": "NDX",
+     "stance": "bullish",
+     "timestamp": "08:38"
+    },
+    {
+     "name": "TOPIX",
+     "ticker": "TOPX",
+     "stance": "bullish",
+     "timestamp": "15:58"
+    },
+    {
+     "name": "SOX指数",
+     "ticker": "SOX",
+     "stance": "neutral",
+     "timestamp": "13:32"
+    }
+   ]
   },
   {
    "video_id": "13Ul8QJf6k8",
@@ -197,52 +237,6 @@
      "ticker": "6862",
      "stance": "bullish",
      "timestamp": "31:10"
-    }
-   ]
-  },
-  {
-   "video_id": "sy7ikDZzheY",
-   "title": "【日経平均】 FOMCは無事通過？ 明日は日銀会合 〇〇がポイント  サンディスク・キオクシア・テラドローン・オンコリスバイオ・三井金属",
-   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-   "channel_name": "Trader's Lab",
-   "channel_short": "TL",
-   "slot": 1,
-   "published": "2026-09-17T11:00:02+00:00",
-   "overview": "本動画では、FOMC通過後の市場環境や日経平均・米株指数の分析を行い、全体相場が依然として下落基調であり自律反発の域を出ていない点について警戒を促しています。個別銘柄としては、テクニカル悪化やモメンタム悪化が見られるキオクシアや三井金属、反発したテラドローン、上場来高値を更新し力強い上昇を見せるオンコリスバイオファーマなどのチャート分析と戦略を解説しています。",
-   "market_view": "日経平均や主要指数は下落基調が続いており、一時的な上昇も自律反発の範囲内にとどまる戻り売りの相場環境と判断されています。",
-   "market": "MIX",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "サンディスク",
-     "ticker": "",
-     "stance": "bearish",
-     "timestamp": "21:04"
-    },
-    {
-     "name": "キオクシア",
-     "ticker": "285A",
-     "stance": "bearish",
-     "timestamp": "21:37"
-    },
-    {
-     "name": "テラドローン",
-     "ticker": "278A",
-     "stance": "neutral",
-     "timestamp": "23:31"
-    },
-    {
-     "name": "オンコリスバイオファーマ",
-     "ticker": "4588",
-     "stance": "bullish",
-     "timestamp": "24:47"
-    },
-    {
-     "name": "三井金属",
-     "ticker": "5706",
-     "stance": "bearish",
-     "timestamp": "27:28"
     }
    ]
   },

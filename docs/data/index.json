@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-24T05:07:46.157137+09:00",
+ "generated_at": "2026-09-24T06:08:11.080704+09:00",
  "channels": [
   {
    "id": "UCsaeHha7ai_NNX8or8Jyb-g",
@@ -7,7 +7,7 @@
    "short": "TL",
    "slot": 1,
    "video_count": 2,
-   "latest": "2026-09-19T05:56:49+00:00"
+   "latest": "2026-09-23T10:22:15+00:00"
   },
   {
    "id": "UCdQdRRLoajrt-5TEaAxslxA",
@@ -35,147 +35,19 @@
   }
  ],
  "stats": {
-  "stocks": 25,
+  "stocks": 28,
   "videos": 7,
   "videos_this_week": 5,
-  "bullish_lead": 9,
+  "bullish_lead": 11,
   "split": 0,
   "skipped": 1
  },
  "stocks": [
   {
-   "key": "JP:5706",
-   "name": "三井金属",
-   "name_en": "Mitsui Mining & Smelting Co., Ltd.",
-   "ticker": "5706",
-   "market": "JP",
-   "mentions": [
-    {
-     "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-     "channel_name": "トレーダーTOMO",
-     "channel_short": "TOMO",
-     "slot": 2,
-     "video_id": "13Ul8QJf6k8",
-     "video_title": "金属関連銘柄（JX金属・三井金属・住友金属鉱山・三菱マテリアル）株式テクニカルチャート分析",
-     "published": "2026-09-22T23:00:31+00:00",
-     "stance": "bearish",
-     "stance_note": "10分割控えてしこり懸念強くしばらく上値重い",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "AI関連の銅箔などで注目されるが、1Q決算がコンセンサスに届かずアナリストの業績や目標株価の下方修正が目立つ。",
-      "出来高に対して信用買残が増加して重たさが出ているほか、デイトレでも触りにくいなど受給面の悪化が見られる。",
-      "株式の10分割を控えており、膨大な信用買いのしこりが残存して出来高も伴わずしばらく上がれないと見込まれる。"
-     ],
-     "timestamp": "06:11",
-     "seconds": 371,
-     "confidence": "high"
-    },
-    {
-     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-     "channel_name": "Trader's Lab",
-     "channel_short": "TL",
-     "slot": 1,
-     "video_id": "sy7ikDZzheY",
-     "video_title": "【日経平均】 FOMCは無事通過？ 明日は日銀会合 〇〇がポイント  サンディスク・キオクシア・テラドローン・オンコリスバイオ・三井金属",
-     "published": "2026-09-17T11:00:02+00:00",
-     "stance": "bearish",
-     "stance_note": "週足で三役逆転し下落トレンドが継続",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "日足・週足ともにマイナス1〜2シグマを下回る下落バンドウォークが続いており、下落トレンドが強まっている。",
-      "週足レベルで雲の下限を割り込んで三役逆転が完成しており、戻り売りや含み損の投げ売りなど複数の売り圧力が存在する。"
-     ],
-     "timestamp": "27:28",
-     "seconds": 1648,
-     "confidence": "high"
-    }
-   ],
-   "consensus": {
-    "bullish": 0,
-    "bearish": 2,
-    "neutral": 0
-   },
-   "voices": 2,
-   "split": false,
-   "last_mentioned": "2026-09-22T23:00:31+00:00",
-   "channel_ids": [
-    "UCdQdRRLoajrt-5TEaAxslxA",
-    "UCsaeHha7ai_NNX8or8Jyb-g"
-   ],
-   "price": {
-    "date": "2026-09-18",
-    "close": 22795.0,
-    "change_pct": 7.35,
-    "live": null,
-    "live_change_pct": null,
-    "live_time": null,
-    "volume": 2635600,
-    "volume_ratio": 1.69,
-    "rsi14": 36.4,
-    "rsi_zone": "中立",
-    "ma25": 26501.0,
-    "ma75": 33677.53,
-    "trend": "下降基調",
-    "pos52": 27,
-    "spark": [
-     31910.0,
-     31230.0,
-     28010.0,
-     25665.0,
-     27095.0,
-     30950.0,
-     30890.0,
-     31900.0,
-     35380.0,
-     31970.0,
-     32220.0,
-     27855.0,
-     29000.0,
-     29500.0,
-     29375.0,
-     31590.0,
-     30060.0,
-     27505.0,
-     28570.0,
-     28210.0,
-     28465.0,
-     28330.0,
-     29025.0,
-     28850.0,
-     29000.0,
-     29345.0,
-     28825.0,
-     26340.0,
-     25505.0,
-     25635.0,
-     25800.0,
-     24905.0,
-     26200.0,
-     24705.0,
-     23240.0,
-     22825.0,
-     22805.0,
-     22760.0,
-     21235.0,
-     22795.0
-    ],
-    "currency": "JPY",
-    "exchange_name": "Tokyo",
-    "market_open": false,
-    "symbol": "5706.T",
-    "source": "yahoo",
-    "fetched_at": "2026-09-23T18:07:57.431440+00:00"
-   }
-  },
-  {
-   "key": "JP:278A",
-   "name": "テラドローン",
-   "name_en": "Terra Drone",
-   "ticker": "278A",
+   "key": "IDX:^N225",
+   "name": "日経平均",
+   "name_en": "Nikkei 225",
+   "ticker": "N225",
    "market": "JP",
    "mentions": [
     {
@@ -183,119 +55,370 @@
      "channel_name": "Trader's Lab",
      "channel_short": "TL",
      "slot": 1,
-     "video_id": "sy7ikDZzheY",
-     "video_title": "【日経平均】 FOMCは無事通過？ 明日は日銀会合 〇〇がポイント  サンディスク・キオクシア・テラドローン・オンコリスバイオ・三井金属",
-     "published": "2026-09-17T11:00:02+00:00",
+     "video_id": "v5gSIZdmS3I",
+     "video_title": "【日経平均】 米国市場爆上げ！ 日経先物66000円越え！ 今後の値動きは〇〇",
+     "published": "2026-09-23T10:22:15+00:00",
      "stance": "neutral",
-     "stance_note": "25日線付近で反発も週足下落リスクに注意",
+     "stance_note": "抵抗線が多く明確な上抜けまでレンジ想定",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "前日の大幅下落から約10%買い戻され、日足の25日移動平均線に対して反発する動きを見せている。",
-      "週足レベルでは13週移動平均線付近までの下落リスクが潜んでおり、日足と週足の目線の違いに注意が必要である。"
+      "米株高で先物は一時6万7000円超に急伸したが、雲上限やボリンジャーバンドなど複数のテクニカル抵抗線が重なり上値は重い。",
+      "高値である6万7140円を大きく超えて上抜けない限りは、6万4000円から6万6000円台でのレンジ推移や調整が想定される。"
      ],
-     "timestamp": "23:31",
-     "seconds": 1411,
+     "timestamp": "17:58",
+     "seconds": 1078,
      "confidence": "high"
     },
     {
-     "channel_id": "UCt7qqCkTFFRfKjXzwqUXq4g",
-     "channel_name": "ぺこ株",
-     "channel_short": "ぺこ",
-     "slot": 4,
-     "video_id": "pYBhmu1RxDs",
-     "video_title": "今週（9/14〜）現状報告と展望解説",
-     "published": "2026-09-13T11:00:10+00:00",
-     "stance": "neutral",
-     "stance_note": "決算発表予定銘柄として注目",
+     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+     "channel_name": "Trader's Lab",
+     "channel_short": "TL",
+     "slot": 1,
+     "video_id": "E1jGFfK2Zas",
+     "video_title": "【日経平均】 日銀利上げで上昇 自立反発の範疇 慎重な立ち回りが必要です サンディスク・キオクシア・オンコリスバイオ・テクニスコ・ブレインズテクノロジー・ミナトホールディングス",
+     "published": "2026-09-19T05:56:49+00:00",
+     "stance": "bearish",
+     "stance_note": "下落基調での一時的な戻りに過ぎず警戒が必要",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "今週予定されている国内決算企業70社の中で、月曜日に発表を控える気になる銘柄として名前が挙がった。"
+      "6万5000円台へ戻したものの25日移動平均線や雲の加減にぶつかるテクニカルな売り水準であり下落基調自体は変化していない点。",
+      "高値の切り下げが継続しており9月8日の戻り高値を明確に超えない限りは下落トレンド継続または戻り売りのリスクが高い点。"
      ],
-     "timestamp": "05:46",
-     "seconds": 346,
-     "confidence": "low"
+     "timestamp": "01:41",
+     "seconds": 101,
+     "confidence": "high"
     }
    ],
    "consensus": {
     "bullish": 0,
     "bearish": 0,
-    "neutral": 2
+    "neutral": 1
    },
-   "voices": 2,
+   "voices": 1,
    "split": false,
-   "last_mentioned": "2026-09-17T11:00:02+00:00",
+   "last_mentioned": "2026-09-23T10:22:15+00:00",
    "channel_ids": [
-    "UCsaeHha7ai_NNX8or8Jyb-g",
-    "UCt7qqCkTFFRfKjXzwqUXq4g"
+    "UCsaeHha7ai_NNX8or8Jyb-g"
    ],
    "price": {
     "date": "2026-09-18",
-    "close": 19740.0,
-    "change_pct": 3.84,
+    "close": 65018.95,
+    "change_pct": 1.38,
     "live": null,
     "live_change_pct": null,
     "live_time": null,
-    "volume": 1767600,
-    "volume_ratio": 0.5,
-    "rsi14": 57.2,
+    "volume": 197700000,
+    "volume_ratio": 1.31,
+    "rsi14": 49.0,
     "rsi_zone": "中立",
-    "ma25": 17696.0,
-    "ma75": 12762.0,
-    "trend": "上昇基調",
-    "pos52": 90,
+    "ma25": 65466.51,
+    "ma75": 66640.33,
+    "trend": "下降基調",
+    "pos52": 74,
     "spark": [
-     12690.0,
-     12920.0,
-     10380.0,
-     10140.0,
-     10270.0,
-     10540.0,
-     12000.0,
-     14360.0,
-     12970.0,
-     12910.0,
-     12070.0,
-     12130.0,
-     12760.0,
-     12300.0,
-     12100.0,
-     13780.0,
-     13310.0,
-     13180.0,
-     14060.0,
-     13960.0,
-     13220.0,
-     14050.0,
-     17050.0,
-     19230.0,
-     21620.0,
-     17770.0,
-     17770.0,
-     19720.0,
-     18480.0,
-     20470.0,
-     20100.0,
-     20280.0,
-     18800.0,
-     19240.0,
-     21000.0,
-     20310.0,
-     18980.0,
-     17270.0,
-     19010.0,
-     19740.0
+     64611.15,
+     64931.19,
+     62364.92,
+     61434.19,
+     61867.43,
+     64362.02,
+     63754.9,
+     63957.53,
+     66300.44,
+     65683.26,
+     65606.71,
+     66970.22,
+     67524.06,
+     68308.59,
+     68713.8,
+     69220.25,
+     67460.73,
+     65326.42,
+     66216.79,
+     66016.36,
+     65528.09,
+     65856.43,
+     66262.16,
+     66131.98,
+     66405.56,
+     66311.93,
+     66215.34,
+     64325.64,
+     64214.48,
+     65020.94,
+     66399.84,
+     65269.33,
+     65142.78,
+     65270.95,
+     64011.34,
+     63492.99,
+     63484.1,
+     63923.0,
+     64136.25,
+     65018.95
+    ],
+    "currency": "JPY",
+    "exchange_name": "Osaka",
+    "market_open": false,
+    "symbol": "^N225",
+    "source": "yahoo",
+    "fetched_at": "2026-09-23T18:07:57.431440+00:00"
+   }
+  },
+  {
+   "key": "IDX:^NDX",
+   "name": "NASDAQ100",
+   "name_en": "NASDAQ 100 Index",
+   "ticker": "NDX",
+   "market": "US",
+   "mentions": [
+    {
+     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+     "channel_name": "Trader's Lab",
+     "channel_short": "TL",
+     "slot": 1,
+     "video_id": "v5gSIZdmS3I",
+     "video_title": "【日経平均】 米国市場爆上げ！ 日経先物66000円越え！ 今後の値動きは〇〇",
+     "published": "2026-09-23T10:22:15+00:00",
+     "stance": "bullish",
+     "stance_note": "最高値更新で調整終了し上昇トレンドへ",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "8月17日高値や史上最高値を更新したことで、これまでの調整フェーズが完全に終了し上昇トレンドへ転換したと判断できるため。",
+      "スピード違反的な上昇からの短期的な押し目・調整が入る可能性はあるが、カップウィズハンドルを形成し持続的な上昇が期待される。"
+     ],
+     "timestamp": "08:38",
+     "seconds": 518,
+     "confidence": "high"
+    }
+   ],
+   "consensus": {
+    "bullish": 1,
+    "bearish": 0,
+    "neutral": 0
+   },
+   "voices": 1,
+   "split": false,
+   "last_mentioned": "2026-09-23T10:22:15+00:00",
+   "channel_ids": [
+    "UCsaeHha7ai_NNX8or8Jyb-g"
+   ],
+   "price": {
+    "date": "2026-09-23",
+    "close": 30470.29,
+    "change_pct": -0.04,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 1242477000,
+    "volume_ratio": 0.16,
+    "rsi14": 65.5,
+    "rsi_zone": "中立",
+    "ma25": 29405.2,
+    "ma75": 29332.0,
+    "trend": "上昇基調",
+    "pos52": 98,
+    "spark": [
+     27763.13,
+     27192.31,
+     28106.35,
+     28274.2,
+     28776.8,
+     29733.16,
+     29487.79,
+     29373.33,
+     29722.3,
+     29621.8,
+     29525.48,
+     29742.6,
+     30084.5,
+     30046.14,
+     29995.38,
+     29490.96,
+     29426.02,
+     29213.16,
+     29308.86,
+     29023.18,
+     29209.23,
+     29224.52,
+     29641.56,
+     29433.43,
+     29456.97,
+     29077.22,
+     29143.33,
+     29482.32,
+     29544.15,
+     29507.7,
+     29421.55,
+     29103.51,
+     29368.44,
+     29127.16,
+     28937.84,
+     28945.06,
+     29446.98,
+     29644.17,
+     30482.35,
+     30470.29
+    ],
+    "currency": "USD",
+    "exchange_name": "Nasdaq GIDS",
+    "market_open": false,
+    "symbol": "^NDX",
+    "source": "yahoo",
+    "fetched_at": "2026-09-23T21:08:11.109198+00:00"
+   }
+  },
+  {
+   "key": "IDX:^TOPX",
+   "name": "TOPIX",
+   "name_en": "Tokyo Stock Price Index",
+   "ticker": "TOPX",
+   "market": "JP",
+   "mentions": [
+    {
+     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+     "channel_name": "Trader's Lab",
+     "channel_short": "TL",
+     "slot": 1,
+     "video_id": "v5gSIZdmS3I",
+     "video_title": "【日経平均】 米国市場爆上げ！ 日経先物66000円越え！ 今後の値動きは〇〇",
+     "published": "2026-09-23T10:22:15+00:00",
+     "stance": "bullish",
+     "stance_note": "中長期は堅調も短期的には揺さぶり警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "月足・週足レベルでトレンドフォローが継続しており、内需系やインバウンド・金融関連を中心に中長期的には堅調な推移が期待できるため。",
+      "日足レベルでは25日移動平均線が下向きで短期の揺さぶりはあるものの、高値更新を窺う下値の固い展開が続いている。"
+     ],
+     "timestamp": "15:58",
+     "seconds": 958,
+     "confidence": "medium"
+    }
+   ],
+   "consensus": {
+    "bullish": 1,
+    "bearish": 0,
+    "neutral": 0
+   },
+   "voices": 1,
+   "split": false,
+   "last_mentioned": "2026-09-23T10:22:15+00:00",
+   "channel_ids": [
+    "UCsaeHha7ai_NNX8or8Jyb-g"
+   ],
+   "price": {
+    "date": "2026-09-18",
+    "close": 426.3,
+    "change_pct": -0.26,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 15096840,
+    "volume_ratio": 1.13,
+    "rsi14": 51.4,
+    "rsi_zone": "中立",
+    "ma25": 426.36,
+    "ma75": 423.29,
+    "trend": "調整中",
+    "pos52": 97,
+    "spark": [
+     417.5,
+     424.3,
+     412.9,
+     414.9,
+     412.7,
+     417.2,
+     411.8,
+     412.4,
+     421.3,
+     423.7,
+     425.1,
+     427.6,
+     431.9,
+     435.4,
+     437.8,
+     435.9,
+     431.0,
+     417.4,
+     422.8,
+     424.1,
+     424.7,
+     426.7,
+     428.2,
+     429.4,
+     432.0,
+     433.5,
+     435.7,
+     424.5,
+     427.2,
+     427.5,
+     430.1,
+     422.2,
+     421.4,
+     422.7,
+     419.7,
+     423.3,
+     421.3,
+     423.9,
+     427.4,
+     426.3
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
     "market_open": false,
-    "symbol": "278A.T",
+    "symbol": "1306.T",
     "source": "yahoo",
-    "fetched_at": "2026-09-23T18:07:57.431440+00:00"
+    "fetched_at": "2026-09-23T21:08:11.109198+00:00"
    }
+  },
+  {
+   "key": "US:SOX",
+   "name": "SOX指数",
+   "name_en": "PHLX Semiconductor Index",
+   "ticker": "SOX",
+   "market": "US",
+   "mentions": [
+    {
+     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+     "channel_name": "Trader's Lab",
+     "channel_short": "TL",
+     "slot": 1,
+     "video_id": "v5gSIZdmS3I",
+     "video_title": "【日経平均】 米国市場爆上げ！ 日経先物66000円越え！ 今後の値動きは〇〇",
+     "published": "2026-09-23T10:22:15+00:00",
+     "stance": "neutral",
+     "stance_note": "底打ちは確認されたがスクイーズでレンジ推移",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "8月高値を更新して底打ちは確認されたが、75日線が25日線の上にあるなど移動平均線の並びが弱くレンジ感が強いため。",
+      "ボリンジャーバンドがスクイーズしており、短期的に一方向へ強い上昇トレンドが持続しにくいテクニカル形状となっている。"
+     ],
+     "timestamp": "13:32",
+     "seconds": 812,
+     "confidence": "medium"
+    }
+   ],
+   "consensus": {
+    "bullish": 0,
+    "bearish": 0,
+    "neutral": 1
+   },
+   "voices": 1,
+   "split": false,
+   "last_mentioned": "2026-09-23T10:22:15+00:00",
+   "channel_ids": [
+    "UCsaeHha7ai_NNX8or8Jyb-g"
+   ]
   },
   {
    "key": "JP:5016",
@@ -400,7 +523,113 @@
     "market_open": false,
     "symbol": "5016.T",
     "source": "yahoo",
-    "fetched_at": "2026-09-23T08:07:46.643568+00:00"
+    "fetched_at": "2026-09-23T21:08:11.109198+00:00"
+   }
+  },
+  {
+   "key": "JP:5706",
+   "name": "三井金属",
+   "name_en": "Mitsui Mining & Smelting Co., Ltd.",
+   "ticker": "5706",
+   "market": "JP",
+   "mentions": [
+    {
+     "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+     "channel_name": "トレーダーTOMO",
+     "channel_short": "TOMO",
+     "slot": 2,
+     "video_id": "13Ul8QJf6k8",
+     "video_title": "金属関連銘柄（JX金属・三井金属・住友金属鉱山・三菱マテリアル）株式テクニカルチャート分析",
+     "published": "2026-09-22T23:00:31+00:00",
+     "stance": "bearish",
+     "stance_note": "10分割控えてしこり懸念強くしばらく上値重い",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "AI関連の銅箔などで注目されるが、1Q決算がコンセンサスに届かずアナリストの業績や目標株価の下方修正が目立つ。",
+      "出来高に対して信用買残が増加して重たさが出ているほか、デイトレでも触りにくいなど受給面の悪化が見られる。",
+      "株式の10分割を控えており、膨大な信用買いのしこりが残存して出来高も伴わずしばらく上がれないと見込まれる。"
+     ],
+     "timestamp": "06:11",
+     "seconds": 371,
+     "confidence": "high"
+    }
+   ],
+   "consensus": {
+    "bullish": 0,
+    "bearish": 1,
+    "neutral": 0
+   },
+   "voices": 1,
+   "split": false,
+   "last_mentioned": "2026-09-22T23:00:31+00:00",
+   "channel_ids": [
+    "UCdQdRRLoajrt-5TEaAxslxA"
+   ],
+   "price": {
+    "date": "2026-09-18",
+    "close": 22795.0,
+    "change_pct": 7.35,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 2635600,
+    "volume_ratio": 1.69,
+    "rsi14": 36.4,
+    "rsi_zone": "中立",
+    "ma25": 26501.0,
+    "ma75": 33677.53,
+    "trend": "下降基調",
+    "pos52": 27,
+    "spark": [
+     31910.0,
+     31230.0,
+     28010.0,
+     25665.0,
+     27095.0,
+     30950.0,
+     30890.0,
+     31900.0,
+     35380.0,
+     31970.0,
+     32220.0,
+     27855.0,
+     29000.0,
+     29500.0,
+     29375.0,
+     31590.0,
+     30060.0,
+     27505.0,
+     28570.0,
+     28210.0,
+     28465.0,
+     28330.0,
+     29025.0,
+     28850.0,
+     29000.0,
+     29345.0,
+     28825.0,
+     26340.0,
+     25505.0,
+     25635.0,
+     25800.0,
+     24905.0,
+     26200.0,
+     24705.0,
+     23240.0,
+     22825.0,
+     22805.0,
+     22760.0,
+     21235.0,
+     22795.0
+    ],
+    "currency": "JPY",
+    "exchange_name": "Tokyo",
+    "market_open": false,
+    "symbol": "5706.T",
+    "source": "yahoo",
+    "fetched_at": "2026-09-23T18:07:57.431440+00:00"
    }
   },
   {
@@ -506,7 +735,7 @@
     "market_open": false,
     "symbol": "5713.T",
     "source": "yahoo",
-    "fetched_at": "2026-09-23T08:07:46.643568+00:00"
+    "fetched_at": "2026-09-23T21:08:11.109198+00:00"
    }
   },
   {
@@ -612,7 +841,7 @@
     "market_open": false,
     "symbol": "5711.T",
     "source": "yahoo",
-    "fetched_at": "2026-09-23T08:07:46.643568+00:00"
+    "fetched_at": "2026-09-23T21:08:11.109198+00:00"
    }
   },
   {
@@ -718,7 +947,7 @@
     "market_open": false,
     "symbol": "6701.T",
     "source": "yahoo",
-    "fetched_at": "2026-09-23T08:07:46.643568+00:00"
+    "fetched_at": "2026-09-23T21:08:11.109198+00:00"
    }
   },
   {
@@ -823,7 +1052,7 @@
     "market_open": false,
     "symbol": "4062.T",
     "source": "yahoo",
-    "fetched_at": "2026-09-23T08:07:46.643568+00:00"
+    "fetched_at": "2026-09-23T21:08:11.109198+00:00"
    }
   },
   {
@@ -929,7 +1158,7 @@
     "market_open": false,
     "symbol": "6330.T",
     "source": "yahoo",
-    "fetched_at": "2026-09-23T08:07:46.643568+00:00"
+    "fetched_at": "2026-09-23T21:08:11.109198+00:00"
    }
   },
   {
@@ -1034,7 +1263,7 @@
     "market_open": false,
     "symbol": "7270.T",
     "source": "yahoo",
-    "fetched_at": "2026-09-23T08:07:46.643568+00:00"
+    "fetched_at": "2026-09-23T21:08:11.109198+00:00"
    }
   },
   {
@@ -1138,7 +1367,7 @@
     "market_open": false,
     "symbol": "7936.T",
     "source": "yahoo",
-    "fetched_at": "2026-09-23T08:07:46.643568+00:00"
+    "fetched_at": "2026-09-23T21:08:11.109198+00:00"
    }
   },
   {
@@ -1243,7 +1472,7 @@
     "market_open": false,
     "symbol": "6871.T",
     "source": "yahoo",
-    "fetched_at": "2026-09-23T08:07:46.643568+00:00"
+    "fetched_at": "2026-09-23T21:08:11.109198+00:00"
    }
   },
   {
@@ -1347,7 +1576,7 @@
     "market_open": false,
     "symbol": "5802.T",
     "source": "yahoo",
-    "fetched_at": "2026-09-23T08:07:46.643568+00:00"
+    "fetched_at": "2026-09-23T21:08:11.109198+00:00"
    }
   },
   {
@@ -1561,111 +1790,6 @@
    }
   },
   {
-   "key": "IDX:^N225",
-   "name": "日経平均",
-   "name_en": "Nikkei 225",
-   "ticker": "",
-   "market": "JP",
-   "mentions": [
-    {
-     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-     "channel_name": "Trader's Lab",
-     "channel_short": "TL",
-     "slot": 1,
-     "video_id": "E1jGFfK2Zas",
-     "video_title": "【日経平均】 日銀利上げで上昇 自立反発の範疇 慎重な立ち回りが必要です サンディスク・キオクシア・オンコリスバイオ・テクニスコ・ブレインズテクノロジー・ミナトホールディングス",
-     "published": "2026-09-19T05:56:49+00:00",
-     "stance": "bearish",
-     "stance_note": "下落基調での一時的な戻りに過ぎず警戒が必要",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "6万5000円台へ戻したものの25日移動平均線や雲の加減にぶつかるテクニカルな売り水準であり下落基調自体は変化していない点。",
-      "高値の切り下げが継続しており9月8日の戻り高値を明確に超えない限りは下落トレンド継続または戻り売りのリスクが高い点。"
-     ],
-     "timestamp": "01:41",
-     "seconds": 101,
-     "confidence": "high"
-    }
-   ],
-   "consensus": {
-    "bullish": 0,
-    "bearish": 1,
-    "neutral": 0
-   },
-   "voices": 1,
-   "split": false,
-   "last_mentioned": "2026-09-19T05:56:49+00:00",
-   "channel_ids": [
-    "UCsaeHha7ai_NNX8or8Jyb-g"
-   ],
-   "price": {
-    "date": "2026-09-18",
-    "close": 65018.95,
-    "change_pct": 1.38,
-    "live": null,
-    "live_change_pct": null,
-    "live_time": null,
-    "volume": 197700000,
-    "volume_ratio": 1.31,
-    "rsi14": 49.0,
-    "rsi_zone": "中立",
-    "ma25": 65466.51,
-    "ma75": 66640.33,
-    "trend": "下降基調",
-    "pos52": 74,
-    "spark": [
-     64611.15,
-     64931.19,
-     62364.92,
-     61434.19,
-     61867.43,
-     64362.02,
-     63754.9,
-     63957.53,
-     66300.44,
-     65683.26,
-     65606.71,
-     66970.22,
-     67524.06,
-     68308.59,
-     68713.8,
-     69220.25,
-     67460.73,
-     65326.42,
-     66216.79,
-     66016.36,
-     65528.09,
-     65856.43,
-     66262.16,
-     66131.98,
-     66405.56,
-     66311.93,
-     66215.34,
-     64325.64,
-     64214.48,
-     65020.94,
-     66399.84,
-     65269.33,
-     65142.78,
-     65270.95,
-     64011.34,
-     63492.99,
-     63484.1,
-     63923.0,
-     64136.25,
-     65018.95
-    ],
-    "currency": "JPY",
-    "exchange_name": "Osaka",
-    "market_open": false,
-    "symbol": "^N225",
-    "source": "yahoo",
-    "fetched_at": "2026-09-23T18:07:57.431440+00:00"
-   }
-  },
-  {
    "key": "US:WDC",
    "name": "サンディスク",
    "name_en": "SanDisk",
@@ -1692,26 +1816,6 @@
      "timestamp": "22:38",
      "seconds": 1358,
      "confidence": "medium"
-    },
-    {
-     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-     "channel_name": "Trader's Lab",
-     "channel_short": "TL",
-     "slot": 1,
-     "video_id": "sy7ikDZzheY",
-     "video_title": "【日経平均】 FOMCは無事通過？ 明日は日銀会合 〇〇がポイント  サンディスク・キオクシア・テラドローン・オンコリスバイオ・三井金属",
-     "published": "2026-09-17T11:00:02+00:00",
-     "stance": "bearish",
-     "stance_note": "25日線下回りでモメンタム悪化の懸念あり",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "日足の25日移動平均線を下回っており、株価が停滞すると時間経過とともにモメンタムが悪化する懸念が出ている。"
-     ],
-     "timestamp": "21:04",
-     "seconds": 1264,
-     "confidence": "medium"
     }
    ],
    "consensus": {
@@ -1732,8 +1836,8 @@
     "live": null,
     "live_change_pct": null,
     "live_time": null,
-    "volume": 4921656,
-    "volume_ratio": 0.78,
+    "volume": 5011141,
+    "volume_ratio": 0.79,
     "rsi14": 54.0,
     "rsi_zone": "中立",
     "ma25": 452.05,
@@ -1787,7 +1891,7 @@
     "market_open": false,
     "symbol": "WDC",
     "source": "yahoo",
-    "fetched_at": "2026-09-23T20:07:46.187492+00:00"
+    "fetched_at": "2026-09-23T21:08:11.109198+00:00"
    }
   },
   {
@@ -1816,27 +1920,6 @@
      ],
      "timestamp": "23:18",
      "seconds": 1398,
-     "confidence": "high"
-    },
-    {
-     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-     "channel_name": "Trader's Lab",
-     "channel_short": "TL",
-     "slot": 1,
-     "video_id": "sy7ikDZzheY",
-     "video_title": "【日経平均】 FOMCは無事通過？ 明日は日銀会合 〇〇がポイント  サンディスク・キオクシア・テラドローン・オンコリスバイオ・三井金属",
-     "published": "2026-09-17T11:00:02+00:00",
-     "stance": "bearish",
-     "stance_note": "25日線下向きで下方向への圧力強い",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "25日移動平均線が下向きで現在値が低いため、時間の経過とともに下方向へのモメンタムが強まりやすいチャート形状である。",
-      "週足でも26週移動平均線を明確に割り込んでおり、主要な節目を割るとさらに一段安へ向かうリスクが想定される。"
-     ],
-     "timestamp": "21:37",
-     "seconds": 1297,
      "confidence": "high"
     }
    ],
@@ -1942,27 +2025,6 @@
      ],
      "timestamp": "24:19",
      "seconds": 1459,
-     "confidence": "high"
-    },
-    {
-     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-     "channel_name": "Trader's Lab",
-     "channel_short": "TL",
-     "slot": 1,
-     "video_id": "sy7ikDZzheY",
-     "video_title": "【日経平均】 FOMCは無事通過？ 明日は日銀会合 〇〇がポイント  サンディスク・キオクシア・テラドローン・オンコリスバイオ・三井金属",
-     "published": "2026-09-17T11:00:02+00:00",
-     "stance": "bullish",
-     "stance_note": "連日の上場来高値更新で強い上昇傾向",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "地合いが渋い中でも連日で上場来高値を更新しており、機関投資家の空売り撤退も手伝って強い上昇傾向にある。",
-      "日足がバンドウォークの形状で上昇しており、前日の下落をすぐに吸収する力強い切り返しを見せている。"
-     ],
-     "timestamp": "24:47",
-     "seconds": 1487,
      "confidence": "high"
     }
    ],
@@ -2727,6 +2789,110 @@
     "exchange_name": "Tokyo",
     "market_open": false,
     "symbol": "2914.T",
+    "source": "yahoo",
+    "fetched_at": "2026-09-23T18:07:57.431440+00:00"
+   }
+  },
+  {
+   "key": "JP:278A",
+   "name": "テラドローン",
+   "name_en": "Terra Drone Corporation",
+   "ticker": "278A",
+   "market": "JP",
+   "mentions": [
+    {
+     "channel_id": "UCt7qqCkTFFRfKjXzwqUXq4g",
+     "channel_name": "ぺこ株",
+     "channel_short": "ぺこ",
+     "slot": 4,
+     "video_id": "pYBhmu1RxDs",
+     "video_title": "今週（9/14〜）現状報告と展望解説",
+     "published": "2026-09-13T11:00:10+00:00",
+     "stance": "neutral",
+     "stance_note": "決算発表予定銘柄として注目",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "今週予定されている国内決算企業70社の中で、月曜日に発表を控える気になる銘柄として名前が挙がった。"
+     ],
+     "timestamp": "05:46",
+     "seconds": 346,
+     "confidence": "low"
+    }
+   ],
+   "consensus": {
+    "bullish": 0,
+    "bearish": 0,
+    "neutral": 1
+   },
+   "voices": 1,
+   "split": false,
+   "last_mentioned": "2026-09-13T11:00:10+00:00",
+   "channel_ids": [
+    "UCt7qqCkTFFRfKjXzwqUXq4g"
+   ],
+   "price": {
+    "date": "2026-09-18",
+    "close": 19740.0,
+    "change_pct": 3.84,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 1767600,
+    "volume_ratio": 0.5,
+    "rsi14": 57.2,
+    "rsi_zone": "中立",
+    "ma25": 17696.0,
+    "ma75": 12762.0,
+    "trend": "上昇基調",
+    "pos52": 90,
+    "spark": [
+     12690.0,
+     12920.0,
+     10380.0,
+     10140.0,
+     10270.0,
+     10540.0,
+     12000.0,
+     14360.0,
+     12970.0,
+     12910.0,
+     12070.0,
+     12130.0,
+     12760.0,
+     12300.0,
+     12100.0,
+     13780.0,
+     13310.0,
+     13180.0,
+     14060.0,
+     13960.0,
+     13220.0,
+     14050.0,
+     17050.0,
+     19230.0,
+     21620.0,
+     17770.0,
+     17770.0,
+     19720.0,
+     18480.0,
+     20470.0,
+     20100.0,
+     20280.0,
+     18800.0,
+     19240.0,
+     21000.0,
+     20310.0,
+     18980.0,
+     17270.0,
+     19010.0,
+     19740.0
+    ],
+    "currency": "JPY",
+    "exchange_name": "Tokyo",
+    "market_open": false,
+    "symbol": "278A.T",
     "source": "yahoo",
     "fetched_at": "2026-09-23T18:07:57.431440+00:00"
    }
