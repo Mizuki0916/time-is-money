@@ -9,13 +9,132 @@
    "channel_name": "Sho's投資情報局",
    "channel_short": "Sho",
    "slot": 3,
-   "no_transcript": true,
-   "skip_reason": "この動画には字幕がありません",
-   "attempts": 6,
-   "overview": "",
-   "market_view": "",
-   "market": "",
-   "picks": []
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "韓国からのライブ配信で、AI半導体株やハイテク株の急騰を背景とした日経平均先物の上昇と配当落ち後の相場見通しを解説。米金利上昇や原油動向、為替介入の影響を分析しつつ、配当落ち後の戻り売りや下落リスクへの警戒を促している。個別銘柄ではキオクシア、マツダ、トヨタ、トレンドマイクロ、三井E&S、野村ホールディングスなどのチャート形状や売買戦略を具体的に解説している。",
+   "market_view": "半導体やハイテク株主導で日経平均の上昇が期待される一方、高値期日通過に伴う売圧力や配当落ち後の下落に注意が必要としている。",
+   "market": "MIX",
+   "picks": [
+    {
+     "name": "キオクシア",
+     "name_en": "Kioxia Holdings",
+     "ticker": "285A",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "7万円近辺での戻り売りに注意",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "PTSで急騰しているが上値で捕まっている投資家が多く7万円〜7万2000円近辺で売り圧力が生じやすいため。",
+      "年末に向かって高値を更新できない場合、一定の価格帯で買い方の手仕舞い売り(やれやれ売り)が出るとみているため。"
+     ],
+     "timestamp": "08:45",
+     "confidence": "medium"
+    },
+    {
+     "name": "マツダ",
+     "name_en": "Mazda Motor",
+     "ticker": "7261",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "配当落ち後の押し目買いを検討",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "PBR0.38倍、PER8.1倍、配当利回り4.75%とバリエーション的には割安感があり中長期保有に適しているため。",
+      "信用倍率が12倍と買い残が多く偏っているため今からの買い増しではなく配当落ち後の下落局面を狙うのが良いため。"
+     ],
+     "timestamp": "10:35",
+     "confidence": "medium"
+    },
+    {
+     "name": "トヨタ自動車",
+     "name_en": "Toyota Motor",
+     "ticker": "7203",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "配当落ち後の買い戻しなどを検討",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "配当権利落ち直前のため月末までの下げ幅は限定的とみられるが配当落ち後には教科書通りの下落圧力が予想されるため。",
+      "配当狙いの上昇が弱くまたがない人も多いため、権利落ち後に売った分を買い戻すなどの戦略が考慮されるため。"
+     ],
+     "timestamp": "12:35",
+     "confidence": "low"
+    },
+    {
+     "name": "トレンドマイクロ",
+     "name_en": "Trend Micro",
+     "ticker": "4704",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "バンドウォーク継続で上昇期待",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "日足がボリンジャーバンドの+2σに沿って上昇する強烈なバンドウォークを形成しており終了サインが出るまで様子見すべきため。",
+      "トレンド継続中に値頃感で全売りするのは大きな機会損失となり押し目や明確な反転サインが出るまで伸ばすべきため。"
+     ],
+     "timestamp": "16:14",
+     "confidence": "medium"
+    },
+    {
+     "name": "パランティア・テクノロジーズ",
+     "name_en": "Palantir Technologies",
+     "ticker": "PLTR",
+     "market": "US",
+     "stance": "bullish",
+     "stance_note": "各種移動平均のGクロスで好転",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "200日移動平均線と75日・100日移動平均線などの長期線がゴールデンクロスを形成しつつあり好転が期待できるため。",
+      "一時期の低迷から株価が力強く復調してきており、テクニカル面で買いのサインが良好に点灯しているため。"
+     ],
+     "timestamp": "32:55",
+     "confidence": "low"
+    },
+    {
+     "name": "三井E&S",
+     "name_en": "Mitsui E&S",
+     "ticker": "7003",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "100日線超えからの急騰に期待",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "100日移動平均線が強い抵抗線として機能しておりここを抜けて5日線とクロスすると強い上昇波動が入るため。",
+      "各移動平均線の乖離が縮小して密集した状態から上抜けるパターンが出ると急騰しやすいチャート形状となっているため。"
+     ],
+     "timestamp": "38:00",
+     "confidence": "medium"
+    },
+    {
+     "name": "野村ホールディングス",
+     "name_en": "Nomura Holdings",
+     "ticker": "8604",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "配当落ち後の壁丼パターンに警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "配当権利月にもかかわらず株価が弱含んでおり、配当落ち後に5日線と25日・50日線がデッドクロスを起こす懸念があるため。",
+      "RSIやMACDでダイバージェンス(逆行現象)が発生しており、一目の雲の壁にぶつかって下落するリスクがあるため。"
+     ],
+     "timestamp": "40:36",
+     "confidence": "high"
+    }
+   ]
   },
   {
    "video_id": "fkKxzE1nKTk",

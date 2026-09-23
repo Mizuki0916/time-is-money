@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-24T07:06:12.700639+09:00",
+ "generated_at": "2026-09-24T08:06:05.791000+09:00",
  "videos": [
   {
    "video_id": "G8MuX1eDtUc",
@@ -9,12 +9,55 @@
    "channel_short": "Sho",
    "slot": 3,
    "published": "2026-09-23T14:54:20+00:00",
-   "overview": "",
-   "market_view": "",
-   "market": "",
-   "no_transcript": true,
-   "skip_reason": "この動画には字幕がありません",
-   "picks": []
+   "overview": "韓国からのライブ配信で、AI半導体株やハイテク株の急騰を背景とした日経平均先物の上昇と配当落ち後の相場見通しを解説。米金利上昇や原油動向、為替介入の影響を分析しつつ、配当落ち後の戻り売りや下落リスクへの警戒を促している。個別銘柄ではキオクシア、マツダ、トヨタ、トレンドマイクロ、三井E&S、野村ホールディングスなどのチャート形状や売買戦略を具体的に解説している。",
+   "market_view": "半導体やハイテク株主導で日経平均の上昇が期待される一方、高値期日通過に伴う売圧力や配当落ち後の下落に注意が必要としている。",
+   "market": "MIX",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "キオクシア",
+     "ticker": "285A",
+     "stance": "neutral",
+     "timestamp": "08:45"
+    },
+    {
+     "name": "マツダ",
+     "ticker": "7261",
+     "stance": "neutral",
+     "timestamp": "10:35"
+    },
+    {
+     "name": "トヨタ自動車",
+     "ticker": "7203",
+     "stance": "neutral",
+     "timestamp": "12:35"
+    },
+    {
+     "name": "トレンドマイクロ",
+     "ticker": "4704",
+     "stance": "bullish",
+     "timestamp": "16:14"
+    },
+    {
+     "name": "パランティア・テクノロジーズ",
+     "ticker": "PLTR",
+     "stance": "bullish",
+     "timestamp": "32:55"
+    },
+    {
+     "name": "三井E&S",
+     "ticker": "7003",
+     "stance": "bullish",
+     "timestamp": "38:00"
+    },
+    {
+     "name": "野村ホールディングス",
+     "ticker": "8604",
+     "stance": "bearish",
+     "timestamp": "40:36"
+    }
+   ]
   },
   {
    "video_id": "v5gSIZdmS3I",
