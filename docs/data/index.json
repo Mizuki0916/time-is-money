@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-24T00:06:46.855935+09:00",
+ "generated_at": "2026-09-24T01:08:51.027112+09:00",
  "channels": [
   {
    "id": "UCsaeHha7ai_NNX8or8Jyb-g",
@@ -1729,9 +1729,9 @@
     "date": "2026-09-21",
     "close": 448.17,
     "change_pct": 1.54,
-    "live": 465.25,
-    "live_change_pct": 3.81,
-    "live_time": 1790176005,
+    "live": 465.61,
+    "live_change_pct": 3.89,
+    "live_time": 1790179729,
     "volume": 7636000,
     "volume_ratio": 1.17,
     "rsi14": 47.6,
@@ -1787,7 +1787,7 @@
     "market_open": true,
     "symbol": "WDC",
     "source": "yahoo",
-    "fetched_at": "2026-09-23T15:06:46.907464+00:00"
+    "fetched_at": "2026-09-23T16:08:51.080168+00:00"
    }
   },
   {
