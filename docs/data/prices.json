@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-24T09:19:51.053384+00:00",
+ "updated_at": "2026-09-24T18:10:29.435716+00:00",
  "symbols": {
   "JP:1111": {
    "date": "2026-08-17",
@@ -4983,9 +4983,9 @@
    "date": "2026-09-23",
    "close": 473.69,
    "change_pct": 1.96,
-   "live": null,
-   "live_change_pct": null,
-   "live_time": null,
+   "live": 453.94,
+   "live_change_pct": -4.17,
+   "live_time": 1790273433,
    "volume": 5027600,
    "volume_ratio": 0.8,
    "rsi14": 54.0,
@@ -5038,10 +5038,10 @@
    ],
    "currency": "USD",
    "exchange_name": "NasdaqGS",
-   "market_open": false,
+   "market_open": true,
    "symbol": "WDC",
    "source": "yahoo",
-   "fetched_at": "2026-09-24T09:19:51.053384+00:00"
+   "fetched_at": "2026-09-24T18:10:29.435716+00:00"
   },
   "JP:6522": {
    "date": "2026-08-28",
@@ -10295,9 +10295,9 @@
    "date": "2026-09-23",
    "close": 30470.29,
    "change_pct": -0.04,
-   "live": null,
-   "live_change_pct": null,
-   "live_time": null,
+   "live": 30394.33,
+   "live_change_pct": -0.25,
+   "live_time": 1790273428,
    "volume": 8491740000,
    "volume_ratio": 1.06,
    "rsi14": 65.5,
@@ -10350,10 +10350,10 @@
    ],
    "currency": "USD",
    "exchange_name": "Nasdaq GIDS",
-   "market_open": false,
+   "market_open": true,
    "symbol": "^NDX",
    "source": "yahoo",
-   "fetched_at": "2026-09-24T09:19:51.053384+00:00"
+   "fetched_at": "2026-09-24T18:10:29.435716+00:00"
   },
   "IDX:^TOPX": {
    "date": "2026-09-18",
@@ -10423,11 +10423,11 @@
    "date": "2026-09-23",
    "close": 191.79,
    "change_pct": 3.68,
-   "live": null,
-   "live_change_pct": null,
-   "live_time": null,
-   "volume": 34908712,
-   "volume_ratio": 1.21,
+   "live": 192.49,
+   "live_change_pct": 0.36,
+   "live_time": 1790273421,
+   "volume": 35029400,
+   "volume_ratio": 1.22,
    "rsi14": 66.9,
    "rsi_zone": "中立",
    "ma25": 177.08,
@@ -10478,10 +10478,10 @@
    ],
    "currency": "USD",
    "exchange_name": "NasdaqGS",
-   "market_open": false,
+   "market_open": true,
    "symbol": "PLTR",
    "source": "yahoo",
-   "fetched_at": "2026-09-23T23:05:49.222922+00:00"
+   "fetched_at": "2026-09-24T18:10:29.435716+00:00"
   },
   "JP:7003": {
    "date": "2026-09-18",
