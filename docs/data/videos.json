@@ -1,6 +1,76 @@
 {
- "generated_at": "2026-09-25T06:31:44.098744+09:00",
+ "generated_at": "2026-09-25T06:34:08.843599+09:00",
  "videos": [
+  {
+   "video_id": "vpep7apmbMY",
+   "title": "【日経平均】 米国株高も値を打ち消す動き 金利高が重石か サンディスク・キオクシア・東京エレクトロン・アドバンテスト・ファーストリテイリング・リクルート・サンコール・ミナトホールディングス・オンコリス",
+   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+   "channel_name": "Trader's Lab",
+   "channel_short": "TL",
+   "slot": 1,
+   "published": "2026-09-24T11:00:32+00:00",
+   "overview": "連休明けの日本市場は米国株高の流れを引き継げず、金利高や主力半導体株の戻り売りに押されて伸び悩む展開を解説しています。東京エレクトロンやアドバンテスト、ファーストリテイリングなど大型株の切り下げ基調が日経平均の上値を抑える一方、サンコールやミナトホールディングスなど高値更新が続く中小型株の強さが目立ちます。相場全体として方向感が出にくいため、リスク管理を徹底した慎重なエントリーが求められます。",
+   "market_view": "米国株高にもかかわらず国内金利の上昇や主力株のテクニカル悪化が重石となり、日経平均は上値の重いレンジ推移や調整リスクに警戒が必要です。",
+   "market": "MIX",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "キオクシアホールディングス",
+     "ticker": "",
+     "stance": "neutral",
+     "timestamp": "17:39"
+    },
+    {
+     "name": "サンディスク",
+     "ticker": "SNDK",
+     "stance": "neutral",
+     "timestamp": "18:59"
+    },
+    {
+     "name": "東京エレクトロン",
+     "ticker": "8035",
+     "stance": "bearish",
+     "timestamp": "19:47"
+    },
+    {
+     "name": "アドバンテスト",
+     "ticker": "6857",
+     "stance": "bearish",
+     "timestamp": "20:51"
+    },
+    {
+     "name": "ファーストリテイリング",
+     "ticker": "9983",
+     "stance": "bearish",
+     "timestamp": "21:24"
+    },
+    {
+     "name": "リクルートホールディングス",
+     "ticker": "6098",
+     "stance": "bearish",
+     "timestamp": "22:25"
+    },
+    {
+     "name": "サンコール",
+     "ticker": "5985",
+     "stance": "bullish",
+     "timestamp": "23:14"
+    },
+    {
+     "name": "ミナトホールディングス",
+     "ticker": "6862",
+     "stance": "bullish",
+     "timestamp": "24:16"
+    },
+    {
+     "name": "オンコリスバイオファーマ",
+     "ticker": "4588",
+     "stance": "bearish",
+     "timestamp": "25:25"
+    }
+   ]
+  },
   {
    "video_id": "G8MuX1eDtUc",
    "title": "日本株稼ぎ時や‼︎AI半導体株急伸で日経平均狙い通り爆上げか⁉キオクシア助かるか？ドル円157円。米国株、ナスダック、ハイテク株、仮想通貨BTC急騰",
@@ -222,64 +292,6 @@
      "ticker": "6976",
      "stance": "neutral",
      "timestamp": "00:34"
-    }
-   ]
-  },
-  {
-   "video_id": "E1jGFfK2Zas",
-   "title": "【日経平均】 日銀利上げで上昇 自立反発の範疇 慎重な立ち回りが必要です サンディスク・キオクシア・オンコリスバイオ・テクニスコ・ブレインズテクノロジー・ミナトホールディングス",
-   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-   "channel_name": "Trader's Lab",
-   "channel_short": "TL",
-   "slot": 1,
-   "published": "2026-09-19T05:56:49+00:00",
-   "overview": "日銀の利上げ発表を経て日経平均は上昇したものの、テクニカル的には下落基調における一時的な自律反発の範疇であり、慎重な対応が求められると解説しています。また、個別銘柄ではレンジ相場が続くキオクシアやサンディスクのほか、好材料や好決算を背景にストップ高や高値更新を見せるオンコリスバイオやミナトホールディングスなどの注目株を分析しています。",
-   "market_view": "日経平均は自律反発で6万5000円台に乗せたものの基本は下落基調であり、米市場休場中の連休明けに向けリスク管理と短期主軸の慎重な立ち回りが推奨されます。",
-   "market": "MIX",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "日経平均株価",
-     "ticker": "",
-     "stance": "bearish",
-     "timestamp": "01:41"
-    },
-    {
-     "name": "サンディスク",
-     "ticker": "WDC",
-     "stance": "neutral",
-     "timestamp": "22:38"
-    },
-    {
-     "name": "キオクシア",
-     "ticker": "285A",
-     "stance": "neutral",
-     "timestamp": "23:18"
-    },
-    {
-     "name": "オンコリスバイオファーマ",
-     "ticker": "4588",
-     "stance": "bullish",
-     "timestamp": "24:19"
-    },
-    {
-     "name": "テクニスコ",
-     "ticker": "2962",
-     "stance": "bullish",
-     "timestamp": "27:32"
-    },
-    {
-     "name": "ブレインズテクノロジー",
-     "ticker": "4075",
-     "stance": "bullish",
-     "timestamp": "29:36"
-    },
-    {
-     "name": "ミナトホールディングス",
-     "ticker": "6862",
-     "stance": "bullish",
-     "timestamp": "31:10"
     }
    ]
   },
