@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-25T13:22:35.338146+09:00",
+ "generated_at": "2026-09-25T18:44:46.177508+09:00",
  "channels": [
   {
    "id": "UCsaeHha7ai_NNX8or8Jyb-g",
@@ -195,7 +195,7 @@
     "live": null,
     "live_change_pct": null,
     "live_time": null,
-    "volume": 8145414,
+    "volume": 8186500,
     "volume_ratio": 0.77,
     "rsi14": 56.2,
     "rsi_zone": "中立",
@@ -250,7 +250,7 @@
     "market_open": false,
     "symbol": "SNDK",
     "source": "yahoo",
-    "fetched_at": "2026-09-24T21:32:23.230151+00:00"
+    "fetched_at": "2026-09-25T09:44:46.184884+00:00"
    }
   },
   {
@@ -1455,7 +1455,7 @@
     "live": null,
     "live_change_pct": null,
     "live_time": null,
-    "volume": 22612777,
+    "volume": 22639500,
     "volume_ratio": 0.8,
     "rsi14": 67.4,
     "rsi_zone": "中立",
@@ -1510,7 +1510,7 @@
     "market_open": false,
     "symbol": "PLTR",
     "source": "yahoo",
-    "fetched_at": "2026-09-24T21:32:23.230151+00:00"
+    "fetched_at": "2026-09-25T09:44:46.184884+00:00"
    }
   },
   {
@@ -1875,8 +1875,8 @@
     "live": null,
     "live_change_pct": null,
     "live_time": null,
-    "volume": 1135003000,
-    "volume_ratio": 0.15,
+    "volume": 8078820000,
+    "volume_ratio": 1.01,
     "rsi14": 65.6,
     "rsi_zone": "中立",
     "ma25": 29444.71,
@@ -1930,7 +1930,7 @@
     "market_open": false,
     "symbol": "^NDX",
     "source": "yahoo",
-    "fetched_at": "2026-09-24T21:32:23.230151+00:00"
+    "fetched_at": "2026-09-25T09:44:46.184884+00:00"
    }
   },
   {

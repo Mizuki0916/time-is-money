@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-25T04:22:35.345668+00:00",
+ "updated_at": "2026-09-25T09:44:46.184884+00:00",
  "symbols": {
   "JP:1111": {
    "date": "2026-08-17",
@@ -1096,7 +1096,7 @@
    "live": null,
    "live_change_pct": null,
    "live_time": null,
-   "volume": 8145414,
+   "volume": 8186500,
    "volume_ratio": 0.77,
    "rsi14": 56.2,
    "rsi_zone": "中立",
@@ -1151,7 +1151,7 @@
    "market_open": false,
    "symbol": "SNDK",
    "source": "yahoo",
-   "fetched_at": "2026-09-24T21:32:23.230151+00:00"
+   "fetched_at": "2026-09-25T09:44:46.184884+00:00"
   },
   "JP:5985": {
    "date": "2026-09-24",
@@ -10298,8 +10298,8 @@
    "live": null,
    "live_change_pct": null,
    "live_time": null,
-   "volume": 1135003000,
-   "volume_ratio": 0.15,
+   "volume": 8078820000,
+   "volume_ratio": 1.01,
    "rsi14": 65.6,
    "rsi_zone": "中立",
    "ma25": 29444.71,
@@ -10353,7 +10353,7 @@
    "market_open": false,
    "symbol": "^NDX",
    "source": "yahoo",
-   "fetched_at": "2026-09-24T21:32:23.230151+00:00"
+   "fetched_at": "2026-09-25T09:44:46.184884+00:00"
   },
   "IDX:^TOPX": {
    "date": "2026-09-24",
@@ -10426,7 +10426,7 @@
    "live": null,
    "live_change_pct": null,
    "live_time": null,
-   "volume": 22612777,
+   "volume": 22639500,
    "volume_ratio": 0.8,
    "rsi14": 67.4,
    "rsi_zone": "中立",
@@ -10481,7 +10481,7 @@
    "market_open": false,
    "symbol": "PLTR",
    "source": "yahoo",
-   "fetched_at": "2026-09-24T21:32:23.230151+00:00"
+   "fetched_at": "2026-09-25T09:44:46.184884+00:00"
   },
   "JP:7003": {
    "date": "2026-09-24",
