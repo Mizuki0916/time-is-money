@@ -1,6 +1,58 @@
 {
- "generated_at": "2026-09-26T07:54:28.613803+09:00",
+ "generated_at": "2026-09-26T08:56:16.010526+09:00",
  "videos": [
+  {
+   "video_id": "HLBY4dZp13A",
+   "title": "今月末に株式分割する銘柄を見ていく！（キオクシア・東京エレクトロン・イビデン・東京海上・三井金属・三井住友銀行など）",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-09-25T23:00:14+00:00",
+   "overview": "9月末に株式分割を予定する主要日本株(キオクシア、イビデン、三井金属、東京エレクトロン、三井住友FG、東京海上)の需給動向やチャート形状を分析した動画。動画では株式分割を基本的に需給悪化リスクとして捉えつつ、各銘柄の出来高や上値のシコリ、業績面を比較検証している。イビデンや三井住友FGなど堅調な銘柄がある一方、多分割による需給悪化が懸念される銘柄もあり、分割後の動きを見極める慎重姿勢を求めている。",
+   "market_view": "株式分割は基本的に需給悪化につながる悪材料と捉え、分割後のポジション管理に十分注意するよう呼びかけている。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "キオクシア",
+     "ticker": "285A",
+     "stance": "neutral",
+     "timestamp": "00:18"
+    },
+    {
+     "name": "イビデン",
+     "ticker": "4062",
+     "stance": "bullish",
+     "timestamp": "01:55"
+    },
+    {
+     "name": "三井金属",
+     "ticker": "5706",
+     "stance": "neutral",
+     "timestamp": "03:16"
+    },
+    {
+     "name": "東京エレクトロン",
+     "ticker": "8035",
+     "stance": "neutral",
+     "timestamp": "04:58"
+    },
+    {
+     "name": "三井住友フィナンシャルグループ",
+     "ticker": "8316",
+     "stance": "bullish",
+     "timestamp": "07:09"
+    },
+    {
+     "name": "東京海上ホールディングス",
+     "ticker": "8766",
+     "stance": "bearish",
+     "timestamp": "07:59"
+    }
+   ]
+  },
   {
    "video_id": "4X48hrTpNuo",
    "title": "日本株空売り急増‼︎AI半導体株急伸で日経平均続伸！バリュー、高配当銘柄しっかり。ドル円158円。米国株、ナスダック、ハイテク株は金利急騰でどう動く、仮想通貨BTC急騰",
@@ -102,6 +154,64 @@
      "ticker": "5259",
      "stance": "neutral",
      "timestamp": "24:34"
+    }
+   ]
+  },
+  {
+   "video_id": "rq61H1KtcQ4",
+   "title": "今日の活況銘柄を見てみる！（ソフトバンクG・太陽誘電・キオクシア・アキッパ・村田製作所・フジクラ等）株式テクニカルチャート分析",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-09-25T07:08:11+00:00",
+   "overview": "日経平均は半導体関連株を中心に資金が入り850円高と大幅上昇しました。動画ではソフトバンクグループや太陽誘電、村田製作所、akippa、キオクシア、フジクラ、データセクションなどの本日活況となった銘柄について、出来高やチャート形状、信用需給の観点から個別のテクニカル分析を行っています。",
+   "market_view": "日経平均やTOPIXは銀行や半導体を中心に力強い動きを見せた一方、グロース250はマイナスとなりました。金利やドル円の急激な動きは一巡し落ち着いた動きを見せています。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "ソフトバンクグループ",
+     "ticker": "9984",
+     "stance": "neutral",
+     "timestamp": "03:32"
+    },
+    {
+     "name": "太陽誘電",
+     "ticker": "6976",
+     "stance": "neutral",
+     "timestamp": "04:51"
+    },
+    {
+     "name": "村田製作所",
+     "ticker": "6981",
+     "stance": "bullish",
+     "timestamp": "05:22"
+    },
+    {
+     "name": "akippa",
+     "ticker": "627A",
+     "stance": "bullish",
+     "timestamp": "06:12"
+    },
+    {
+     "name": "キオクシアホールディングス",
+     "ticker": "285A",
+     "stance": "neutral",
+     "timestamp": "07:16"
+    },
+    {
+     "name": "フジクラ",
+     "ticker": "5803",
+     "stance": "neutral",
+     "timestamp": "08:21"
+    },
+    {
+     "name": "データセクション",
+     "ticker": "3905",
+     "stance": "bullish",
+     "timestamp": "08:55"
     }
    ]
   },
@@ -230,74 +340,6 @@
      "ticker": "8604",
      "stance": "bearish",
      "timestamp": "40:36"
-    }
-   ]
-  },
-  {
-   "video_id": "13Ul8QJf6k8",
-   "title": "金属関連銘柄（JX金属・三井金属・住友金属鉱山・三菱マテリアル）株式テクニカルチャート分析",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-09-22T23:00:31+00:00",
-   "overview": "金属関連銘柄(JX金属、三井金属、住友金属鉱山、三菱マテリアル)のテクニカルチャートおよび需給・業績の分析を行っています。JX金属は成長期待があるものの信用買残など需給面が重く、三井金属は10分割によるしこり懸念や1Q決算失速が響いています。住友金属鉱山や三菱マテリアルも市況依存度が高く需給面で難があり、現状はどの銘柄も積極的に買いづらい状況と結論づけています。",
-   "market_view": "日経平均は高値ライン付近で上髭をつけており、WTI原油価格の変動や金・銀・銅価格の動向、日米金利差による円安進行など地合いの動向を注視しています。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "JX金属",
-     "ticker": "5016",
-     "stance": "bearish",
-     "timestamp": "01:38"
-    },
-    {
-     "name": "三井金属",
-     "ticker": "5706",
-     "stance": "bearish",
-     "timestamp": "06:11"
-    },
-    {
-     "name": "住友金属鉱山",
-     "ticker": "5713",
-     "stance": "neutral",
-     "timestamp": "09:52"
-    },
-    {
-     "name": "三菱マテリアル",
-     "ticker": "5711",
-     "stance": "neutral",
-     "timestamp": "12:09"
-    }
-   ]
-  },
-  {
-   "video_id": "JjzyxzhS3SI",
-   "title": "村田製作所・太陽誘電・TDK：MLCC関連銘柄今後のトレード戦略",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-09-22T10:00:10+00:00",
-   "overview": "村田製作所と太陽誘電のMLCC関連大手2社についてバリュエーションの観点から今後の投資戦略を解説しています。電子部品セクターのピーク適正PERは20倍台〜30倍未満と捉えており、来期コンセンサス予想を基準にすると両社ともにPER30倍程度となるため、足元の株価水準はフェアバリュー(適正株価)であると分析しています。",
-   "market_view": "",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "村田製作所",
-     "ticker": "6981",
-     "stance": "neutral",
-     "timestamp": "00:00"
-    },
-    {
-     "name": "太陽誘電",
-     "ticker": "6976",
-     "stance": "neutral",
-     "timestamp": "00:34"
     }
    ]
   },
