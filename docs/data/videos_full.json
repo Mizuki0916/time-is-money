@@ -1,6 +1,142 @@
 {
  "videos": [
   {
+   "video_id": "4X48hrTpNuo",
+   "title": "日本株空売り急増‼︎AI半導体株急伸で日経平均続伸！バリュー、高配当銘柄しっかり。ドル円158円。米国株、ナスダック、ハイテク株は金利急騰でどう動く、仮想通貨BTC急騰",
+   "published": "2026-09-25T14:25:53+00:00",
+   "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "市場全体で空売り残高が8000億円を超えショートカバーが起こりやすい環境となる中、日経平均は予想通り続伸しました。半導体関連株を中心に力強い上昇が見られる一方、ドル円が157円台へと円高進行していることや、配当落ち後の市場の荒れには警戒が示されています。個別では受給改善やバンドウォークを強める半導体株に注目する一方、受給が悪化した銘柄への注意を促しています。",
+   "market_view": "売り残増加で踏み上げが入りやすい地合いですが、ドル円の急激な円高進行や配当落ち後の波乱には警戒が必要です。",
+   "market": "MIX",
+   "picks": [
+    {
+     "name": "任天堂",
+     "name_en": "Nintendo Co., Ltd.",
+     "ticker": "7974",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "ゼルダ新作への期待感によるリバウンドに注目",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "信用買い残が減少して信用倍率は7.1倍へと受給改善が進んでおり高値期日の売り通過も間近となっている。",
+      "極端な目標株価引き下げを気にする必要はなく10月から11月のゼルダ新作に向けた期待買戻しに注目できる。"
+     ],
+     "timestamp": "03:59",
+     "confidence": "high"
+    },
+    {
+     "name": "SHIFT",
+     "name_en": "SHIFT Inc.",
+     "ticker": "3697",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "受給改善と100日線のゴールデンクロスに期待",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "信用買い残の減少により倍率が1.22倍まで改善しており高値で買っていた短期勢の投げが一巡しつつある。",
+      "100日移動平均線のゴールデンクロス形成が見込まれておりテクニカル面での上方向への反応が期待される。"
+     ],
+     "timestamp": "11:21",
+     "confidence": "medium"
+    },
+    {
+     "name": "レーザーテック",
+     "name_en": "Lasertec Corporation",
+     "ticker": "6920",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "バンドウォーク継続と空売りの踏み上げに注目",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "バンドウォークを伴う強い上昇が続いており信用売り残の増加に伴う踏み上げの動きが株価を押し上げている。",
+      "信用倍率は3.58倍と受給改善傾向が続いておりチャートのバンドウォーク終了サインが出るまでは買い優勢。"
+     ],
+     "timestamp": "15:53",
+     "confidence": "high"
+    },
+    {
+     "name": "アドバンテスト",
+     "name_en": "Advantest Corporation",
+     "ticker": "6857",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "バンドウォーク継続と高値引けによる好受給に注目",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "バンドウォークによる上昇基調が続いており信用買い残の減少と倍率3.58倍への改善が株価を支えている。",
+      "日足ベースで高値引けとなっており好調なチャート形状と良好な受給環境が維持される可能性が高い。"
+     ],
+     "timestamp": "18:29",
+     "confidence": "medium"
+    },
+    {
+     "name": "ソフトバンクグループ",
+     "name_en": "SoftBank Group Corp.",
+     "ticker": "9984",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "アーム安への連動と信用受給の悪化で上値重い",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "米国傘下のアーム株の下落に連動して続落しており信用買い残の増加と売り残の減少で受給が悪化している。",
+      "信用倍率が4.79倍へ重くなっており高値で掴んでしまった短期勢の買い残が存在することが重石となる。"
+     ],
+     "timestamp": "20:50",
+     "confidence": "medium"
+    },
+    {
+     "name": "東京エレクトロン",
+     "name_en": "Tokyo Electron Limited",
+     "ticker": "8035",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "株価大幅上昇と信用受給の改善で買い優勢",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "信用買い残の減少と売り残の増加によって受給が改善しており当日も4%を超える力強い上昇を見せた。",
+      "半導体セクター全体の好調さと相まってチャートの好転が進んでおり踏み上げを含めた底堅い動きが続く。"
+     ],
+     "timestamp": "23:17",
+     "confidence": "medium"
+    },
+    {
+     "name": "マイクロソフト",
+     "name_en": "Microsoft Corporation",
+     "ticker": "MSFT",
+     "market": "US",
+     "stance": "bullish",
+     "stance_note": "主要移動平均線のゴールデンクロスで上抜け期待",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "200日移動平均線を上抜け各短期・中期移動平均線とのゴールデンクロスが形成されて上ブレしやすい好形状。",
+      "テクニカル的な節目をクリアしたことで強気シグナルが点灯しており株価の上方向への反発が期待できる。"
+     ],
+     "timestamp": "54:32",
+     "confidence": "medium"
+    }
+   ]
+  },
+  {
    "video_id": "G8MuX1eDtUc",
    "title": "日本株稼ぎ時や‼︎AI半導体株急伸で日経平均狙い通り爆上げか⁉キオクシア助かるか？ドル円157円。米国株、ナスダック、ハイテク株、仮想通貨BTC急騰",
    "published": "2026-09-23T14:54:20+00:00",
@@ -137,138 +273,104 @@
    ]
   },
   {
-   "video_id": "fkKxzE1nKTk",
-   "title": "日本株稼ぎ時や‼︎AI半導体株急伸で日経平均狙い通り爆上げか⁉キオクシア助かるか？ドル円157円。米国株、ナスダック、ハイテク株、仮想通貨BTC急騰",
-   "published": "2026-09-22T14:53:05+00:00",
-   "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
+   "video_id": "vXbYa6zvXvY",
+   "title": "【日経平均】 違和感のある上昇 週明け相場 意識するのは〇〇 サンディスク・キオクシア・東京エレクトロン・イビデン・アキッパ",
+   "published": "2026-09-25T10:24:43+00:00",
+   "description": "※動画の趣旨は個人的主観の予測であり、値動きを保証するものではありません。\n　投資の判断は自己責任でお願いします。\n\nトレンド分析マスターコース\n「無料オンライン講座(全5回)」＆豪華特典プレゼント！\n【完全無料】→ https://www.fpo.jp/suzuki/\n\nサンワード証券セミナー申し込み\nhttps://www.sunward-t.co.jp/seminar/2026/09/26_3/index_k.html\n\n◉トレンド分析の基礎おすすめ動画\n【永久保存版】初心者でもわかるダウ理論の使い方【前編】\nhttps://youtu.be/re9XBR2qcBw\n【永久保存版】初心者でもわかるダウ理論の使い方【後編】\nhttps://youtu.be/Z21W4VFSs9g\n【知らなきゃ勝てない】移動平均線で相場を読む最強の方法\nhttps://youtu.be/FfSX8hcR",
+   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+   "channel_name": "Trader's Lab",
+   "channel_short": "TL",
+   "slot": 1,
    "no_transcript": false,
    "skip_reason": "",
-   "overview": "日経平均先物が急騰する中、今後の日本株相場の見通しや個別銘柄のテクニカル分析を行っています。配当権利直前での高配当株買いを警戒し、10月以降や年末に向けた需給好転銘柄へのシフトを提言しています。NECや東洋エンジニアリング、日本マイクロニクスなどのチャート形状や信用期日通過による回転の軽さを解説しつつ、配当落ち後の下落リスクに対する警戒も呼びかけています。",
-   "market_view": "日経平均先物が大幅高となっており連休明けは上昇が期待されますが、配当落ち後の不穏な動きには注意が必要です。2018年の相場展開も念頭に、配当落ち後に崩れる場合は受給の悪い銘柄を中心に警戒を高めるべきとしています。",
-   "market": "MIX",
+   "overview": "日経平均株価が5日続進したものの、チャート上では下げ止まりや上昇転換の確定に至っておらず、中途半端な動きが続いていると解説されています。トピックスや銀行株、米国株は堅調に推移している一方で、日経平均寄与度の高い個別株はまちまちの動きです。動画内では個別銘柄として三菱UFJ、キオクシア、東京エレクトロン、イビデン、akippaのチャート分析と売買視点が提示されています。",
+   "market_view": "日経平均は上値抵抗線がありトレンドが曖昧ですが、トピックスや銀行株などは中長期で強い上昇トレンドを維持しています。",
+   "market": "JP",
    "picks": [
     {
-     "name": "NEC",
-     "name_en": "NEC Corporation",
-     "ticker": "6701",
+     "name": "三菱UFJフィナンシャル・グループ",
+     "name_en": "Mitsubishi UFJ Financial Group, Inc.",
+     "ticker": "8306",
      "market": "JP",
-     "stance": "neutral",
-     "stance_note": "200日線下向きでややネガティブ",
+     "stance": "bullish",
+     "stance_note": "中長期の投資目線で上昇トレンド継続",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "移動平均線のゴールデンクロス形成が10月上旬に入ってくる見通しである。",
-      "RSI上抜けやMACDのゴールデンクロスなどテクニカル指標の改善が見られる。",
-      "200日移動平均線が下向きのためクロス後に一度押す可能性がありフラット化が必要。"
+      "金利高の影響で利ざや改善期待があり、トピックス上昇を牽引する強いモメンタムがあるため。",
+      "週足・月足ともにトレンドフォローが継続しており、高値圏でのレンジを維持し中長期的に良好。"
      ],
-     "timestamp": "02:08",
+     "timestamp": "17:15",
+     "confidence": "medium"
+    },
+    {
+     "name": "キオクシアホールディングス",
+     "name_en": "Kioxia Holdings Corporation",
+     "ticker": "285A",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "方向感がなく短期のデイトレ向きな状態",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "週足で13週線が下向きで抑え込まれており、数ヶ月間レンジ相場で方向感が見えないため。",
+      "日足でも雲の下限に頭を抑えられており、上値が重く中長期での予測が困難なため。"
+     ],
+     "timestamp": "19:07",
+     "confidence": "medium"
+    },
+    {
+     "name": "東京エレクトロン",
+     "name_en": "Tokyo Electron Limited",
+     "ticker": "8035",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "レンジ内での推移で中途半端な動き",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "7月安値と8月高値の間のレンジ内で推移しており、明確なトレンドが出ていないため。",
+      "週足で13週線や転換線が下向きで上値抵抗が多く、日経平均の重荷となっているため。"
+     ],
+     "timestamp": "20:42",
      "confidence": "medium"
     },
     {
      "name": "イビデン",
-     "name_en": "Ibiden Co., Ltd.",
+     "name_en": "IBIDEN CO., LTD.",
      "ticker": "4062",
      "market": "JP",
+     "stance": "bullish",
+     "stance_note": "月足で長期トレンド継続、レンジ上抜け",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "エヌビディアCEOの発言報道を材料に直近のレンジを上抜けして上昇しているため。",
+      "月足ベースでトレンドフォローが継続しており、長期目線で見れば堅調なチャート形状のため。"
+     ],
+     "timestamp": "22:09",
+     "confidence": "medium"
+    },
+    {
+     "name": "akippa",
+     "name_en": "akippa Inc.",
+     "ticker": "5259",
+     "market": "JP",
      "stance": "neutral",
-     "stance_note": "株式分割後の値動きを確認したい",
+     "stance_note": "短期マネー流入による荒い値動きに注意",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "分割前は三角持ち合いを形成しながらほぼ横ばいで推移している。",
-      "株式分割が実施された後に上下どちらへ動くかを慎重に見極める必要がある。"
+      "時価総額や浮動株数が少なく、業績の良さや出来高急増を背景にストップ高をつけたため。",
+      "短期的な資金流入で乱高下しやすく、リスク管理と適切な損切り設定が必要となるため。"
      ],
-     "timestamp": "06:21",
+     "timestamp": "24:34",
      "confidence": "medium"
-    },
-    {
-     "name": "東洋エンジニアリング",
-     "name_en": "Toyo Engineering Corporation",
-     "ticker": "6330",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "信用期日通過で需給好転に期待",
-     "target_price": "3805",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "ボリンジャーバンドの中央線の上で推移する典型的な強い上昇パターンである。",
-      "3月高値からの信用半年期日を通過するため捕まっていた買い方の売りが解消する。",
-      "200日線を上抜けると回転が軽くなり3500円から3805円付近を目指す可能性がある。"
-     ],
-     "timestamp": "14:00",
-     "confidence": "medium"
-    },
-    {
-     "name": "SUBARU",
-     "name_en": "Subaru Corporation",
-     "ticker": "7270",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "権利直前の高配当狙い買いは警戒",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "高配当株の権利落ち直前に買いに行く時期は過ぎており権利落ち後の下落リスクがある。",
-      "過去に高値で買われた信用買いの重さが残っており上値の重い展開が懸念される。"
-     ],
-     "timestamp": "16:54",
-     "confidence": "medium"
-    },
-    {
-     "name": "アシックス",
-     "name_en": "Asics Corporation",
-     "ticker": "7936",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "デッドクロスが見えるため静観",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "チャート上にデッドクロスが見えており買いに向かうにはまだリスクが高い。"
-     ],
-     "timestamp": "26:35",
-     "confidence": "low"
-    },
-    {
-     "name": "日本マイクロニクス",
-     "name_en": "Micronics Japan Co., Ltd.",
-     "ticker": "6871",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "RSI上抜けでトレンド発生の兆し",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "RSIの上値抵抗線を上に抜けたため上昇トレンドが発生しつつある。",
-      "5日移動平均線と25日移動平均線のゴールデンクロス形成などが注目される。"
-     ],
-     "timestamp": "51:05",
-     "confidence": "medium"
-    },
-    {
-     "name": "住友電気工業",
-     "name_en": "Sumitomo Electric Industries, Ltd.",
-     "ticker": "5802",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "全体地合い好転に伴う上昇期待",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "日経平均先物の急騰など市場全体の強い地合いに乗って連動高が期待される。"
-     ],
-     "timestamp": "1:00:10",
-     "confidence": "low"
     }
    ]
   },
@@ -439,91 +541,6 @@
      ],
      "timestamp": "25:25",
      "confidence": "high"
-    }
-   ]
-  },
-  {
-   "video_id": "v5gSIZdmS3I",
-   "title": "【日経平均】 米国市場爆上げ！ 日経先物66000円越え！ 今後の値動きは〇〇",
-   "published": "2026-09-23T10:22:15+00:00",
-   "description": "※動画の趣旨は個人的主観の予測であり、値動きを保証するものではありません。\n　投資の判断は自己責任でお願いします。\n\nトレンド分析マスターコース\n「無料オンライン講座(全5回)」＆豪華特典プレゼント！\n【完全無料】→ https://www.fpo.jp/suzuki/\n\nサンワード証券セミナー申し込み\nhttps://www.sunward-t.co.jp/seminar/2026/09/26_3/index_k.html\n\n◉トレンド分析の基礎おすすめ動画\n【永久保存版】初心者でもわかるダウ理論の使い方【前編】\nhttps://youtu.be/re9XBR2qcBw\n【永久保存版】初心者でもわかるダウ理論の使い方【後編】\nhttps://youtu.be/Z21W4VFSs9g\n【知らなきゃ勝てない】移動平均線で相場を読む最強の方法\nhttps://youtu.be/FfSX8hcR",
-   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-   "channel_name": "Trader's Lab",
-   "channel_short": "TL",
-   "slot": 1,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "祝日期間中の米国株高と日経先物の急伸を受けた相場環境の臨時解説動画です。米国市場ではナスダック100やS&P500が最高値を更新し調整終了から上昇転換した一方、SOX指数はレンジ感が残る状況です。日経平均は先物が一時6万7000円台まで買われたものの、テクニカル上の抵抗線が多く上値の重さが意識されており、明確な高値更新がない限りはレンジ推移や一時的な調整を挟むシナリオを提示しています。",
-   "market_view": "米株の上昇転換により地合いは改善しているものの、指数ごとの温度差やテクニカル抵抗線が存在するため、日本株は即座に一本調子で上がるわけではなくレンジや押し目を形成しやすい環境です。",
-   "market": "MIX",
-   "picks": [
-    {
-     "name": "日経平均株価",
-     "name_en": "Nikkei 225",
-     "ticker": "N225",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "抵抗線が多く明確な上抜けまでレンジ想定",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "米株高で先物は一時6万7000円超に急伸したが、雲上限やボリンジャーバンドなど複数のテクニカル抵抗線が重なり上値は重い。",
-      "高値である6万7140円を大きく超えて上抜けない限りは、6万4000円から6万6000円台でのレンジ推移や調整が想定される。"
-     ],
-     "timestamp": "17:58",
-     "confidence": "high"
-    },
-    {
-     "name": "NASDAQ 100",
-     "name_en": "NASDAQ 100 Index",
-     "ticker": "NDX",
-     "market": "US",
-     "stance": "bullish",
-     "stance_note": "最高値更新で調整終了し上昇トレンドへ",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "8月17日高値や史上最高値を更新したことで、これまでの調整フェーズが完全に終了し上昇トレンドへ転換したと判断できるため。",
-      "スピード違反的な上昇からの短期的な押し目・調整が入る可能性はあるが、カップウィズハンドルを形成し持続的な上昇が期待される。"
-     ],
-     "timestamp": "08:38",
-     "confidence": "high"
-    },
-    {
-     "name": "TOPIX",
-     "name_en": "Tokyo Stock Price Index",
-     "ticker": "TOPX",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "中長期は堅調も短期的には揺さぶり警戒",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "月足・週足レベルでトレンドフォローが継続しており、内需系やインバウンド・金融関連を中心に中長期的には堅調な推移が期待できるため。",
-      "日足レベルでは25日移動平均線が下向きで短期の揺さぶりはあるものの、高値更新を窺う下値の固い展開が続いている。"
-     ],
-     "timestamp": "15:58",
-     "confidence": "medium"
-    },
-    {
-     "name": "SOX指数",
-     "name_en": "PHLX Semiconductor Index",
-     "ticker": "SOX",
-     "market": "US",
-     "stance": "neutral",
-     "stance_note": "底打ちは確認されたがスクイーズでレンジ推移",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "8月高値を更新して底打ちは確認されたが、75日線が25日線の上にあるなど移動平均線の並びが弱くレンジ感が強いため。",
-      "ボリンジャーバンドがスクイーズしており、短期的に一方向へ強い上昇トレンドが持続しにくいテクニカル形状となっている。"
-     ],
-     "timestamp": "13:32",
-     "confidence": "medium"
     }
    ]
   },

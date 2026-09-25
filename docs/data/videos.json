@@ -1,6 +1,110 @@
 {
- "generated_at": "2026-09-26T03:14:30.210711+09:00",
+ "generated_at": "2026-09-26T07:54:28.613803+09:00",
  "videos": [
+  {
+   "video_id": "4X48hrTpNuo",
+   "title": "日本株空売り急増‼︎AI半導体株急伸で日経平均続伸！バリュー、高配当銘柄しっかり。ドル円158円。米国株、ナスダック、ハイテク株は金利急騰でどう動く、仮想通貨BTC急騰",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-09-25T14:25:53+00:00",
+   "overview": "市場全体で空売り残高が8000億円を超えショートカバーが起こりやすい環境となる中、日経平均は予想通り続伸しました。半導体関連株を中心に力強い上昇が見られる一方、ドル円が157円台へと円高進行していることや、配当落ち後の市場の荒れには警戒が示されています。個別では受給改善やバンドウォークを強める半導体株に注目する一方、受給が悪化した銘柄への注意を促しています。",
+   "market_view": "売り残増加で踏み上げが入りやすい地合いですが、ドル円の急激な円高進行や配当落ち後の波乱には警戒が必要です。",
+   "market": "MIX",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "任天堂",
+     "ticker": "7974",
+     "stance": "bullish",
+     "timestamp": "03:59"
+    },
+    {
+     "name": "SHIFT",
+     "ticker": "3697",
+     "stance": "bullish",
+     "timestamp": "11:21"
+    },
+    {
+     "name": "レーザーテック",
+     "ticker": "6920",
+     "stance": "bullish",
+     "timestamp": "15:53"
+    },
+    {
+     "name": "アドバンテスト",
+     "ticker": "6857",
+     "stance": "bullish",
+     "timestamp": "18:29"
+    },
+    {
+     "name": "ソフトバンクグループ",
+     "ticker": "9984",
+     "stance": "bearish",
+     "timestamp": "20:50"
+    },
+    {
+     "name": "東京エレクトロン",
+     "ticker": "8035",
+     "stance": "bullish",
+     "timestamp": "23:17"
+    },
+    {
+     "name": "マイクロソフト",
+     "ticker": "MSFT",
+     "stance": "bullish",
+     "timestamp": "54:32"
+    }
+   ]
+  },
+  {
+   "video_id": "vXbYa6zvXvY",
+   "title": "【日経平均】 違和感のある上昇 週明け相場 意識するのは〇〇 サンディスク・キオクシア・東京エレクトロン・イビデン・アキッパ",
+   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+   "channel_name": "Trader's Lab",
+   "channel_short": "TL",
+   "slot": 1,
+   "published": "2026-09-25T10:24:43+00:00",
+   "overview": "日経平均株価が5日続進したものの、チャート上では下げ止まりや上昇転換の確定に至っておらず、中途半端な動きが続いていると解説されています。トピックスや銀行株、米国株は堅調に推移している一方で、日経平均寄与度の高い個別株はまちまちの動きです。動画内では個別銘柄として三菱UFJ、キオクシア、東京エレクトロン、イビデン、akippaのチャート分析と売買視点が提示されています。",
+   "market_view": "日経平均は上値抵抗線がありトレンドが曖昧ですが、トピックスや銀行株などは中長期で強い上昇トレンドを維持しています。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "三菱UFJフィナンシャル・グループ",
+     "ticker": "8306",
+     "stance": "bullish",
+     "timestamp": "17:15"
+    },
+    {
+     "name": "キオクシアホールディングス",
+     "ticker": "285A",
+     "stance": "neutral",
+     "timestamp": "19:07"
+    },
+    {
+     "name": "東京エレクトロン",
+     "ticker": "8035",
+     "stance": "neutral",
+     "timestamp": "20:42"
+    },
+    {
+     "name": "イビデン",
+     "ticker": "4062",
+     "stance": "bullish",
+     "timestamp": "22:09"
+    },
+    {
+     "name": "akippa",
+     "ticker": "5259",
+     "stance": "neutral",
+     "timestamp": "24:34"
+    }
+   ]
+  },
   {
    "video_id": "vpep7apmbMY",
    "title": "【日経平均】 米国株高も値を打ち消す動き 金利高が重石か サンディスク・キオクシア・東京エレクトロン・アドバンテスト・ファーストリテイリング・リクルート・サンコール・ミナトホールディングス・オンコリス",
@@ -130,46 +234,6 @@
    ]
   },
   {
-   "video_id": "v5gSIZdmS3I",
-   "title": "【日経平均】 米国市場爆上げ！ 日経先物66000円越え！ 今後の値動きは〇〇",
-   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-   "channel_name": "Trader's Lab",
-   "channel_short": "TL",
-   "slot": 1,
-   "published": "2026-09-23T10:22:15+00:00",
-   "overview": "祝日期間中の米国株高と日経先物の急伸を受けた相場環境の臨時解説動画です。米国市場ではナスダック100やS&P500が最高値を更新し調整終了から上昇転換した一方、SOX指数はレンジ感が残る状況です。日経平均は先物が一時6万7000円台まで買われたものの、テクニカル上の抵抗線が多く上値の重さが意識されており、明確な高値更新がない限りはレンジ推移や一時的な調整を挟むシナリオを提示しています。",
-   "market_view": "米株の上昇転換により地合いは改善しているものの、指数ごとの温度差やテクニカル抵抗線が存在するため、日本株は即座に一本調子で上がるわけではなくレンジや押し目を形成しやすい環境です。",
-   "market": "MIX",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "日経平均株価",
-     "ticker": "N225",
-     "stance": "neutral",
-     "timestamp": "17:58"
-    },
-    {
-     "name": "NASDAQ 100",
-     "ticker": "NDX",
-     "stance": "bullish",
-     "timestamp": "08:38"
-    },
-    {
-     "name": "TOPIX",
-     "ticker": "TOPX",
-     "stance": "bullish",
-     "timestamp": "15:58"
-    },
-    {
-     "name": "SOX指数",
-     "ticker": "SOX",
-     "stance": "neutral",
-     "timestamp": "13:32"
-    }
-   ]
-  },
-  {
    "video_id": "13Ul8QJf6k8",
    "title": "金属関連銘柄（JX金属・三井金属・住友金属鉱山・三菱マテリアル）株式テクニカルチャート分析",
    "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
@@ -206,64 +270,6 @@
      "ticker": "5711",
      "stance": "neutral",
      "timestamp": "12:09"
-    }
-   ]
-  },
-  {
-   "video_id": "fkKxzE1nKTk",
-   "title": "日本株稼ぎ時や‼︎AI半導体株急伸で日経平均狙い通り爆上げか⁉キオクシア助かるか？ドル円157円。米国株、ナスダック、ハイテク株、仮想通貨BTC急騰",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-09-22T14:53:05+00:00",
-   "overview": "日経平均先物が急騰する中、今後の日本株相場の見通しや個別銘柄のテクニカル分析を行っています。配当権利直前での高配当株買いを警戒し、10月以降や年末に向けた需給好転銘柄へのシフトを提言しています。NECや東洋エンジニアリング、日本マイクロニクスなどのチャート形状や信用期日通過による回転の軽さを解説しつつ、配当落ち後の下落リスクに対する警戒も呼びかけています。",
-   "market_view": "日経平均先物が大幅高となっており連休明けは上昇が期待されますが、配当落ち後の不穏な動きには注意が必要です。2018年の相場展開も念頭に、配当落ち後に崩れる場合は受給の悪い銘柄を中心に警戒を高めるべきとしています。",
-   "market": "MIX",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "NEC",
-     "ticker": "6701",
-     "stance": "neutral",
-     "timestamp": "02:08"
-    },
-    {
-     "name": "イビデン",
-     "ticker": "4062",
-     "stance": "neutral",
-     "timestamp": "06:21"
-    },
-    {
-     "name": "東洋エンジニアリング",
-     "ticker": "6330",
-     "stance": "bullish",
-     "timestamp": "14:00"
-    },
-    {
-     "name": "SUBARU",
-     "ticker": "7270",
-     "stance": "bearish",
-     "timestamp": "16:54"
-    },
-    {
-     "name": "アシックス",
-     "ticker": "7936",
-     "stance": "bearish",
-     "timestamp": "26:35"
-    },
-    {
-     "name": "日本マイクロニクス",
-     "ticker": "6871",
-     "stance": "bullish",
-     "timestamp": "51:05"
-    },
-    {
-     "name": "住友電気工業",
-     "ticker": "5802",
-     "stance": "bullish",
-     "timestamp": "1:00:10"
     }
    ]
   },
