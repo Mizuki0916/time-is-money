@@ -137,9 +137,9 @@
    ]
   },
   {
-   "video_id": "G8MuX1eDtUc",
-   "title": "日本株稼ぎ時や‼︎AI半導体株急伸で日経平均狙い通り爆上げか⁉キオクシア助かるか？ドル円157円。米国株、ナスダック、ハイテク株、仮想通貨BTC急騰",
-   "published": "2026-09-23T14:54:20+00:00",
+   "video_id": "_Akgelv2Gf0",
+   "title": "【緊急事態】日本株何かがおかしい‼日経平均爆上げどこ行った‼️AI半導体株、キオクシア、SBG寄り天で日本株弱すぎる‼金利急騰でドル円上昇、米国株ハイテク株乱高下か。仮想通貨BTC上昇。",
+   "published": "2026-09-24T09:15:01+00:00",
    "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
    "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
    "channel_name": "Sho's投資情報局",
@@ -147,128 +147,91 @@
    "slot": 3,
    "no_transcript": false,
    "skip_reason": "",
-   "overview": "韓国からのライブ配信で、AI半導体株やハイテク株の急騰を背景とした日経平均先物の上昇と配当落ち後の相場見通しを解説。米金利上昇や原油動向、為替介入の影響を分析しつつ、配当落ち後の戻り売りや下落リスクへの警戒を促している。個別銘柄ではキオクシア、マツダ、トヨタ、トレンドマイクロ、三井E&S、野村ホールディングスなどのチャート形状や売買戦略を具体的に解説している。",
-   "market_view": "半導体やハイテク株主導で日経平均の上昇が期待される一方、高値期日通過に伴う売圧力や配当落ち後の下落に注意が必要としている。",
+   "overview": "シルバーウィーク明けの日本株は事前の上昇期待に反して伸び悩み、ソフトバンクグループやキオクシアなどが寄り付き天井の展開となりました。米国の長期金利急騰や主要株価指数の下落が重荷となっており、配当落ち後の需給悪化や年末の損益通算・信用期日売りに警戒感を示しています。一方でビットコインにはテクニカル面で強気形状が出現しており、今後の相場シナリオとして最悪のパターンを想定したリスク管理の重要性を解説しています。",
+   "market_view": "日経平均は概ね想定通りの上昇軌道にあるものの、米金利上昇や空売り残高の少なさから上昇の燃料が不足しており、配当落ち後や10月以降の急変に警戒が必要です。",
    "market": "MIX",
    "picks": [
     {
-     "name": "キオクシア",
-     "name_en": "Kioxia Holdings",
+     "name": "キオクシアホールディングス",
+     "name_en": "Kioxia Holdings Corporation",
      "ticker": "285A",
      "market": "JP",
-     "stance": "neutral",
-     "stance_note": "7万円近辺での戻り売りに注意",
+     "stance": "bearish",
+     "stance_note": "ADR急騰も寄り天で上値重い",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "PTSで急騰しているが上値で捕まっている投資家が多く7万円〜7万2000円近辺で売り圧力が生じやすいため。",
-      "年末に向かって高値を更新できない場合、一定の価格帯で買い方の手仕舞い売り(やれやれ売り)が出るとみているため。"
+      "ADRの急騰を受けて買いが先行したものの、寄り付き天井となり大きく押し戻された。"
      ],
-     "timestamp": "08:45",
+     "timestamp": "03:48",
      "confidence": "medium"
     },
     {
-     "name": "マツダ",
-     "name_en": "Mazda Motor",
-     "ticker": "7261",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "配当落ち後の押し目買いを検討",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "PBR0.38倍、PER8.1倍、配当利回り4.75%とバリエーション的には割安感があり中長期保有に適しているため。",
-      "信用倍率が12倍と買い残が多く偏っているため今からの買い増しではなく配当落ち後の下落局面を狙うのが良いため。"
-     ],
-     "timestamp": "10:35",
-     "confidence": "medium"
-    },
-    {
-     "name": "トヨタ自動車",
-     "name_en": "Toyota Motor",
-     "ticker": "7203",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "配当落ち後の買い戻しなどを検討",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "配当権利落ち直前のため月末までの下げ幅は限定的とみられるが配当落ち後には教科書通りの下落圧力が予想されるため。",
-      "配当狙いの上昇が弱くまたがない人も多いため、権利落ち後に売った分を買い戻すなどの戦略が考慮されるため。"
-     ],
-     "timestamp": "12:35",
-     "confidence": "low"
-    },
-    {
-     "name": "トレンドマイクロ",
-     "name_en": "Trend Micro",
-     "ticker": "4704",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "バンドウォーク継続で上昇期待",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "日足がボリンジャーバンドの+2σに沿って上昇する強烈なバンドウォークを形成しており終了サインが出るまで様子見すべきため。",
-      "トレンド継続中に値頃感で全売りするのは大きな機会損失となり押し目や明確な反転サインが出るまで伸ばすべきため。"
-     ],
-     "timestamp": "16:14",
-     "confidence": "medium"
-    },
-    {
-     "name": "パランティア・テクノロジーズ",
-     "name_en": "Palantir Technologies",
-     "ticker": "PLTR",
-     "market": "US",
-     "stance": "bullish",
-     "stance_note": "各種移動平均のGクロスで好転",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "200日移動平均線と75日・100日移動平均線などの長期線がゴールデンクロスを形成しつつあり好転が期待できるため。",
-      "一時期の低迷から株価が力強く復調してきており、テクニカル面で買いのサインが良好に点灯しているため。"
-     ],
-     "timestamp": "32:55",
-     "confidence": "low"
-    },
-    {
-     "name": "三井E&S",
-     "name_en": "Mitsui E&S",
-     "ticker": "7003",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "100日線超えからの急騰に期待",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "100日移動平均線が強い抵抗線として機能しておりここを抜けて5日線とクロスすると強い上昇波動が入るため。",
-      "各移動平均線の乖離が縮小して密集した状態から上抜けるパターンが出ると急騰しやすいチャート形状となっているため。"
-     ],
-     "timestamp": "38:00",
-     "confidence": "medium"
-    },
-    {
-     "name": "野村ホールディングス",
-     "name_en": "Nomura Holdings",
-     "ticker": "8604",
+     "name": "ソフトバンクグループ",
+     "name_en": "SoftBank Group Corp.",
+     "ticker": "9984",
      "market": "JP",
      "stance": "bearish",
-     "stance_note": "配当落ち後の壁丼パターンに警戒",
+     "stance_note": "高値買い残による戻り売り警戒",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "配当権利月にもかかわらず株価が弱含んでおり、配当落ち後に5日線と25日・50日線がデッドクロスを起こす懸念があるため。",
-      "RSIやMACDでダイバージェンス(逆行現象)が発生しており、一目の雲の壁にぶつかって下落するリスクがあるため。"
+      "信用取引での高値買い残が積み上がっており、株価上昇時には強い戻り売りが待機する。",
+      "年末に向けて損益通算や信用取引の期日売りが被るため売られやすい構造が続く懸念。"
      ],
-     "timestamp": "40:36",
-     "confidence": "high"
+     "timestamp": "03:58",
+     "confidence": "medium"
+    },
+    {
+     "name": "イビデン",
+     "name_en": "Ibiden Co., Ltd.",
+     "ticker": "4062",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "米半導体大手CEO発言を好感",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "NVIDIAのファンCEOが来日時に個別対談を行い頼りにしている旨を発言し材料視。"
+     ],
+     "timestamp": "19:01",
+     "confidence": "medium"
+    },
+    {
+     "name": "アドバンテスト",
+     "name_en": "Advantest Corporation",
+     "ticker": "6857",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "寄り付きから堅調で指数牽引",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "1銘柄で日経平均を240円以上押し上げるなど寄り付きから堅調な展開となった。"
+     ],
+     "timestamp": "18:46",
+     "confidence": "medium"
+    },
+    {
+     "name": "ビットコイン",
+     "name_en": "Bitcoin",
+     "ticker": "BTC",
+     "market": "OTHER",
+     "stance": "bullish",
+     "stance_note": "移動平均のGCで上昇波期待",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "200日線が切り上がる中で各移動平均線が相次ぎゴールデンクロスを形成している。",
+      "エリオット波動の第3波へ向かうような典型的な強いチャートパターンが点灯した。"
+     ],
+     "timestamp": "34:25",
+     "confidence": "medium"
     }
    ]
   },
