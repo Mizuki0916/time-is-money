@@ -1,6 +1,64 @@
 {
- "generated_at": "2026-09-26T15:54:08.883782+09:00",
+ "generated_at": "2026-09-26T16:54:55.424696+09:00",
  "videos": [
+  {
+   "video_id": "bQTrP0mGB5Y",
+   "title": "来週の相場に備えて！　日本株チャート分析LIVE　9/26",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-09-26T07:02:29+00:00",
+   "overview": "金利上昇や原油高の影響が懸念されるものの、半導体やAI関連銘柄は底堅く、米国の中間選挙も控える10月相場は買いやすい環境になると分析しています。動画では視聴者から寄せられたリクエスト銘柄を中心に、チャートの形状、信用買い残などの需給面、株式分割や決算発表などの材料を踏まえた売買スタンスや戦略を解説しています。",
+   "market_view": "金利上昇と原油高は警戒要素ですが、半導体やAIセクターは堅調で相場を牽引する期待があります。金利上昇は不動産や建設には逆風となる一方、銀行セクターには追い風です。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "インフロニア・ホールディングス",
+     "ticker": "5076",
+     "stance": "bullish",
+     "timestamp": "02:28"
+    },
+    {
+     "name": "アサヒインテック",
+     "ticker": "7747",
+     "stance": "bullish",
+     "timestamp": "03:17"
+    },
+    {
+     "name": "アドバンテスト",
+     "ticker": "6857",
+     "stance": "bullish",
+     "timestamp": "13:16"
+    },
+    {
+     "name": "日東電工",
+     "ticker": "6988",
+     "stance": "bullish",
+     "timestamp": "21:51"
+    },
+    {
+     "name": "任天堂",
+     "ticker": "7974",
+     "stance": "bearish",
+     "timestamp": "22:37"
+    },
+    {
+     "name": "住友ベークライト",
+     "ticker": "4203",
+     "stance": "bullish",
+     "timestamp": "56:43"
+    },
+    {
+     "name": "霞ヶ関キャピタル",
+     "ticker": "3498",
+     "stance": "neutral",
+     "timestamp": "58:09"
+    }
+   ]
+  },
   {
    "video_id": "HLBY4dZp13A",
    "title": "今月末に株式分割する銘柄を見ていく！（キオクシア・東京エレクトロン・イビデン・東京海上・三井金属・三井住友銀行など）",
@@ -154,64 +212,6 @@
      "ticker": "5259",
      "stance": "neutral",
      "timestamp": "24:34"
-    }
-   ]
-  },
-  {
-   "video_id": "rq61H1KtcQ4",
-   "title": "今日の活況銘柄を見てみる！（ソフトバンクG・太陽誘電・キオクシア・アキッパ・村田製作所・フジクラ等）株式テクニカルチャート分析",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-09-25T07:08:11+00:00",
-   "overview": "日経平均は半導体関連株を中心に資金が入り850円高と大幅上昇しました。動画ではソフトバンクグループや太陽誘電、村田製作所、akippa、キオクシア、フジクラ、データセクションなどの本日活況となった銘柄について、出来高やチャート形状、信用需給の観点から個別のテクニカル分析を行っています。",
-   "market_view": "日経平均やTOPIXは銀行や半導体を中心に力強い動きを見せた一方、グロース250はマイナスとなりました。金利やドル円の急激な動きは一巡し落ち着いた動きを見せています。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "ソフトバンクグループ",
-     "ticker": "9984",
-     "stance": "neutral",
-     "timestamp": "03:32"
-    },
-    {
-     "name": "太陽誘電",
-     "ticker": "6976",
-     "stance": "neutral",
-     "timestamp": "04:51"
-    },
-    {
-     "name": "村田製作所",
-     "ticker": "6981",
-     "stance": "bullish",
-     "timestamp": "05:22"
-    },
-    {
-     "name": "akippa",
-     "ticker": "627A",
-     "stance": "bullish",
-     "timestamp": "06:12"
-    },
-    {
-     "name": "キオクシアホールディングス",
-     "ticker": "285A",
-     "stance": "neutral",
-     "timestamp": "07:16"
-    },
-    {
-     "name": "フジクラ",
-     "ticker": "5803",
-     "stance": "neutral",
-     "timestamp": "08:21"
-    },
-    {
-     "name": "データセクション",
-     "ticker": "3905",
-     "stance": "bullish",
-     "timestamp": "08:55"
     }
    ]
   },
