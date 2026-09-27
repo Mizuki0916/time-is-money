@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-27T17:05:05.955490+09:00",
+ "generated_at": "2026-09-27T18:05:06.401254+09:00",
  "channels": [
   {
    "id": "UCsaeHha7ai_NNX8or8Jyb-g",
@@ -1674,7 +1674,7 @@
     "market_open": false,
     "symbol": "5076.T",
     "source": "yahoo",
-    "fetched_at": "2026-09-26T20:05:06.628690+00:00"
+    "fetched_at": "2026-09-27T09:05:06.437521+00:00"
    }
   },
   {
@@ -1779,7 +1779,7 @@
     "market_open": false,
     "symbol": "7747.T",
     "source": "yahoo",
-    "fetched_at": "2026-09-26T20:05:06.628690+00:00"
+    "fetched_at": "2026-09-27T09:05:06.437521+00:00"
    }
   },
   {
@@ -1884,7 +1884,7 @@
     "market_open": false,
     "symbol": "6988.T",
     "source": "yahoo",
-    "fetched_at": "2026-09-26T20:05:06.628690+00:00"
+    "fetched_at": "2026-09-27T09:05:06.437521+00:00"
    }
   },
   {
@@ -1989,7 +1989,7 @@
     "market_open": false,
     "symbol": "4203.T",
     "source": "yahoo",
-    "fetched_at": "2026-09-26T20:05:06.628690+00:00"
+    "fetched_at": "2026-09-27T09:05:06.437521+00:00"
    }
   },
   {
@@ -2094,7 +2094,7 @@
     "market_open": false,
     "symbol": "3498.T",
     "source": "yahoo",
-    "fetched_at": "2026-09-26T20:05:06.628690+00:00"
+    "fetched_at": "2026-09-27T09:05:06.437521+00:00"
    }
   },
   {
