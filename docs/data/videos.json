@@ -1,6 +1,88 @@
 {
- "generated_at": "2026-09-27T09:05:10.041737+09:00",
+ "generated_at": "2026-09-27T10:06:13.589995+09:00",
  "videos": [
+  {
+   "video_id": "FlEfIlJEGTg",
+   "title": "月曜日に注目したい銘柄紹介（イビデン・アドバンテスト・キオクシア・AKIPPA・データセクションなどなど）株式テクニカルチャート分析",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-09-27T00:00:17+00:00",
+   "overview": "週明け月曜日の注目銘柄として、相場を牽引する半導体関連株(イビデン、アドバンテスト、レーザーテックなど)のテクニカルチャートや需給動向を分析しています。また、賑わいを見せるIPO・グロース銘柄(akippa、レイヤード、データセクションなど)の売買戦略や、金利上昇局面で強い銀行株の動向について詳しく解説された動画です。",
+   "market_view": "米国株の上昇やSOX指数の高値を受け、全体地合いは良好と分析。日経平均は綺麗な三角持ち合いを形成しており、間もなく上下どちらかに大きく離れる展開を想定しています。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "イビデン",
+     "ticker": "4062",
+     "stance": "bullish",
+     "timestamp": "02:26"
+    },
+    {
+     "name": "サンメッセ",
+     "ticker": "7883",
+     "stance": "bearish",
+     "timestamp": "04:20"
+    },
+    {
+     "name": "アドバンテスト",
+     "ticker": "6857",
+     "stance": "bullish",
+     "timestamp": "05:25"
+    },
+    {
+     "name": "レーザーテック",
+     "ticker": "6920",
+     "stance": "bullish",
+     "timestamp": "06:30"
+    },
+    {
+     "name": "キオクシアホールディングス",
+     "ticker": "285A",
+     "stance": "neutral",
+     "timestamp": "07:37"
+    },
+    {
+     "name": "akippa",
+     "ticker": "627A",
+     "stance": "bullish",
+     "timestamp": "08:24"
+    },
+    {
+     "name": "レイヤード",
+     "ticker": "634A",
+     "stance": "bullish",
+     "timestamp": "09:59"
+    },
+    {
+     "name": "スカイフォール",
+     "ticker": "625A",
+     "stance": "bullish",
+     "timestamp": "11:03"
+    },
+    {
+     "name": "データセクション",
+     "ticker": "3905",
+     "stance": "bullish",
+     "timestamp": "11:38"
+    },
+    {
+     "name": "アストロスケールホールディングス",
+     "ticker": "186A",
+     "stance": "neutral",
+     "timestamp": "12:41"
+    },
+    {
+     "name": "三菱UFJフィナンシャル・グループ",
+     "ticker": "8306",
+     "stance": "bullish",
+     "timestamp": "14:02"
+    }
+   ]
+  },
   {
    "video_id": "bQTrP0mGB5Y",
    "title": "来週の相場に備えて！　日本株チャート分析LIVE　9/26",
@@ -56,58 +138,6 @@
      "ticker": "3498",
      "stance": "neutral",
      "timestamp": "58:09"
-    }
-   ]
-  },
-  {
-   "video_id": "HLBY4dZp13A",
-   "title": "今月末に株式分割する銘柄を見ていく！（キオクシア・東京エレクトロン・イビデン・東京海上・三井金属・三井住友銀行など）",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-09-25T23:00:14+00:00",
-   "overview": "9月末に株式分割を予定する主要日本株(キオクシア、イビデン、三井金属、東京エレクトロン、三井住友FG、東京海上)の需給動向やチャート形状を分析した動画。動画では株式分割を基本的に需給悪化リスクとして捉えつつ、各銘柄の出来高や上値のシコリ、業績面を比較検証している。イビデンや三井住友FGなど堅調な銘柄がある一方、多分割による需給悪化が懸念される銘柄もあり、分割後の動きを見極める慎重姿勢を求めている。",
-   "market_view": "株式分割は基本的に需給悪化につながる悪材料と捉え、分割後のポジション管理に十分注意するよう呼びかけている。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "キオクシア",
-     "ticker": "285A",
-     "stance": "neutral",
-     "timestamp": "00:18"
-    },
-    {
-     "name": "イビデン",
-     "ticker": "4062",
-     "stance": "bullish",
-     "timestamp": "01:55"
-    },
-    {
-     "name": "三井金属",
-     "ticker": "5706",
-     "stance": "neutral",
-     "timestamp": "03:16"
-    },
-    {
-     "name": "東京エレクトロン",
-     "ticker": "8035",
-     "stance": "neutral",
-     "timestamp": "04:58"
-    },
-    {
-     "name": "三井住友フィナンシャルグループ",
-     "ticker": "8316",
-     "stance": "bullish",
-     "timestamp": "07:09"
-    },
-    {
-     "name": "東京海上ホールディングス",
-     "ticker": "8766",
-     "stance": "bearish",
-     "timestamp": "07:59"
     }
    ]
   },
