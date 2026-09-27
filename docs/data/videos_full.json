@@ -1,6 +1,23 @@
 {
  "videos": [
   {
+   "video_id": "vj3AFVW9l7o",
+   "title": "日本株空売り急増‼︎AI半導体株急伸で日経平均続伸！バリュー、高配当銘柄しっかり。ドル円158円。米国株、ナスダック、ハイテク株は金利急騰でどう動く、仮想通貨BTC急騰",
+   "published": "2026-09-27T09:14:00+00:00",
+   "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "no_transcript": true,
+   "skip_reason": "動画が非公開・削除・配信予定などで取得できません",
+   "attempts": 1,
+   "overview": "",
+   "market_view": "",
+   "market": "",
+   "picks": []
+  },
+  {
    "video_id": "4X48hrTpNuo",
    "title": "日本株空売り急増‼︎AI半導体株急伸で日経平均続伸！バリュー、高配当銘柄しっかり。ドル円158円。米国株、ナスダック、ハイテク株は金利急騰でどう動く、仮想通貨BTC急騰",
    "published": "2026-09-25T14:25:53+00:00",
@@ -132,105 +149,6 @@
       "テクニカル的な節目をクリアしたことで強気シグナルが点灯しており株価の上方向への反発が期待できる。"
      ],
      "timestamp": "54:32",
-     "confidence": "medium"
-    }
-   ]
-  },
-  {
-   "video_id": "_Akgelv2Gf0",
-   "title": "【緊急事態】日本株何かがおかしい‼日経平均爆上げどこ行った‼️AI半導体株、キオクシア、SBG寄り天で日本株弱すぎる‼金利急騰でドル円上昇、米国株ハイテク株乱高下か。仮想通貨BTC上昇。",
-   "published": "2026-09-24T09:15:01+00:00",
-   "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "シルバーウィーク明けの日本株は事前の上昇期待に反して伸び悩み、ソフトバンクグループやキオクシアなどが寄り付き天井の展開となりました。米国の長期金利急騰や主要株価指数の下落が重荷となっており、配当落ち後の需給悪化や年末の損益通算・信用期日売りに警戒感を示しています。一方でビットコインにはテクニカル面で強気形状が出現しており、今後の相場シナリオとして最悪のパターンを想定したリスク管理の重要性を解説しています。",
-   "market_view": "日経平均は概ね想定通りの上昇軌道にあるものの、米金利上昇や空売り残高の少なさから上昇の燃料が不足しており、配当落ち後や10月以降の急変に警戒が必要です。",
-   "market": "MIX",
-   "picks": [
-    {
-     "name": "キオクシアホールディングス",
-     "name_en": "Kioxia Holdings Corporation",
-     "ticker": "285A",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "ADR急騰も寄り天で上値重い",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "ADRの急騰を受けて買いが先行したものの、寄り付き天井となり大きく押し戻された。"
-     ],
-     "timestamp": "03:48",
-     "confidence": "medium"
-    },
-    {
-     "name": "ソフトバンクグループ",
-     "name_en": "SoftBank Group Corp.",
-     "ticker": "9984",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "高値買い残による戻り売り警戒",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "信用取引での高値買い残が積み上がっており、株価上昇時には強い戻り売りが待機する。",
-      "年末に向けて損益通算や信用取引の期日売りが被るため売られやすい構造が続く懸念。"
-     ],
-     "timestamp": "03:58",
-     "confidence": "medium"
-    },
-    {
-     "name": "イビデン",
-     "name_en": "Ibiden Co., Ltd.",
-     "ticker": "4062",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "米半導体大手CEO発言を好感",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "NVIDIAのファンCEOが来日時に個別対談を行い頼りにしている旨を発言し材料視。"
-     ],
-     "timestamp": "19:01",
-     "confidence": "medium"
-    },
-    {
-     "name": "アドバンテスト",
-     "name_en": "Advantest Corporation",
-     "ticker": "6857",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "寄り付きから堅調で指数牽引",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "1銘柄で日経平均を240円以上押し上げるなど寄り付きから堅調な展開となった。"
-     ],
-     "timestamp": "18:46",
-     "confidence": "medium"
-    },
-    {
-     "name": "ビットコイン",
-     "name_en": "Bitcoin",
-     "ticker": "BTC",
-     "market": "OTHER",
-     "stance": "bullish",
-     "stance_note": "移動平均のGCで上昇波期待",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "200日線が切り上がる中で各移動平均線が相次ぎゴールデンクロスを形成している。",
-      "エリオット波動の第3波へ向かうような典型的な強いチャートパターンが点灯した。"
-     ],
-     "timestamp": "34:25",
      "confidence": "medium"
     }
    ]

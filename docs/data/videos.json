@@ -1,6 +1,21 @@
 {
- "generated_at": "2026-09-27T18:05:21.105250+09:00",
+ "generated_at": "2026-09-27T19:05:15.916419+09:00",
  "videos": [
+  {
+   "video_id": "vj3AFVW9l7o",
+   "title": "日本株空売り急増‼︎AI半導体株急伸で日経平均続伸！バリュー、高配当銘柄しっかり。ドル円158円。米国株、ナスダック、ハイテク株は金利急騰でどう動く、仮想通貨BTC急騰",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-09-27T09:14:00+00:00",
+   "overview": "",
+   "market_view": "",
+   "market": "",
+   "no_transcript": true,
+   "skip_reason": "動画が非公開・削除・配信予定などで取得できません",
+   "picks": []
+  },
   {
    "video_id": "FlEfIlJEGTg",
    "title": "月曜日に注目したい銘柄紹介（イビデン・アドバンテスト・キオクシア・AKIPPA・データセクションなどなど）株式テクニカルチャート分析",
@@ -312,52 +327,6 @@
      "ticker": "4588",
      "stance": "bearish",
      "timestamp": "25:25"
-    }
-   ]
-  },
-  {
-   "video_id": "_Akgelv2Gf0",
-   "title": "【緊急事態】日本株何かがおかしい‼日経平均爆上げどこ行った‼️AI半導体株、キオクシア、SBG寄り天で日本株弱すぎる‼金利急騰でドル円上昇、米国株ハイテク株乱高下か。仮想通貨BTC上昇。",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-09-24T09:15:01+00:00",
-   "overview": "シルバーウィーク明けの日本株は事前の上昇期待に反して伸び悩み、ソフトバンクグループやキオクシアなどが寄り付き天井の展開となりました。米国の長期金利急騰や主要株価指数の下落が重荷となっており、配当落ち後の需給悪化や年末の損益通算・信用期日売りに警戒感を示しています。一方でビットコインにはテクニカル面で強気形状が出現しており、今後の相場シナリオとして最悪のパターンを想定したリスク管理の重要性を解説しています。",
-   "market_view": "日経平均は概ね想定通りの上昇軌道にあるものの、米金利上昇や空売り残高の少なさから上昇の燃料が不足しており、配当落ち後や10月以降の急変に警戒が必要です。",
-   "market": "MIX",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "キオクシアホールディングス",
-     "ticker": "285A",
-     "stance": "bearish",
-     "timestamp": "03:48"
-    },
-    {
-     "name": "ソフトバンクグループ",
-     "ticker": "9984",
-     "stance": "bearish",
-     "timestamp": "03:58"
-    },
-    {
-     "name": "イビデン",
-     "ticker": "4062",
-     "stance": "bullish",
-     "timestamp": "19:01"
-    },
-    {
-     "name": "アドバンテスト",
-     "ticker": "6857",
-     "stance": "bullish",
-     "timestamp": "18:46"
-    },
-    {
-     "name": "ビットコイン",
-     "ticker": "BTC",
-     "stance": "bullish",
-     "timestamp": "34:25"
     }
    ]
   },
