@@ -3,19 +3,104 @@
   {
    "video_id": "vj3AFVW9l7o",
    "title": "日本株空売り急増‼︎AI半導体株急伸で日経平均続伸！バリュー、高配当銘柄しっかり。ドル円158円。米国株、ナスダック、ハイテク株は金利急騰でどう動く、仮想通貨BTC急騰",
-   "published": "2026-09-27T09:14:00+00:00",
+   "published": "2026-09-27T14:30:25+00:00",
    "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
    "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
    "channel_name": "Sho's投資情報局",
    "channel_short": "Sho",
    "slot": 3,
-   "no_transcript": true,
-   "skip_reason": "この動画には字幕がありません",
-   "attempts": 5,
-   "overview": "",
-   "market_view": "",
-   "market": "",
-   "picks": []
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "9月末に向かって日経平均の上昇が予想通り進行する中、空売りの増加に伴う踏み上げの可能性や受給の偏りについて解説されています。配当落ち後の下落圧力や2018年類似相場への警戒感を示しつつ、残り3ヶ月は需給の軽い銘柄に絞って投資すべきだと主張。また、個別の高配当株やゲーム株などのチャート分析に加え、NISA口座における適切な銘柄選びの考え方についても言及しています。",
+   "market_view": "日経平均は予想通り月末にかけて上昇しているが、配当落ち後の下落や10月以降の乱高下に警戒が必要。年末に向けては需給の軽い銘柄への選別投資が推奨されている。",
+   "market": "JP",
+   "picks": [
+    {
+     "name": "三井金属",
+     "name_en": "Mitsui Mining and Smelting Co., Ltd.",
+     "ticker": "5706",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "高値期日となる12月に向け売圧警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "信用倍率が8.60倍と受給が重く、6月高値からの半年期日となる12月下旬に向けて売り圧力が意識されやすい。",
+      "パラボリックやMACDの上昇で25日線への起動修正は見込めるが、75日線と200日線のデッドクロスに警戒。"
+     ],
+     "timestamp": "02:16",
+     "confidence": "medium"
+    },
+    {
+     "name": "アステラス製薬",
+     "name_en": "Astellas Pharma Inc.",
+     "ticker": "4503",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "配当落ち後の下落に警戒し追撃買いは見送り",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "高配当銘柄であるため配当落ち後に下落圧力がかかる可能性が高く、現時点からの新規購入は時期尚早。",
+      "安値圏からの立ち上がりで過去配信時に仕込むべきであり、現状の株価位置からの追撃買いは推奨されない。"
+     ],
+     "timestamp": "05:07",
+     "confidence": "medium"
+    },
+    {
+     "name": "大和ハウス工業",
+     "name_en": "Daiwa House Industry Co., Ltd.",
+     "ticker": "1925",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "買うなら配当落ち後の下落一巡後",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "5日線と75日線・100日線のデッドクロスが形成されつつあり、分割や配当落ちの影響で短期下落に注意。",
+      "PBR1倍割れで解散価値を下回るが、買うのであれば配当落ち後の下落が一巡したタイミングが望ましい。"
+     ],
+     "timestamp": "09:46",
+     "confidence": "medium"
+    },
+    {
+     "name": "カプコン",
+     "name_en": "Capcom Co., Ltd.",
+     "ticker": "9697",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "移動平均線の好形状とボリバン支持で堅調",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "200日移動平均線が切り上がる中、50日・75日・100日移動平均線がゴールデンクロスを形成し形状が良好。",
+      "ボリンジャーバンド中央線および25日移動平均線を下値支持として、上値レンジで底堅く推移している。"
+     ],
+     "timestamp": "13:03",
+     "confidence": "medium"
+    },
+    {
+     "name": "イオン",
+     "name_en": "AEON Co., Ltd.",
+     "ticker": "8267",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "優待目的株のためNISA枠利用は非推奨",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "配当利回りが約1.15%と低く優体狙いの銘柄のため、NISA非課税枠のメリットを十分に享受できない。",
+      "値上がり益狙いの売買を行わない長期保有の優体銘柄であり、NISAではなく特定口座での保有が適している。"
+     ],
+     "timestamp": "53:06",
+     "confidence": "medium"
+    }
+   ]
   },
   {
    "video_id": "4X48hrTpNuo",
