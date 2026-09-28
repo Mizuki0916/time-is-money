@@ -511,6 +511,176 @@
    ]
   },
   {
+   "video_id": "YMNi3DZXsj4",
+   "title": "今日の活況銘柄を見てみる！（太陽誘電・アドバンテスト・キオクシア・村田製作所・ソフバン等）株式テクニカルチャート分析",
+   "published": "2026-09-28T08:09:28+00:00",
+   "description": "🔽「株のオンラインサロン」やってます！\n→　https://yoor.jp/door/tradertomo\n\n※ 参加プラン別のサービス内容はこちらの動画で解説しています。\n→https://youtu.be/AGZetFvA-Xk?si=Qy_ctky7kW1QSOHX\n\n株好きが集まる楽しいサロンを目指してます♪\n初心者歓迎です～ご参加お待ちしています！\n\n🔽サブチャンネルもやってます＾＾\nhttps://www.youtube.com/@TOMO-subtrader\n\n---------------------------------------------\n🔽公式LINEやってます！ともだち登録お願いします☆\n---------------------------------------------\n\n「うねり取り株投資実践講義」（総時間147分）視聴可。\n→https://s.l",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "本動画では、日経平均が半導体株の上昇後に急落する厳しい地合いの中、活況銘柄のテクニカル分析と今後の見通しを解説しています。数千億円の減損報道でストップ安となったニデックや、権利付き最終日および株主分割を控えるキオクシア等の注意点、ソフトバンクグループ、太陽誘電、村田製作所、藤倉、データセクション、国際エレクトリック、イビデンのチャート形状について触れています。また今週予定のマイクロン決算や日銀短観などの重要イベントについても述べています。",
+   "market_view": "半導体銘柄を中心に買い先行から売り優勢へと崩れ、全体的に厳しい地合いとなりました。権利落ちや株式分割を控える銘柄も多く、ポジション管理に警戒が必要です。",
+   "market": "JP",
+   "picks": [
+    {
+     "name": "ニデック",
+     "name_en": "Nidec",
+     "ticker": "6594",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "報道後のストップ安でしこりがあり慎重",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "会計不正やEV関連での数千億円の減損計上検討報道によりストップ安となり、出来高を伴う下落でシコリが残るため安易な買いは危険であるため。",
+      "出来高が付いてしまっており今日掴んだポジションのシコリが懸念され、翌日ギャップダウンスタートとなった場合は苦しい展開が予想されるため。"
+     ],
+     "timestamp": "02:43",
+     "confidence": "high"
+    },
+    {
+     "name": "ソフトバンクグループ",
+     "name_en": "SoftBank Group",
+     "ticker": "9984",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "地合い悪化で上値重くライン意識",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "上部の6400円ラインが天井として意識され下落したものの、下値の6200円ラインなど200円ごとの節目が意識されていることが確認できたため。",
+      "全体的な地合いが厳しい状況であったため上値追いは難しく、節目ラインを意識しながら慎重に見極める必要がある展開となっているため。"
+     ],
+     "timestamp": "04:01",
+     "confidence": "medium"
+    },
+    {
+     "name": "太陽誘電",
+     "name_en": "Taiyo Yuden",
+     "ticker": "6976",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "上ひげ陰線でシコリ形成、静観が吉",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "出来高はある程度あるものの連日の上ひげ陰線で上値にシコリを作る足型になっており、すんなり上値追いができない厳しい状況が続いているため。",
+      "デイトレードでは9000円等の節目のラインが支持線として機能しやすいが、大きく値を伸ばす狙い目としては現状リスクが高いため。"
+     ],
+     "timestamp": "04:33",
+     "confidence": "medium"
+    },
+    {
+     "name": "村田製作所",
+     "name_en": "Murata Manufacturing",
+     "ticker": "6981",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "8000円意識、太陽誘電より足型回復傾向",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "8000円のラインが意識されており、太陽誘電と比較すると徐々に足型が回復傾向に向かっているものの、8300円付近での戻り売りが重いため。",
+      "今後これ以上足型を崩さないかが焦点であり、高い出来高を維持しながら明確な反転が見られるかを注視すべき段階にあるため。"
+     ],
+     "timestamp": "05:21",
+     "confidence": "medium"
+    },
+    {
+     "name": "キオクシア",
+     "name_en": "Kioxia Holdings",
+     "ticker": "285A",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "明日からの分割控え受給悪化が懸念",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "下ひげが付きにくくなり序盤から苦しい展開で、最終的にも大きく下落するなど板や足型からエントリーしづらい状況に変化しているため。",
+      "翌日から3分割されて投資単価が安くなるものの、それに伴う需給悪化を懸念する動きもあり足型が残念な形に崩れてしまったため。"
+     ],
+     "timestamp": "06:01",
+     "confidence": "medium"
+    },
+    {
+     "name": "藤倉",
+     "name_en": "Fujikura",
+     "ticker": "5803",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "上値にしこり多く出来高不足で厳しい",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "5000円を上抜ける場面もあったがラストにかけて地合い悪化に押し戻され、上ひげのシコリが多くエントリーしにくい形状であるため。",
+      "シコリが多い銘柄を上伸させるには出来高の盛り上がりが不可欠であるが、足元の2000万〜3000万株程度の出来高では上昇が難しい点。"
+     ],
+     "timestamp": "06:42",
+     "confidence": "medium"
+    },
+    {
+     "name": "データセクション",
+     "name_en": "Data Section",
+     "ticker": "3905",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "UP寄りで見送りも底堅さあり条件付き注視",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "前日上ひげを大きく上回るギャップアップスタートとなったため見送りとなったが、日中で2100円付近を固める動きも見られたため。",
+      "IPOなどグロス市場に資金が流入する流れになれば、2100円台を固めた前提で上ひげを巻き返す動きが期待できる余地があるため。"
+     ],
+     "timestamp": "07:28",
+     "confidence": "medium"
+    },
+    {
+     "name": "国際エレクトリック",
+     "name_en": "Kokusai Electric",
+     "ticker": "6525",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "長期レンジ抜け期待も前日意識線割り下落",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "前場は長期レンジの上抜けを試す力強い勢いがあったものの、意識されていた9300円を下回ると後場にかけて下落し損切りとなったため。",
+      "長期レンジブレイクへの期待感は残るものの、後場の地合い悪化に押される形で崩れたため一旦は仕切り直しが必要な形状であるため。"
+     ],
+     "timestamp": "08:50",
+     "confidence": "medium"
+    },
+    {
+     "name": "イビデン",
+     "name_en": "Ibiden",
+     "ticker": "4062",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "分割後の1万円付近での動きを静観",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "動画で想定していたVライン等のエントリー候補位置を下回ってスタートし、そのまま下方へ下落したため速やかな損切りが必要な展開だったため。",
+      "下値の2万2500円付近で持ち合っており株式分割実施後に株価1万円付近となった段階でどのような動きをするか静観すべきであるため。"
+     ],
+     "timestamp": "09:37",
+     "confidence": "medium"
+    }
+   ]
+  },
+  {
    "video_id": "FlEfIlJEGTg",
    "title": "月曜日に注目したい銘柄紹介（イビデン・アドバンテスト・キオクシア・AKIPPA・データセクションなどなど）株式テクニカルチャート分析",
    "published": "2026-09-27T00:00:17+00:00",
@@ -711,142 +881,6 @@
      ],
      "timestamp": "14:02",
      "confidence": "low"
-    }
-   ]
-  },
-  {
-   "video_id": "bQTrP0mGB5Y",
-   "title": "来週の相場に備えて！　日本株チャート分析LIVE　9/26",
-   "published": "2026-09-26T07:02:29+00:00",
-   "description": "🔽「株オンラインサロン」\n→　https://yoor.jp/door/tradertomo\n\n※ 参加プラン別のサービス内容はこちらの動画で解説しています。\n→https://youtu.be/LtXywHzgOHs?si=G3UipVQW0JsWkv5t\n\n株好きが集まる楽しいサロンを目指してます♪\n初心者歓迎です～ご参加お待ちしています！\n\n🔽松井証券口座開設キャンペーン中！\nAmazonギフトカード500円プレゼント\n\n以下の特設ページから口座開設＆アンケート回答でGET！\n→https://www.tcs-asp.net/alink?AC=C131836&LC=MTI1&SQ=1&isq=100",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "金利上昇や原油高の影響が懸念されるものの、半導体やAI関連銘柄は底堅く、米国の中間選挙も控える10月相場は買いやすい環境になると分析しています。動画では視聴者から寄せられたリクエスト銘柄を中心に、チャートの形状、信用買い残などの需給面、株式分割や決算発表などの材料を踏まえた売買スタンスや戦略を解説しています。",
-   "market_view": "金利上昇と原油高は警戒要素ですが、半導体やAIセクターは堅調で相場を牽引する期待があります。金利上昇は不動産や建設には逆風となる一方、銀行セクターには追い風です。",
-   "market": "JP",
-   "picks": [
-    {
-     "name": "インフロニア・ホールディングス",
-     "name_en": "INFRONEER Holdings Inc.",
-     "ticker": "5076",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "業績強力で上方修正に期待",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "業績面が非常に強力であり、配当などの株主還元にも積極的で下値リスクが低い点。",
-      "11月の中間決算に向けて、会社側からの業績上方修正が十分期待できる点。"
-     ],
-     "timestamp": "02:28",
-     "confidence": "medium"
-    },
-    {
-     "name": "アサヒインテック",
-     "name_en": "ASAHI INTECC CO., LTD.",
-     "ticker": "7747",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "高利益率で押し目買い好機",
-     "target_price": "",
-     "entry": "3000円台前半",
-     "stop": "",
-     "reasons": [
-      "証券会社のレーティング下げで下落したが高利益率で割安感が非常に強い点。",
-      "AI関連セクターの市況変動に直接影響を受けない事業特性もポジティブな点。"
-     ],
-     "timestamp": "03:17",
-     "confidence": "medium"
-    },
-    {
-     "name": "アドバンテスト",
-     "name_en": "Advantest Corporation",
-     "ticker": "6857",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "チャート良好で相場牽引を期待",
-     "target_price": "",
-     "entry": "34000円以上",
-     "stop": "",
-     "reasons": [
-      "3万円の節目を底に安値切り上げと高値更新の綺麗な反転形状を作っている点。",
-      "業績面の不安がなく、半導体・AI相場を力強く牽引する主力株として期待できる点。"
-     ],
-     "timestamp": "13:16",
-     "confidence": "high"
-    },
-    {
-     "name": "日東電工",
-     "name_en": "NITTO DENKO CORPORATION",
-     "ticker": "6988",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "高値上抜けと受給改善に注目",
-     "target_price": "",
-     "entry": "",
-     "stop": "3500円",
-     "reasons": [
-      "チャートの雰囲気が良好で前回高値を上抜けてレンジブレイクを狙える位置にある点。",
-      "機関投資家による大規模な空売りの買い戻しが確認され受給面が改善している点。"
-     ],
-     "timestamp": "21:51",
-     "confidence": "medium"
-    },
-    {
-     "name": "任天堂",
-     "name_en": "Nintendo Co., Ltd.",
-     "ticker": "7974",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "格下げと下げ足で静観姿勢",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "外資系証券会社による投資判断の格下げおよび大幅な目標株価引き下げが出た点。",
-      "チャート形状が著しく悪化しており今後の悪材料出現に対する警戒が必要な点。"
-     ],
-     "timestamp": "22:37",
-     "confidence": "medium"
-    },
-    {
-     "name": "住友ベークライト",
-     "name_en": "Sumitomo Bakelite Company, Limited",
-     "ticker": "4203",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "材料・チャート揃う最注目株",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "チャート形状、材料性、需給バランスの全てにおいて非常に優れている評価な点。",
-      "半導体や先端材料関連銘柄の中でも、現在最も高評価で狙い目とみている点。"
-     ],
-     "timestamp": "56:43",
-     "confidence": "high"
-    },
-    {
-     "name": "霞ヶ関キャピタル",
-     "name_en": "Kasumigaseki Capital Co., Ltd.",
-     "ticker": "3498",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "高業績だが金利上昇懸念あり",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "直近の業績や利益率が非常に高く、今後の本決算発表に向けて期待が持てる点。",
-      "今後の金利上昇局面においては有利子負債を活用する不動産事業への懸念がある点。"
-     ],
-     "timestamp": "58:09",
-     "confidence": "medium"
     }
    ]
   },
