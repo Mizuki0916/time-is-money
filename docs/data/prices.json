@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-28T06:05:06.872335+00:00",
+ "updated_at": "2026-09-28T07:05:06.259949+00:00",
  "symbols": {
   "JP:1111": {
    "date": "2026-08-17",
@@ -11332,6 +11332,32 @@
    "symbol": "1925.T",
    "source": "yahoo",
    "fetched_at": "2026-09-28T06:05:06.872335+00:00"
+  },
+  "JP:634A": {
+   "date": "2026-09-28",
+   "close": 2611.0,
+   "change_pct": 23.69,
+   "live": null,
+   "live_change_pct": null,
+   "live_time": null,
+   "volume": 2721900,
+   "volume_ratio": null,
+   "rsi14": null,
+   "rsi_zone": "",
+   "ma25": null,
+   "ma75": null,
+   "trend": "判定不可",
+   "pos52": null,
+   "spark": [
+    2111.0,
+    2611.0
+   ],
+   "currency": "JPY",
+   "exchange_name": "Tokyo",
+   "market_open": false,
+   "symbol": "634A.T",
+   "source": "yahoo",
+   "fetched_at": "2026-09-28T07:05:06.259949+00:00"
   }
  }
 }
