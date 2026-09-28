@@ -1,6 +1,34 @@
 {
- "generated_at": "2026-09-28T18:06:14.145285+09:00",
+ "generated_at": "2026-09-28T19:06:19.479097+09:00",
  "videos": [
+  {
+   "video_id": "NagHGpF9moI",
+   "title": "【日本株配当落ち最警戒‼】日経平均高値から1157円急落‼︎キオクシア、ニデック大暴落ヤバい‼AI半導体株戻り売り。ドル円156円。米国株、ナスダック、ハイテク株は金利急騰でどう動く、仮想通貨BTC",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-09-28T09:15:01+00:00",
+   "overview": "日経平均株価が高値から急落する中、権利落ちや月末月頭における相場の不穏な動きに警戒を呼びかける動画です。2018年の相場展開との類似性を指摘し、米国の高金利や12月の損益通算・信用期日に向けた2極化相場への警戒を促しています。個別銘柄では不正疑いと巨大な減損報道で暴落したニデックや、受給悪化から戻り売りが懸念されるキオクシアなどを分析しています。",
+   "market_view": "配当落ち後の戻り売りや米国の利上げ懸念により、2018年同様に年末にかけて乱高下するリスクを警戒しています。信用倍率が高止まりする中、受給の良好な銘柄にポートフォリオを絞るべきだとしています。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "ニデック",
+     "ticker": "6594",
+     "stance": "bearish",
+     "timestamp": "18:09"
+    },
+    {
+     "name": "キオクシア",
+     "ticker": "285A",
+     "stance": "bearish",
+     "timestamp": "09:34"
+    }
+   ]
+  },
   {
    "video_id": "YMNi3DZXsj4",
    "title": "今日の活況銘柄を見てみる！（太陽誘電・アドバンテスト・キオクシア・村田製作所・ソフバン等）株式テクニカルチャート分析",
@@ -196,64 +224,6 @@
      "ticker": "8306",
      "stance": "bullish",
      "timestamp": "14:02"
-    }
-   ]
-  },
-  {
-   "video_id": "4X48hrTpNuo",
-   "title": "日本株空売り急増‼︎AI半導体株急伸で日経平均続伸！バリュー、高配当銘柄しっかり。ドル円158円。米国株、ナスダック、ハイテク株は金利急騰でどう動く、仮想通貨BTC急騰",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-09-25T14:25:53+00:00",
-   "overview": "市場全体で空売り残高が8000億円を超えショートカバーが起こりやすい環境となる中、日経平均は予想通り続伸しました。半導体関連株を中心に力強い上昇が見られる一方、ドル円が157円台へと円高進行していることや、配当落ち後の市場の荒れには警戒が示されています。個別では受給改善やバンドウォークを強める半導体株に注目する一方、受給が悪化した銘柄への注意を促しています。",
-   "market_view": "売り残増加で踏み上げが入りやすい地合いですが、ドル円の急激な円高進行や配当落ち後の波乱には警戒が必要です。",
-   "market": "MIX",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "任天堂",
-     "ticker": "7974",
-     "stance": "bullish",
-     "timestamp": "03:59"
-    },
-    {
-     "name": "SHIFT",
-     "ticker": "3697",
-     "stance": "bullish",
-     "timestamp": "11:21"
-    },
-    {
-     "name": "レーザーテック",
-     "ticker": "6920",
-     "stance": "bullish",
-     "timestamp": "15:53"
-    },
-    {
-     "name": "アドバンテスト",
-     "ticker": "6857",
-     "stance": "bullish",
-     "timestamp": "18:29"
-    },
-    {
-     "name": "ソフトバンクグループ",
-     "ticker": "9984",
-     "stance": "bearish",
-     "timestamp": "20:50"
-    },
-    {
-     "name": "東京エレクトロン",
-     "ticker": "8035",
-     "stance": "bullish",
-     "timestamp": "23:17"
-    },
-    {
-     "name": "マイクロソフト",
-     "ticker": "MSFT",
-     "stance": "bullish",
-     "timestamp": "54:32"
     }
    ]
   },
