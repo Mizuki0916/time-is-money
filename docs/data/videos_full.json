@@ -154,6 +154,108 @@
    ]
   },
   {
+   "video_id": "2LPgznQkjdI",
+   "title": "【日経平均】 違和感のある上昇 週明け相場 意識するのは〇〇 サンディスク・キオクシア・アキッパ・レイヤード・ニデック",
+   "published": "2026-09-28T11:00:38+00:00",
+   "description": "※動画の趣旨は個人的主観の予測であり、値動きを保証するものではありません。\n　投資の判断は自己責任でお願いします。\n\n◉トレンド分析の基礎おすすめ動画\n【永久保存版】初心者でもわかるダウ理論の使い方【前編】\nhttps://youtu.be/re9XBR2qcBw\n【永久保存版】初心者でもわかるダウ理論の使い方【後編】\nhttps://youtu.be/Z21W4VFSs9g\n【知らなきゃ勝てない】移動平均線で相場を読む最強の方法\nhttps://youtu.be/FfSX8hcRR2I\n【一目均衡表の真髄】初心者でも分かる完全ガイド\nhttps://youtu.be/xPkb1twTFFI\n\n◉SBI証券株式会社キャンペーン　手数料無料、取引ツール便利PR\nhttps://h.accesstrade.net/sp/cc?rk=0100q3pa00on8p\n\n◉松井証券証券株式会社キャンペ",
+   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+   "channel_name": "Trader's Lab",
+   "channel_short": "TL",
+   "slot": 1,
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "日経平均株価は下げ止まりの兆候を見せるものの、上値のレジスタンスラインが重く明確な上昇フェーズへの転換が見られないレンジ相場と解説されています。また、個別銘柄では悪材料でストップ安となったニデックの長期下落トレンドや、レンジ推移が続くキオクシアのテクニカル形状を分析しています。さらに、資金が集中している直近IPO銘柄のあきっぱやレイヤードなど、短期売買向きの株式市場の現状について見解を示しています。",
+   "market_view": "日経平均はレジスタンスラインに抑えられ方向感に欠けるレンジ相場が続いており、中長期での投資判断が難しく短期売買に適した環境です。",
+   "market": "JP",
+   "picks": [
+    {
+     "name": "日経平均",
+     "name_en": "Nikkei 225",
+     "ticker": "",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "下げ止まりも上値重くレンジ相場の判断保留",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "現物・先物ともにレジスタンスラインに挟まれ、下落トレンドからの明確な上昇転換は未確認の状態であること。",
+      "上値ラインと75日線が重なり重たい一方、6万5000円前後のサポートを維持できるかの攻防が続いている点。"
+     ],
+     "timestamp": "02:00",
+     "confidence": "high"
+    },
+    {
+     "name": "キオクシア",
+     "name_en": "Kioxia Holdings Corporation",
+     "ticker": "285A",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "レンジ推移で上値が重く短期売買向きの地合い",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "雲の下限や移動平均線に頭を抑えられており、対局のチャートでは完全なレンジ相場を形成しているため。",
+      "週足では13週線と26週線がデッドクロスしており、戻り売り圧力がかかりやすいテクニカル形状であること。"
+     ],
+     "timestamp": "20:20",
+     "confidence": "high"
+    },
+    {
+     "name": "あきっぱ",
+     "name_en": "akippa Inc.",
+     "ticker": "",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "ストップ高連発の超短期マネー流入相場",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "時価総額と浮動株数が非常に少なく大口資金の影響を受けやすいため、超短期資金が集まり急騰している点。",
+      "勢いと出来高がある内は青天井だがチャート分析は困難で、過熱感があるためリスク管理が必要なこと。"
+     ],
+     "timestamp": "23:19",
+     "confidence": "medium"
+    },
+    {
+     "name": "レイヤード",
+     "name_en": "Layered Inc.",
+     "ticker": "",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "IPO直後の短期マネー集中による高ボラ相場",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "医療関連DX支援を手掛けるが、時価総額の低さから大口の短期資金が一気に流入して急騰している点。",
+      "流通株式数が少なく売り物が出にくい構造だが、テーマの旬が過ぎると急激に暴落する懸念がある点。"
+     ],
+     "timestamp": "25:03",
+     "confidence": "medium"
+    },
+    {
+     "name": "ニデック",
+     "name_en": "Nidec Corporation",
+     "ticker": "6594",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "悪材料によるストップ安と長期下落トレンド",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "不正会計発覚に伴う役員解任報道や1兆円規模の減損損失計上など、重大な悪材料によりストップ安となった点。",
+      "月足や週足の対局チャートで下落トレンドが続いており、サポートラインが見当たらず形状が非常に悪いこと。"
+     ],
+     "timestamp": "27:00",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
    "video_id": "vXbYa6zvXvY",
    "title": "【日経平均】 違和感のある上昇 週明け相場 意識するのは〇〇 サンディスク・キオクシア・東京エレクトロン・イビデン・アキッパ",
    "published": "2026-09-25T10:24:43+00:00",
@@ -252,176 +354,6 @@
      ],
      "timestamp": "24:34",
      "confidence": "medium"
-    }
-   ]
-  },
-  {
-   "video_id": "vpep7apmbMY",
-   "title": "【日経平均】 米国株高も値を打ち消す動き 金利高が重石か サンディスク・キオクシア・東京エレクトロン・アドバンテスト・ファーストリテイリング・リクルート・サンコール・ミナトホールディングス・オンコリス",
-   "published": "2026-09-24T11:00:32+00:00",
-   "description": "※動画の趣旨は個人的主観の予測であり、値動きを保証するものではありません。\n　投資の判断は自己責任でお願いします。\n\nサンワード証券セミナー申し込み\nhttps://www.sunward-t.co.jp/seminar/2026/09/26_3/index_k.html\n\n◉トレンド分析の基礎おすすめ動画\n【永久保存版】初心者でもわかるダウ理論の使い方【前編】\nhttps://youtu.be/re9XBR2qcBw\n【永久保存版】初心者でもわかるダウ理論の使い方【後編】\nhttps://youtu.be/Z21W4VFSs9g\n【知らなきゃ勝てない】移動平均線で相場を読む最強の方法\nhttps://youtu.be/FfSX8hcRR2I\n【一目均衡表の真髄】初心者でも分かる完全ガイド\nhttps://youtu.be/xPkb1twTFFI\n\n◉SBI証券株式会社キャンペーン　手数料",
-   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-   "channel_name": "Trader's Lab",
-   "channel_short": "TL",
-   "slot": 1,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "連休明けの日本市場は米国株高の流れを引き継げず、金利高や主力半導体株の戻り売りに押されて伸び悩む展開を解説しています。東京エレクトロンやアドバンテスト、ファーストリテイリングなど大型株の切り下げ基調が日経平均の上値を抑える一方、サンコールやミナトホールディングスなど高値更新が続く中小型株の強さが目立ちます。相場全体として方向感が出にくいため、リスク管理を徹底した慎重なエントリーが求められます。",
-   "market_view": "米国株高にもかかわらず国内金利の上昇や主力株のテクニカル悪化が重石となり、日経平均は上値の重いレンジ推移や調整リスクに警戒が必要です。",
-   "market": "MIX",
-   "picks": [
-    {
-     "name": "キオクシアホールディングス",
-     "name_en": "Kioxia Holdings",
-     "ticker": "",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "25日線が下向きで上値が重くレンジ色強い",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "25日移動平均線が下向きで雲の加減に抑えられており5万5000円オーバーの上値が重い展開。",
-      "週足13週線にぶつかり抵抗力が強まる可能性がありモメンタムの変化に注意が必要。"
-     ],
-     "timestamp": "17:39",
-     "confidence": "medium"
-    },
-    {
-     "name": "サンディスク",
-     "name_en": "SanDisk",
-     "ticker": "SNDK",
-     "market": "US",
-     "stance": "neutral",
-     "stance_note": "キオクシアより強いが米国株指数に連動しレンジ模様",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "一応上抜けしているためキオクシアより強いものの25日線が75日線を下回っており上値は限定的。",
-      "直近高値を更新し下げ止まりは見せるがナスダックやソックス指数の調整に合わせてレンジ推移。"
-     ],
-     "timestamp": "18:59",
-     "confidence": "medium"
-    },
-    {
-     "name": "東京エレクトロン",
-     "name_en": "Tokyo Electron",
-     "ticker": "8035",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "25日線下向きで戻り売りの形状、下落基調継続",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "株価は安値圏に位置し25日移動平均線が下向きでグランビル法則の売りシグナルが出やすい。",
-      "8月高値を起点に高値と安値を切り下げる下落トレンドが続いており日経平均の重石。"
-     ],
-     "timestamp": "19:47",
-     "confidence": "high"
-    },
-    {
-     "name": "アドバンテスト",
-     "name_en": "Advantest",
-     "ticker": "6857",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "日足で切り下げ基調が継続し25日線が下向き",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "中長期的には上目線だが日足レベルでは8月高値から高値安値を切り下げる下落トレンド。",
-      "25日移動平均線が下向きでちょうど戻り売られやすい位置におり日経平均の重石となっている。"
-     ],
-     "timestamp": "20:51",
-     "confidence": "high"
-    },
-    {
-     "name": "ファーストリテイリング",
-     "name_en": "Fast Retailing",
-     "ticker": "9983",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "200日線を下回り25日線とのデッドクロスで弱気",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "戻り高値を作れず下げ基調が継続しており株価は200日移動平均線を下回る非常に悪い形状。",
-      "25日線と200日線のデッドクロスが迫っており5万円台後半まで明確な節目がない。"
-     ],
-     "timestamp": "21:24",
-     "confidence": "high"
-    },
-    {
-     "name": "リクルートホールディングス",
-     "name_en": "Recruit Holdings",
-     "ticker": "6098",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "決算時の大きな窓埋めに向かう下落調整を警戒",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "直近の株価下落が大きく前回の決算時に空けた大きな窓を埋める動きへの警戒が必要。",
-      "日経平均の下落に伴い窓埋め水準である1万3000円台まで下押す潜在的リスクが存在。"
-     ],
-     "timestamp": "22:25",
-     "confidence": "medium"
-    },
-    {
-     "name": "サンコール",
-     "name_en": "Suncall",
-     "ticker": "5985",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "上場来高値更新でトレンドフォロー継続、押し目買い",
-     "target_price": "",
-     "entry": "2000円台前半",
-     "stop": "",
-     "reasons": [
-      "材料やニュースはないものの決算をきっかけに上昇トレンドが続いており上場来高値を更新。",
-      "中長期で綺麗なかたちをしており週足過熱感からの短期調整が入る2000円台前半が仕込み場。"
-     ],
-     "timestamp": "23:14",
-     "confidence": "high"
-    },
-    {
-     "name": "ミナトホールディングス",
-     "name_en": "Minato Holdings",
-     "ticker": "6862",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "特別配当の材料で高値更新、権利落ち後の押し目を狙う",
-     "target_price": "",
-     "entry": "4000円台",
-     "stop": "",
-     "reasons": [
-      "特別配当の発表を材料に高値を更新しており押し目を下引けで戻すなど非常に強い展開。",
-      "短期的な過熱感や配当落ち後の調整リスクを考慮し4000円台など下がった場面での狙い目を推奨。"
-     ],
-     "timestamp": "24:16",
-     "confidence": "high"
-    },
-    {
-     "name": "オンコリスバイオファーマ",
-     "name_en": "Oncolys BioPharma",
-     "ticker": "4588",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "大幅下落で調整入り、25日線付近までの下落リスク",
-     "target_price": "",
-     "entry": "4800円〜25日線付近",
-     "stop": "3875円",
-     "reasons": [
-      "直近の上昇から急落し6000円台を割れ5420円を下抜けると25日線まで一気に調整するリスク。",
-      "潜在的リスクとして25日線や4800円台のブレイクアウトラインまでの押し目を想定する必要。"
-     ],
-     "timestamp": "25:25",
-     "confidence": "high"
     }
    ]
   },

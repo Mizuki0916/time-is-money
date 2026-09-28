@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-28T10:06:19.429271+00:00",
+ "updated_at": "2026-09-28T11:05:59.577218+00:00",
  "symbols": {
   "JP:1111": {
    "date": "2026-08-17",
@@ -2178,24 +2178,21 @@
    "fetched_at": "2026-08-19T04:36:24.190592+00:00"
   },
   "IDX:^N225": {
-   "date": "2026-09-18",
-   "close": 65018.95,
-   "change_pct": 1.38,
+   "date": "2026-09-28",
+   "close": 65877.62,
+   "change_pct": -0.73,
    "live": null,
    "live_change_pct": null,
    "live_time": null,
-   "volume": 197700000,
-   "volume_ratio": 1.31,
-   "rsi14": 49.0,
+   "volume": null,
+   "volume_ratio": null,
+   "rsi14": 53.2,
    "rsi_zone": "中立",
-   "ma25": 65466.51,
-   "ma75": 66640.33,
-   "trend": "下降基調",
-   "pos52": 74,
+   "ma25": 65296.44,
+   "ma75": 66635.96,
+   "trend": "戻り歩調",
+   "pos52": 77,
    "spark": [
-    64611.15,
-    64931.19,
-    62364.92,
     61434.19,
     61867.43,
     64362.02,
@@ -2232,14 +2229,17 @@
     63484.1,
     63923.0,
     64136.25,
-    65018.95
+    65018.95,
+    65513.99,
+    66364.2,
+    65877.62
    ],
    "currency": "JPY",
    "exchange_name": "Osaka",
    "market_open": false,
    "symbol": "^N225",
    "source": "yahoo",
-   "fetched_at": "2026-09-24T21:32:23.230151+00:00"
+   "fetched_at": "2026-09-28T11:05:59.577218+00:00"
   },
   "JP:5802": {
    "date": "2026-09-24",
@@ -11422,6 +11422,34 @@
    "symbol": "6594.T",
    "source": "yahoo",
    "fetched_at": "2026-09-28T09:06:02.958742+00:00"
+  },
+  "NAME:あきっぱ": {
+   "date": "2026-09-28",
+   "close": 2037.0,
+   "change_pct": 24.43,
+   "live": null,
+   "live_change_pct": null,
+   "live_time": null,
+   "volume": 8642700,
+   "volume_ratio": null,
+   "rsi14": null,
+   "rsi_zone": "",
+   "ma25": null,
+   "ma75": null,
+   "trend": "判定不可",
+   "pos52": null,
+   "spark": [
+    1037.0,
+    1337.0,
+    1637.0,
+    2037.0
+   ],
+   "currency": "JPY",
+   "exchange_name": "Tokyo",
+   "market_open": false,
+   "symbol": "627A.T",
+   "source": "yahoo-search",
+   "fetched_at": "2026-09-28T11:05:59.577218+00:00"
   }
  }
 }
