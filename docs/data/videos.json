@@ -1,6 +1,21 @@
 {
- "generated_at": "2026-09-29T20:08:18.392175+09:00",
+ "generated_at": "2026-09-29T21:07:07.002032+09:00",
  "videos": [
+  {
+   "video_id": "Q0tShDvW898",
+   "title": "9/29【日本株空売り1兆円爆増‼】日経平均の急落続くのか⁉AI半導体株どうなる。高配当銘柄急落。ドル円157円。金利急騰で米国株、ナスダック、ハイテク株軟調。仮想通貨BTC上昇",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-09-29T11:51:41+00:00",
+   "overview": "",
+   "market_view": "",
+   "market": "",
+   "no_transcript": true,
+   "skip_reason": "動画が非公開・削除・配信予定などで取得できません",
+   "picks": []
+  },
   {
    "video_id": "2LPgznQkjdI",
    "title": "【日経平均】 違和感のある上昇 週明け相場 意識するのは〇〇 サンディスク・キオクシア・アキッパ・レイヤード・ニデック",
@@ -142,52 +157,6 @@
      "ticker": "4062",
      "stance": "neutral",
      "timestamp": "09:37"
-    }
-   ]
-  },
-  {
-   "video_id": "vj3AFVW9l7o",
-   "title": "日本株空売り急増‼︎AI半導体株急伸で日経平均続伸！バリュー、高配当銘柄しっかり。ドル円158円。米国株、ナスダック、ハイテク株は金利急騰でどう動く、仮想通貨BTC急騰",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-09-27T14:30:25+00:00",
-   "overview": "9月末に向かって日経平均の上昇が予想通り進行する中、空売りの増加に伴う踏み上げの可能性や受給の偏りについて解説されています。配当落ち後の下落圧力や2018年類似相場への警戒感を示しつつ、残り3ヶ月は需給の軽い銘柄に絞って投資すべきだと主張。また、個別の高配当株やゲーム株などのチャート分析に加え、NISA口座における適切な銘柄選びの考え方についても言及しています。",
-   "market_view": "日経平均は予想通り月末にかけて上昇しているが、配当落ち後の下落や10月以降の乱高下に警戒が必要。年末に向けては需給の軽い銘柄への選別投資が推奨されている。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "三井金属",
-     "ticker": "5706",
-     "stance": "bearish",
-     "timestamp": "02:16"
-    },
-    {
-     "name": "アステラス製薬",
-     "ticker": "4503",
-     "stance": "neutral",
-     "timestamp": "05:07"
-    },
-    {
-     "name": "大和ハウス工業",
-     "ticker": "1925",
-     "stance": "neutral",
-     "timestamp": "09:46"
-    },
-    {
-     "name": "カプコン",
-     "ticker": "9697",
-     "stance": "bullish",
-     "timestamp": "13:03"
-    },
-    {
-     "name": "イオン",
-     "ticker": "8267",
-     "stance": "neutral",
-     "timestamp": "53:06"
     }
    ]
   },
