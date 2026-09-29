@@ -1,6 +1,28 @@
 {
- "generated_at": "2026-09-30T04:07:47.650786+09:00",
+ "generated_at": "2026-09-30T05:07:13.151962+09:00",
  "videos": [
+  {
+   "video_id": "kQdRSTK3p9g",
+   "title": "キオクシアHDが遂に株式分割！株価は復活できる？　#shorts",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-09-29T12:20:03+00:00",
+   "overview": "キオクシアHDが本日3株式分割を実施し、初日の値動きについて解説された動画。初日の出来高は4100万株と少なめで下ひげをつける展開となったが、引けにかけて買戻しの動きが見られた。日足チャートでは綺麗な三角持ち合いを形成しており、10月頭にかけて上下どちらかに大きく振れる可能性がある。上昇には出来高5000万株以上がポイントとなり、抜けた方向へついていくスタンスが示されている。",
+   "market_view": "",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "キオクシアHD",
+     "ticker": "285A",
+     "stance": "neutral",
+     "timestamp": "00:00"
+    }
+   ]
+  },
   {
    "video_id": "Q0tShDvW898",
    "title": "9/29【日本株空売り1兆円爆増‼】日経平均の急落続くのか⁉AI半導体株どうなる。高配当銘柄急落。ドル円157円。金利急騰で米国株、ナスダック、ハイテク株軟調。仮想通貨BTC上昇",
@@ -157,88 +179,6 @@
      "ticker": "4062",
      "stance": "neutral",
      "timestamp": "09:37"
-    }
-   ]
-  },
-  {
-   "video_id": "FlEfIlJEGTg",
-   "title": "月曜日に注目したい銘柄紹介（イビデン・アドバンテスト・キオクシア・AKIPPA・データセクションなどなど）株式テクニカルチャート分析",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-09-27T00:00:17+00:00",
-   "overview": "週明け月曜日の注目銘柄として、相場を牽引する半導体関連株(イビデン、アドバンテスト、レーザーテックなど)のテクニカルチャートや需給動向を分析しています。また、賑わいを見せるIPO・グロース銘柄(akippa、レイヤード、データセクションなど)の売買戦略や、金利上昇局面で強い銀行株の動向について詳しく解説された動画です。",
-   "market_view": "米国株の上昇やSOX指数の高値を受け、全体地合いは良好と分析。日経平均は綺麗な三角持ち合いを形成しており、間もなく上下どちらかに大きく離れる展開を想定しています。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "イビデン",
-     "ticker": "4062",
-     "stance": "bullish",
-     "timestamp": "02:26"
-    },
-    {
-     "name": "サンメッセ",
-     "ticker": "7883",
-     "stance": "bearish",
-     "timestamp": "04:20"
-    },
-    {
-     "name": "アドバンテスト",
-     "ticker": "6857",
-     "stance": "bullish",
-     "timestamp": "05:25"
-    },
-    {
-     "name": "レーザーテック",
-     "ticker": "6920",
-     "stance": "bullish",
-     "timestamp": "06:30"
-    },
-    {
-     "name": "キオクシアホールディングス",
-     "ticker": "285A",
-     "stance": "neutral",
-     "timestamp": "07:37"
-    },
-    {
-     "name": "akippa",
-     "ticker": "627A",
-     "stance": "bullish",
-     "timestamp": "08:24"
-    },
-    {
-     "name": "レイヤード",
-     "ticker": "634A",
-     "stance": "bullish",
-     "timestamp": "09:59"
-    },
-    {
-     "name": "スカイフォール",
-     "ticker": "625A",
-     "stance": "bullish",
-     "timestamp": "11:03"
-    },
-    {
-     "name": "データセクション",
-     "ticker": "3905",
-     "stance": "bullish",
-     "timestamp": "11:38"
-    },
-    {
-     "name": "アストロスケールホールディングス",
-     "ticker": "186A",
-     "stance": "neutral",
-     "timestamp": "12:41"
-    },
-    {
-     "name": "三菱UFJフィナンシャル・グループ",
-     "ticker": "8306",
-     "stance": "bullish",
-     "timestamp": "14:02"
     }
    ]
   },
