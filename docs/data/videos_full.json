@@ -18,9 +18,9 @@
    "picks": []
   },
   {
-   "video_id": "NagHGpF9moI",
-   "title": "【日本株配当落ち最警戒‼】日経平均高値から1157円急落‼︎キオクシア、ニデック大暴落ヤバい‼AI半導体株戻り売り。ドル円156円。米国株、ナスダック、ハイテク株は金利急騰でどう動く、仮想通貨BTC",
-   "published": "2026-09-28T09:15:01+00:00",
+   "video_id": "KGCkXdGg0qI",
+   "title": "9/29【日本株空売り1兆円爆増‼】日経平均の急落続くのか⁉AI半導体株どうなる。高配当銘柄急落。ドル円157円。金利急騰で米国株、ナスダック、ハイテク株軟調。仮想通貨BTC上昇",
+   "published": "2026-09-29T09:15:01+00:00",
    "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
    "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
    "channel_name": "Sho's投資情報局",
@@ -28,42 +28,90 @@
    "slot": 3,
    "no_transcript": false,
    "skip_reason": "",
-   "overview": "日経平均株価が高値から急落する中、権利落ちや月末月頭における相場の不穏な動きに警戒を呼びかける動画です。2018年の相場展開との類似性を指摘し、米国の高金利や12月の損益通算・信用期日に向けた2極化相場への警戒を促しています。個別銘柄では不正疑いと巨大な減損報道で暴落したニデックや、受給悪化から戻り売りが懸念されるキオクシアなどを分析しています。",
-   "market_view": "配当落ち後の戻り売りや米国の利上げ懸念により、2018年同様に年末にかけて乱高下するリスクを警戒しています。信用倍率が高止まりする中、受給の良好な銘柄にポートフォリオを絞るべきだとしています。",
+   "overview": "9月29日の日本株市場では日経平均が一時1100円超急落後に14時半からショートカバーで急速に買い戻されました。動画では信用の空売り急増が配当取りのつなぎ売りによる一時的な可能性を指摘し、2018年と同様に配当落ち後に下落局面を迎える警戒を呼びかけています。個別のハイテク株では二極化が進んでおり、需給やチャート形状が良い銘柄へのシフトが推奨されています。",
+   "market_view": "配当落ち後のショートカバーによる反発は一時的な可能性があり、信用売りの急減とともに今後の下落リスクや年末に向けた二極化相場に警戒が必要です。",
    "market": "JP",
    "picks": [
     {
-     "name": "ニデック",
-     "name_en": "Nidec Corporation",
-     "ticker": "6594",
+     "name": "日経平均株価",
+     "name_en": "Nikkei 225",
+     "ticker": "N225",
      "market": "JP",
      "stance": "bearish",
-     "stance_note": "不正・減損報道で暴落し信頼喪失",
+     "stance_note": "配当落ち後の買い戻し一巡と下落警戒",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "粉飾問題や社長交代に加え1兆円規模の減損リスクが報道されストップ安まで急落した(45文字)",
-      "過去にも不正問題があり企業の信頼性が失われているため投資対象外として強い警戒を示す(44文字)"
+      "14時半からの買い戻しはつなぎ売り解消による一時的なショートカバーの可能性が高く、空売り減少とともに下落に転じる懸念があるため。",
+      "2018年の暴落局面と類似しており、過去最高水準の信用買い残や決算発表での高決算売りなどから今後の急落に注意が必要であるため。"
      ],
-     "timestamp": "18:09",
+     "timestamp": "00:00",
      "confidence": "high"
     },
     {
-     "name": "キオクシア",
-     "name_en": "Kioxia Holdings Corporation",
-     "ticker": "285A",
+     "name": "東京エレクトロン",
+     "name_en": "Tokyo Electron",
+     "ticker": "8035",
      "market": "JP",
-     "stance": "bearish",
-     "stance_note": "6月高値の信用期日と損益通算を警戒",
+     "stance": "bullish",
+     "stance_note": "株式分割後も堅調で日経平均を牽引",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "6月に信用買いで高値をつけた期日が半年の12月に到来し売り圧力が強まりやすい(40文字)",
-      "年末の損益通算の売りや米利上げ懸念が重なり戻り高値は売られやすい展開を想定(40文字)"
+      "2.13%上昇して日経平均の押し上げ寄与度1位となり、1銘柄だけで指数を約120円相当押し上げるなど強い動きを見せているため。",
+      "株式分割を行った銘柄の中でもパフォーマンスが悪くなく、半導体製造装置関連として買いの手が入っているため。"
      ],
-     "timestamp": "09:34",
+     "timestamp": "15:02",
+     "confidence": "medium"
+    },
+    {
+     "name": "レーザーテック",
+     "name_en": "Lasertec",
+     "ticker": "6920",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "バンドウォーク形成で強烈な上昇傾向",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "上昇方向にバンドウォークを形成しており、強烈な上昇トレンドを描きながら抵抗ライン密集地域まで強く買われているため。"
+     ],
+     "timestamp": "16:27",
+     "confidence": "medium"
+    },
+    {
+     "name": "ソニーグループ",
+     "name_en": "Sony Group",
+     "ticker": "6758",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "移動平均線のゴールデンクロスで好形状",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "200日移動平均線と75日・100日移動平均線とのゴールデンクロスが形成されつつあり、チャートの形が良くなってきているため。"
+     ],
+     "timestamp": "16:46",
+     "confidence": "medium"
+    },
+    {
+     "name": "ニデック",
+     "name_en": "Nidec",
+     "ticker": "6594",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "信頼低下と続落で投資対象外と判断",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "株価が3.85%続落しており、市場からの信頼を失った企業にはリバウンド期待があっても投資しない姿勢を示しているため。"
+     ],
+     "timestamp": "17:11",
      "confidence": "medium"
     }
    ]
