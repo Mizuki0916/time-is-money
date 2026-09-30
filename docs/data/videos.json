@@ -1,6 +1,98 @@
 {
- "generated_at": "2026-09-30T14:05:55.106230+09:00",
+ "generated_at": "2026-09-30T20:28:09.363894+09:00",
  "videos": [
+  {
+   "video_id": "MhSr-8LKlwU",
+   "title": "【日経平均】 大幅上昇 上昇転換の狼煙！ 太陽誘電・NOTE・ダイナミック・スカイフォール・アキッパ・レイヤード",
+   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+   "channel_name": "Trader's Lab",
+   "channel_short": "TL",
+   "slot": 1,
+   "published": "2026-09-30T11:07:43+00:00",
+   "overview": "日経平均が1000円超の大幅高となり、短期トレンドも対局の上昇の流れに沿う動きが見られ下げ止まりが確定したと解説しています。主要指数や各種指標の環境認識を行った上で、個別銘柄として太陽誘電、NOTE、ダイナミックマッププラットフォームなどの動向や売買戦略を分析しています。セカンダリー銘柄等も含め、チャート形状に応じたデイトレードや反発狙いのアプローチを提示しています。",
+   "market_view": "日経平均は1000円超の大幅高で下げ止まりが確定し、上昇転換の兆しを見せています。トピックスや米国株の月足トレンドも良好で、全体としてロング目線ベースで堅調な推移が期待できる環境です。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "太陽誘電",
+     "ticker": "6976",
+     "stance": "neutral",
+     "timestamp": "14:53"
+    },
+    {
+     "name": "NOTE",
+     "ticker": "5243",
+     "stance": "bullish",
+     "timestamp": "18:41"
+    },
+    {
+     "name": "ダイナミックマッププラットフォーム",
+     "ticker": "4173",
+     "stance": "neutral",
+     "timestamp": "22:15"
+    },
+    {
+     "name": "スカイフォール",
+     "ticker": "",
+     "stance": "neutral",
+     "timestamp": "23:18"
+    },
+    {
+     "name": "akippa",
+     "ticker": "",
+     "stance": "neutral",
+     "timestamp": "24:22"
+    },
+    {
+     "name": "レイヤード",
+     "ticker": "",
+     "stance": "neutral",
+     "timestamp": "25:38"
+    }
+   ]
+  },
+  {
+   "video_id": "Pi6QBsoLA9c",
+   "title": "9/30【日本株ここが買い場か⁉キオクシアついに首位陥落‼】AI半導体株急騰で日経平均急騰。出遅れ銘柄も後場急伸。ドル円157円。中東懸念後退で米国株、ナスダック、ハイテク株、仮想通貨BTCも上昇か。",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-09-30T09:15:01+00:00",
+   "overview": "9月30日の日本株市場では日経平均株価が1,272円高と大幅反発しました。理論株価の上昇や14時30分以降のショートカバーが背景にあるものの、配当落ちに伴う一時的なつなぎ売りの解消である可能性もあり、10月相場での需給悪化に警戒感を示しています。投資判断においては2018年相場との類似点を踏まえ、年末に向けて需給の軽い銘柄への選別が重要であると解説されています。",
+   "market_view": "日経平均は理論値上昇やショートカバーにより急伸したものの、信用買残や配当落ち後の需給変化を踏まえると持続的な上昇には慎重姿勢が必要であり、年末に向けて二極化が進む見通しです。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "日経平均株価",
+     "ticker": "N225",
+     "stance": "bullish",
+     "timestamp": "01:13"
+    },
+    {
+     "name": "キオクシア",
+     "ticker": "285A",
+     "stance": "neutral",
+     "timestamp": "23:12"
+    },
+    {
+     "name": "村田製作所",
+     "ticker": "6981",
+     "stance": "bearish",
+     "timestamp": "21:38"
+    },
+    {
+     "name": "ソフトバンクグループ",
+     "ticker": "9984",
+     "stance": "bullish",
+     "timestamp": "21:19"
+    }
+   ]
+  },
   {
    "video_id": "kQdRSTK3p9g",
    "title": "キオクシアHDが遂に株式分割！株価は復活できる？　#shorts",
@@ -87,98 +179,6 @@
      "ticker": "",
      "stance": "bullish",
      "timestamp": "28:28"
-    }
-   ]
-  },
-  {
-   "video_id": "KGCkXdGg0qI",
-   "title": "9/29【日本株空売り1兆円爆増‼】日経平均の急落続くのか⁉AI半導体株どうなる。高配当銘柄急落。ドル円157円。金利急騰で米国株、ナスダック、ハイテク株軟調。仮想通貨BTC上昇",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-09-29T09:15:01+00:00",
-   "overview": "9月29日の日本株市場では日経平均が一時1100円超急落後に14時半からショートカバーで急速に買い戻されました。動画では信用の空売り急増が配当取りのつなぎ売りによる一時的な可能性を指摘し、2018年と同様に配当落ち後に下落局面を迎える警戒を呼びかけています。個別のハイテク株では二極化が進んでおり、需給やチャート形状が良い銘柄へのシフトが推奨されています。",
-   "market_view": "配当落ち後のショートカバーによる反発は一時的な可能性があり、信用売りの急減とともに今後の下落リスクや年末に向けた二極化相場に警戒が必要です。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "日経平均株価",
-     "ticker": "N225",
-     "stance": "bearish",
-     "timestamp": "00:00"
-    },
-    {
-     "name": "東京エレクトロン",
-     "ticker": "8035",
-     "stance": "bullish",
-     "timestamp": "15:02"
-    },
-    {
-     "name": "レーザーテック",
-     "ticker": "6920",
-     "stance": "bullish",
-     "timestamp": "16:27"
-    },
-    {
-     "name": "ソニーグループ",
-     "ticker": "6758",
-     "stance": "bullish",
-     "timestamp": "16:46"
-    },
-    {
-     "name": "ニデック",
-     "ticker": "6594",
-     "stance": "bearish",
-     "timestamp": "17:11"
-    }
-   ]
-  },
-  {
-   "video_id": "2LPgznQkjdI",
-   "title": "【日経平均】 違和感のある上昇 週明け相場 意識するのは〇〇 サンディスク・キオクシア・アキッパ・レイヤード・ニデック",
-   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-   "channel_name": "Trader's Lab",
-   "channel_short": "TL",
-   "slot": 1,
-   "published": "2026-09-28T11:00:38+00:00",
-   "overview": "日経平均株価は下げ止まりの兆候を見せるものの、上値のレジスタンスラインが重く明確な上昇フェーズへの転換が見られないレンジ相場と解説されています。また、個別銘柄では悪材料でストップ安となったニデックの長期下落トレンドや、レンジ推移が続くキオクシアのテクニカル形状を分析しています。さらに、資金が集中している直近IPO銘柄のあきっぱやレイヤードなど、短期売買向きの株式市場の現状について見解を示しています。",
-   "market_view": "日経平均はレジスタンスラインに抑えられ方向感に欠けるレンジ相場が続いており、中長期での投資判断が難しく短期売買に適した環境です。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "日経平均",
-     "ticker": "",
-     "stance": "neutral",
-     "timestamp": "02:00"
-    },
-    {
-     "name": "キオクシア",
-     "ticker": "285A",
-     "stance": "neutral",
-     "timestamp": "20:20"
-    },
-    {
-     "name": "あきっぱ",
-     "ticker": "",
-     "stance": "neutral",
-     "timestamp": "23:19"
-    },
-    {
-     "name": "レイヤード",
-     "ticker": "",
-     "stance": "neutral",
-     "timestamp": "25:03"
-    },
-    {
-     "name": "ニデック",
-     "ticker": "6594",
-     "stance": "bearish",
-     "timestamp": "27:00"
     }
    ]
   },
