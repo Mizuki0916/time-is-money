@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-30T10:08:04.215565+09:00",
+ "generated_at": "2026-09-30T11:08:11.696407+09:00",
  "channels": [
   {
    "id": "UCsaeHha7ai_NNX8or8Jyb-g",
@@ -7,7 +7,7 @@
    "short": "TL",
    "slot": 1,
    "video_count": 2,
-   "latest": "2026-09-28T11:00:38+00:00"
+   "latest": "2026-09-29T11:11:10+00:00"
   },
   {
    "id": "UCdQdRRLoajrt-5TEaAxslxA",
@@ -130,9 +130,9 @@
     "date": "2026-09-29",
     "close": 2250.0,
     "change_pct": -3.85,
-    "live": 2323.0,
-    "live_change_pct": 3.24,
-    "live_time": 1790729583,
+    "live": 2381.0,
+    "live_change_pct": 5.82,
+    "live_time": 1790733191,
     "volume": 25958100,
     "volume_ratio": 4.16,
     "rsi14": 33.8,
@@ -188,7 +188,7 @@
     "market_open": true,
     "symbol": "6594.T",
     "source": "yahoo",
-    "fetched_at": "2026-09-30T01:08:04.259527+00:00"
+    "fetched_at": "2026-09-30T02:08:11.734749+00:00"
    }
   },
   {
@@ -218,6 +218,27 @@
      ],
      "timestamp": "00:00",
      "seconds": 0,
+     "confidence": "high"
+    },
+    {
+     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+     "channel_name": "Trader's Lab",
+     "channel_short": "TL",
+     "slot": 1,
+     "video_id": "wu6swAWtcQI",
+     "video_title": "【日経平均】 急落の動き目立つ 63000円台まで 下がる可能性あり サンディスク・キオクシア・スカイフォール・アキッパ・レイヤード",
+     "published": "2026-09-29T11:11:10+00:00",
+     "stance": "neutral",
+     "stance_note": "短期レンジ推移が続きデイトレ中心の対応が賢明",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "25日移動平均線付近での揉み合いが続いており、上値は日足の雲の加減に抑えられ方向感が定まっていない。",
+      "週足では13週線と26週線がデッドクロスしており上値が重いため、レンジを抜けるまではデイトレード主体の取引が向いている。"
+     ],
+     "timestamp": "20:43",
+     "seconds": 1243,
      "confidence": "high"
     },
     {
@@ -261,27 +282,6 @@
      "timestamp": "06:01",
      "seconds": 361,
      "confidence": "medium"
-    },
-    {
-     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-     "channel_name": "Trader's Lab",
-     "channel_short": "TL",
-     "slot": 1,
-     "video_id": "vXbYa6zvXvY",
-     "video_title": "【日経平均】 違和感のある上昇 週明け相場 意識するのは〇〇 サンディスク・キオクシア・東京エレクトロン・イビデン・アキッパ",
-     "published": "2026-09-25T10:24:43+00:00",
-     "stance": "neutral",
-     "stance_note": "方向感がなく短期のデイトレ向きな状態",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "週足で13週線が下向きで抑え込まれており、数ヶ月間レンジ相場で方向感が見えないため。",
-      "日足でも雲の下限に頭を抑えられており、上値が重く中長期での予測が困難なため。"
-     ],
-     "timestamp": "19:07",
-     "seconds": 1147,
-     "confidence": "medium"
     }
    ],
    "consensus": {
@@ -300,9 +300,9 @@
     "date": "2026-09-29",
     "close": 17880.0,
     "change_pct": 0.56,
-    "live": 18260.0,
-    "live_change_pct": 2.13,
-    "live_time": 1790729586,
+    "live": 18375.0,
+    "live_change_pct": 2.77,
+    "live_time": 1790733193,
     "volume": 41572200,
     "volume_ratio": 0.48,
     "rsi14": 49.5,
@@ -358,7 +358,7 @@
     "market_open": true,
     "symbol": "285A.T",
     "source": "yahoo",
-    "fetched_at": "2026-09-30T01:08:04.259527+00:00"
+    "fetched_at": "2026-09-30T02:08:11.734749+00:00"
    }
   },
   {
@@ -368,6 +368,27 @@
    "ticker": "N225",
    "market": "JP",
    "mentions": [
+    {
+     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+     "channel_name": "Trader's Lab",
+     "channel_short": "TL",
+     "slot": 1,
+     "video_id": "wu6swAWtcQI",
+     "video_title": "【日経平均】 急落の動き目立つ 63000円台まで 下がる可能性あり サンディスク・キオクシア・スカイフォール・アキッパ・レイヤード",
+     "published": "2026-09-29T11:11:10+00:00",
+     "stance": "bearish",
+     "stance_note": "上値ラインに抑えられ6万3000円台への調整リスクあり",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "上値抵抗線を超えられず下値支持線も割り込んでいるため、短期的にやや下方向へのモメンタムが強まりやすい形状である。",
+      "移動平均線や日足の雲が抵抗となっており、明確な転換がない限りは6万3000円から6万7000円のレンジ推移が想定される。"
+     ],
+     "timestamp": "09:00",
+     "seconds": 540,
+     "confidence": "high"
+    },
     {
      "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
      "channel_name": "Sho's投資情報局",
@@ -413,33 +434,32 @@
    ],
    "consensus": {
     "bullish": 0,
-    "bearish": 1,
-    "neutral": 1
+    "bearish": 2,
+    "neutral": 0
    },
    "voices": 2,
    "split": false,
-   "last_mentioned": "2026-09-29T09:15:01+00:00",
+   "last_mentioned": "2026-09-29T11:11:10+00:00",
    "channel_ids": [
     "UCK9Pl6bbWqMC_x7IDca2tIg",
     "UCsaeHha7ai_NNX8or8Jyb-g"
    ],
    "price": {
-    "date": "2026-09-28",
-    "close": 65877.62,
-    "change_pct": -0.73,
-    "live": 66093.7,
-    "live_change_pct": 0.33,
-    "live_time": 1790729585,
-    "volume": 161800000,
-    "volume_ratio": 1.06,
-    "rsi14": 53.2,
+    "date": "2026-09-29",
+    "close": 65481.27,
+    "change_pct": -0.6,
+    "live": 66290.57,
+    "live_change_pct": 1.24,
+    "live_time": 1790733195,
+    "volume": 170800000,
+    "volume_ratio": 1.12,
+    "rsi14": 50.8,
     "rsi_zone": "中立",
-    "ma25": 65296.44,
-    "ma75": 66635.96,
+    "ma25": 65267.02,
+    "ma75": 66636.82,
     "trend": "戻り歩調",
-    "pos52": 77,
+    "pos52": 75,
     "spark": [
-     61434.19,
      61867.43,
      64362.02,
      63754.9,
@@ -478,14 +498,371 @@
      65018.95,
      65513.99,
      66364.2,
-     65877.62
+     65877.62,
+     65481.27
     ],
     "currency": "JPY",
     "exchange_name": "Osaka",
     "market_open": true,
     "symbol": "^N225",
     "source": "yahoo",
-    "fetched_at": "2026-09-30T01:08:04.259527+00:00"
+    "fetched_at": "2026-09-30T02:08:11.734749+00:00"
+   }
+  },
+  {
+   "key": "NAME:サンディスク",
+   "name": "サンディスク",
+   "name_en": "SanDisk",
+   "ticker": "",
+   "market": "US",
+   "mentions": [
+    {
+     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+     "channel_name": "Trader's Lab",
+     "channel_short": "TL",
+     "slot": 1,
+     "video_id": "wu6swAWtcQI",
+     "video_title": "【日経平均】 急落の動き目立つ 63000円台まで 下がる可能性あり サンディスク・キオクシア・スカイフォール・アキッパ・レイヤード",
+     "published": "2026-09-29T11:11:10+00:00",
+     "stance": "neutral",
+     "stance_note": "高値更新傾向も全体の地合い次第で急変のリスクあり",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "キオクシアと比較して株価は直近高値を更新して推移しており、移動平均線のゴールデンクロスも視野に入る良好な形状をしている。",
+      "ただし相場全体の地合い次第では25日線を急激に下回って下落転換するリスクも秘めているため注意を要する。"
+     ],
+     "timestamp": "22:12",
+     "seconds": 1332,
+     "confidence": "low"
+    }
+   ],
+   "consensus": {
+    "bullish": 0,
+    "bearish": 0,
+    "neutral": 1
+   },
+   "voices": 1,
+   "split": false,
+   "last_mentioned": "2026-09-29T11:11:10+00:00",
+   "channel_ids": [
+    "UCsaeHha7ai_NNX8or8Jyb-g"
+   ],
+   "price": {
+    "date": "2026-09-29",
+    "close": 1729.76,
+    "change_pct": 0.98,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 5932700,
+    "volume_ratio": 0.59,
+    "rsi14": 54.2,
+    "rsi_zone": "中立",
+    "ma25": 1647.34,
+    "ma75": 1646.72,
+    "trend": "上昇基調",
+    "pos52": 73,
+    "spark": [
+     1427.62,
+     1350.5,
+     1258.58,
+     1212.21,
+     1237.92,
+     1271.05,
+     1344.29,
+     1528.11,
+     1641.11,
+     1786.85,
+     1625.78,
+     1568.87,
+     1600.62,
+     1596.08,
+     1493.12,
+     1480.77,
+     1499.37,
+     1484.95,
+     1484.98,
+     1566.7,
+     1536.87,
+     1553.4,
+     1554.99,
+     1740.0,
+     1737.99,
+     1764.17,
+     1692.59,
+     1633.35,
+     1551.99,
+     1530.9,
+     1519.97,
+     1614.39,
+     1791.82,
+     1766.64,
+     1887.04,
+     1816.57,
+     1753.62,
+     1777.8,
+     1712.89,
+     1729.76
+    ],
+    "currency": "USD",
+    "exchange_name": "NasdaqGS",
+    "market_open": false,
+    "symbol": "SNDK",
+    "source": "yahoo-search",
+    "fetched_at": "2026-09-30T02:08:11.734749+00:00"
+   }
+  },
+  {
+   "key": "NAME:スカイフォール",
+   "name": "スカイフォール",
+   "name_en": "Skyfall",
+   "ticker": "",
+   "market": "JP",
+   "mentions": [
+    {
+     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+     "channel_name": "Trader's Lab",
+     "channel_short": "TL",
+     "slot": 1,
+     "video_id": "wu6swAWtcQI",
+     "video_title": "【日経平均】 急落の動き目立つ 63000円台まで 下がる可能性あり サンディスク・キオクシア・スカイフォール・アキッパ・レイヤード",
+     "published": "2026-09-29T11:11:10+00:00",
+     "stance": "bullish",
+     "stance_note": "短期資金の流入により勢いが続く可能性がある",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "上場後の高値を更新したタイミングで急騰してストップ高となり、過去最高の出来高を記録するなど短期資金の流入が目立つ。",
+      "時価総額が小さく浮動株数が少ないため、買い注文が集まると売り物が出にくく短期的に勢いが持続しやすい。"
+     ],
+     "timestamp": "23:48",
+     "seconds": 1428,
+     "confidence": "high"
+    }
+   ],
+   "consensus": {
+    "bullish": 1,
+    "bearish": 0,
+    "neutral": 0
+   },
+   "voices": 1,
+   "split": false,
+   "last_mentioned": "2026-09-29T11:11:10+00:00",
+   "channel_ids": [
+    "UCsaeHha7ai_NNX8or8Jyb-g"
+   ],
+   "price": {
+    "date": "2026-09-29",
+    "close": 2080.0,
+    "change_pct": 23.81,
+    "live": 2510.0,
+    "live_change_pct": 20.67,
+    "live_time": 1790733200,
+    "volume": 17890000,
+    "volume_ratio": null,
+    "rsi14": null,
+    "rsi_zone": "",
+    "ma25": null,
+    "ma75": null,
+    "trend": "判定不可",
+    "pos52": null,
+    "spark": [
+     1523.0,
+     1555.0,
+     1613.0,
+     1627.0,
+     1680.0,
+     2080.0
+    ],
+    "currency": "JPY",
+    "exchange_name": "Tokyo",
+    "market_open": true,
+    "symbol": "625A.T",
+    "source": "yahoo-search",
+    "fetched_at": "2026-09-30T02:08:11.734749+00:00"
+   }
+  },
+  {
+   "key": "NAME:あきっぱ",
+   "name": "あきっぱ",
+   "name_en": "akippa",
+   "ticker": "",
+   "market": "JP",
+   "mentions": [
+    {
+     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+     "channel_name": "Trader's Lab",
+     "channel_short": "TL",
+     "slot": 1,
+     "video_id": "wu6swAWtcQI",
+     "video_title": "【日経平均】 急落の動き目立つ 63000円台まで 下がる可能性あり サンディスク・キオクシア・スカイフォール・アキッパ・レイヤード",
+     "published": "2026-09-29T11:11:10+00:00",
+     "stance": "bearish",
+     "stance_note": "上髭陰線の出現でシコリ玉が懸念され短期調整へ",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "出来高は高水準であるものの長い上髭を伴う陰線を形成しており、高値圏での戻り売りシコリが懸念されるチャート形状となった。",
+      "ザラバ安値を下割ると下落が加速する恐れがあり、過去の窓埋め水準である1637円付近まで落ち着くのを見極める必要がある。"
+     ],
+     "timestamp": "26:23",
+     "seconds": 1583,
+     "confidence": "high"
+    },
+    {
+     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+     "channel_name": "Trader's Lab",
+     "channel_short": "TL",
+     "slot": 1,
+     "video_id": "2LPgznQkjdI",
+     "video_title": "【日経平均】 違和感のある上昇 週明け相場 意識するのは〇〇 サンディスク・キオクシア・アキッパ・レイヤード・ニデック",
+     "published": "2026-09-28T11:00:38+00:00",
+     "stance": "neutral",
+     "stance_note": "ストップ高連発の超短期マネー流入相場",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "時価総額と浮動株数が非常に少なく大口資金の影響を受けやすいため、超短期資金が集まり急騰している点。",
+      "勢いと出来高がある内は青天井だがチャート分析は困難で、過熱感があるためリスク管理が必要なこと。"
+     ],
+     "timestamp": "23:19",
+     "seconds": 1399,
+     "confidence": "medium"
+    }
+   ],
+   "consensus": {
+    "bullish": 0,
+    "bearish": 1,
+    "neutral": 0
+   },
+   "voices": 1,
+   "split": false,
+   "last_mentioned": "2026-09-29T11:11:10+00:00",
+   "channel_ids": [
+    "UCsaeHha7ai_NNX8or8Jyb-g"
+   ],
+   "price": {
+    "date": "2026-09-29",
+    "close": 2105.0,
+    "change_pct": 3.34,
+    "live": 2290.0,
+    "live_change_pct": 8.79,
+    "live_time": 1790733204,
+    "volume": 40989800,
+    "volume_ratio": null,
+    "rsi14": null,
+    "rsi_zone": "",
+    "ma25": null,
+    "ma75": null,
+    "trend": "判定不可",
+    "pos52": null,
+    "spark": [
+     1037.0,
+     1337.0,
+     1637.0,
+     2037.0,
+     2105.0
+    ],
+    "currency": "JPY",
+    "exchange_name": "Tokyo",
+    "market_open": true,
+    "symbol": "627A.T",
+    "source": "yahoo-search",
+    "fetched_at": "2026-09-30T02:08:11.734749+00:00"
+   }
+  },
+  {
+   "key": "NAME:レイヤード",
+   "name": "レイヤード",
+   "name_en": "Layered",
+   "ticker": "",
+   "market": "JP",
+   "mentions": [
+    {
+     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+     "channel_name": "Trader's Lab",
+     "channel_short": "TL",
+     "slot": 1,
+     "video_id": "wu6swAWtcQI",
+     "video_title": "【日経平均】 急落の動き目立つ 63000円台まで 下がる可能性あり サンディスク・キオクシア・スカイフォール・アキッパ・レイヤード",
+     "published": "2026-09-29T11:11:10+00:00",
+     "stance": "bullish",
+     "stance_note": "低時価総額による爆発的な上昇が継続している",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "時価総額が約74億円と非常に低く、浮動株の少なさから資金流入による爆発的なストップ高上昇が起きている。",
+      "上場からの日が浅く高値追いの展開が続いており、短期的な話題性と強い需給によってさらに上値を試す可能性がある。"
+     ],
+     "timestamp": "28:28",
+     "seconds": 1708,
+     "confidence": "high"
+    },
+    {
+     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+     "channel_name": "Trader's Lab",
+     "channel_short": "TL",
+     "slot": 1,
+     "video_id": "2LPgznQkjdI",
+     "video_title": "【日経平均】 違和感のある上昇 週明け相場 意識するのは〇〇 サンディスク・キオクシア・アキッパ・レイヤード・ニデック",
+     "published": "2026-09-28T11:00:38+00:00",
+     "stance": "neutral",
+     "stance_note": "IPO直後の短期マネー集中による高ボラ相場",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "医療関連DX支援を手掛けるが、時価総額の低さから大口の短期資金が一気に流入して急騰している点。",
+      "流通株式数が少なく売り物が出にくい構造だが、テーマの旬が過ぎると急激に暴落する懸念がある点。"
+     ],
+     "timestamp": "25:03",
+     "seconds": 1503,
+     "confidence": "medium"
+    }
+   ],
+   "consensus": {
+    "bullish": 1,
+    "bearish": 0,
+    "neutral": 0
+   },
+   "voices": 1,
+   "split": false,
+   "last_mentioned": "2026-09-29T11:11:10+00:00",
+   "channel_ids": [
+    "UCsaeHha7ai_NNX8or8Jyb-g"
+   ],
+   "price": {
+    "date": "2026-09-29",
+    "close": 3115.0,
+    "change_pct": 19.3,
+    "live": 3815.0,
+    "live_change_pct": 22.47,
+    "live_time": 1790728593,
+    "volume": 1858700,
+    "volume_ratio": null,
+    "rsi14": null,
+    "rsi_zone": "",
+    "ma25": null,
+    "ma75": null,
+    "trend": "判定不可",
+    "pos52": null,
+    "spark": [
+     2111.0,
+     2611.0,
+     3115.0
+    ],
+    "currency": "JPY",
+    "exchange_name": "Tokyo",
+    "market_open": true,
+    "symbol": "634A.T",
+    "source": "yahoo-search",
+    "fetched_at": "2026-09-30T02:08:11.734749+00:00"
    }
   },
   {
@@ -515,48 +892,26 @@
      "timestamp": "15:02",
      "seconds": 902,
      "confidence": "medium"
-    },
-    {
-     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-     "channel_name": "Trader's Lab",
-     "channel_short": "TL",
-     "slot": 1,
-     "video_id": "vXbYa6zvXvY",
-     "video_title": "【日経平均】 違和感のある上昇 週明け相場 意識するのは〇〇 サンディスク・キオクシア・東京エレクトロン・イビデン・アキッパ",
-     "published": "2026-09-25T10:24:43+00:00",
-     "stance": "neutral",
-     "stance_note": "レンジ内での推移で中途半端な動き",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "7月安値と8月高値の間のレンジ内で推移しており、明確なトレンドが出ていないため。",
-      "週足で13週線や転換線が下向きで上値抵抗が多く、日経平均の重荷となっているため。"
-     ],
-     "timestamp": "20:42",
-     "seconds": 1242,
-     "confidence": "medium"
     }
    ],
    "consensus": {
     "bullish": 1,
     "bearish": 0,
-    "neutral": 1
+    "neutral": 0
    },
-   "voices": 2,
+   "voices": 1,
    "split": false,
    "last_mentioned": "2026-09-29T09:15:01+00:00",
    "channel_ids": [
-    "UCK9Pl6bbWqMC_x7IDca2tIg",
-    "UCsaeHha7ai_NNX8or8Jyb-g"
+    "UCK9Pl6bbWqMC_x7IDca2tIg"
    ],
    "price": {
     "date": "2026-09-29",
     "close": 11505.0,
     "change_pct": 2.14,
-    "live": 11720.0,
-    "live_change_pct": 1.87,
-    "live_time": 1790729587,
+    "live": 11860.0,
+    "live_change_pct": 3.09,
+    "live_time": 1790733207,
     "volume": 12075600,
     "volume_ratio": 0.82,
     "rsi14": 58.5,
@@ -612,134 +967,7 @@
     "market_open": true,
     "symbol": "8035.T",
     "source": "yahoo",
-    "fetched_at": "2026-09-30T01:08:04.259527+00:00"
-   }
-  },
-  {
-   "key": "JP:4062",
-   "name": "イビデン",
-   "name_en": "Ibiden",
-   "ticker": "4062",
-   "market": "JP",
-   "mentions": [
-    {
-     "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-     "channel_name": "トレーダーTOMO",
-     "channel_short": "TOMO",
-     "slot": 2,
-     "video_id": "YMNi3DZXsj4",
-     "video_title": "今日の活況銘柄を見てみる！（太陽誘電・アドバンテスト・キオクシア・村田製作所・ソフバン等）株式テクニカルチャート分析",
-     "published": "2026-09-28T08:09:28+00:00",
-     "stance": "neutral",
-     "stance_note": "分割後の1万円付近での動きを静観",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "動画で想定していたVライン等のエントリー候補位置を下回ってスタートし、そのまま下方へ下落したため速やかな損切りが必要な展開だったため。",
-      "下値の2万2500円付近で持ち合っており株式分割実施後に株価1万円付近となった段階でどのような動きをするか静観すべきであるため。"
-     ],
-     "timestamp": "09:37",
-     "seconds": 577,
-     "confidence": "medium"
-    },
-    {
-     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-     "channel_name": "Trader's Lab",
-     "channel_short": "TL",
-     "slot": 1,
-     "video_id": "vXbYa6zvXvY",
-     "video_title": "【日経平均】 違和感のある上昇 週明け相場 意識するのは〇〇 サンディスク・キオクシア・東京エレクトロン・イビデン・アキッパ",
-     "published": "2026-09-25T10:24:43+00:00",
-     "stance": "bullish",
-     "stance_note": "月足で長期トレンド継続、レンジ上抜け",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "エヌビディアCEOの発言報道を材料に直近のレンジを上抜けして上昇しているため。",
-      "月足ベースでトレンドフォローが継続しており、長期目線で見れば堅調なチャート形状のため。"
-     ],
-     "timestamp": "22:09",
-     "seconds": 1329,
-     "confidence": "medium"
-    }
-   ],
-   "consensus": {
-    "bullish": 1,
-    "bearish": 0,
-    "neutral": 1
-   },
-   "voices": 2,
-   "split": false,
-   "last_mentioned": "2026-09-28T08:09:28+00:00",
-   "channel_ids": [
-    "UCdQdRRLoajrt-5TEaAxslxA",
-    "UCsaeHha7ai_NNX8or8Jyb-g"
-   ],
-   "price": {
-    "date": "2026-09-29",
-    "close": 11020.0,
-    "change_pct": -1.21,
-    "live": 10915.0,
-    "live_change_pct": -0.95,
-    "live_time": 1790729593,
-    "volume": 7653400,
-    "volume_ratio": 0.48,
-    "rsi14": 57.2,
-    "rsi_zone": "中立",
-    "ma25": 10203.4,
-    "ma75": 10136.43,
-    "trend": "上昇基調",
-    "pos52": 80,
-    "spark": [
-     6825.0,
-     8325.0,
-     7767.5,
-     8165.0,
-     10165.0,
-     9505.0,
-     9555.0,
-     9940.0,
-     10240.0,
-     10780.0,
-     10392.5,
-     10790.0,
-     10437.5,
-     9857.5,
-     9575.0,
-     9595.0,
-     9397.5,
-     9990.0,
-     10040.0,
-     10272.5,
-     10087.5,
-     10227.5,
-     10272.5,
-     10102.5,
-     9860.0,
-     10237.5,
-     11100.0,
-     10405.0,
-     10710.0,
-     10340.0,
-     9780.0,
-     9570.0,
-     9557.5,
-     9475.0,
-     9237.5,
-     9777.5,
-     11202.5,
-     11672.5,
-     11155.0,
-     11020.0
-    ],
-    "currency": "JPY",
-    "exchange_name": "Tokyo",
-    "market_open": true,
-    "symbol": "4062.T",
-    "source": "yahoo",
-    "fetched_at": "2026-09-30T01:08:04.259527+00:00"
+    "fetched_at": "2026-09-30T02:08:11.734749+00:00"
    }
   },
   {
@@ -785,9 +1013,9 @@
     "date": "2026-09-29",
     "close": 41000.0,
     "change_pct": 2.5,
-    "live": 41850.0,
-    "live_change_pct": 2.07,
-    "live_time": 1790729593,
+    "live": 41490.0,
+    "live_change_pct": 1.2,
+    "live_time": 1790733205,
     "volume": 4671500,
     "volume_ratio": 1.49,
     "rsi14": 62.6,
@@ -843,7 +1071,7 @@
     "market_open": true,
     "symbol": "6920.T",
     "source": "yahoo",
-    "fetched_at": "2026-09-30T01:08:04.259527+00:00"
+    "fetched_at": "2026-09-30T02:08:11.734749+00:00"
    }
   },
   {
@@ -891,7 +1119,7 @@
     "change_pct": 1.41,
     "live": 3720.0,
     "live_change_pct": -0.32,
-    "live_time": 1790729595,
+    "live_time": 1790733212,
     "volume": 15962200,
     "volume_ratio": 1.15,
     "rsi14": 50.0,
@@ -947,145 +1175,7 @@
     "market_open": true,
     "symbol": "6758.T",
     "source": "yahoo",
-    "fetched_at": "2026-09-30T01:08:04.259527+00:00"
-   }
-  },
-  {
-   "key": "NAME:あきっぱ",
-   "name": "あきっぱ",
-   "name_en": "akippa Inc.",
-   "ticker": "",
-   "market": "JP",
-   "mentions": [
-    {
-     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-     "channel_name": "Trader's Lab",
-     "channel_short": "TL",
-     "slot": 1,
-     "video_id": "2LPgznQkjdI",
-     "video_title": "【日経平均】 違和感のある上昇 週明け相場 意識するのは〇〇 サンディスク・キオクシア・アキッパ・レイヤード・ニデック",
-     "published": "2026-09-28T11:00:38+00:00",
-     "stance": "neutral",
-     "stance_note": "ストップ高連発の超短期マネー流入相場",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "時価総額と浮動株数が非常に少なく大口資金の影響を受けやすいため、超短期資金が集まり急騰している点。",
-      "勢いと出来高がある内は青天井だがチャート分析は困難で、過熱感があるためリスク管理が必要なこと。"
-     ],
-     "timestamp": "23:19",
-     "seconds": 1399,
-     "confidence": "medium"
-    }
-   ],
-   "consensus": {
-    "bullish": 0,
-    "bearish": 0,
-    "neutral": 1
-   },
-   "voices": 1,
-   "split": false,
-   "last_mentioned": "2026-09-28T11:00:38+00:00",
-   "channel_ids": [
-    "UCsaeHha7ai_NNX8or8Jyb-g"
-   ],
-   "price": {
-    "date": "2026-09-29",
-    "close": 2105.0,
-    "change_pct": 3.34,
-    "live": 2128.0,
-    "live_change_pct": 1.09,
-    "live_time": 1790729601,
-    "volume": 40989800,
-    "volume_ratio": null,
-    "rsi14": null,
-    "rsi_zone": "",
-    "ma25": null,
-    "ma75": null,
-    "trend": "判定不可",
-    "pos52": null,
-    "spark": [
-     1037.0,
-     1337.0,
-     1637.0,
-     2037.0,
-     2105.0
-    ],
-    "currency": "JPY",
-    "exchange_name": "Tokyo",
-    "market_open": true,
-    "symbol": "627A.T",
-    "source": "yahoo-search",
-    "fetched_at": "2026-09-30T01:08:04.259527+00:00"
-   }
-  },
-  {
-   "key": "NAME:レイヤード",
-   "name": "レイヤード",
-   "name_en": "Layered Inc.",
-   "ticker": "",
-   "market": "JP",
-   "mentions": [
-    {
-     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-     "channel_name": "Trader's Lab",
-     "channel_short": "TL",
-     "slot": 1,
-     "video_id": "2LPgznQkjdI",
-     "video_title": "【日経平均】 違和感のある上昇 週明け相場 意識するのは〇〇 サンディスク・キオクシア・アキッパ・レイヤード・ニデック",
-     "published": "2026-09-28T11:00:38+00:00",
-     "stance": "neutral",
-     "stance_note": "IPO直後の短期マネー集中による高ボラ相場",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "医療関連DX支援を手掛けるが、時価総額の低さから大口の短期資金が一気に流入して急騰している点。",
-      "流通株式数が少なく売り物が出にくい構造だが、テーマの旬が過ぎると急激に暴落する懸念がある点。"
-     ],
-     "timestamp": "25:03",
-     "seconds": 1503,
-     "confidence": "medium"
-    }
-   ],
-   "consensus": {
-    "bullish": 0,
-    "bearish": 0,
-    "neutral": 1
-   },
-   "voices": 1,
-   "split": false,
-   "last_mentioned": "2026-09-28T11:00:38+00:00",
-   "channel_ids": [
-    "UCsaeHha7ai_NNX8or8Jyb-g"
-   ],
-   "price": {
-    "date": "2026-09-29",
-    "close": 3115.0,
-    "change_pct": 19.3,
-    "live": 3815.0,
-    "live_change_pct": 22.47,
-    "live_time": 1790728593,
-    "volume": 1858700,
-    "volume_ratio": null,
-    "rsi14": null,
-    "rsi_zone": "",
-    "ma25": null,
-    "ma75": null,
-    "trend": "判定不可",
-    "pos52": null,
-    "spark": [
-     2111.0,
-     2611.0,
-     3115.0
-    ],
-    "currency": "JPY",
-    "exchange_name": "Tokyo",
-    "market_open": true,
-    "symbol": "634A.T",
-    "source": "yahoo-search",
-    "fetched_at": "2026-09-30T01:08:04.259527+00:00"
+    "fetched_at": "2026-09-30T02:08:11.734749+00:00"
    }
   },
   {
@@ -1132,9 +1222,9 @@
     "date": "2026-09-29",
     "close": 6035.0,
     "change_pct": -3.35,
-    "live": 6292.0,
-    "live_change_pct": 4.26,
-    "live_time": 1790729605,
+    "live": 6388.0,
+    "live_change_pct": 5.85,
+    "live_time": 1790733214,
     "volume": 64169100,
     "volume_ratio": 1.08,
     "rsi14": 51.2,
@@ -1190,7 +1280,7 @@
     "market_open": true,
     "symbol": "9984.T",
     "source": "yahoo",
-    "fetched_at": "2026-09-30T01:08:04.259527+00:00"
+    "fetched_at": "2026-09-30T02:08:11.734749+00:00"
    }
   },
   {
@@ -1237,9 +1327,9 @@
     "date": "2026-09-29",
     "close": 9117.0,
     "change_pct": 0.26,
-    "live": 9695.0,
-    "live_change_pct": 6.34,
-    "live_time": 1790729608,
+    "live": 9499.0,
+    "live_change_pct": 4.19,
+    "live_time": 1790733217,
     "volume": 21902900,
     "volume_ratio": 0.81,
     "rsi14": 45.9,
@@ -1295,7 +1385,7 @@
     "market_open": true,
     "symbol": "6976.T",
     "source": "yahoo",
-    "fetched_at": "2026-09-30T01:08:04.259527+00:00"
+    "fetched_at": "2026-09-30T02:08:11.734749+00:00"
    }
   },
   {
@@ -1342,9 +1432,9 @@
     "date": "2026-09-29",
     "close": 8089.0,
     "change_pct": 1.06,
-    "live": 8004.0,
-    "live_change_pct": -1.05,
-    "live_time": 1790729610,
+    "live": 7899.0,
+    "live_change_pct": -2.35,
+    "live_time": 1790733219,
     "volume": 16950500,
     "volume_ratio": 0.84,
     "rsi14": 58.6,
@@ -1400,7 +1490,7 @@
     "market_open": true,
     "symbol": "6981.T",
     "source": "yahoo",
-    "fetched_at": "2026-09-30T01:08:04.259527+00:00"
+    "fetched_at": "2026-09-30T02:08:11.734749+00:00"
    }
   },
   {
@@ -1447,9 +1537,9 @@
     "date": "2026-09-29",
     "close": 4931.0,
     "change_pct": -0.52,
-    "live": 5182.0,
-    "live_change_pct": 5.09,
-    "live_time": 1790729612,
+    "live": 5221.0,
+    "live_change_pct": 5.88,
+    "live_time": 1790733222,
     "volume": 24796700,
     "volume_ratio": 0.62,
     "rsi14": 46.8,
@@ -1505,7 +1595,7 @@
     "market_open": true,
     "symbol": "5803.T",
     "source": "yahoo",
-    "fetched_at": "2026-09-30T01:08:04.259527+00:00"
+    "fetched_at": "2026-09-30T02:08:11.734749+00:00"
    }
   },
   {
@@ -1552,9 +1642,9 @@
     "date": "2026-09-29",
     "close": 1953.0,
     "change_pct": -4.82,
-    "live": 1950.0,
-    "live_change_pct": -0.15,
-    "live_time": 1790729605,
+    "live": 1937.0,
+    "live_change_pct": -0.82,
+    "live_time": 1790733208,
     "volume": 6337400,
     "volume_ratio": 1.19,
     "rsi14": 57.9,
@@ -1610,7 +1700,7 @@
     "market_open": true,
     "symbol": "3905.T",
     "source": "yahoo",
-    "fetched_at": "2026-09-30T01:08:04.259527+00:00"
+    "fetched_at": "2026-09-30T02:08:11.734749+00:00"
    }
   },
   {
@@ -1657,9 +1747,9 @@
     "date": "2026-09-29",
     "close": 9331.0,
     "change_pct": 1.77,
-    "live": 9435.0,
-    "live_change_pct": 1.11,
-    "live_time": 1790729615,
+    "live": 9526.0,
+    "live_change_pct": 2.09,
+    "live_time": 1790733226,
     "volume": 7493400,
     "volume_ratio": 0.95,
     "rsi14": 59.1,
@@ -1715,140 +1805,35 @@
     "market_open": true,
     "symbol": "6525.T",
     "source": "yahoo",
-    "fetched_at": "2026-09-30T01:08:04.259527+00:00"
+    "fetched_at": "2026-09-30T02:08:11.734749+00:00"
    }
   },
   {
-   "key": "JP:8306",
-   "name": "三菱UFJフィナンシャル・グループ",
-   "name_en": "Mitsubishi UFJ Financial Group, Inc.",
-   "ticker": "8306",
+   "key": "JP:4062",
+   "name": "イビデン",
+   "name_en": "Ibiden",
+   "ticker": "4062",
    "market": "JP",
    "mentions": [
     {
-     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-     "channel_name": "Trader's Lab",
-     "channel_short": "TL",
-     "slot": 1,
-     "video_id": "vXbYa6zvXvY",
-     "video_title": "【日経平均】 違和感のある上昇 週明け相場 意識するのは〇〇 サンディスク・キオクシア・東京エレクトロン・イビデン・アキッパ",
-     "published": "2026-09-25T10:24:43+00:00",
-     "stance": "bullish",
-     "stance_note": "中長期の投資目線で上昇トレンド継続",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "金利高の影響で利ざや改善期待があり、トピックス上昇を牽引する強いモメンタムがあるため。",
-      "週足・月足ともにトレンドフォローが継続しており、高値圏でのレンジを維持し中長期的に良好。"
-     ],
-     "timestamp": "17:15",
-     "seconds": 1035,
-     "confidence": "medium"
-    }
-   ],
-   "consensus": {
-    "bullish": 1,
-    "bearish": 0,
-    "neutral": 0
-   },
-   "voices": 1,
-   "split": false,
-   "last_mentioned": "2026-09-25T10:24:43+00:00",
-   "channel_ids": [
-    "UCsaeHha7ai_NNX8or8Jyb-g"
-   ],
-   "price": {
-    "date": "2026-09-29",
-    "close": 3592.0,
-    "change_pct": -3.47,
-    "live": 3627.0,
-    "live_change_pct": 0.97,
-    "live_time": 1790729619,
-    "volume": 44278000,
-    "volume_ratio": 1.15,
-    "rsi14": 46.5,
-    "rsi_zone": "中立",
-    "ma25": 3646.88,
-    "ma75": 3521.87,
-    "trend": "調整中",
-    "pos52": 87,
-    "spark": [
-     3525.0,
-     3571.0,
-     3567.0,
-     3470.0,
-     3541.0,
-     3574.0,
-     3564.0,
-     3510.0,
-     3606.0,
-     3709.0,
-     3686.0,
-     3649.0,
-     3654.0,
-     3495.0,
-     3464.0,
-     3508.0,
-     3481.0,
-     3529.0,
-     3579.0,
-     3608.0,
-     3658.0,
-     3680.0,
-     3700.0,
-     3684.0,
-     3754.0,
-     3785.0,
-     3711.0,
-     3656.0,
-     3601.0,
-     3662.0,
-     3661.0,
-     3720.0,
-     3668.0,
-     3655.0,
-     3652.0,
-     3620.0,
-     3573.0,
-     3714.0,
-     3721.0,
-     3592.0
-    ],
-    "currency": "JPY",
-    "exchange_name": "Tokyo",
-    "market_open": true,
-    "symbol": "8306.T",
-    "source": "yahoo",
-    "fetched_at": "2026-09-30T01:08:04.259527+00:00"
-   }
-  },
-  {
-   "key": "JP:5259",
-   "name": "akippa",
-   "name_en": "akippa Inc.",
-   "ticker": "5259",
-   "market": "JP",
-   "mentions": [
-    {
-     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-     "channel_name": "Trader's Lab",
-     "channel_short": "TL",
-     "slot": 1,
-     "video_id": "vXbYa6zvXvY",
-     "video_title": "【日経平均】 違和感のある上昇 週明け相場 意識するのは〇〇 サンディスク・キオクシア・東京エレクトロン・イビデン・アキッパ",
-     "published": "2026-09-25T10:24:43+00:00",
+     "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+     "channel_name": "トレーダーTOMO",
+     "channel_short": "TOMO",
+     "slot": 2,
+     "video_id": "YMNi3DZXsj4",
+     "video_title": "今日の活況銘柄を見てみる！（太陽誘電・アドバンテスト・キオクシア・村田製作所・ソフバン等）株式テクニカルチャート分析",
+     "published": "2026-09-28T08:09:28+00:00",
      "stance": "neutral",
-     "stance_note": "短期マネー流入による荒い値動きに注意",
+     "stance_note": "分割後の1万円付近での動きを静観",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "時価総額や浮動株数が少なく、業績の良さや出来高急増を背景にストップ高をつけたため。",
-      "短期的な資金流入で乱高下しやすく、リスク管理と適切な損切り設定が必要となるため。"
+      "動画で想定していたVライン等のエントリー候補位置を下回ってスタートし、そのまま下方へ下落したため速やかな損切りが必要な展開だったため。",
+      "下値の2万2500円付近で持ち合っており株式分割実施後に株価1万円付近となった段階でどのような動きをするか静観すべきであるため。"
      ],
-     "timestamp": "24:34",
-     "seconds": 1474,
+     "timestamp": "09:37",
+     "seconds": 577,
      "confidence": "medium"
     }
    ],
@@ -1859,38 +1844,73 @@
    },
    "voices": 1,
    "split": false,
-   "last_mentioned": "2026-09-25T10:24:43+00:00",
+   "last_mentioned": "2026-09-28T08:09:28+00:00",
    "channel_ids": [
-    "UCsaeHha7ai_NNX8or8Jyb-g"
+    "UCdQdRRLoajrt-5TEaAxslxA"
    ],
    "price": {
     "date": "2026-09-29",
-    "close": 2105.0,
-    "change_pct": 3.34,
-    "live": 2126.0,
-    "live_change_pct": 1.0,
-    "live_time": 1790729620,
-    "volume": 40989800,
-    "volume_ratio": null,
-    "rsi14": null,
-    "rsi_zone": "",
-    "ma25": null,
-    "ma75": null,
-    "trend": "判定不可",
-    "pos52": null,
+    "close": 11020.0,
+    "change_pct": -1.21,
+    "live": 10910.0,
+    "live_change_pct": -1.0,
+    "live_time": 1790733227,
+    "volume": 7653400,
+    "volume_ratio": 0.48,
+    "rsi14": 57.2,
+    "rsi_zone": "中立",
+    "ma25": 10203.4,
+    "ma75": 10136.43,
+    "trend": "上昇基調",
+    "pos52": 80,
     "spark": [
-     1037.0,
-     1337.0,
-     1637.0,
-     2037.0,
-     2105.0
+     6825.0,
+     8325.0,
+     7767.5,
+     8165.0,
+     10165.0,
+     9505.0,
+     9555.0,
+     9940.0,
+     10240.0,
+     10780.0,
+     10392.5,
+     10790.0,
+     10437.5,
+     9857.5,
+     9575.0,
+     9595.0,
+     9397.5,
+     9990.0,
+     10040.0,
+     10272.5,
+     10087.5,
+     10227.5,
+     10272.5,
+     10102.5,
+     9860.0,
+     10237.5,
+     11100.0,
+     10405.0,
+     10710.0,
+     10340.0,
+     9780.0,
+     9570.0,
+     9557.5,
+     9475.0,
+     9237.5,
+     9777.5,
+     11202.5,
+     11672.5,
+     11155.0,
+     11020.0
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
     "market_open": true,
-    "symbol": "627A.T",
-    "source": "yahoo-search",
-    "fetched_at": "2026-09-30T01:08:04.259527+00:00"
+    "symbol": "4062.T",
+    "source": "yahoo",
+    "fetched_at": "2026-09-30T02:08:11.734749+00:00"
    }
   },
   {
@@ -1958,9 +1978,9 @@
     "date": "2026-09-29",
     "close": 1586.0,
     "change_pct": -4.92,
-    "live": 1570.5,
-    "live_change_pct": -0.98,
-    "live_time": 1790729617,
+    "live": 1561.5,
+    "live_change_pct": -1.54,
+    "live_time": 1790733229,
     "volume": 4236200,
     "volume_ratio": 0.82,
     "rsi14": 56.3,
@@ -2016,7 +2036,7 @@
     "market_open": true,
     "symbol": "5019.T",
     "source": "yahoo",
-    "fetched_at": "2026-09-30T01:08:04.259527+00:00"
+    "fetched_at": "2026-09-30T02:08:11.734749+00:00"
    }
   },
   {
@@ -2082,9 +2102,9 @@
     "date": "2026-09-29",
     "close": 4255.0,
     "change_pct": 0.73,
-    "live": 4222.0,
-    "live_change_pct": -0.78,
-    "live_time": 1790729598,
+    "live": 4207.0,
+    "live_change_pct": -1.13,
+    "live_time": 1790733226,
     "volume": 623200,
     "volume_ratio": 0.7,
     "rsi14": 69.5,
@@ -2140,7 +2160,7 @@
     "market_open": true,
     "symbol": "3132.T",
     "source": "yahoo",
-    "fetched_at": "2026-09-30T01:08:04.259527+00:00"
+    "fetched_at": "2026-09-30T02:08:11.734749+00:00"
    }
   },
   {
@@ -2206,9 +2226,9 @@
     "date": "2026-09-29",
     "close": 6885.0,
     "change_pct": 0.51,
-    "live": 6902.0,
-    "live_change_pct": 0.25,
-    "live_time": 1790729615,
+    "live": 6904.0,
+    "live_change_pct": 0.28,
+    "live_time": 1790733232,
     "volume": 5090100,
     "volume_ratio": 1.48,
     "rsi14": 53.4,
@@ -2264,7 +2284,7 @@
     "market_open": true,
     "symbol": "2914.T",
     "source": "yahoo",
-    "fetched_at": "2026-09-30T01:08:04.259527+00:00"
+    "fetched_at": "2026-09-30T02:08:11.734749+00:00"
    }
   },
   {
@@ -2310,9 +2330,9 @@
     "date": "2026-09-29",
     "close": 9780.0,
     "change_pct": 0.15,
-    "live": 9960.0,
-    "live_change_pct": 1.84,
-    "live_time": 1790729625,
+    "live": 9940.0,
+    "live_change_pct": 1.64,
+    "live_time": 1790733199,
     "volume": 1099900,
     "volume_ratio": 0.16,
     "rsi14": 56.1,
@@ -2368,7 +2388,7 @@
     "market_open": true,
     "symbol": "278A.T",
     "source": "yahoo",
-    "fetched_at": "2026-09-30T01:08:04.259527+00:00"
+    "fetched_at": "2026-09-30T02:08:11.734749+00:00"
    }
   },
   {
@@ -2414,9 +2434,9 @@
     "date": "2026-09-29",
     "close": 917.0,
     "change_pct": -2.65,
-    "live": 946.0,
-    "live_change_pct": 3.16,
-    "live_time": 1790729579,
+    "live": 942.0,
+    "live_change_pct": 2.73,
+    "live_time": 1790733221,
     "volume": 506600,
     "volume_ratio": 0.58,
     "rsi14": 44.9,
@@ -2472,7 +2492,7 @@
     "market_open": true,
     "symbol": "4592.T",
     "source": "yahoo",
-    "fetched_at": "2026-09-30T01:08:04.259527+00:00"
+    "fetched_at": "2026-09-30T02:08:11.734749+00:00"
    }
   }
  ]

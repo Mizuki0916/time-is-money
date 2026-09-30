@@ -117,6 +117,125 @@
    ]
   },
   {
+   "video_id": "wu6swAWtcQI",
+   "title": "【日経平均】 急落の動き目立つ 63000円台まで 下がる可能性あり サンディスク・キオクシア・スカイフォール・アキッパ・レイヤード",
+   "published": "2026-09-29T11:11:10+00:00",
+   "description": "※動画の趣旨は個人的主観の予測であり、値動きを保証するものではありません。\n　投資の判断は自己責任でお願いします。\n\n◉トレンド分析の基礎おすすめ動画\n【永久保存版】初心者でもわかるダウ理論の使い方【前編】\nhttps://youtu.be/re9XBR2qcBw\n【永久保存版】初心者でもわかるダウ理論の使い方【後編】\nhttps://youtu.be/Z21W4VFSs9g\n【知らなきゃ勝てない】移動平均線で相場を読む最強の方法\nhttps://youtu.be/FfSX8hcRR2I\n【一目均衡表の真髄】初心者でも分かる完全ガイド\nhttps://youtu.be/xPkb1twTFFI\n\n◉SBI証券株式会社キャンペーン　手数料無料、取引ツール便利PR\nhttps://h.accesstrade.net/sp/cc?rk=0100q3pa00on8p\n\n◉松井証券証券株式会社キャンペ",
+   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+   "channel_name": "Trader's Lab",
+   "channel_short": "TL",
+   "slot": 1,
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "日経平均株価は権利落ちの影響を除けば小幅な動きにとどまり、対局の方向感を見極めるフェーズが続いています。米国市場や各指標で動きが揃わないなか、大型株への資金流入は停滞しており、短期資金は時価総額の小さいIPO銘柄や進行銘柄へ集中しています。全体のトレンドが不透明な環境下では、自身のトレードスタイルや時間軸に合わせた柔軟な対応が重要となります。",
+   "market_view": "日経平均や米株指数を含め全体的に方向感が定まっておらず、レンジ内での推移が予想されるため、明確なトレンドが出るまではリスク管理を最優先にした短期売買が中心となります。",
+   "market": "MIX",
+   "picks": [
+    {
+     "name": "日経平均株価",
+     "name_en": "Nikkei 225",
+     "ticker": "",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "上値ラインに抑えられ6万3000円台への調整リスクあり",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "上値抵抗線を超えられず下値支持線も割り込んでいるため、短期的にやや下方向へのモメンタムが強まりやすい形状である。",
+      "移動平均線や日足の雲が抵抗となっており、明確な転換がない限りは6万3000円から6万7000円のレンジ推移が想定される。"
+     ],
+     "timestamp": "09:00",
+     "confidence": "high"
+    },
+    {
+     "name": "キオクシア",
+     "name_en": "Kioxia Holdings Corporation",
+     "ticker": "285A",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "短期レンジ推移が続きデイトレ中心の対応が賢明",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "25日移動平均線付近での揉み合いが続いており、上値は日足の雲の加減に抑えられ方向感が定まっていない。",
+      "週足では13週線と26週線がデッドクロスしており上値が重いため、レンジを抜けるまではデイトレード主体の取引が向いている。"
+     ],
+     "timestamp": "20:43",
+     "confidence": "high"
+    },
+    {
+     "name": "サンディスク",
+     "name_en": "SanDisk",
+     "ticker": "",
+     "market": "US",
+     "stance": "neutral",
+     "stance_note": "高値更新傾向も全体の地合い次第で急変のリスクあり",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "キオクシアと比較して株価は直近高値を更新して推移しており、移動平均線のゴールデンクロスも視野に入る良好な形状をしている。",
+      "ただし相場全体の地合い次第では25日線を急激に下回って下落転換するリスクも秘めているため注意を要する。"
+     ],
+     "timestamp": "22:12",
+     "confidence": "low"
+    },
+    {
+     "name": "スカイフォール",
+     "name_en": "Skyfall",
+     "ticker": "",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "短期資金の流入により勢いが続く可能性がある",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "上場後の高値を更新したタイミングで急騰してストップ高となり、過去最高の出来高を記録するなど短期資金の流入が目立つ。",
+      "時価総額が小さく浮動株数が少ないため、買い注文が集まると売り物が出にくく短期的に勢いが持続しやすい。"
+     ],
+     "timestamp": "23:48",
+     "confidence": "high"
+    },
+    {
+     "name": "あきっぱ",
+     "name_en": "akippa",
+     "ticker": "",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "上髭陰線の出現でシコリ玉が懸念され短期調整へ",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "出来高は高水準であるものの長い上髭を伴う陰線を形成しており、高値圏での戻り売りシコリが懸念されるチャート形状となった。",
+      "ザラバ安値を下割ると下落が加速する恐れがあり、過去の窓埋め水準である1637円付近まで落ち着くのを見極める必要がある。"
+     ],
+     "timestamp": "26:23",
+     "confidence": "high"
+    },
+    {
+     "name": "レイヤード",
+     "name_en": "Layered",
+     "ticker": "",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "低時価総額による爆発的な上昇が継続している",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "時価総額が約74億円と非常に低く、浮動株の少なさから資金流入による爆発的なストップ高上昇が起きている。",
+      "上場からの日が浅く高値追いの展開が続いており、短期的な話題性と強い需給によってさらに上値を試す可能性がある。"
+     ],
+     "timestamp": "28:28",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
    "video_id": "2LPgznQkjdI",
    "title": "【日経平均】 違和感のある上昇 週明け相場 意識するのは〇〇 サンディスク・キオクシア・アキッパ・レイヤード・ニデック",
    "published": "2026-09-28T11:00:38+00:00",
@@ -215,108 +334,6 @@
      ],
      "timestamp": "27:00",
      "confidence": "high"
-    }
-   ]
-  },
-  {
-   "video_id": "vXbYa6zvXvY",
-   "title": "【日経平均】 違和感のある上昇 週明け相場 意識するのは〇〇 サンディスク・キオクシア・東京エレクトロン・イビデン・アキッパ",
-   "published": "2026-09-25T10:24:43+00:00",
-   "description": "※動画の趣旨は個人的主観の予測であり、値動きを保証するものではありません。\n　投資の判断は自己責任でお願いします。\n\nトレンド分析マスターコース\n「無料オンライン講座(全5回)」＆豪華特典プレゼント！\n【完全無料】→ https://www.fpo.jp/suzuki/\n\nサンワード証券セミナー申し込み\nhttps://www.sunward-t.co.jp/seminar/2026/09/26_3/index_k.html\n\n◉トレンド分析の基礎おすすめ動画\n【永久保存版】初心者でもわかるダウ理論の使い方【前編】\nhttps://youtu.be/re9XBR2qcBw\n【永久保存版】初心者でもわかるダウ理論の使い方【後編】\nhttps://youtu.be/Z21W4VFSs9g\n【知らなきゃ勝てない】移動平均線で相場を読む最強の方法\nhttps://youtu.be/FfSX8hcR",
-   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-   "channel_name": "Trader's Lab",
-   "channel_short": "TL",
-   "slot": 1,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "日経平均株価が5日続進したものの、チャート上では下げ止まりや上昇転換の確定に至っておらず、中途半端な動きが続いていると解説されています。トピックスや銀行株、米国株は堅調に推移している一方で、日経平均寄与度の高い個別株はまちまちの動きです。動画内では個別銘柄として三菱UFJ、キオクシア、東京エレクトロン、イビデン、akippaのチャート分析と売買視点が提示されています。",
-   "market_view": "日経平均は上値抵抗線がありトレンドが曖昧ですが、トピックスや銀行株などは中長期で強い上昇トレンドを維持しています。",
-   "market": "JP",
-   "picks": [
-    {
-     "name": "三菱UFJフィナンシャル・グループ",
-     "name_en": "Mitsubishi UFJ Financial Group, Inc.",
-     "ticker": "8306",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "中長期の投資目線で上昇トレンド継続",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "金利高の影響で利ざや改善期待があり、トピックス上昇を牽引する強いモメンタムがあるため。",
-      "週足・月足ともにトレンドフォローが継続しており、高値圏でのレンジを維持し中長期的に良好。"
-     ],
-     "timestamp": "17:15",
-     "confidence": "medium"
-    },
-    {
-     "name": "キオクシアホールディングス",
-     "name_en": "Kioxia Holdings Corporation",
-     "ticker": "285A",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "方向感がなく短期のデイトレ向きな状態",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "週足で13週線が下向きで抑え込まれており、数ヶ月間レンジ相場で方向感が見えないため。",
-      "日足でも雲の下限に頭を抑えられており、上値が重く中長期での予測が困難なため。"
-     ],
-     "timestamp": "19:07",
-     "confidence": "medium"
-    },
-    {
-     "name": "東京エレクトロン",
-     "name_en": "Tokyo Electron Limited",
-     "ticker": "8035",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "レンジ内での推移で中途半端な動き",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "7月安値と8月高値の間のレンジ内で推移しており、明確なトレンドが出ていないため。",
-      "週足で13週線や転換線が下向きで上値抵抗が多く、日経平均の重荷となっているため。"
-     ],
-     "timestamp": "20:42",
-     "confidence": "medium"
-    },
-    {
-     "name": "イビデン",
-     "name_en": "IBIDEN CO., LTD.",
-     "ticker": "4062",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "月足で長期トレンド継続、レンジ上抜け",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "エヌビディアCEOの発言報道を材料に直近のレンジを上抜けして上昇しているため。",
-      "月足ベースでトレンドフォローが継続しており、長期目線で見れば堅調なチャート形状のため。"
-     ],
-     "timestamp": "22:09",
-     "confidence": "medium"
-    },
-    {
-     "name": "akippa",
-     "name_en": "akippa Inc.",
-     "ticker": "5259",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "短期マネー流入による荒い値動きに注意",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "時価総額や浮動株数が少なく、業績の良さや出来高急増を背景にストップ高をつけたため。",
-      "短期的な資金流入で乱高下しやすく、リスク管理と適切な損切り設定が必要となるため。"
-     ],
-     "timestamp": "24:34",
-     "confidence": "medium"
     }
    ]
   },

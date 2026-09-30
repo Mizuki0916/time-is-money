@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-30T10:08:54.158878+09:00",
+ "generated_at": "2026-09-30T11:09:00.528967+09:00",
  "videos": [
   {
    "video_id": "kQdRSTK3p9g",
@@ -37,6 +37,58 @@
    "no_transcript": true,
    "skip_reason": "動画が非公開・削除・配信予定などで取得できません",
    "picks": []
+  },
+  {
+   "video_id": "wu6swAWtcQI",
+   "title": "【日経平均】 急落の動き目立つ 63000円台まで 下がる可能性あり サンディスク・キオクシア・スカイフォール・アキッパ・レイヤード",
+   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+   "channel_name": "Trader's Lab",
+   "channel_short": "TL",
+   "slot": 1,
+   "published": "2026-09-29T11:11:10+00:00",
+   "overview": "日経平均株価は権利落ちの影響を除けば小幅な動きにとどまり、対局の方向感を見極めるフェーズが続いています。米国市場や各指標で動きが揃わないなか、大型株への資金流入は停滞しており、短期資金は時価総額の小さいIPO銘柄や進行銘柄へ集中しています。全体のトレンドが不透明な環境下では、自身のトレードスタイルや時間軸に合わせた柔軟な対応が重要となります。",
+   "market_view": "日経平均や米株指数を含め全体的に方向感が定まっておらず、レンジ内での推移が予想されるため、明確なトレンドが出るまではリスク管理を最優先にした短期売買が中心となります。",
+   "market": "MIX",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "日経平均株価",
+     "ticker": "",
+     "stance": "bearish",
+     "timestamp": "09:00"
+    },
+    {
+     "name": "キオクシア",
+     "ticker": "285A",
+     "stance": "neutral",
+     "timestamp": "20:43"
+    },
+    {
+     "name": "サンディスク",
+     "ticker": "",
+     "stance": "neutral",
+     "timestamp": "22:12"
+    },
+    {
+     "name": "スカイフォール",
+     "ticker": "",
+     "stance": "bullish",
+     "timestamp": "23:48"
+    },
+    {
+     "name": "あきっぱ",
+     "ticker": "",
+     "stance": "bearish",
+     "timestamp": "26:23"
+    },
+    {
+     "name": "レイヤード",
+     "ticker": "",
+     "stance": "bullish",
+     "timestamp": "28:28"
+    }
+   ]
   },
   {
    "video_id": "KGCkXdGg0qI",
@@ -197,52 +249,6 @@
      "ticker": "4062",
      "stance": "neutral",
      "timestamp": "09:37"
-    }
-   ]
-  },
-  {
-   "video_id": "vXbYa6zvXvY",
-   "title": "【日経平均】 違和感のある上昇 週明け相場 意識するのは〇〇 サンディスク・キオクシア・東京エレクトロン・イビデン・アキッパ",
-   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-   "channel_name": "Trader's Lab",
-   "channel_short": "TL",
-   "slot": 1,
-   "published": "2026-09-25T10:24:43+00:00",
-   "overview": "日経平均株価が5日続進したものの、チャート上では下げ止まりや上昇転換の確定に至っておらず、中途半端な動きが続いていると解説されています。トピックスや銀行株、米国株は堅調に推移している一方で、日経平均寄与度の高い個別株はまちまちの動きです。動画内では個別銘柄として三菱UFJ、キオクシア、東京エレクトロン、イビデン、akippaのチャート分析と売買視点が提示されています。",
-   "market_view": "日経平均は上値抵抗線がありトレンドが曖昧ですが、トピックスや銀行株などは中長期で強い上昇トレンドを維持しています。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "三菱UFJフィナンシャル・グループ",
-     "ticker": "8306",
-     "stance": "bullish",
-     "timestamp": "17:15"
-    },
-    {
-     "name": "キオクシアホールディングス",
-     "ticker": "285A",
-     "stance": "neutral",
-     "timestamp": "19:07"
-    },
-    {
-     "name": "東京エレクトロン",
-     "ticker": "8035",
-     "stance": "neutral",
-     "timestamp": "20:42"
-    },
-    {
-     "name": "イビデン",
-     "ticker": "4062",
-     "stance": "bullish",
-     "timestamp": "22:09"
-    },
-    {
-     "name": "akippa",
-     "ticker": "5259",
-     "stance": "neutral",
-     "timestamp": "24:34"
     }
    ]
   },
