@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-01T03:49:09.028504+09:00",
+ "generated_at": "2026-10-01T07:32:55.058560+09:00",
  "channels": [
   {
    "id": "UCsaeHha7ai_NNX8or8Jyb-g",
@@ -15,7 +15,7 @@
    "short": "TOMO",
    "slot": 2,
    "video_count": 2,
-   "latest": "2026-09-29T12:20:03+00:00"
+   "latest": "2026-09-30T07:11:25+00:00"
   },
   {
    "id": "UCK9Pl6bbWqMC_x7IDca2tIg",
@@ -23,7 +23,7 @@
    "short": "Sho",
    "slot": 3,
    "video_count": 2,
-   "latest": "2026-09-30T09:15:01+00:00"
+   "latest": "2026-09-30T14:38:58+00:00"
   },
   {
    "id": "UCt7qqCkTFFRfKjXzwqUXq4g",
@@ -35,7 +35,7 @@
   }
  ],
  "stats": {
-  "stocks": 22,
+  "stocks": 18,
   "videos": 7,
   "videos_this_week": 5,
   "bullish_lead": 4,
@@ -71,6 +71,26 @@
      "timestamp": "23:12",
      "seconds": 1392,
      "confidence": "high"
+    },
+    {
+     "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+     "channel_name": "トレーダーTOMO",
+     "channel_short": "TOMO",
+     "slot": 2,
+     "video_id": "r2HPqx42amE",
+     "video_title": "今日の活況銘柄を見てみる！（キオクシア・ソフトバンクグループ・太陽誘電・村田製作所・アキッパ・スカイフォールなど）株式テクニカルチャート分析",
+     "published": "2026-09-30T07:11:25+00:00",
+     "stance": "bearish",
+     "stance_note": "板の弱さと出来高不足で上昇は困難",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "場中の板でアンダーが弱い状況が続いており、出来高3900万株程度では上昇に向けた出来高としては足りないため。"
+     ],
+     "timestamp": "09:00",
+     "seconds": 540,
+     "confidence": "medium"
     },
     {
      "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
@@ -114,33 +134,12 @@
      "timestamp": "20:43",
      "seconds": 1243,
      "confidence": "high"
-    },
-    {
-     "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-     "channel_name": "トレーダーTOMO",
-     "channel_short": "TOMO",
-     "slot": 2,
-     "video_id": "YMNi3DZXsj4",
-     "video_title": "今日の活況銘柄を見てみる！（太陽誘電・アドバンテスト・キオクシア・村田製作所・ソフバン等）株式テクニカルチャート分析",
-     "published": "2026-09-28T08:09:28+00:00",
-     "stance": "bearish",
-     "stance_note": "明日からの分割控え受給悪化が懸念",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "下ひげが付きにくくなり序盤から苦しい展開で、最終的にも大きく下落するなど板や足型からエントリーしづらい状況に変化しているため。",
-      "翌日から3分割されて投資単価が安くなるものの、それに伴う需給悪化を懸念する動きもあり足型が残念な形に崩れてしまったため。"
-     ],
-     "timestamp": "06:01",
-     "seconds": 361,
-     "confidence": "medium"
     }
    ],
    "consensus": {
     "bullish": 0,
-    "bearish": 0,
-    "neutral": 3
+    "bearish": 1,
+    "neutral": 2
    },
    "voices": 3,
    "split": false,
@@ -212,7 +211,7 @@
     "market_open": false,
     "symbol": "285A.T",
     "source": "yahoo",
-    "fetched_at": "2026-09-30T18:49:09.033913+00:00"
+    "fetched_at": "2026-09-30T22:32:55.160655+00:00"
    }
   },
   {
@@ -248,21 +247,21 @@
      "channel_name": "トレーダーTOMO",
      "channel_short": "TOMO",
      "slot": 2,
-     "video_id": "YMNi3DZXsj4",
-     "video_title": "今日の活況銘柄を見てみる！（太陽誘電・アドバンテスト・キオクシア・村田製作所・ソフバン等）株式テクニカルチャート分析",
-     "published": "2026-09-28T08:09:28+00:00",
+     "video_id": "r2HPqx42amE",
+     "video_title": "今日の活況銘柄を見てみる！（キオクシア・ソフトバンクグループ・太陽誘電・村田製作所・アキッパ・スカイフォールなど）株式テクニカルチャート分析",
+     "published": "2026-09-30T07:11:25+00:00",
      "stance": "bearish",
-     "stance_note": "上ひげ陰線でシコリ形成、静観が吉",
+     "stance_note": "1万円手前で押し戻され上値が重い",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "出来高はある程度あるものの連日の上ひげ陰線で上値にシコリを作る足型になっており、すんなり上値追いができない厳しい状況が続いているため。",
-      "デイトレードでは9000円等の節目のラインが支持線として機能しやすいが、大きく値を伸ばす狙い目としては現状リスクが高いため。"
+      "TDKとの共同開発報道を受けギャップアップでスタートするも、1万円手前で押し戻されシコリを生む足となったため。",
+      "出来高は3600万株あるものの信用改ざんが多く見た目以上に重いため、基本は1万円を超えてから狙うのが無難だから。"
      ],
-     "timestamp": "04:33",
-     "seconds": 273,
-     "confidence": "medium"
+     "timestamp": "04:40",
+     "seconds": 280,
+     "confidence": "high"
     }
    ],
    "consensus": {
@@ -339,7 +338,122 @@
     "market_open": false,
     "symbol": "6976.T",
     "source": "yahoo",
-    "fetched_at": "2026-09-30T18:49:09.033913+00:00"
+    "fetched_at": "2026-09-30T22:32:55.160655+00:00"
+   }
+  },
+  {
+   "key": "JP:625A",
+   "name": "スカイフォール",
+   "name_en": "Skyfall Inc.",
+   "ticker": "625A",
+   "market": "JP",
+   "mentions": [
+    {
+     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+     "channel_name": "Trader's Lab",
+     "channel_short": "TL",
+     "slot": 1,
+     "video_id": "MhSr-8LKlwU",
+     "video_title": "【日経平均】 大幅上昇 上昇転換の狼煙！ 太陽誘電・NOTE・ダイナミック・スカイフォール・アキッパ・レイヤード",
+     "published": "2026-09-30T11:07:43+00:00",
+     "stance": "neutral",
+     "stance_note": "高いリスクを踏まえ時間軸を絞ったデイトレ限定",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "ボラティリティが非常に高くリスクが大きいため、時間軸を明確に限定したデイトレードに徹する必要がある。",
+      "直近の高値ブレイクライン付近で下げ止まる動きが見られ、短期的な自立反発を狙う余地が残る。"
+     ],
+     "timestamp": "23:18",
+     "seconds": 1398,
+     "confidence": "low"
+    },
+    {
+     "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+     "channel_name": "トレーダーTOMO",
+     "channel_short": "TOMO",
+     "slot": 2,
+     "video_id": "r2HPqx42amE",
+     "video_title": "今日の活況銘柄を見てみる！（キオクシア・ソフトバンクグループ・太陽誘電・村田製作所・アキッパ・スカイフォールなど）株式テクニカルチャート分析",
+     "published": "2026-09-30T07:11:25+00:00",
+     "stance": "neutral",
+     "stance_note": "ストップ高後に崩れるもライン維持で注視",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "大幅ギャップアップ後に一時ストップ高を付けるも大幅下落し、他銘柄に資金が流れると厳しくなる傾向があるため。",
+      "前日出来高のあった1800円少し上のラインでぴったり下げ止まっており、明日以降復活する可能性も残されているため。"
+     ],
+     "timestamp": "09:28",
+     "seconds": 568,
+     "confidence": "medium"
+    },
+    {
+     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+     "channel_name": "Trader's Lab",
+     "channel_short": "TL",
+     "slot": 1,
+     "video_id": "wu6swAWtcQI",
+     "video_title": "【日経平均】 急落の動き目立つ 63000円台まで 下がる可能性あり サンディスク・キオクシア・スカイフォール・アキッパ・レイヤード",
+     "published": "2026-09-29T11:11:10+00:00",
+     "stance": "bullish",
+     "stance_note": "短期資金の流入により勢いが続く可能性がある",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "上場後の高値を更新したタイミングで急騰してストップ高となり、過去最高の出来高を記録するなど短期資金の流入が目立つ。",
+      "時価総額が小さく浮動株数が少ないため、買い注文が集まると売り物が出にくく短期的に勢いが持続しやすい。"
+     ],
+     "timestamp": "23:48",
+     "seconds": 1428,
+     "confidence": "high"
+    }
+   ],
+   "consensus": {
+    "bullish": 0,
+    "bearish": 0,
+    "neutral": 2
+   },
+   "voices": 2,
+   "split": false,
+   "last_mentioned": "2026-09-30T11:07:43+00:00",
+   "channel_ids": [
+    "UCdQdRRLoajrt-5TEaAxslxA",
+    "UCsaeHha7ai_NNX8or8Jyb-g"
+   ],
+   "price": {
+    "date": "2026-09-30",
+    "close": 1900.0,
+    "change_pct": -8.65,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 21511100,
+    "volume_ratio": null,
+    "rsi14": null,
+    "rsi_zone": "",
+    "ma25": null,
+    "ma75": null,
+    "trend": "判定不可",
+    "pos52": null,
+    "spark": [
+     1523.0,
+     1555.0,
+     1613.0,
+     1627.0,
+     1680.0,
+     2080.0,
+     1900.0
+    ],
+    "currency": "JPY",
+    "exchange_name": "Tokyo",
+    "market_open": false,
+    "symbol": "625A.T",
+    "source": "yahoo",
+    "fetched_at": "2026-09-30T22:32:55.160655+00:00"
    }
   },
   {
@@ -467,7 +581,7 @@
     "market_open": false,
     "symbol": "^N225",
     "source": "yahoo",
-    "fetched_at": "2026-09-30T18:49:09.033913+00:00"
+    "fetched_at": "2026-09-30T22:32:55.160655+00:00"
    }
   },
   {
@@ -503,27 +617,27 @@
      "channel_name": "トレーダーTOMO",
      "channel_short": "TOMO",
      "slot": 2,
-     "video_id": "YMNi3DZXsj4",
-     "video_title": "今日の活況銘柄を見てみる！（太陽誘電・アドバンテスト・キオクシア・村田製作所・ソフバン等）株式テクニカルチャート分析",
-     "published": "2026-09-28T08:09:28+00:00",
-     "stance": "neutral",
-     "stance_note": "8000円意識、太陽誘電より足型回復傾向",
+     "video_id": "r2HPqx42amE",
+     "video_title": "今日の活況銘柄を見てみる！（キオクシア・ソフトバンクグループ・太陽誘電・村田製作所・アキッパ・スカイフォールなど）株式テクニカルチャート分析",
+     "published": "2026-09-30T07:11:25+00:00",
+     "stance": "bearish",
+     "stance_note": "ネガティブ材料からギャップアップ陰線",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "8000円のラインが意識されており、太陽誘電と比較すると徐々に足型が回復傾向に向かっているものの、8300円付近での戻り売りが重いため。",
-      "今後これ以上足型を崩さないかが焦点であり、高い出来高を維持しながら明確な反転が見られるかを注視すべき段階にあるため。"
+      "他社の提携報道による競争激化懸念などのネガティブ要因が出たことでギャップアップからの陰線となり上値が重くなったため。",
+      "信用改ざんが多くアウトサイドする陰線を引いたことで上値の重さが意識され、限定的なトレードに留めるべきだから。"
      ],
-     "timestamp": "05:21",
-     "seconds": 321,
+     "timestamp": "08:12",
+     "seconds": 492,
      "confidence": "medium"
     }
    ],
    "consensus": {
     "bullish": 0,
-    "bearish": 1,
-    "neutral": 1
+    "bearish": 2,
+    "neutral": 0
    },
    "voices": 2,
    "split": false,
@@ -594,7 +708,7 @@
     "market_open": false,
     "symbol": "6981.T",
     "source": "yahoo",
-    "fetched_at": "2026-09-30T18:49:09.033913+00:00"
+    "fetched_at": "2026-09-30T22:32:55.160655+00:00"
    }
   },
   {
@@ -630,27 +744,27 @@
      "channel_name": "トレーダーTOMO",
      "channel_short": "TOMO",
      "slot": 2,
-     "video_id": "YMNi3DZXsj4",
-     "video_title": "今日の活況銘柄を見てみる！（太陽誘電・アドバンテスト・キオクシア・村田製作所・ソフバン等）株式テクニカルチャート分析",
-     "published": "2026-09-28T08:09:28+00:00",
-     "stance": "neutral",
-     "stance_note": "地合い悪化で上値重くライン意識",
+     "video_id": "r2HPqx42amE",
+     "video_title": "今日の活況銘柄を見てみる！（キオクシア・ソフトバンクグループ・太陽誘電・村田製作所・アキッパ・スカイフォールなど）株式テクニカルチャート分析",
+     "published": "2026-09-30T07:11:25+00:00",
+     "stance": "bullish",
+     "stance_note": "6400円台を固め更なる上値を狙える",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "上部の6400円ラインが天井として意識され下落したものの、下値の6200円ラインなど200円ごとの節目が意識されていることが確認できたため。",
-      "全体的な地合いが厳しい状況であったため上値追いは難しく、節目ラインを意識しながら慎重に見極める必要がある展開となっているため。"
+      "オープンAIのAIエージェント発表が材料視され大きなギャップアップとなり、6400円のラインを固める動きとなったため。",
+      "出来高は6500万株と注目度が高く、6800円を抜けることができれば7000円抜けに向けて上値が軽くなると見込めるため。"
      ],
-     "timestamp": "04:01",
-     "seconds": 241,
-     "confidence": "medium"
+     "timestamp": "05:29",
+     "seconds": 329,
+     "confidence": "high"
     }
    ],
    "consensus": {
-    "bullish": 1,
+    "bullish": 2,
     "bearish": 0,
-    "neutral": 1
+    "neutral": 0
    },
    "voices": 2,
    "split": false,
@@ -721,7 +835,7 @@
     "market_open": false,
     "symbol": "9984.T",
     "source": "yahoo",
-    "fetched_at": "2026-09-30T18:49:09.033913+00:00"
+    "fetched_at": "2026-09-30T22:32:55.160655+00:00"
    }
   },
   {
@@ -935,99 +1049,6 @@
    }
   },
   {
-   "key": "NAME:スカイフォール",
-   "name": "スカイフォール",
-   "name_en": "Skyfall Inc.",
-   "ticker": "",
-   "market": "JP",
-   "mentions": [
-    {
-     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-     "channel_name": "Trader's Lab",
-     "channel_short": "TL",
-     "slot": 1,
-     "video_id": "MhSr-8LKlwU",
-     "video_title": "【日経平均】 大幅上昇 上昇転換の狼煙！ 太陽誘電・NOTE・ダイナミック・スカイフォール・アキッパ・レイヤード",
-     "published": "2026-09-30T11:07:43+00:00",
-     "stance": "neutral",
-     "stance_note": "高いリスクを踏まえ時間軸を絞ったデイトレ限定",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "ボラティリティが非常に高くリスクが大きいため、時間軸を明確に限定したデイトレードに徹する必要がある。",
-      "直近の高値ブレイクライン付近で下げ止まる動きが見られ、短期的な自立反発を狙う余地が残る。"
-     ],
-     "timestamp": "23:18",
-     "seconds": 1398,
-     "confidence": "low"
-    },
-    {
-     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-     "channel_name": "Trader's Lab",
-     "channel_short": "TL",
-     "slot": 1,
-     "video_id": "wu6swAWtcQI",
-     "video_title": "【日経平均】 急落の動き目立つ 63000円台まで 下がる可能性あり サンディスク・キオクシア・スカイフォール・アキッパ・レイヤード",
-     "published": "2026-09-29T11:11:10+00:00",
-     "stance": "bullish",
-     "stance_note": "短期資金の流入により勢いが続く可能性がある",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "上場後の高値を更新したタイミングで急騰してストップ高となり、過去最高の出来高を記録するなど短期資金の流入が目立つ。",
-      "時価総額が小さく浮動株数が少ないため、買い注文が集まると売り物が出にくく短期的に勢いが持続しやすい。"
-     ],
-     "timestamp": "23:48",
-     "seconds": 1428,
-     "confidence": "high"
-    }
-   ],
-   "consensus": {
-    "bullish": 0,
-    "bearish": 0,
-    "neutral": 1
-   },
-   "voices": 1,
-   "split": false,
-   "last_mentioned": "2026-09-30T11:07:43+00:00",
-   "channel_ids": [
-    "UCsaeHha7ai_NNX8or8Jyb-g"
-   ],
-   "price": {
-    "date": "2026-09-30",
-    "close": 1900.0,
-    "change_pct": -8.65,
-    "live": null,
-    "live_change_pct": null,
-    "live_time": null,
-    "volume": 21511100,
-    "volume_ratio": null,
-    "rsi14": null,
-    "rsi_zone": "",
-    "ma25": null,
-    "ma75": null,
-    "trend": "判定不可",
-    "pos52": null,
-    "spark": [
-     1523.0,
-     1555.0,
-     1613.0,
-     1627.0,
-     1680.0,
-     2080.0,
-     1900.0
-    ],
-    "currency": "JPY",
-    "exchange_name": "Tokyo",
-    "market_open": false,
-    "symbol": "625A.T",
-    "source": "yahoo-search",
-    "fetched_at": "2026-09-30T18:49:09.033913+00:00"
-   }
-  },
-  {
    "key": "NAME:AKIPPA",
    "name": "akippa",
    "name_en": "akippa Inc.",
@@ -1185,7 +1206,112 @@
     "market_open": false,
     "symbol": "634A.T",
     "source": "yahoo-search",
-    "fetched_at": "2026-09-30T18:49:09.033913+00:00"
+    "fetched_at": "2026-09-30T22:32:55.160655+00:00"
+   }
+  },
+  {
+   "key": "JP:5803",
+   "name": "フジクラ",
+   "name_en": "Fujikura Ltd.",
+   "ticker": "5803",
+   "market": "JP",
+   "mentions": [
+    {
+     "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+     "channel_name": "トレーダーTOMO",
+     "channel_short": "TOMO",
+     "slot": 2,
+     "video_id": "r2HPqx42amE",
+     "video_title": "今日の活況銘柄を見てみる！（キオクシア・ソフトバンクグループ・太陽誘電・村田製作所・アキッパ・スカイフォールなど）株式テクニカルチャート分析",
+     "published": "2026-09-30T07:11:25+00:00",
+     "stance": "neutral",
+     "stance_note": "上値のシコリ重いがリスクリワード良い",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "信用改ざんが多くシコリが残る中で陽線で耐えたものの、全体相場の好環境に対して上昇幅は限定的となっているため。",
+      "出来高3800万株をつけ5300円手前で価格を固める動きが出ており、上値を狙う際のリスクリワード自体は良いため。"
+     ],
+     "timestamp": "10:35",
+     "seconds": 635,
+     "confidence": "medium"
+    }
+   ],
+   "consensus": {
+    "bullish": 0,
+    "bearish": 0,
+    "neutral": 1
+   },
+   "voices": 1,
+   "split": false,
+   "last_mentioned": "2026-09-30T07:11:25+00:00",
+   "channel_ids": [
+    "UCdQdRRLoajrt-5TEaAxslxA"
+   ],
+   "price": {
+    "date": "2026-09-30",
+    "close": 5224.0,
+    "change_pct": 5.94,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 38875400,
+    "volume_ratio": 1.0,
+    "rsi14": 54.0,
+    "rsi_zone": "中立",
+    "ma25": 5104.08,
+    "ma75": 5099.47,
+    "trend": "上昇基調",
+    "pos52": 52,
+    "spark": [
+     4172.0,
+     4290.0,
+     4628.0,
+     5073.0,
+     4596.0,
+     5185.0,
+     5580.0,
+     5800.0,
+     5760.0,
+     5665.0,
+     6078.0,
+     5902.0,
+     5328.0,
+     5341.0,
+     5280.0,
+     5016.0,
+     5292.0,
+     5305.0,
+     5500.0,
+     5340.0,
+     5504.0,
+     5298.0,
+     5090.0,
+     4951.0,
+     5053.0,
+     5241.0,
+     5083.0,
+     5493.0,
+     5209.0,
+     4982.0,
+     4834.0,
+     4744.0,
+     4839.0,
+     4867.0,
+     4952.0,
+     4911.0,
+     4986.0,
+     4957.0,
+     4931.0,
+     5224.0
+    ],
+    "currency": "JPY",
+    "exchange_name": "Tokyo",
+    "market_open": false,
+    "symbol": "5803.T",
+    "source": "yahoo",
+    "fetched_at": "2026-09-30T22:32:55.160655+00:00"
    }
   },
   {
@@ -1229,22 +1355,21 @@
     "UCsaeHha7ai_NNX8or8Jyb-g"
    ],
    "price": {
-    "date": "2026-09-29",
-    "close": 1729.76,
-    "change_pct": 0.98,
-    "live": 1737.74,
-    "live_change_pct": 0.46,
-    "live_time": 1790794159,
-    "volume": 5932700,
+    "date": "2026-09-30",
+    "close": 1739.89,
+    "change_pct": 0.59,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 5885005,
     "volume_ratio": 0.59,
-    "rsi14": 54.2,
+    "rsi14": 54.8,
     "rsi_zone": "中立",
-    "ma25": 1647.34,
-    "ma75": 1646.72,
+    "ma25": 1657.71,
+    "ma75": 1643.52,
     "trend": "上昇基調",
     "pos52": 73,
     "spark": [
-     1427.62,
      1350.5,
      1258.58,
      1212.21,
@@ -1283,14 +1408,15 @@
      1753.62,
      1777.8,
      1712.89,
-     1729.76
+     1729.76,
+     1739.89
     ],
     "currency": "USD",
     "exchange_name": "NasdaqGS",
-    "market_open": true,
+    "market_open": false,
     "symbol": "SNDK",
     "source": "yahoo-search",
-    "fetched_at": "2026-09-30T18:49:09.033913+00:00"
+    "fetched_at": "2026-09-30T22:32:55.160655+00:00"
    }
   },
   {
@@ -1361,532 +1487,7 @@
     "market_open": false,
     "symbol": "627A.T",
     "source": "yahoo-search",
-    "fetched_at": "2026-09-30T18:49:09.033913+00:00"
-   }
-  },
-  {
-   "key": "JP:6594",
-   "name": "ニデック",
-   "name_en": "Nidec",
-   "ticker": "6594",
-   "market": "JP",
-   "mentions": [
-    {
-     "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-     "channel_name": "トレーダーTOMO",
-     "channel_short": "TOMO",
-     "slot": 2,
-     "video_id": "YMNi3DZXsj4",
-     "video_title": "今日の活況銘柄を見てみる！（太陽誘電・アドバンテスト・キオクシア・村田製作所・ソフバン等）株式テクニカルチャート分析",
-     "published": "2026-09-28T08:09:28+00:00",
-     "stance": "bearish",
-     "stance_note": "報道後のストップ安でしこりがあり慎重",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "会計不正やEV関連での数千億円の減損計上検討報道によりストップ安となり、出来高を伴う下落でシコリが残るため安易な買いは危険であるため。",
-      "出来高が付いてしまっており今日掴んだポジションのシコリが懸念され、翌日ギャップダウンスタートとなった場合は苦しい展開が予想されるため。"
-     ],
-     "timestamp": "02:43",
-     "seconds": 163,
-     "confidence": "high"
-    }
-   ],
-   "consensus": {
-    "bullish": 0,
-    "bearish": 1,
-    "neutral": 0
-   },
-   "voices": 1,
-   "split": false,
-   "last_mentioned": "2026-09-28T08:09:28+00:00",
-   "channel_ids": [
-    "UCdQdRRLoajrt-5TEaAxslxA"
-   ],
-   "price": {
-    "date": "2026-09-30",
-    "close": 2355.0,
-    "change_pct": 4.67,
-    "live": null,
-    "live_change_pct": null,
-    "live_time": null,
-    "volume": 15834100,
-    "volume_ratio": 2.34,
-    "rsi14": 39.2,
-    "rsi_zone": "中立",
-    "ma25": 2616.04,
-    "ma75": 2645.96,
-    "trend": "下降基調",
-    "pos52": 46,
-    "spark": [
-     2591.0,
-     2687.0,
-     2718.0,
-     2785.0,
-     2752.0,
-     2712.0,
-     2759.0,
-     2734.0,
-     2778.0,
-     2772.0,
-     2815.0,
-     2810.0,
-     2633.0,
-     2619.0,
-     2627.0,
-     2580.0,
-     2606.0,
-     2590.0,
-     2603.0,
-     2626.0,
-     2581.0,
-     2571.0,
-     2480.0,
-     2470.0,
-     2611.0,
-     2812.0,
-     2722.0,
-     2591.0,
-     2737.0,
-     2691.0,
-     2655.0,
-     2642.0,
-     2646.0,
-     2724.0,
-     2856.0,
-     2822.0,
-     2840.0,
-     2340.0,
-     2250.0,
-     2355.0
-    ],
-    "currency": "JPY",
-    "exchange_name": "Tokyo",
-    "market_open": false,
-    "symbol": "6594.T",
-    "source": "yahoo",
-    "fetched_at": "2026-09-30T18:49:09.033913+00:00"
-   }
-  },
-  {
-   "key": "JP:5803",
-   "name": "藤倉",
-   "name_en": "Fujikura",
-   "ticker": "5803",
-   "market": "JP",
-   "mentions": [
-    {
-     "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-     "channel_name": "トレーダーTOMO",
-     "channel_short": "TOMO",
-     "slot": 2,
-     "video_id": "YMNi3DZXsj4",
-     "video_title": "今日の活況銘柄を見てみる！（太陽誘電・アドバンテスト・キオクシア・村田製作所・ソフバン等）株式テクニカルチャート分析",
-     "published": "2026-09-28T08:09:28+00:00",
-     "stance": "bearish",
-     "stance_note": "上値にしこり多く出来高不足で厳しい",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "5000円を上抜ける場面もあったがラストにかけて地合い悪化に押し戻され、上ひげのシコリが多くエントリーしにくい形状であるため。",
-      "シコリが多い銘柄を上伸させるには出来高の盛り上がりが不可欠であるが、足元の2000万〜3000万株程度の出来高では上昇が難しい点。"
-     ],
-     "timestamp": "06:42",
-     "seconds": 402,
-     "confidence": "medium"
-    }
-   ],
-   "consensus": {
-    "bullish": 0,
-    "bearish": 1,
-    "neutral": 0
-   },
-   "voices": 1,
-   "split": false,
-   "last_mentioned": "2026-09-28T08:09:28+00:00",
-   "channel_ids": [
-    "UCdQdRRLoajrt-5TEaAxslxA"
-   ],
-   "price": {
-    "date": "2026-09-30",
-    "close": 5224.0,
-    "change_pct": 5.94,
-    "live": null,
-    "live_change_pct": null,
-    "live_time": null,
-    "volume": 38875400,
-    "volume_ratio": 1.0,
-    "rsi14": 54.0,
-    "rsi_zone": "中立",
-    "ma25": 5104.08,
-    "ma75": 5099.47,
-    "trend": "上昇基調",
-    "pos52": 52,
-    "spark": [
-     4172.0,
-     4290.0,
-     4628.0,
-     5073.0,
-     4596.0,
-     5185.0,
-     5580.0,
-     5800.0,
-     5760.0,
-     5665.0,
-     6078.0,
-     5902.0,
-     5328.0,
-     5341.0,
-     5280.0,
-     5016.0,
-     5292.0,
-     5305.0,
-     5500.0,
-     5340.0,
-     5504.0,
-     5298.0,
-     5090.0,
-     4951.0,
-     5053.0,
-     5241.0,
-     5083.0,
-     5493.0,
-     5209.0,
-     4982.0,
-     4834.0,
-     4744.0,
-     4839.0,
-     4867.0,
-     4952.0,
-     4911.0,
-     4986.0,
-     4957.0,
-     4931.0,
-     5224.0
-    ],
-    "currency": "JPY",
-    "exchange_name": "Tokyo",
-    "market_open": false,
-    "symbol": "5803.T",
-    "source": "yahoo",
-    "fetched_at": "2026-09-30T18:49:09.033913+00:00"
-   }
-  },
-  {
-   "key": "JP:3905",
-   "name": "データセクション",
-   "name_en": "Data Section",
-   "ticker": "3905",
-   "market": "JP",
-   "mentions": [
-    {
-     "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-     "channel_name": "トレーダーTOMO",
-     "channel_short": "TOMO",
-     "slot": 2,
-     "video_id": "YMNi3DZXsj4",
-     "video_title": "今日の活況銘柄を見てみる！（太陽誘電・アドバンテスト・キオクシア・村田製作所・ソフバン等）株式テクニカルチャート分析",
-     "published": "2026-09-28T08:09:28+00:00",
-     "stance": "neutral",
-     "stance_note": "UP寄りで見送りも底堅さあり条件付き注視",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "前日上ひげを大きく上回るギャップアップスタートとなったため見送りとなったが、日中で2100円付近を固める動きも見られたため。",
-      "IPOなどグロス市場に資金が流入する流れになれば、2100円台を固めた前提で上ひげを巻き返す動きが期待できる余地があるため。"
-     ],
-     "timestamp": "07:28",
-     "seconds": 448,
-     "confidence": "medium"
-    }
-   ],
-   "consensus": {
-    "bullish": 0,
-    "bearish": 0,
-    "neutral": 1
-   },
-   "voices": 1,
-   "split": false,
-   "last_mentioned": "2026-09-28T08:09:28+00:00",
-   "channel_ids": [
-    "UCdQdRRLoajrt-5TEaAxslxA"
-   ],
-   "price": {
-    "date": "2026-09-30",
-    "close": 2015.0,
-    "change_pct": 3.17,
-    "live": null,
-    "live_change_pct": null,
-    "live_time": null,
-    "volume": 5307900,
-    "volume_ratio": 1.03,
-    "rsi14": 60.0,
-    "rsi_zone": "中立",
-    "ma25": 1646.12,
-    "ma75": 2535.83,
-    "trend": "戻り歩調",
-    "pos52": 15,
-    "spark": [
-     2134.0,
-     2200.0,
-     2155.0,
-     2260.0,
-     1910.0,
-     1892.0,
-     1778.0,
-     1859.0,
-     1877.0,
-     1877.0,
-     1807.0,
-     1693.0,
-     1657.0,
-     1725.0,
-     1840.0,
-     1662.0,
-     1614.0,
-     1527.0,
-     1539.0,
-     1727.0,
-     1696.0,
-     1635.0,
-     1573.0,
-     1554.0,
-     1529.0,
-     1577.0,
-     1514.0,
-     1532.0,
-     1605.0,
-     1547.0,
-     1483.0,
-     1509.0,
-     1446.0,
-     1438.0,
-     1542.0,
-     1807.0,
-     2077.0,
-     2052.0,
-     1953.0,
-     2015.0
-    ],
-    "currency": "JPY",
-    "exchange_name": "Tokyo",
-    "market_open": false,
-    "symbol": "3905.T",
-    "source": "yahoo",
-    "fetched_at": "2026-09-30T18:49:09.033913+00:00"
-   }
-  },
-  {
-   "key": "JP:6525",
-   "name": "国際エレクトリック",
-   "name_en": "Kokusai Electric",
-   "ticker": "6525",
-   "market": "JP",
-   "mentions": [
-    {
-     "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-     "channel_name": "トレーダーTOMO",
-     "channel_short": "TOMO",
-     "slot": 2,
-     "video_id": "YMNi3DZXsj4",
-     "video_title": "今日の活況銘柄を見てみる！（太陽誘電・アドバンテスト・キオクシア・村田製作所・ソフバン等）株式テクニカルチャート分析",
-     "published": "2026-09-28T08:09:28+00:00",
-     "stance": "neutral",
-     "stance_note": "長期レンジ抜け期待も前日意識線割り下落",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "前場は長期レンジの上抜けを試す力強い勢いがあったものの、意識されていた9300円を下回ると後場にかけて下落し損切りとなったため。",
-      "長期レンジブレイクへの期待感は残るものの、後場の地合い悪化に押される形で崩れたため一旦は仕切り直しが必要な形状であるため。"
-     ],
-     "timestamp": "08:50",
-     "seconds": 530,
-     "confidence": "medium"
-    }
-   ],
-   "consensus": {
-    "bullish": 0,
-    "bearish": 0,
-    "neutral": 1
-   },
-   "voices": 1,
-   "split": false,
-   "last_mentioned": "2026-09-28T08:09:28+00:00",
-   "channel_ids": [
-    "UCdQdRRLoajrt-5TEaAxslxA"
-   ],
-   "price": {
-    "date": "2026-09-30",
-    "close": 9578.0,
-    "change_pct": 2.65,
-    "live": null,
-    "live_change_pct": null,
-    "live_time": null,
-    "volume": 27498800,
-    "volume_ratio": 3.14,
-    "rsi14": 61.8,
-    "rsi_zone": "中立",
-    "ma25": 8676.2,
-    "ma75": 9058.32,
-    "trend": "戻り歩調",
-    "pos52": 70,
-    "spark": [
-     7422.0,
-     7785.0,
-     8203.0,
-     8488.0,
-     8224.0,
-     8136.0,
-     8006.0,
-     8657.0,
-     9015.0,
-     9187.0,
-     9306.0,
-     8660.0,
-     8105.0,
-     8115.0,
-     8321.0,
-     8280.0,
-     8489.0,
-     8466.0,
-     8722.0,
-     8911.0,
-     8787.0,
-     8559.0,
-     8327.0,
-     8325.0,
-     8295.0,
-     8929.0,
-     8782.0,
-     8675.0,
-     8821.0,
-     8162.0,
-     8000.0,
-     8228.0,
-     8512.0,
-     8284.0,
-     8884.0,
-     9089.0,
-     9300.0,
-     9169.0,
-     9331.0,
-     9578.0
-    ],
-    "currency": "JPY",
-    "exchange_name": "Tokyo",
-    "market_open": false,
-    "symbol": "6525.T",
-    "source": "yahoo",
-    "fetched_at": "2026-09-30T18:49:09.033913+00:00"
-   }
-  },
-  {
-   "key": "JP:4062",
-   "name": "イビデン",
-   "name_en": "Ibiden",
-   "ticker": "4062",
-   "market": "JP",
-   "mentions": [
-    {
-     "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-     "channel_name": "トレーダーTOMO",
-     "channel_short": "TOMO",
-     "slot": 2,
-     "video_id": "YMNi3DZXsj4",
-     "video_title": "今日の活況銘柄を見てみる！（太陽誘電・アドバンテスト・キオクシア・村田製作所・ソフバン等）株式テクニカルチャート分析",
-     "published": "2026-09-28T08:09:28+00:00",
-     "stance": "neutral",
-     "stance_note": "分割後の1万円付近での動きを静観",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "動画で想定していたVライン等のエントリー候補位置を下回ってスタートし、そのまま下方へ下落したため速やかな損切りが必要な展開だったため。",
-      "下値の2万2500円付近で持ち合っており株式分割実施後に株価1万円付近となった段階でどのような動きをするか静観すべきであるため。"
-     ],
-     "timestamp": "09:37",
-     "seconds": 577,
-     "confidence": "medium"
-    }
-   ],
-   "consensus": {
-    "bullish": 0,
-    "bearish": 0,
-    "neutral": 1
-   },
-   "voices": 1,
-   "split": false,
-   "last_mentioned": "2026-09-28T08:09:28+00:00",
-   "channel_ids": [
-    "UCdQdRRLoajrt-5TEaAxslxA"
-   ],
-   "price": {
-    "date": "2026-09-30",
-    "close": 11030.0,
-    "change_pct": 0.09,
-    "live": null,
-    "live_change_pct": null,
-    "live_time": null,
-    "volume": 9789200,
-    "volume_ratio": 0.61,
-    "rsi14": 57.3,
-    "rsi_zone": "中立",
-    "ma25": 10260.8,
-    "ma75": 10167.5,
-    "trend": "上昇基調",
-    "pos52": 80,
-    "spark": [
-     8325.0,
-     7767.5,
-     8165.0,
-     10165.0,
-     9505.0,
-     9555.0,
-     9940.0,
-     10240.0,
-     10780.0,
-     10392.5,
-     10790.0,
-     10437.5,
-     9857.5,
-     9575.0,
-     9595.0,
-     9397.5,
-     9990.0,
-     10040.0,
-     10272.5,
-     10087.5,
-     10227.5,
-     10272.5,
-     10102.5,
-     9860.0,
-     10237.5,
-     11100.0,
-     10405.0,
-     10710.0,
-     10340.0,
-     9780.0,
-     9570.0,
-     9557.5,
-     9475.0,
-     9237.5,
-     9777.5,
-     11202.5,
-     11672.5,
-     11155.0,
-     11020.0,
-     11030.0
-    ],
-    "currency": "JPY",
-    "exchange_name": "Tokyo",
-    "market_open": false,
-    "symbol": "4062.T",
-    "source": "yahoo",
-    "fetched_at": "2026-09-30T18:49:09.033913+00:00"
+    "fetched_at": "2026-09-30T22:32:55.160655+00:00"
    }
   },
   {
@@ -2012,7 +1613,7 @@
     "market_open": false,
     "symbol": "5019.T",
     "source": "yahoo",
-    "fetched_at": "2026-09-30T18:49:09.033913+00:00"
+    "fetched_at": "2026-09-30T22:32:55.160655+00:00"
    }
   },
   {
@@ -2136,7 +1737,7 @@
     "market_open": false,
     "symbol": "3132.T",
     "source": "yahoo",
-    "fetched_at": "2026-09-30T18:49:09.033913+00:00"
+    "fetched_at": "2026-09-30T22:32:55.160655+00:00"
    }
   },
   {
@@ -2260,7 +1861,7 @@
     "market_open": false,
     "symbol": "2914.T",
     "source": "yahoo",
-    "fetched_at": "2026-09-30T18:49:09.033913+00:00"
+    "fetched_at": "2026-09-30T22:32:55.160655+00:00"
    }
   },
   {
@@ -2364,7 +1965,7 @@
     "market_open": false,
     "symbol": "278A.T",
     "source": "yahoo",
-    "fetched_at": "2026-09-30T18:49:09.033913+00:00"
+    "fetched_at": "2026-09-30T22:32:55.160655+00:00"
    }
   },
   {
@@ -2468,7 +2069,7 @@
     "market_open": false,
     "symbol": "4592.T",
     "source": "yahoo",
-    "fetched_at": "2026-09-30T18:49:09.033913+00:00"
+    "fetched_at": "2026-09-30T22:32:55.160655+00:00"
    }
   }
  ]

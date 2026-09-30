@@ -1,6 +1,21 @@
 {
- "generated_at": "2026-10-01T03:49:48.612670+09:00",
+ "generated_at": "2026-10-01T07:33:34.001500+09:00",
  "videos": [
+  {
+   "video_id": "8v_cg9pz6zo",
+   "title": "9/30【日本株ここが買い場か⁉キオクシアついに首位陥落‼】AI半導体株急騰で日経平均急騰。出遅れ銘柄も後場急伸。ドル円157円。中東懸念後退で米国株、ナスダック、ハイテク株、仮想通貨BTCも上昇か。",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-09-30T14:38:58+00:00",
+   "overview": "",
+   "market_view": "",
+   "market": "",
+   "no_transcript": true,
+   "skip_reason": "この動画には字幕がありません",
+   "picks": []
+  },
   {
    "video_id": "MhSr-8LKlwU",
    "title": "【日経平均】 大幅上昇 上昇転換の狼煙！ 太陽誘電・NOTE・ダイナミック・スカイフォール・アキッパ・レイヤード",
@@ -94,6 +109,58 @@
    ]
   },
   {
+   "video_id": "r2HPqx42amE",
+   "title": "今日の活況銘柄を見てみる！（キオクシア・ソフトバンクグループ・太陽誘電・村田製作所・アキッパ・スカイフォールなど）株式テクニカルチャート分析",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-09-30T07:11:25+00:00",
+   "overview": "9月末の株式相場において、日経平均株価が大幅反発し全面高の展開となった市場動向と個別活況銘柄のテクニカル分析が語られています。太陽誘電や村田製作所、キオクシアなどは材料発表やシコリの重さから上値の重さが指摘されています。一方、ソフトバンクグループはオープンAI関連の材料を受けて上昇し、更なる上値追いが期待されるなど、銘柄ごとのトレード戦略が解説されています。",
+   "market_view": "9月最終日は日経平均が1272円高と幅広く買われて全面高となりました。月足や3ヶ月足チャートでも下のラインを固めて堅調さを維持しており、年末に向けた更なる上昇が期待できる状況です。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "太陽誘電",
+     "ticker": "6976",
+     "stance": "bearish",
+     "timestamp": "04:40"
+    },
+    {
+     "name": "ソフトバンクグループ",
+     "ticker": "9984",
+     "stance": "bullish",
+     "timestamp": "05:29"
+    },
+    {
+     "name": "村田製作所",
+     "ticker": "6981",
+     "stance": "bearish",
+     "timestamp": "08:12"
+    },
+    {
+     "name": "キオクシア",
+     "ticker": "285A",
+     "stance": "bearish",
+     "timestamp": "09:00"
+    },
+    {
+     "name": "スカイフォール",
+     "ticker": "625A",
+     "stance": "neutral",
+     "timestamp": "09:28"
+    },
+    {
+     "name": "フジクラ",
+     "ticker": "5803",
+     "stance": "neutral",
+     "timestamp": "10:35"
+    }
+   ]
+  },
+  {
    "video_id": "kQdRSTK3p9g",
    "title": "キオクシアHDが遂に株式分割！株価は復活できる？　#shorts",
    "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
@@ -114,21 +181,6 @@
      "timestamp": "00:00"
     }
    ]
-  },
-  {
-   "video_id": "Q0tShDvW898",
-   "title": "9/29【日本株空売り1兆円爆増‼】日経平均の急落続くのか⁉AI半導体株どうなる。高配当銘柄急落。ドル円157円。金利急騰で米国株、ナスダック、ハイテク株軟調。仮想通貨BTC上昇",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-09-29T11:51:41+00:00",
-   "overview": "",
-   "market_view": "",
-   "market": "",
-   "no_transcript": true,
-   "skip_reason": "動画が非公開・削除・配信予定などで取得できません",
-   "picks": []
   },
   {
    "video_id": "wu6swAWtcQI",
@@ -179,76 +231,6 @@
      "ticker": "",
      "stance": "bullish",
      "timestamp": "28:28"
-    }
-   ]
-  },
-  {
-   "video_id": "YMNi3DZXsj4",
-   "title": "今日の活況銘柄を見てみる！（太陽誘電・アドバンテスト・キオクシア・村田製作所・ソフバン等）株式テクニカルチャート分析",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-09-28T08:09:28+00:00",
-   "overview": "本動画では、日経平均が半導体株の上昇後に急落する厳しい地合いの中、活況銘柄のテクニカル分析と今後の見通しを解説しています。数千億円の減損報道でストップ安となったニデックや、権利付き最終日および株主分割を控えるキオクシア等の注意点、ソフトバンクグループ、太陽誘電、村田製作所、藤倉、データセクション、国際エレクトリック、イビデンのチャート形状について触れています。また今週予定のマイクロン決算や日銀短観などの重要イベントについても述べています。",
-   "market_view": "半導体銘柄を中心に買い先行から売り優勢へと崩れ、全体的に厳しい地合いとなりました。権利落ちや株式分割を控える銘柄も多く、ポジション管理に警戒が必要です。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "ニデック",
-     "ticker": "6594",
-     "stance": "bearish",
-     "timestamp": "02:43"
-    },
-    {
-     "name": "ソフトバンクグループ",
-     "ticker": "9984",
-     "stance": "neutral",
-     "timestamp": "04:01"
-    },
-    {
-     "name": "太陽誘電",
-     "ticker": "6976",
-     "stance": "bearish",
-     "timestamp": "04:33"
-    },
-    {
-     "name": "村田製作所",
-     "ticker": "6981",
-     "stance": "neutral",
-     "timestamp": "05:21"
-    },
-    {
-     "name": "キオクシア",
-     "ticker": "285A",
-     "stance": "bearish",
-     "timestamp": "06:01"
-    },
-    {
-     "name": "藤倉",
-     "ticker": "5803",
-     "stance": "bearish",
-     "timestamp": "06:42"
-    },
-    {
-     "name": "データセクション",
-     "ticker": "3905",
-     "stance": "neutral",
-     "timestamp": "07:28"
-    },
-    {
-     "name": "国際エレクトリック",
-     "ticker": "6525",
-     "stance": "neutral",
-     "timestamp": "08:50"
-    },
-    {
-     "name": "イビデン",
-     "ticker": "4062",
-     "stance": "neutral",
-     "timestamp": "09:37"
     }
    ]
   },
