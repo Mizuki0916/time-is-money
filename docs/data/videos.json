@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-02T07:23:31.741721+09:00",
+ "generated_at": "2026-10-02T07:32:39.218644+09:00",
  "videos": [
   {
    "video_id": "H6dmOmKKqrU",
@@ -118,19 +118,114 @@
    ]
   },
   {
-   "video_id": "8v_cg9pz6zo",
-   "title": "9/30【日本株ここが買い場か⁉キオクシアついに首位陥落‼】AI半導体株急騰で日経平均急騰。出遅れ銘柄も後場急伸。ドル円157円。中東懸念後退で米国株、ナスダック、ハイテク株、仮想通貨BTCも上昇か。",
+   "video_id": "9cSE0UxErRM",
+   "title": "10/1【日経平均2200円急騰騙し上げか⁉】AI半導体株急騰で日本株２極化加速。バリュー株弱すぎる‼レーザーテック爆上げ。マイクロン決算で米国株、ナスダック、ハイテク株上がるか。ドル円１５８円。",
    "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
    "channel_name": "Sho's投資情報局",
    "channel_short": "Sho",
    "slot": 3,
-   "published": "2026-09-30T14:38:58+00:00",
-   "overview": "",
-   "market_view": "",
-   "market": "",
-   "no_transcript": true,
-   "skip_reason": "この動画には字幕がありません",
-   "picks": []
+   "published": "2026-10-01T09:15:01+00:00",
+   "overview": "日経平均株価は2,200円超の急騰を見せたものの、AI・半導体株中心の上昇でありバリュー株は冴えない二極化相場となっています。動画では2018年の相場パターンとの類似性を挙げ、権利落ちに伴う空売りの減少や需給悪化による騙し上げの可能性を指摘しています。戻り売り圧力に注意しつつ、需給や回転の効いた銘柄への厳選投資を推奨しています。",
+   "market_view": "日経平均は大幅高となったものの、一部の半導体株に買いが偏っており、需給剥落による騙し上げや戻り売りに対する警戒感が必要な地合いです。",
+   "market": "MIX",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "レーザーテック",
+     "ticker": "6920",
+     "stance": "bullish",
+     "timestamp": "25:48"
+    },
+    {
+     "name": "アドバンテスト",
+     "ticker": "6857",
+     "stance": "bullish",
+     "timestamp": "24:59"
+    },
+    {
+     "name": "ソフトバンクグループ",
+     "ticker": "9984",
+     "stance": "bullish",
+     "timestamp": "27:41"
+    },
+    {
+     "name": "マイクロン・テクノロジー",
+     "ticker": "MU",
+     "stance": "neutral",
+     "timestamp": "34:26"
+    }
+   ]
+  },
+  {
+   "video_id": "vvZBpG_WxpY",
+   "title": "今日の活況銘柄を見てみる！（太陽誘電・村田製作所・SBG・キオクシア・ニデック・フジクラ等）株式テクニカルチャート分析",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-10-01T07:08:32+00:00",
+   "overview": "米マイクノンの好決算や日銀短観における設備投資計画の堅調さを受けてAI・半導体関連銘柄へ資金が一気に回帰し、日経平均が大幅高となった相場を解説。アドバンテストや東京エレクトロンなどの主力株が全体を牽引しました。動画では個別活況銘柄について、移動平均線や節目ラインを用いたテクニカル分析と今後のトレード戦略を詳しく提示しています。",
+   "market_view": "半導体関連への資金回帰により相場の潮目が変化。日経平均は三角持ち合いを上抜ける動きを見せる一方、直近高値付近の売り圧力や週末の警戒感には注意が必要です。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "ソフトバンクグループ",
+     "ticker": "9984",
+     "stance": "neutral",
+     "timestamp": "07:46"
+    },
+    {
+     "name": "東京海上ホールディングス",
+     "ticker": "8766",
+     "stance": "bearish",
+     "timestamp": "08:33"
+    },
+    {
+     "name": "太陽誘電",
+     "ticker": "6976",
+     "stance": "bullish",
+     "timestamp": "09:05"
+    },
+    {
+     "name": "村田製作所",
+     "ticker": "6981",
+     "stance": "bullish",
+     "timestamp": "09:53"
+    },
+    {
+     "name": "キオクシアホールディングス",
+     "ticker": "285A",
+     "stance": "bullish",
+     "timestamp": "10:41"
+    },
+    {
+     "name": "フジクラ",
+     "ticker": "5803",
+     "stance": "bullish",
+     "timestamp": "11:43"
+    },
+    {
+     "name": "ニデック",
+     "ticker": "6594",
+     "stance": "bullish",
+     "timestamp": "12:17"
+    },
+    {
+     "name": "ダイナミックマッププラットフォーム",
+     "ticker": "336A",
+     "stance": "neutral",
+     "timestamp": "13:10"
+    },
+    {
+     "name": "アドバンテスト",
+     "ticker": "6857",
+     "stance": "bullish",
+     "timestamp": "13:41"
+    }
+   ]
   },
   {
    "video_id": "MhSr-8LKlwU",
@@ -233,28 +328,6 @@
      "ticker": "5803",
      "stance": "neutral",
      "timestamp": "10:35"
-    }
-   ]
-  },
-  {
-   "video_id": "kQdRSTK3p9g",
-   "title": "キオクシアHDが遂に株式分割！株価は復活できる？　#shorts",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-09-29T12:20:03+00:00",
-   "overview": "キオクシアHDが本日3株式分割を実施し、初日の値動きについて解説された動画。初日の出来高は4100万株と少なめで下ひげをつける展開となったが、引けにかけて買戻しの動きが見られた。日足チャートでは綺麗な三角持ち合いを形成しており、10月頭にかけて上下どちらかに大きく振れる可能性がある。上昇には出来高5000万株以上がポイントとなり、抜けた方向へついていくスタンスが示されている。",
-   "market_view": "",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "キオクシアHD",
-     "ticker": "285A",
-     "stance": "neutral",
-     "timestamp": "00:00"
     }
    ]
   },
