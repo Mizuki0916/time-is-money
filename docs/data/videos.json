@@ -1,6 +1,122 @@
 {
- "generated_at": "2026-10-02T04:16:24.251312+09:00",
+ "generated_at": "2026-10-02T07:23:31.741721+09:00",
  "videos": [
+  {
+   "video_id": "H6dmOmKKqrU",
+   "title": "10/1【日経平均2200円急騰騙し上げか⁉】AI半導体株急騰で日本株２極化加速。バリュー株弱すぎる‼レーザーテック爆上げ。マイクロン決算で米国株、ナスダック、ハイテク株上がるか。ドル円１５８円。",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-10-01T16:11:02+00:00",
+   "overview": "日経平均株価が大きく急騰する中、AI半導体関連株への一極集中とバリュー株の伸び悩みによる相場の二極化が加速している状況を解説しています。レーザーテックやアドバンテストなど需給が軽い銘柄が急騰する一方、決算発表後のマイクロン・テクノロジーの下落や米国半導体株の弱さから騙し上げや今後の反落リスクへの警戒感を示しています。投資戦略としては需給の軽い銘柄への資金シフトを推奨しています。",
+   "market_view": "日経平均は大幅高となったものの半導体株への一極集中による二極化が激しく、需給の軽い銘柄を見極める必要があります。",
+   "market": "MIX",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "レーザーテック",
+     "ticker": "6920",
+     "stance": "bullish",
+     "timestamp": "03:03"
+    },
+    {
+     "name": "アドバンテスト",
+     "ticker": "6857",
+     "stance": "bullish",
+     "timestamp": "03:19"
+    },
+    {
+     "name": "キオクシアホールディングス",
+     "ticker": "285A",
+     "stance": "neutral",
+     "timestamp": "03:48"
+    },
+    {
+     "name": "ディスコ",
+     "ticker": "6146",
+     "stance": "neutral",
+     "timestamp": "03:34"
+    },
+    {
+     "name": "太陽誘電",
+     "ticker": "6976",
+     "stance": "bullish",
+     "timestamp": "08:56"
+    },
+    {
+     "name": "フェローテックホールディングス",
+     "ticker": "6890",
+     "stance": "bullish",
+     "timestamp": "12:13"
+    },
+    {
+     "name": "トヨタ自動車",
+     "ticker": "7203",
+     "stance": "bearish",
+     "timestamp": "14:42"
+    },
+    {
+     "name": "マイクロン・テクノロジー",
+     "ticker": "MU",
+     "stance": "bearish",
+     "timestamp": "17:46"
+    }
+   ]
+  },
+  {
+   "video_id": "woA1S-6pagY",
+   "title": "【日経平均】 連日爆上げ！ 今後の値動きはこう考える アドバンテスト・イビデン・太陽誘電・NOTE・テクニスコ・ユニチカ",
+   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+   "channel_name": "Trader's Lab",
+   "channel_short": "TL",
+   "slot": 1,
+   "published": "2026-10-01T11:05:40+00:00",
+   "overview": "日経平均の大幅上昇に伴い相場全体の地合いと今後の見通しを解説した動画です。急騰によるスピード過重からの押し目・調整リスクに触れつつも、対局としては上目線(ロング)で相場に臨む姿勢を示しています。個別銘柄では、アドバンテストやnoteなどチャート形状が良好で最高値を更新する注目株を中心に、テクニカル分析に基づくスタンスが語られています。",
+   "market_view": "日経平均は短期的な過熱感から調整の下落が発生しやすい状況ですが、対局的には上昇転換の流れに入っておりロング目線が基本となります。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "アドバンテスト",
+     "ticker": "6857",
+     "stance": "bullish",
+     "timestamp": "18:52"
+    },
+    {
+     "name": "イビデン",
+     "ticker": "4062",
+     "stance": "bullish",
+     "timestamp": "20:41"
+    },
+    {
+     "name": "太陽誘電",
+     "ticker": "6976",
+     "stance": "neutral",
+     "timestamp": "22:04"
+    },
+    {
+     "name": "note",
+     "ticker": "5243",
+     "stance": "bullish",
+     "timestamp": "23:56"
+    },
+    {
+     "name": "テクニスコ",
+     "ticker": "2962",
+     "stance": "bullish",
+     "timestamp": "28:01"
+    },
+    {
+     "name": "ユニチカ",
+     "ticker": "3103",
+     "stance": "neutral",
+     "timestamp": "30:45"
+    }
+   ]
+  },
   {
    "video_id": "8v_cg9pz6zo",
    "title": "9/30【日本株ここが買い場か⁉キオクシアついに首位陥落‼】AI半導体株急騰で日経平均急騰。出遅れ銘柄も後場急伸。ドル円157円。中東懸念後退で米国株、ナスダック、ハイテク株、仮想通貨BTCも上昇か。",
@@ -65,46 +181,6 @@
      "ticker": "",
      "stance": "neutral",
      "timestamp": "25:38"
-    }
-   ]
-  },
-  {
-   "video_id": "Pi6QBsoLA9c",
-   "title": "9/30【日本株ここが買い場か⁉キオクシアついに首位陥落‼】AI半導体株急騰で日経平均急騰。出遅れ銘柄も後場急伸。ドル円157円。中東懸念後退で米国株、ナスダック、ハイテク株、仮想通貨BTCも上昇か。",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-09-30T09:15:01+00:00",
-   "overview": "9月30日の日本株市場では日経平均株価が1,272円高と大幅反発しました。理論株価の上昇や14時30分以降のショートカバーが背景にあるものの、配当落ちに伴う一時的なつなぎ売りの解消である可能性もあり、10月相場での需給悪化に警戒感を示しています。投資判断においては2018年相場との類似点を踏まえ、年末に向けて需給の軽い銘柄への選別が重要であると解説されています。",
-   "market_view": "日経平均は理論値上昇やショートカバーにより急伸したものの、信用買残や配当落ち後の需給変化を踏まえると持続的な上昇には慎重姿勢が必要であり、年末に向けて二極化が進む見通しです。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "日経平均株価",
-     "ticker": "N225",
-     "stance": "bullish",
-     "timestamp": "01:13"
-    },
-    {
-     "name": "キオクシア",
-     "ticker": "285A",
-     "stance": "neutral",
-     "timestamp": "23:12"
-    },
-    {
-     "name": "村田製作所",
-     "ticker": "6981",
-     "stance": "bearish",
-     "timestamp": "21:38"
-    },
-    {
-     "name": "ソフトバンクグループ",
-     "ticker": "9984",
-     "stance": "bullish",
-     "timestamp": "21:19"
     }
    ]
   },
@@ -179,58 +255,6 @@
      "ticker": "285A",
      "stance": "neutral",
      "timestamp": "00:00"
-    }
-   ]
-  },
-  {
-   "video_id": "wu6swAWtcQI",
-   "title": "【日経平均】 急落の動き目立つ 63000円台まで 下がる可能性あり サンディスク・キオクシア・スカイフォール・アキッパ・レイヤード",
-   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-   "channel_name": "Trader's Lab",
-   "channel_short": "TL",
-   "slot": 1,
-   "published": "2026-09-29T11:11:10+00:00",
-   "overview": "日経平均株価は権利落ちの影響を除けば小幅な動きにとどまり、対局の方向感を見極めるフェーズが続いています。米国市場や各指標で動きが揃わないなか、大型株への資金流入は停滞しており、短期資金は時価総額の小さいIPO銘柄や進行銘柄へ集中しています。全体のトレンドが不透明な環境下では、自身のトレードスタイルや時間軸に合わせた柔軟な対応が重要となります。",
-   "market_view": "日経平均や米株指数を含め全体的に方向感が定まっておらず、レンジ内での推移が予想されるため、明確なトレンドが出るまではリスク管理を最優先にした短期売買が中心となります。",
-   "market": "MIX",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "日経平均株価",
-     "ticker": "",
-     "stance": "bearish",
-     "timestamp": "09:00"
-    },
-    {
-     "name": "キオクシア",
-     "ticker": "285A",
-     "stance": "neutral",
-     "timestamp": "20:43"
-    },
-    {
-     "name": "サンディスク",
-     "ticker": "",
-     "stance": "neutral",
-     "timestamp": "22:12"
-    },
-    {
-     "name": "スカイフォール",
-     "ticker": "",
-     "stance": "bullish",
-     "timestamp": "23:48"
-    },
-    {
-     "name": "あきっぱ",
-     "ticker": "",
-     "stance": "bearish",
-     "timestamp": "26:23"
-    },
-    {
-     "name": "レイヤード",
-     "ticker": "",
-     "stance": "bullish",
-     "timestamp": "28:28"
     }
    ]
   },

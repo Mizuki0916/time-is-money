@@ -1,6 +1,159 @@
 {
  "videos": [
   {
+   "video_id": "H6dmOmKKqrU",
+   "title": "10/1【日経平均2200円急騰騙し上げか⁉】AI半導体株急騰で日本株２極化加速。バリュー株弱すぎる‼レーザーテック爆上げ。マイクロン決算で米国株、ナスダック、ハイテク株上がるか。ドル円１５８円。",
+   "published": "2026-10-01T16:11:02+00:00",
+   "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "日経平均株価が大きく急騰する中、AI半導体関連株への一極集中とバリュー株の伸び悩みによる相場の二極化が加速している状況を解説しています。レーザーテックやアドバンテストなど需給が軽い銘柄が急騰する一方、決算発表後のマイクロン・テクノロジーの下落や米国半導体株の弱さから騙し上げや今後の反落リスクへの警戒感を示しています。投資戦略としては需給の軽い銘柄への資金シフトを推奨しています。",
+   "market_view": "日経平均は大幅高となったものの半導体株への一極集中による二極化が激しく、需給の軽い銘柄を見極める必要があります。",
+   "market": "MIX",
+   "picks": [
+    {
+     "name": "レーザーテック",
+     "name_en": "Lasertec Corporation",
+     "ticker": "6920",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "需給が良好で株価が急騰",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "株価が短期的に大きく上昇しており、信用倍率が3.17倍と需給面で非常に良好な状態にある。",
+      "売り残と買い残のバランスが良く、空売りの買い戻しも巻き込んで上値を追いやすい展開となっている。"
+     ],
+     "timestamp": "03:03",
+     "confidence": "high"
+    },
+    {
+     "name": "アドバンテスト",
+     "name_en": "Advantest Corporation",
+     "ticker": "6857",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "良好な需給を背景に急騰",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "株式の売買回転が非常に効いており、1日で9〜10%もの大きな株価上昇を見せている。",
+      "信用倍率が4.09倍と需給状態が軽く、売り圧力が少ないため素直に上値を試しやすい。"
+     ],
+     "timestamp": "03:19",
+     "confidence": "high"
+    },
+    {
+     "name": "キオクシアホールディングス",
+     "name_en": "Kioxia Holdings Corporation",
+     "ticker": "285A",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "保ち合い上抜けも期日警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "テクニカル面において三角持ち合いの上限ラインを上抜けしそうな強い動きを見せている。",
+      "高値からの半年期日が意識されるほか、信用倍率が20倍を超えており戻り売りに警戒が必要。"
+     ],
+     "timestamp": "03:48",
+     "confidence": "medium"
+    },
+    {
+     "name": "ディスコ",
+     "name_en": "DISCO Corporation",
+     "ticker": "6146",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "移動平均の交差による下落警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "株価は5%超の上昇を見せているが、移動平均線のデッドクロス形成による下落リスクがある。",
+      "目先1週間程度はテクニカル的な下落リスクを警戒しながら上値を見極める必要がある。"
+     ],
+     "timestamp": "03:34",
+     "confidence": "medium"
+    },
+    {
+     "name": "太陽誘電",
+     "name_en": "Taiyo Yuden Co., Ltd.",
+     "ticker": "6976",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "チャート上抜けで堅調推進",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "テクニカル分析上の好形状パターンから上抜けており、堅調な上昇トレンドを描いている。",
+      "信用買い残が34万株減少するなど、上値を抑えていた戻り売り圧力が徐々に和らいでいる。"
+     ],
+     "timestamp": "08:56",
+     "confidence": "medium"
+    },
+    {
+     "name": "フェローテックホールディングス",
+     "name_en": "Ferrotec Holdings Corporation",
+     "ticker": "6890",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "バンドウォーク形成で上昇",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "ボリンジャーバンドの上昇方向へのバンドウォークが続いており終了サインまで上値を試せる。",
+      "過去の割安水準から評価換えが進んでおり、増配などを背景に強い上昇トレンドが維持されている。"
+     ],
+     "timestamp": "12:13",
+     "confidence": "medium"
+    },
+    {
+     "name": "トヨタ自動車",
+     "name_en": "Toyota Motor Corporation",
+     "ticker": "7203",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "需給重くバリュー株買い乏しい",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "株価の戻りが鈍い展開が続いており、信用倍率も5.78倍と需給面での重さが依然として残る。",
+      "市場資金の一部半導体株への一極集中が続いており、自動車などバリュー株への買いが乏しい。"
+     ],
+     "timestamp": "14:42",
+     "confidence": "medium"
+    },
+    {
+     "name": "マイクロン・テクノロジー",
+     "name_en": "Micron Technology, Inc.",
+     "ticker": "MU",
+     "market": "US",
+     "stance": "bearish",
+     "stance_note": "決算発表通過後に下落",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "市場予想を上回る好決算を発表したものの、決算通過後に株価が時間外から下落している。",
+      "米国半導体株全体の重荷となっており、日本市場のハイテク関連株への波及も警戒される。"
+     ],
+     "timestamp": "17:46",
+     "confidence": "medium"
+    }
+   ]
+  },
+  {
    "video_id": "8v_cg9pz6zo",
    "title": "9/30【日本株ここが買い場か⁉キオクシアついに首位陥落‼】AI半導体株急騰で日経平均急騰。出遅れ銘柄も後場急伸。ドル円157円。中東懸念後退で米国株、ナスダック、ハイテク株、仮想通貨BTCも上昇か。",
    "published": "2026-09-30T14:38:58+00:00",
@@ -18,88 +171,120 @@
    "picks": []
   },
   {
-   "video_id": "Pi6QBsoLA9c",
-   "title": "9/30【日本株ここが買い場か⁉キオクシアついに首位陥落‼】AI半導体株急騰で日経平均急騰。出遅れ銘柄も後場急伸。ドル円157円。中東懸念後退で米国株、ナスダック、ハイテク株、仮想通貨BTCも上昇か。",
-   "published": "2026-09-30T09:15:01+00:00",
-   "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
+   "video_id": "woA1S-6pagY",
+   "title": "【日経平均】 連日爆上げ！ 今後の値動きはこう考える アドバンテスト・イビデン・太陽誘電・NOTE・テクニスコ・ユニチカ",
+   "published": "2026-10-01T11:05:40+00:00",
+   "description": "※動画の趣旨は個人的主観の予測であり、値動きを保証するものではありません。\n　投資の判断は自己責任でお願いします。\n\n◉トレンド分析の基礎おすすめ動画\n【永久保存版】初心者でもわかるダウ理論の使い方【前編】\nhttps://youtu.be/re9XBR2qcBw\n【永久保存版】初心者でもわかるダウ理論の使い方【後編】\nhttps://youtu.be/Z21W4VFSs9g\n【知らなきゃ勝てない】移動平均線で相場を読む最強の方法\nhttps://youtu.be/FfSX8hcRR2I\n【一目均衡表の真髄】初心者でも分かる完全ガイド\nhttps://youtu.be/xPkb1twTFFI\n\n◉SBI証券株式会社キャンペーン　手数料無料、取引ツール便利PR\nhttps://h.accesstrade.net/sp/cc?rk=0100q3pa00on8p\n\n◉松井証券証券株式会社キャンペ",
+   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+   "channel_name": "Trader's Lab",
+   "channel_short": "TL",
+   "slot": 1,
    "no_transcript": false,
    "skip_reason": "",
-   "overview": "9月30日の日本株市場では日経平均株価が1,272円高と大幅反発しました。理論株価の上昇や14時30分以降のショートカバーが背景にあるものの、配当落ちに伴う一時的なつなぎ売りの解消である可能性もあり、10月相場での需給悪化に警戒感を示しています。投資判断においては2018年相場との類似点を踏まえ、年末に向けて需給の軽い銘柄への選別が重要であると解説されています。",
-   "market_view": "日経平均は理論値上昇やショートカバーにより急伸したものの、信用買残や配当落ち後の需給変化を踏まえると持続的な上昇には慎重姿勢が必要であり、年末に向けて二極化が進む見通しです。",
+   "overview": "日経平均の大幅上昇に伴い相場全体の地合いと今後の見通しを解説した動画です。急騰によるスピード過重からの押し目・調整リスクに触れつつも、対局としては上目線(ロング)で相場に臨む姿勢を示しています。個別銘柄では、アドバンテストやnoteなどチャート形状が良好で最高値を更新する注目株を中心に、テクニカル分析に基づくスタンスが語られています。",
+   "market_view": "日経平均は短期的な過熱感から調整の下落が発生しやすい状況ですが、対局的には上昇転換の流れに入っておりロング目線が基本となります。",
    "market": "JP",
    "picks": [
     {
-     "name": "日経平均株価",
-     "name_en": "Nikkei 225",
-     "ticker": "N225",
+     "name": "アドバンテスト",
+     "name_en": "ADVANTEST CORPORATION",
+     "ticker": "6857",
      "market": "JP",
      "stance": "bullish",
-     "stance_note": "理論値上昇と買い戻しで上昇トレンド",
+     "stance_note": "中長期で上目線継続、高値更新期待",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "PER17倍の理論株価が6万5674円へ上昇し指数が上方向に連動したため。",
-      "パラボリック点灯やMACDゴールデンクロスなどテクニカル指標が上昇トレンドを示したため。",
-      "午後14時30分以降の同じ時間帯に大口の買い戻しによるショートカバーが入ったため。"
+      "月足や週足が綺麗なトレンドフォローを継続しており、中長期で非常に強い上昇トレンドを維持しているため。",
+      "ナスダック100と似たチャート形状を示しており、急激な上昇による短期的な調整があっても中長期で上目線と言えるため。"
      ],
-     "timestamp": "01:13",
+     "timestamp": "18:52",
      "confidence": "high"
     },
     {
-     "name": "キオクシア",
-     "name_en": "Kioxia Holdings",
-     "ticker": "285A",
+     "name": "イビデン",
+     "name_en": "IBIDEN CO., LTD.",
+     "ticker": "4062",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "中長期目線での打診買いや高値追いを推奨",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "直近の高値を更新してきており、月足で見ても終値ベースでトレンドフォローが確定しているため。",
+      "短期的には日経平均の動きに合わせ乱高下しやすいが、中長期目線での打診買いや高値追いが有効と考えられるため。"
+     ],
+     "timestamp": "20:41",
+     "confidence": "high"
+    },
+    {
+     "name": "太陽誘電",
+     "name_en": "TAIYO YUDEN CO., LTD.",
+     "ticker": "6976",
      "market": "JP",
      "stance": "neutral",
-     "stance_note": "三角持ち合いのレンジ推移を注視",
+     "stance_note": "レンジ相場でありデイトレ向け",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "株式分割後に売買高首位から転落し値がさ株から一般的な株価水準へ変化したため。",
-      "高値からの半年期に向けて上値を切り下げる三角持ち合いの形状で推移しているため。",
-      "前場は堅調に推移していたものの後場に入って売りが出始め伸び悩む展開となったため。"
+      "共同提携の材料等で乱高下しており、週足の13週線や雲の加減など戻り売りされやすいテクニカル指標があるため。",
+      "直近高値を上抜けたことでレンジ色が強まっており、中長期でのエントリーは難しく日々のデイトレ向きであるため。"
      ],
-     "timestamp": "23:12",
+     "timestamp": "22:04",
      "confidence": "high"
     },
     {
-     "name": "村田製作所",
-     "name_en": "Murata Manufacturing",
-     "ticker": "6981",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "受給悪化と競合ニュースで上値が重い",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "太陽誘電とTDKの協業発表ニュースを受けた思惑から下落率上位となったため。",
-      "信用取引で高値を買った個人投資家の返済売り圧力が半年後の年末にかけて懸念されるため。"
-     ],
-     "timestamp": "21:38",
-     "confidence": "medium"
-    },
-    {
-     "name": "ソフトバンクグループ",
-     "name_en": "SoftBank Group",
-     "ticker": "9984",
+     "name": "note",
+     "name_en": "note inc.",
+     "ticker": "5243",
      "market": "JP",
      "stance": "bullish",
-     "stance_note": "AI関連材料で急騰し指数を牽引",
+     "stance_note": "短期加熱感注意も上位足は完全上目線",
+     "target_price": "10000",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "教育現場への導入ニュースをきっかけに出来高を伴う大陽線をつけており、上位足すべてでトレンドフォロー状態なため。",
+      "短期的には移動平均乖離率が高く加熱感があるものの、長期的なエリオット波動の理論値では1万円目標も期待されるため。"
+     ],
+     "timestamp": "23:56",
+     "confidence": "high"
+    },
+    {
+     "name": "テクニスコ",
+     "name_en": "Tecnisco Ltd.",
+     "ticker": "2962",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "綺麗な右肩上がりで最高値更新継続",
+     "target_price": "",
+     "entry": "",
+     "stop": "1950",
+     "reasons": [
+      "ヒートシンク部品の受注獲得を契機に史上最高値を更新しており、月足・週足・日足で綺麗にバンドウォークしているため。",
+      "小型株特有の調整下げは想定されるものの、直近安値の1950円を割らない限り右肩上がりの上昇トレンドが継続するため。"
+     ],
+     "timestamp": "28:01",
+     "confidence": "high"
+    },
+    {
+     "name": "ユニチカ",
+     "name_en": "UNITIKA LTD.",
+     "ticker": "3103",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "1847円超えのブレイクアウト待ち",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "ChatGPT関連のニュース等を背景に6.55%上昇し日経平均を大幅に押し上げたため。",
-      "1銘柄で日経平均を約317円押し上げる上昇寄与度1位の力強い動きを見せたため。"
+      "1300円台の安値と1800円台の高値の範囲で固めており、25日線に乗って日足がトレンドフォローっぽくなっているため。",
+      "過去の急騰後の横ばい圏であり、8月の戻り高値1847円を上抜けてレンジブレイクするかどうかの見極めが必要なため。"
      ],
-     "timestamp": "21:19",
+     "timestamp": "30:45",
      "confidence": "medium"
     }
    ]
@@ -220,125 +405,6 @@
      ],
      "timestamp": "25:38",
      "confidence": "low"
-    }
-   ]
-  },
-  {
-   "video_id": "wu6swAWtcQI",
-   "title": "【日経平均】 急落の動き目立つ 63000円台まで 下がる可能性あり サンディスク・キオクシア・スカイフォール・アキッパ・レイヤード",
-   "published": "2026-09-29T11:11:10+00:00",
-   "description": "※動画の趣旨は個人的主観の予測であり、値動きを保証するものではありません。\n　投資の判断は自己責任でお願いします。\n\n◉トレンド分析の基礎おすすめ動画\n【永久保存版】初心者でもわかるダウ理論の使い方【前編】\nhttps://youtu.be/re9XBR2qcBw\n【永久保存版】初心者でもわかるダウ理論の使い方【後編】\nhttps://youtu.be/Z21W4VFSs9g\n【知らなきゃ勝てない】移動平均線で相場を読む最強の方法\nhttps://youtu.be/FfSX8hcRR2I\n【一目均衡表の真髄】初心者でも分かる完全ガイド\nhttps://youtu.be/xPkb1twTFFI\n\n◉SBI証券株式会社キャンペーン　手数料無料、取引ツール便利PR\nhttps://h.accesstrade.net/sp/cc?rk=0100q3pa00on8p\n\n◉松井証券証券株式会社キャンペ",
-   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-   "channel_name": "Trader's Lab",
-   "channel_short": "TL",
-   "slot": 1,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "日経平均株価は権利落ちの影響を除けば小幅な動きにとどまり、対局の方向感を見極めるフェーズが続いています。米国市場や各指標で動きが揃わないなか、大型株への資金流入は停滞しており、短期資金は時価総額の小さいIPO銘柄や進行銘柄へ集中しています。全体のトレンドが不透明な環境下では、自身のトレードスタイルや時間軸に合わせた柔軟な対応が重要となります。",
-   "market_view": "日経平均や米株指数を含め全体的に方向感が定まっておらず、レンジ内での推移が予想されるため、明確なトレンドが出るまではリスク管理を最優先にした短期売買が中心となります。",
-   "market": "MIX",
-   "picks": [
-    {
-     "name": "日経平均株価",
-     "name_en": "Nikkei 225",
-     "ticker": "",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "上値ラインに抑えられ6万3000円台への調整リスクあり",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "上値抵抗線を超えられず下値支持線も割り込んでいるため、短期的にやや下方向へのモメンタムが強まりやすい形状である。",
-      "移動平均線や日足の雲が抵抗となっており、明確な転換がない限りは6万3000円から6万7000円のレンジ推移が想定される。"
-     ],
-     "timestamp": "09:00",
-     "confidence": "high"
-    },
-    {
-     "name": "キオクシア",
-     "name_en": "Kioxia Holdings Corporation",
-     "ticker": "285A",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "短期レンジ推移が続きデイトレ中心の対応が賢明",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "25日移動平均線付近での揉み合いが続いており、上値は日足の雲の加減に抑えられ方向感が定まっていない。",
-      "週足では13週線と26週線がデッドクロスしており上値が重いため、レンジを抜けるまではデイトレード主体の取引が向いている。"
-     ],
-     "timestamp": "20:43",
-     "confidence": "high"
-    },
-    {
-     "name": "サンディスク",
-     "name_en": "SanDisk",
-     "ticker": "",
-     "market": "US",
-     "stance": "neutral",
-     "stance_note": "高値更新傾向も全体の地合い次第で急変のリスクあり",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "キオクシアと比較して株価は直近高値を更新して推移しており、移動平均線のゴールデンクロスも視野に入る良好な形状をしている。",
-      "ただし相場全体の地合い次第では25日線を急激に下回って下落転換するリスクも秘めているため注意を要する。"
-     ],
-     "timestamp": "22:12",
-     "confidence": "low"
-    },
-    {
-     "name": "スカイフォール",
-     "name_en": "Skyfall",
-     "ticker": "",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "短期資金の流入により勢いが続く可能性がある",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "上場後の高値を更新したタイミングで急騰してストップ高となり、過去最高の出来高を記録するなど短期資金の流入が目立つ。",
-      "時価総額が小さく浮動株数が少ないため、買い注文が集まると売り物が出にくく短期的に勢いが持続しやすい。"
-     ],
-     "timestamp": "23:48",
-     "confidence": "high"
-    },
-    {
-     "name": "あきっぱ",
-     "name_en": "akippa",
-     "ticker": "",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "上髭陰線の出現でシコリ玉が懸念され短期調整へ",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "出来高は高水準であるものの長い上髭を伴う陰線を形成しており、高値圏での戻り売りシコリが懸念されるチャート形状となった。",
-      "ザラバ安値を下割ると下落が加速する恐れがあり、過去の窓埋め水準である1637円付近まで落ち着くのを見極める必要がある。"
-     ],
-     "timestamp": "26:23",
-     "confidence": "high"
-    },
-    {
-     "name": "レイヤード",
-     "name_en": "Layered",
-     "ticker": "",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "低時価総額による爆発的な上昇が継続している",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "時価総額が約74億円と非常に低く、浮動株の少なさから資金流入による爆発的なストップ高上昇が起きている。",
-      "上場からの日が浅く高値追いの展開が続いており、短期的な話題性と強い需給によってさらに上値を試す可能性がある。"
-     ],
-     "timestamp": "28:28",
-     "confidence": "high"
     }
    ]
   },
