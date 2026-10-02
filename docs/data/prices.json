@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-02T05:01:51.782111+00:00",
+ "updated_at": "2026-10-02T11:07:46.922040+00:00",
  "symbols": {
   "JP:1111": {
    "date": "2026-08-17",
@@ -6970,8 +6970,8 @@
    "live": null,
    "live_change_pct": null,
    "live_time": null,
-   "volume": 44760261,
-   "volume_ratio": 1.73,
+   "volume": 45562800,
+   "volume_ratio": 1.76,
    "rsi14": 63.5,
    "rsi_zone": "中立",
    "ma25": 1003.99,
@@ -7025,7 +7025,7 @@
    "market_open": false,
    "symbol": "MU",
    "source": "yahoo",
-   "fetched_at": "2026-10-01T22:22:18.702361+00:00"
+   "fetched_at": "2026-10-02T11:07:46.922040+00:00"
   },
   "US:ADBE": {
    "date": "2026-09-04",
