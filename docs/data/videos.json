@@ -1,6 +1,52 @@
 {
- "generated_at": "2026-10-03T03:58:30.549452+09:00",
+ "generated_at": "2026-10-03T06:53:10.248360+09:00",
  "videos": [
+  {
+   "video_id": "RGBKcYPweZY",
+   "title": "【日経平均】 雇用統計通過後 AI相場反撃開始！ アドバンテスト・NOTE・テクニスコ・ノースサンド",
+   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+   "channel_name": "Trader's Lab",
+   "channel_short": "TL",
+   "slot": 1,
+   "published": "2026-10-02T11:12:21+00:00",
+   "overview": "雇用統計通過前でありながら先物市場で日経平均が上昇し、短中長期の全期間で上目線への転換が確認できる環境について解説しています。AI・半導体関連銘柄が牽引するAIバブル相場の再開を示唆し、PER17倍の水準が強固なサポートになると分析しています。個別銘柄では地合いより強いモメンタムを持つ銘柄として、史上最高値を更新したアドバンテストのほか、バンド型の上昇トレンドを形成しているnote、テクニスコ、ノースサンドのチャート優位性を解説しています。",
+   "market_view": "日経平均は先物市場での大幅高により短中長期の全目線で上目線に転換し、AI・半導体関連株主導の相場が再開しつつある。PER17倍水準(6万7000円台)が強いサポートとして機能する見込み。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "日経平均株価",
+     "ticker": "",
+     "stance": "bullish",
+     "timestamp": "03:47"
+    },
+    {
+     "name": "アドバンテスト",
+     "ticker": "6857",
+     "stance": "bullish",
+     "timestamp": "16:29"
+    },
+    {
+     "name": "note",
+     "ticker": "5243",
+     "stance": "bullish",
+     "timestamp": "18:41"
+    },
+    {
+     "name": "テクニスコ",
+     "ticker": "2962",
+     "stance": "bullish",
+     "timestamp": "22:25"
+    },
+    {
+     "name": "ノースサンド",
+     "ticker": "",
+     "stance": "bullish",
+     "timestamp": "25:19"
+    }
+   ]
+  },
   {
    "video_id": "H6dmOmKKqrU",
    "title": "10/1【日経平均2200円急騰騙し上げか⁉】AI半導体株急騰で日本株２極化加速。バリュー株弱すぎる‼レーザーテック爆上げ。マイクロン決算で米国株、ナスダック、ハイテク株上がるか。ドル円１５８円。",
@@ -224,58 +270,6 @@
      "ticker": "6857",
      "stance": "bullish",
      "timestamp": "13:41"
-    }
-   ]
-  },
-  {
-   "video_id": "MhSr-8LKlwU",
-   "title": "【日経平均】 大幅上昇 上昇転換の狼煙！ 太陽誘電・NOTE・ダイナミック・スカイフォール・アキッパ・レイヤード",
-   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-   "channel_name": "Trader's Lab",
-   "channel_short": "TL",
-   "slot": 1,
-   "published": "2026-09-30T11:07:43+00:00",
-   "overview": "日経平均が1000円超の大幅高となり、短期トレンドも対局の上昇の流れに沿う動きが見られ下げ止まりが確定したと解説しています。主要指数や各種指標の環境認識を行った上で、個別銘柄として太陽誘電、NOTE、ダイナミックマッププラットフォームなどの動向や売買戦略を分析しています。セカンダリー銘柄等も含め、チャート形状に応じたデイトレードや反発狙いのアプローチを提示しています。",
-   "market_view": "日経平均は1000円超の大幅高で下げ止まりが確定し、上昇転換の兆しを見せています。トピックスや米国株の月足トレンドも良好で、全体としてロング目線ベースで堅調な推移が期待できる環境です。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "太陽誘電",
-     "ticker": "6976",
-     "stance": "neutral",
-     "timestamp": "14:53"
-    },
-    {
-     "name": "NOTE",
-     "ticker": "5243",
-     "stance": "bullish",
-     "timestamp": "18:41"
-    },
-    {
-     "name": "ダイナミックマッププラットフォーム",
-     "ticker": "4173",
-     "stance": "neutral",
-     "timestamp": "22:15"
-    },
-    {
-     "name": "スカイフォール",
-     "ticker": "",
-     "stance": "neutral",
-     "timestamp": "23:18"
-    },
-    {
-     "name": "akippa",
-     "ticker": "",
-     "stance": "neutral",
-     "timestamp": "24:22"
-    },
-    {
-     "name": "レイヤード",
-     "ticker": "",
-     "stance": "neutral",
-     "timestamp": "25:38"
     }
    ]
   },

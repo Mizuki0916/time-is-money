@@ -239,6 +239,113 @@
    ]
   },
   {
+   "video_id": "RGBKcYPweZY",
+   "title": "【日経平均】 雇用統計通過後 AI相場反撃開始！ アドバンテスト・NOTE・テクニスコ・ノースサンド",
+   "published": "2026-10-02T11:12:21+00:00",
+   "description": "※動画の趣旨は個人的主観の予測であり、値動きを保証するものではありません。\n　投資の判断は自己責任でお願いします。\n\nトレンド分析マスターコース\n「無料オンライン講座(全5回)」＆豪華特典プレゼント！\n【完全無料】→ https://www.fpo.jp/suzuki/\n\n◉トレンド分析の基礎おすすめ動画\n【永久保存版】初心者でもわかるダウ理論の使い方【前編】\nhttps://youtu.be/re9XBR2qcBw\n【永久保存版】初心者でもわかるダウ理論の使い方【後編】\nhttps://youtu.be/Z21W4VFSs9g\n【知らなきゃ勝てない】移動平均線で相場を読む最強の方法\nhttps://youtu.be/FfSX8hcRR2I\n【一目均衡表の真髄】初心者でも分かる完全ガイド\nhttps://youtu.be/xPkb1twTFFI\n\n◉SBI証券株式会社キャンペーン　手数料無",
+   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+   "channel_name": "Trader's Lab",
+   "channel_short": "TL",
+   "slot": 1,
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "雇用統計通過前でありながら先物市場で日経平均が上昇し、短中長期の全期間で上目線への転換が確認できる環境について解説しています。AI・半導体関連銘柄が牽引するAIバブル相場の再開を示唆し、PER17倍の水準が強固なサポートになると分析しています。個別銘柄では地合いより強いモメンタムを持つ銘柄として、史上最高値を更新したアドバンテストのほか、バンド型の上昇トレンドを形成しているnote、テクニスコ、ノースサンドのチャート優位性を解説しています。",
+   "market_view": "日経平均は先物市場での大幅高により短中長期の全目線で上目線に転換し、AI・半導体関連株主導の相場が再開しつつある。PER17倍水準(6万7000円台)が強いサポートとして機能する見込み。",
+   "market": "JP",
+   "picks": [
+    {
+     "name": "日経平均株価",
+     "name_en": "Nikkei 225",
+     "ticker": "",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "短中長期の全期間で上目線へ転換",
+     "target_price": "70000円",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "先物市場で6万9000円台まで大きく上昇し、8月の高値水準に匹敵する強さを見せているため。",
+      "AI・半導体関連株への資金流入が続いており、短中長期のすべての期間で上目線となったため。",
+      "PER17倍の水準(6万7000円台)が強力なサポートラインとして機能すると考えられるため。"
+     ],
+     "timestamp": "03:47",
+     "confidence": "high"
+    },
+    {
+     "name": "アドバンテスト",
+     "name_en": "Advantest Corporation",
+     "ticker": "6857",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "地合い超えの強さで史上最高値更新",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "米国株やSOX指数の上昇を背景に、市場全体の地合いと逆行して本日史上最高値を更新したため。",
+      "信用改算156万株に対し売り算188万株と売り長であり、需給面で良好な好影響があるため。",
+      "月足・週足ともにトレンドフォロー型で一貫した強い上昇トレンドが継続しているため。"
+     ],
+     "timestamp": "16:29",
+     "confidence": "high"
+    },
+    {
+     "name": "note",
+     "name_en": "note inc.",
+     "ticker": "5243",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "月足・週足で強いバンド型上昇継続",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "姫路市教育委員会による私立校全校への導入ニュース等を背景に3日連続上昇で最高値を更新したため。",
+      "時価総額が約800億円弱と低いため、大口資金の流入による株価押し上げ効果が大きい点。",
+      "月足・週足・日足でバンド型の上昇トレンドを形成しており中長期で大きな値幅が期待できるため。"
+     ],
+     "timestamp": "18:41",
+     "confidence": "high"
+    },
+    {
+     "name": "テクニスコ",
+     "name_en": "Tecnisco Ltd.",
+     "ticker": "2962",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "月足・日足のバンド型で最高値更新",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "高機能ヒートシンク部品の大型受注材料をきっかけに本日も材料なしで史上最高値を更新したため。",
+      "時価総額が小さいため、中小型株特有の大口資金流入による株価急上昇の恩恵を受けやすい点。",
+      "月足や日足で綺麗なバンド型チャートを形成しており、継続して上値を追う展開が期待できるため。"
+     ],
+     "timestamp": "22:25",
+     "confidence": "high"
+    },
+    {
+     "name": "ノースサンド",
+     "name_en": "Northsand Inc.",
+     "ticker": "",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "売り圧力のない青天井の最高値更新",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "ITコンサルティング関連銘柄が買われるセクター優位に乗る形で本日史上最高値を更新したため。",
+      "上場来高値を更新した青天井の状態であり、上値にシコリ玉が存在しないため買われやすい点。",
+      "日足・週足ともにボリンジャーバンドのバンド型を形成しており、モメンタムが非常に強いため。"
+     ],
+     "timestamp": "25:19",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
    "video_id": "woA1S-6pagY",
    "title": "【日経平均】 連日爆上げ！ 今後の値動きはこう考える アドバンテスト・イビデン・太陽誘電・NOTE・テクニスコ・ユニチカ",
    "published": "2026-10-01T11:05:40+00:00",
@@ -354,125 +461,6 @@
      ],
      "timestamp": "30:45",
      "confidence": "medium"
-    }
-   ]
-  },
-  {
-   "video_id": "MhSr-8LKlwU",
-   "title": "【日経平均】 大幅上昇 上昇転換の狼煙！ 太陽誘電・NOTE・ダイナミック・スカイフォール・アキッパ・レイヤード",
-   "published": "2026-09-30T11:07:43+00:00",
-   "description": "※動画の趣旨は個人的主観の予測であり、値動きを保証するものではありません。\n　投資の判断は自己責任でお願いします。\n\n◉トレンド分析の基礎おすすめ動画\n【永久保存版】初心者でもわかるダウ理論の使い方【前編】\nhttps://youtu.be/re9XBR2qcBw\n【永久保存版】初心者でもわかるダウ理論の使い方【後編】\nhttps://youtu.be/Z21W4VFSs9g\n【知らなきゃ勝てない】移動平均線で相場を読む最強の方法\nhttps://youtu.be/FfSX8hcRR2I\n【一目均衡表の真髄】初心者でも分かる完全ガイド\nhttps://youtu.be/xPkb1twTFFI\n\n◉SBI証券株式会社キャンペーン　手数料無料、取引ツール便利PR\nhttps://h.accesstrade.net/sp/cc?rk=0100q3pa00on8p\n\n◉松井証券証券株式会社キャンペ",
-   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-   "channel_name": "Trader's Lab",
-   "channel_short": "TL",
-   "slot": 1,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "日経平均が1000円超の大幅高となり、短期トレンドも対局の上昇の流れに沿う動きが見られ下げ止まりが確定したと解説しています。主要指数や各種指標の環境認識を行った上で、個別銘柄として太陽誘電、NOTE、ダイナミックマッププラットフォームなどの動向や売買戦略を分析しています。セカンダリー銘柄等も含め、チャート形状に応じたデイトレードや反発狙いのアプローチを提示しています。",
-   "market_view": "日経平均は1000円超の大幅高で下げ止まりが確定し、上昇転換の兆しを見せています。トピックスや米国株の月足トレンドも良好で、全体としてロング目線ベースで堅調な推移が期待できる環境です。",
-   "market": "JP",
-   "picks": [
-    {
-     "name": "太陽誘電",
-     "name_en": "Taiyo Yuden Co., Ltd.",
-     "ticker": "6976",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "上昇・下落を繰り返すレンジ相場で短期売買向き",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "TDKとの共同開発合意の材料で買われたものの、直近のチャートはレンジ色の強い形状となっている。",
-      "移動平均線やボリンジャーバンドのスクイーズにより上がれば売られやすく、決め打ちのエントリーは避けるべき。"
-     ],
-     "timestamp": "14:53",
-     "confidence": "medium"
-    },
-    {
-     "name": "NOTE",
-     "name_en": "note Inc.",
-     "ticker": "5243",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "上場来高値更新で青天井の展開が期待できる",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "姫路市教育委員会が管轄する私立学校への導入材料を背景に3日続進し、上場来高値を更新した。",
-      "損をしている投資家がおらず売りが出にくい状況で、月足もバンドウォークの好形状を描いている。"
-     ],
-     "timestamp": "18:41",
-     "confidence": "medium"
-    },
-    {
-     "name": "ダイナミックマッププラットフォーム",
-     "name_en": "Dynamic Map Platform Co., Ltd.",
-     "ticker": "4173",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "材料出尽くし感もあり基本はデイトレ中心",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "鹿島との自動物流道路実証実験が国の事業に採択されたニュースを受けて買われPTSでも上昇した。",
-      "5日線付近で押し目買いが入る動きは見られるが、日が浅いセカンダリー銘柄のためデイトレに徹するのが無難。"
-     ],
-     "timestamp": "22:15",
-     "confidence": "medium"
-    },
-    {
-     "name": "スカイフォール",
-     "name_en": "Skyfall Inc.",
-     "ticker": "",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "高いリスクを踏まえ時間軸を絞ったデイトレ限定",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "ボラティリティが非常に高くリスクが大きいため、時間軸を明確に限定したデイトレードに徹する必要がある。",
-      "直近の高値ブレイクライン付近で下げ止まる動きが見られ、短期的な自立反発を狙う余地が残る。"
-     ],
-     "timestamp": "23:18",
-     "confidence": "low"
-    },
-    {
-     "name": "akippa",
-     "name_en": "akippa Inc.",
-     "ticker": "",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "陰線連発で調整局面、窓埋め水準でのリバ狙い",
-     "target_price": "",
-     "entry": "1637円付近",
-     "stop": "",
-     "reasons": [
-      "2日連続で上髭伴う陰線を形成しておりチャート形状は悪化、出来高を伴った投げ売り等に警戒を要する。",
-      "チャート上の窓埋め水準である1637円付近まで下落した場合は、一時的な自立反発狙いの買いが検討できる。"
-     ],
-     "timestamp": "24:22",
-     "confidence": "low"
-    },
-    {
-     "name": "レイヤード",
-     "name_en": "Layered Inc.",
-     "ticker": "",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "ストップ高3連発後の調整で窓埋め待ち",
-     "target_price": "",
-     "entry": "2611円付近",
-     "stop": "",
-     "reasons": [
-      "短期間でストップ高を3回交えて株価がほぼ2倍に急騰したため、一旦相場は調整局面入りしたと見られる。",
-      "現水準でのエントリーは難しく、2611円付近の窓埋め水準まで下落した際の自立反発を狙うのが無難。"
-     ],
-     "timestamp": "25:38",
-     "confidence": "low"
     }
    ]
   },

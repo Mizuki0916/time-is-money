@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-03T03:57:30.256580+09:00",
+ "generated_at": "2026-10-03T06:51:44.787160+09:00",
  "channels": [
   {
    "id": "UCsaeHha7ai_NNX8or8Jyb-g",
@@ -7,7 +7,7 @@
    "short": "TL",
    "slot": 1,
    "video_count": 2,
-   "latest": "2026-10-01T11:05:40+00:00"
+   "latest": "2026-10-02T11:12:21+00:00"
   },
   {
    "id": "UCdQdRRLoajrt-5TEaAxslxA",
@@ -35,10 +35,10 @@
   }
  ],
  "stats": {
-  "stocks": 27,
+  "stocks": 26,
   "videos": 8,
   "videos_this_week": 6,
-  "bullish_lead": 14,
+  "bullish_lead": 16,
   "split": 0,
   "skipped": 0
  },
@@ -50,6 +50,28 @@
    "ticker": "6857",
    "market": "JP",
    "mentions": [
+    {
+     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+     "channel_name": "Trader's Lab",
+     "channel_short": "TL",
+     "slot": 1,
+     "video_id": "RGBKcYPweZY",
+     "video_title": "【日経平均】 雇用統計通過後 AI相場反撃開始！ アドバンテスト・NOTE・テクニスコ・ノースサンド",
+     "published": "2026-10-02T11:12:21+00:00",
+     "stance": "bullish",
+     "stance_note": "地合い超えの強さで史上最高値更新",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "米国株やSOX指数の上昇を背景に、市場全体の地合いと逆行して本日史上最高値を更新したため。",
+      "信用改算156万株に対し売り算188万株と売り長であり、需給面で良好な好影響があるため。",
+      "月足・週足ともにトレンドフォロー型で一貫した強い上昇トレンドが継続しているため。"
+     ],
+     "timestamp": "16:29",
+     "seconds": 989,
+     "confidence": "high"
+    },
     {
      "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
      "channel_name": "Sho's投資情報局",
@@ -142,7 +164,7 @@
    },
    "voices": 3,
    "split": false,
-   "last_mentioned": "2026-10-01T16:11:02+00:00",
+   "last_mentioned": "2026-10-02T11:12:21+00:00",
    "channel_ids": [
     "UCK9Pl6bbWqMC_x7IDca2tIg",
     "UCdQdRRLoajrt-5TEaAxslxA",
@@ -210,7 +232,7 @@
     "market_open": false,
     "symbol": "6857.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-02T18:57:30.261366+00:00"
+    "fetched_at": "2026-10-02T21:51:45.268763+00:00"
    }
   },
   {
@@ -282,27 +304,6 @@
      "timestamp": "09:05",
      "seconds": 545,
      "confidence": "high"
-    },
-    {
-     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-     "channel_name": "Trader's Lab",
-     "channel_short": "TL",
-     "slot": 1,
-     "video_id": "MhSr-8LKlwU",
-     "video_title": "【日経平均】 大幅上昇 上昇転換の狼煙！ 太陽誘電・NOTE・ダイナミック・スカイフォール・アキッパ・レイヤード",
-     "published": "2026-09-30T11:07:43+00:00",
-     "stance": "neutral",
-     "stance_note": "上昇・下落を繰り返すレンジ相場で短期売買向き",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "TDKとの共同開発合意の材料で買われたものの、直近のチャートはレンジ色の強い形状となっている。",
-      "移動平均線やボリンジャーバンドのスクイーズにより上がれば売られやすく、決め打ちのエントリーは避けるべき。"
-     ],
-     "timestamp": "14:53",
-     "seconds": 893,
-     "confidence": "medium"
     },
     {
      "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
@@ -401,7 +402,7 @@
     "market_open": false,
     "symbol": "6976.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-02T18:57:30.261366+00:00"
+    "fetched_at": "2026-10-02T21:51:45.268763+00:00"
    }
   },
   {
@@ -548,7 +549,7 @@
     "market_open": false,
     "symbol": "285A.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-02T18:57:30.261366+00:00"
+    "fetched_at": "2026-10-02T21:51:45.268763+00:00"
    }
   },
   {
@@ -696,14 +697,14 @@
     "market_open": false,
     "symbol": "9984.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-02T18:57:30.261366+00:00"
+    "fetched_at": "2026-10-02T21:51:45.268763+00:00"
    }
   },
   {
-   "key": "JP:625A",
-   "name": "スカイフォール",
-   "name_en": "Skyfall Inc.",
-   "ticker": "625A",
+   "key": "IDX:^N225",
+   "name": "日経平均",
+   "name_en": "Nikkei 225",
+   "ticker": "",
    "market": "JP",
    "mentions": [
     {
@@ -711,88 +712,458 @@
      "channel_name": "Trader's Lab",
      "channel_short": "TL",
      "slot": 1,
-     "video_id": "MhSr-8LKlwU",
-     "video_title": "【日経平均】 大幅上昇 上昇転換の狼煙！ 太陽誘電・NOTE・ダイナミック・スカイフォール・アキッパ・レイヤード",
-     "published": "2026-09-30T11:07:43+00:00",
-     "stance": "neutral",
-     "stance_note": "高いリスクを踏まえ時間軸を絞ったデイトレ限定",
-     "target_price": "",
+     "video_id": "RGBKcYPweZY",
+     "video_title": "【日経平均】 雇用統計通過後 AI相場反撃開始！ アドバンテスト・NOTE・テクニスコ・ノースサンド",
+     "published": "2026-10-02T11:12:21+00:00",
+     "stance": "bullish",
+     "stance_note": "短中長期の全期間で上目線へ転換",
+     "target_price": "70000円",
      "entry": "",
      "stop": "",
      "reasons": [
-      "ボラティリティが非常に高くリスクが大きいため、時間軸を明確に限定したデイトレードに徹する必要がある。",
-      "直近の高値ブレイクライン付近で下げ止まる動きが見られ、短期的な自立反発を狙う余地が残る。"
+      "先物市場で6万9000円台まで大きく上昇し、8月の高値水準に匹敵する強さを見せているため。",
+      "AI・半導体関連株への資金流入が続いており、短中長期のすべての期間で上目線となったため。",
+      "PER17倍の水準(6万7000円台)が強力なサポートラインとして機能すると考えられるため。"
      ],
-     "timestamp": "23:18",
-     "seconds": 1398,
-     "confidence": "low"
-    },
-    {
-     "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-     "channel_name": "トレーダーTOMO",
-     "channel_short": "TOMO",
-     "slot": 2,
-     "video_id": "r2HPqx42amE",
-     "video_title": "今日の活況銘柄を見てみる！（キオクシア・ソフトバンクグループ・太陽誘電・村田製作所・アキッパ・スカイフォールなど）株式テクニカルチャート分析",
-     "published": "2026-09-30T07:11:25+00:00",
-     "stance": "neutral",
-     "stance_note": "ストップ高後に崩れるもライン維持で注視",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "大幅ギャップアップ後に一時ストップ高を付けるも大幅下落し、他銘柄に資金が流れると厳しくなる傾向があるため。",
-      "前日出来高のあった1800円少し上のラインでぴったり下げ止まっており、明日以降復活する可能性も残されているため。"
-     ],
-     "timestamp": "09:28",
-     "seconds": 568,
-     "confidence": "medium"
+     "timestamp": "03:47",
+     "seconds": 227,
+     "confidence": "high"
     }
    ],
    "consensus": {
-    "bullish": 0,
+    "bullish": 1,
     "bearish": 0,
-    "neutral": 2
+    "neutral": 0
    },
-   "voices": 2,
+   "voices": 1,
    "split": false,
-   "last_mentioned": "2026-09-30T11:07:43+00:00",
+   "last_mentioned": "2026-10-02T11:12:21+00:00",
    "channel_ids": [
-    "UCdQdRRLoajrt-5TEaAxslxA",
+    "UCsaeHha7ai_NNX8or8Jyb-g"
+   ],
+   "price": {
+    "date": "2026-10-01",
+    "close": 68956.72,
+    "change_pct": 3.3,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 184600000,
+    "volume_ratio": 1.18,
+    "rsi14": 65.9,
+    "rsi_zone": "中立",
+    "ma25": 65433.66,
+    "ma75": 66734.34,
+    "trend": "戻り歩調",
+    "pos52": 88,
+    "spark": [
+     63754.9,
+     63957.53,
+     66300.44,
+     65683.26,
+     65606.71,
+     66970.22,
+     67524.06,
+     68308.59,
+     68713.8,
+     69220.25,
+     67460.73,
+     65326.42,
+     66216.79,
+     66016.36,
+     65528.09,
+     65856.43,
+     66262.16,
+     66131.98,
+     66405.56,
+     66311.93,
+     66215.34,
+     64325.64,
+     64214.48,
+     65020.94,
+     66399.84,
+     65269.33,
+     65142.78,
+     65270.95,
+     64011.34,
+     63492.99,
+     63484.1,
+     63923.0,
+     64136.25,
+     65018.95,
+     65513.99,
+     66364.2,
+     65877.62,
+     65481.27,
+     66753.72,
+     68956.72
+    ],
+    "currency": "JPY",
+    "exchange_name": "Osaka",
+    "market_open": false,
+    "symbol": "^N225",
+    "source": "yahoo",
+    "fetched_at": "2026-10-02T21:51:45.268763+00:00"
+   }
+  },
+  {
+   "key": "JP:5243",
+   "name": "note",
+   "name_en": "note inc.",
+   "ticker": "5243",
+   "market": "JP",
+   "mentions": [
+    {
+     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+     "channel_name": "Trader's Lab",
+     "channel_short": "TL",
+     "slot": 1,
+     "video_id": "RGBKcYPweZY",
+     "video_title": "【日経平均】 雇用統計通過後 AI相場反撃開始！ アドバンテスト・NOTE・テクニスコ・ノースサンド",
+     "published": "2026-10-02T11:12:21+00:00",
+     "stance": "bullish",
+     "stance_note": "月足・週足で強いバンド型上昇継続",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "姫路市教育委員会による私立校全校への導入ニュース等を背景に3日連続上昇で最高値を更新したため。",
+      "時価総額が約800億円弱と低いため、大口資金の流入による株価押し上げ効果が大きい点。",
+      "月足・週足・日足でバンド型の上昇トレンドを形成しており中長期で大きな値幅が期待できるため。"
+     ],
+     "timestamp": "18:41",
+     "seconds": 1121,
+     "confidence": "high"
+    },
+    {
+     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+     "channel_name": "Trader's Lab",
+     "channel_short": "TL",
+     "slot": 1,
+     "video_id": "woA1S-6pagY",
+     "video_title": "【日経平均】 連日爆上げ！ 今後の値動きはこう考える アドバンテスト・イビデン・太陽誘電・NOTE・テクニスコ・ユニチカ",
+     "published": "2026-10-01T11:05:40+00:00",
+     "stance": "bullish",
+     "stance_note": "短期加熱感注意も上位足は完全上目線",
+     "target_price": "10000",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "教育現場への導入ニュースをきっかけに出来高を伴う大陽線をつけており、上位足すべてでトレンドフォロー状態なため。",
+      "短期的には移動平均乖離率が高く加熱感があるものの、長期的なエリオット波動の理論値では1万円目標も期待されるため。"
+     ],
+     "timestamp": "23:56",
+     "seconds": 1436,
+     "confidence": "high"
+    }
+   ],
+   "consensus": {
+    "bullish": 1,
+    "bearish": 0,
+    "neutral": 0
+   },
+   "voices": 1,
+   "split": false,
+   "last_mentioned": "2026-10-02T11:12:21+00:00",
+   "channel_ids": [
     "UCsaeHha7ai_NNX8or8Jyb-g"
    ],
    "price": {
     "date": "2026-10-02",
-    "close": 1711.0,
-    "change_pct": -5.21,
+    "close": 4100.0,
+    "change_pct": 4.19,
     "live": null,
     "live_change_pct": null,
     "live_time": null,
-    "volume": 2529900,
-    "volume_ratio": null,
-    "rsi14": null,
-    "rsi_zone": "",
-    "ma25": null,
-    "ma75": null,
-    "trend": "判定不可",
-    "pos52": null,
+    "volume": 991300,
+    "volume_ratio": 2.52,
+    "rsi14": 81.7,
+    "rsi_zone": "買われすぎ",
+    "ma25": 3062.64,
+    "ma75": 2437.23,
+    "trend": "上昇基調",
+    "pos52": 100,
     "spark": [
-     1523.0,
-     1555.0,
-     1613.0,
-     1627.0,
-     1680.0,
-     2080.0,
-     1900.0,
-     1805.0,
-     1711.0
+     2158.0,
+     2288.0,
+     2314.0,
+     2274.0,
+     2389.0,
+     2473.0,
+     2532.0,
+     2560.0,
+     2573.0,
+     2570.0,
+     2490.0,
+     2596.0,
+     2550.0,
+     2550.0,
+     2551.0,
+     2695.0,
+     2792.0,
+     3085.0,
+     3065.0,
+     2890.0,
+     2782.0,
+     2701.0,
+     2970.0,
+     3000.0,
+     2910.0,
+     2824.0,
+     2861.0,
+     2812.0,
+     2888.0,
+     3010.0,
+     2951.0,
+     3030.0,
+     3135.0,
+     3155.0,
+     3055.0,
+     3160.0,
+     3190.0,
+     3570.0,
+     3935.0,
+     4100.0
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
     "market_open": false,
-    "symbol": "625A.T",
+    "symbol": "5243.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-02T18:57:30.261366+00:00"
+    "fetched_at": "2026-10-02T21:51:45.268763+00:00"
+   }
+  },
+  {
+   "key": "JP:2962",
+   "name": "テクニスコ",
+   "name_en": "Tecnisco Ltd.",
+   "ticker": "2962",
+   "market": "JP",
+   "mentions": [
+    {
+     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+     "channel_name": "Trader's Lab",
+     "channel_short": "TL",
+     "slot": 1,
+     "video_id": "RGBKcYPweZY",
+     "video_title": "【日経平均】 雇用統計通過後 AI相場反撃開始！ アドバンテスト・NOTE・テクニスコ・ノースサンド",
+     "published": "2026-10-02T11:12:21+00:00",
+     "stance": "bullish",
+     "stance_note": "月足・日足のバンド型で最高値更新",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "高機能ヒートシンク部品の大型受注材料をきっかけに本日も材料なしで史上最高値を更新したため。",
+      "時価総額が小さいため、中小型株特有の大口資金流入による株価急上昇の恩恵を受けやすい点。",
+      "月足や日足で綺麗なバンド型チャートを形成しており、継続して上値を追う展開が期待できるため。"
+     ],
+     "timestamp": "22:25",
+     "seconds": 1345,
+     "confidence": "high"
+    },
+    {
+     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+     "channel_name": "Trader's Lab",
+     "channel_short": "TL",
+     "slot": 1,
+     "video_id": "woA1S-6pagY",
+     "video_title": "【日経平均】 連日爆上げ！ 今後の値動きはこう考える アドバンテスト・イビデン・太陽誘電・NOTE・テクニスコ・ユニチカ",
+     "published": "2026-10-01T11:05:40+00:00",
+     "stance": "bullish",
+     "stance_note": "綺麗な右肩上がりで最高値更新継続",
+     "target_price": "",
+     "entry": "",
+     "stop": "1950",
+     "reasons": [
+      "ヒートシンク部品の受注獲得を契機に史上最高値を更新しており、月足・週足・日足で綺麗にバンドウォークしているため。",
+      "小型株特有の調整下げは想定されるものの、直近安値の1950円を割らない限り右肩上がりの上昇トレンドが継続するため。"
+     ],
+     "timestamp": "28:01",
+     "seconds": 1681,
+     "confidence": "high"
+    }
+   ],
+   "consensus": {
+    "bullish": 1,
+    "bearish": 0,
+    "neutral": 0
+   },
+   "voices": 1,
+   "split": false,
+   "last_mentioned": "2026-10-02T11:12:21+00:00",
+   "channel_ids": [
+    "UCsaeHha7ai_NNX8or8Jyb-g"
+   ],
+   "price": {
+    "date": "2026-10-02",
+    "close": 2732.0,
+    "change_pct": 9.5,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 876700,
+    "volume_ratio": 1.87,
+    "rsi14": 76.4,
+    "rsi_zone": "買われすぎ",
+    "ma25": 1871.44,
+    "ma75": 1540.53,
+    "trend": "上昇基調",
+    "pos52": 100,
+    "spark": [
+     1192.0,
+     1279.0,
+     1217.0,
+     1250.0,
+     1267.0,
+     1316.0,
+     1425.0,
+     1373.0,
+     1359.0,
+     1659.0,
+     1740.0,
+     1605.0,
+     1549.0,
+     1521.0,
+     1618.0,
+     1785.0,
+     1794.0,
+     1754.0,
+     1600.0,
+     1524.0,
+     1469.0,
+     1508.0,
+     1608.0,
+     1598.0,
+     1565.0,
+     1688.0,
+     1790.0,
+     1768.0,
+     1818.0,
+     1718.0,
+     1707.0,
+     1831.0,
+     2231.0,
+     2270.0,
+     2184.0,
+     2091.0,
+     2033.0,
+     2225.0,
+     2495.0,
+     2732.0
+    ],
+    "currency": "JPY",
+    "exchange_name": "Tokyo",
+    "market_open": false,
+    "symbol": "2962.T",
+    "source": "yahoo",
+    "fetched_at": "2026-10-02T21:51:45.268763+00:00"
+   }
+  },
+  {
+   "key": "NAME:ノースサンド",
+   "name": "ノースサンド",
+   "name_en": "Northsand Inc.",
+   "ticker": "",
+   "market": "JP",
+   "mentions": [
+    {
+     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+     "channel_name": "Trader's Lab",
+     "channel_short": "TL",
+     "slot": 1,
+     "video_id": "RGBKcYPweZY",
+     "video_title": "【日経平均】 雇用統計通過後 AI相場反撃開始！ アドバンテスト・NOTE・テクニスコ・ノースサンド",
+     "published": "2026-10-02T11:12:21+00:00",
+     "stance": "bullish",
+     "stance_note": "売り圧力のない青天井の最高値更新",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "ITコンサルティング関連銘柄が買われるセクター優位に乗る形で本日史上最高値を更新したため。",
+      "上場来高値を更新した青天井の状態であり、上値にシコリ玉が存在しないため買われやすい点。",
+      "日足・週足ともにボリンジャーバンドのバンド型を形成しており、モメンタムが非常に強いため。"
+     ],
+     "timestamp": "25:19",
+     "seconds": 1519,
+     "confidence": "high"
+    }
+   ],
+   "consensus": {
+    "bullish": 1,
+    "bearish": 0,
+    "neutral": 0
+   },
+   "voices": 1,
+   "split": false,
+   "last_mentioned": "2026-10-02T11:12:21+00:00",
+   "channel_ids": [
+    "UCsaeHha7ai_NNX8or8Jyb-g"
+   ],
+   "price": {
+    "date": "2026-10-02",
+    "close": 2572.0,
+    "change_pct": 11.15,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 1180500,
+    "volume_ratio": 1.54,
+    "rsi14": 71.0,
+    "rsi_zone": "買われすぎ",
+    "ma25": 2185.68,
+    "ma75": 1727.91,
+    "trend": "上昇基調",
+    "pos52": 100,
+    "spark": [
+     1611.0,
+     1633.0,
+     1680.0,
+     1645.0,
+     1649.0,
+     1725.0,
+     1781.0,
+     1840.0,
+     1857.0,
+     1865.0,
+     1937.0,
+     2034.0,
+     1985.0,
+     1929.0,
+     1958.0,
+     1975.0,
+     2005.0,
+     2141.0,
+     2123.0,
+     2186.0,
+     2180.0,
+     2161.0,
+     2312.0,
+     2144.0,
+     2149.0,
+     2014.0,
+     1937.0,
+     1914.0,
+     2012.0,
+     2099.0,
+     2116.0,
+     2221.0,
+     2309.0,
+     2384.0,
+     2313.0,
+     2332.0,
+     2334.0,
+     2395.0,
+     2314.0,
+     2572.0
+    ],
+    "currency": "JPY",
+    "exchange_name": "Tokyo",
+    "market_open": false,
+    "symbol": "446A.T",
+    "source": "yahoo-search",
+    "fetched_at": "2026-10-02T21:51:45.268763+00:00"
    }
   },
   {
@@ -918,7 +1289,7 @@
     "market_open": false,
     "symbol": "6920.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-02T18:57:30.261366+00:00"
+    "fetched_at": "2026-10-02T21:51:45.268763+00:00"
    }
   },
   {
@@ -1023,7 +1394,7 @@
     "market_open": false,
     "symbol": "6146.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-02T18:57:30.261366+00:00"
+    "fetched_at": "2026-10-02T21:51:45.268763+00:00"
    }
   },
   {
@@ -1128,7 +1499,7 @@
     "market_open": false,
     "symbol": "6890.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-02T18:57:30.261366+00:00"
+    "fetched_at": "2026-10-02T21:51:45.268763+00:00"
    }
   },
   {
@@ -1233,7 +1604,7 @@
     "market_open": false,
     "symbol": "7203.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-02T18:57:30.261366+00:00"
+    "fetched_at": "2026-10-02T21:51:45.268763+00:00"
    }
   },
   {
@@ -1298,22 +1669,21 @@
     "UCK9Pl6bbWqMC_x7IDca2tIg"
    ],
    "price": {
-    "date": "2026-10-01",
-    "close": 1097.39,
-    "change_pct": 3.03,
-    "live": 1077.22,
-    "live_change_pct": -1.84,
-    "live_time": 1790967469,
-    "volume": 45562800,
-    "volume_ratio": 1.76,
-    "rsi14": 63.5,
+    "date": "2026-10-02",
+    "close": 1074.89,
+    "change_pct": -2.05,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 26523742,
+    "volume_ratio": 1.03,
+    "rsi14": 59.3,
     "rsi_zone": "中立",
-    "ma25": 1003.99,
-    "ma75": 973.94,
+    "ma25": 1009.57,
+    "ma75": 974.66,
     "trend": "上昇基調",
-    "pos52": 89,
+    "pos52": 87,
     "spark": [
-     881.47,
      877.57,
      861.0,
      868.52,
@@ -1352,14 +1722,15 @@
      1053.98,
      1065.08,
      1065.11,
-     1097.39
+     1097.39,
+     1074.89
     ],
     "currency": "USD",
     "exchange_name": "NasdaqGS",
-    "market_open": true,
+    "market_open": false,
     "symbol": "MU",
     "source": "yahoo",
-    "fetched_at": "2026-10-02T18:57:30.261366+00:00"
+    "fetched_at": "2026-10-02T21:51:45.268763+00:00"
    }
   },
   {
@@ -1464,238 +1835,7 @@
     "market_open": false,
     "symbol": "4062.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-02T18:57:30.261366+00:00"
-   }
-  },
-  {
-   "key": "JP:5243",
-   "name": "note",
-   "name_en": "note inc.",
-   "ticker": "5243",
-   "market": "JP",
-   "mentions": [
-    {
-     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-     "channel_name": "Trader's Lab",
-     "channel_short": "TL",
-     "slot": 1,
-     "video_id": "woA1S-6pagY",
-     "video_title": "【日経平均】 連日爆上げ！ 今後の値動きはこう考える アドバンテスト・イビデン・太陽誘電・NOTE・テクニスコ・ユニチカ",
-     "published": "2026-10-01T11:05:40+00:00",
-     "stance": "bullish",
-     "stance_note": "短期加熱感注意も上位足は完全上目線",
-     "target_price": "10000",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "教育現場への導入ニュースをきっかけに出来高を伴う大陽線をつけており、上位足すべてでトレンドフォロー状態なため。",
-      "短期的には移動平均乖離率が高く加熱感があるものの、長期的なエリオット波動の理論値では1万円目標も期待されるため。"
-     ],
-     "timestamp": "23:56",
-     "seconds": 1436,
-     "confidence": "high"
-    },
-    {
-     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-     "channel_name": "Trader's Lab",
-     "channel_short": "TL",
-     "slot": 1,
-     "video_id": "MhSr-8LKlwU",
-     "video_title": "【日経平均】 大幅上昇 上昇転換の狼煙！ 太陽誘電・NOTE・ダイナミック・スカイフォール・アキッパ・レイヤード",
-     "published": "2026-09-30T11:07:43+00:00",
-     "stance": "bullish",
-     "stance_note": "上場来高値更新で青天井の展開が期待できる",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "姫路市教育委員会が管轄する私立学校への導入材料を背景に3日続進し、上場来高値を更新した。",
-      "損をしている投資家がおらず売りが出にくい状況で、月足もバンドウォークの好形状を描いている。"
-     ],
-     "timestamp": "18:41",
-     "seconds": 1121,
-     "confidence": "medium"
-    }
-   ],
-   "consensus": {
-    "bullish": 1,
-    "bearish": 0,
-    "neutral": 0
-   },
-   "voices": 1,
-   "split": false,
-   "last_mentioned": "2026-10-01T11:05:40+00:00",
-   "channel_ids": [
-    "UCsaeHha7ai_NNX8or8Jyb-g"
-   ],
-   "price": {
-    "date": "2026-10-02",
-    "close": 4100.0,
-    "change_pct": 4.19,
-    "live": null,
-    "live_change_pct": null,
-    "live_time": null,
-    "volume": 991300,
-    "volume_ratio": 2.52,
-    "rsi14": 81.7,
-    "rsi_zone": "買われすぎ",
-    "ma25": 3062.64,
-    "ma75": 2437.23,
-    "trend": "上昇基調",
-    "pos52": 100,
-    "spark": [
-     2158.0,
-     2288.0,
-     2314.0,
-     2274.0,
-     2389.0,
-     2473.0,
-     2532.0,
-     2560.0,
-     2573.0,
-     2570.0,
-     2490.0,
-     2596.0,
-     2550.0,
-     2550.0,
-     2551.0,
-     2695.0,
-     2792.0,
-     3085.0,
-     3065.0,
-     2890.0,
-     2782.0,
-     2701.0,
-     2970.0,
-     3000.0,
-     2910.0,
-     2824.0,
-     2861.0,
-     2812.0,
-     2888.0,
-     3010.0,
-     2951.0,
-     3030.0,
-     3135.0,
-     3155.0,
-     3055.0,
-     3160.0,
-     3190.0,
-     3570.0,
-     3935.0,
-     4100.0
-    ],
-    "currency": "JPY",
-    "exchange_name": "Tokyo",
-    "market_open": false,
-    "symbol": "5243.T",
-    "source": "yahoo",
-    "fetched_at": "2026-10-02T18:57:30.261366+00:00"
-   }
-  },
-  {
-   "key": "JP:2962",
-   "name": "テクニスコ",
-   "name_en": "Tecnisco Ltd.",
-   "ticker": "2962",
-   "market": "JP",
-   "mentions": [
-    {
-     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-     "channel_name": "Trader's Lab",
-     "channel_short": "TL",
-     "slot": 1,
-     "video_id": "woA1S-6pagY",
-     "video_title": "【日経平均】 連日爆上げ！ 今後の値動きはこう考える アドバンテスト・イビデン・太陽誘電・NOTE・テクニスコ・ユニチカ",
-     "published": "2026-10-01T11:05:40+00:00",
-     "stance": "bullish",
-     "stance_note": "綺麗な右肩上がりで最高値更新継続",
-     "target_price": "",
-     "entry": "",
-     "stop": "1950",
-     "reasons": [
-      "ヒートシンク部品の受注獲得を契機に史上最高値を更新しており、月足・週足・日足で綺麗にバンドウォークしているため。",
-      "小型株特有の調整下げは想定されるものの、直近安値の1950円を割らない限り右肩上がりの上昇トレンドが継続するため。"
-     ],
-     "timestamp": "28:01",
-     "seconds": 1681,
-     "confidence": "high"
-    }
-   ],
-   "consensus": {
-    "bullish": 1,
-    "bearish": 0,
-    "neutral": 0
-   },
-   "voices": 1,
-   "split": false,
-   "last_mentioned": "2026-10-01T11:05:40+00:00",
-   "channel_ids": [
-    "UCsaeHha7ai_NNX8or8Jyb-g"
-   ],
-   "price": {
-    "date": "2026-10-02",
-    "close": 2732.0,
-    "change_pct": 9.5,
-    "live": null,
-    "live_change_pct": null,
-    "live_time": null,
-    "volume": 876700,
-    "volume_ratio": 1.87,
-    "rsi14": 76.4,
-    "rsi_zone": "買われすぎ",
-    "ma25": 1871.44,
-    "ma75": 1540.53,
-    "trend": "上昇基調",
-    "pos52": 100,
-    "spark": [
-     1192.0,
-     1279.0,
-     1217.0,
-     1250.0,
-     1267.0,
-     1316.0,
-     1425.0,
-     1373.0,
-     1359.0,
-     1659.0,
-     1740.0,
-     1605.0,
-     1549.0,
-     1521.0,
-     1618.0,
-     1785.0,
-     1794.0,
-     1754.0,
-     1600.0,
-     1524.0,
-     1469.0,
-     1508.0,
-     1608.0,
-     1598.0,
-     1565.0,
-     1688.0,
-     1790.0,
-     1768.0,
-     1818.0,
-     1718.0,
-     1707.0,
-     1831.0,
-     2231.0,
-     2270.0,
-     2184.0,
-     2091.0,
-     2033.0,
-     2225.0,
-     2495.0,
-     2732.0
-    ],
-    "currency": "JPY",
-    "exchange_name": "Tokyo",
-    "market_open": false,
-    "symbol": "2962.T",
-    "source": "yahoo",
-    "fetched_at": "2026-10-02T18:57:30.261366+00:00"
+    "fetched_at": "2026-10-02T21:51:45.268763+00:00"
    }
   },
   {
@@ -1800,7 +1940,7 @@
     "market_open": false,
     "symbol": "3103.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-02T18:57:30.261366+00:00"
+    "fetched_at": "2026-10-02T21:51:45.268763+00:00"
    }
   },
   {
@@ -1904,7 +2044,7 @@
     "market_open": false,
     "symbol": "8766.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-02T18:57:30.261366+00:00"
+    "fetched_at": "2026-10-02T21:51:45.268763+00:00"
    }
   },
   {
@@ -2030,7 +2170,7 @@
     "market_open": false,
     "symbol": "6981.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-02T18:57:30.261366+00:00"
+    "fetched_at": "2026-10-02T21:51:45.268763+00:00"
    }
   },
   {
@@ -2156,7 +2296,7 @@
     "market_open": false,
     "symbol": "5803.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-02T18:57:30.261366+00:00"
+    "fetched_at": "2026-10-02T21:51:45.268763+00:00"
    }
   },
   {
@@ -2261,7 +2401,7 @@
     "market_open": false,
     "symbol": "6594.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-02T18:57:30.261366+00:00"
+    "fetched_at": "2026-10-02T21:51:45.268763+00:00"
    }
   },
   {
@@ -2366,35 +2506,35 @@
     "market_open": false,
     "symbol": "336A.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-02T18:57:30.261366+00:00"
+    "fetched_at": "2026-10-02T21:51:45.268763+00:00"
    }
   },
   {
-   "key": "JP:4173",
-   "name": "ダイナミックマッププラットフォーム",
-   "name_en": "Dynamic Map Platform Co., Ltd.",
-   "ticker": "4173",
+   "key": "JP:625A",
+   "name": "スカイフォール",
+   "name_en": "Skyfall Inc.",
+   "ticker": "625A",
    "market": "JP",
    "mentions": [
     {
-     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-     "channel_name": "Trader's Lab",
-     "channel_short": "TL",
-     "slot": 1,
-     "video_id": "MhSr-8LKlwU",
-     "video_title": "【日経平均】 大幅上昇 上昇転換の狼煙！ 太陽誘電・NOTE・ダイナミック・スカイフォール・アキッパ・レイヤード",
-     "published": "2026-09-30T11:07:43+00:00",
+     "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+     "channel_name": "トレーダーTOMO",
+     "channel_short": "TOMO",
+     "slot": 2,
+     "video_id": "r2HPqx42amE",
+     "video_title": "今日の活況銘柄を見てみる！（キオクシア・ソフトバンクグループ・太陽誘電・村田製作所・アキッパ・スカイフォールなど）株式テクニカルチャート分析",
+     "published": "2026-09-30T07:11:25+00:00",
      "stance": "neutral",
-     "stance_note": "材料出尽くし感もあり基本はデイトレ中心",
+     "stance_note": "ストップ高後に崩れるもライン維持で注視",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "鹿島との自動物流道路実証実験が国の事業に採択されたニュースを受けて買われPTSでも上昇した。",
-      "5日線付近で押し目買いが入る動きは見られるが、日が浅いセカンダリー銘柄のためデイトレに徹するのが無難。"
+      "大幅ギャップアップ後に一時ストップ高を付けるも大幅下落し、他銘柄に資金が流れると厳しくなる傾向があるため。",
+      "前日出来高のあった1800円少し上のラインでぴったり下げ止まっており、明日以降復活する可能性も残されているため。"
      ],
-     "timestamp": "22:15",
-     "seconds": 1335,
+     "timestamp": "09:28",
+     "seconds": 568,
      "confidence": "medium"
     }
    ],
@@ -2405,123 +2545,18 @@
    },
    "voices": 1,
    "split": false,
-   "last_mentioned": "2026-09-30T11:07:43+00:00",
+   "last_mentioned": "2026-09-30T07:11:25+00:00",
    "channel_ids": [
-    "UCsaeHha7ai_NNX8or8Jyb-g"
+    "UCdQdRRLoajrt-5TEaAxslxA"
    ],
    "price": {
     "date": "2026-10-02",
-    "close": 1621.0,
-    "change_pct": 0.06,
+    "close": 1711.0,
+    "change_pct": -5.21,
     "live": null,
     "live_change_pct": null,
     "live_time": null,
-    "volume": 10475700,
-    "volume_ratio": 1.29,
-    "rsi14": 64.7,
-    "rsi_zone": "中立",
-    "ma25": 1364.88,
-    "ma75": 1001.59,
-    "trend": "上昇基調",
-    "pos52": 87,
-    "spark": [
-     817.0,
-     832.0,
-     793.0,
-     792.0,
-     711.0,
-     717.0,
-     747.0,
-     805.0,
-     827.0,
-     814.0,
-     804.0,
-     848.0,
-     833.0,
-     815.0,
-     846.0,
-     851.0,
-     901.0,
-     1051.0,
-     1351.0,
-     1179.0,
-     1479.0,
-     1779.0,
-     1497.0,
-     1449.0,
-     1388.0,
-     1398.0,
-     1599.0,
-     1403.0,
-     1363.0,
-     1315.0,
-     1263.0,
-     1340.0,
-     1360.0,
-     1352.0,
-     1361.0,
-     1330.0,
-     1286.0,
-     1586.0,
-     1620.0,
-     1621.0
-    ],
-    "currency": "JPY",
-    "exchange_name": "Tokyo",
-    "market_open": false,
-    "symbol": "336A.T",
-    "source": "yahoo-search",
-    "fetched_at": "2026-10-02T18:57:30.261366+00:00"
-   }
-  },
-  {
-   "key": "NAME:AKIPPA",
-   "name": "akippa",
-   "name_en": "akippa Inc.",
-   "ticker": "",
-   "market": "JP",
-   "mentions": [
-    {
-     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-     "channel_name": "Trader's Lab",
-     "channel_short": "TL",
-     "slot": 1,
-     "video_id": "MhSr-8LKlwU",
-     "video_title": "【日経平均】 大幅上昇 上昇転換の狼煙！ 太陽誘電・NOTE・ダイナミック・スカイフォール・アキッパ・レイヤード",
-     "published": "2026-09-30T11:07:43+00:00",
-     "stance": "neutral",
-     "stance_note": "陰線連発で調整局面、窓埋め水準でのリバ狙い",
-     "target_price": "",
-     "entry": "1637円付近",
-     "stop": "",
-     "reasons": [
-      "2日連続で上髭伴う陰線を形成しておりチャート形状は悪化、出来高を伴った投げ売り等に警戒を要する。",
-      "チャート上の窓埋め水準である1637円付近まで下落した場合は、一時的な自立反発狙いの買いが検討できる。"
-     ],
-     "timestamp": "24:22",
-     "seconds": 1462,
-     "confidence": "low"
-    }
-   ],
-   "consensus": {
-    "bullish": 0,
-    "bearish": 0,
-    "neutral": 1
-   },
-   "voices": 1,
-   "split": false,
-   "last_mentioned": "2026-09-30T11:07:43+00:00",
-   "channel_ids": [
-    "UCsaeHha7ai_NNX8or8Jyb-g"
-   ],
-   "price": {
-    "date": "2026-10-02",
-    "close": 1778.0,
-    "change_pct": 1.89,
-    "live": null,
-    "live_change_pct": null,
-    "live_time": null,
-    "volume": 11148400,
+    "volume": 2529900,
     "volume_ratio": null,
     "rsi14": null,
     "rsi_zone": "",
@@ -2530,91 +2565,22 @@
     "trend": "判定不可",
     "pos52": null,
     "spark": [
-     1037.0,
-     1337.0,
-     1637.0,
-     2037.0,
-     2105.0,
-     2041.0,
-     1745.0,
-     1778.0
+     1523.0,
+     1555.0,
+     1613.0,
+     1627.0,
+     1680.0,
+     2080.0,
+     1900.0,
+     1805.0,
+     1711.0
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
     "market_open": false,
-    "symbol": "627A.T",
-    "source": "yahoo-search",
-    "fetched_at": "2026-10-02T18:57:30.261366+00:00"
-   }
-  },
-  {
-   "key": "NAME:レイヤード",
-   "name": "レイヤード",
-   "name_en": "Layered Inc.",
-   "ticker": "",
-   "market": "JP",
-   "mentions": [
-    {
-     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-     "channel_name": "Trader's Lab",
-     "channel_short": "TL",
-     "slot": 1,
-     "video_id": "MhSr-8LKlwU",
-     "video_title": "【日経平均】 大幅上昇 上昇転換の狼煙！ 太陽誘電・NOTE・ダイナミック・スカイフォール・アキッパ・レイヤード",
-     "published": "2026-09-30T11:07:43+00:00",
-     "stance": "neutral",
-     "stance_note": "ストップ高3連発後の調整で窓埋め待ち",
-     "target_price": "",
-     "entry": "2611円付近",
-     "stop": "",
-     "reasons": [
-      "短期間でストップ高を3回交えて株価がほぼ2倍に急騰したため、一旦相場は調整局面入りしたと見られる。",
-      "現水準でのエントリーは難しく、2611円付近の窓埋め水準まで下落した際の自立反発を狙うのが無難。"
-     ],
-     "timestamp": "25:38",
-     "seconds": 1538,
-     "confidence": "low"
-    }
-   ],
-   "consensus": {
-    "bullish": 0,
-    "bearish": 0,
-    "neutral": 1
-   },
-   "voices": 1,
-   "split": false,
-   "last_mentioned": "2026-09-30T11:07:43+00:00",
-   "channel_ids": [
-    "UCsaeHha7ai_NNX8or8Jyb-g"
-   ],
-   "price": {
-    "date": "2026-10-01",
-    "close": 2811.0,
-    "change_pct": -7.23,
-    "live": 2895.0,
-    "live_change_pct": 2.99,
-    "live_time": 1790916448,
-    "volume": 6545300,
-    "volume_ratio": null,
-    "rsi14": null,
-    "rsi_zone": "",
-    "ma25": null,
-    "ma75": null,
-    "trend": "判定不可",
-    "pos52": null,
-    "spark": [
-     2111.0,
-     2611.0,
-     3115.0,
-     3030.0,
-     2811.0
-    ],
-    "currency": "JPY",
-    "exchange_name": "Tokyo",
-    "market_open": true,
-    "symbol": "634A.T",
-    "source": "yahoo-search",
-    "fetched_at": "2026-10-02T05:01:51.782111+00:00"
+    "symbol": "625A.T",
+    "source": "yahoo",
+    "fetched_at": "2026-10-02T21:51:45.268763+00:00"
    }
   },
   {
@@ -2740,7 +2706,7 @@
     "market_open": false,
     "symbol": "5019.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-02T18:57:30.261366+00:00"
+    "fetched_at": "2026-10-02T21:51:45.268763+00:00"
    }
   },
   {
@@ -2864,7 +2830,7 @@
     "market_open": false,
     "symbol": "3132.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-02T18:57:30.261366+00:00"
+    "fetched_at": "2026-10-02T21:51:45.268763+00:00"
    }
   },
   {
@@ -2988,7 +2954,7 @@
     "market_open": false,
     "symbol": "2914.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-02T18:57:30.261366+00:00"
+    "fetched_at": "2026-10-02T21:51:45.268763+00:00"
    }
   },
   {
@@ -3092,7 +3058,7 @@
     "market_open": false,
     "symbol": "278A.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-02T18:57:30.261366+00:00"
+    "fetched_at": "2026-10-02T21:51:45.268763+00:00"
    }
   },
   {
@@ -3196,7 +3162,7 @@
     "market_open": false,
     "symbol": "4592.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-02T18:57:30.261366+00:00"
+    "fetched_at": "2026-10-02T21:51:45.268763+00:00"
    }
   }
  ]
