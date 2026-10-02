@@ -1,6 +1,58 @@
 {
- "generated_at": "2026-10-03T06:53:10.248360+09:00",
+ "generated_at": "2026-10-03T07:49:59.838509+09:00",
  "videos": [
+  {
+   "video_id": "YEPbyHoRHIU",
+   "title": "10/2【米雇用統計で日経平均爆上げか⁉】AI半導体株急騰で日本株２極化加速。バリュー株弱すぎる‼米国株、ナスダック、ハイテク株上がるか。ドル円１５7円。",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-10-02T14:42:29+00:00",
+   "overview": "米雇用統計の結果を受けて米国金利が低下し、利上げ懸念の交代から日経平均先物が大幅高となった局面でのライブ解説動画です。任天堂や野村不動産ホールディングスなどの個別銘柄について、PBRや信用需給の期日、フィボナッチ等のテクニカル分析を踏まえた戦略を提示。半導体関連など需給が良好な銘柄に資金が集中する二極化が加速する中、安値で買って中長期で待つ姿勢の重要性が語られています。",
+   "market_view": "米国金利低下を受けて先物が爆上げする一方、相場は半導体株などの需給が良い銘柄と弱さが目立つバリュー株で二極化が加速しており、需給面を重視した銘柄選択が必要です。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "任天堂",
+     "ticker": "7974",
+     "stance": "bullish",
+     "timestamp": "05:20"
+    },
+    {
+     "name": "SHIFT",
+     "ticker": "3697",
+     "stance": "neutral",
+     "timestamp": "10:12"
+    },
+    {
+     "name": "IHI",
+     "ticker": "7013",
+     "stance": "neutral",
+     "timestamp": "16:55"
+    },
+    {
+     "name": "レーザーテック",
+     "ticker": "6920",
+     "stance": "bullish",
+     "timestamp": "20:38"
+    },
+    {
+     "name": "JX金属",
+     "ticker": "5016",
+     "stance": "neutral",
+     "timestamp": "46:03"
+    },
+    {
+     "name": "野村不動産ホールディングス",
+     "ticker": "3231",
+     "stance": "neutral",
+     "timestamp": "52:57"
+    }
+   ]
+  },
   {
    "video_id": "RGBKcYPweZY",
    "title": "【日経平均】 雇用統計通過後 AI相場反撃開始！ アドバンテスト・NOTE・テクニスコ・ノースサンド",
@@ -44,6 +96,70 @@
      "ticker": "",
      "stance": "bullish",
      "timestamp": "25:19"
+    }
+   ]
+  },
+  {
+   "video_id": "GPHS62cGOPs",
+   "title": "今日の活況銘柄を見てみる！（村田製作所・太陽誘電・キオクシア・フジクラ・古河電工など）株式テクニカルチャート分析",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-10-02T07:07:13+00:00",
+   "overview": "日米の金利高止まりや米国雇用統計前の警戒感から持ち越しを控えめとする相場環境のなか、注目銘柄のテクニカルチャートと需給を分析しています。半導体や電線株が引き続き力強い動きを見せる一方、バリュー株などは苦しい展開となっています。特にアドバンテストやフジクラ、太陽誘電などの個別株において出来高を伴うブレイクやリバウンドの兆候を解説しています。",
+   "market_view": "日米の金利高や原油高、米雇用統計前のリスクから日経平均は下落しており、短期的には持ち越しを控え慎重な姿勢が求められる相場です。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "太陽誘電",
+     "ticker": "6976",
+     "stance": "bullish",
+     "timestamp": "02:30"
+    },
+    {
+     "name": "フジクラ",
+     "ticker": "5803",
+     "stance": "bullish",
+     "timestamp": "03:34"
+    },
+    {
+     "name": "ソフトバンクグループ",
+     "ticker": "9984",
+     "stance": "neutral",
+     "timestamp": "04:41"
+    },
+    {
+     "name": "古河電気工業",
+     "ticker": "5801",
+     "stance": "bullish",
+     "timestamp": "05:23"
+    },
+    {
+     "name": "東京海上ホールディングス",
+     "ticker": "8766",
+     "stance": "bearish",
+     "timestamp": "06:33"
+    },
+    {
+     "name": "キオクシアホールディングス",
+     "ticker": "285A",
+     "stance": "neutral",
+     "timestamp": "07:12"
+    },
+    {
+     "name": "村田製作所",
+     "ticker": "6981",
+     "stance": "bullish",
+     "timestamp": "08:28"
+    },
+    {
+     "name": "アドバンテスト",
+     "ticker": "6857",
+     "stance": "bullish",
+     "timestamp": "09:28"
     }
    ]
   },
@@ -164,46 +280,6 @@
    ]
   },
   {
-   "video_id": "9cSE0UxErRM",
-   "title": "10/1【日経平均2200円急騰騙し上げか⁉】AI半導体株急騰で日本株２極化加速。バリュー株弱すぎる‼レーザーテック爆上げ。マイクロン決算で米国株、ナスダック、ハイテク株上がるか。ドル円１５８円。",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-10-01T09:15:01+00:00",
-   "overview": "日経平均株価は2,200円超の急騰を見せたものの、AI・半導体株中心の上昇でありバリュー株は冴えない二極化相場となっています。動画では2018年の相場パターンとの類似性を挙げ、権利落ちに伴う空売りの減少や需給悪化による騙し上げの可能性を指摘しています。戻り売り圧力に注意しつつ、需給や回転の効いた銘柄への厳選投資を推奨しています。",
-   "market_view": "日経平均は大幅高となったものの、一部の半導体株に買いが偏っており、需給剥落による騙し上げや戻り売りに対する警戒感が必要な地合いです。",
-   "market": "MIX",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "レーザーテック",
-     "ticker": "6920",
-     "stance": "bullish",
-     "timestamp": "25:48"
-    },
-    {
-     "name": "アドバンテスト",
-     "ticker": "6857",
-     "stance": "bullish",
-     "timestamp": "24:59"
-    },
-    {
-     "name": "ソフトバンクグループ",
-     "ticker": "9984",
-     "stance": "bullish",
-     "timestamp": "27:41"
-    },
-    {
-     "name": "マイクロン・テクノロジー",
-     "ticker": "MU",
-     "stance": "neutral",
-     "timestamp": "34:26"
-    }
-   ]
-  },
-  {
    "video_id": "vvZBpG_WxpY",
    "title": "今日の活況銘柄を見てみる！（太陽誘電・村田製作所・SBG・キオクシア・ニデック・フジクラ等）株式テクニカルチャート分析",
    "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
@@ -270,58 +346,6 @@
      "ticker": "6857",
      "stance": "bullish",
      "timestamp": "13:41"
-    }
-   ]
-  },
-  {
-   "video_id": "r2HPqx42amE",
-   "title": "今日の活況銘柄を見てみる！（キオクシア・ソフトバンクグループ・太陽誘電・村田製作所・アキッパ・スカイフォールなど）株式テクニカルチャート分析",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-09-30T07:11:25+00:00",
-   "overview": "9月末の株式相場において、日経平均株価が大幅反発し全面高の展開となった市場動向と個別活況銘柄のテクニカル分析が語られています。太陽誘電や村田製作所、キオクシアなどは材料発表やシコリの重さから上値の重さが指摘されています。一方、ソフトバンクグループはオープンAI関連の材料を受けて上昇し、更なる上値追いが期待されるなど、銘柄ごとのトレード戦略が解説されています。",
-   "market_view": "9月最終日は日経平均が1272円高と幅広く買われて全面高となりました。月足や3ヶ月足チャートでも下のラインを固めて堅調さを維持しており、年末に向けた更なる上昇が期待できる状況です。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "太陽誘電",
-     "ticker": "6976",
-     "stance": "bearish",
-     "timestamp": "04:40"
-    },
-    {
-     "name": "ソフトバンクグループ",
-     "ticker": "9984",
-     "stance": "bullish",
-     "timestamp": "05:29"
-    },
-    {
-     "name": "村田製作所",
-     "ticker": "6981",
-     "stance": "bearish",
-     "timestamp": "08:12"
-    },
-    {
-     "name": "キオクシア",
-     "ticker": "285A",
-     "stance": "bearish",
-     "timestamp": "09:00"
-    },
-    {
-     "name": "スカイフォール",
-     "ticker": "625A",
-     "stance": "neutral",
-     "timestamp": "09:28"
-    },
-    {
-     "name": "フジクラ",
-     "ticker": "5803",
-     "stance": "neutral",
-     "timestamp": "10:35"
     }
    ]
   },

@@ -1,6 +1,126 @@
 {
  "videos": [
   {
+   "video_id": "YEPbyHoRHIU",
+   "title": "10/2【米雇用統計で日経平均爆上げか⁉】AI半導体株急騰で日本株２極化加速。バリュー株弱すぎる‼米国株、ナスダック、ハイテク株上がるか。ドル円１５7円。",
+   "published": "2026-10-02T14:42:29+00:00",
+   "description": "「12か月20％オフ」のメンバークーポンを10/11まで限定で配布します。\nMEDIABLEのVIP、プラチナプランが対象です。\n\n ※クーポンコード：yuki12\n\n\n◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーー",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "米雇用統計の結果を受けて米国金利が低下し、利上げ懸念の交代から日経平均先物が大幅高となった局面でのライブ解説動画です。任天堂や野村不動産ホールディングスなどの個別銘柄について、PBRや信用需給の期日、フィボナッチ等のテクニカル分析を踏まえた戦略を提示。半導体関連など需給が良好な銘柄に資金が集中する二極化が加速する中、安値で買って中長期で待つ姿勢の重要性が語られています。",
+   "market_view": "米国金利低下を受けて先物が爆上げする一方、相場は半導体株などの需給が良い銘柄と弱さが目立つバリュー株で二極化が加速しており、需給面を重視した銘柄選択が必要です。",
+   "market": "JP",
+   "picks": [
+    {
+     "name": "任天堂",
+     "name_en": "Nintendo Co., Ltd.",
+     "ticker": "7974",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "安値圏で仕込み中長期で戻りを待つ",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "PBRが3.1倍で過去数年平均の加減である2.5倍水準に近く、株価調整が進んでバリエーション面に割安感があるため。",
+      "10月6日付近で高値掴みの信用需給の壁を通過するため、以降は信用需給の悪影響が和らぎ軽くなる見込みであるため。",
+      "11月に最高傑作とされるゼルダの伝説の発売を控え、ゲーム関連材料に向けた上昇期待が高まるため。"
+     ],
+     "timestamp": "05:20",
+     "confidence": "high"
+    },
+    {
+     "name": "SHIFT",
+     "name_en": "SHIFT Inc.",
+     "ticker": "3697",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "ボリンジャーバンドの範囲内推移を観察",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "ボリンジャーバンドの幅が拡大から縮小へ転じており、バンドのトンネル形状の保ち合いへ移行しやすい局面のため。",
+      "MACDのゴールデンクロス形成が近づいており、RSIのトレンド抜けた後の上昇反応を確かめる段階にあるため。"
+     ],
+     "timestamp": "10:12",
+     "confidence": "medium"
+    },
+    {
+     "name": "IHI",
+     "name_en": "IHI Corporation",
+     "ticker": "7013",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "10月いっぱいは戻り売りの重さに警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "高値圏で捕まった投資家の戻り売り圧力が10月後半まで続く見込みであり、上値が重い展開になりやすいため。",
+      "10月末から11月末に近づくにつれて高値のシコリが解消され、徐々に需給が軽くなると想定されるため。"
+     ],
+     "timestamp": "16:55",
+     "confidence": "medium"
+    },
+    {
+     "name": "レーザーテック",
+     "name_en": "Lasertec Corporation",
+     "ticker": "6920",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "バンドウォーク継続で強い上昇を維持",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "ボリンジャーバンドの+4シグマ到達に伴う修正安が入ったものの、+2シグマに沿って上がるバンドウォークが継続しているため。",
+      "半導体銘柄の中でも信用需給が良好な部類であり、年末に向けて資金が優先的に集まりやすいため。"
+     ],
+     "timestamp": "20:38",
+     "confidence": "medium"
+    },
+    {
+     "name": "JX金属",
+     "name_en": "JX Advanced Metals Corporation",
+     "ticker": "5016",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "三角持ち合いのブレイク方向を見極め",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "チャート上で三角持ち合いを形成しており、上限・下限のラインのどちらに抜けるかを確認して追随すべき局面のため。"
+     ],
+     "timestamp": "46:03",
+     "confidence": "medium"
+    },
+    {
+     "name": "野村不動産ホールディングス",
+     "name_en": "Nomura Real Estate Holdings, Inc.",
+     "ticker": "3231",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "高配当を得つつ中長期で安値を拾う",
+     "target_price": "",
+     "entry": "851円〜797円",
+     "stop": "",
+     "reasons": [
+      "PBR1倍割れかつ解散価値割れの水準であり、配当利回りも5%を超えており中長期の下値リスクが低いため。",
+      "高値からのフィボナッチ・レッドゾーンである851円〜797円に接近しており、打診買いを検討できる水準のため。",
+      "金利高止まりで短期的・即座の反発は難しいものの、高い配当を受け取りながら時間をかけて株価回復を待てるため。"
+     ],
+     "timestamp": "52:57",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
    "video_id": "H6dmOmKKqrU",
    "title": "10/1【日経平均2200円急騰騙し上げか⁉】AI半導体株急騰で日本株２極化加速。バリュー株弱すぎる‼レーザーテック爆上げ。マイクロン決算で米国株、ナスダック、ハイテク株上がるか。ドル円１５８円。",
    "published": "2026-10-01T16:11:02+00:00",
@@ -149,91 +269,6 @@
       "米国半導体株全体の重荷となっており、日本市場のハイテク関連株への波及も警戒される。"
      ],
      "timestamp": "17:46",
-     "confidence": "medium"
-    }
-   ]
-  },
-  {
-   "video_id": "9cSE0UxErRM",
-   "title": "10/1【日経平均2200円急騰騙し上げか⁉】AI半導体株急騰で日本株２極化加速。バリュー株弱すぎる‼レーザーテック爆上げ。マイクロン決算で米国株、ナスダック、ハイテク株上がるか。ドル円１５８円。",
-   "published": "2026-10-01T09:15:01+00:00",
-   "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "日経平均株価は2,200円超の急騰を見せたものの、AI・半導体株中心の上昇でありバリュー株は冴えない二極化相場となっています。動画では2018年の相場パターンとの類似性を挙げ、権利落ちに伴う空売りの減少や需給悪化による騙し上げの可能性を指摘しています。戻り売り圧力に注意しつつ、需給や回転の効いた銘柄への厳選投資を推奨しています。",
-   "market_view": "日経平均は大幅高となったものの、一部の半導体株に買いが偏っており、需給剥落による騙し上げや戻り売りに対する警戒感が必要な地合いです。",
-   "market": "MIX",
-   "picks": [
-    {
-     "name": "レーザーテック",
-     "name_en": "Lasertec Corporation",
-     "ticker": "6920",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "需給が非常に良く株価大幅上昇",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "需給関係が非常に良好であり、11%を超える急騰を見せており半導体株の中でも際立ったパフォーマンスを示している点。",
-      "回転売買がしっかりと効いており、戻り売りの圧力をこなして強い上昇傾向を維持しているチャート形状である点。"
-     ],
-     "timestamp": "25:48",
-     "confidence": "medium"
-    },
-    {
-     "name": "アドバンテスト",
-     "name_en": "Advantest Corporation",
-     "ticker": "6857",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "需給良好で日経平均の上昇を牽引",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "日経平均の上昇寄与度トップとして指数を大幅に押し上げており、半導体株の上昇トレンドに乗っている点。",
-      "レーザーテックと同様に需給が良く、売買の回転が効いているため高値を追える強い展開が続いている点。"
-     ],
-     "timestamp": "24:59",
-     "confidence": "medium"
-    },
-    {
-     "name": "ソフトバンクグループ",
-     "name_en": "SoftBank Group Corp.",
-     "ticker": "9984",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "逆ヘッドアンドショルダー形成で上値期待",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "チャート上で逆ヘッドアンドショルダーの形状を形成しつつあり、ネックライン上抜けによる上値追いが期待できる点。",
-      "日経平均の上昇寄与度上位に入っており、ハイテク・AI関連の買戻しトレンドに乗って好調に推移している点。"
-     ],
-     "timestamp": "27:41",
-     "confidence": "medium"
-    },
-    {
-     "name": "マイクロン・テクノロジー",
-     "name_en": "Micron Technology, Inc.",
-     "ticker": "MU",
-     "market": "US",
-     "stance": "neutral",
-     "stance_note": "好決算も時間外取引で乱高下し注視",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "決算内容自体は非常に強烈で好調だったものの、発表後の時間外取引において株価が乱高下している点。",
-      "米国半導体株全般や翌日の日本株相場へ与える影響を見極める必要があり、目先は慎重な観察が必要な点。"
-     ],
-     "timestamp": "34:26",
      "confidence": "medium"
     }
    ]
@@ -465,6 +500,159 @@
    ]
   },
   {
+   "video_id": "GPHS62cGOPs",
+   "title": "今日の活況銘柄を見てみる！（村田製作所・太陽誘電・キオクシア・フジクラ・古河電工など）株式テクニカルチャート分析",
+   "published": "2026-10-02T07:07:13+00:00",
+   "description": "🔽「株のオンラインサロン」\nYOOR1周年キャンペーン　VIPメンバー・一般メンバーの新規参加割引中！10/7（水）まで！\n→　https://yoor.jp/door/tradertomo\n\n※ 参加プラン別のサービス内容はこちらの動画で解説しています。\n→https://youtu.be/AGZetFvA-Xk?si=Qy_ctky7kW1QSOHX\n\n株好きが集まる楽しいサロンを目指してます♪\n初心者歓迎です～ご参加お待ちしています！\n\n🔽サブチャンネルもやってます＾＾\nhttps://www.youtube.com/@TOMO-subtrader\n\n---------------------------------------------\n🔽公式LINEやってます！ともだち登録お願いします☆\n---------------------------------------------",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "日米の金利高止まりや米国雇用統計前の警戒感から持ち越しを控えめとする相場環境のなか、注目銘柄のテクニカルチャートと需給を分析しています。半導体や電線株が引き続き力強い動きを見せる一方、バリュー株などは苦しい展開となっています。特にアドバンテストやフジクラ、太陽誘電などの個別株において出来高を伴うブレイクやリバウンドの兆候を解説しています。",
+   "market_view": "日米の金利高や原油高、米雇用統計前のリスクから日経平均は下落しており、短期的には持ち越しを控え慎重な姿勢が求められる相場です。",
+   "market": "JP",
+   "picks": [
+    {
+     "name": "太陽誘電",
+     "name_en": "TAIYO YUDEN CO., LTD.",
+     "ticker": "6976",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "週明けもトップで注目したい銘柄",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "出来高3500万株を伴い下ひげ陽線を形成するなど底固い自力を見せた点",
+      "後場にかけて強気の大口買いが見られ売りを振り落として戻してきた点"
+     ],
+     "timestamp": "02:30",
+     "confidence": "high"
+    },
+    {
+     "name": "フジクラ",
+     "name_en": "Fujikura Ltd.",
+     "ticker": "5803",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "6000円を目指せる好受給銘柄",
+     "target_price": "6000円",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "出来高が5400万株へ増加し安値切り上げと高値更新でレンジブレイクした点",
+      "個人の信用買いが減少傾向にあり需給状況が良好に改善している点"
+     ],
+     "timestamp": "03:34",
+     "confidence": "high"
+    },
+    {
+     "name": "ソフトバンクグループ",
+     "name_en": "SoftBank Group Corp.",
+     "ticker": "9984",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "下値での足形回復待ち",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "子会社の11月上場話によるネガティブ感で寄りからギャップダウンした点",
+      "6000円の硬いライン付近まで戻り足形が回復すれば狙える点"
+     ],
+     "timestamp": "04:41",
+     "confidence": "high"
+    },
+    {
+     "name": "古河電気工業",
+     "name_en": "Furukawa Electric Co., Ltd.",
+     "ticker": "5801",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "出来高伴うレンジブレイクを評価",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "出来高4100万株を伴って短期レンジを抜け週足でも力強い陽線が出た点",
+      "信用買いの減少により需給が改善に向かっておりフジクラに似た環境な点"
+     ],
+     "timestamp": "05:23",
+     "confidence": "high"
+    },
+    {
+     "name": "東京海上ホールディングス",
+     "name_en": "Tokio Marine Holdings, Inc.",
+     "ticker": "8766",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "下げ止まりを確認するまで様子見",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "バリュー株全体に資金が戻らず苦しい展開が続いており週足も陰線な点",
+      "株式分割後の売り需要の影響が見られ下げ止まりを待つ必要がある点"
+     ],
+     "timestamp": "06:33",
+     "confidence": "medium"
+    },
+    {
+     "name": "キオクシアホールディングス",
+     "name_en": "Kioxia Holdings Corporation",
+     "ticker": "285A",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "2万円突破がポイント",
+     "target_price": "20000円",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "出来高が落ち着いたが三角持ち合いを上抜けて陽線で引けている点",
+      "1万9000円を死守しており早めに2万円ラインを突破できるかが焦点な点"
+     ],
+     "timestamp": "07:12",
+     "confidence": "high"
+    },
+    {
+     "name": "村田製作所",
+     "name_en": "Murata Manufacturing Co., Ltd.",
+     "ticker": "6981",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "月頭から月末決算へ向けた期待買い",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "ギャップダウンから陽線で引き返し下値持ち合いからの上昇を見せる点",
+      "太陽誘電と同セクターとして今月末の決算に向けた期待買いが見込める点"
+     ],
+     "timestamp": "08:28",
+     "confidence": "high"
+    },
+    {
+     "name": "アドバンテスト",
+     "name_en": "Advantest Corporation",
+     "ticker": "6857",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "相場を引っ張る主役候補として強気",
+     "target_price": "40000円",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "8月の戻り高値を上抜き出来高1600万株と高水準で4万円に接近した点",
+      "キオクシアに代わり日経平均相場を牽引する筆頭銘柄として期待できる点"
+     ],
+     "timestamp": "09:28",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
    "video_id": "vvZBpG_WxpY",
    "title": "今日の活況銘柄を見てみる！（太陽誘電・村田製作所・SBG・キオクシア・ニデック・フジクラ等）株式テクニカルチャート分析",
    "published": "2026-10-01T07:08:32+00:00",
@@ -630,124 +818,6 @@
      ],
      "timestamp": "13:41",
      "confidence": "high"
-    }
-   ]
-  },
-  {
-   "video_id": "r2HPqx42amE",
-   "title": "今日の活況銘柄を見てみる！（キオクシア・ソフトバンクグループ・太陽誘電・村田製作所・アキッパ・スカイフォールなど）株式テクニカルチャート分析",
-   "published": "2026-09-30T07:11:25+00:00",
-   "description": "🔽「株のオンラインサロン」やってます！10/1から募集開始！\n→　https://yoor.jp/door/tradertomo\n\n※ 参加プラン別のサービス内容はこちらの動画で解説しています。\n→https://youtu.be/AGZetFvA-Xk?si=Qy_ctky7kW1QSOHX\n\n株好きが集まる楽しいサロンを目指してます♪\n初心者歓迎です～ご参加お待ちしています！\n\n🔽サブチャンネルもやってます＾＾\nhttps://www.youtube.com/@TOMO-subtrader\n\n---------------------------------------------\n🔽公式LINEやってます！ともだち登録お願いします☆\n---------------------------------------------\n\n「うねり取り株投資実践講義」（総時間147分）視聴可。\n→",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "9月末の株式相場において、日経平均株価が大幅反発し全面高の展開となった市場動向と個別活況銘柄のテクニカル分析が語られています。太陽誘電や村田製作所、キオクシアなどは材料発表やシコリの重さから上値の重さが指摘されています。一方、ソフトバンクグループはオープンAI関連の材料を受けて上昇し、更なる上値追いが期待されるなど、銘柄ごとのトレード戦略が解説されています。",
-   "market_view": "9月最終日は日経平均が1272円高と幅広く買われて全面高となりました。月足や3ヶ月足チャートでも下のラインを固めて堅調さを維持しており、年末に向けた更なる上昇が期待できる状況です。",
-   "market": "JP",
-   "picks": [
-    {
-     "name": "太陽誘電",
-     "name_en": "Taiyo Yuden Co., Ltd.",
-     "ticker": "6976",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "1万円手前で押し戻され上値が重い",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "TDKとの共同開発報道を受けギャップアップでスタートするも、1万円手前で押し戻されシコリを生む足となったため。",
-      "出来高は3600万株あるものの信用改ざんが多く見た目以上に重いため、基本は1万円を超えてから狙うのが無難だから。"
-     ],
-     "timestamp": "04:40",
-     "confidence": "high"
-    },
-    {
-     "name": "ソフトバンクグループ",
-     "name_en": "SoftBank Group Corp.",
-     "ticker": "9984",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "6400円台を固め更なる上値を狙える",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "オープンAIのAIエージェント発表が材料視され大きなギャップアップとなり、6400円のラインを固める動きとなったため。",
-      "出来高は6500万株と注目度が高く、6800円を抜けることができれば7000円抜けに向けて上値が軽くなると見込めるため。"
-     ],
-     "timestamp": "05:29",
-     "confidence": "high"
-    },
-    {
-     "name": "村田製作所",
-     "name_en": "Murata Manufacturing Co., Ltd.",
-     "ticker": "6981",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "ネガティブ材料からギャップアップ陰線",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "他社の提携報道による競争激化懸念などのネガティブ要因が出たことでギャップアップからの陰線となり上値が重くなったため。",
-      "信用改ざんが多くアウトサイドする陰線を引いたことで上値の重さが意識され、限定的なトレードに留めるべきだから。"
-     ],
-     "timestamp": "08:12",
-     "confidence": "medium"
-    },
-    {
-     "name": "キオクシア",
-     "name_en": "Kioxia Holdings Corporation",
-     "ticker": "285A",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "板の弱さと出来高不足で上昇は困難",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "場中の板でアンダーが弱い状況が続いており、出来高3900万株程度では上昇に向けた出来高としては足りないため。"
-     ],
-     "timestamp": "09:00",
-     "confidence": "medium"
-    },
-    {
-     "name": "スカイフォール",
-     "name_en": "Skyfall Inc.",
-     "ticker": "625A",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "ストップ高後に崩れるもライン維持で注視",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "大幅ギャップアップ後に一時ストップ高を付けるも大幅下落し、他銘柄に資金が流れると厳しくなる傾向があるため。",
-      "前日出来高のあった1800円少し上のラインでぴったり下げ止まっており、明日以降復活する可能性も残されているため。"
-     ],
-     "timestamp": "09:28",
-     "confidence": "medium"
-    },
-    {
-     "name": "フジクラ",
-     "name_en": "Fujikura Ltd.",
-     "ticker": "5803",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "上値のシコリ重いがリスクリワード良い",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "信用改ざんが多くシコリが残る中で陽線で耐えたものの、全体相場の好環境に対して上昇幅は限定的となっているため。",
-      "出来高3800万株をつけ5300円手前で価格を固める動きが出ており、上値を狙う際のリスクリワード自体は良いため。"
-     ],
-     "timestamp": "10:35",
-     "confidence": "medium"
     }
    ]
   },
