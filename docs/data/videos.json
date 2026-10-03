@@ -1,6 +1,46 @@
 {
- "generated_at": "2026-10-03T17:46:47.657431+09:00",
+ "generated_at": "2026-10-03T18:47:38.662690+09:00",
  "videos": [
+  {
+   "video_id": "a-UH-HBpzkM",
+   "title": "電線銘柄復活？！需給の改善状況をチェック！古河電工・フジクラ・住友電工",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-10-03T09:00:16+00:00",
+   "overview": "動画では電線株大手3社(古河電工、住友電工、フジクラ)を中心に需給改善の状況と株価チャートの形状を分析しています。株式分割後の需給悪化を経て、出来高の増加や信用買い残の減少に伴い株価の上昇基調が強まっている現状を解説しています。また関連して足型が改善傾向にある三井金属の需給についても言及されています。",
+   "market_view": "",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "古河電気工業",
+     "ticker": "5801",
+     "stance": "bullish",
+     "timestamp": "00:20"
+    },
+    {
+     "name": "住友電気工業",
+     "ticker": "5802",
+     "stance": "bullish",
+     "timestamp": "04:53"
+    },
+    {
+     "name": "フジクラ",
+     "ticker": "5803",
+     "stance": "bullish",
+     "timestamp": "07:16"
+    },
+    {
+     "name": "三井金属",
+     "ticker": "5706",
+     "stance": "neutral",
+     "timestamp": "09:43"
+    }
+   ]
+  },
   {
    "video_id": "K9yNKXZajT4",
    "title": "来週の相場に備えて！　日本株チャート分析LIVE　10/3",
@@ -142,70 +182,6 @@
      "ticker": "",
      "stance": "bullish",
      "timestamp": "25:19"
-    }
-   ]
-  },
-  {
-   "video_id": "GPHS62cGOPs",
-   "title": "今日の活況銘柄を見てみる！（村田製作所・太陽誘電・キオクシア・フジクラ・古河電工など）株式テクニカルチャート分析",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-10-02T07:07:13+00:00",
-   "overview": "日米の金利高止まりや米国雇用統計前の警戒感から持ち越しを控えめとする相場環境のなか、注目銘柄のテクニカルチャートと需給を分析しています。半導体や電線株が引き続き力強い動きを見せる一方、バリュー株などは苦しい展開となっています。特にアドバンテストやフジクラ、太陽誘電などの個別株において出来高を伴うブレイクやリバウンドの兆候を解説しています。",
-   "market_view": "日米の金利高や原油高、米雇用統計前のリスクから日経平均は下落しており、短期的には持ち越しを控え慎重な姿勢が求められる相場です。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "太陽誘電",
-     "ticker": "6976",
-     "stance": "bullish",
-     "timestamp": "02:30"
-    },
-    {
-     "name": "フジクラ",
-     "ticker": "5803",
-     "stance": "bullish",
-     "timestamp": "03:34"
-    },
-    {
-     "name": "ソフトバンクグループ",
-     "ticker": "9984",
-     "stance": "neutral",
-     "timestamp": "04:41"
-    },
-    {
-     "name": "古河電気工業",
-     "ticker": "5801",
-     "stance": "bullish",
-     "timestamp": "05:23"
-    },
-    {
-     "name": "東京海上ホールディングス",
-     "ticker": "8766",
-     "stance": "bearish",
-     "timestamp": "06:33"
-    },
-    {
-     "name": "キオクシアホールディングス",
-     "ticker": "285A",
-     "stance": "neutral",
-     "timestamp": "07:12"
-    },
-    {
-     "name": "村田製作所",
-     "ticker": "6981",
-     "stance": "bullish",
-     "timestamp": "08:28"
-    },
-    {
-     "name": "アドバンテスト",
-     "ticker": "6857",
-     "stance": "bullish",
-     "timestamp": "09:28"
     }
    ]
   },

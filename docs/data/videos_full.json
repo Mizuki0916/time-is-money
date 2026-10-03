@@ -500,6 +500,91 @@
    ]
   },
   {
+   "video_id": "a-UH-HBpzkM",
+   "title": "電線銘柄復活？！需給の改善状況をチェック！古河電工・フジクラ・住友電工",
+   "published": "2026-10-03T09:00:16+00:00",
+   "description": "🔽「株のオンラインサロン」\nYOOR1周年キャンペーン　VIPメンバー・一般メンバーの新規参加割引中！\n10/7（水）まで！\n→　https://yoor.jp/door/tradertomo\n\n※ 参加プラン別のサービス内容はこちらの動画で解説しています。\n→https://youtu.be/AGZetFvA-Xk?si=Qy_ctky7kW1QSOHX\n\n株好きが集まる楽しいサロンを目指してます♪\n初心者歓迎です～ご参加お待ちしています！\n\n🔽サブチャンネルもやってます＾＾\nhttps://www.youtube.com/@TOMO-subtrader\n\n---------------------------------------------\n🔽公式LINEやってます！ともだち登録お願いします☆\n--------------------------------------------",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "動画では電線株大手3社(古河電工、住友電工、フジクラ)を中心に需給改善の状況と株価チャートの形状を分析しています。株式分割後の需給悪化を経て、出来高の増加や信用買い残の減少に伴い株価の上昇基調が強まっている現状を解説しています。また関連して足型が改善傾向にある三井金属の需給についても言及されています。",
+   "market_view": "",
+   "market": "JP",
+   "picks": [
+    {
+     "name": "古河電気工業",
+     "name_en": "Furukawa Electric",
+     "ticker": "5801",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "需給改善と出来高増加で強気判断",
+     "target_price": "5000円",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "信用改ざんが減少する一方で出来高が増加しており需給面での問題がなく強気の展開が期待できる。",
+      "4200円を超えたことで含み損のポジションが減りデイトレーダーなどの大口資金が参加しやすくなった。"
+     ],
+     "timestamp": "00:20",
+     "confidence": "high"
+    },
+    {
+     "name": "住友電気工業",
+     "name_en": "Sumitomo Electric Industries",
+     "ticker": "5802",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "2500円突破を見据えて強気で対応",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "2000円割れをボトムとしたダブルボトム気味の形から復活し信用買い残の減少により需給が改善している。",
+      "安値切り上げと高値更新を継続しており月曜日以降に2500円ラインの上抜け突破が期待できる。"
+     ],
+     "timestamp": "04:53",
+     "confidence": "high"
+    },
+    {
+     "name": "フジクラ",
+     "name_en": "Fujikura",
+     "ticker": "5803",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "レンジ抜けによる需給改善で6000円を目指す",
+     "target_price": "6000円",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "出来高が5000万株を超えてレンジを上抜けし捕まっていた投資家が含み益に変わり需給が改善した。",
+      "個人の信用買い残に対して出来高が十分に出ておりオーバーアンダー比率も改善しているため上昇が期待できる。"
+     ],
+     "timestamp": "07:16",
+     "confidence": "high"
+    },
+    {
+     "name": "三井金属",
+     "name_en": "Mitsui Mining and Smelting",
+     "ticker": "5706",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "出来高増加も戻り売り圧力に警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "株式分割後に出来高を増加させながら足型が改善してきているが上の価格帯でのシコリが残る。",
+      "信用買い残が多く必要出来高の維持が必要で3000円ラインを抜けるまでは過信禁物な展開。"
+     ],
+     "timestamp": "09:43",
+     "confidence": "medium"
+    }
+   ]
+  },
+  {
    "video_id": "K9yNKXZajT4",
    "title": "来週の相場に備えて！　日本株チャート分析LIVE　10/3",
    "published": "2026-10-03T04:42:15+00:00",
@@ -597,159 +682,6 @@
       "11月6日の本決算に向けて株価が戻る展開を想定でき、5000円台への上値を狙える好形状。"
      ],
      "timestamp": "1:13:32",
-     "confidence": "high"
-    }
-   ]
-  },
-  {
-   "video_id": "GPHS62cGOPs",
-   "title": "今日の活況銘柄を見てみる！（村田製作所・太陽誘電・キオクシア・フジクラ・古河電工など）株式テクニカルチャート分析",
-   "published": "2026-10-02T07:07:13+00:00",
-   "description": "🔽「株のオンラインサロン」\nYOOR1周年キャンペーン　VIPメンバー・一般メンバーの新規参加割引中！10/7（水）まで！\n→　https://yoor.jp/door/tradertomo\n\n※ 参加プラン別のサービス内容はこちらの動画で解説しています。\n→https://youtu.be/AGZetFvA-Xk?si=Qy_ctky7kW1QSOHX\n\n株好きが集まる楽しいサロンを目指してます♪\n初心者歓迎です～ご参加お待ちしています！\n\n🔽サブチャンネルもやってます＾＾\nhttps://www.youtube.com/@TOMO-subtrader\n\n---------------------------------------------\n🔽公式LINEやってます！ともだち登録お願いします☆\n---------------------------------------------",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "日米の金利高止まりや米国雇用統計前の警戒感から持ち越しを控えめとする相場環境のなか、注目銘柄のテクニカルチャートと需給を分析しています。半導体や電線株が引き続き力強い動きを見せる一方、バリュー株などは苦しい展開となっています。特にアドバンテストやフジクラ、太陽誘電などの個別株において出来高を伴うブレイクやリバウンドの兆候を解説しています。",
-   "market_view": "日米の金利高や原油高、米雇用統計前のリスクから日経平均は下落しており、短期的には持ち越しを控え慎重な姿勢が求められる相場です。",
-   "market": "JP",
-   "picks": [
-    {
-     "name": "太陽誘電",
-     "name_en": "TAIYO YUDEN CO., LTD.",
-     "ticker": "6976",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "週明けもトップで注目したい銘柄",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "出来高3500万株を伴い下ひげ陽線を形成するなど底固い自力を見せた点",
-      "後場にかけて強気の大口買いが見られ売りを振り落として戻してきた点"
-     ],
-     "timestamp": "02:30",
-     "confidence": "high"
-    },
-    {
-     "name": "フジクラ",
-     "name_en": "Fujikura Ltd.",
-     "ticker": "5803",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "6000円を目指せる好受給銘柄",
-     "target_price": "6000円",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "出来高が5400万株へ増加し安値切り上げと高値更新でレンジブレイクした点",
-      "個人の信用買いが減少傾向にあり需給状況が良好に改善している点"
-     ],
-     "timestamp": "03:34",
-     "confidence": "high"
-    },
-    {
-     "name": "ソフトバンクグループ",
-     "name_en": "SoftBank Group Corp.",
-     "ticker": "9984",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "下値での足形回復待ち",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "子会社の11月上場話によるネガティブ感で寄りからギャップダウンした点",
-      "6000円の硬いライン付近まで戻り足形が回復すれば狙える点"
-     ],
-     "timestamp": "04:41",
-     "confidence": "high"
-    },
-    {
-     "name": "古河電気工業",
-     "name_en": "Furukawa Electric Co., Ltd.",
-     "ticker": "5801",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "出来高伴うレンジブレイクを評価",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "出来高4100万株を伴って短期レンジを抜け週足でも力強い陽線が出た点",
-      "信用買いの減少により需給が改善に向かっておりフジクラに似た環境な点"
-     ],
-     "timestamp": "05:23",
-     "confidence": "high"
-    },
-    {
-     "name": "東京海上ホールディングス",
-     "name_en": "Tokio Marine Holdings, Inc.",
-     "ticker": "8766",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "下げ止まりを確認するまで様子見",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "バリュー株全体に資金が戻らず苦しい展開が続いており週足も陰線な点",
-      "株式分割後の売り需要の影響が見られ下げ止まりを待つ必要がある点"
-     ],
-     "timestamp": "06:33",
-     "confidence": "medium"
-    },
-    {
-     "name": "キオクシアホールディングス",
-     "name_en": "Kioxia Holdings Corporation",
-     "ticker": "285A",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "2万円突破がポイント",
-     "target_price": "20000円",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "出来高が落ち着いたが三角持ち合いを上抜けて陽線で引けている点",
-      "1万9000円を死守しており早めに2万円ラインを突破できるかが焦点な点"
-     ],
-     "timestamp": "07:12",
-     "confidence": "high"
-    },
-    {
-     "name": "村田製作所",
-     "name_en": "Murata Manufacturing Co., Ltd.",
-     "ticker": "6981",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "月頭から月末決算へ向けた期待買い",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "ギャップダウンから陽線で引き返し下値持ち合いからの上昇を見せる点",
-      "太陽誘電と同セクターとして今月末の決算に向けた期待買いが見込める点"
-     ],
-     "timestamp": "08:28",
-     "confidence": "high"
-    },
-    {
-     "name": "アドバンテスト",
-     "name_en": "Advantest Corporation",
-     "ticker": "6857",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "相場を引っ張る主役候補として強気",
-     "target_price": "40000円",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "8月の戻り高値を上抜き出来高1600万株と高水準で4万円に接近した点",
-      "キオクシアに代わり日経平均相場を牽引する筆頭銘柄として期待できる点"
-     ],
-     "timestamp": "09:28",
      "confidence": "high"
     }
    ]
