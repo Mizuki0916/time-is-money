@@ -1,6 +1,21 @@
 {
- "generated_at": "2026-10-03T10:46:52.461214+09:00",
+ "generated_at": "2026-10-03T11:47:03.214896+09:00",
  "videos": [
+  {
+   "video_id": "K9yNKXZajT4",
+   "title": "来週の相場に備えて！　日本株チャート分析LIVE　10/3",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-10-03T02:24:39+00:00",
+   "overview": "",
+   "market_view": "",
+   "market": "",
+   "no_transcript": true,
+   "skip_reason": "この動画には字幕がありません",
+   "picks": []
+  },
   {
    "video_id": "YEPbyHoRHIU",
    "title": "10/2【米雇用統計で日経平均爆上げか⁉】AI半導体株急騰で日本株２極化加速。バリュー株弱すぎる‼米国株、ナスダック、ハイテク株上がるか。ドル円１５7円。",
@@ -276,76 +291,6 @@
      "ticker": "3103",
      "stance": "neutral",
      "timestamp": "30:45"
-    }
-   ]
-  },
-  {
-   "video_id": "vvZBpG_WxpY",
-   "title": "今日の活況銘柄を見てみる！（太陽誘電・村田製作所・SBG・キオクシア・ニデック・フジクラ等）株式テクニカルチャート分析",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-10-01T07:08:32+00:00",
-   "overview": "米マイクノンの好決算や日銀短観における設備投資計画の堅調さを受けてAI・半導体関連銘柄へ資金が一気に回帰し、日経平均が大幅高となった相場を解説。アドバンテストや東京エレクトロンなどの主力株が全体を牽引しました。動画では個別活況銘柄について、移動平均線や節目ラインを用いたテクニカル分析と今後のトレード戦略を詳しく提示しています。",
-   "market_view": "半導体関連への資金回帰により相場の潮目が変化。日経平均は三角持ち合いを上抜ける動きを見せる一方、直近高値付近の売り圧力や週末の警戒感には注意が必要です。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "ソフトバンクグループ",
-     "ticker": "9984",
-     "stance": "neutral",
-     "timestamp": "07:46"
-    },
-    {
-     "name": "東京海上ホールディングス",
-     "ticker": "8766",
-     "stance": "bearish",
-     "timestamp": "08:33"
-    },
-    {
-     "name": "太陽誘電",
-     "ticker": "6976",
-     "stance": "bullish",
-     "timestamp": "09:05"
-    },
-    {
-     "name": "村田製作所",
-     "ticker": "6981",
-     "stance": "bullish",
-     "timestamp": "09:53"
-    },
-    {
-     "name": "キオクシアホールディングス",
-     "ticker": "285A",
-     "stance": "bullish",
-     "timestamp": "10:41"
-    },
-    {
-     "name": "フジクラ",
-     "ticker": "5803",
-     "stance": "bullish",
-     "timestamp": "11:43"
-    },
-    {
-     "name": "ニデック",
-     "ticker": "6594",
-     "stance": "bullish",
-     "timestamp": "12:17"
-    },
-    {
-     "name": "ダイナミックマッププラットフォーム",
-     "ticker": "336A",
-     "stance": "neutral",
-     "timestamp": "13:10"
-    },
-    {
-     "name": "アドバンテスト",
-     "ticker": "6857",
-     "stance": "bullish",
-     "timestamp": "13:41"
     }
    ]
   },
