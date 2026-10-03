@@ -502,19 +502,104 @@
   {
    "video_id": "K9yNKXZajT4",
    "title": "来週の相場に備えて！　日本株チャート分析LIVE　10/3",
-   "published": "2026-10-03T02:24:39+00:00",
+   "published": "2026-10-03T04:42:15+00:00",
    "description": "🔽「株オンラインサロン」\n→　https://yoor.jp/door/tradertomo\n\n※ 参加プラン別のサービス内容はこちらの動画で解説しています。\n→https://youtu.be/LtXywHzgOHs?si=G3UipVQW0JsWkv5t\n\n株好きが集まる楽しいサロンを目指してます♪\n初心者歓迎です～ご参加お待ちしています！\n\n🔽松井証券口座開設キャンペーン中！\nAmazonギフトカード500円プレゼント\n\n以下の特設ページから口座開設＆アンケート回答でGET！\n→https://www.tcs-asp.net/alink?AC=C131836&LC=MTI1&SQ=1&isq=100",
    "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
    "channel_name": "トレーダーTOMO",
    "channel_short": "TOMO",
    "slot": 2,
-   "no_transcript": true,
-   "skip_reason": "この動画には字幕がありません",
-   "attempts": 2,
-   "overview": "",
-   "market_view": "",
-   "market": "",
-   "picks": []
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "来週の日本株相場に向けた分析LIVE配信の文字起こし。米国の雇用統計軟化とSOX指数上昇を受け、日経先物が大幅上昇する中、半導体関連銘柄(国際エレクトリック、日本マイクロニクス、アドバンテスト等)を中心に強気の見通しを示しています。その他にも古河電工やローツェ、フード&ライフなど好チャート銘柄の売買ポイントを解説しています。",
+   "market_view": "SOX指数の急伸により日経先物が大きく上昇し、三角持ち合い上抜けの良好な足型を形成。半導体株中心に相場好転が期待される一方、金利面への警戒感は継続しています。",
+   "market": "JP",
+   "picks": [
+    {
+     "name": "KOKUSAI ELECTRIC",
+     "name_en": "Kokusai Electric Corporation",
+     "ticker": "6525",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "1万円ライン維持で強気継続",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "出来高減少は気になるものの1万円ラインを守り安値を切り上げる非常に良い足型を維持している。",
+      "成膜装置で高いシェアを持ち、DRAM関連としての業績拡大期待が非常に高い注目のトップ候補銘柄。"
+     ],
+     "timestamp": "03:35",
+     "confidence": "high"
+    },
+    {
+     "name": "古河電気工業",
+     "name_en": "Furukawa Electric Co., Ltd.",
+     "ticker": "5801",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "4500円上抜けで追加買いを狙う",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "4500円の抵抗線を抜ければ本格的な上昇トレンド入りとなり追撃買いの好機となる足型。",
+      "光半導体や電線関連のテーマ性再浮上に伴い、部品等も含めて電線セクター内の最注目株。"
+     ],
+     "timestamp": "09:33",
+     "confidence": "high"
+    },
+    {
+     "name": "ローツェ",
+     "name_en": "Rorze Corporation",
+     "ticker": "6323",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "決算前の早めエントリーを検討",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "TSMC向けなど搬送装置の需要は堅調であり、決算発表を前に早めのエントリーが狙える。",
+      "前回の決算後と同様の株価位置にあり、業績の良さを背景に決算イベント跨ぎも狙っていける。"
+     ],
+     "timestamp": "13:42",
+     "confidence": "medium"
+    },
+    {
+     "name": "アドバンテスト",
+     "name_en": "Advantest Corporation",
+     "ticker": "6857",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "相場牽引の筆頭として強気継続",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "半導体セクターおよび全体相場を牽引する中心銘柄であり、今後の株価上昇に最も期待ができる。",
+      "日経平均への影響力や高いボラティリティがあり、出来高も十分でスイング・デイ共に好適。"
+     ],
+     "timestamp": "43:08",
+     "confidence": "high"
+    },
+    {
+     "name": "FOOD & LIFE COMPANIES",
+     "name_en": "Food & Life Companies Ltd.",
+     "ticker": "3563",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "11月本決算に向け上昇を期待",
+     "target_price": "5000",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "米国進出や中国・アジア地域での業績拡大が顕著であり外食セクターの中でトップ評価の成長株。",
+      "11月6日の本決算に向けて株価が戻る展開を想定でき、5000円台への上値を狙える好形状。"
+     ],
+     "timestamp": "1:13:32",
+     "confidence": "high"
+    }
+   ]
   },
   {
    "video_id": "GPHS62cGOPs",

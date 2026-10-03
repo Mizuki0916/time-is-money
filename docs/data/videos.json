@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-03T12:46:53.904126+09:00",
+ "generated_at": "2026-10-03T13:47:24.155256+09:00",
  "videos": [
   {
    "video_id": "K9yNKXZajT4",
@@ -8,13 +8,44 @@
    "channel_name": "トレーダーTOMO",
    "channel_short": "TOMO",
    "slot": 2,
-   "published": "2026-10-03T02:24:39+00:00",
-   "overview": "",
-   "market_view": "",
-   "market": "",
-   "no_transcript": true,
-   "skip_reason": "この動画には字幕がありません",
-   "picks": []
+   "published": "2026-10-03T04:42:15+00:00",
+   "overview": "来週の日本株相場に向けた分析LIVE配信の文字起こし。米国の雇用統計軟化とSOX指数上昇を受け、日経先物が大幅上昇する中、半導体関連銘柄(国際エレクトリック、日本マイクロニクス、アドバンテスト等)を中心に強気の見通しを示しています。その他にも古河電工やローツェ、フード&ライフなど好チャート銘柄の売買ポイントを解説しています。",
+   "market_view": "SOX指数の急伸により日経先物が大きく上昇し、三角持ち合い上抜けの良好な足型を形成。半導体株中心に相場好転が期待される一方、金利面への警戒感は継続しています。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "KOKUSAI ELECTRIC",
+     "ticker": "6525",
+     "stance": "bullish",
+     "timestamp": "03:35"
+    },
+    {
+     "name": "古河電気工業",
+     "ticker": "5801",
+     "stance": "bullish",
+     "timestamp": "09:33"
+    },
+    {
+     "name": "ローツェ",
+     "ticker": "6323",
+     "stance": "bullish",
+     "timestamp": "13:42"
+    },
+    {
+     "name": "アドバンテスト",
+     "ticker": "6857",
+     "stance": "bullish",
+     "timestamp": "43:08"
+    },
+    {
+     "name": "FOOD & LIFE COMPANIES",
+     "ticker": "3563",
+     "stance": "bullish",
+     "timestamp": "1:13:32"
+    }
+   ]
   },
   {
    "video_id": "YEPbyHoRHIU",
