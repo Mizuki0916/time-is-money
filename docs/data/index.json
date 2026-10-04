@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-04T20:05:12.134037+09:00",
+ "generated_at": "2026-10-04T21:07:18.412851+09:00",
  "channels": [
   {
    "id": "UCsaeHha7ai_NNX8or8Jyb-g",
@@ -31,14 +31,14 @@
    "short": "ぺこ",
    "slot": 4,
    "video_count": 2,
-   "latest": "2026-09-13T11:00:10+00:00"
+   "latest": "2026-10-04T11:00:26+00:00"
   }
  ],
  "stats": {
-  "stocks": 31,
+  "stocks": 32,
   "videos": 7,
-  "videos_this_week": 5,
-  "bullish_lead": 20,
+  "videos_this_week": 6,
+  "bullish_lead": 21,
   "split": 0,
   "skipped": 1
  },
@@ -315,6 +315,112 @@
     "exchange_name": "Tokyo",
     "market_open": false,
     "symbol": "6857.T",
+    "source": "yahoo",
+    "fetched_at": "2026-10-04T09:05:14.000103+00:00"
+   }
+  },
+  {
+   "key": "JP:6525",
+   "name": "国際エレクトリック",
+   "name_en": "Kokusai Electric Corporation",
+   "ticker": "6525",
+   "market": "JP",
+   "mentions": [
+    {
+     "channel_id": "UCt7qqCkTFFRfKjXzwqUXq4g",
+     "channel_name": "ぺこ株",
+     "channel_short": "ぺこ",
+     "slot": 4,
+     "video_id": "LToCREYhQYI",
+     "video_title": "今週（10/5〜）専業が自信を持って買う1銘柄",
+     "published": "2026-10-04T11:00:26+00:00",
+     "stance": "bullish",
+     "stance_note": "1万円未満の調整局面で押し目買い",
+     "target_price": "取得単価から+10%",
+     "entry": "10,000円を切ったところ",
+     "stop": "13週移動平均線あたり",
+     "reasons": [
+      "1Q決算で通期上方修正と過去最高益予想、増配を発表し、高ROEや好財務など業績面・財務面が極めて優秀。",
+      "成膜装置に特化しており、半導体の微細化や3次元化、AI半導体投資の拡大が長期的な成長の強い追い風となる。",
+      "日足の抵抗ラインを抜けて1万円台に乗せたほか、10月からの日経225採用により指数連動ファンド等の買い需要も期待できる。"
+     ],
+     "timestamp": "02:40",
+     "seconds": 160,
+     "confidence": "high"
+    }
+   ],
+   "consensus": {
+    "bullish": 1,
+    "bearish": 0,
+    "neutral": 0
+   },
+   "voices": 1,
+   "split": false,
+   "last_mentioned": "2026-10-04T11:00:26+00:00",
+   "channel_ids": [
+    "UCt7qqCkTFFRfKjXzwqUXq4g"
+   ],
+   "price": {
+    "date": "2026-10-02",
+    "close": 10050.0,
+    "change_pct": -0.69,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 5483500,
+    "volume_ratio": 0.61,
+    "rsi14": 65.8,
+    "rsi_zone": "中立",
+    "ma25": 8812.24,
+    "ma75": 9101.69,
+    "trend": "戻り歩調",
+    "pos52": 76,
+    "spark": [
+     8203.0,
+     8488.0,
+     8224.0,
+     8136.0,
+     8006.0,
+     8657.0,
+     9015.0,
+     9187.0,
+     9306.0,
+     8660.0,
+     8105.0,
+     8115.0,
+     8321.0,
+     8280.0,
+     8489.0,
+     8466.0,
+     8722.0,
+     8911.0,
+     8787.0,
+     8559.0,
+     8327.0,
+     8325.0,
+     8295.0,
+     8929.0,
+     8782.0,
+     8675.0,
+     8821.0,
+     8162.0,
+     8000.0,
+     8228.0,
+     8512.0,
+     8284.0,
+     8884.0,
+     9089.0,
+     9300.0,
+     9169.0,
+     9331.0,
+     9578.0,
+     10120.0,
+     10050.0
+    ],
+    "currency": "JPY",
+    "exchange_name": "Tokyo",
+    "market_open": false,
+    "symbol": "6525.T",
     "source": "yahoo",
     "fetched_at": "2026-10-04T09:05:14.000103+00:00"
    }
@@ -2877,28 +2983,6 @@
      "timestamp": "00:33",
      "seconds": 33,
      "confidence": "medium"
-    },
-    {
-     "channel_id": "UCt7qqCkTFFRfKjXzwqUXq4g",
-     "channel_name": "ぺこ株",
-     "channel_short": "ぺこ",
-     "slot": 4,
-     "video_id": "7uZBjfcSJa0",
-     "video_title": "今週（9/7〜）専業が自信を持って買う1銘柄",
-     "published": "2026-09-06T11:00:35+00:00",
-     "stance": "bullish",
-     "stance_note": "押し目で計2000株の分割購入を検討",
-     "target_price": "1561円〜1671円",
-     "entry": "出来高ゾーン(13週・26週線)への調整時または打診後追加",
-     "stop": "26週線または13週線",
-     "reasons": [
-      "1Q決算で海外トレーディング事業の利益が前年同期比158億円増と順調に推移しており本質的な稼ぐ力が好調な点。",
-      "日足チャートで1Q決算後にトレンド転換しパーフェクトオーダーを形成しておりテクニカル的にも強い上昇形状である点。",
-      "週足で出来高ゾーンに13週線と26週線が重なっており下値サポートが非常に厚くリスクを限定して狙える点。"
-     ],
-     "timestamp": "02:39",
-     "seconds": 159,
-     "confidence": "high"
     }
    ],
    "consensus": {
@@ -3003,26 +3087,6 @@
      "timestamp": "01:00",
      "seconds": 60,
      "confidence": "medium"
-    },
-    {
-     "channel_id": "UCt7qqCkTFFRfKjXzwqUXq4g",
-     "channel_name": "ぺこ株",
-     "channel_short": "ぺこ",
-     "slot": 4,
-     "video_id": "7uZBjfcSJa0",
-     "video_title": "今週（9/7〜）専業が自信を持って買う1銘柄",
-     "published": "2026-09-06T11:00:35+00:00",
-     "stance": "neutral",
-     "stance_note": "損切りライン引きつけ待ちで様子見継続",
-     "target_price": "",
-     "entry": "",
-     "stop": "26週線あたり",
-     "reasons": [
-      "26週線あたりを損切りラインとして設定したいが現状の株価位置ではリスクリワードが悪いため欲しいラインまで引きつけを待つため。"
-     ],
-     "timestamp": "01:49",
-     "seconds": 109,
-     "confidence": "low"
     }
    ],
    "consensus": {
@@ -3127,26 +3191,6 @@
      "timestamp": "01:21",
      "seconds": 81,
      "confidence": "high"
-    },
-    {
-     "channel_id": "UCt7qqCkTFFRfKjXzwqUXq4g",
-     "channel_name": "ぺこ株",
-     "channel_short": "ぺこ",
-     "slot": 4,
-     "video_id": "7uZBjfcSJa0",
-     "video_title": "今週（9/7〜）専業が自信を持って買う1銘柄",
-     "published": "2026-09-06T11:00:35+00:00",
-     "stance": "bullish",
-     "stance_note": "円高懸念で下落も押し目での追加買いを検討",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "円高懸念から直近で売り込まれているものの買い増し枠が残っており、さらに下げる局面があれば追加買いを狙いたいため。"
-     ],
-     "timestamp": "02:18",
-     "seconds": 138,
-     "confidence": "low"
     }
    ],
    "consensus": {
