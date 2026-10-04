@@ -1,6 +1,97 @@
 {
- "generated_at": "2026-10-04T18:06:33.128913+09:00",
+ "generated_at": "2026-10-04T19:07:45.899851+09:00",
  "videos": [
+  {
+   "video_id": "LQJjMIFDI28",
+   "title": "10/4【日経平均爆上げか⁉】AI半導体株急騰で日本株２極化加速。バリュー株弱すぎる‼米国株、ナスダック、ハイテク株上がるか。ドル円１５7円。",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-10-04T09:13:56+00:00",
+   "overview": "",
+   "market_view": "",
+   "market": "",
+   "no_transcript": true,
+   "skip_reason": "動画が非公開・削除・配信予定などで取得できません",
+   "picks": []
+  },
+  {
+   "video_id": "xpuThjyOrtY",
+   "title": "明日注目したい銘柄！（太陽誘電・村田製作所・アドバンテスト・SUMCO・カプコン・GO・パワーエックスなど）株式テクニカルチャート分析",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-10-04T09:00:33+00:00",
+   "overview": "米国株高や半導体株の上昇を受けて日本株市場が大幅ギャップアップスタートとなる見通しのなか、注目銘柄のテクニカルチャートと需給動向を解説した動画。半導体・電子部品の主力株を中心にデイトレ・スイングの戦略を提示し、万が一半導体株が失速した場合に備えてIPOやグロース銘柄の立ち回りも紹介している。",
+   "market_view": "日経平均先物が大幅ギャップアップで推移しており、米国市場の反導体株高を背景に買い先行のスタートが想定される。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "太陽誘電",
+     "ticker": "6976",
+     "stance": "bullish",
+     "timestamp": "01:39"
+    },
+    {
+     "name": "村田製作所",
+     "ticker": "6981",
+     "stance": "bullish",
+     "timestamp": "03:46"
+    },
+    {
+     "name": "アドバンテスト",
+     "ticker": "6857",
+     "stance": "bullish",
+     "timestamp": "04:51"
+    },
+    {
+     "name": "SUMCO",
+     "ticker": "3436",
+     "stance": "bullish",
+     "timestamp": "07:17"
+    },
+    {
+     "name": "ローツェ",
+     "ticker": "6323",
+     "stance": "bullish",
+     "timestamp": "08:58"
+    },
+    {
+     "name": "カプコン",
+     "ticker": "9697",
+     "stance": "bullish",
+     "timestamp": "09:47"
+    },
+    {
+     "name": "GO",
+     "ticker": "",
+     "stance": "bullish",
+     "timestamp": "10:34"
+    },
+    {
+     "name": "レイヤード",
+     "ticker": "",
+     "stance": "bullish",
+     "timestamp": "11:40"
+    },
+    {
+     "name": "Bエイブル",
+     "ticker": "604A",
+     "stance": "neutral",
+     "timestamp": "12:30"
+    },
+    {
+     "name": "パワーエックス",
+     "ticker": "",
+     "stance": "neutral",
+     "timestamp": "13:04"
+    }
+   ]
+  },
   {
    "video_id": "a-UH-HBpzkM",
    "title": "電線銘柄復活？！需給の改善状況をチェック！古河電工・フジクラ・住友電工",
@@ -38,52 +129,6 @@
      "ticker": "5706",
      "stance": "neutral",
      "timestamp": "09:43"
-    }
-   ]
-  },
-  {
-   "video_id": "K9yNKXZajT4",
-   "title": "来週の相場に備えて！　日本株チャート分析LIVE　10/3",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-10-03T04:42:15+00:00",
-   "overview": "来週の日本株相場に向けた分析LIVE配信の文字起こし。米国の雇用統計軟化とSOX指数上昇を受け、日経先物が大幅上昇する中、半導体関連銘柄(国際エレクトリック、日本マイクロニクス、アドバンテスト等)を中心に強気の見通しを示しています。その他にも古河電工やローツェ、フード&ライフなど好チャート銘柄の売買ポイントを解説しています。",
-   "market_view": "SOX指数の急伸により日経先物が大きく上昇し、三角持ち合い上抜けの良好な足型を形成。半導体株中心に相場好転が期待される一方、金利面への警戒感は継続しています。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "KOKUSAI ELECTRIC",
-     "ticker": "6525",
-     "stance": "bullish",
-     "timestamp": "03:35"
-    },
-    {
-     "name": "古河電気工業",
-     "ticker": "5801",
-     "stance": "bullish",
-     "timestamp": "09:33"
-    },
-    {
-     "name": "ローツェ",
-     "ticker": "6323",
-     "stance": "bullish",
-     "timestamp": "13:42"
-    },
-    {
-     "name": "アドバンテスト",
-     "ticker": "6857",
-     "stance": "bullish",
-     "timestamp": "43:08"
-    },
-    {
-     "name": "FOOD & LIFE COMPANIES",
-     "ticker": "3563",
-     "stance": "bullish",
-     "timestamp": "1:13:32"
     }
    ]
   },
@@ -182,70 +227,6 @@
      "ticker": "",
      "stance": "bullish",
      "timestamp": "25:19"
-    }
-   ]
-  },
-  {
-   "video_id": "H6dmOmKKqrU",
-   "title": "10/1【日経平均2200円急騰騙し上げか⁉】AI半導体株急騰で日本株２極化加速。バリュー株弱すぎる‼レーザーテック爆上げ。マイクロン決算で米国株、ナスダック、ハイテク株上がるか。ドル円１５８円。",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-10-01T16:11:02+00:00",
-   "overview": "日経平均株価が大きく急騰する中、AI半導体関連株への一極集中とバリュー株の伸び悩みによる相場の二極化が加速している状況を解説しています。レーザーテックやアドバンテストなど需給が軽い銘柄が急騰する一方、決算発表後のマイクロン・テクノロジーの下落や米国半導体株の弱さから騙し上げや今後の反落リスクへの警戒感を示しています。投資戦略としては需給の軽い銘柄への資金シフトを推奨しています。",
-   "market_view": "日経平均は大幅高となったものの半導体株への一極集中による二極化が激しく、需給の軽い銘柄を見極める必要があります。",
-   "market": "MIX",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "レーザーテック",
-     "ticker": "6920",
-     "stance": "bullish",
-     "timestamp": "03:03"
-    },
-    {
-     "name": "アドバンテスト",
-     "ticker": "6857",
-     "stance": "bullish",
-     "timestamp": "03:19"
-    },
-    {
-     "name": "キオクシアホールディングス",
-     "ticker": "285A",
-     "stance": "neutral",
-     "timestamp": "03:48"
-    },
-    {
-     "name": "ディスコ",
-     "ticker": "6146",
-     "stance": "neutral",
-     "timestamp": "03:34"
-    },
-    {
-     "name": "太陽誘電",
-     "ticker": "6976",
-     "stance": "bullish",
-     "timestamp": "08:56"
-    },
-    {
-     "name": "フェローテックホールディングス",
-     "ticker": "6890",
-     "stance": "bullish",
-     "timestamp": "12:13"
-    },
-    {
-     "name": "トヨタ自動車",
-     "ticker": "7203",
-     "stance": "bearish",
-     "timestamp": "14:42"
-    },
-    {
-     "name": "マイクロン・テクノロジー",
-     "ticker": "MU",
-     "stance": "bearish",
-     "timestamp": "17:46"
     }
    ]
   },
