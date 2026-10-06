@@ -1,6 +1,98 @@
 {
- "generated_at": "2026-10-07T04:19:24.560174+09:00",
+ "generated_at": "2026-10-07T08:29:33.186005+09:00",
  "videos": [
+  {
+   "video_id": "81PcD0IURm8",
+   "title": "サイバー攻撃加速！セキュリティ関連銘柄がアツい!?",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-10-06T21:30:21+00:00",
+   "overview": "日本国内企業への連鎖的なサイバー攻撃の発生を背景に、サイバーセキュリティ関連銘柄がテーマとして大きく上昇している状況を解説しています。小型株が多くトレード難易度は高いものの、デイトレードの対象として高い注目が集まっています。特に出来高を伴って買われている銘柄は新高値圏で青天井となっており、目標株価3000円に向けた上昇が期待されています。",
+   "market_view": "国内企業でのサイバー攻撃頻発により危機感が高まり、セキュリティ関連の小型テーマ株へ資金が流入している。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "成功",
+     "ticker": "",
+     "stance": "bullish",
+     "timestamp": "00:48"
+    },
+    {
+     "name": "KDDI",
+     "ticker": "9433",
+     "stance": "neutral",
+     "timestamp": "00:16"
+    },
+    {
+     "name": "ニチレイ",
+     "ticker": "2871",
+     "stance": "neutral",
+     "timestamp": "00:16"
+    },
+    {
+     "name": "パーク24",
+     "ticker": "4666",
+     "stance": "neutral",
+     "timestamp": "00:16"
+    },
+    {
+     "name": "物語コーポレーション",
+     "ticker": "3197",
+     "stance": "neutral",
+     "timestamp": "00:16"
+    }
+   ]
+  },
+  {
+   "video_id": "ZuRwWPQn6Kg",
+   "title": "10/6【緊急.日本空売り激減ヤバい‼️】日経平均急落新条件はこれだ‼️AI半導体急騰、バリュー株反発。BWやで‼️ドル円軟調。米国株、ナスダック、ハイテク株上がるか。仮想通貨BTC上昇",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-10-06T14:40:58+00:00",
+   "overview": "この動画では日経平均株価の上昇トレンド(バンドウォーク)継続と、配当落ち後の空売り残高急減に伴う注意点が解説されています。個別銘柄では、キオクシアや不動産株の需給悪化・上値の重さを指摘する一方、TDKやフジクラ、アドバンテストなどのAI半導体・ハイテク関連銘柄がバンドウォークや信用踏み上げにより強い上昇を維持していると分析しています。",
+   "market_view": "日経平均はバンドウォーク終了サインが出るまで強気を維持しつつも、PBR2倍ライン接近時の戻り売り圧力に警戒が必要です。また市場の空売り残高激減を受け、需給が軽く売買回転の効いた銘柄に資金を向けるべきと解説されています。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "キオクシアホールディングス",
+     "ticker": "285A",
+     "stance": "bearish",
+     "timestamp": "03:50"
+    },
+    {
+     "name": "TDK",
+     "ticker": "6762",
+     "stance": "bullish",
+     "timestamp": "04:54"
+    },
+    {
+     "name": "フジクラ",
+     "ticker": "5803",
+     "stance": "bullish",
+     "timestamp": "06:08"
+    },
+    {
+     "name": "アドバンテスト",
+     "ticker": "6857",
+     "stance": "bullish",
+     "timestamp": "07:20"
+    },
+    {
+     "name": "野村不動産ホールディングス",
+     "ticker": "3231",
+     "stance": "bearish",
+     "timestamp": "41:06"
+    }
+   ]
+  },
   {
    "video_id": "LQJjMIFDI28",
    "title": "10/4【日経平均爆上げか⁉】AI半導体株急騰で日本株２極化加速。バリュー株弱すぎる‼米国株、ナスダック、ハイテク株上がるか。ドル円１５7円。",
@@ -172,98 +264,6 @@
      "ticker": "",
      "stance": "neutral",
      "timestamp": "13:04"
-    }
-   ]
-  },
-  {
-   "video_id": "a-UH-HBpzkM",
-   "title": "電線銘柄復活？！需給の改善状況をチェック！古河電工・フジクラ・住友電工",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-10-03T09:00:16+00:00",
-   "overview": "動画では電線株大手3社(古河電工、住友電工、フジクラ)を中心に需給改善の状況と株価チャートの形状を分析しています。株式分割後の需給悪化を経て、出来高の増加や信用買い残の減少に伴い株価の上昇基調が強まっている現状を解説しています。また関連して足型が改善傾向にある三井金属の需給についても言及されています。",
-   "market_view": "",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "古河電気工業",
-     "ticker": "5801",
-     "stance": "bullish",
-     "timestamp": "00:20"
-    },
-    {
-     "name": "住友電気工業",
-     "ticker": "5802",
-     "stance": "bullish",
-     "timestamp": "04:53"
-    },
-    {
-     "name": "フジクラ",
-     "ticker": "5803",
-     "stance": "bullish",
-     "timestamp": "07:16"
-    },
-    {
-     "name": "三井金属",
-     "ticker": "5706",
-     "stance": "neutral",
-     "timestamp": "09:43"
-    }
-   ]
-  },
-  {
-   "video_id": "YEPbyHoRHIU",
-   "title": "10/2【米雇用統計で日経平均爆上げか⁉】AI半導体株急騰で日本株２極化加速。バリュー株弱すぎる‼米国株、ナスダック、ハイテク株上がるか。ドル円１５7円。",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-10-02T14:42:29+00:00",
-   "overview": "米雇用統計の結果を受けて米国金利が低下し、利上げ懸念の交代から日経平均先物が大幅高となった局面でのライブ解説動画です。任天堂や野村不動産ホールディングスなどの個別銘柄について、PBRや信用需給の期日、フィボナッチ等のテクニカル分析を踏まえた戦略を提示。半導体関連など需給が良好な銘柄に資金が集中する二極化が加速する中、安値で買って中長期で待つ姿勢の重要性が語られています。",
-   "market_view": "米国金利低下を受けて先物が爆上げする一方、相場は半導体株などの需給が良い銘柄と弱さが目立つバリュー株で二極化が加速しており、需給面を重視した銘柄選択が必要です。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "任天堂",
-     "ticker": "7974",
-     "stance": "bullish",
-     "timestamp": "05:20"
-    },
-    {
-     "name": "SHIFT",
-     "ticker": "3697",
-     "stance": "neutral",
-     "timestamp": "10:12"
-    },
-    {
-     "name": "IHI",
-     "ticker": "7013",
-     "stance": "neutral",
-     "timestamp": "16:55"
-    },
-    {
-     "name": "レーザーテック",
-     "ticker": "6920",
-     "stance": "bullish",
-     "timestamp": "20:38"
-    },
-    {
-     "name": "JX金属",
-     "ticker": "5016",
-     "stance": "neutral",
-     "timestamp": "46:03"
-    },
-    {
-     "name": "野村不動産ホールディングス",
-     "ticker": "3231",
-     "stance": "neutral",
-     "timestamp": "52:57"
     }
    ]
   },
