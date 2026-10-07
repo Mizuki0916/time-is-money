@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-07T14:20:34.064725+09:00",
+ "generated_at": "2026-10-07T20:57:36.295250+09:00",
  "channels": [
   {
    "id": "UCsaeHha7ai_NNX8or8Jyb-g",
@@ -2780,7 +2780,7 @@
     "live": null,
     "live_change_pct": null,
     "live_time": null,
-    "volume": 1801905,
+    "volume": 1801800,
     "volume_ratio": 0.76,
     "rsi14": 51.3,
     "rsi_zone": "中立",
@@ -2835,7 +2835,7 @@
     "market_open": false,
     "symbol": "GO",
     "source": "yahoo-search",
-    "fetched_at": "2026-10-06T23:27:52.454425+00:00"
+    "fetched_at": "2026-10-07T11:57:36.304254+00:00"
    }
   },
   {
