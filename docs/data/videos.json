@@ -1,6 +1,104 @@
 {
- "generated_at": "2026-10-09T04:40:19.231622+09:00",
+ "generated_at": "2026-10-09T07:38:09.638806+09:00",
  "videos": [
+  {
+   "video_id": "ZNXsvqaolD4",
+   "title": "10/8【緊急,日本株崩壊か⁉】AI半導体株急落で日経平均993円安。海外投資家が日本株1.2兆円売却。出遅れ銘柄に資金シフト。ドル円軟調。米国株、ナスダック、ハイテク株上がるか。仮想通貨BTC弱",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-10-08T15:55:43+00:00",
+   "overview": "日経平均が大幅に急落し半導体やハイテク株が押す中、セクターローテーションによる出遅れ銘柄への資金シフトの動きが見られる相場環境を解説しています。半導体株のバンドウォーク終了に伴う日柄調整や、信用需給の偏りに警戒を促しつつ、シフトや任天堂、住友林業など個別銘柄のチャート形状、信用期日通過、高配当利回り等を踏まえた立ち回り戦略を詳しく分析しています。",
+   "market_view": "日経平均はバンドウォーク終了のサインが点灯し25日移動平均線までの起動修正が入る警戒感がある一方、ハイテク株から出遅れ・割安銘柄へのセクターローテーションが意識されています。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "シフト",
+     "ticker": "3697",
+     "stance": "bullish",
+     "timestamp": "06:12"
+    },
+    {
+     "name": "任天堂",
+     "ticker": "7974",
+     "stance": "bullish",
+     "timestamp": "09:30"
+    },
+    {
+     "name": "住友林業",
+     "ticker": "1911",
+     "stance": "bullish",
+     "timestamp": "17:15"
+    },
+    {
+     "name": "IHI",
+     "ticker": "7013",
+     "stance": "bearish",
+     "timestamp": "54:00"
+    },
+    {
+     "name": "レーザーテック",
+     "ticker": "6920",
+     "stance": "neutral",
+     "timestamp": "41:30"
+    }
+   ]
+  },
+  {
+   "video_id": "SBr15POpIww",
+   "title": "【日経平均】 下落だが押し目買いの準備だ 話題のサイバー関連はどうなる？ サンディスク・キオクシア・太陽誘電・ティアフォー・サイバーセキュリティ関連",
+   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+   "channel_name": "Trader's Lab",
+   "channel_short": "TL",
+   "slot": 1,
+   "published": "2026-10-08T11:41:05+00:00",
+   "overview": "日経平均は連日の下落となっているものの、動画主は上昇トレンド中の健全な押し下げと捉えており、PER17倍水準(6万7000円台)付近への調整を押し目買いの好機として捉えています。個別株ではサイバーセキュリティ関連銘柄がテーマ化して急騰している状況を詳しく解説し、デイトレードでのリスク管理の重要性を強調しました。その他にもキオクシアや太陽誘電のレンジ相場見通しや、TOPIX採用で買われたティアフォーの分析を行っています。",
+   "market_view": "日経平均は調整で続落しているものの、中長期の上昇波動における健全な押し下げの範囲内であり、6万7000円台付近が強力なサポートになると見ています。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "キオクシア",
+     "ticker": "",
+     "stance": "neutral",
+     "timestamp": "23:08"
+    },
+    {
+     "name": "太陽誘電",
+     "ticker": "6976",
+     "stance": "neutral",
+     "timestamp": "26:50"
+    },
+    {
+     "name": "ティアフォー",
+     "ticker": "",
+     "stance": "bullish",
+     "timestamp": "30:35"
+    },
+    {
+     "name": "サイバーセキュリティクラウド",
+     "ticker": "4493",
+     "stance": "bullish",
+     "timestamp": "32:13"
+    },
+    {
+     "name": "グローバルセキュリティエキスパート",
+     "ticker": "4417",
+     "stance": "bullish",
+     "timestamp": "36:45"
+    },
+    {
+     "name": "FFRIセキュリティ",
+     "ticker": "3692",
+     "stance": "neutral",
+     "timestamp": "38:15"
+    }
+   ]
+  },
   {
    "video_id": "xTTWL6ARWKI",
    "title": "10/7【日本株に違和感‼】AI半導体株急落で日経平均６４８円安。キオクシア木端微塵‼️出遅れ銘柄に資金シフト。ドル円軟調。米国株、ナスダック、ハイテク株上がるか。仮想通貨BTC上昇",
@@ -65,40 +163,6 @@
      "ticker": "4493",
      "stance": "neutral",
      "timestamp": "28:38"
-    }
-   ]
-  },
-  {
-   "video_id": "j8GebtlLt5I",
-   "title": "10/7【日本株に違和感‼】AI半導体株急落で日経平均６４８円安。キオクシア木端微塵‼️出遅れ銘柄に資金シフト。ドル円軟調。米国株、ナスダック、ハイテク株上がるか。仮想通貨BTC上昇",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-10-07T09:15:01+00:00",
-   "overview": "動画では、AI半導体株の一部急落に伴う日経平均下落の背景や今後の見通しについて解説されています。空売り燃料の枯渇やPBR2倍ライン(7万2861円)の存在から日経平均の上値余地は限定的と分析しています。その上で、信用受給が悪化したキオクシア等の半導体株から、受給が軽く出遅れていた銘柄やTOPIX構成銘柄への資金ローテーションが始まっていると指摘しています。",
-   "market_view": "日経平均は上昇燃料となる空売りが激減し上値抵抗線が意識される中、受給悪化銘柄から受給の軽い銘柄や出遅れ銘柄への資金ローテーションが進行しています。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "日経平均株価",
-     "ticker": "998407",
-     "stance": "neutral",
-     "timestamp": "20:19"
-    },
-    {
-     "name": "キオクシアホールディングス",
-     "ticker": "285A",
-     "stance": "bearish",
-     "timestamp": "22:58"
-    },
-    {
-     "name": "アドバンテスト",
-     "ticker": "6857",
-     "stance": "bullish",
-     "timestamp": "23:35"
     }
    ]
   },
@@ -243,52 +307,6 @@
      "ticker": "",
      "stance": "neutral",
      "timestamp": "13:04"
-    }
-   ]
-  },
-  {
-   "video_id": "RGBKcYPweZY",
-   "title": "【日経平均】 雇用統計通過後 AI相場反撃開始！ アドバンテスト・NOTE・テクニスコ・ノースサンド",
-   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-   "channel_name": "Trader's Lab",
-   "channel_short": "TL",
-   "slot": 1,
-   "published": "2026-10-02T11:12:21+00:00",
-   "overview": "雇用統計通過前でありながら先物市場で日経平均が上昇し、短中長期の全期間で上目線への転換が確認できる環境について解説しています。AI・半導体関連銘柄が牽引するAIバブル相場の再開を示唆し、PER17倍の水準が強固なサポートになると分析しています。個別銘柄では地合いより強いモメンタムを持つ銘柄として、史上最高値を更新したアドバンテストのほか、バンド型の上昇トレンドを形成しているnote、テクニスコ、ノースサンドのチャート優位性を解説しています。",
-   "market_view": "日経平均は先物市場での大幅高により短中長期の全目線で上目線に転換し、AI・半導体関連株主導の相場が再開しつつある。PER17倍水準(6万7000円台)が強いサポートとして機能する見込み。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "日経平均株価",
-     "ticker": "",
-     "stance": "bullish",
-     "timestamp": "03:47"
-    },
-    {
-     "name": "アドバンテスト",
-     "ticker": "6857",
-     "stance": "bullish",
-     "timestamp": "16:29"
-    },
-    {
-     "name": "note",
-     "ticker": "5243",
-     "stance": "bullish",
-     "timestamp": "18:41"
-    },
-    {
-     "name": "テクニスコ",
-     "ticker": "2962",
-     "stance": "bullish",
-     "timestamp": "22:25"
-    },
-    {
-     "name": "ノースサンド",
-     "ticker": "",
-     "stance": "bullish",
-     "timestamp": "25:19"
     }
    ]
   },

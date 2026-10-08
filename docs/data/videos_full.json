@@ -1,6 +1,107 @@
 {
  "videos": [
   {
+   "video_id": "ZNXsvqaolD4",
+   "title": "10/8【緊急,日本株崩壊か⁉】AI半導体株急落で日経平均993円安。海外投資家が日本株1.2兆円売却。出遅れ銘柄に資金シフト。ドル円軟調。米国株、ナスダック、ハイテク株上がるか。仮想通貨BTC弱",
+   "published": "2026-10-08T15:55:43+00:00",
+   "description": "「12か月20％オフ」のメンバークーポンを10/11まで限定で配布します。\nMEDIABLEのVIP、プラチナプランが対象です。\n\n ※クーポンコード：yuki12\n\n\n◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーー",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "日経平均が大幅に急落し半導体やハイテク株が押す中、セクターローテーションによる出遅れ銘柄への資金シフトの動きが見られる相場環境を解説しています。半導体株のバンドウォーク終了に伴う日柄調整や、信用需給の偏りに警戒を促しつつ、シフトや任天堂、住友林業など個別銘柄のチャート形状、信用期日通過、高配当利回り等を踏まえた立ち回り戦略を詳しく分析しています。",
+   "market_view": "日経平均はバンドウォーク終了のサインが点灯し25日移動平均線までの起動修正が入る警戒感がある一方、ハイテク株から出遅れ・割安銘柄へのセクターローテーションが意識されています。",
+   "market": "JP",
+   "picks": [
+    {
+     "name": "シフト",
+     "name_en": "Shift Inc.",
+     "ticker": "3697",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "ボリバン中央線上で好形、決算期待の動き",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "200日移動平均線と長期線のゴールデンクロスが形成されており、ボリンジャーバンドの25日移動平均線の上で推移する強い形状を示している。",
+      "直近の決算発表(10月15日予定)に向けて、前回決算での上昇を踏まえた期待買いの展開が期待されるチャート配置となっている。"
+     ],
+     "timestamp": "06:12",
+     "confidence": "high"
+    },
+    {
+     "name": "任天堂",
+     "name_en": "Nintendo Co., Ltd.",
+     "ticker": "7974",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "期日通過で需給改善、ゼルダ等新作に期待",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "急落前の高値で購入した信用買いの6ヶ月期日を通過し、戻り売りの圧力が和らぐことで需給面の軽さが出てくると分析される。",
+      "11月の新作ゲームリリースや今後の新作タイトル期待に加え、PBR2.5倍水準での中長期視点での保有に適した状態と見られている。"
+     ],
+     "timestamp": "09:30",
+     "confidence": "high"
+    },
+    {
+     "name": "住友林業",
+     "name_en": "Sumitomo Forestry Co., Ltd.",
+     "ticker": "1911",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "目先は不可も、高配当・低PBRで中長期魅力",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "短期的には下落傾向だが、配当利回りが約5%と高く、PBR1倍割れの割安な水準にあるため中長期での購入・放置に適している。",
+      "バンドウォーク下落調整を経て、パラボリックやMACDの好転により25日移動平均線付近までの起動修正が入る期待がある。"
+     ],
+     "timestamp": "17:15",
+     "confidence": "high"
+    },
+    {
+     "name": "IHI",
+     "name_en": "IHI Corporation",
+     "ticker": "7013",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "信用倍率が高く受給悪化、下落トレンド懸念",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "信用倍率が50倍を超えて売り残が少なく、信用買い残の重さが上値を抑える展開が続いており需給関係の悪化が目立っている。",
+      "RSIの下値支持線を割り込んでおり、トレンド自体が下向きに突っ込んでいるため目先の上昇期待は限定的である。"
+     ],
+     "timestamp": "54:00",
+     "confidence": "medium"
+    },
+    {
+     "name": "レーザーテック",
+     "name_en": "Lasertec Corporation",
+     "ticker": "6920",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "バンドウォーク一旦調整、受給面は良好",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "半導体株全体でバンドウォークが途切れ日柄調整局面に入っているが、信用倍率1.41倍と需給自体は悪くない状態を維持している。"
+     ],
+     "timestamp": "41:30",
+     "confidence": "medium"
+    }
+   ]
+  },
+  {
    "video_id": "xTTWL6ARWKI",
    "title": "10/7【日本株に違和感‼】AI半導体株急落で日経平均６４８円安。キオクシア木端微塵‼️出遅れ銘柄に資金シフト。ドル円軟調。米国株、ナスダック、ハイテク株上がるか。仮想通貨BTC上昇",
    "published": "2026-10-07T15:02:47+00:00",
@@ -18,68 +119,120 @@
    "picks": []
   },
   {
-   "video_id": "j8GebtlLt5I",
-   "title": "10/7【日本株に違和感‼】AI半導体株急落で日経平均６４８円安。キオクシア木端微塵‼️出遅れ銘柄に資金シフト。ドル円軟調。米国株、ナスダック、ハイテク株上がるか。仮想通貨BTC上昇",
-   "published": "2026-10-07T09:15:01+00:00",
-   "description": "「12か月20％オフ」のメンバークーポンを10/11まで限定で配布します。\nMEDIABLEのVIP、プラチナプランが対象です。\n\n ※クーポンコード：yuki12\n\n\n◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーー",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
+   "video_id": "SBr15POpIww",
+   "title": "【日経平均】 下落だが押し目買いの準備だ 話題のサイバー関連はどうなる？ サンディスク・キオクシア・太陽誘電・ティアフォー・サイバーセキュリティ関連",
+   "published": "2026-10-08T11:41:05+00:00",
+   "description": "※動画の趣旨は個人的主観の予測であり、値動きを保証するものではありません。\n　投資の判断は自己責任でお願いします。\n\n◉セミナーお申し込み\nhttps://sakura-inv.com/seminar/20261028/\n\n◉トレンド分析の基礎おすすめ動画\n【永久保存版】初心者でもわかるダウ理論の使い方【前編】\nhttps://youtu.be/re9XBR2qcBw\n【永久保存版】初心者でもわかるダウ理論の使い方【後編】\nhttps://youtu.be/Z21W4VFSs9g\n【知らなきゃ勝てない】移動平均線で相場を読む最強の方法\nhttps://youtu.be/FfSX8hcRR2I\n【一目均衡表の真髄】初心者でも分かる完全ガイド\nhttps://youtu.be/xPkb1twTFFI\n\n◉SBI証券株式会社キャンペーン　手数料無料、取引ツール便利PR\nhttps://h.acc",
+   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+   "channel_name": "Trader's Lab",
+   "channel_short": "TL",
+   "slot": 1,
    "no_transcript": false,
    "skip_reason": "",
-   "overview": "動画では、AI半導体株の一部急落に伴う日経平均下落の背景や今後の見通しについて解説されています。空売り燃料の枯渇やPBR2倍ライン(7万2861円)の存在から日経平均の上値余地は限定的と分析しています。その上で、信用受給が悪化したキオクシア等の半導体株から、受給が軽く出遅れていた銘柄やTOPIX構成銘柄への資金ローテーションが始まっていると指摘しています。",
-   "market_view": "日経平均は上昇燃料となる空売りが激減し上値抵抗線が意識される中、受給悪化銘柄から受給の軽い銘柄や出遅れ銘柄への資金ローテーションが進行しています。",
+   "overview": "日経平均は連日の下落となっているものの、動画主は上昇トレンド中の健全な押し下げと捉えており、PER17倍水準(6万7000円台)付近への調整を押し目買いの好機として捉えています。個別株ではサイバーセキュリティ関連銘柄がテーマ化して急騰している状況を詳しく解説し、デイトレードでのリスク管理の重要性を強調しました。その他にもキオクシアや太陽誘電のレンジ相場見通しや、TOPIX採用で買われたティアフォーの分析を行っています。",
+   "market_view": "日経平均は調整で続落しているものの、中長期の上昇波動における健全な押し下げの範囲内であり、6万7000円台付近が強力なサポートになると見ています。",
    "market": "JP",
    "picks": [
     {
-     "name": "日経平均株価",
-     "name_en": "Nikkei 225",
-     "ticker": "998407",
+     "name": "キオクシア",
+     "name_en": "Kioxia Holdings",
+     "ticker": "",
      "market": "JP",
      "stance": "neutral",
-     "stance_note": "PBR2倍ラインを控え調整に警戒",
+     "stance_note": "売り圧力強めのレンジ相場想定",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "PBR2倍ラインである7万2861円近辺が上値抵抗線として意識され、目先の上昇余地が限られてきているため。",
-      "信用売り残の減少によりショートカバーという上昇燃料が枯渇しており受給面のストッパーが外れているため。"
+      "朝方に上昇したものの陰線を並べる黒コンボのような形で押し戻されており、地合いの悪さも手伝って短期的な売り圧力が強まっている。",
+      "株式分割後に出来高が半減しており信用改ざんに対して回転が効いていないため、上値が重く1万6000円台までの調整があり得る。"
      ],
-     "timestamp": "20:19",
+     "timestamp": "23:08",
      "confidence": "high"
     },
     {
-     "name": "キオクシアホールディングス",
-     "name_en": "Kioxia Holdings Corporation",
-     "ticker": "285A",
+     "name": "太陽誘電",
+     "name_en": "Taiyo Yuden",
+     "ticker": "6976",
      "market": "JP",
-     "stance": "bearish",
-     "stance_note": "信用高値掴みの戻り売りに警戒",
+     "stance": "neutral",
+     "stance_note": "高値圏での売り圧力が強いレンジ相場",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "信用取引で高値を掴んだ投資家の半年期日が12月に迫っており、年末に向けた戻り売りや投売りが出やすいため。",
-      "株価が4.46%急落し売買高が細るなど人気が下落しており、上値が切り下がる下落傾向を見せているため。"
+      "1万1000円前後の8月高値や75日移動平均線、ボリンジャーバンド+3シグマ付近はテクニカル的に売られやすい水準となっている。",
+      "明確なトレンドはなく上がったら下がり下がったら上がる動きを繰り返しており、25日移動平均線を中心に推移するレンジ相場が続く。"
      ],
-     "timestamp": "22:58",
+     "timestamp": "26:50",
      "confidence": "high"
     },
     {
-     "name": "アドバンテスト",
-     "name_en": "Advantest Corporation",
-     "ticker": "6857",
+     "name": "ティアフォー",
+     "name_en": "Tier IV",
+     "ticker": "",
      "market": "JP",
      "stance": "bullish",
-     "stance_note": "受給良好で強い展開を維持",
+     "stance_note": "TOPIX採用ニュースで急伸",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "6月高値の戻り売り圧力がなく信用受給が回転しているため、利益確定売りを挟みつつも強い上昇傾向にあるため。"
+      "グロース市場からTOPIXへ採用されることが発表されたニュースをきっかけに買われ、25日移動平均線を上抜けて急伸している。",
+      "出来高が4700万株と非常に多く盛り上がっており、自動運転関連の本命銘柄として明日以降も短期売買で活況が続くと予想される。"
      ],
-     "timestamp": "23:35",
+     "timestamp": "30:35",
+     "confidence": "high"
+    },
+    {
+     "name": "サイバーセキュリティクラウド",
+     "name_en": "Cyber Security Cloud",
+     "ticker": "4493",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "テーマ化による急騰で青天井を狙う",
+     "target_price": "11260円",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "インフルエンサーの言及やニュースを背景にサイバーセキュリティがテーマ化し、連日のストップ高で急騰している。",
+      "上場以来最高となる月間出来高を記録しており、大口投資家の介入による持続的な上昇や3年前の高値突破による青天井が期待される。"
+     ],
+     "timestamp": "32:13",
+     "confidence": "high"
+    },
+    {
+     "name": "グローバルセキュリティエキスパート",
+     "name_en": "Global Security Experts",
+     "ticker": "4417",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "上場来高値更新中で健全な上昇",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "前日の陰線を素早く切り返して上場来高値を更新し続けており、チャートの形がサイバーセキュリティ関連の中で最も健全である。",
+      "テーマ化による過熱感が他の関連銘柄ほど高過ぎず、出遅れ感があるセキュリティ関連銘柄として順調な右肩上がりのトレンドを維持している。"
+     ],
+     "timestamp": "36:45",
+     "confidence": "medium"
+    },
+    {
+     "name": "FFRIセキュリティ",
+     "name_en": "FFRI Security",
+     "ticker": "3692",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "急騰で過熱感がありデイトレ推奨",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "長らく低迷していたがセキュリティ関連のテーマ化に伴い安値から倍近くまで急騰しており、騰落率の乖離から過熱感が出ている。",
+      "年初の戻り高値付近に差し掛かっているため上値が重くなる可能性が高く、持ち越しリスクを避けたデイトレード向きの動きである。"
+     ],
+     "timestamp": "38:15",
      "confidence": "medium"
     }
    ]
@@ -199,113 +352,6 @@
       "ボリンジャーバンド+3σ〜+4σ超過や25日移動平均線乖離率30%超と加熱感が極めて高く急変動リスクがある。"
      ],
      "timestamp": "28:38",
-     "confidence": "high"
-    }
-   ]
-  },
-  {
-   "video_id": "RGBKcYPweZY",
-   "title": "【日経平均】 雇用統計通過後 AI相場反撃開始！ アドバンテスト・NOTE・テクニスコ・ノースサンド",
-   "published": "2026-10-02T11:12:21+00:00",
-   "description": "※動画の趣旨は個人的主観の予測であり、値動きを保証するものではありません。\n　投資の判断は自己責任でお願いします。\n\nトレンド分析マスターコース\n「無料オンライン講座(全5回)」＆豪華特典プレゼント！\n【完全無料】→ https://www.fpo.jp/suzuki/\n\n◉トレンド分析の基礎おすすめ動画\n【永久保存版】初心者でもわかるダウ理論の使い方【前編】\nhttps://youtu.be/re9XBR2qcBw\n【永久保存版】初心者でもわかるダウ理論の使い方【後編】\nhttps://youtu.be/Z21W4VFSs9g\n【知らなきゃ勝てない】移動平均線で相場を読む最強の方法\nhttps://youtu.be/FfSX8hcRR2I\n【一目均衡表の真髄】初心者でも分かる完全ガイド\nhttps://youtu.be/xPkb1twTFFI\n\n◉SBI証券株式会社キャンペーン　手数料無",
-   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-   "channel_name": "Trader's Lab",
-   "channel_short": "TL",
-   "slot": 1,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "雇用統計通過前でありながら先物市場で日経平均が上昇し、短中長期の全期間で上目線への転換が確認できる環境について解説しています。AI・半導体関連銘柄が牽引するAIバブル相場の再開を示唆し、PER17倍の水準が強固なサポートになると分析しています。個別銘柄では地合いより強いモメンタムを持つ銘柄として、史上最高値を更新したアドバンテストのほか、バンド型の上昇トレンドを形成しているnote、テクニスコ、ノースサンドのチャート優位性を解説しています。",
-   "market_view": "日経平均は先物市場での大幅高により短中長期の全目線で上目線に転換し、AI・半導体関連株主導の相場が再開しつつある。PER17倍水準(6万7000円台)が強いサポートとして機能する見込み。",
-   "market": "JP",
-   "picks": [
-    {
-     "name": "日経平均株価",
-     "name_en": "Nikkei 225",
-     "ticker": "",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "短中長期の全期間で上目線へ転換",
-     "target_price": "70000円",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "先物市場で6万9000円台まで大きく上昇し、8月の高値水準に匹敵する強さを見せているため。",
-      "AI・半導体関連株への資金流入が続いており、短中長期のすべての期間で上目線となったため。",
-      "PER17倍の水準(6万7000円台)が強力なサポートラインとして機能すると考えられるため。"
-     ],
-     "timestamp": "03:47",
-     "confidence": "high"
-    },
-    {
-     "name": "アドバンテスト",
-     "name_en": "Advantest Corporation",
-     "ticker": "6857",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "地合い超えの強さで史上最高値更新",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "米国株やSOX指数の上昇を背景に、市場全体の地合いと逆行して本日史上最高値を更新したため。",
-      "信用改算156万株に対し売り算188万株と売り長であり、需給面で良好な好影響があるため。",
-      "月足・週足ともにトレンドフォロー型で一貫した強い上昇トレンドが継続しているため。"
-     ],
-     "timestamp": "16:29",
-     "confidence": "high"
-    },
-    {
-     "name": "note",
-     "name_en": "note inc.",
-     "ticker": "5243",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "月足・週足で強いバンド型上昇継続",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "姫路市教育委員会による私立校全校への導入ニュース等を背景に3日連続上昇で最高値を更新したため。",
-      "時価総額が約800億円弱と低いため、大口資金の流入による株価押し上げ効果が大きい点。",
-      "月足・週足・日足でバンド型の上昇トレンドを形成しており中長期で大きな値幅が期待できるため。"
-     ],
-     "timestamp": "18:41",
-     "confidence": "high"
-    },
-    {
-     "name": "テクニスコ",
-     "name_en": "Tecnisco Ltd.",
-     "ticker": "2962",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "月足・日足のバンド型で最高値更新",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "高機能ヒートシンク部品の大型受注材料をきっかけに本日も材料なしで史上最高値を更新したため。",
-      "時価総額が小さいため、中小型株特有の大口資金流入による株価急上昇の恩恵を受けやすい点。",
-      "月足や日足で綺麗なバンド型チャートを形成しており、継続して上値を追う展開が期待できるため。"
-     ],
-     "timestamp": "22:25",
-     "confidence": "high"
-    },
-    {
-     "name": "ノースサンド",
-     "name_en": "Northsand Inc.",
-     "ticker": "",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "売り圧力のない青天井の最高値更新",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "ITコンサルティング関連銘柄が買われるセクター優位に乗る形で本日史上最高値を更新したため。",
-      "上場来高値を更新した青天井の状態であり、上値にシコリ玉が存在しないため買われやすい点。",
-      "日足・週足ともにボリンジャーバンドのバンド型を形成しており、モメンタムが非常に強いため。"
-     ],
-     "timestamp": "25:19",
      "confidence": "high"
     }
    ]
