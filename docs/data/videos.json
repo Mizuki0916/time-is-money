@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-08T09:14:52.429844+09:00",
+ "generated_at": "2026-10-08T09:28:12.290972+09:00",
  "videos": [
   {
    "video_id": "xTTWL6ARWKI",
@@ -15,6 +15,92 @@
    "no_transcript": true,
    "skip_reason": "この動画には字幕がありません",
    "picks": []
+  },
+  {
+   "video_id": "d8T-_i0AhsY",
+   "title": "【日経平均】 SQ前の上昇 押し下げに備えよ サンディスク・キオクシア・太陽誘電・NOTE・サイバーセキュリティクラウド",
+   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+   "channel_name": "Trader's Lab",
+   "channel_short": "TL",
+   "slot": 1,
+   "published": "2026-10-07T11:00:24+00:00",
+   "overview": "日経平均株価は急速な上昇の反動やSQ通過を控え、6万7000円〜6万8000円程度までの健全な押し下げ・調整が想定される展開です。個別銘柄では、株式分割後に出来高が伸び悩むキオクシアや、好決算発表も折り込み済みで急落したnote、テーマ化で過熱感が強まるサイバーセキュリティクラウドなどを解説しています。長期トレンドと足元の潜在的リスクを区別した投資戦略が示されています。",
+   "market_view": "日経平均株価は短期的にな急騰からの調整局面に入っており、SQや過熱感を考慮して6万7000円〜6万8000円程度の押し下げを想定したリスク管理が必要です。",
+   "market": "MIX",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "日経平均株価",
+     "ticker": "N225",
+     "stance": "bearish",
+     "timestamp": "00:02"
+    },
+    {
+     "name": "キオクシア",
+     "ticker": "285A",
+     "stance": "bearish",
+     "timestamp": "19:37"
+    },
+    {
+     "name": "サンディスク",
+     "ticker": "",
+     "stance": "bearish",
+     "timestamp": "20:03"
+    },
+    {
+     "name": "太陽誘電",
+     "ticker": "6976",
+     "stance": "neutral",
+     "timestamp": "22:45"
+    },
+    {
+     "name": "note",
+     "ticker": "5243",
+     "stance": "bearish",
+     "timestamp": "24:45"
+    },
+    {
+     "name": "サイバーセキュリティクラウド",
+     "ticker": "4493",
+     "stance": "neutral",
+     "timestamp": "28:38"
+    }
+   ]
+  },
+  {
+   "video_id": "j8GebtlLt5I",
+   "title": "10/7【日本株に違和感‼】AI半導体株急落で日経平均６４８円安。キオクシア木端微塵‼️出遅れ銘柄に資金シフト。ドル円軟調。米国株、ナスダック、ハイテク株上がるか。仮想通貨BTC上昇",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-10-07T09:15:01+00:00",
+   "overview": "動画では、AI半導体株の一部急落に伴う日経平均下落の背景や今後の見通しについて解説されています。空売り燃料の枯渇やPBR2倍ライン(7万2861円)の存在から日経平均の上値余地は限定的と分析しています。その上で、信用受給が悪化したキオクシア等の半導体株から、受給が軽く出遅れていた銘柄やTOPIX構成銘柄への資金ローテーションが始まっていると指摘しています。",
+   "market_view": "日経平均は上昇燃料となる空売りが激減し上値抵抗線が意識される中、受給悪化銘柄から受給の軽い銘柄や出遅れ銘柄への資金ローテーションが進行しています。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "日経平均株価",
+     "ticker": "998407",
+     "stance": "neutral",
+     "timestamp": "20:19"
+    },
+    {
+     "name": "キオクシアホールディングス",
+     "ticker": "285A",
+     "stance": "bearish",
+     "timestamp": "22:58"
+    },
+    {
+     "name": "アドバンテスト",
+     "ticker": "6857",
+     "stance": "bullish",
+     "timestamp": "23:35"
+    }
+   ]
   },
   {
    "video_id": "81PcD0IURm8",
@@ -59,52 +145,6 @@
      "ticker": "3197",
      "stance": "neutral",
      "timestamp": "00:16"
-    }
-   ]
-  },
-  {
-   "video_id": "ZuRwWPQn6Kg",
-   "title": "10/6【緊急.日本空売り激減ヤバい‼️】日経平均急落新条件はこれだ‼️AI半導体急騰、バリュー株反発。BWやで‼️ドル円軟調。米国株、ナスダック、ハイテク株上がるか。仮想通貨BTC上昇",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-10-06T14:40:58+00:00",
-   "overview": "この動画では日経平均株価の上昇トレンド(バンドウォーク)継続と、配当落ち後の空売り残高急減に伴う注意点が解説されています。個別銘柄では、キオクシアや不動産株の需給悪化・上値の重さを指摘する一方、TDKやフジクラ、アドバンテストなどのAI半導体・ハイテク関連銘柄がバンドウォークや信用踏み上げにより強い上昇を維持していると分析しています。",
-   "market_view": "日経平均はバンドウォーク終了サインが出るまで強気を維持しつつも、PBR2倍ライン接近時の戻り売り圧力に警戒が必要です。また市場の空売り残高激減を受け、需給が軽く売買回転の効いた銘柄に資金を向けるべきと解説されています。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "キオクシアホールディングス",
-     "ticker": "285A",
-     "stance": "bearish",
-     "timestamp": "03:50"
-    },
-    {
-     "name": "TDK",
-     "ticker": "6762",
-     "stance": "bullish",
-     "timestamp": "04:54"
-    },
-    {
-     "name": "フジクラ",
-     "ticker": "5803",
-     "stance": "bullish",
-     "timestamp": "06:08"
-    },
-    {
-     "name": "アドバンテスト",
-     "ticker": "6857",
-     "stance": "bullish",
-     "timestamp": "07:20"
-    },
-    {
-     "name": "野村不動産ホールディングス",
-     "ticker": "3231",
-     "stance": "bearish",
-     "timestamp": "41:06"
     }
    ]
   },
@@ -249,58 +289,6 @@
      "ticker": "",
      "stance": "bullish",
      "timestamp": "25:19"
-    }
-   ]
-  },
-  {
-   "video_id": "woA1S-6pagY",
-   "title": "【日経平均】 連日爆上げ！ 今後の値動きはこう考える アドバンテスト・イビデン・太陽誘電・NOTE・テクニスコ・ユニチカ",
-   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-   "channel_name": "Trader's Lab",
-   "channel_short": "TL",
-   "slot": 1,
-   "published": "2026-10-01T11:05:40+00:00",
-   "overview": "日経平均の大幅上昇に伴い相場全体の地合いと今後の見通しを解説した動画です。急騰によるスピード過重からの押し目・調整リスクに触れつつも、対局としては上目線(ロング)で相場に臨む姿勢を示しています。個別銘柄では、アドバンテストやnoteなどチャート形状が良好で最高値を更新する注目株を中心に、テクニカル分析に基づくスタンスが語られています。",
-   "market_view": "日経平均は短期的な過熱感から調整の下落が発生しやすい状況ですが、対局的には上昇転換の流れに入っておりロング目線が基本となります。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "アドバンテスト",
-     "ticker": "6857",
-     "stance": "bullish",
-     "timestamp": "18:52"
-    },
-    {
-     "name": "イビデン",
-     "ticker": "4062",
-     "stance": "bullish",
-     "timestamp": "20:41"
-    },
-    {
-     "name": "太陽誘電",
-     "ticker": "6976",
-     "stance": "neutral",
-     "timestamp": "22:04"
-    },
-    {
-     "name": "note",
-     "ticker": "5243",
-     "stance": "bullish",
-     "timestamp": "23:56"
-    },
-    {
-     "name": "テクニスコ",
-     "ticker": "2962",
-     "stance": "bullish",
-     "timestamp": "28:01"
-    },
-    {
-     "name": "ユニチカ",
-     "ticker": "3103",
-     "stance": "neutral",
-     "timestamp": "30:45"
     }
    ]
   },
