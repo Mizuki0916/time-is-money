@@ -1,6 +1,21 @@
 {
- "generated_at": "2026-10-08T04:44:43.637732+09:00",
+ "generated_at": "2026-10-08T09:14:52.429844+09:00",
  "videos": [
+  {
+   "video_id": "xTTWL6ARWKI",
+   "title": "10/7【日本株に違和感‼】AI半導体株急落で日経平均６４８円安。キオクシア木端微塵‼️出遅れ銘柄に資金シフト。ドル円軟調。米国株、ナスダック、ハイテク株上がるか。仮想通貨BTC上昇",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-10-07T15:02:47+00:00",
+   "overview": "",
+   "market_view": "",
+   "market": "",
+   "no_transcript": true,
+   "skip_reason": "この動画には字幕がありません",
+   "picks": []
+  },
   {
    "video_id": "81PcD0IURm8",
    "title": "サイバー攻撃加速！セキュリティ関連銘柄がアツい!?",
@@ -90,82 +105,6 @@
      "ticker": "3231",
      "stance": "bearish",
      "timestamp": "41:06"
-    }
-   ]
-  },
-  {
-   "video_id": "LQJjMIFDI28",
-   "title": "10/4【日経平均爆上げか⁉】AI半導体株急騰で日本株２極化加速。バリュー株弱すぎる‼米国株、ナスダック、ハイテク株上がるか。ドル円１５7円。",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-10-04T14:37:57+00:00",
-   "overview": "米国株の雇用統計発表後の金利低下を受けAI半導体やハイテク株が急騰し、日経平均先物も大幅上昇している状況を解説。個別銘柄のチャート形状や信用需給、決算前の動きを分析し、高値期日による戻り売りに警戒しつつもバンドウォーク等の強気サインが出ている銘柄は上値を追う重要性を説いている。",
-   "market_view": "米国株のハイテク高や金利低下を受けて日本株も半導体中心に買いが優勢となっているが、バリュー株との二極化や12月の高値半年期日に伴う戻り売り圧力に注意が必要とされる。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "ファナック",
-     "ticker": "6954",
-     "stance": "neutral",
-     "timestamp": "02:49"
-    },
-    {
-     "name": "東京エレクトロン",
-     "ticker": "8035",
-     "stance": "bullish",
-     "timestamp": "06:50"
-    },
-    {
-     "name": "安川電機",
-     "ticker": "6506",
-     "stance": "neutral",
-     "timestamp": "09:08"
-    },
-    {
-     "name": "村田製作所",
-     "ticker": "6981",
-     "stance": "bullish",
-     "timestamp": "14:36"
-    },
-    {
-     "name": "イビデン",
-     "ticker": "4062",
-     "stance": "bullish",
-     "timestamp": "20:42"
-    },
-    {
-     "name": "ソフトバンクグループ",
-     "ticker": "9984",
-     "stance": "bullish",
-     "timestamp": "23:21"
-    },
-    {
-     "name": "オリエンタルランド",
-     "ticker": "4661",
-     "stance": "bearish",
-     "timestamp": "29:56"
-    },
-    {
-     "name": "三井金属",
-     "ticker": "5706",
-     "stance": "bearish",
-     "timestamp": "35:06"
-    },
-    {
-     "name": "中外製薬",
-     "ticker": "4519",
-     "stance": "bearish",
-     "timestamp": "44:06"
-    },
-    {
-     "name": "古河電気工業",
-     "ticker": "5801",
-     "stance": "bullish",
-     "timestamp": "51:33"
     }
    ]
   },

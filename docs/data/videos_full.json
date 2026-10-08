@@ -1,6 +1,23 @@
 {
  "videos": [
   {
+   "video_id": "xTTWL6ARWKI",
+   "title": "10/7【日本株に違和感‼】AI半導体株急落で日経平均６４８円安。キオクシア木端微塵‼️出遅れ銘柄に資金シフト。ドル円軟調。米国株、ナスダック、ハイテク株上がるか。仮想通貨BTC上昇",
+   "published": "2026-10-07T15:02:47+00:00",
+   "description": "「12か月20％オフ」のメンバークーポンを10/11まで限定で配布します。\nMEDIABLEのVIP、プラチナプランが対象です。\n\n ※クーポンコード：yuki12\n\n\n◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーー",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "no_transcript": true,
+   "skip_reason": "この動画には字幕がありません",
+   "attempts": 1,
+   "overview": "",
+   "market_view": "",
+   "market": "",
+   "picks": []
+  },
+  {
    "video_id": "ZuRwWPQn6Kg",
    "title": "10/6【緊急.日本空売り激減ヤバい‼️】日経平均急落新条件はこれだ‼️AI半導体急騰、バリュー株反発。BWやで‼️ドル円軟調。米国株、ナスダック、ハイテク株上がるか。仮想通貨BTC上昇",
    "published": "2026-10-06T14:40:58+00:00",
@@ -98,193 +115,6 @@
       "フィボナッチのレッドゾーンへ突入しており、年末に向けて下値を試すリスクがある。"
      ],
      "timestamp": "41:06",
-     "confidence": "medium"
-    }
-   ]
-  },
-  {
-   "video_id": "LQJjMIFDI28",
-   "title": "10/4【日経平均爆上げか⁉】AI半導体株急騰で日本株２極化加速。バリュー株弱すぎる‼米国株、ナスダック、ハイテク株上がるか。ドル円１５7円。",
-   "published": "2026-10-04T14:37:57+00:00",
-   "description": "「12か月20％オフ」のメンバークーポンを10/11まで限定で配布します。\nMEDIABLEのVIP、プラチナプランが対象です。\n\n ※クーポンコード：yuki12\n\n\n◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーー",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "米国株の雇用統計発表後の金利低下を受けAI半導体やハイテク株が急騰し、日経平均先物も大幅上昇している状況を解説。個別銘柄のチャート形状や信用需給、決算前の動きを分析し、高値期日による戻り売りに警戒しつつもバンドウォーク等の強気サインが出ている銘柄は上値を追う重要性を説いている。",
-   "market_view": "米国株のハイテク高や金利低下を受けて日本株も半導体中心に買いが優勢となっているが、バリュー株との二極化や12月の高値半年期日に伴う戻り売り圧力に注意が必要とされる。",
-   "market": "JP",
-   "picks": [
-    {
-     "name": "ファナック",
-     "name_en": "FANUC Corporation",
-     "ticker": "6954",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "決算に向けた戻り高値と抵抗線を見極め",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "決算で急落した過去があり、次回決算に向け買い進める動きが減退する可能性から、上値は200日移動平均線の6500円付近が目安と分析。",
-      "RSIの下値切り上がりによるダイバージェンスの兆候が見られ、ボリンジャーバンド中央線を天井とした下落波動が途切れたか注目される。"
-     ],
-     "timestamp": "02:49",
-     "confidence": "high"
-    },
-    {
-     "name": "東京エレクトロン",
-     "name_en": "Tokyo Electron Limited",
-     "ticker": "8035",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "バンドウォーク継続に伴う上昇相場を期待",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "移動平均線の5日線と100日線、さらに75日線とのゴールデンクロス形成が近づいており、チャート形状として好転しつつある。",
-      "ボリンジャーバンドのプラス2シグマに沿って上昇するバンドウォークが発生しており、終了サインが出るまでは上昇傾向が続くと見込む。"
-     ],
-     "timestamp": "06:50",
-     "confidence": "high"
-    },
-    {
-     "name": "安川電機",
-     "name_en": "Yaskawa Electric Corporation",
-     "ticker": "6506",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "決算前の下落傾向に注意し静観",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "ファナック同様にロボット関連として反転の動きは見られるが、過去の傾向として決算直前に期待で買われ決算後に下落する癖があると指摘。",
-      "決算発表を間近に控えており、5000円付近まで上昇したとしても、ここからの積極的な買い増しは難しく戻り売りに警戒が必要とされる。"
-     ],
-     "timestamp": "09:08",
-     "confidence": "high"
-    },
-    {
-     "name": "村田製作所",
-     "name_en": "Murata Manufacturing Co., Ltd.",
-     "ticker": "6981",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "バンドウォークによる上昇継続を注視",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "ボリンジャーバンドの上の青いラインに沿って株価が推移するバンドウォークに入っており、テクニカル上の強い上昇トレンドが継続中。",
-      "信用買残が減少して受給面が改善してきており、フィボナッチの半値戻しである9400円付近を目指す展開が期待されている。"
-     ],
-     "timestamp": "14:36",
-     "confidence": "high"
-    },
-    {
-     "name": "イビデン",
-     "name_en": "IBIDEN Co., Ltd.",
-     "ticker": "4062",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "三角持ち合い上抜けと受給改善で上昇期待",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "チャート上で三角持ち合いおよび逆ヘッドアンドショルダーの形状を上抜けており、明確な上昇トレンドが発生していると分析。",
-      "信用買残が約70万株大幅に減少し、信用売り残が増加したことで信用倍率1.46倍まで需給関係が大幅に改善している点を評価。"
-     ],
-     "timestamp": "20:42",
-     "confidence": "high"
-    },
-    {
-     "name": "ソフトバンクグループ",
-     "name_en": "SoftBank Group Corp.",
-     "ticker": "9984",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "抵抗線突破後の株価上昇の軽さに注目",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "米株市場でのAI・ハイテク株高や金利低下の流れを受けて、明日の相場では上昇してくる可能性が高いと見込まれている。",
-      "チャート上の点線エリアである6800円から6900円の抵抗帯を上抜けると、上値の重さが解消されて強い上昇に転じる可能性がある。"
-     ],
-     "timestamp": "23:21",
-     "confidence": "high"
-    },
-    {
-     "name": "オリエンタルランド",
-     "name_en": "Oriental Land Co., Ltd.",
-     "ticker": "4661",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "下落バンドウォーク継続で警戒継続",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "ボリンジャーバンドのマイナス2シグマ沿いに下落するバンドウォークが発生しており、強烈な下落トレンドが継続していると指摘。",
-      "日柄調整や急反発によってバンドから剥がれ、パラボリックやMACDのゴールデンクロスが確認されるまでは下落が続くと見る。"
-     ],
-     "timestamp": "29:56",
-     "confidence": "high"
-    },
-    {
-     "name": "三井金属",
-     "name_en": "Mitsui Mining and Smelting Co., Ltd.",
-     "ticker": "5706",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "年末の期日向かいや戻り売りに注意",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "6月の高値からの半年期日が年末に重なるため戻り売り圧力が出やすく、上昇しても3100円から3200円付近で頭を押さえられやすい。",
-      "前回の決算時および前々回の決算時ともに急落している実績があり、決算発表に向けた積極的な買いが入りづらい受給状況である。"
-     ],
-     "timestamp": "35:06",
-     "confidence": "high"
-    },
-    {
-     "name": "中外製薬",
-     "name_en": "Chugai Pharmaceutical Co., Ltd.",
-     "ticker": "4519",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "相場逆行安と配当魅力の薄さから軟調と予測",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "全体相場が上昇する中で逆行安となっており、配当利回りも2.18%程度と他の医薬品株と比較して投資魅力が乏しいと評価。",
-      "フィボナッチのレッドゾーンに位置しRSIなどにダイバージェンスの兆候はあるものの、買い材料が乏しくトレンド好転には時間がかかる。"
-     ],
-     "timestamp": "44:06",
-     "confidence": "high"
-    },
-    {
-     "name": "古河電気工業",
-     "name_en": "Furukawa Electric Co., Ltd.",
-     "ticker": "5801",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "バンドウォーク継続中で強いトレンド維持",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "チャートがボリンジャーバンドのプラス2シグマに沿って上昇するバンドウォークの状態にあり、非常に強い上昇トレンドを維持している。",
-      "バンドウォーク終了のサインが出るまでは保有を継続するのがセオリーであり、上値を伸ばせる局面として強気の見解を示している。"
-     ],
-     "timestamp": "51:33",
      "confidence": "medium"
     }
    ]
