@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-09T07:36:43.626718+09:00",
+ "generated_at": "2026-10-09T08:57:21.312108+09:00",
  "channels": [
   {
    "id": "UCsaeHha7ai_NNX8or8Jyb-g",
@@ -3011,22 +3011,21 @@
     "UCdQdRRLoajrt-5TEaAxslxA"
    ],
    "price": {
-    "date": "2026-10-07",
-    "close": 2168.0,
-    "change_pct": -0.14,
-    "live": 2083.0,
-    "live_change_pct": -3.92,
-    "live_time": 1791418378,
-    "volume": 4653200,
-    "volume_ratio": 0.53,
-    "rsi14": 54.7,
+    "date": "2026-10-08",
+    "close": 2021.0,
+    "change_pct": -6.78,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 5844600,
+    "volume_ratio": 0.67,
+    "rsi14": 48.5,
     "rsi_zone": "中立",
-    "ma25": 2048.48,
-    "ma75": 1923.31,
-    "trend": "上昇基調",
-    "pos52": 37,
+    "ma25": 2056.36,
+    "ma75": 1923.39,
+    "trend": "調整中",
+    "pos52": 34,
     "spark": [
-     1851.0,
      1856.0,
      1882.0,
      1865.0,
@@ -3065,14 +3064,15 @@
      2128.0,
      2191.0,
      2171.0,
-     2168.0
+     2168.0,
+     2021.0
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
-    "market_open": true,
+    "market_open": false,
     "symbol": "485A.T",
     "source": "yahoo-search",
-    "fetched_at": "2026-10-08T00:27:10.532232+00:00"
+    "fetched_at": "2026-10-08T23:57:21.319569+00:00"
    }
   },
   {
