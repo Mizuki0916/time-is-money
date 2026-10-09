@@ -1,6 +1,135 @@
 {
  "videos": [
   {
+   "video_id": "N6QVigZ1DhQ",
+   "title": "10/9【緊急,日本株稼ぎ時か⁉】AI半導体株急落で日経平均乱高下。海外投資家が日本株1.2兆円売却。出遅れ銘柄に資金シフト。ドル円軟調。米国株、ナスダック、ハイテク株上がるか。仮想通貨BTC弱",
+   "published": "2026-10-09T15:22:25+00:00",
+   "description": "「12か月20％オフ」のメンバークーポンを10/11まで限定で配布します。\nMEDIABLEのVIP、プラチナプランが対象です。\n\n ※クーポンコード：yuki12\n\n\n◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーー",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "動画では、日経平均株価や米ハイテク株の動向に加え、相場全体で半導体株から出遅れ銘柄へと資金シフトが起きている現状を解説。決算後のファーストリテイリングやデッドクロス懸念のあるソフトバンクグループなどのチャート形状を分析しつつ、ソニーグループや任天堂といった需給改善・好形状の出遅れ株への注目を促している。さらに年末に向けて信用需給が良い銘柄を選択することの重要性を強調している。",
+   "market_view": "半導体株から出遅れ銘柄への資金ローテーションが進む中、信用需給が軽くチャート形状が良い銘柄を優先して選択することが重要と見ている。",
+   "market": "JP",
+   "picks": [
+    {
+     "name": "ファーストリテイリング",
+     "name_en": "Fast Retailing",
+     "ticker": "9983",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "決算後の急落で自立反発の動きを注視",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "決算発表後の売りに伴い株価が急落しており、下落3日目から4日目にかけて自立反発が入るかどうかをテクニカル面で注視する局面。"
+     ],
+     "timestamp": "05:13",
+     "confidence": "medium"
+    },
+    {
+     "name": "ソフトバンクグループ",
+     "name_en": "SoftBank Group",
+     "ticker": "9984",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "デッドクロス形成の兆候があり下落警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "オープンAIの売上予想に関する情報が交錯する中、チャート上でデッドクロスが形成されそうな形状となっており下落警戒が必要。"
+     ],
+     "timestamp": "07:29",
+     "confidence": "medium"
+    },
+    {
+     "name": "村田製作所",
+     "name_en": "Murata Manufacturing",
+     "ticker": "6981",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "バンドウォーク終了後の起動修正で下落調整",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "ボリンジャーバンドのバンドウォーク終了後に25日移動平均線へ向かう修正波が発生しており、テクニカル的な株価調整が進行している。"
+     ],
+     "timestamp": "07:47",
+     "confidence": "medium"
+    },
+    {
+     "name": "任天堂",
+     "name_en": "Nintendo",
+     "ticker": "7974",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "需給の壁を突破し買い戻しが進む展開",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "高値で買った信用買いの期日売りが一巡し、重たかった需給の壁を上抜けたことで改善期待の買い戻しが入り株価が上昇している。"
+     ],
+     "timestamp": "09:31",
+     "confidence": "medium"
+    },
+    {
+     "name": "ソニーグループ",
+     "name_en": "Sony Group",
+     "ticker": "6758",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "200日線ゴールデンクロスで上昇傾向",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "株価が前日比で約2.9%上昇し、長期の200日移動平均線とのゴールデンクロスを形成したためテクニカル的に良好なシグナルが出ている。"
+     ],
+     "timestamp": "10:41",
+     "confidence": "medium"
+    },
+    {
+     "name": "サンリオ",
+     "name_en": "Sanrio",
+     "ticker": "8136",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "移動平均線のゴールデンクロス形成で上昇",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "5日移動平均線と25日移動平均線のゴールデンクロス形成が見られ、出遅れ修正の資金シフトにより株価が前日比2.91%上昇している。"
+     ],
+     "timestamp": "13:43",
+     "confidence": "medium"
+    },
+    {
+     "name": "キオクシアホールディングス",
+     "name_en": "Kioxia Holdings",
+     "ticker": "285A",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "重い信用買い残が懸念され戻りの鈍い展開",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "高値圏での膨大な信用買い残が重荷となっており、相場全体の上昇局面でも買いが入らず年末にかけて戻りの鈍い展開が懸念される。"
+     ],
+     "timestamp": "47:14",
+     "confidence": "medium"
+    }
+   ]
+  },
+  {
    "video_id": "ZNXsvqaolD4",
    "title": "10/8【緊急,日本株崩壊か⁉】AI半導体株急落で日経平均993円安。海外投資家が日本株1.2兆円売却。出遅れ銘柄に資金シフト。ドル円軟調。米国株、ナスダック、ハイテク株上がるか。仮想通貨BTC弱",
    "published": "2026-10-08T15:55:43+00:00",
@@ -100,23 +229,6 @@
      "confidence": "medium"
     }
    ]
-  },
-  {
-   "video_id": "xTTWL6ARWKI",
-   "title": "10/7【日本株に違和感‼】AI半導体株急落で日経平均６４８円安。キオクシア木端微塵‼️出遅れ銘柄に資金シフト。ドル円軟調。米国株、ナスダック、ハイテク株上がるか。仮想通貨BTC上昇",
-   "published": "2026-10-07T15:02:47+00:00",
-   "description": "「12か月20％オフ」のメンバークーポンを10/11まで限定で配布します。\nMEDIABLEのVIP、プラチナプランが対象です。\n\n ※クーポンコード：yuki12\n\n\n◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーー",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "no_transcript": true,
-   "skip_reason": "この動画には字幕がありません",
-   "attempts": 1,
-   "overview": "",
-   "market_view": "",
-   "market": "",
-   "picks": []
   },
   {
    "video_id": "SBr15POpIww",
