@@ -1,6 +1,97 @@
 {
- "generated_at": "2026-10-10T04:23:07.289555+09:00",
+ "generated_at": "2026-10-11T16:20:52.681534+09:00",
  "videos": [
+  {
+   "video_id": "T1jT57g6VT0",
+   "title": "決算シーズン迫る！どの銘柄を跨ごうか会議",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-10-11T04:06:21+00:00",
+   "overview": "本動画では、本格的な決算シーズンを目前に控え、トレーダーTOMO氏が注目銘柄や決算跨ぎの可否について解説しています。丸前や大阪有機化学工業など好決算を出したAI・半導体材料関連の強さを確認しつつ、上方修正が期待できるアドバンテストやカプコン、割安感のあるウェストHDや小松製作所などをピックアップ。需給やチャート形状を踏まえ、個別銘柄ごとの投資判断やスタンスを語っています。",
+   "market_view": "決算業績に支えられた相場環境ではあるものの、銘柄ごとの需給状態やテーマの移り変わりを見極めた慎重な銘柄選別が求められます。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "大阪有機化学工業",
+     "ticker": "4187",
+     "stance": "bullish",
+     "timestamp": "02:31"
+    },
+    {
+     "name": "丸前",
+     "ticker": "6264",
+     "stance": "bullish",
+     "timestamp": "03:37"
+    },
+    {
+     "name": "良品計画",
+     "ticker": "7453",
+     "stance": "bullish",
+     "timestamp": "05:29"
+    },
+    {
+     "name": "ウェストホールディングス",
+     "ticker": "1407",
+     "stance": "bullish",
+     "timestamp": "07:59"
+    },
+    {
+     "name": "ディスコ",
+     "ticker": "6146",
+     "stance": "bullish",
+     "timestamp": "11:56"
+    },
+    {
+     "name": "カプコン",
+     "ticker": "9697",
+     "stance": "bullish",
+     "timestamp": "16:02"
+    },
+    {
+     "name": "アドバンテスト",
+     "ticker": "6857",
+     "stance": "bullish",
+     "timestamp": "17:42"
+    },
+    {
+     "name": "小松製作所",
+     "ticker": "6301",
+     "stance": "bullish",
+     "timestamp": "21:41"
+    },
+    {
+     "name": "関電工",
+     "ticker": "1942",
+     "stance": "bullish",
+     "timestamp": "29:38"
+    },
+    {
+     "name": "フード&ライフカンパニーズ",
+     "ticker": "3563",
+     "stance": "bullish",
+     "timestamp": "1:18:10"
+    }
+   ]
+  },
+  {
+   "video_id": "YF40rCmGnRU",
+   "title": "10/11【緊急,日本株稼ぎ時か⁉】AI半導体株急落で日経平均乱高下。海外投資家が日本株1.2兆円売却。出遅れ銘柄に資金シフト。ドル円軟調。米国株、ナスダック、ハイテク株上がるか。仮想通貨BTC弱",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-10-11T01:47:31+00:00",
+   "overview": "",
+   "market_view": "",
+   "market": "",
+   "no_transcript": true,
+   "skip_reason": "動画が非公開・削除・配信予定などで取得できません",
+   "picks": []
+  },
   {
    "video_id": "N6QVigZ1DhQ",
    "title": "10/9【緊急,日本株稼ぎ時か⁉】AI半導体株急落で日経平均乱高下。海外投資家が日本株1.2兆円売却。出遅れ銘柄に資金シフト。ドル円軟調。米国株、ナスダック、ハイテク株上がるか。仮想通貨BTC弱",
@@ -56,52 +147,6 @@
      "ticker": "285A",
      "stance": "bearish",
      "timestamp": "47:14"
-    }
-   ]
-  },
-  {
-   "video_id": "ZNXsvqaolD4",
-   "title": "10/8【緊急,日本株崩壊か⁉】AI半導体株急落で日経平均993円安。海外投資家が日本株1.2兆円売却。出遅れ銘柄に資金シフト。ドル円軟調。米国株、ナスダック、ハイテク株上がるか。仮想通貨BTC弱",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-10-08T15:55:43+00:00",
-   "overview": "日経平均が大幅に急落し半導体やハイテク株が押す中、セクターローテーションによる出遅れ銘柄への資金シフトの動きが見られる相場環境を解説しています。半導体株のバンドウォーク終了に伴う日柄調整や、信用需給の偏りに警戒を促しつつ、シフトや任天堂、住友林業など個別銘柄のチャート形状、信用期日通過、高配当利回り等を踏まえた立ち回り戦略を詳しく分析しています。",
-   "market_view": "日経平均はバンドウォーク終了のサインが点灯し25日移動平均線までの起動修正が入る警戒感がある一方、ハイテク株から出遅れ・割安銘柄へのセクターローテーションが意識されています。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "シフト",
-     "ticker": "3697",
-     "stance": "bullish",
-     "timestamp": "06:12"
-    },
-    {
-     "name": "任天堂",
-     "ticker": "7974",
-     "stance": "bullish",
-     "timestamp": "09:30"
-    },
-    {
-     "name": "住友林業",
-     "ticker": "1911",
-     "stance": "bullish",
-     "timestamp": "17:15"
-    },
-    {
-     "name": "IHI",
-     "ticker": "7013",
-     "stance": "bearish",
-     "timestamp": "54:00"
-    },
-    {
-     "name": "レーザーテック",
-     "ticker": "6920",
-     "stance": "neutral",
-     "timestamp": "41:30"
     }
    ]
   },
@@ -274,82 +319,6 @@
      "ticker": "6525",
      "stance": "bullish",
      "timestamp": "02:40"
-    }
-   ]
-  },
-  {
-   "video_id": "xpuThjyOrtY",
-   "title": "明日注目したい銘柄！（太陽誘電・村田製作所・アドバンテスト・SUMCO・カプコン・GO・パワーエックスなど）株式テクニカルチャート分析",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-10-04T09:00:33+00:00",
-   "overview": "米国株高や半導体株の上昇を受けて日本株市場が大幅ギャップアップスタートとなる見通しのなか、注目銘柄のテクニカルチャートと需給動向を解説した動画。半導体・電子部品の主力株を中心にデイトレ・スイングの戦略を提示し、万が一半導体株が失速した場合に備えてIPOやグロース銘柄の立ち回りも紹介している。",
-   "market_view": "日経平均先物が大幅ギャップアップで推移しており、米国市場の反導体株高を背景に買い先行のスタートが想定される。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "太陽誘電",
-     "ticker": "6976",
-     "stance": "bullish",
-     "timestamp": "01:39"
-    },
-    {
-     "name": "村田製作所",
-     "ticker": "6981",
-     "stance": "bullish",
-     "timestamp": "03:46"
-    },
-    {
-     "name": "アドバンテスト",
-     "ticker": "6857",
-     "stance": "bullish",
-     "timestamp": "04:51"
-    },
-    {
-     "name": "SUMCO",
-     "ticker": "3436",
-     "stance": "bullish",
-     "timestamp": "07:17"
-    },
-    {
-     "name": "ローツェ",
-     "ticker": "6323",
-     "stance": "bullish",
-     "timestamp": "08:58"
-    },
-    {
-     "name": "カプコン",
-     "ticker": "9697",
-     "stance": "bullish",
-     "timestamp": "09:47"
-    },
-    {
-     "name": "GO",
-     "ticker": "",
-     "stance": "bullish",
-     "timestamp": "10:34"
-    },
-    {
-     "name": "レイヤード",
-     "ticker": "",
-     "stance": "bullish",
-     "timestamp": "11:40"
-    },
-    {
-     "name": "Bエイブル",
-     "ticker": "604A",
-     "stance": "neutral",
-     "timestamp": "12:30"
-    },
-    {
-     "name": "パワーエックス",
-     "ticker": "",
-     "stance": "neutral",
-     "timestamp": "13:04"
     }
    ]
   },
