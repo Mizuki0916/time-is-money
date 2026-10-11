@@ -11,7 +11,7 @@
    "slot": 3,
    "no_transcript": true,
    "skip_reason": "動画が非公開・削除・配信予定などで取得できません",
-   "attempts": 1,
+   "attempts": 2,
    "overview": "",
    "market_view": "",
    "market": "",
@@ -367,6 +367,172 @@
    ]
   },
   {
+   "video_id": "wnpmsb5iVrg",
+   "title": "サイバーセキュリティ関連銘柄みていく！（サイバーセキュリティクラウド・ゼンムテック・セキュアヴェイル・トレンドマイクロ・NEC・野村総研・富士通など）",
+   "published": "2026-10-11T09:00:34+00:00",
+   "description": "🔽株のオンラインサロンやってます！次回メンバー募集は11月から\nエンジョイプランはいつでも初月無料で参加できます★\n→　https://yoor.jp/door/tradertomo\n\n※ 参加プラン別のサービス内容はこちらの動画で解説しています。\n→https://youtu.be/AGZetFvA-Xk?si=Qy_ctky7kW1QSOHX\n\n株好きが集まる楽しいサロンを目指してます♪\n初心者歓迎です～ご参加お待ちしています！\n\n🔽サブチャンネルもやってます＾＾\nhttps://www.youtube.com/@TOMO-subtrader\n\n---------------------------------------------\n🔽公式LINEやってます！ともだち登録お願いします☆\n---------------------------------------------\n\n「う",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "相次ぐ個人情報流出や情報漏洩ニュースに加え、AI悪用によるサイバー攻撃増加を背景に注目が集まるサイバーセキュリティ関連銘柄を解説した動画です。短期のデイトレ・スイングに向けたグロース株と、中長期・本命向けの大手IT株に分けて分析を行っています。シコリ解消の進展や出来高急増、良好なチャート形状を重視しつつ、ボラティリティに応じた取引戦略を提案しています。",
+   "market_view": "企業からの情報漏洩ニュースの頻発やAIを活用したサイバー攻撃の急増を受け、セキュリティ関連セクターへの資金流入と物色が強まっています。",
+   "market": "JP",
+   "picks": [
+    {
+     "name": "グローバルセキュリティエキスパート",
+     "name_en": "Global Security Experts Inc.",
+     "ticker": "4417",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "高値圏レンジで短期・デイトレ狙い",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "民間・自治体向けセキュリティサービスを展開し順調な黒字成長と高い利益率を維持している。",
+      "信用買い残が少なく高値圏でレンジを組んでおり高値追いが狙えるがボラティリティには注意。"
+     ],
+     "timestamp": "04:05",
+     "confidence": "high"
+    },
+    {
+     "name": "ゼンムテック",
+     "name_en": "ZenmuTech Inc.",
+     "ticker": "",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "高い技術力を評価し現物長期や短期軸",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "独自の秘密分散ソリューションなど高い暗号技術を持ち将来的な成長性が非常に期待できる。",
+      "信用買い残が少なく出来高を伴った商いが続いており将来性を考慮した現物保有も面白い。"
+     ],
+     "timestamp": "05:43",
+     "confidence": "high"
+    },
+    {
+     "name": "サイバーセキュリティクラウド",
+     "name_en": "Cyber Security Cloud, Inc.",
+     "ticker": "4493",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "出来高急増の話題株で4000円突破注視",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "Webセキュリティ分野で黒字成長が続いておりセキュリティ話題で出来高が最も急増している。",
+      "持ち合いを経て4000円付近まで急伸しておりギャップアップによるさらなる高値更新が期待できる。"
+     ],
+     "timestamp": "07:16",
+     "confidence": "high"
+    },
+    {
+     "name": "セキュアヴェイル",
+     "name_en": "SECUREVEIL INC.",
+     "ticker": "3042",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "出来高急増の低位株で600円以上を狙う",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "出来高が急増して株価が倍増しており600円の節目ライン上部での積極的な買いが狙える。",
+      "時価総額が小さく単価も安いため触りやすいが機関の空売り動向には注意が必要となる。"
+     ],
+     "timestamp": "08:31",
+     "confidence": "high"
+    },
+    {
+     "name": "トレンドマイクロ",
+     "name_en": "Trend Micro Incorporated",
+     "ticker": "4704",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "業界本命株として上目線継続",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "決算後の急落から7500円台へ急回復しており国内大手の本命銘柄として買われている。",
+      "信用買い残に対して十分な出来高が伴っており機関投資家等の買戻しによる上昇が期待できる。"
+     ],
+     "timestamp": "10:20",
+     "confidence": "high"
+    },
+    {
+     "name": "NEC",
+     "name_en": "NEC Corporation",
+     "ticker": "6701",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "レンジ突破・新高値でスイング注目",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "ITソリューション提供大手としてレンジ上限を突破し新高値を更新するなど足型が非常に良い。"
+     ],
+     "timestamp": "12:08",
+     "confidence": "medium"
+    },
+    {
+     "name": "富士通",
+     "name_en": "Fujitsu Limited",
+     "ticker": "6702",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "需給改善が進み上昇トレンド回帰",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "信用買い残が大きく減少して出来高が買い残を上回っており自然な上昇軌道に乗っている。"
+     ],
+     "timestamp": "12:30",
+     "confidence": "medium"
+    },
+    {
+     "name": "野村総合研究所",
+     "name_en": "Nomura Research Institute, Ltd.",
+     "ticker": "4307",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "理想的なチャートで高値更新を狙う",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "安値切り上げと高値更新を伴う理想的な上昇チャートを描いておりレンジ上限へ到達している。"
+     ],
+     "timestamp": "13:06",
+     "confidence": "medium"
+    },
+    {
+     "name": "三菱電機",
+     "name_en": "Mitsubishi Electric Corporation",
+     "ticker": "6503",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "足元苦しいが中長期のテーマ恩恵期待",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "足元の足型は厳しいものの、ソリューション提供を通じて中長期的なテーマの恩恵が期待される。"
+     ],
+     "timestamp": "13:31",
+     "confidence": "low"
+    }
+   ]
+  },
+  {
    "video_id": "T1jT57g6VT0",
    "title": "決算シーズン迫る！どの銘柄を跨ごうか会議",
    "published": "2026-10-11T04:06:21+00:00",
@@ -560,41 +726,6 @@
      ],
      "timestamp": "1:18:10",
      "confidence": "low"
-    }
-   ]
-  },
-  {
-   "video_id": "312NlifFVKQ",
-   "title": "安川電機（6506）決算内容を見ていく！株式テクニカルチャート分析",
-   "published": "2026-10-10T09:00:30+00:00",
-   "description": "🔽「株のオンラインサロン」やってます！\n→　https://yoor.jp/door/tradertomo\n\n※ 参加プラン別のサービス内容はこちらの動画で解説しています。\n→https://youtu.be/AGZetFvA-Xk?si=Qy_ctky7kW1QSOHX\n\n株好きが集まる楽しいサロンを目指してます♪\n初心者歓迎です～ご参加お待ちしています！\n\n🔽サブチャンネルもやってます＾＾\nhttps://www.youtube.com/@TOMO-subtrader\n\n---------------------------------------------\n🔽公式LINEやってます！ともだち登録お願いします☆\n---------------------------------------------\n\n「うねり取り株投資実践講義」（総時間147分）視聴可。\n→https://s.l",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "安川電機の決算内容について、営業利益の過法修正や想定為替レートの改定を踏まえて解説された動画です。機関システムの移行影響などで現役となったものの、受注状況はデータセンターや半導体関連の需要拡大により過去最高と好調です。信用買い残による上値の重さはあるものの、悪材料は織り込み済みで押し目は狙えるとの見解を示しています。",
-   "market_view": "",
-   "market": "JP",
-   "picks": [
-    {
-     "name": "安川電機",
-     "name_en": "YASKAWA Electric Corporation",
-     "ticker": "6506",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "過法修正織り込み済みで押し目は拾う",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "通期営業利益は過法修正もコンセンサス上回りで、為替前提引き上げ等の影響を除けば受注状況は過去最高と非常に強い。",
-      "データセンターや半導体関連投資を中心に需要が拡大しており、機関システム移行影響等の悪材料が一巡すれば業績回復が期待できる。",
-      "信用買い残が多く5200円から5600円付近のしこりで上値は重いが、決算発表後に押す場面があれば押し目買いの好機と判断。"
-     ],
-     "timestamp": "00:04",
-     "confidence": "high"
     }
    ]
   },

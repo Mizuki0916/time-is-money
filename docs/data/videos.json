@@ -1,6 +1,76 @@
 {
- "generated_at": "2026-10-11T17:15:45.536969+09:00",
+ "generated_at": "2026-10-11T18:14:46.255314+09:00",
  "videos": [
+  {
+   "video_id": "wnpmsb5iVrg",
+   "title": "サイバーセキュリティ関連銘柄みていく！（サイバーセキュリティクラウド・ゼンムテック・セキュアヴェイル・トレンドマイクロ・NEC・野村総研・富士通など）",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-10-11T09:00:34+00:00",
+   "overview": "相次ぐ個人情報流出や情報漏洩ニュースに加え、AI悪用によるサイバー攻撃増加を背景に注目が集まるサイバーセキュリティ関連銘柄を解説した動画です。短期のデイトレ・スイングに向けたグロース株と、中長期・本命向けの大手IT株に分けて分析を行っています。シコリ解消の進展や出来高急増、良好なチャート形状を重視しつつ、ボラティリティに応じた取引戦略を提案しています。",
+   "market_view": "企業からの情報漏洩ニュースの頻発やAIを活用したサイバー攻撃の急増を受け、セキュリティ関連セクターへの資金流入と物色が強まっています。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "グローバルセキュリティエキスパート",
+     "ticker": "4417",
+     "stance": "bullish",
+     "timestamp": "04:05"
+    },
+    {
+     "name": "ゼンムテック",
+     "ticker": "",
+     "stance": "bullish",
+     "timestamp": "05:43"
+    },
+    {
+     "name": "サイバーセキュリティクラウド",
+     "ticker": "4493",
+     "stance": "bullish",
+     "timestamp": "07:16"
+    },
+    {
+     "name": "セキュアヴェイル",
+     "ticker": "3042",
+     "stance": "bullish",
+     "timestamp": "08:31"
+    },
+    {
+     "name": "トレンドマイクロ",
+     "ticker": "4704",
+     "stance": "bullish",
+     "timestamp": "10:20"
+    },
+    {
+     "name": "NEC",
+     "ticker": "6701",
+     "stance": "bullish",
+     "timestamp": "12:08"
+    },
+    {
+     "name": "富士通",
+     "ticker": "6702",
+     "stance": "bullish",
+     "timestamp": "12:30"
+    },
+    {
+     "name": "野村総合研究所",
+     "ticker": "4307",
+     "stance": "bullish",
+     "timestamp": "13:06"
+    },
+    {
+     "name": "三菱電機",
+     "ticker": "6503",
+     "stance": "neutral",
+     "timestamp": "13:31"
+    }
+   ]
+  },
   {
    "video_id": "T1jT57g6VT0",
    "title": "決算シーズン迫る！どの銘柄を跨ごうか会議",
@@ -91,28 +161,6 @@
    "no_transcript": true,
    "skip_reason": "動画が非公開・削除・配信予定などで取得できません",
    "picks": []
-  },
-  {
-   "video_id": "312NlifFVKQ",
-   "title": "安川電機（6506）決算内容を見ていく！株式テクニカルチャート分析",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-10-10T09:00:30+00:00",
-   "overview": "安川電機の決算内容について、営業利益の過法修正や想定為替レートの改定を踏まえて解説された動画です。機関システムの移行影響などで現役となったものの、受注状況はデータセンターや半導体関連の需要拡大により過去最高と好調です。信用買い残による上値の重さはあるものの、悪材料は織り込み済みで押し目は狙えるとの見解を示しています。",
-   "market_view": "",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "安川電機",
-     "ticker": "6506",
-     "stance": "bullish",
-     "timestamp": "00:04"
-    }
-   ]
   },
   {
    "video_id": "N6QVigZ1DhQ",
