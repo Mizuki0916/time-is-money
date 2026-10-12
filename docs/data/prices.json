@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-12T20:08:00.977741+00:00",
+ "updated_at": "2026-10-12T21:07:50.277656+00:00",
  "symbols": {
   "JP:1111": {
    "date": "2026-08-17",
@@ -1096,8 +1096,8 @@
    "live": null,
    "live_change_pct": null,
    "live_time": null,
-   "volume": 8484146,
-   "volume_ratio": 0.98,
+   "volume": 8663985,
+   "volume_ratio": 1.0,
    "rsi14": 38.6,
    "rsi_zone": "中立",
    "ma25": 1690.59,
@@ -1151,7 +1151,7 @@
    "market_open": false,
    "symbol": "SNDK",
    "source": "yahoo",
-   "fetched_at": "2026-10-12T20:08:00.977741+00:00"
+   "fetched_at": "2026-10-12T21:07:50.277656+00:00"
   },
   "JP:5985": {
    "date": "2026-09-25",

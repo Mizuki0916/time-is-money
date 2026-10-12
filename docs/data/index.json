@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T05:08:00.925720+09:00",
+ "generated_at": "2026-10-13T06:07:50.240445+09:00",
  "channels": [
   {
    "id": "UCsaeHha7ai_NNX8or8Jyb-g",
@@ -2492,8 +2492,8 @@
     "live": null,
     "live_change_pct": null,
     "live_time": null,
-    "volume": 8484146,
-    "volume_ratio": 0.98,
+    "volume": 8663985,
+    "volume_ratio": 1.0,
     "rsi14": 38.6,
     "rsi_zone": "中立",
     "ma25": 1690.59,
@@ -2547,7 +2547,7 @@
     "market_open": false,
     "symbol": "SNDK",
     "source": "yahoo",
-    "fetched_at": "2026-10-12T20:08:00.977741+00:00"
+    "fetched_at": "2026-10-12T21:07:50.277656+00:00"
    }
   },
   {
