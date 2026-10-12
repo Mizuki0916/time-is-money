@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T04:07:50.456192+09:00",
+ "generated_at": "2026-10-13T05:08:00.925720+09:00",
  "channels": [
   {
    "id": "UCsaeHha7ai_NNX8or8Jyb-g",
@@ -2486,22 +2486,21 @@
     "UCsaeHha7ai_NNX8or8Jyb-g"
    ],
    "price": {
-    "date": "2026-10-09",
-    "close": 1581.82,
-    "change_pct": -1.72,
-    "live": 1477.54,
-    "live_change_pct": -6.59,
-    "live_time": 1791832068,
-    "volume": 5577200,
-    "volume_ratio": 0.62,
-    "rsi14": 43.8,
+    "date": "2026-10-12",
+    "close": 1487.33,
+    "change_pct": -5.97,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 8484146,
+    "volume_ratio": 0.98,
+    "rsi14": 38.6,
     "rsi_zone": "中立",
-    "ma25": 1700.69,
-    "ma75": 1608.33,
+    "ma25": 1690.59,
+    "ma75": 1597.03,
     "trend": "調整中",
-    "pos52": 66,
+    "pos52": 62,
     "spark": [
-     1641.11,
      1786.85,
      1625.78,
      1568.87,
@@ -2540,14 +2539,15 @@
      1660.46,
      1692.42,
      1609.46,
-     1581.82
+     1581.82,
+     1487.33
     ],
     "currency": "USD",
     "exchange_name": "NasdaqGS",
-    "market_open": true,
+    "market_open": false,
     "symbol": "SNDK",
     "source": "yahoo",
-    "fetched_at": "2026-10-12T19:07:50.507654+00:00"
+    "fetched_at": "2026-10-12T20:08:00.977741+00:00"
    }
   },
   {
