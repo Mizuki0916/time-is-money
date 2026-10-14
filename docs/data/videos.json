@@ -1,6 +1,40 @@
 {
- "generated_at": "2026-10-15T03:18:43.331441+09:00",
+ "generated_at": "2026-10-15T07:54:24.714680+09:00",
  "videos": [
+  {
+   "video_id": "Yq3HW2tbhI8",
+   "title": "ASML決算後急落・・・良品計画・サイゼリヤ決算見てみる",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-10-14T09:00:01+00:00",
+   "overview": "ASMLの決算発表と半導体株安による相場の急落について触れた後、引け後に本決算を発表したサイゼリヤと良品計画の2銘柄を解説しています。サイゼリヤは約6年ぶりの値上げと出店計画が好材料であるものの着地の弱さが懸念され微妙な評価。一方、良品計画は海外事業の成長や出店拡大、連続最高益の見通しから前向きに評価されています。",
+   "market_view": "ASML決算をきっかけに半導体関連株が軒並み急落し厳しい相場となったが、決算自体は良好なため押し目箇所は積極的に狙っていける局面と見ています。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "ASML",
+     "ticker": "ASML",
+     "stance": "bullish",
+     "timestamp": "00:02"
+    },
+    {
+     "name": "サイゼリヤ",
+     "ticker": "7581",
+     "stance": "neutral",
+     "timestamp": "04:11"
+    },
+    {
+     "name": "良品計画",
+     "ticker": "7453",
+     "stance": "bullish",
+     "timestamp": "06:19"
+    }
+   ]
+  },
   {
    "video_id": "aTOBxs-Y_Jw",
    "title": "今週（10/13〜）専業が自信を持って買う1銘柄",
@@ -105,82 +139,6 @@
      "ticker": "6503",
      "stance": "neutral",
      "timestamp": "13:31"
-    }
-   ]
-  },
-  {
-   "video_id": "T1jT57g6VT0",
-   "title": "決算シーズン迫る！どの銘柄を跨ごうか会議",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-10-11T04:06:21+00:00",
-   "overview": "本動画では、本格的な決算シーズンを目前に控え、トレーダーTOMO氏が注目銘柄や決算跨ぎの可否について解説しています。丸前や大阪有機化学工業など好決算を出したAI・半導体材料関連の強さを確認しつつ、上方修正が期待できるアドバンテストやカプコン、割安感のあるウェストHDや小松製作所などをピックアップ。需給やチャート形状を踏まえ、個別銘柄ごとの投資判断やスタンスを語っています。",
-   "market_view": "決算業績に支えられた相場環境ではあるものの、銘柄ごとの需給状態やテーマの移り変わりを見極めた慎重な銘柄選別が求められます。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "大阪有機化学工業",
-     "ticker": "4187",
-     "stance": "bullish",
-     "timestamp": "02:31"
-    },
-    {
-     "name": "丸前",
-     "ticker": "6264",
-     "stance": "bullish",
-     "timestamp": "03:37"
-    },
-    {
-     "name": "良品計画",
-     "ticker": "7453",
-     "stance": "bullish",
-     "timestamp": "05:29"
-    },
-    {
-     "name": "ウェストホールディングス",
-     "ticker": "1407",
-     "stance": "bullish",
-     "timestamp": "07:59"
-    },
-    {
-     "name": "ディスコ",
-     "ticker": "6146",
-     "stance": "bullish",
-     "timestamp": "11:56"
-    },
-    {
-     "name": "カプコン",
-     "ticker": "9697",
-     "stance": "bullish",
-     "timestamp": "16:02"
-    },
-    {
-     "name": "アドバンテスト",
-     "ticker": "6857",
-     "stance": "bullish",
-     "timestamp": "17:42"
-    },
-    {
-     "name": "小松製作所",
-     "ticker": "6301",
-     "stance": "bullish",
-     "timestamp": "21:41"
-    },
-    {
-     "name": "関電工",
-     "ticker": "1942",
-     "stance": "bullish",
-     "timestamp": "29:38"
-    },
-    {
-     "name": "フード&ライフカンパニーズ",
-     "ticker": "3563",
-     "stance": "bullish",
-     "timestamp": "1:18:10"
     }
    ]
   },
