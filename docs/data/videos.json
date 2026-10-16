@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17T08:21:53.894537+09:00",
+ "generated_at": "2026-10-17T08:49:08.202755+09:00",
  "videos": [
   {
    "video_id": "UmVwF3fzdhA",
@@ -147,12 +147,55 @@
    "channel_short": "Sho",
    "slot": 3,
    "published": "2026-10-15T15:10:57+00:00",
-   "overview": "",
-   "market_view": "",
-   "market": "",
-   "no_transcript": true,
-   "skip_reason": "この動画には字幕がありません",
-   "picks": []
+   "overview": "動画では、日経平均株価の急落や半導体株の暴落背景についてテクニカル指標と需給構造から解説されています。キオクシアやアドバンテストなどの半導体銘柄はバンドウォーク終了や信用買いの期日売りで厳しい展開が続く一方、信用倍率が低く空売り比率が高いオリエンタルランドや武田薬品工業、200日線で好転したソニーグループなど、需給の良好な銘柄や資金ローテーション先への注目が示されています。",
+   "market_view": "日経平均は大幅安となっているものの、半導体株から出遅れ株やバリュー株へのセクターローテーションが発生しています。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "キオクシアホールディングス",
+     "ticker": "285A",
+     "stance": "bearish",
+     "timestamp": "04:08"
+    },
+    {
+     "name": "ソニーグループ",
+     "ticker": "6758",
+     "stance": "bullish",
+     "timestamp": "06:42"
+    },
+    {
+     "name": "アドバンテスト",
+     "ticker": "6857",
+     "stance": "bearish",
+     "timestamp": "07:49"
+    },
+    {
+     "name": "オリエンタルランド",
+     "ticker": "4661",
+     "stance": "bullish",
+     "timestamp": "12:49"
+    },
+    {
+     "name": "安川電機",
+     "ticker": "6506",
+     "stance": "bearish",
+     "timestamp": "23:24"
+    },
+    {
+     "name": "三井金属鉱業",
+     "ticker": "5706",
+     "stance": "bearish",
+     "timestamp": "48:38"
+    },
+    {
+     "name": "武田薬品工業",
+     "ticker": "4502",
+     "stance": "bullish",
+     "timestamp": "1:01:14"
+    }
+   ]
   },
   {
    "video_id": "m3B2_6c0cq4",
