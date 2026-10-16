@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17T07:57:45.999717+09:00",
+ "generated_at": "2026-10-17T08:21:53.894537+09:00",
  "videos": [
   {
    "video_id": "UmVwF3fzdhA",
@@ -82,6 +82,64 @@
    ]
   },
   {
+   "video_id": "Nw7mitsoJrg",
+   "title": "今日の活況銘柄を見てみる！（太陽誘電・村田製作所・キオクシア・イビデン・フジクラ・SBG等）株式テクニカルチャート分析",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-10-16T09:00:39+00:00",
+   "overview": "本動画では、日経平均が自律反発を見せる中で活況となった主要銘柄のテクニカル分析が行われています。イビデンや太陽誘電などの電子部品株に底堅さや節目奪還の動きが見られる一方、キオクシアやアドバンテストといった半導体関連株は買い戻しの勢いに欠ける展開が指摘されています。また、需給悪化が懸念されるフジクラや調整局面にあるソフトバンクグループなど、来週の立ち回り方が解説されています。",
+   "market_view": "日経平均は約900円高と急反発したもののチャート形状が崩れており、戻り売りが出やすいためすぐ元の水準へ戻るような相場展開にはなりにくい見通しです。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "キオクシアホールディングス",
+     "ticker": "285A",
+     "stance": "neutral",
+     "timestamp": "03:55"
+    },
+    {
+     "name": "太陽誘電",
+     "ticker": "6976",
+     "stance": "bullish",
+     "timestamp": "05:00"
+    },
+    {
+     "name": "イビデン",
+     "ticker": "4062",
+     "stance": "bullish",
+     "timestamp": "05:48"
+    },
+    {
+     "name": "村田製作所",
+     "ticker": "6981",
+     "stance": "neutral",
+     "timestamp": "07:07"
+    },
+    {
+     "name": "ソフトバンクグループ",
+     "ticker": "9984",
+     "stance": "neutral",
+     "timestamp": "08:14"
+    },
+    {
+     "name": "フジクラ",
+     "ticker": "5803",
+     "stance": "bearish",
+     "timestamp": "09:17"
+    },
+    {
+     "name": "アドバンテスト",
+     "ticker": "6857",
+     "stance": "neutral",
+     "timestamp": "10:22"
+    }
+   ]
+  },
+  {
    "video_id": "SwrR9VnEUJ8",
    "title": "10/15【緊急,日経平均3300円大暴落‼】半導体株暴落で日本株崩壊か⁉キオクシア木端微塵。ドル円157円。CPI通貨で米国株、ナスダック、ハイテク株急落。仮想通貨BTC弱",
    "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
@@ -149,36 +207,60 @@
    ]
   },
   {
-   "video_id": "Yq3HW2tbhI8",
-   "title": "ASML決算後急落・・・良品計画・サイゼリヤ決算見てみる",
+   "video_id": "5hCBWBeQMzQ",
+   "title": "日経平均3318円安　下げ幅歴代3位　アドバンテストなど暴落級の下げで苦しい・・・",
    "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
    "channel_name": "トレーダーTOMO",
    "channel_short": "TOMO",
    "slot": 2,
-   "published": "2026-10-14T09:00:01+00:00",
-   "overview": "ASMLの決算発表と半導体株安による相場の急落について触れた後、引け後に本決算を発表したサイゼリヤと良品計画の2銘柄を解説しています。サイゼリヤは約6年ぶりの値上げと出店計画が好材料であるものの着地の弱さが懸念され微妙な評価。一方、良品計画は海外事業の成長や出店拡大、連続最高益の見通しから前向きに評価されています。",
-   "market_view": "ASML決算をきっかけに半導体関連株が軒並み急落し厳しい相場となったが、決算自体は良好なため押し目箇所は積極的に狙っていける局面と見ています。",
+   "published": "2026-10-15T08:12:36+00:00",
+   "overview": "日経平均が3318円安と歴代3位の下げ幅を記録する歴史的大落となった相場を解説しています。米CPIの上振れやAI関連企業コアウェーブの債務懸念、国内の信用買い残高水準などを要因に挙げ、決算発表前の嵐としての振り落としを指摘しています。アドバンテストやキオクシアなどの半導体・大型銘柄を中心にチャートの節目やリバウンド狙いのポイントを分析しています。",
+   "market_view": "信用買い残が高水準にある中で大口による振り落としが発生しており、決算本格化前の嵐が通り過ぎるのを待つ慎重な姿勢が求められます。",
    "market": "JP",
    "no_transcript": false,
    "skip_reason": "",
    "picks": [
     {
-     "name": "ASML",
-     "ticker": "ASML",
-     "stance": "bullish",
-     "timestamp": "00:02"
-    },
-    {
-     "name": "サイゼリヤ",
-     "ticker": "7581",
+     "name": "アドバンテスト",
+     "ticker": "6857",
      "stance": "neutral",
-     "timestamp": "04:11"
+     "timestamp": "10:34"
     },
     {
-     "name": "良品計画",
-     "ticker": "7453",
+     "name": "ウエストホールディングス",
+     "ticker": "1407",
      "stance": "bullish",
-     "timestamp": "06:19"
+     "timestamp": "11:55"
+    },
+    {
+     "name": "キオクシアホールディングス",
+     "ticker": "285A",
+     "stance": "neutral",
+     "timestamp": "06:46"
+    },
+    {
+     "name": "イビデン",
+     "ticker": "4062",
+     "stance": "neutral",
+     "timestamp": "07:23"
+    },
+    {
+     "name": "ソフトバンクグループ",
+     "ticker": "9984",
+     "stance": "neutral",
+     "timestamp": "08:08"
+    },
+    {
+     "name": "太陽誘電",
+     "ticker": "6976",
+     "stance": "bearish",
+     "timestamp": "09:11"
+    },
+    {
+     "name": "フジクラ",
+     "ticker": "5803",
+     "stance": "neutral",
+     "timestamp": "09:44"
     }
    ]
   },
@@ -201,76 +283,6 @@
      "ticker": "6981",
      "stance": "bullish",
      "timestamp": "02:48"
-    }
-   ]
-  },
-  {
-   "video_id": "wnpmsb5iVrg",
-   "title": "サイバーセキュリティ関連銘柄みていく！（サイバーセキュリティクラウド・ゼンムテック・セキュアヴェイル・トレンドマイクロ・NEC・野村総研・富士通など）",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-10-11T09:00:34+00:00",
-   "overview": "相次ぐ個人情報流出や情報漏洩ニュースに加え、AI悪用によるサイバー攻撃増加を背景に注目が集まるサイバーセキュリティ関連銘柄を解説した動画です。短期のデイトレ・スイングに向けたグロース株と、中長期・本命向けの大手IT株に分けて分析を行っています。シコリ解消の進展や出来高急増、良好なチャート形状を重視しつつ、ボラティリティに応じた取引戦略を提案しています。",
-   "market_view": "企業からの情報漏洩ニュースの頻発やAIを活用したサイバー攻撃の急増を受け、セキュリティ関連セクターへの資金流入と物色が強まっています。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "グローバルセキュリティエキスパート",
-     "ticker": "4417",
-     "stance": "bullish",
-     "timestamp": "04:05"
-    },
-    {
-     "name": "ゼンムテック",
-     "ticker": "",
-     "stance": "bullish",
-     "timestamp": "05:43"
-    },
-    {
-     "name": "サイバーセキュリティクラウド",
-     "ticker": "4493",
-     "stance": "bullish",
-     "timestamp": "07:16"
-    },
-    {
-     "name": "セキュアヴェイル",
-     "ticker": "3042",
-     "stance": "bullish",
-     "timestamp": "08:31"
-    },
-    {
-     "name": "トレンドマイクロ",
-     "ticker": "4704",
-     "stance": "bullish",
-     "timestamp": "10:20"
-    },
-    {
-     "name": "NEC",
-     "ticker": "6701",
-     "stance": "bullish",
-     "timestamp": "12:08"
-    },
-    {
-     "name": "富士通",
-     "ticker": "6702",
-     "stance": "bullish",
-     "timestamp": "12:30"
-    },
-    {
-     "name": "野村総合研究所",
-     "ticker": "4307",
-     "stance": "bullish",
-     "timestamp": "13:06"
-    },
-    {
-     "name": "三菱電機",
-     "ticker": "6503",
-     "stance": "neutral",
-     "timestamp": "13:31"
     }
    ]
   },
