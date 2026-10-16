@@ -1,6 +1,74 @@
 {
  "videos": [
   {
+   "video_id": "UmVwF3fzdhA",
+   "title": "10/16【緊急,日本株稼ぎ時や‼】日経平均大暴落止まるか⁉‼半導体株暴落で日本株崩壊か⁉キオクシア木端微塵。ドル円157円。CPI通貨で米国株、ナスダック、ハイテク株急落。仮想通貨BTC弱",
+   "published": "2026-10-16T15:33:44+00:00",
+   "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "日経平均株価は反発したものの、セクターローテーションによりグロース株からバリュー株・出遅れ株への資金シフトが続いています。半導体株などのハイテク銘柄は信用需給の悪化やバンドウォーク下落が継続しており、上値が重い展開を警戒しています。年末にかけて二極化相場が想定されるため、早めの損益通算やキャッシュ確保など戦略的な資金管理を推奨しています。",
+   "market_view": "日本株は信用買いの増加とショートカバー燃料の不足から上値が重く、銘柄ごとの二極化が進行する見通しです。",
+   "market": "JP",
+   "picks": [
+    {
+     "name": "レーザーテック",
+     "name_en": "Lasertec",
+     "ticker": "6920",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "信用需給悪化で決算前の揉み合い警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "直近の株価急落局面で信用買いが増加し信用売りが減少したため受給関係が悪化している。",
+      "決算発表を前に200日移動平均線付近で揉み合う展開が想定され慎重な見極めが必要である。"
+     ],
+     "timestamp": "35:02",
+     "confidence": "medium"
+    },
+    {
+     "name": "アドバンテスト",
+     "name_en": "Advantest",
+     "ticker": "6857",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "急落時の信用買増で受給が大幅悪化",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "株価下落局面で逆張りの信用買いが急増し信用倍率が7.27倍まで急速に悪化した。",
+      "捕まった信用買い残が将来的な戻り売り圧力として株価の上値を抑える重石となる。"
+     ],
+     "timestamp": "39:15",
+     "confidence": "medium"
+    },
+    {
+     "name": "キオクシアホールディングス",
+     "name_en": "Kioxia Holdings",
+     "ticker": "285A",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "バンドウォーク下落と需給悪化に警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "バンドウォークを伴う強固な下落トレンドが続いており安易な押し目買いは危険な状態。",
+      "大量の信用買残と含み損を抱えた投資家が滞留しており上値の戻り売り圧力が極めて強い。"
+     ],
+     "timestamp": "40:55",
+     "confidence": "medium"
+    }
+   ]
+  },
+  {
    "video_id": "SwrR9VnEUJ8",
    "title": "10/15【緊急,日経平均3300円大暴落‼】半導体株暴落で日本株崩壊か⁉キオクシア木端微塵。ドル円157円。CPI通貨で米国株、ナスダック、ハイテク株急落。仮想通貨BTC弱",
    "published": "2026-10-15T15:10:57+00:00",
@@ -18,21 +86,105 @@
    "picks": []
   },
   {
-   "video_id": "JEm_VB7eaYo",
-   "title": "10/12【緊急,日本株稼ぎ時か⁉】AI半導体株急落で日経平均乱高下。海外投資家が日本株1.2兆円売却。出遅れ銘柄に資金シフト。ドル円軟調。米国株、ナスダック、ハイテク株上がるか。仮想通貨BTC弱",
-   "published": "2026-10-12T09:21:59+00:00",
-   "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "no_transcript": true,
-   "skip_reason": "この動画には字幕がありません",
-   "attempts": 1,
-   "overview": "",
-   "market_view": "",
-   "market": "",
-   "picks": []
+   "video_id": "Wcb6W2LeHO4",
+   "title": "【日経平均】 週明け相場 暴落一服後は戻りか一段下げか これ意識して サンディスク・キオクシア・アドバンテスト・ベイカレント・サイバーセキュリティ関連",
+   "published": "2026-10-16T12:38:58+00:00",
+   "description": "※動画の趣旨は個人的主観の予測であり、値動きを保証するものではありません。\n　投資の判断は自己責任でお願いします。\n\nトレンド分析マスターコース\n「無料オンライン講座(全5回)」＆豪華特典プレゼント！\n【完全無料】→ https://www.fpo.jp/suzuki/\n\n◉セミナーお申し込み\nhttps://sakura-inv.com/seminar/20261028/\n\n◉トレンド分析の基礎おすすめ動画\n【永久保存版】初心者でもわかるダウ理論の使い方【前編】\nhttps://youtu.be/re9XBR2qcBw\n【永久保存版】初心者でもわかるダウ理論の使い方【後編】\nhttps://youtu.be/Z21W4VFSs9g\n【知らなきゃ勝てない】移動平均線で相場を読む最強の方法\nhttps://youtu.be/FfSX8hcRR2I\n【一目均衡表の真髄】初心者でも分かる完全ガイ",
+   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+   "channel_name": "Trader's Lab",
+   "channel_short": "TL",
+   "slot": 1,
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "日経平均の暴落後の反発局面において、指数全体の戻りの弱さや調整色の強さを分析し、個別銘柄の需給やテクニカル状態に応じた柔軟な立ち回りが必要だと解説しています。注目銘柄としてキオクシアやアドバンテストの戻りの弱さを指摘する一方、好決算でストップ高となったベイカレントや強いテーマ性を持つサイバーセキュリティ関連株の動向を評価しています。",
+   "market_view": "日経平均は前日の大暴落から反発したものの戻りは限定的で、主要移動平均線を下回り調整色が強まっています。韓国コスピや米ソックス指数の弱さもあり、もう一段の下落への警戒が必要です。",
+   "market": "JP",
+   "picks": [
+    {
+     "name": "キオクシア",
+     "name_en": "Kioxia Holdings Corporation",
+     "ticker": "",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "需給悪化で上値重く短期目線に留める",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "直近の大幅下落に対する戻りが鈍く、株式分割後の商い減少や高値で捕まったしこり玉による売り圧力が強いため。",
+      "週足や日足の重要サポートを下回ると強い下落トレンドへ転換する恐れがあり、中長期での買いにはリスクが大きいため。"
+     ],
+     "timestamp": "30:27",
+     "confidence": "high"
+    },
+    {
+     "name": "アドバンテスト",
+     "name_en": "Advantest Corporation",
+     "ticker": "6857",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "25日線で頭を押さえられ調整色強まる",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "日経平均の大幅反発に対して自律反発の動きが極めて鈍く、日足の25日移動平均線付近できっちり売られているため。",
+      "週足の上昇トレンドの節目となる安値2万9810円を割り込むと、調整色が一段と強まる警戒感があるため。"
+     ],
+     "timestamp": "35:36",
+     "confidence": "high"
+    },
+    {
+     "name": "ベイカレント",
+     "name_en": "BayCurrent Consulting, Inc.",
+     "ticker": "6532",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "好決算と株主還元を好感し高値更新",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "第2四半期決算で大幅増益を達成し、AIやサイバーセキュリティ需要を取り込んだ良好な業績が評価されたため。",
+      "自社株買いや配当性向引き上げなどの株主還元策が好感され、ストップ高とともに上場来高値を更新したため。"
+     ],
+     "timestamp": "38:52",
+     "confidence": "high"
+    },
+    {
+     "name": "サイバーセキュリティクラウド",
+     "name_en": "Cyber Security Cloud, Inc.",
+     "ticker": "4493",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "乱高下が激しく増し担保規制等の売りに警戒",
+     "target_price": "",
+     "entry": "3090円前後",
+     "stop": "",
+     "reasons": [
+      "強いテーマ性と浮動株の少なさから買われているが、時価総額が小さく需給の歪みで急激な乱高下が起きやすいため。",
+      "日々公表銘柄に指定されており、今後の増し担保規制の嫌気売りが発生するリスクから日跨ぎ保有は注意が必要なため。"
+     ],
+     "timestamp": "41:16",
+     "confidence": "medium"
+    },
+    {
+     "name": "グローバルセキュリティエキスパート",
+     "name_en": "Global Security Experts Inc.",
+     "ticker": "4417",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "関連銘柄の中で最も健全な上昇チャートを描く",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "セキュリティ関連銘柄の中でもチャート形状が非常に綺麗で過熱感が少なく、昨年来高値を更新し順調に買われているため。"
+     ],
+     "timestamp": "45:18",
+     "confidence": "medium"
+    }
+   ]
   },
   {
    "video_id": "m3B2_6c0cq4",
@@ -150,107 +302,6 @@
      ],
      "timestamp": "48:42",
      "confidence": "medium"
-    }
-   ]
-  },
-  {
-   "video_id": "gtiB4yzNlb8",
-   "title": "【日経平均】 底堅い動き 買い場です！ 某Youtuberが関与したサイバー関連も注目！ サンディスク・キオクシア・ローツェ・サイバーセキュリティ関連",
-   "published": "2026-10-09T11:00:00+00:00",
-   "description": "※動画の趣旨は個人的主観の予測であり、値動きを保証するものではありません。\n　投資の判断は自己責任でお願いします。\n\nトレンド分析マスターコース\n「無料オンライン講座(全5回)」＆豪華特典プレゼント！\n【完全無料】→ https://www.fpo.jp/suzuki/\n\n◉セミナーお申し込み\nhttps://sakura-inv.com/seminar/20261028/\n\n◉トレンド分析の基礎おすすめ動画\n【永久保存版】初心者でもわかるダウ理論の使い方【前編】\nhttps://youtu.be/re9XBR2qcBw\n【永久保存版】初心者でもわかるダウ理論の使い方【後編】\nhttps://youtu.be/Z21W4VFSs9g\n【知らなきゃ勝てない】移動平均線で相場を読む最強の方法\nhttps://youtu.be/FfSX8hcRR2I\n【一目均衡表の真髄】初心者でも分かる完全ガイ",
-   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-   "channel_name": "Trader's Lab",
-   "channel_short": "TL",
-   "slot": 1,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "日経平均は押し目買いのフェーズにあり、67,000〜68,000円水準での打診買いを推奨する強気姿勢を継続しています。個別銘柄では、業績上方修正でストップ高となったローツェや、大量出来高を伴って大相場化の兆候を見せるサイバーセキュリティクラウドに注目が集まっています。一方でキオクシアやサンディスクはチャート形状悪化により慎重なスタンスをとっています。",
-   "market_view": "日経平均は短期的に押し下げの局面ですが対局的な上目線は不変です。67,000円〜68,000円は下値が硬く押しめ買いの好機と捉えています。",
-   "market": "JP",
-   "picks": [
-    {
-     "name": "日経平均株価",
-     "name_en": "Nikkei 225",
-     "ticker": "N225",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "押し目買い・打診買いの好機",
-     "target_price": "",
-     "entry": "67000円〜68000円",
-     "stop": "",
-     "reasons": [
-      "押し下げの準備期間であり67,000円〜68,000円近辺は絶好の押しめ買い・打診買いゾーン。(47字)",
-      "長期的な対局目線は上向きを維持しており、一時的な下落は徐々に買い仕込むチャンス。(41字)"
-     ],
-     "timestamp": "00:01",
-     "confidence": "high"
-    },
-    {
-     "name": "キオクシア",
-     "name_en": "Kioxia Holdings",
-     "ticker": "285A",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "短期売買・デイトレ中心",
-     "target_price": "",
-     "entry": "11000円",
-     "stop": "",
-     "reasons": [
-      "25日線を明確に割り込み売りサインが出現したことで11,000円まで急落しレンジ相場へ移行。(46字)",
-      "株式分割後に出来高が急減して買い圧力が弱まっており中長期的なトレンド判断が困難。(41字)"
-     ],
-     "timestamp": "22:56",
-     "confidence": "high"
-    },
-    {
-     "name": "サンディスク",
-     "name_en": "SanDisk",
-     "ticker": "SNDK",
-     "market": "US",
-     "stance": "bearish",
-     "stance_note": "高値切り下げで上値重い",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "高値を切り下げる形状となっており、25日線割れや週足デッドクロスなど警戒要素が多い。(43字)"
-     ],
-     "timestamp": "22:56",
-     "confidence": "medium"
-    },
-    {
-     "name": "ローツェ",
-     "name_en": "Rorze Corporation",
-     "ticker": "6323",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "業績上方修正でストップ高",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "中間決算で営業利益が前年同期比42%増、通期予想も従来から70%増へ大幅上方修正。(43字)",
-      "好決算を受けてストップ高を記録し、半導体関連株のセンチメント改善のきっかけとなった。(43字)"
-     ],
-     "timestamp": "26:44",
-     "confidence": "high"
-    },
-    {
-     "name": "サイバーセキュリティクラウド",
-     "name_en": "Cyber Security Cloud",
-     "ticker": "4493",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "本尊流入による大相場に注目",
-     "target_price": "",
-     "entry": "4000円超え",
-     "stop": "",
-     "reasons": [
-      "低い時価総額に対して異常な出来高が伴っており、一過性ではない本尊流入の大相場を想定。(43字)",
-      "約3年ぶりの高値更新で上昇N波動が完成し長期的な底打ちから力強い上昇トレンドへ転換。(43字)"
-     ],
-     "timestamp": "30:12",
-     "confidence": "high"
     }
    ]
   },
