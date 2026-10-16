@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-16T17:47:51.252968+00:00",
+ "updated_at": "2026-10-16T20:29:26.281097+00:00",
  "symbols": {
   "JP:1111": {
    "date": "2026-08-17",
@@ -1090,22 +1090,21 @@
    "fetched_at": "2026-09-16T08:39:32.039809+00:00"
   },
   "US:SNDK": {
-   "date": "2026-10-15",
-   "close": 1394.83,
-   "change_pct": -0.61,
-   "live": 1334.65,
-   "live_change_pct": -4.31,
-   "live_time": 1792172903,
-   "volume": 13223800,
-   "volume_ratio": 1.52,
-   "rsi14": 33.9,
-   "rsi_zone": "中立",
-   "ma25": 1654.02,
-   "ma75": 1568.57,
+   "date": "2026-10-16",
+   "close": 1299.3,
+   "change_pct": -6.85,
+   "live": null,
+   "live_change_pct": null,
+   "live_time": null,
+   "volume": 8777981,
+   "volume_ratio": 1.01,
+   "rsi14": 29.7,
+   "rsi_zone": "売られすぎ",
+   "ma25": 1640.66,
+   "ma75": 1558.8,
    "trend": "調整中",
-   "pos52": 57,
+   "pos52": 53,
    "spark": [
-    1600.62,
     1596.08,
     1493.12,
     1480.77,
@@ -1144,14 +1143,15 @@
     1487.33,
     1482.33,
     1403.34,
-    1394.83
+    1394.83,
+    1299.3
    ],
    "currency": "USD",
    "exchange_name": "NasdaqGS",
-   "market_open": true,
+   "market_open": false,
    "symbol": "SNDK",
    "source": "yahoo",
-   "fetched_at": "2026-10-16T17:47:51.252968+00:00"
+   "fetched_at": "2026-10-16T20:29:26.281097+00:00"
   },
   "JP:5985": {
    "date": "2026-09-25",
@@ -12911,22 +12911,21 @@
    "fetched_at": "2026-10-16T17:47:51.252968+00:00"
   },
   "US:ASML": {
-   "date": "2026-10-15",
-   "close": 1657.44,
-   "change_pct": 0.45,
-   "live": 1661.39,
-   "live_change_pct": 0.24,
-   "live_time": 1792172886,
-   "volume": 1984700,
-   "volume_ratio": 1.33,
-   "rsi14": 39.2,
+   "date": "2026-10-16",
+   "close": 1641.52,
+   "change_pct": -0.96,
+   "live": null,
+   "live_change_pct": null,
+   "live_time": null,
+   "volume": 1866616,
+   "volume_ratio": 1.21,
+   "rsi14": 37.7,
    "rsi_zone": "中立",
-   "ma25": 1734.59,
-   "ma75": 1739.38,
+   "ma25": 1732.32,
+   "ma75": 1736.69,
    "trend": "下降基調",
-   "pos52": 68,
+   "pos52": 66,
    "spark": [
-    1750.31,
     1763.76,
     1740.13,
     1744.16,
@@ -12965,14 +12964,15 @@
     1750.24,
     1717.76,
     1650.0,
-    1657.44
+    1657.44,
+    1641.52
    ],
    "currency": "USD",
    "exchange_name": "NasdaqGS",
-   "market_open": true,
+   "market_open": false,
    "symbol": "ASML",
    "source": "yahoo",
-   "fetched_at": "2026-10-16T17:47:51.252968+00:00"
+   "fetched_at": "2026-10-16T20:29:26.281097+00:00"
   },
   "JP:7581": {
    "date": "2026-10-15",
