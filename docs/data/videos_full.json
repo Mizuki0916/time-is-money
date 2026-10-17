@@ -1,6 +1,72 @@
 {
  "videos": [
   {
+   "video_id": "4PwNqiZafpE",
+   "title": "10/17【緊急,日経先物が1800円大暴落‼半導体株の急落続く】キオクシア高値掴み助かるか⁉日本株稼ぎ時か⁉ドル円158円。米国株、ナスダック、ハイテク株急落。仮想通貨BTC弱",
+   "published": "2026-10-17T03:00:02+00:00",
+   "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "米国市場でのAI関連企業の債務懸念や半導体株安を受け、日経平均先物が1800円急落するなど市場全体に強い下落圧力がかかっています。信用売り残の枯渇や移動平均線のデッドクロスなどテクニカル・需給面の悪化に加え、年末に向けた信用の期日売りや損益通算売りの影響が警戒されます。一方で、ハイテク株から出遅れ株やバリュー株へのセクターローテーションも進んでおり、需給状態を見極めた銘柄選別が重要と解説しています。",
+   "market_view": "日経先物の急落や信用需給の悪化により日経平均株価はテクニカル的な下落トレンドにあるが、ハイテク売り・バリュー買いのセクターローテーションが進行中。",
+   "market": "MIX",
+   "picks": [
+    {
+     "name": "日経平均株価",
+     "name_en": "Nikkei 225",
+     "ticker": "1321",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "テクニカル悪化や信用需給不全により警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "日経先物が1800円急落しており、日足サポートライン割れや移動平均線のデッドクロス連続形成などテクニカル面で下落トレンドが発生しているため。",
+      "信用売り残が8000億円未満で空売りストッパーがなく、信用倍率悪化やEPS低下による理論株価の下方修正が下落を加速させているため。"
+     ],
+     "timestamp": "01:38",
+     "confidence": "high"
+    },
+    {
+     "name": "キオクシアホールディングス",
+     "name_en": "Kioxia Holdings",
+     "ticker": "285A",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "高値掴みの信用期日売りや投げ売りに警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "ボリンジャーバンドに沿った下落が続いており、高値で信用買いした投資家の期日売りや年末の損益通算売りによる投げ売り圧力が懸念されるため。"
+     ],
+     "timestamp": "29:46",
+     "confidence": "medium"
+    },
+    {
+     "name": "コアウィーブ",
+     "name_en": "CoreWeave",
+     "ticker": "",
+     "market": "US",
+     "stance": "bearish",
+     "stance_note": "巨額負債への懸念と株価急落で警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "データセンター建設資金に伴う約8兆円の負債懸念が浮上し、社債利回り急昇と株価暴落によりAI・半導体セクター全体の重荷となっているため。"
+     ],
+     "timestamp": "17:44",
+     "confidence": "medium"
+    }
+   ]
+  },
+  {
    "video_id": "UmVwF3fzdhA",
    "title": "10/16【緊急,日本株稼ぎ時や‼】日経平均大暴落止まるか⁉‼半導体株暴落で日本株崩壊か⁉キオクシア木端微塵。ドル円157円。CPI通貨で米国株、ナスダック、ハイテク株急落。仮想通貨BTC弱",
    "published": "2026-10-16T15:33:44+00:00",
@@ -64,142 +130,6 @@
       "大量の信用買残と含み損を抱えた投資家が滞留しており上値の戻り売り圧力が極めて強い。"
      ],
      "timestamp": "40:55",
-     "confidence": "medium"
-    }
-   ]
-  },
-  {
-   "video_id": "SwrR9VnEUJ8",
-   "title": "10/15【緊急,日経平均3300円大暴落‼】半導体株暴落で日本株崩壊か⁉キオクシア木端微塵。ドル円157円。CPI通貨で米国株、ナスダック、ハイテク株急落。仮想通貨BTC弱",
-   "published": "2026-10-15T15:10:57+00:00",
-   "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "動画では、日経平均株価の急落や半導体株の暴落背景についてテクニカル指標と需給構造から解説されています。キオクシアやアドバンテストなどの半導体銘柄はバンドウォーク終了や信用買いの期日売りで厳しい展開が続く一方、信用倍率が低く空売り比率が高いオリエンタルランドや武田薬品工業、200日線で好転したソニーグループなど、需給の良好な銘柄や資金ローテーション先への注目が示されています。",
-   "market_view": "日経平均は大幅安となっているものの、半導体株から出遅れ株やバリュー株へのセクターローテーションが発生しています。",
-   "market": "JP",
-   "picks": [
-    {
-     "name": "キオクシアホールディングス",
-     "name_en": "Kioxia Holdings",
-     "ticker": "285A",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "下落方向のバンドウォークで下落傾向",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "信用改ざんが15万株増加し2年間でかなり多い水準まで増加し高値で買われた玉が捕まっていること。",
-      "下落方向にバンドウォークを形成し株価が13,000円を割り込んで窓を開けて暴落していること。"
-     ],
-     "timestamp": "04:08",
-     "confidence": "high"
-    },
-    {
-     "name": "ソニーグループ",
-     "name_en": "Sony Group",
-     "ticker": "6758",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "逆風下で上昇しテクニカル改善",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "日経平均が急落する全般の相場環境の中でも株価が上昇しており受給面でも信用改ざんが減少していること。",
-      "200日移動平均線と長期移動平均線のゴールデンクロスを形成しバンドウォークの兆候が出ていること。"
-     ],
-     "timestamp": "06:42",
-     "confidence": "medium"
-    },
-    {
-     "name": "アドバンテスト",
-     "name_en": "Advantest",
-     "ticker": "6857",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "バンドウォーク終了サインで調整継続",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "バンドウォーク終了のサインが出現した後に反動体株全体の下落圧力に巻き込まれて下がっていること。",
-      "信用取引の受給ボーナスが終了して買い優位のバランスに変化し上値を抑えられていること。"
-     ],
-     "timestamp": "07:49",
-     "confidence": "medium"
-    },
-    {
-     "name": "オリエンタルランド",
-     "name_en": "Oriental Land",
-     "ticker": "4661",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "良好な需給とゴールデンクロスで上昇",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "信用倍率が0.5倍と売りが買いより多い状況であり需給ボーナスによる踏み上げが発生していること。",
-      "200日移動平均線の上抜けやゴールデンクロスを形成し株価が大幅上昇傾向を示していること。"
-     ],
-     "timestamp": "12:49",
-     "confidence": "medium"
-    },
-    {
-     "name": "安川電機",
-     "name_en": "Yaskawa Electric",
-     "ticker": "6506",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "MACDデッドクロスと高値期日売りで軟調",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "MACDがデッドクロスを形成しており最後の引けまで売り圧力が強く翌日も下落しやすい形状であること。",
-      "信用倍率が21.75倍と非常に重く高値で購入した信用買いの半年期日到来による売りが出ていること。"
-     ],
-     "timestamp": "23:24",
-     "confidence": "medium"
-    },
-    {
-     "name": "三井金属鉱業",
-     "name_en": "Mitsui Mining and Smelting",
-     "ticker": "5706",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "複数線のデッドクロスと重い需給で下落",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "200日線と75日移動平均線がデッドクロスを形成するなどテクニカル的に悪化していること。",
-      "株式分割等の影響で信用倍率が10倍から22倍超と非常に重く売り圧力が継続していること。"
-     ],
-     "timestamp": "48:38",
-     "confidence": "medium"
-    },
-    {
-     "name": "武田薬品工業",
-     "name_en": "Takeda Pharmaceutical",
-     "ticker": "4502",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "良好な需給背景に空売りの踏み上げ期待",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "信用倍率が0.44倍と買い手より売り手の方が多く空売りの踏み上げによる上昇が発生していること。",
-      "引け高で強含んでおり年末にかけてショートカバーが入る可能性がある良好な需給構造であること。"
-     ],
-     "timestamp": "1:01:14",
      "confidence": "medium"
     }
    ]
