@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-19T04:49:17.885039+09:00",
+ "generated_at": "2026-10-19T05:49:13.248615+09:00",
  "videos": [
   {
    "video_id": "P2oGz4Q-YN0",
@@ -78,6 +78,146 @@
      "ticker": "7453",
      "stance": "bullish",
      "timestamp": "04:32"
+    }
+   ]
+  },
+  {
+   "video_id": "isiSMntP4xI",
+   "title": "Deepseekショック再来？週明けに注目したい銘柄",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-10-18T09:00:01+00:00",
+   "overview": "ディープシークの新型AIモデル公開や米国株安の影響を受け、週明けの日本市場はギャップダウンスタートが予想されます。動画では、急落した半導体関連株のリバウンド狙いをはじめ、好決算をきっかけに買いが集まるサイバーセキュリティやIT関連株、チャート形状が良好なゲーム関連株、原油高や防衛テーマの個別銘柄について、具体的なエントリー戦略と節目ラインが解説されています。",
+   "market_view": "米国株安やディープシーク関連の懸念から半導体・AI銘柄を中心に下落が予想され、週明けは警戒感が必要な地合いとなります。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "ディスコ",
+     "ticker": "6146",
+     "stance": "bullish",
+     "timestamp": "03:23"
+    },
+    {
+     "name": "太陽誘電",
+     "ticker": "6976",
+     "stance": "bullish",
+     "timestamp": "04:29"
+    },
+    {
+     "name": "アドバンテスト",
+     "ticker": "6857",
+     "stance": "bullish",
+     "timestamp": "05:16"
+    },
+    {
+     "name": "サイバーセキュリティクラウド",
+     "ticker": "4493",
+     "stance": "bullish",
+     "timestamp": "07:07"
+    },
+    {
+     "name": "カウリス",
+     "ticker": "4194",
+     "stance": "bullish",
+     "timestamp": "08:13"
+    },
+    {
+     "name": "トレンドマイクロ",
+     "ticker": "4704",
+     "stance": "bullish",
+     "timestamp": "09:00"
+    },
+    {
+     "name": "ベイカレント・コンサルティング",
+     "ticker": "6532",
+     "stance": "bullish",
+     "timestamp": "09:34"
+    },
+    {
+     "name": "野村総合研究所",
+     "ticker": "4307",
+     "stance": "bullish",
+     "timestamp": "10:06"
+    },
+    {
+     "name": "日本電気",
+     "ticker": "6701",
+     "stance": "bullish",
+     "timestamp": "10:23"
+    },
+    {
+     "name": "ELEMENTS",
+     "ticker": "5246",
+     "stance": "bullish",
+     "timestamp": "10:47"
+    },
+    {
+     "name": "カプコン",
+     "ticker": "9697",
+     "stance": "bullish",
+     "timestamp": "11:40"
+    },
+    {
+     "name": "ソニーグループ",
+     "ticker": "6758",
+     "stance": "bullish",
+     "timestamp": "12:03"
+    },
+    {
+     "name": "INPEX",
+     "ticker": "1605",
+     "stance": "bullish",
+     "timestamp": "13:31"
+    },
+    {
+     "name": "三菱重工業",
+     "ticker": "7011",
+     "stance": "bullish",
+     "timestamp": "14:26"
+    }
+   ]
+  },
+  {
+   "video_id": "ycVqzl0Thf0",
+   "title": "【日経平均】 緊急動画！絶対見て ブラックマンデー再来？今後の値動きはこう考えます",
+   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+   "channel_name": "Trader's Lab",
+   "channel_short": "TL",
+   "slot": 1,
+   "published": "2026-10-17T10:00:00+00:00",
+   "overview": "AI・半導体関連銘柄の減速や原油高によるインフレ懸念、中東情勢の緊迫化などの悪材料が重なり、相場に深い調整下落のリスクが生じていることを解説する動画。ダウ理論やマルチタイムフレーム分析を用いて、ナスダック100やSOX指数、日経平均のチャート形状の変化を分析している。直近の押し安値を割り込んだ場合の下落シナリオを提示し、投資家に対して精度の高い予測と戦略構築の重要性を訴えている。",
+   "market_view": "原油高やインフレ懸念、中東情勢悪化、AI半導体関連の売り継続により悪材料が重なっており、週末安を受けて週明け以降も厳しい下落相場が予想される。",
+   "market": "MIX",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "日経平均株価",
+     "ticker": "N2225",
+     "stance": "bearish",
+     "timestamp": "02:57"
+    },
+    {
+     "name": "ナスダック100",
+     "ticker": "NDX",
+     "stance": "bearish",
+     "timestamp": "04:50"
+    },
+    {
+     "name": "SOX指数",
+     "ticker": "SOX",
+     "stance": "bearish",
+     "timestamp": "05:00"
+    },
+    {
+     "name": "コアウィーブ",
+     "ticker": "",
+     "stance": "bearish",
+     "timestamp": "06:12"
     }
    ]
   },
@@ -216,116 +356,6 @@
      "ticker": "6857",
      "stance": "neutral",
      "timestamp": "10:22"
-    }
-   ]
-  },
-  {
-   "video_id": "m3B2_6c0cq4",
-   "title": "【日経平均】 過去3番目の下げ幅！シナリオ変更立ち回りは〇〇を意識しろ サンディスク・キオクシア・アドバンテスト・良品計画・JT・山岡家",
-   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-   "channel_name": "Trader's Lab",
-   "channel_short": "TL",
-   "slot": 1,
-   "published": "2026-10-15T11:26:30+00:00",
-   "overview": "日経平均株価が歴代3位となる大暴落を記録し、PER17倍割り込みなどテクニカル的なフェーズが変化したことを解説しています。AIインフラ投資懸念や米CPIの上ぶれによる米ハイテク株・半導体株の急落が日経平均を押し下げた一方、良品計画やJTなどの内需ディフェンシブ株が逆行高を見せるなど明暗が分かれました。相場環境に応じた柔軟なトレード戦略の重要性を提示しています。",
-   "market_view": "日経平均はPER17倍の水準を割り込み調整フェーズへ移行した可能性があり警戒が必要だが、短期的には66,000円前後に向けた自立反発の動きも意識される。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "日経平均株価",
-     "ticker": "N225",
-     "stance": "neutral",
-     "timestamp": "04:47"
-    },
-    {
-     "name": "キオクシアホールディングス",
-     "ticker": "285A",
-     "stance": "bearish",
-     "timestamp": "36:00"
-    },
-    {
-     "name": "アドバンテスト",
-     "ticker": "6857",
-     "stance": "neutral",
-     "timestamp": "42:35"
-    },
-    {
-     "name": "良品計画",
-     "ticker": "7453",
-     "stance": "bullish",
-     "timestamp": "46:38"
-    },
-    {
-     "name": "JT",
-     "ticker": "2914",
-     "stance": "bullish",
-     "timestamp": "47:58"
-    },
-    {
-     "name": "丸千代山岡家",
-     "ticker": "3399",
-     "stance": "bullish",
-     "timestamp": "48:42"
-    }
-   ]
-  },
-  {
-   "video_id": "5hCBWBeQMzQ",
-   "title": "日経平均3318円安　下げ幅歴代3位　アドバンテストなど暴落級の下げで苦しい・・・",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-10-15T08:12:36+00:00",
-   "overview": "日経平均が3318円安と歴代3位の下げ幅を記録する歴史的大落となった相場を解説しています。米CPIの上振れやAI関連企業コアウェーブの債務懸念、国内の信用買い残高水準などを要因に挙げ、決算発表前の嵐としての振り落としを指摘しています。アドバンテストやキオクシアなどの半導体・大型銘柄を中心にチャートの節目やリバウンド狙いのポイントを分析しています。",
-   "market_view": "信用買い残が高水準にある中で大口による振り落としが発生しており、決算本格化前の嵐が通り過ぎるのを待つ慎重な姿勢が求められます。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "アドバンテスト",
-     "ticker": "6857",
-     "stance": "neutral",
-     "timestamp": "10:34"
-    },
-    {
-     "name": "ウエストホールディングス",
-     "ticker": "1407",
-     "stance": "bullish",
-     "timestamp": "11:55"
-    },
-    {
-     "name": "キオクシアホールディングス",
-     "ticker": "285A",
-     "stance": "neutral",
-     "timestamp": "06:46"
-    },
-    {
-     "name": "イビデン",
-     "ticker": "4062",
-     "stance": "neutral",
-     "timestamp": "07:23"
-    },
-    {
-     "name": "ソフトバンクグループ",
-     "ticker": "9984",
-     "stance": "neutral",
-     "timestamp": "08:08"
-    },
-    {
-     "name": "太陽誘電",
-     "ticker": "6976",
-     "stance": "bearish",
-     "timestamp": "09:11"
-    },
-    {
-     "name": "フジクラ",
-     "ticker": "5803",
-     "stance": "neutral",
-     "timestamp": "09:44"
     }
    ]
   },
