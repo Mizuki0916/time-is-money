@@ -1,6 +1,86 @@
 {
- "generated_at": "2026-10-19T04:41:08.257287+09:00",
+ "generated_at": "2026-10-19T04:49:17.885039+09:00",
  "videos": [
+  {
+   "video_id": "P2oGz4Q-YN0",
+   "title": "10/18【緊急,日経先物が1800円大暴落‼半導体株の急落続く】キオクシア高値掴み助かるか⁉日本株稼ぎ時か⁉ドル円158円。米国株、ナスダック、ハイテク株急落。仮想通貨BTC弱",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-10-18T15:02:58+00:00",
+   "overview": "日経平均先物が1800円暴落する緊急事態の中、相場全体の現状と見通しを解説する動画です。米国株の急落は全面安ではなくAI・ハイテク株から資源や金融等のディフェンシブ株へのセクターローテーションであると指摘。日本株においても需給が良好な銘柄への資金シフトを捉える重要性を説き、任天堂やキオクシア、ソフトバンクグループなどの個別銘柄のテクニカル・需給分析を行っています。",
+   "market_view": "日経先物の急落は警戒されるものの、米国相場はAI関連から他セクターへのローテーションであり全面安ではない。日本株も需給の良し悪しで二極化が進むため受給良好な銘柄への厳選が重要となる。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "任天堂",
+     "ticker": "7974",
+     "stance": "bullish",
+     "timestamp": "05:37"
+    },
+    {
+     "name": "キオクシアホールディングス",
+     "ticker": "285A",
+     "stance": "bearish",
+     "timestamp": "09:11"
+    },
+    {
+     "name": "JX金属",
+     "ticker": "5016",
+     "stance": "bearish",
+     "timestamp": "13:11"
+    },
+    {
+     "name": "SHIFT",
+     "ticker": "3697",
+     "stance": "bullish",
+     "timestamp": "16:59"
+    },
+    {
+     "name": "ソフトバンクグループ",
+     "ticker": "9984",
+     "stance": "bearish",
+     "timestamp": "40:28"
+    },
+    {
+     "name": "フジクラ",
+     "ticker": "5803",
+     "stance": "bearish",
+     "timestamp": "50:03"
+    },
+    {
+     "name": "アドバンテスト",
+     "ticker": "6857",
+     "stance": "bearish",
+     "timestamp": "1:03:45"
+    }
+   ]
+  },
+  {
+   "video_id": "VvV4vqjLd4Y",
+   "title": "今週（10/19〜）専業が自信を持って買う1銘柄",
+   "channel_id": "UCt7qqCkTFFRfKjXzwqUXq4g",
+   "channel_name": "ぺこ株",
+   "channel_short": "ぺこ",
+   "slot": 4,
+   "published": "2026-10-18T11:00:20+00:00",
+   "overview": "本動画では、過去の実績報告とともに今週以降で上昇が期待できる注目銘柄として良品計画(7453)を解説しています。コアウィーブの信用不安などでAI半導体株が軟調な相場環境の中、本決算で売上高1兆円の大台突破を見込む同社に着目しています。高いブランド力や海外成長性を評価しつつ、決算後の急騰に対する過熱感からの調整下落を待って買いエントリーするスイングトレード戦略を解説しています。",
+   "market_view": "コアウィーブの過剰債務懸念や利上げ観測によりAI半導体関連株には厳しい地合いが続く見込みで、決算相場に向けて資金の分散や調整待ちが重要視されています。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "良品計画",
+     "ticker": "7453",
+     "stance": "bullish",
+     "timestamp": "04:32"
+    }
+   ]
+  },
   {
    "video_id": "4PwNqiZafpE",
    "title": "10/17【緊急,日経先物が1800円大暴落‼半導体株の急落続く】キオクシア高値掴み助かるか⁉日本株稼ぎ時か⁉ドル円158円。米国株、ナスダック、ハイテク株急落。仮想通貨BTC弱",
@@ -32,40 +112,6 @@
      "ticker": "",
      "stance": "bearish",
      "timestamp": "17:44"
-    }
-   ]
-  },
-  {
-   "video_id": "UmVwF3fzdhA",
-   "title": "10/16【緊急,日本株稼ぎ時や‼】日経平均大暴落止まるか⁉‼半導体株暴落で日本株崩壊か⁉キオクシア木端微塵。ドル円157円。CPI通貨で米国株、ナスダック、ハイテク株急落。仮想通貨BTC弱",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-10-16T15:33:44+00:00",
-   "overview": "日経平均株価は反発したものの、セクターローテーションによりグロース株からバリュー株・出遅れ株への資金シフトが続いています。半導体株などのハイテク銘柄は信用需給の悪化やバンドウォーク下落が継続しており、上値が重い展開を警戒しています。年末にかけて二極化相場が想定されるため、早めの損益通算やキャッシュ確保など戦略的な資金管理を推奨しています。",
-   "market_view": "日本株は信用買いの増加とショートカバー燃料の不足から上値が重く、銘柄ごとの二極化が進行する見通しです。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "レーザーテック",
-     "ticker": "6920",
-     "stance": "neutral",
-     "timestamp": "35:02"
-    },
-    {
-     "name": "アドバンテスト",
-     "ticker": "6857",
-     "stance": "bearish",
-     "timestamp": "39:15"
-    },
-    {
-     "name": "キオクシアホールディングス",
-     "ticker": "285A",
-     "stance": "bearish",
-     "timestamp": "40:55"
     }
    ]
   },
@@ -302,28 +348,6 @@
      "ticker": "6981",
      "stance": "bullish",
      "timestamp": "02:48"
-    }
-   ]
-  },
-  {
-   "video_id": "LToCREYhQYI",
-   "title": "今週（10/5〜）専業が自信を持って買う1銘柄",
-   "channel_id": "UCt7qqCkTFFRfKjXzwqUXq4g",
-   "channel_name": "ぺこ株",
-   "channel_short": "ぺこ",
-   "slot": 4,
-   "published": "2026-10-04T11:00:26+00:00",
-   "overview": "専業投資家のペコ氏が、今週上昇が期待できる注目1銘柄として国際エレクトリック(6525)を紹介する動画です。同社は半導体の薄膜形成装置に強みを持ち、好決算や日経225構成銘柄への採用など材料が豊富です。ファンダメンタルズとテクニカルの両面から分析を行い、10,000円を下回る調整局面での2段階押し目買い戦略を解説しています。",
-   "market_view": "AI半導体関連銘柄が日経平均を牽引する一方で他セクターは冴えない相場。米国雇用統計後の長期金利や為替の複雑な動きに注視が必要です。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "国際エレクトリック",
-     "ticker": "6525",
-     "stance": "bullish",
-     "timestamp": "02:40"
     }
    ]
   }
