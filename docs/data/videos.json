@@ -1,6 +1,70 @@
 {
- "generated_at": "2026-10-20T04:39:28.986039+09:00",
+ "generated_at": "2026-10-20T07:40:28.569659+09:00",
  "videos": [
+  {
+   "video_id": "V9ZYs2rnnEA",
+   "title": "10/19【日本株稼ぎ時来てるぞ‼️】半導体株暴落で日経平均下落続くか。キオクシア高値掴み助かる⁉出遅れバリュー株強いぞ‼️ドル円158円。米国株、ナスダック、ハイテク株急落。仮想通貨BTC弱",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-10-19T15:52:08+00:00",
+   "overview": "半導体・ハイテク株の下落と、出遅れバリュー株への資金流入というセクターローテーションの動きを解説する動画です。全体相場が全面安になっているわけではなく、ローテーションにしっかり乗れているかが重要であると指摘しています。個別銘柄の分析では、信用受給の良し悪しや移動平均線、ボリンジャーバンドなどのテクニカル指標をもとに、各銘柄の今後の展望と立ち回り方をアドバイスしています。",
+   "market_view": "日本株はハイテク・半導体株からバリュー株へのセクターローテーションが進行中です。年末に向けて信用受給が良好な銘柄を選択することが重要となります。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "サンリオ",
+     "ticker": "8136",
+     "stance": "neutral",
+     "timestamp": "06:18"
+    },
+    {
+     "name": "積水ハウス",
+     "ticker": "1928",
+     "stance": "neutral",
+     "timestamp": "10:43"
+    },
+    {
+     "name": "NEC",
+     "ticker": "6701",
+     "stance": "neutral",
+     "timestamp": "15:05"
+    },
+    {
+     "name": "太陽誘電",
+     "ticker": "6976",
+     "stance": "bearish",
+     "timestamp": "18:00"
+    },
+    {
+     "name": "川崎重工業",
+     "ticker": "7012",
+     "stance": "neutral",
+     "timestamp": "23:31"
+    },
+    {
+     "name": "良品計画",
+     "ticker": "7453",
+     "stance": "bullish",
+     "timestamp": "41:48"
+    },
+    {
+     "name": "カプコン",
+     "ticker": "9697",
+     "stance": "bullish",
+     "timestamp": "49:20"
+    },
+    {
+     "name": "古河電気工業",
+     "ticker": "5801",
+     "stance": "bearish",
+     "timestamp": "59:08"
+    }
+   ]
+  },
   {
    "video_id": "P2oGz4Q-YN0",
    "title": "10/18【緊急,日経先物が1800円大暴落‼半導体株の急落続く】キオクシア高値掴み助かるか⁉日本株稼ぎ時か⁉ドル円158円。米国株、ナスダック、ハイテク株急落。仮想通貨BTC弱",
@@ -218,40 +282,6 @@
      "ticker": "",
      "stance": "bearish",
      "timestamp": "06:12"
-    }
-   ]
-  },
-  {
-   "video_id": "4PwNqiZafpE",
-   "title": "10/17【緊急,日経先物が1800円大暴落‼半導体株の急落続く】キオクシア高値掴み助かるか⁉日本株稼ぎ時か⁉ドル円158円。米国株、ナスダック、ハイテク株急落。仮想通貨BTC弱",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-10-17T03:00:02+00:00",
-   "overview": "米国市場でのAI関連企業の債務懸念や半導体株安を受け、日経平均先物が1800円急落するなど市場全体に強い下落圧力がかかっています。信用売り残の枯渇や移動平均線のデッドクロスなどテクニカル・需給面の悪化に加え、年末に向けた信用の期日売りや損益通算売りの影響が警戒されます。一方で、ハイテク株から出遅れ株やバリュー株へのセクターローテーションも進んでおり、需給状態を見極めた銘柄選別が重要と解説しています。",
-   "market_view": "日経先物の急落や信用需給の悪化により日経平均株価はテクニカル的な下落トレンドにあるが、ハイテク売り・バリュー買いのセクターローテーションが進行中。",
-   "market": "MIX",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "日経平均株価",
-     "ticker": "1321",
-     "stance": "bearish",
-     "timestamp": "01:38"
-    },
-    {
-     "name": "キオクシアホールディングス",
-     "ticker": "285A",
-     "stance": "bearish",
-     "timestamp": "29:46"
-    },
-    {
-     "name": "コアウィーブ",
-     "ticker": "",
-     "stance": "bearish",
-     "timestamp": "17:44"
     }
    ]
   },

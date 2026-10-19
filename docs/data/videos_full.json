@@ -1,6 +1,159 @@
 {
  "videos": [
   {
+   "video_id": "V9ZYs2rnnEA",
+   "title": "10/19【日本株稼ぎ時来てるぞ‼️】半導体株暴落で日経平均下落続くか。キオクシア高値掴み助かる⁉出遅れバリュー株強いぞ‼️ドル円158円。米国株、ナスダック、ハイテク株急落。仮想通貨BTC弱",
+   "published": "2026-10-19T15:52:08+00:00",
+   "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "半導体・ハイテク株の下落と、出遅れバリュー株への資金流入というセクターローテーションの動きを解説する動画です。全体相場が全面安になっているわけではなく、ローテーションにしっかり乗れているかが重要であると指摘しています。個別銘柄の分析では、信用受給の良し悪しや移動平均線、ボリンジャーバンドなどのテクニカル指標をもとに、各銘柄の今後の展望と立ち回り方をアドバイスしています。",
+   "market_view": "日本株はハイテク・半導体株からバリュー株へのセクターローテーションが進行中です。年末に向けて信用受給が良好な銘柄を選択することが重要となります。",
+   "market": "JP",
+   "picks": [
+    {
+     "name": "サンリオ",
+     "name_en": "Sanrio",
+     "ticker": "8136",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "バンド終了サインが出るまで様子見",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "信用買いが多く捕まっている人が目立つが、日足はボリンジャーバンドの+2σに沿う強烈な上昇トレンドを形成中。",
+      "テクニカル上の下落サインは特に無いが、1373円付近の窓埋め時にバンドが終了しないか注意が必要。"
+     ],
+     "timestamp": "06:18",
+     "confidence": "medium"
+    },
+    {
+     "name": "積水ハウス",
+     "name_en": "Sekisui House",
+     "ticker": "1928",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "トレンド転換点でありバンド歩行か注視",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "一目均衡表の雲を上抜けてトレンド転換点に入り、ボリンジャーバンドの上軌道に沿って上がり始めている。",
+      "信用倍率が0.74倍と売り越されており受給面が良好で、PBR1倍割れかつ高配当利回りな点が魅力。"
+     ],
+     "timestamp": "10:43",
+     "confidence": "medium"
+    },
+    {
+     "name": "NEC",
+     "name_en": "NEC",
+     "ticker": "6701",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "決算前のリスク管理をしつつ上値を追う",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "移動平均線のゴールデンクロス形成後に上昇し、バンド歩行っぽい動きが継続しており業績や受給の良さが目立つ。",
+      "高値期日の通過に伴い水準を切り上げているが、直近決算を控えているため含み益の余裕に応じた対応が必要。"
+     ],
+     "timestamp": "15:05",
+     "confidence": "medium"
+    },
+    {
+     "name": "太陽誘電",
+     "name_en": "Taiyo Yuden",
+     "ticker": "6976",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "年末に向けた信用買い残の売り圧力に警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "短期的な戻りはあっても、11月・12月に向かって高値からの信用買い残の期日売りが本格化する見通し。",
+      "MACDがデッドクロスを形成しており、信用買い残が400万株以上と重く受給面のしこりが強く残っている。"
+     ],
+     "timestamp": "18:00",
+     "confidence": "medium"
+    },
+    {
+     "name": "川崎重工業",
+     "name_en": "Kawasaki Heavy Industries",
+     "ticker": "7012",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "逆拡大ダイバージェンスからの反転を注視",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "日足安値が切り下がる中でRSIやMACDの底値が切り上がる逆拡大ダイバージェンスの形成が進んでいる。",
+      "決算後の戻りが鈍い可能性もあり、25日線突破や移動平均線のゴールデンクロスなど底打ちサインを確認したい。"
+     ],
+     "timestamp": "23:31",
+     "confidence": "medium"
+    },
+    {
+     "name": "良品計画",
+     "name_en": "Ryohin Keikaku",
+     "ticker": "7453",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "上のラインに沿って上がる限り上値を追う",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "ボリンジャーバンドの上のラインに沿って上昇する強烈なトレンドを形成しており、継続して上値を追える展開。",
+      "信用倍率が0.51倍と空売りが信用買いの倍近く存在しており、足元で踏み上げが起こっていて受給が良い。"
+     ],
+     "timestamp": "41:48",
+     "confidence": "medium"
+    },
+    {
+     "name": "カプコン",
+     "name_en": "Capcom",
+     "ticker": "9697",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "25日線を底値にじり高の上昇傾向",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "25日移動平均線を下値サポートとしながらボリンジャーバンドの上限に向けてジリジリと買い進まれている。",
+      "ゲーム関連セクター全般に資金が入っており、チャート形状からも非常に力強い上昇パターンを維持している。"
+     ],
+     "timestamp": "49:20",
+     "confidence": "medium"
+    },
+    {
+     "name": "古河電気工業",
+     "name_en": "Furukawa Electric",
+     "ticker": "5801",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "信用買い残が重く下落傾向が強いため慎重",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "ボリンジャーバンドの下のラインに沿って下落するバンド歩行が続いており、チャート形状が悪化している。",
+      "信用倍率が62倍超と非常に受給が重く、買い方のほぼ全員が含み損を抱えているため戻り売り圧力に警戒が必要。"
+     ],
+     "timestamp": "59:08",
+     "confidence": "medium"
+    }
+   ]
+  },
+  {
    "video_id": "P2oGz4Q-YN0",
    "title": "10/18【緊急,日経先物が1800円大暴落‼半導体株の急落続く】キオクシア高値掴み助かるか⁉日本株稼ぎ時か⁉ドル円158円。米国株、ナスダック、ハイテク株急落。仮想通貨BTC弱",
    "published": "2026-10-18T15:02:58+00:00",
@@ -132,72 +285,6 @@
       "週足チャートのMACDで株価と指標が逆行するダイバージエンスが発生しており調整に注意が必要。"
      ],
      "timestamp": "1:03:45",
-     "confidence": "medium"
-    }
-   ]
-  },
-  {
-   "video_id": "4PwNqiZafpE",
-   "title": "10/17【緊急,日経先物が1800円大暴落‼半導体株の急落続く】キオクシア高値掴み助かるか⁉日本株稼ぎ時か⁉ドル円158円。米国株、ナスダック、ハイテク株急落。仮想通貨BTC弱",
-   "published": "2026-10-17T03:00:02+00:00",
-   "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "米国市場でのAI関連企業の債務懸念や半導体株安を受け、日経平均先物が1800円急落するなど市場全体に強い下落圧力がかかっています。信用売り残の枯渇や移動平均線のデッドクロスなどテクニカル・需給面の悪化に加え、年末に向けた信用の期日売りや損益通算売りの影響が警戒されます。一方で、ハイテク株から出遅れ株やバリュー株へのセクターローテーションも進んでおり、需給状態を見極めた銘柄選別が重要と解説しています。",
-   "market_view": "日経先物の急落や信用需給の悪化により日経平均株価はテクニカル的な下落トレンドにあるが、ハイテク売り・バリュー買いのセクターローテーションが進行中。",
-   "market": "MIX",
-   "picks": [
-    {
-     "name": "日経平均株価",
-     "name_en": "Nikkei 225",
-     "ticker": "1321",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "テクニカル悪化や信用需給不全により警戒",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "日経先物が1800円急落しており、日足サポートライン割れや移動平均線のデッドクロス連続形成などテクニカル面で下落トレンドが発生しているため。",
-      "信用売り残が8000億円未満で空売りストッパーがなく、信用倍率悪化やEPS低下による理論株価の下方修正が下落を加速させているため。"
-     ],
-     "timestamp": "01:38",
-     "confidence": "high"
-    },
-    {
-     "name": "キオクシアホールディングス",
-     "name_en": "Kioxia Holdings",
-     "ticker": "285A",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "高値掴みの信用期日売りや投げ売りに警戒",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "ボリンジャーバンドに沿った下落が続いており、高値で信用買いした投資家の期日売りや年末の損益通算売りによる投げ売り圧力が懸念されるため。"
-     ],
-     "timestamp": "29:46",
-     "confidence": "medium"
-    },
-    {
-     "name": "コアウィーブ",
-     "name_en": "CoreWeave",
-     "ticker": "",
-     "market": "US",
-     "stance": "bearish",
-     "stance_note": "巨額負債への懸念と株価急落で警戒",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "データセンター建設資金に伴う約8兆円の負債懸念が浮上し、社債利回り急昇と株価暴落によりAI・半導体セクター全体の重荷となっているため。"
-     ],
-     "timestamp": "17:44",
      "confidence": "medium"
     }
    ]
