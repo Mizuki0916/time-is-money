@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T07:40:28.569659+09:00",
+ "generated_at": "2026-10-20T08:38:13.651776+09:00",
  "videos": [
   {
    "video_id": "V9ZYs2rnnEA",
@@ -66,60 +66,82 @@
    ]
   },
   {
-   "video_id": "P2oGz4Q-YN0",
-   "title": "10/18【緊急,日経先物が1800円大暴落‼半導体株の急落続く】キオクシア高値掴み助かるか⁉日本株稼ぎ時か⁉ドル円158円。米国株、ナスダック、ハイテク株急落。仮想通貨BTC弱",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-10-18T15:02:58+00:00",
-   "overview": "日経平均先物が1800円暴落する緊急事態の中、相場全体の現状と見通しを解説する動画です。米国株の急落は全面安ではなくAI・ハイテク株から資源や金融等のディフェンシブ株へのセクターローテーションであると指摘。日本株においても需給が良好な銘柄への資金シフトを捉える重要性を説き、任天堂やキオクシア、ソフトバンクグループなどの個別銘柄のテクニカル・需給分析を行っています。",
-   "market_view": "日経先物の急落は警戒されるものの、米国相場はAI関連から他セクターへのローテーションであり全面安ではない。日本株も需給の良し悪しで二極化が進むため受給良好な銘柄への厳選が重要となる。",
+   "video_id": "ne8rj_AgRgM",
+   "title": "【日経平均】 暴落終了？ それともまだ下落？ こう考える サンディスク・キオクシア・アドバンテスト・ノースサンド・山岡家",
+   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+   "channel_name": "Trader's Lab",
+   "channel_short": "TL",
+   "slot": 1,
+   "published": "2026-10-19T11:09:05+00:00",
+   "overview": "動画では、週明けの日本株および米国株市場の動向を分析し、日経平均株価の今後の下値リスクや注意点を解説しています。AI半導体関連の失速や原油高が警戒される中、個別銘柄としてキオクシア、アドバンテスト、ノースサンド、山岡家の4銘柄をピックアップし、テクニカル分析や需給面からそれぞれの見通しを詳しく検証しています。",
+   "market_view": "日経平均は反発したもののPER17倍の水準が抵抗線となっており、下値ラインを割れ込んだ場合は調整が長引くリスクがあるため警戒が必要です。",
    "market": "JP",
    "no_transcript": false,
    "skip_reason": "",
    "picks": [
     {
-     "name": "任天堂",
-     "ticker": "7974",
-     "stance": "bullish",
-     "timestamp": "05:37"
-    },
-    {
-     "name": "キオクシアホールディングス",
+     "name": "キオクシア",
      "ticker": "285A",
      "stance": "bearish",
-     "timestamp": "09:11"
-    },
-    {
-     "name": "JX金属",
-     "ticker": "5016",
-     "stance": "bearish",
-     "timestamp": "13:11"
-    },
-    {
-     "name": "SHIFT",
-     "ticker": "3697",
-     "stance": "bullish",
-     "timestamp": "16:59"
-    },
-    {
-     "name": "ソフトバンクグループ",
-     "ticker": "9984",
-     "stance": "bearish",
-     "timestamp": "40:28"
-    },
-    {
-     "name": "フジクラ",
-     "ticker": "5803",
-     "stance": "bearish",
-     "timestamp": "50:03"
+     "timestamp": "27:50"
     },
     {
      "name": "アドバンテスト",
      "ticker": "6857",
      "stance": "bearish",
-     "timestamp": "1:03:45"
+     "timestamp": "33:52"
+    },
+    {
+     "name": "ノースサンド",
+     "ticker": "",
+     "stance": "bullish",
+     "timestamp": "37:25"
+    },
+    {
+     "name": "山岡家",
+     "ticker": "3399",
+     "stance": "bullish",
+     "timestamp": "39:09"
+    }
+   ]
+  },
+  {
+   "video_id": "sBtiykb-MBg",
+   "title": "10/19【日本株稼ぎ時来てるぞ‼️】半導体株暴落で日経平均下落続くか。キオクシア高値掴み助かる⁉出遅れバリュー株強いぞ‼️ドル円158円。米国株、ナスダック、ハイテク株急落。仮想通貨BTC弱",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-10-19T09:15:01+00:00",
+   "overview": "日経平均株価はバンドウォーク終了サインや信用空売りの燃料不足を背景に下落調整となっており、2018年と同様のパターンで10月末にかけて調整が続く可能性が示唆されています。一方で半導体株などのハイテク銘柄から出遅れバリュー株や高配当銘柄へのセクターローテーションが発生しており、TOPIX主導の展開が続いています。個別ではキオクシアや東京エレクトロンなどの半導体関連株に高値掴みの信用買い残による戻り売り圧力が懸念されています。",
+   "market_view": "AI・半導体株から出遅れバリュー株へのセクターローテーションが起きており、需給や信用買残の状況に応じた個別銘柄選別が重要な局面です。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "日経平均株価",
+     "ticker": "998407",
+     "stance": "neutral",
+     "timestamp": "01:13"
+    },
+    {
+     "name": "キオクシア",
+     "ticker": "",
+     "stance": "bearish",
+     "timestamp": "21:00"
+    },
+    {
+     "name": "東京エレクトロン",
+     "ticker": "8035",
+     "stance": "bearish",
+     "timestamp": "29:52"
+    },
+    {
+     "name": "TOPIX",
+     "ticker": "",
+     "stance": "bullish",
+     "timestamp": "30:21"
     }
    ]
   },
@@ -282,52 +304,6 @@
      "ticker": "",
      "stance": "bearish",
      "timestamp": "06:12"
-    }
-   ]
-  },
-  {
-   "video_id": "Wcb6W2LeHO4",
-   "title": "【日経平均】 週明け相場 暴落一服後は戻りか一段下げか これ意識して サンディスク・キオクシア・アドバンテスト・ベイカレント・サイバーセキュリティ関連",
-   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-   "channel_name": "Trader's Lab",
-   "channel_short": "TL",
-   "slot": 1,
-   "published": "2026-10-16T12:38:58+00:00",
-   "overview": "日経平均の暴落後の反発局面において、指数全体の戻りの弱さや調整色の強さを分析し、個別銘柄の需給やテクニカル状態に応じた柔軟な立ち回りが必要だと解説しています。注目銘柄としてキオクシアやアドバンテストの戻りの弱さを指摘する一方、好決算でストップ高となったベイカレントや強いテーマ性を持つサイバーセキュリティ関連株の動向を評価しています。",
-   "market_view": "日経平均は前日の大暴落から反発したものの戻りは限定的で、主要移動平均線を下回り調整色が強まっています。韓国コスピや米ソックス指数の弱さもあり、もう一段の下落への警戒が必要です。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "キオクシア",
-     "ticker": "",
-     "stance": "bearish",
-     "timestamp": "30:27"
-    },
-    {
-     "name": "アドバンテスト",
-     "ticker": "6857",
-     "stance": "bearish",
-     "timestamp": "35:36"
-    },
-    {
-     "name": "ベイカレント",
-     "ticker": "6532",
-     "stance": "bullish",
-     "timestamp": "38:52"
-    },
-    {
-     "name": "サイバーセキュリティクラウド",
-     "ticker": "4493",
-     "stance": "neutral",
-     "timestamp": "41:16"
-    },
-    {
-     "name": "グローバルセキュリティエキスパート",
-     "ticker": "4417",
-     "stance": "bullish",
-     "timestamp": "45:18"
     }
    ]
   },
