@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T18:38:01.512612+00:00",
+ "updated_at": "2026-10-20T19:29:37.830412+00:00",
  "symbols": {
   "JP:1111": {
    "date": "2026-08-17",
@@ -13490,10 +13490,10 @@
    "date": "2026-10-19",
    "close": 262.45,
    "change_pct": 4.98,
-   "live": 262.5,
-   "live_change_pct": 0.02,
-   "live_time": 1792520976,
-   "volume": 56068100,
+   "live": 262.48,
+   "live_change_pct": 0.01,
+   "live_time": 1792524589,
+   "volume": 56188800,
    "volume_ratio": 1.52,
    "rsi14": 57.3,
    "rsi_zone": "中立",
@@ -13548,7 +13548,7 @@
    "market_open": true,
    "symbol": "AMZN",
    "source": "yahoo",
-   "fetched_at": "2026-10-20T18:29:25.465292+00:00"
+   "fetched_at": "2026-10-20T19:29:37.830412+00:00"
   }
  }
 }
