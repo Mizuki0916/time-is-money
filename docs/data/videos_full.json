@@ -18,9 +18,9 @@
    "picks": []
   },
   {
-   "video_id": "V9ZYs2rnnEA",
-   "title": "10/19【日本株稼ぎ時来てるぞ‼️】半導体株暴落で日経平均下落続くか。キオクシア高値掴み助かる⁉出遅れバリュー株強いぞ‼️ドル円158円。米国株、ナスダック、ハイテク株急落。仮想通貨BTC弱",
-   "published": "2026-10-19T15:52:08+00:00",
+   "video_id": "88y0ggugqCw",
+   "title": "10/20【緊急.日本株空売り激減ヤバい‼️】半導体株投げ売り加速で日経平均下落続く。キオクシア高値掴み助かる⁉バリュー株強いぞ‼️ドル円158円。米国株、ナスダック、ハイテク株上昇。仮想通貨BTC弱",
+   "published": "2026-10-20T09:15:01+00:00",
    "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
    "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
    "channel_name": "Sho's投資情報局",
@@ -28,144 +28,144 @@
    "slot": 3,
    "no_transcript": false,
    "skip_reason": "",
-   "overview": "半導体・ハイテク株の下落と、出遅れバリュー株への資金流入というセクターローテーションの動きを解説する動画です。全体相場が全面安になっているわけではなく、ローテーションにしっかり乗れているかが重要であると指摘しています。個別銘柄の分析では、信用受給の良し悪しや移動平均線、ボリンジャーバンドなどのテクニカル指標をもとに、各銘柄の今後の展望と立ち回り方をアドバイスしています。",
-   "market_view": "日本株はハイテク・半導体株からバリュー株へのセクターローテーションが進行中です。年末に向けて信用受給が良好な銘柄を選択することが重要となります。",
-   "market": "JP",
+   "overview": "日経平均はAI・半導体株の投げ売りなどで続落。空売り残の急減に伴う信用倍率悪化や海外勢の動きなどの下落サインにより急落は想定通りとされる。6月高値で信用買いが溜まるキオクシアなど受給悪化銘柄には12月の期日対応や損益通算売りが重なる警戒感がある一方、金利低下に伴い出遅れバリュー株や高配当・受給良好銘柄への資金シフトが継続すると予想。2018年の相場パターンを踏まえ、年末に向け需給管理の重要性を強調している。",
+   "market_view": "信用売り残が激減し買い残過多と需給が悪化する中、米国株優位の展開や金利低下によるバリュー株へのセクターローテーションが進むと分析。",
+   "market": "MIX",
    "picks": [
     {
-     "name": "サンリオ",
-     "name_en": "Sanrio",
-     "ticker": "8136",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "バンド終了サインが出るまで様子見",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "信用買いが多く捕まっている人が目立つが、日足はボリンジャーバンドの+2σに沿う強烈な上昇トレンドを形成中。",
-      "テクニカル上の下落サインは特に無いが、1373円付近の窓埋め時にバンドが終了しないか注意が必要。"
-     ],
-     "timestamp": "06:18",
-     "confidence": "medium"
-    },
-    {
-     "name": "積水ハウス",
-     "name_en": "Sekisui House",
-     "ticker": "1928",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "トレンド転換点でありバンド歩行か注視",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "一目均衡表の雲を上抜けてトレンド転換点に入り、ボリンジャーバンドの上軌道に沿って上がり始めている。",
-      "信用倍率が0.74倍と売り越されており受給面が良好で、PBR1倍割れかつ高配当利回りな点が魅力。"
-     ],
-     "timestamp": "10:43",
-     "confidence": "medium"
-    },
-    {
-     "name": "NEC",
-     "name_en": "NEC",
-     "ticker": "6701",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "決算前のリスク管理をしつつ上値を追う",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "移動平均線のゴールデンクロス形成後に上昇し、バンド歩行っぽい動きが継続しており業績や受給の良さが目立つ。",
-      "高値期日の通過に伴い水準を切り上げているが、直近決算を控えているため含み益の余裕に応じた対応が必要。"
-     ],
-     "timestamp": "15:05",
-     "confidence": "medium"
-    },
-    {
-     "name": "太陽誘電",
-     "name_en": "Taiyo Yuden",
-     "ticker": "6976",
+     "name": "キオクシアホールディングス",
+     "name_en": "Kioxia Holdings Corporation",
+     "ticker": "285A",
      "market": "JP",
      "stance": "bearish",
-     "stance_note": "年末に向けた信用買い残の売り圧力に警戒",
+     "stance_note": "信用期日と損益通算売り重なり難調",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "短期的な戻りはあっても、11月・12月に向かって高値からの信用買い残の期日売りが本格化する見通し。",
-      "MACDがデッドクロスを形成しており、信用買い残が400万株以上と重く受給面のしこりが強く残っている。"
+      "6月高値付近で購入した信用買いの半年期日が12月下旬に迫り、売り圧力が強まりやすい。",
+      "12月特有の損益通算に伴う節税売りや全体的な需給悪化が重なり年末にかけて上値が重い。"
      ],
-     "timestamp": "18:00",
-     "confidence": "medium"
+     "timestamp": "02:26",
+     "confidence": "high"
     },
     {
-     "name": "川崎重工業",
-     "name_en": "Kawasaki Heavy Industries",
-     "ticker": "7012",
+     "name": "フジクラ",
+     "name_en": "Fujikura Ltd.",
+     "ticker": "5803",
      "market": "JP",
-     "stance": "neutral",
-     "stance_note": "逆拡大ダイバージェンスからの反転を注視",
+     "stance": "bearish",
+     "stance_note": "需給悪化で下落トレンドが継続",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "日足安値が切り下がる中でRSIやMACDの底値が切り上がる逆拡大ダイバージェンスの形成が進んでいる。",
-      "決算後の戻りが鈍い可能性もあり、25日線突破や移動平均線のゴールデンクロスなど底打ちサインを確認したい。"
+      "AI半導体関連株の全般的な投げ売り加速に巻き込まれ、下落トレンドが継続している。",
+      "下降方向へのバンドウォークが形成されており、需給悪化から押し目買いが入りにくい。"
      ],
-     "timestamp": "23:31",
-     "confidence": "medium"
-    },
-    {
-     "name": "良品計画",
-     "name_en": "Ryohin Keikaku",
-     "ticker": "7453",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "上のラインに沿って上がる限り上値を追う",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "ボリンジャーバンドの上のラインに沿って上昇する強烈なトレンドを形成しており、継続して上値を追える展開。",
-      "信用倍率が0.51倍と空売りが信用買いの倍近く存在しており、足元で踏み上げが起こっていて受給が良い。"
-     ],
-     "timestamp": "41:48",
-     "confidence": "medium"
-    },
-    {
-     "name": "カプコン",
-     "name_en": "Capcom",
-     "ticker": "9697",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "25日線を底値にじり高の上昇傾向",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "25日移動平均線を下値サポートとしながらボリンジャーバンドの上限に向けてジリジリと買い進まれている。",
-      "ゲーム関連セクター全般に資金が入っており、チャート形状からも非常に力強い上昇パターンを維持している。"
-     ],
-     "timestamp": "49:20",
+     "timestamp": "02:26",
      "confidence": "medium"
     },
     {
      "name": "古河電気工業",
-     "name_en": "Furukawa Electric",
+     "name_en": "Furukawa Electric Co., Ltd.",
      "ticker": "5801",
      "market": "JP",
      "stance": "bearish",
-     "stance_note": "信用買い残が重く下落傾向が強いため慎重",
+     "stance_note": "信用買残が多く下落基調",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "ボリンジャーバンドの下のラインに沿って下落するバンド歩行が続いており、チャート形状が悪化している。",
-      "信用倍率が62倍超と非常に受給が重く、買い方のほぼ全員が含み損を抱えているため戻り売り圧力に警戒が必要。"
+      "信用買残が多く需給が悪化しているため、マーケットの下落局面で叩かれやすい状況。",
+      "ハイテク・AI半導体セクターの投げ売り傾向に連れ安し、株価の戻りが鈍くなっている。"
      ],
-     "timestamp": "59:08",
+     "timestamp": "02:26",
+     "confidence": "medium"
+    },
+    {
+     "name": "オリエンタルランド",
+     "name_en": "Oriental Land Co., Ltd.",
+     "ticker": "4661",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "需給が軽くバンドウォークで上昇",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "信用取引の需給関係が非常に軽い状態にあるため、全体相場が下落する中でも買われている。",
+      "チャート上でバンドウォークが発生しており、トレンドに従った継続的な上昇サインが点灯。"
+     ],
+     "timestamp": "14:35",
+     "confidence": "medium"
+    },
+    {
+     "name": "ファーストリテーリング",
+     "name_en": "Fast Retailing Co., Ltd.",
+     "ticker": "9983",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "日経平均を牽引し強烈に上昇",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "日経平均が下落する局面において、一銘柄で大きく指数を押し上げる寄与度1位となった。",
+      "バンドウォークによる強力な上昇トレンドが点灯しており、堅調な買戻しが続いている。"
+     ],
+     "timestamp": "29:28",
+     "confidence": "medium"
+    },
+    {
+     "name": "任天堂",
+     "name_en": "Nintendo Co., Ltd.",
+     "ticker": "7974",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "ゴールデンクロス形成で買戻し優位",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "移動平均線等のゴールデンクロスを形成しており、バンドウォークに似た上昇傾向を示す。",
+      "金利低下に伴い出遅れバリュー株や需給の良い銘柄への資金シフトが追い風となっている。"
+     ],
+     "timestamp": "30:19",
+     "confidence": "medium"
+    },
+    {
+     "name": "東京エレクトロン",
+     "name_en": "Tokyo Electron Limited",
+     "ticker": "8035",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "需給悪化で年末に向け調整懸念",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "日経平均の下落寄与度上位となり、信用買残の増加による需給悪化が株価の重石となる。",
+      "過去のスーパーサイクル同様に、12月の損益通算最終日まで信用投げ売りが出やすい環境。"
+     ],
+     "timestamp": "29:46",
+     "confidence": "medium"
+    },
+    {
+     "name": "Amazon.com",
+     "name_en": "Amazon.com, Inc.",
+     "ticker": "AMZN",
+     "market": "US",
+     "stance": "bullish",
+     "stance_note": "米ハイテク株の中で強烈な上昇",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "昨晩の米国市場で約5%の大幅高となり、情報通信や一般消費財セクターの上昇を牽引。",
+      "ガーファムなどの大手ハイテク株の中で力強い買いが入っており、株価を押し上げている。"
+     ],
+     "timestamp": "33:42",
      "confidence": "medium"
     }
    ]

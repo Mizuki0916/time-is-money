@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T00:32:07.909344+09:00",
+ "generated_at": "2026-10-21T00:39:43.239660+09:00",
  "videos": [
   {
    "video_id": "5pDQlShA9pI",
@@ -57,66 +57,66 @@
    ]
   },
   {
-   "video_id": "V9ZYs2rnnEA",
-   "title": "10/19【日本株稼ぎ時来てるぞ‼️】半導体株暴落で日経平均下落続くか。キオクシア高値掴み助かる⁉出遅れバリュー株強いぞ‼️ドル円158円。米国株、ナスダック、ハイテク株急落。仮想通貨BTC弱",
+   "video_id": "88y0ggugqCw",
+   "title": "10/20【緊急.日本株空売り激減ヤバい‼️】半導体株投げ売り加速で日経平均下落続く。キオクシア高値掴み助かる⁉バリュー株強いぞ‼️ドル円158円。米国株、ナスダック、ハイテク株上昇。仮想通貨BTC弱",
    "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
    "channel_name": "Sho's投資情報局",
    "channel_short": "Sho",
    "slot": 3,
-   "published": "2026-10-19T15:52:08+00:00",
-   "overview": "半導体・ハイテク株の下落と、出遅れバリュー株への資金流入というセクターローテーションの動きを解説する動画です。全体相場が全面安になっているわけではなく、ローテーションにしっかり乗れているかが重要であると指摘しています。個別銘柄の分析では、信用受給の良し悪しや移動平均線、ボリンジャーバンドなどのテクニカル指標をもとに、各銘柄の今後の展望と立ち回り方をアドバイスしています。",
-   "market_view": "日本株はハイテク・半導体株からバリュー株へのセクターローテーションが進行中です。年末に向けて信用受給が良好な銘柄を選択することが重要となります。",
-   "market": "JP",
+   "published": "2026-10-20T09:15:01+00:00",
+   "overview": "日経平均はAI・半導体株の投げ売りなどで続落。空売り残の急減に伴う信用倍率悪化や海外勢の動きなどの下落サインにより急落は想定通りとされる。6月高値で信用買いが溜まるキオクシアなど受給悪化銘柄には12月の期日対応や損益通算売りが重なる警戒感がある一方、金利低下に伴い出遅れバリュー株や高配当・受給良好銘柄への資金シフトが継続すると予想。2018年の相場パターンを踏まえ、年末に向け需給管理の重要性を強調している。",
+   "market_view": "信用売り残が激減し買い残過多と需給が悪化する中、米国株優位の展開や金利低下によるバリュー株へのセクターローテーションが進むと分析。",
+   "market": "MIX",
    "no_transcript": false,
    "skip_reason": "",
    "picks": [
     {
-     "name": "サンリオ",
-     "ticker": "8136",
-     "stance": "neutral",
-     "timestamp": "06:18"
-    },
-    {
-     "name": "積水ハウス",
-     "ticker": "1928",
-     "stance": "neutral",
-     "timestamp": "10:43"
-    },
-    {
-     "name": "NEC",
-     "ticker": "6701",
-     "stance": "neutral",
-     "timestamp": "15:05"
-    },
-    {
-     "name": "太陽誘電",
-     "ticker": "6976",
+     "name": "キオクシアホールディングス",
+     "ticker": "285A",
      "stance": "bearish",
-     "timestamp": "18:00"
+     "timestamp": "02:26"
     },
     {
-     "name": "川崎重工業",
-     "ticker": "7012",
-     "stance": "neutral",
-     "timestamp": "23:31"
-    },
-    {
-     "name": "良品計画",
-     "ticker": "7453",
-     "stance": "bullish",
-     "timestamp": "41:48"
-    },
-    {
-     "name": "カプコン",
-     "ticker": "9697",
-     "stance": "bullish",
-     "timestamp": "49:20"
+     "name": "フジクラ",
+     "ticker": "5803",
+     "stance": "bearish",
+     "timestamp": "02:26"
     },
     {
      "name": "古河電気工業",
      "ticker": "5801",
      "stance": "bearish",
-     "timestamp": "59:08"
+     "timestamp": "02:26"
+    },
+    {
+     "name": "オリエンタルランド",
+     "ticker": "4661",
+     "stance": "bullish",
+     "timestamp": "14:35"
+    },
+    {
+     "name": "ファーストリテーリング",
+     "ticker": "9983",
+     "stance": "bullish",
+     "timestamp": "29:28"
+    },
+    {
+     "name": "任天堂",
+     "ticker": "7974",
+     "stance": "bullish",
+     "timestamp": "30:19"
+    },
+    {
+     "name": "東京エレクトロン",
+     "ticker": "8035",
+     "stance": "bearish",
+     "timestamp": "29:46"
+    },
+    {
+     "name": "Amazon.com",
+     "ticker": "AMZN",
+     "stance": "bullish",
+     "timestamp": "33:42"
     }
    ]
   },
