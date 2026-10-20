@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T19:38:16.607250+00:00",
+ "updated_at": "2026-10-20T20:29:26.559606+00:00",
  "symbols": {
   "JP:1111": {
    "date": "2026-08-17",
@@ -13487,22 +13487,21 @@
    "fetched_at": "2026-10-20T15:23:48.946488+00:00"
   },
   "US:AMZN": {
-   "date": "2026-10-19",
-   "close": 262.45,
-   "change_pct": 4.98,
-   "live": 262.48,
-   "live_change_pct": 0.01,
-   "live_time": 1792524589,
-   "volume": 56188800,
-   "volume_ratio": 1.52,
-   "rsi14": 57.3,
+   "date": "2026-10-20",
+   "close": 262.63,
+   "change_pct": 0.07,
+   "live": null,
+   "live_change_pct": null,
+   "live_time": null,
+   "volume": 34435852,
+   "volume_ratio": 0.93,
+   "rsi14": 57.4,
    "rsi_zone": "中立",
-   "ma25": 253.05,
-   "ma75": 254.66,
+   "ma25": 253.62,
+   "ma75": 254.91,
    "trend": "戻り歩調",
    "pos52": 75,
    "spark": [
-    262.07,
     261.06,
     260.28,
     256.26,
@@ -13541,14 +13540,15 @@
     254.08,
     254.76,
     250.0,
-    262.45
+    262.45,
+    262.63
    ],
    "currency": "USD",
    "exchange_name": "NasdaqGS",
-   "market_open": true,
+   "market_open": false,
    "symbol": "AMZN",
    "source": "yahoo",
-   "fetched_at": "2026-10-20T19:29:37.830412+00:00"
+   "fetched_at": "2026-10-20T20:29:26.559606+00:00"
   }
  }
 }
