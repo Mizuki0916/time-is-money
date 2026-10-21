@@ -1,6 +1,21 @@
 {
- "generated_at": "2026-10-21T18:23:11.400020+09:00",
+ "generated_at": "2026-10-22T00:07:07.512628+09:00",
  "videos": [
+  {
+   "video_id": "x0uDVQ8HPAA",
+   "title": "10/21【日経平均騙し上げ警戒か】日本株空売り激減で半導体株投げ売り加速。キオクシア高値掴み助かる⁉バリュー株しっかり‼️ドル円158円。米国株、ナスダック、ハイテク株上昇。仮想通貨BTC弱",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-10-21T12:42:22+00:00",
+   "overview": "",
+   "market_view": "",
+   "market": "",
+   "no_transcript": true,
+   "skip_reason": "この動画には字幕がありません",
+   "picks": []
+  },
   {
    "video_id": "5pDQlShA9pI",
    "title": "10/20【緊急.日本株空売り激減ヤバい‼️】半導体株投げ売り加速で日経平均下落続く。キオクシア高値掴み助かる⁉バリュー株強いぞ‼️ドル円158円。米国株、ナスダック、ハイテク株上昇。仮想通貨BTC弱",
@@ -53,70 +68,6 @@
      "ticker": "8306",
      "stance": "bearish",
      "timestamp": "42:00"
-    }
-   ]
-  },
-  {
-   "video_id": "88y0ggugqCw",
-   "title": "10/20【緊急.日本株空売り激減ヤバい‼️】半導体株投げ売り加速で日経平均下落続く。キオクシア高値掴み助かる⁉バリュー株強いぞ‼️ドル円158円。米国株、ナスダック、ハイテク株上昇。仮想通貨BTC弱",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-10-20T09:15:01+00:00",
-   "overview": "日経平均はAI・半導体株の投げ売りなどで続落。空売り残の急減に伴う信用倍率悪化や海外勢の動きなどの下落サインにより急落は想定通りとされる。6月高値で信用買いが溜まるキオクシアなど受給悪化銘柄には12月の期日対応や損益通算売りが重なる警戒感がある一方、金利低下に伴い出遅れバリュー株や高配当・受給良好銘柄への資金シフトが継続すると予想。2018年の相場パターンを踏まえ、年末に向け需給管理の重要性を強調している。",
-   "market_view": "信用売り残が激減し買い残過多と需給が悪化する中、米国株優位の展開や金利低下によるバリュー株へのセクターローテーションが進むと分析。",
-   "market": "MIX",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "キオクシアホールディングス",
-     "ticker": "285A",
-     "stance": "bearish",
-     "timestamp": "02:26"
-    },
-    {
-     "name": "フジクラ",
-     "ticker": "5803",
-     "stance": "bearish",
-     "timestamp": "02:26"
-    },
-    {
-     "name": "古河電気工業",
-     "ticker": "5801",
-     "stance": "bearish",
-     "timestamp": "02:26"
-    },
-    {
-     "name": "オリエンタルランド",
-     "ticker": "4661",
-     "stance": "bullish",
-     "timestamp": "14:35"
-    },
-    {
-     "name": "ファーストリテーリング",
-     "ticker": "9983",
-     "stance": "bullish",
-     "timestamp": "29:28"
-    },
-    {
-     "name": "任天堂",
-     "ticker": "7974",
-     "stance": "bullish",
-     "timestamp": "30:19"
-    },
-    {
-     "name": "東京エレクトロン",
-     "ticker": "8035",
-     "stance": "bearish",
-     "timestamp": "29:46"
-    },
-    {
-     "name": "Amazon.com",
-     "ticker": "AMZN",
-     "stance": "bullish",
-     "timestamp": "33:42"
     }
    ]
   },

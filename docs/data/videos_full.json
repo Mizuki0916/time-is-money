@@ -1,6 +1,23 @@
 {
  "videos": [
   {
+   "video_id": "x0uDVQ8HPAA",
+   "title": "10/21【日経平均騙し上げ警戒か】日本株空売り激減で半導体株投げ売り加速。キオクシア高値掴み助かる⁉バリュー株しっかり‼️ドル円158円。米国株、ナスダック、ハイテク株上昇。仮想通貨BTC弱",
+   "published": "2026-10-21T12:42:22+00:00",
+   "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "no_transcript": true,
+   "skip_reason": "この動画には字幕がありません",
+   "attempts": 1,
+   "overview": "",
+   "market_view": "",
+   "market": "",
+   "picks": []
+  },
+  {
    "video_id": "5pDQlShA9pI",
    "title": "10/20【緊急.日本株空売り激減ヤバい‼️】半導体株投げ売り加速で日経平均下落続く。キオクシア高値掴み助かる⁉バリュー株強いぞ‼️ドル円158円。米国株、ナスダック、ハイテク株上昇。仮想通貨BTC弱",
    "published": "2026-10-20T12:37:30+00:00",
@@ -16,159 +33,6 @@
    "market_view": "",
    "market": "",
    "picks": []
-  },
-  {
-   "video_id": "88y0ggugqCw",
-   "title": "10/20【緊急.日本株空売り激減ヤバい‼️】半導体株投げ売り加速で日経平均下落続く。キオクシア高値掴み助かる⁉バリュー株強いぞ‼️ドル円158円。米国株、ナスダック、ハイテク株上昇。仮想通貨BTC弱",
-   "published": "2026-10-20T09:15:01+00:00",
-   "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "日経平均はAI・半導体株の投げ売りなどで続落。空売り残の急減に伴う信用倍率悪化や海外勢の動きなどの下落サインにより急落は想定通りとされる。6月高値で信用買いが溜まるキオクシアなど受給悪化銘柄には12月の期日対応や損益通算売りが重なる警戒感がある一方、金利低下に伴い出遅れバリュー株や高配当・受給良好銘柄への資金シフトが継続すると予想。2018年の相場パターンを踏まえ、年末に向け需給管理の重要性を強調している。",
-   "market_view": "信用売り残が激減し買い残過多と需給が悪化する中、米国株優位の展開や金利低下によるバリュー株へのセクターローテーションが進むと分析。",
-   "market": "MIX",
-   "picks": [
-    {
-     "name": "キオクシアホールディングス",
-     "name_en": "Kioxia Holdings Corporation",
-     "ticker": "285A",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "信用期日と損益通算売り重なり難調",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "6月高値付近で購入した信用買いの半年期日が12月下旬に迫り、売り圧力が強まりやすい。",
-      "12月特有の損益通算に伴う節税売りや全体的な需給悪化が重なり年末にかけて上値が重い。"
-     ],
-     "timestamp": "02:26",
-     "confidence": "high"
-    },
-    {
-     "name": "フジクラ",
-     "name_en": "Fujikura Ltd.",
-     "ticker": "5803",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "需給悪化で下落トレンドが継続",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "AI半導体関連株の全般的な投げ売り加速に巻き込まれ、下落トレンドが継続している。",
-      "下降方向へのバンドウォークが形成されており、需給悪化から押し目買いが入りにくい。"
-     ],
-     "timestamp": "02:26",
-     "confidence": "medium"
-    },
-    {
-     "name": "古河電気工業",
-     "name_en": "Furukawa Electric Co., Ltd.",
-     "ticker": "5801",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "信用買残が多く下落基調",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "信用買残が多く需給が悪化しているため、マーケットの下落局面で叩かれやすい状況。",
-      "ハイテク・AI半導体セクターの投げ売り傾向に連れ安し、株価の戻りが鈍くなっている。"
-     ],
-     "timestamp": "02:26",
-     "confidence": "medium"
-    },
-    {
-     "name": "オリエンタルランド",
-     "name_en": "Oriental Land Co., Ltd.",
-     "ticker": "4661",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "需給が軽くバンドウォークで上昇",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "信用取引の需給関係が非常に軽い状態にあるため、全体相場が下落する中でも買われている。",
-      "チャート上でバンドウォークが発生しており、トレンドに従った継続的な上昇サインが点灯。"
-     ],
-     "timestamp": "14:35",
-     "confidence": "medium"
-    },
-    {
-     "name": "ファーストリテーリング",
-     "name_en": "Fast Retailing Co., Ltd.",
-     "ticker": "9983",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "日経平均を牽引し強烈に上昇",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "日経平均が下落する局面において、一銘柄で大きく指数を押し上げる寄与度1位となった。",
-      "バンドウォークによる強力な上昇トレンドが点灯しており、堅調な買戻しが続いている。"
-     ],
-     "timestamp": "29:28",
-     "confidence": "medium"
-    },
-    {
-     "name": "任天堂",
-     "name_en": "Nintendo Co., Ltd.",
-     "ticker": "7974",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "ゴールデンクロス形成で買戻し優位",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "移動平均線等のゴールデンクロスを形成しており、バンドウォークに似た上昇傾向を示す。",
-      "金利低下に伴い出遅れバリュー株や需給の良い銘柄への資金シフトが追い風となっている。"
-     ],
-     "timestamp": "30:19",
-     "confidence": "medium"
-    },
-    {
-     "name": "東京エレクトロン",
-     "name_en": "Tokyo Electron Limited",
-     "ticker": "8035",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "需給悪化で年末に向け調整懸念",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "日経平均の下落寄与度上位となり、信用買残の増加による需給悪化が株価の重石となる。",
-      "過去のスーパーサイクル同様に、12月の損益通算最終日まで信用投げ売りが出やすい環境。"
-     ],
-     "timestamp": "29:46",
-     "confidence": "medium"
-    },
-    {
-     "name": "Amazon.com",
-     "name_en": "Amazon.com, Inc.",
-     "ticker": "AMZN",
-     "market": "US",
-     "stance": "bullish",
-     "stance_note": "米ハイテク株の中で強烈な上昇",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "昨晩の米国市場で約5%の大幅高となり、情報通信や一般消費財セクターの上昇を牽引。",
-      "ガーファムなどの大手ハイテク株の中で力強い買いが入っており、株価を押し上げている。"
-     ],
-     "timestamp": "33:42",
-     "confidence": "medium"
-    }
-   ]
   },
   {
    "video_id": "9LI79qL4reA",
