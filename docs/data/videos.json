@@ -1,6 +1,122 @@
 {
- "generated_at": "2026-10-23T03:17:06.767927+09:00",
+ "generated_at": "2026-10-23T08:38:59.013173+09:00",
  "videos": [
+  {
+   "video_id": "Lm0ML80rclQ",
+   "title": "10/22【緊急事態,日経平均1713円大暴落‼】半導体株投げ売り加速ヤバい‼海外勢も日本株大量売却。キオクシア高値掴み助かる⁉ドル円157円。米国株、ナスダック、ハイテク株大荒れか⁉仮想通貨BTC弱",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-10-22T17:23:45+00:00",
+   "overview": "日経平均が1700円超の大暴落となる中、半導体株を中心に急落が加速した相場展開について解説しています。一方で、信用需給が良い銘柄や出遅れバリュー株、ソフトウェア関連などへ資金が向かうセクターローテーションが発生していると指摘。高値で捕まった信用買い残が多い銘柄は年末にかけて戻り売りが警戒されるため、安易な押し目買いを避け、データに基づいた二極化相場への立ち回りを推奨しています。",
+   "market_view": "半導体株の投げ売りにより全面安に見えるものの、実際はグロース株からバリュー株へのセクターローテーションであり二極化が進行中。信用倍率が高止まりしている需給悪化銘柄は年末に向けて弱含みやすい一方、需給が良い銘柄や初動を捉えた銘柄を見極める必要があります。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "レーザーテック",
+     "ticker": "6920",
+     "stance": "bearish",
+     "timestamp": "04:01"
+    },
+    {
+     "name": "キオクシアホールディングス",
+     "ticker": "285A",
+     "stance": "bearish",
+     "timestamp": "07:25"
+    },
+    {
+     "name": "SCREENホールディングス",
+     "ticker": "7735",
+     "stance": "bearish",
+     "timestamp": "10:06"
+    },
+    {
+     "name": "村田製作所",
+     "ticker": "6981",
+     "stance": "bearish",
+     "timestamp": "12:45"
+    },
+    {
+     "name": "アドバンテスト",
+     "ticker": "6857",
+     "stance": "bearish",
+     "timestamp": "16:55"
+    },
+    {
+     "name": "ディスコ",
+     "ticker": "6146",
+     "stance": "neutral",
+     "timestamp": "19:25"
+    },
+    {
+     "name": "ニデック",
+     "ticker": "6594",
+     "stance": "bearish",
+     "timestamp": "21:21"
+    },
+    {
+     "name": "ソニーグループ",
+     "ticker": "6758",
+     "stance": "bullish",
+     "timestamp": "55:43"
+    }
+   ]
+  },
+  {
+   "video_id": "VH_dH6rfOIU",
+   "title": "【日経平均】 大幅下落 安値更新 セリクラの始まりか サンディスク・キオクシア・太陽誘電・三井金属・山岡家",
+   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+   "channel_name": "Trader's Lab",
+   "channel_short": "TL",
+   "slot": 1,
+   "published": "2026-10-22T11:24:50+00:00",
+   "overview": "日経平均が6万3000円を割り込み大幅下落する中、AI・半導体関連株の減速懸念や需給悪化により相場全体の下落リスクが高まっている状況を解説しています。個別銘柄ではキオクシアや太陽誘電、三井金属といった主要銘柄が安値を更新するなど厳しい展開が続く一方、外食関連の山岡家は逆行高を見せています。現在は中長期での買い時ではなく、リスク管理と現金比率の確保が最優先であると強調しています。",
+   "market_view": "日経平均はサポートラインを割り込み明確な下落トレンドへ入っており、6万円前後に向けた下落やセリングクライマックスに警戒が必要です。",
+   "market": "MIX",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "日経平均株価",
+     "ticker": "1321",
+     "stance": "bearish",
+     "timestamp": "00:02"
+    },
+    {
+     "name": "サンディスク",
+     "ticker": "SNDK",
+     "stance": "bearish",
+     "timestamp": "32:58"
+    },
+    {
+     "name": "キオクシア",
+     "ticker": "285A",
+     "stance": "bearish",
+     "timestamp": "33:47"
+    },
+    {
+     "name": "太陽誘電",
+     "ticker": "6976",
+     "stance": "bearish",
+     "timestamp": "38:23"
+    },
+    {
+     "name": "三井金属",
+     "ticker": "5706",
+     "stance": "bearish",
+     "timestamp": "41:06"
+    },
+    {
+     "name": "丸千代山岡家",
+     "ticker": "3399",
+     "stance": "bullish",
+     "timestamp": "44:44"
+    }
+   ]
+  },
   {
    "video_id": "x0uDVQ8HPAA",
    "title": "10/21【日経平均騙し上げ警戒か】日本株空売り激減で半導体株投げ売り加速。キオクシア高値掴み助かる⁉バリュー株しっかり‼️ドル円158円。米国株、ナスダック、ハイテク株上昇。仮想通貨BTC弱",
@@ -9,21 +125,6 @@
    "channel_short": "Sho",
    "slot": 3,
    "published": "2026-10-21T12:42:22+00:00",
-   "overview": "",
-   "market_view": "",
-   "market": "",
-   "no_transcript": true,
-   "skip_reason": "この動画には字幕がありません",
-   "picks": []
-  },
-  {
-   "video_id": "5pDQlShA9pI",
-   "title": "10/20【緊急.日本株空売り激減ヤバい‼️】半導体株投げ売り加速で日経平均下落続く。キオクシア高値掴み助かる⁉バリュー株強いぞ‼️ドル円158円。米国株、ナスダック、ハイテク株上昇。仮想通貨BTC弱",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-10-20T12:37:30+00:00",
    "overview": "",
    "market_view": "",
    "market": "",
@@ -68,46 +169,6 @@
      "ticker": "8306",
      "stance": "bearish",
      "timestamp": "42:00"
-    }
-   ]
-  },
-  {
-   "video_id": "ne8rj_AgRgM",
-   "title": "【日経平均】 暴落終了？ それともまだ下落？ こう考える サンディスク・キオクシア・アドバンテスト・ノースサンド・山岡家",
-   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-   "channel_name": "Trader's Lab",
-   "channel_short": "TL",
-   "slot": 1,
-   "published": "2026-10-19T11:09:05+00:00",
-   "overview": "動画では、週明けの日本株および米国株市場の動向を分析し、日経平均株価の今後の下値リスクや注意点を解説しています。AI半導体関連の失速や原油高が警戒される中、個別銘柄としてキオクシア、アドバンテスト、ノースサンド、山岡家の4銘柄をピックアップし、テクニカル分析や需給面からそれぞれの見通しを詳しく検証しています。",
-   "market_view": "日経平均は反発したもののPER17倍の水準が抵抗線となっており、下値ラインを割れ込んだ場合は調整が長引くリスクがあるため警戒が必要です。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "キオクシア",
-     "ticker": "285A",
-     "stance": "bearish",
-     "timestamp": "27:50"
-    },
-    {
-     "name": "アドバンテスト",
-     "ticker": "6857",
-     "stance": "bearish",
-     "timestamp": "33:52"
-    },
-    {
-     "name": "ノースサンド",
-     "ticker": "",
-     "stance": "bullish",
-     "timestamp": "37:25"
-    },
-    {
-     "name": "山岡家",
-     "ticker": "3399",
-     "stance": "bullish",
-     "timestamp": "39:09"
     }
    ]
   },

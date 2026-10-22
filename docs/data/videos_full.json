@@ -1,6 +1,159 @@
 {
  "videos": [
   {
+   "video_id": "Lm0ML80rclQ",
+   "title": "10/22【緊急事態,日経平均1713円大暴落‼】半導体株投げ売り加速ヤバい‼海外勢も日本株大量売却。キオクシア高値掴み助かる⁉ドル円157円。米国株、ナスダック、ハイテク株大荒れか⁉仮想通貨BTC弱",
+   "published": "2026-10-22T17:23:45+00:00",
+   "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "日経平均が1700円超の大暴落となる中、半導体株を中心に急落が加速した相場展開について解説しています。一方で、信用需給が良い銘柄や出遅れバリュー株、ソフトウェア関連などへ資金が向かうセクターローテーションが発生していると指摘。高値で捕まった信用買い残が多い銘柄は年末にかけて戻り売りが警戒されるため、安易な押し目買いを避け、データに基づいた二極化相場への立ち回りを推奨しています。",
+   "market_view": "半導体株の投げ売りにより全面安に見えるものの、実際はグロース株からバリュー株へのセクターローテーションであり二極化が進行中。信用倍率が高止まりしている需給悪化銘柄は年末に向けて弱含みやすい一方、需給が良い銘柄や初動を捉えた銘柄を見極める必要があります。",
+   "market": "JP",
+   "picks": [
+    {
+     "name": "レーザーテック",
+     "name_en": "Lasertec Corporation",
+     "ticker": "6920",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "急落継続中で反転の兆しなし",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "本日6%超の急落となっており、信用倍率4.33倍と需給が重くチャート上も反転の兆しが見られないため。",
+      "2018年の相場パターンと酷似しており、この波動カウント通りなら月末付近まで押し目形成が続くため。"
+     ],
+     "timestamp": "04:01",
+     "confidence": "high"
+    },
+    {
+     "name": "キオクシアホールディングス",
+     "name_en": "Kioxia Holdings Corporation",
+     "ticker": "285A",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "信用需給悪化で買手含み損拡大",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "株価が6.77%急落し、信用倍率が23.21倍と依然として非常に悪い需給バランスが続いているため。",
+      "直近安値を割り込んだことで信用買い層が含み損を抱えており、来週の決算発表まで弱含みやすいため。"
+     ],
+     "timestamp": "07:25",
+     "confidence": "high"
+    },
+    {
+     "name": "SCREENホールディングス",
+     "name_en": "SCREEN Holdings Co., Ltd.",
+     "ticker": "7735",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "バンドウォークに伴う下落進行",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "8.33%の急落となっており、下落方向へのバンドウォークが進行しているテクニカル形状であるため。",
+      "バンドウォーク終了サインがチャート上で確認されるまでは下がり続けるパターンに警戒が必要なため。"
+     ],
+     "timestamp": "10:06",
+     "confidence": "medium"
+    },
+    {
+     "name": "村田製作所",
+     "name_en": "Murata Manufacturing Co., Ltd.",
+     "ticker": "6981",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "200日線攻防と信用買残高高",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "200日移動平均線付近まで下落しているものの、下げ止まりや反転を示すテクニカルサインが出ていないため。",
+      "信用倍率が8.75倍で買残が多く捕まっている層が厚いため、節目を割ると投げ売りが加速する恐れがあるため。"
+     ],
+     "timestamp": "12:45",
+     "confidence": "medium"
+    },
+    {
+     "name": "アドバンテスト",
+     "name_en": "Advantest Corporation",
+     "ticker": "6857",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "急落傾向で需給ボーナス終了",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "直近2週間で20%近く下落しており、以前のような買い優勢の需給ボーナス期が終了しているため。",
+      "信用倍率が7.16倍と高止まりしており、上値の重い展開が継続しやすい環境にあるため。"
+     ],
+     "timestamp": "16:55",
+     "confidence": "medium"
+    },
+    {
+     "name": "ディスコ",
+     "name_en": "DISCO Corporation",
+     "ticker": "6146",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "好決算でも戻り売りに警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "時間外PTSで買われているものの、半導体セクター全体の需給の重さが上値を抑える懸念があるため。",
+      "日本株においては好決算であっても需給悪化が優先されて売り叩かれる場面が多いため慎重姿勢が必要。"
+     ],
+     "timestamp": "19:25",
+     "confidence": "medium"
+    },
+    {
+     "name": "ニデック",
+     "name_en": "Nidec Corporation",
+     "ticker": "6594",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "不正問題と需給悪化で投資対象外",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "不正問題の発覚により投資対象外と判断しており、長期的なチャート形状も崩れているため。",
+      "信用倍率が25.21倍と極めて悪く大量の買い残が残っているため、決算を迎えても上値が重いため。"
+     ],
+     "timestamp": "21:21",
+     "confidence": "medium"
+    },
+    {
+     "name": "ソニーグループ",
+     "name_en": "Sony Group Corporation",
+     "ticker": "6758",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "バンドウォーク伴う強い上昇継続",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "全体の暴落局面において1.72%上昇し年初来高値圏まで買われるなど資金の逃避先として機能しているため。",
+      "ボリンジャーバンドの上軌条に沿った強いバンドウォークを形成しており上昇トレンドが継続しているため。"
+     ],
+     "timestamp": "55:43",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
    "video_id": "x0uDVQ8HPAA",
    "title": "10/21【日経平均騙し上げ警戒か】日本株空売り激減で半導体株投げ売り加速。キオクシア高値掴み助かる⁉バリュー株しっかり‼️ドル円158円。米国株、ナスダック、ハイテク株上昇。仮想通貨BTC弱",
    "published": "2026-10-21T12:42:22+00:00",
@@ -18,21 +171,122 @@
    "picks": []
   },
   {
-   "video_id": "5pDQlShA9pI",
-   "title": "10/20【緊急.日本株空売り激減ヤバい‼️】半導体株投げ売り加速で日経平均下落続く。キオクシア高値掴み助かる⁉バリュー株強いぞ‼️ドル円158円。米国株、ナスダック、ハイテク株上昇。仮想通貨BTC弱",
-   "published": "2026-10-20T12:37:30+00:00",
-   "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "no_transcript": true,
-   "skip_reason": "この動画には字幕がありません",
-   "attempts": 1,
-   "overview": "",
-   "market_view": "",
-   "market": "",
-   "picks": []
+   "video_id": "VH_dH6rfOIU",
+   "title": "【日経平均】 大幅下落 安値更新 セリクラの始まりか サンディスク・キオクシア・太陽誘電・三井金属・山岡家",
+   "published": "2026-10-22T11:24:50+00:00",
+   "description": "※動画の趣旨は個人的主観の予測であり、値動きを保証するものではありません。\n　投資の判断は自己責任でお願いします。\n\n◉セミナーお申し込み\nhttps://sakura-inv.com/seminar/20261028/\n\n◉トレンド分析の基礎おすすめ動画\n【永久保存版】初心者でもわかるダウ理論の使い方【前編】\nhttps://youtu.be/re9XBR2qcBw\n【永久保存版】初心者でもわかるダウ理論の使い方【後編】\nhttps://youtu.be/Z21W4VFSs9g\n【知らなきゃ勝てない】移動平均線で相場を読む最強の方法\nhttps://youtu.be/FfSX8hcRR2I\n【一目均衡表の真髄】初心者でも分かる完全ガイド\nhttps://youtu.be/xPkb1twTFFI\n\n◉SBI証券株式会社キャンペーン　手数料無料、取引ツール便利PR\nhttps://h.acc",
+   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+   "channel_name": "Trader's Lab",
+   "channel_short": "TL",
+   "slot": 1,
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "日経平均が6万3000円を割り込み大幅下落する中、AI・半導体関連株の減速懸念や需給悪化により相場全体の下落リスクが高まっている状況を解説しています。個別銘柄ではキオクシアや太陽誘電、三井金属といった主要銘柄が安値を更新するなど厳しい展開が続く一方、外食関連の山岡家は逆行高を見せています。現在は中長期での買い時ではなく、リスク管理と現金比率の確保が最優先であると強調しています。",
+   "market_view": "日経平均はサポートラインを割り込み明確な下落トレンドへ入っており、6万円前後に向けた下落やセリングクライマックスに警戒が必要です。",
+   "market": "MIX",
+   "picks": [
+    {
+     "name": "日経平均株価",
+     "name_en": "Nikkei 225",
+     "ticker": "1321",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "6万円台への下落を警戒し様子見徹底",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "6万3000円割れで安値を更新しており、現物・先物ともに下落トレンドが強まり6万円付近を目指す展開を警戒。",
+      "海外勢の売り越しや高水準な信用改ざんなど需給悪化が続いており、短期的にクラッシュが起きやすい環境が揃っている。"
+     ],
+     "timestamp": "00:02",
+     "confidence": "high"
+    },
+    {
+     "name": "サンディスク",
+     "name_en": "SanDisk",
+     "ticker": "SNDK",
+     "market": "US",
+     "stance": "bearish",
+     "stance_note": "直近安値割り込みによる下値模索を警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "直近安値付近まで下落しており、この水準を割り込むと7月末につけた安値水準まで調整が深まるリスクがある。"
+     ],
+     "timestamp": "32:58",
+     "confidence": "medium"
+    },
+    {
+     "name": "キオクシア",
+     "name_en": "Kioxia Holdings",
+     "ticker": "285A",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "安値更新で下落加速のリスクが高まり警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "直近安値を下抜けて安値更新となっており、1万2000円を割り込むと出来高の薄い価格帯に入り下落が加速する懸念がある。",
+      "信用改ざんが高水準のまま維持されており需給面で悪化しているため、上値が重く買い保有は危険な状態。"
+     ],
+     "timestamp": "33:47",
+     "confidence": "high"
+    },
+    {
+     "name": "太陽誘電",
+     "name_en": "Taiyo Yuden",
+     "ticker": "6976",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "200日線割れと安値下抜けへの警戒が必要",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "75日移動平均線がレジスタンスとなり下落が続いており、9月安値の8320円や200日線を割り込むと買い手全員が含み損になる。",
+      "機関投資家やヘッジファンドの空売り・売買が激しく荒い値動きが続いており、中長期での跨ぎ保有はリスクが高い。"
+     ],
+     "timestamp": "38:23",
+     "confidence": "medium"
+    },
+    {
+     "name": "三井金属",
+     "name_en": "Mitsui Mining and Smelting",
+     "ticker": "5706",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "三役逆転で下落トレンドが継続し警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "1ヶ月前の安値を更新し週足で雲抜けの三役逆転が確定しており、明確な下落トレンドで戻り売りに押されやすい形状。",
+      "外資系証券大口による大量の売り崩しが積み上がっており、需給面での悪化が株価の強烈な重石となっている。"
+     ],
+     "timestamp": "41:06",
+     "confidence": "medium"
+    },
+    {
+     "name": "丸千代山岡家",
+     "name_en": "Maruchiyo Yamaokaya",
+     "ticker": "3399",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "外食関連への資金流入で連日高値を更新",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "政策面での消費減税支援策の検討などを背景に外食関連株へ資金が流入しており、16日連続上昇と非常に強気な推移。",
+      "月足・週足チャートで綺麗な右肩上がりのトレンドを形成しており、短期的過熱感はあるものの保有継続が選択肢となる強さ。"
+     ],
+     "timestamp": "44:44",
+     "confidence": "medium"
+    }
+   ]
   },
   {
    "video_id": "9LI79qL4reA",
@@ -116,91 +370,6 @@
      ],
      "timestamp": "42:00",
      "confidence": "medium"
-    }
-   ]
-  },
-  {
-   "video_id": "ne8rj_AgRgM",
-   "title": "【日経平均】 暴落終了？ それともまだ下落？ こう考える サンディスク・キオクシア・アドバンテスト・ノースサンド・山岡家",
-   "published": "2026-10-19T11:09:05+00:00",
-   "description": "※動画の趣旨は個人的主観の予測であり、値動きを保証するものではありません。\n　投資の判断は自己責任でお願いします。\n\n◉セミナーお申し込み\nhttps://sakura-inv.com/seminar/20261028/\n\n◉トレンド分析の基礎おすすめ動画\n【永久保存版】初心者でもわかるダウ理論の使い方【前編】\nhttps://youtu.be/re9XBR2qcBw\n【永久保存版】初心者でもわかるダウ理論の使い方【後編】\nhttps://youtu.be/Z21W4VFSs9g\n【知らなきゃ勝てない】移動平均線で相場を読む最強の方法\nhttps://youtu.be/FfSX8hcRR2I\n【一目均衡表の真髄】初心者でも分かる完全ガイド\nhttps://youtu.be/xPkb1twTFFI\n\n◉SBI証券株式会社キャンペーン　手数料無料、取引ツール便利PR\nhttps://h.acc",
-   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-   "channel_name": "Trader's Lab",
-   "channel_short": "TL",
-   "slot": 1,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "動画では、週明けの日本株および米国株市場の動向を分析し、日経平均株価の今後の下値リスクや注意点を解説しています。AI半導体関連の失速や原油高が警戒される中、個別銘柄としてキオクシア、アドバンテスト、ノースサンド、山岡家の4銘柄をピックアップし、テクニカル分析や需給面からそれぞれの見通しを詳しく検証しています。",
-   "market_view": "日経平均は反発したもののPER17倍の水準が抵抗線となっており、下値ラインを割れ込んだ場合は調整が長引くリスクがあるため警戒が必要です。",
-   "market": "JP",
-   "picks": [
-    {
-     "name": "キオクシア",
-     "name_en": "Kioxia Holdings",
-     "ticker": "285A",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "需給悪化と下落トレンドで厳しい展開",
-     "target_price": "",
-     "entry": "5600円〜8000円のゾーン",
-     "stop": "",
-     "reasons": [
-      "株式分割後に出来高が半減しており、本格的な買いが入らず売り物が減ったことによる自律反発に過ぎないため。",
-      "日足チャートでマイナス2シグマに沿ったバンドウォークが続いており、モメンタム悪化が顕著であるため。"
-     ],
-     "timestamp": "27:50",
-     "confidence": "high"
-    },
-    {
-     "name": "アドバンテスト",
-     "name_en": "Advantest Corporation",
-     "ticker": "6857",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "押し目を待つのが無難なチャート形状",
-     "target_price": "",
-     "entry": "2万8000円〜3万円付近",
-     "stop": "",
-     "reasons": [
-      "直近の下落幅を戻しきれておらず、日経平均の主力株として上値の重い弱気な動きが続いているため。",
-      "現在の水準で買うより、9月安値やサポートとなる上向きの200日移動平均線付近まで下落した局面を狙う方が安全なため。"
-     ],
-     "timestamp": "33:52",
-     "confidence": "high"
-    },
-    {
-     "name": "ノースサンド",
-     "name_en": "Northsand",
-     "ticker": "",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "高値更新中で中期的に上昇トレンド継続",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "好決算を背景に上場来高値を更新しており、逆行高を見せるなど内需系銘柄として強いモメンタムが続いているため。",
-      "日足や週足のボリンジャーバンドで綺麗な上昇パターンを形成しており、移動平均線に沿ったサポート機能が期待できるため。"
-     ],
-     "timestamp": "37:25",
-     "confidence": "high"
-    },
-    {
-     "name": "山岡家",
-     "name_en": "Maruchiyo Yamaokaya",
-     "ticker": "3399",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "飲食系内需株として上場来高値更新中",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "店舗出店のお知らせなど良好な開示資料を背景に飲食セクター全般の強さが目立ち、上場来高値を更新しているため。",
-      "短期的な加熱感は見られるものの、中長期のタイムフレームでは綺麗な右肩上がりの上昇トレンドが維持されているため。"
-     ],
-     "timestamp": "39:09",
-     "confidence": "high"
     }
    ]
   },
