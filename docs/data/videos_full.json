@@ -1,6 +1,108 @@
 {
  "videos": [
   {
+   "video_id": "OagDeuhZ6k4",
+   "title": "10/23【日経平均大暴落‼】半導体株投げ売り加速ヤバい‼海外勢も日本株大量売却。キオクシア高値掴み助かる⁉ドル円157円。米国株、ナスダック、ハイテク株大荒れか⁉仮想通貨BTC弱",
+   "published": "2026-10-23T15:50:14+00:00",
+   "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "日経平均や半導体株の急落後の自律反発・ショートカバーの動きを分析しつつ、株式市場全体の需給動向やセクターローテーションについて解説しています。個別銘柄では受給悪化が懸念されるキオクシアやIHIへの警戒感を示す一方、需給整理が進む任天堂や出遅れバリュー株の住友林業、三菱地所などの買い推奨・長期保有姿勢を提示しています。年末に向けた慎重な資金管理とトータルリターンを意識した立ち回りを強く促しています。",
+   "market_view": "半導体株の短期的な買い戻しは見られるものの信用受給の改善が鈍く、米国市場も含めたローテーションの中で年末に向けて不透明感が強まるため慎重な立ち回りが求められます。",
+   "market": "MIX",
+   "picks": [
+    {
+     "name": "キオクシアホールディングス",
+     "name_en": "Kioxia Holdings Corporation",
+     "ticker": "285A",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "信用買い増加による受給悪化と戻り売りに警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "信用買残が大幅に増加して需給が悪化しており、高値で捕まっている投資家が多いため上値が非常に重い展開が予想される。",
+      "短期的なショートカバーによるリバウンドは見られるものの、本質的な需給改善が見られないため戻り売り圧力に注意が必要である。"
+     ],
+     "timestamp": "03:22",
+     "confidence": "medium"
+    },
+    {
+     "name": "任天堂",
+     "name_en": "Nintendo Co., Ltd.",
+     "ticker": "7974",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "安値保有者は長期継続、逆ヘッドアンドショルダーに注目",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "信用買残が減少して需給整理が進んでおり、9000円台の高値掴み勢の売りが一巡すれば上値が軽くなる良好な地合い。",
+      "逆ヘッドアンドショルダーの完成や決算発表に向けたゴールデンクロス形成など、テクニカル面でも良好な形状が期待できる。"
+     ],
+     "timestamp": "09:30",
+     "confidence": "high"
+    },
+    {
+     "name": "IHI",
+     "name_en": "IHI Corporation",
+     "ticker": "7013",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "信用倍率が極めて高く決算通過まで重い値動きを想定",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "信用倍率が30倍を超えて信用買残が一向に減らないため、業績好調以前に需給面での悪影響が株価の上値を強く抑え込んでいる。",
+      "高値掴みの戻り売り圧力が非常に強いため、決算で超絶決算等の強い材料が出ない限りは年末にかけて調整含みの展開が続く。"
+     ],
+     "timestamp": "14:33",
+     "confidence": "high"
+    },
+    {
+     "name": "住友林業",
+     "name_en": "Sumitomo Forestry Co., Ltd.",
+     "ticker": "1911",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "出遅れバリュー株として好調、安値保有者は長期継続",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "RSIの上抜けやMACDのダイバージェンス効果が表れており、安値圏からの底打ち反転を示唆する強いテクニカル形状を描いている。",
+      "出遅れバリュー銘柄として資金が流入しており、安い株価帯で拾えている場合は半年から1年程度の長期的視点で保有継続が有効。"
+     ],
+     "timestamp": "20:15",
+     "confidence": "medium"
+    },
+    {
+     "name": "三菱地所",
+     "name_en": "Mitsubishi Estate Co., Ltd.",
+     "ticker": "8802",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "バンドウォーク進行中、ダイバージェンス効果で上昇傾向",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "下値抵抗線の切り上がりやMACDのゴールデンクロス形成により、テクニカル面で教科書通りの底打ち・反転上昇のシグナルが出ている。",
+      "バンドウォークを伴う強い上昇トレンドが続いており、断続的な移動平均線のゴールデンクロス形成により上値追いが期待できる。"
+     ],
+     "timestamp": "36:35",
+     "confidence": "medium"
+    }
+   ]
+  },
+  {
    "video_id": "Lm0ML80rclQ",
    "title": "10/22【緊急事態,日経平均1713円大暴落‼】半導体株投げ売り加速ヤバい‼海外勢も日本株大量売却。キオクシア高値掴み助かる⁉ドル円157円。米国株、ナスダック、ハイテク株大荒れか⁉仮想通貨BTC弱",
    "published": "2026-10-22T17:23:45+00:00",
@@ -152,23 +254,6 @@
      "confidence": "high"
     }
    ]
-  },
-  {
-   "video_id": "x0uDVQ8HPAA",
-   "title": "10/21【日経平均騙し上げ警戒か】日本株空売り激減で半導体株投げ売り加速。キオクシア高値掴み助かる⁉バリュー株しっかり‼️ドル円158円。米国株、ナスダック、ハイテク株上昇。仮想通貨BTC弱",
-   "published": "2026-10-21T12:42:22+00:00",
-   "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "no_transcript": true,
-   "skip_reason": "この動画には字幕がありません",
-   "attempts": 1,
-   "overview": "",
-   "market_view": "",
-   "market": "",
-   "picks": []
   },
   {
    "video_id": "VH_dH6rfOIU",

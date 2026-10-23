@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T08:32:56.072841+09:00",
+ "generated_at": "2026-10-24T08:42:44.505024+09:00",
  "channels": [
   {
    "id": "UCsaeHha7ai_NNX8or8Jyb-g",
@@ -23,7 +23,7 @@
    "short": "Sho",
    "slot": 3,
    "video_count": 2,
-   "latest": "2026-10-22T17:23:45+00:00"
+   "latest": "2026-10-23T15:50:14+00:00"
   },
   {
    "id": "UCt7qqCkTFFRfKjXzwqUXq4g",
@@ -35,12 +35,12 @@
   }
  ],
  "stats": {
-  "stocks": 28,
-  "videos": 7,
-  "videos_this_week": 5,
-  "bullish_lead": 15,
+  "stocks": 32,
+  "videos": 8,
+  "videos_this_week": 6,
+  "bullish_lead": 18,
   "split": 3,
-  "skipped": 1
+  "skipped": 0
  },
  "stocks": [
   {
@@ -150,22 +150,21 @@
     "UCt7qqCkTFFRfKjXzwqUXq4g"
    ],
    "price": {
-    "date": "2026-10-22",
-    "close": 6432.0,
-    "change_pct": -4.8,
+    "date": "2026-10-23",
+    "close": 6275.0,
+    "change_pct": -2.44,
     "live": null,
     "live_change_pct": null,
     "live_time": null,
-    "volume": 21611800,
-    "volume_ratio": 1.03,
-    "rsi14": 33.6,
+    "volume": 18452300,
+    "volume_ratio": 0.88,
+    "rsi14": 32.1,
     "rsi_zone": "中立",
-    "ma25": 7680.68,
-    "ma75": 7832.13,
+    "ma25": 7645.0,
+    "ma75": 7770.8,
     "trend": "下降基調",
-    "pos52": 38,
+    "pos52": 36,
     "spark": [
-     7067.0,
      7130.0,
      7185.0,
      7309.0,
@@ -204,14 +203,15 @@
      6798.0,
      6643.0,
      6756.0,
-     6432.0
+     6432.0,
+     6275.0
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
     "market_open": false,
     "symbol": "6981.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-22T23:37:50.768951+00:00"
+    "fetched_at": "2026-10-23T23:42:44.737699+00:00"
    }
   },
   {
@@ -221,6 +221,27 @@
    "ticker": "285A",
    "market": "JP",
    "mentions": [
+    {
+     "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+     "channel_name": "Sho's投資情報局",
+     "channel_short": "Sho",
+     "slot": 3,
+     "video_id": "OagDeuhZ6k4",
+     "video_title": "10/23【日経平均大暴落‼】半導体株投げ売り加速ヤバい‼海外勢も日本株大量売却。キオクシア高値掴み助かる⁉ドル円157円。米国株、ナスダック、ハイテク株大荒れか⁉仮想通貨BTC弱",
+     "published": "2026-10-23T15:50:14+00:00",
+     "stance": "bearish",
+     "stance_note": "信用買い増加による受給悪化と戻り売りに警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "信用買残が大幅に増加して需給が悪化しており、高値で捕まっている投資家が多いため上値が非常に重い展開が予想される。",
+      "短期的なショートカバーによるリバウンドは見られるものの、本質的な需給改善が見られないため戻り売り圧力に注意が必要である。"
+     ],
+     "timestamp": "03:22",
+     "seconds": 202,
+     "confidence": "medium"
+    },
     {
      "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
      "channel_name": "Sho's投資情報局",
@@ -313,29 +334,28 @@
    },
    "voices": 3,
    "split": false,
-   "last_mentioned": "2026-10-22T17:23:45+00:00",
+   "last_mentioned": "2026-10-23T15:50:14+00:00",
    "channel_ids": [
     "UCK9Pl6bbWqMC_x7IDca2tIg",
     "UCdQdRRLoajrt-5TEaAxslxA",
     "UCsaeHha7ai_NNX8or8Jyb-g"
    ],
    "price": {
-    "date": "2026-10-22",
-    "close": 12595.0,
-    "change_pct": -6.77,
+    "date": "2026-10-23",
+    "close": 12755.0,
+    "change_pct": 1.27,
     "live": null,
     "live_change_pct": null,
     "live_time": null,
-    "volume": 58371700,
-    "volume_ratio": 0.99,
-    "rsi14": 30.6,
+    "volume": 85811000,
+    "volume_ratio": 1.46,
+    "rsi14": 31.8,
     "rsi_zone": "中立",
-    "ma25": 16597.13,
-    "ma75": 18238.69,
+    "ma25": 16432.8,
+    "ma75": 18069.82,
     "trend": "下降基調",
     "pos52": 30,
     "spark": [
-     16976.67,
      17086.67,
      16666.67,
      17500.0,
@@ -374,14 +394,15 @@
      13600.0,
      13140.0,
      13510.0,
-     12595.0
+     12595.0,
+     12755.0
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
     "market_open": false,
     "symbol": "285A.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-22T23:37:50.768951+00:00"
+    "fetched_at": "2026-10-23T23:42:44.737699+00:00"
    }
   },
   {
@@ -467,22 +488,21 @@
     "UCdQdRRLoajrt-5TEaAxslxA"
    ],
    "price": {
-    "date": "2026-10-22",
-    "close": 32370.0,
-    "change_pct": -6.01,
+    "date": "2026-10-23",
+    "close": 32340.0,
+    "change_pct": -0.09,
     "live": null,
     "live_change_pct": null,
     "live_time": null,
-    "volume": 13843100,
-    "volume_ratio": 1.01,
-    "rsi14": 39.0,
+    "volume": 17297800,
+    "volume_ratio": 1.22,
+    "rsi14": 38.9,
     "rsi_zone": "中立",
-    "ma25": 35607.6,
-    "ma75": 33175.53,
+    "ma25": 35658.0,
+    "ma75": 33222.53,
     "trend": "調整中",
     "pos52": 63,
     "spark": [
-     34500.0,
      34450.0,
      35700.0,
      34610.0,
@@ -521,14 +541,15 @@
      34450.0,
      33870.0,
      34440.0,
-     32370.0
+     32370.0,
+     32340.0
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
     "market_open": false,
     "symbol": "6857.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-22T23:37:50.768951+00:00"
+    "fetched_at": "2026-10-23T23:42:44.737699+00:00"
    }
   },
   {
@@ -594,22 +615,21 @@
     "UCdQdRRLoajrt-5TEaAxslxA"
    ],
    "price": {
-    "date": "2026-10-22",
-    "close": 51230.0,
-    "change_pct": -4.37,
+    "date": "2026-10-23",
+    "close": 49290.0,
+    "change_pct": -3.79,
     "live": null,
     "live_change_pct": null,
     "live_time": null,
-    "volume": 2075300,
-    "volume_ratio": 1.21,
-    "rsi14": 36.8,
+    "volume": 4383200,
+    "volume_ratio": 2.37,
+    "rsi14": 33.5,
     "rsi_zone": "中立",
-    "ma25": 56054.0,
-    "ma75": 60479.2,
+    "ma25": 55968.4,
+    "ma75": 60111.6,
     "trend": "下降基調",
-    "pos52": 19,
+    "pos52": 15,
     "spark": [
-     61420.0,
      60700.0,
      60610.0,
      59780.0,
@@ -648,14 +668,15 @@
      53360.0,
      52630.0,
      53570.0,
-     51230.0
+     51230.0,
+     49290.0
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
     "market_open": false,
     "symbol": "6146.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-22T23:37:50.768951+00:00"
+    "fetched_at": "2026-10-23T23:42:44.737699+00:00"
    }
   },
   {
@@ -720,22 +741,21 @@
     "UCdQdRRLoajrt-5TEaAxslxA"
    ],
    "price": {
-    "date": "2026-10-22",
-    "close": 4081.0,
-    "change_pct": 1.72,
+    "date": "2026-10-23",
+    "close": 4137.0,
+    "change_pct": 1.37,
     "live": null,
     "live_change_pct": null,
     "live_time": null,
-    "volume": 19536200,
-    "volume_ratio": 1.4,
-    "rsi14": 71.9,
+    "volume": 28752800,
+    "volume_ratio": 1.99,
+    "rsi14": 74.4,
     "rsi_zone": "買われすぎ",
-    "ma25": 3802.0,
-    "ma75": 3702.88,
+    "ma25": 3815.96,
+    "ma75": 3713.64,
     "trend": "上昇基調",
-    "pos52": 61,
+    "pos52": 65,
     "spark": [
-     3850.0,
      3832.0,
      3878.0,
      3870.0,
@@ -774,14 +794,15 @@
      3960.0,
      3960.0,
      4012.0,
-     4081.0
+     4081.0,
+     4137.0
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
     "market_open": false,
     "symbol": "6758.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-22T23:37:50.768951+00:00"
+    "fetched_at": "2026-10-23T23:42:44.737699+00:00"
    }
   },
   {
@@ -867,22 +888,21 @@
     "UCsaeHha7ai_NNX8or8Jyb-g"
    ],
    "price": {
-    "date": "2026-10-22",
-    "close": 8700.0,
-    "change_pct": -5.98,
+    "date": "2026-10-23",
+    "close": 8364.0,
+    "change_pct": -3.86,
     "live": null,
     "live_change_pct": null,
     "live_time": null,
-    "volume": 39716200,
-    "volume_ratio": 1.36,
-    "rsi14": 39.2,
+    "volume": 34610000,
+    "volume_ratio": 1.17,
+    "rsi14": 36.9,
     "rsi_zone": "中立",
-    "ma25": 9790.92,
-    "ma75": 10703.23,
+    "ma25": 9776.92,
+    "ma75": 10542.75,
     "trend": "下降基調",
-    "pos52": 29,
+    "pos52": 27,
     "spark": [
-     9149.0,
      9270.0,
      9060.0,
      8900.0,
@@ -921,14 +941,435 @@
      9582.0,
      9095.0,
      9253.0,
-     8700.0
+     8700.0,
+     8364.0
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
     "market_open": false,
     "symbol": "6976.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-22T23:37:50.768951+00:00"
+    "fetched_at": "2026-10-23T23:42:44.737699+00:00"
+   }
+  },
+  {
+   "key": "JP:7974",
+   "name": "任天堂",
+   "name_en": "Nintendo Co., Ltd.",
+   "ticker": "7974",
+   "market": "JP",
+   "mentions": [
+    {
+     "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+     "channel_name": "Sho's投資情報局",
+     "channel_short": "Sho",
+     "slot": 3,
+     "video_id": "OagDeuhZ6k4",
+     "video_title": "10/23【日経平均大暴落‼】半導体株投げ売り加速ヤバい‼海外勢も日本株大量売却。キオクシア高値掴み助かる⁉ドル円157円。米国株、ナスダック、ハイテク株大荒れか⁉仮想通貨BTC弱",
+     "published": "2026-10-23T15:50:14+00:00",
+     "stance": "bullish",
+     "stance_note": "安値保有者は長期継続、逆ヘッドアンドショルダーに注目",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "信用買残が減少して需給整理が進んでおり、9000円台の高値掴み勢の売りが一巡すれば上値が軽くなる良好な地合い。",
+      "逆ヘッドアンドショルダーの完成や決算発表に向けたゴールデンクロス形成など、テクニカル面でも良好な形状が期待できる。"
+     ],
+     "timestamp": "09:30",
+     "seconds": 570,
+     "confidence": "high"
+    }
+   ],
+   "consensus": {
+    "bullish": 1,
+    "bearish": 0,
+    "neutral": 0
+   },
+   "voices": 1,
+   "split": false,
+   "last_mentioned": "2026-10-23T15:50:14+00:00",
+   "channel_ids": [
+    "UCK9Pl6bbWqMC_x7IDca2tIg"
+   ],
+   "price": {
+    "date": "2026-10-23",
+    "close": 8539.0,
+    "change_pct": -1.84,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 10168800,
+    "volume_ratio": 1.41,
+    "rsi14": 57.9,
+    "rsi_zone": "中立",
+    "ma25": 8185.68,
+    "ma75": 8060.03,
+    "trend": "上昇基調",
+    "pos52": 26,
+    "spark": [
+     8864.0,
+     8896.0,
+     8728.0,
+     8993.0,
+     9044.0,
+     9103.0,
+     8821.0,
+     8855.0,
+     8839.0,
+     8750.0,
+     8750.0,
+     8401.0,
+     7989.0,
+     8093.0,
+     8268.0,
+     8118.0,
+     8126.0,
+     8475.0,
+     8339.0,
+     8196.0,
+     8100.0,
+     7999.0,
+     7896.0,
+     7944.0,
+     7940.0,
+     7849.0,
+     7742.0,
+     7815.0,
+     7775.0,
+     7851.0,
+     8146.0,
+     8172.0,
+     8278.0,
+     8228.0,
+     8479.0,
+     8541.0,
+     8680.0,
+     8715.0,
+     8699.0,
+     8539.0
+    ],
+    "currency": "JPY",
+    "exchange_name": "Tokyo",
+    "market_open": false,
+    "symbol": "7974.T",
+    "source": "yahoo",
+    "fetched_at": "2026-10-23T23:42:44.737699+00:00"
+   }
+  },
+  {
+   "key": "JP:7013",
+   "name": "IHI",
+   "name_en": "IHI Corporation",
+   "ticker": "7013",
+   "market": "JP",
+   "mentions": [
+    {
+     "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+     "channel_name": "Sho's投資情報局",
+     "channel_short": "Sho",
+     "slot": 3,
+     "video_id": "OagDeuhZ6k4",
+     "video_title": "10/23【日経平均大暴落‼】半導体株投げ売り加速ヤバい‼海外勢も日本株大量売却。キオクシア高値掴み助かる⁉ドル円157円。米国株、ナスダック、ハイテク株大荒れか⁉仮想通貨BTC弱",
+     "published": "2026-10-23T15:50:14+00:00",
+     "stance": "bearish",
+     "stance_note": "信用倍率が極めて高く決算通過まで重い値動きを想定",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "信用倍率が30倍を超えて信用買残が一向に減らないため、業績好調以前に需給面での悪影響が株価の上値を強く抑え込んでいる。",
+      "高値掴みの戻り売り圧力が非常に強いため、決算で超絶決算等の強い材料が出ない限りは年末にかけて調整含みの展開が続く。"
+     ],
+     "timestamp": "14:33",
+     "seconds": 873,
+     "confidence": "high"
+    }
+   ],
+   "consensus": {
+    "bullish": 0,
+    "bearish": 1,
+    "neutral": 0
+   },
+   "voices": 1,
+   "split": false,
+   "last_mentioned": "2026-10-23T15:50:14+00:00",
+   "channel_ids": [
+    "UCK9Pl6bbWqMC_x7IDca2tIg"
+   ],
+   "price": {
+    "date": "2026-10-23",
+    "close": 2450.0,
+    "change_pct": -0.06,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 13374200,
+    "volume_ratio": 1.2,
+    "rsi14": 38.5,
+    "rsi_zone": "中立",
+    "ma25": 2650.14,
+    "ma75": 2739.78,
+    "trend": "下降基調",
+    "pos52": 4,
+    "spark": [
+     2696.0,
+     2638.0,
+     2720.0,
+     2766.0,
+     2682.0,
+     2736.0,
+     2600.0,
+     2639.5,
+     2624.5,
+     2730.5,
+     2642.0,
+     2800.5,
+     2663.5,
+     2665.0,
+     2723.0,
+     2772.5,
+     2779.5,
+     2842.5,
+     2852.5,
+     2809.0,
+     2797.0,
+     2775.0,
+     2674.0,
+     2692.5,
+     2711.5,
+     2707.5,
+     2720.0,
+     2715.0,
+     2691.0,
+     2590.0,
+     2625.5,
+     2571.5,
+     2537.0,
+     2406.0,
+     2526.5,
+     2578.5,
+     2472.5,
+     2505.0,
+     2451.5,
+     2450.0
+    ],
+    "currency": "JPY",
+    "exchange_name": "Tokyo",
+    "market_open": false,
+    "symbol": "7013.T",
+    "source": "yahoo",
+    "fetched_at": "2026-10-23T23:42:44.737699+00:00"
+   }
+  },
+  {
+   "key": "JP:1911",
+   "name": "住友林業",
+   "name_en": "Sumitomo Forestry Co., Ltd.",
+   "ticker": "1911",
+   "market": "JP",
+   "mentions": [
+    {
+     "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+     "channel_name": "Sho's投資情報局",
+     "channel_short": "Sho",
+     "slot": 3,
+     "video_id": "OagDeuhZ6k4",
+     "video_title": "10/23【日経平均大暴落‼】半導体株投げ売り加速ヤバい‼海外勢も日本株大量売却。キオクシア高値掴み助かる⁉ドル円157円。米国株、ナスダック、ハイテク株大荒れか⁉仮想通貨BTC弱",
+     "published": "2026-10-23T15:50:14+00:00",
+     "stance": "bullish",
+     "stance_note": "出遅れバリュー株として好調、安値保有者は長期継続",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "RSIの上抜けやMACDのダイバージェンス効果が表れており、安値圏からの底打ち反転を示唆する強いテクニカル形状を描いている。",
+      "出遅れバリュー銘柄として資金が流入しており、安い株価帯で拾えている場合は半年から1年程度の長期的視点で保有継続が有効。"
+     ],
+     "timestamp": "20:15",
+     "seconds": 1215,
+     "confidence": "medium"
+    }
+   ],
+   "consensus": {
+    "bullish": 1,
+    "bearish": 0,
+    "neutral": 0
+   },
+   "voices": 1,
+   "split": false,
+   "last_mentioned": "2026-10-23T15:50:14+00:00",
+   "channel_ids": [
+    "UCK9Pl6bbWqMC_x7IDca2tIg"
+   ],
+   "price": {
+    "date": "2026-10-23",
+    "close": 1280.0,
+    "change_pct": 4.83,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 13664600,
+    "volume_ratio": 2.92,
+    "rsi14": 65.7,
+    "rsi_zone": "中立",
+    "ma25": 1204.66,
+    "ma75": 1289.59,
+    "trend": "戻り歩調",
+    "pos52": 17,
+    "spark": [
+     1341.0,
+     1347.0,
+     1344.0,
+     1329.5,
+     1345.5,
+     1340.0,
+     1303.0,
+     1305.0,
+     1300.5,
+     1285.0,
+     1272.5,
+     1259.0,
+     1254.0,
+     1218.0,
+     1259.0,
+     1233.0,
+     1238.5,
+     1255.0,
+     1226.5,
+     1215.0,
+     1220.5,
+     1212.0,
+     1185.0,
+     1210.0,
+     1201.0,
+     1180.5,
+     1177.5,
+     1171.5,
+     1183.0,
+     1171.0,
+     1175.5,
+     1174.5,
+     1170.0,
+     1167.5,
+     1204.0,
+     1211.5,
+     1211.5,
+     1221.0,
+     1221.0,
+     1280.0
+    ],
+    "currency": "JPY",
+    "exchange_name": "Tokyo",
+    "market_open": false,
+    "symbol": "1911.T",
+    "source": "yahoo",
+    "fetched_at": "2026-10-23T23:42:44.737699+00:00"
+   }
+  },
+  {
+   "key": "JP:8802",
+   "name": "三菱地所",
+   "name_en": "Mitsubishi Estate Co., Ltd.",
+   "ticker": "8802",
+   "market": "JP",
+   "mentions": [
+    {
+     "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+     "channel_name": "Sho's投資情報局",
+     "channel_short": "Sho",
+     "slot": 3,
+     "video_id": "OagDeuhZ6k4",
+     "video_title": "10/23【日経平均大暴落‼】半導体株投げ売り加速ヤバい‼海外勢も日本株大量売却。キオクシア高値掴み助かる⁉ドル円157円。米国株、ナスダック、ハイテク株大荒れか⁉仮想通貨BTC弱",
+     "published": "2026-10-23T15:50:14+00:00",
+     "stance": "bullish",
+     "stance_note": "バンドウォーク進行中、ダイバージェンス効果で上昇傾向",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "下値抵抗線の切り上がりやMACDのゴールデンクロス形成により、テクニカル面で教科書通りの底打ち・反転上昇のシグナルが出ている。",
+      "バンドウォークを伴う強い上昇トレンドが続いており、断続的な移動平均線のゴールデンクロス形成により上値追いが期待できる。"
+     ],
+     "timestamp": "36:35",
+     "seconds": 2195,
+     "confidence": "medium"
+    }
+   ],
+   "consensus": {
+    "bullish": 1,
+    "bearish": 0,
+    "neutral": 0
+   },
+   "voices": 1,
+   "split": false,
+   "last_mentioned": "2026-10-23T15:50:14+00:00",
+   "channel_ids": [
+    "UCK9Pl6bbWqMC_x7IDca2tIg"
+   ],
+   "price": {
+    "date": "2026-10-23",
+    "close": 3878.0,
+    "change_pct": 2.76,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 7908400,
+    "volume_ratio": 1.8,
+    "rsi14": 65.8,
+    "rsi_zone": "中立",
+    "ma25": 3600.84,
+    "ma75": 3793.81,
+    "trend": "戻り歩調",
+    "pos52": 32,
+    "spark": [
+     3710.0,
+     3783.0,
+     3755.0,
+     3827.0,
+     3795.0,
+     3841.0,
+     3773.0,
+     3703.0,
+     3693.0,
+     3664.0,
+     3660.0,
+     3682.0,
+     3642.0,
+     3602.0,
+     3644.0,
+     3550.0,
+     3606.0,
+     3678.0,
+     3613.0,
+     3635.0,
+     3655.0,
+     3630.0,
+     3545.0,
+     3608.0,
+     3592.0,
+     3498.0,
+     3465.0,
+     3476.0,
+     3479.0,
+     3442.0,
+     3465.0,
+     3471.0,
+     3434.0,
+     3571.0,
+     3670.0,
+     3722.0,
+     3728.0,
+     3836.0,
+     3774.0,
+     3878.0
+    ],
+    "currency": "JPY",
+    "exchange_name": "Tokyo",
+    "market_open": false,
+    "symbol": "8802.T",
+    "source": "yahoo",
+    "fetched_at": "2026-10-23T23:42:44.737699+00:00"
    }
   },
   {
@@ -972,22 +1413,21 @@
     "UCK9Pl6bbWqMC_x7IDca2tIg"
    ],
    "price": {
-    "date": "2026-10-22",
-    "close": 37250.0,
-    "change_pct": -6.34,
+    "date": "2026-10-23",
+    "close": 38040.0,
+    "change_pct": 2.12,
     "live": null,
     "live_change_pct": null,
     "live_time": null,
-    "volume": 3980300,
-    "volume_ratio": 0.87,
-    "rsi14": 40.1,
+    "volume": 5354900,
+    "volume_ratio": 1.14,
+    "rsi14": 42.5,
     "rsi_zone": "中立",
-    "ma25": 41512.8,
-    "ma75": 40139.73,
+    "ma25": 41655.2,
+    "ma75": 40010.4,
     "trend": "調整中",
-    "pos52": 45,
+    "pos52": 47,
     "spark": [
-     34810.0,
      34950.0,
      34620.0,
      34610.0,
@@ -1026,14 +1466,15 @@
      39590.0,
      39190.0,
      39770.0,
-     37250.0
+     37250.0,
+     38040.0
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
     "market_open": false,
     "symbol": "6920.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-22T23:37:50.768951+00:00"
+    "fetched_at": "2026-10-23T23:42:44.737699+00:00"
    }
   },
   {
@@ -1077,22 +1518,21 @@
     "UCK9Pl6bbWqMC_x7IDca2tIg"
    ],
    "price": {
-    "date": "2026-10-22",
-    "close": 11770.0,
-    "change_pct": -8.83,
+    "date": "2026-10-23",
+    "close": 11630.0,
+    "change_pct": -1.19,
     "live": null,
     "live_change_pct": null,
     "live_time": null,
-    "volume": 2788400,
-    "volume_ratio": 1.29,
-    "rsi14": 32.9,
+    "volume": 2533000,
+    "volume_ratio": 1.15,
+    "rsi14": 32.2,
     "rsi_zone": "中立",
-    "ma25": 14097.0,
-    "ma75": 14488.33,
+    "ma25": 14078.0,
+    "ma75": 14402.67,
     "trend": "下降基調",
-    "pos52": 43,
+    "pos52": 42,
     "spark": [
-     13150.0,
      13305.0,
      13210.0,
      13535.0,
@@ -1131,14 +1571,15 @@
      13340.0,
      12805.0,
      12910.0,
-     11770.0
+     11770.0,
+     11630.0
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
     "market_open": false,
     "symbol": "7735.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-22T23:37:50.768951+00:00"
+    "fetched_at": "2026-10-23T23:42:44.737699+00:00"
    }
   },
   {
@@ -1182,22 +1623,21 @@
     "UCK9Pl6bbWqMC_x7IDca2tIg"
    ],
    "price": {
-    "date": "2026-10-22",
-    "close": 1715.0,
-    "change_pct": -2.67,
+    "date": "2026-10-23",
+    "close": 1705.0,
+    "change_pct": -0.58,
     "live": null,
     "live_change_pct": null,
     "live_time": null,
-    "volume": 10297200,
-    "volume_ratio": 0.69,
-    "rsi14": 25.8,
+    "volume": 11845700,
+    "volume_ratio": 0.78,
+    "rsi14": 25.5,
     "rsi_zone": "売られすぎ",
-    "ma25": 2218.68,
-    "ma75": 2498.39,
+    "ma25": 2180.68,
+    "ma75": 2485.41,
     "trend": "下降基調",
     "pos52": 0,
     "spark": [
-     2580.0,
      2606.0,
      2590.0,
      2603.0,
@@ -1236,14 +1676,15 @@
      1789.0,
      1758.0,
      1762.0,
-     1715.0
+     1715.0,
+     1705.0
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
     "market_open": false,
     "symbol": "6594.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-22T23:37:50.768951+00:00"
+    "fetched_at": "2026-10-23T23:42:44.737699+00:00"
    }
   },
   {
@@ -1287,23 +1728,21 @@
     "UCsaeHha7ai_NNX8or8Jyb-g"
    ],
    "price": {
-    "date": "2026-10-20",
-    "close": 64075.42,
-    "change_pct": -1.3,
+    "date": "2026-10-22",
+    "close": 62907.84,
+    "change_pct": -2.65,
     "live": null,
     "live_change_pct": null,
     "live_time": null,
-    "volume": 148400000,
-    "volume_ratio": 0.91,
-    "rsi14": 39.4,
+    "volume": 153300000,
+    "volume_ratio": 0.95,
+    "rsi14": 36.6,
     "rsi_zone": "中立",
-    "ma25": 66383.93,
-    "ma75": 66359.04,
+    "ma25": 66313.8,
+    "ma75": 66185.6,
     "trend": "調整中",
-    "pos52": 65,
+    "pos52": 60,
     "spark": [
-     66216.79,
-     66016.36,
      65528.09,
      65856.43,
      66262.16,
@@ -1341,14 +1780,16 @@
      64425.95,
      65324.29,
      64916.7,
-     64075.42
+     64075.42,
+     64621.24,
+     62907.84
     ],
     "currency": "JPY",
     "exchange_name": "Osaka",
     "market_open": false,
     "symbol": "^N225",
     "source": "yahoo",
-    "fetched_at": "2026-10-22T23:37:50.768951+00:00"
+    "fetched_at": "2026-10-23T23:42:44.737699+00:00"
    }
   },
   {
@@ -1391,22 +1832,21 @@
     "UCsaeHha7ai_NNX8or8Jyb-g"
    ],
    "price": {
-    "date": "2026-10-22",
-    "close": 1260.93,
-    "change_pct": -8.51,
+    "date": "2026-10-23",
+    "close": 1238.03,
+    "change_pct": -1.82,
     "live": null,
     "live_change_pct": null,
     "live_time": null,
-    "volume": 10345622,
-    "volume_ratio": 1.19,
-    "rsi14": 31.3,
+    "volume": 7855877,
+    "volume_ratio": 0.95,
+    "rsi14": 30.4,
     "rsi_zone": "中立",
-    "ma25": 1606.99,
-    "ma75": 1539.35,
+    "ma25": 1584.84,
+    "ma75": 1531.08,
     "trend": "調整中",
-    "pos52": 50,
+    "pos52": 49,
     "spark": [
-     1484.95,
      1484.98,
      1566.7,
      1536.87,
@@ -1445,14 +1885,15 @@
      1371.12,
      1365.38,
      1378.22,
-     1260.93
+     1260.93,
+     1238.03
     ],
     "currency": "USD",
     "exchange_name": "NasdaqGS",
     "market_open": false,
     "symbol": "SNDK",
     "source": "yahoo",
-    "fetched_at": "2026-10-22T23:37:50.768951+00:00"
+    "fetched_at": "2026-10-23T23:42:44.737699+00:00"
    }
   },
   {
@@ -1517,22 +1958,21 @@
     "UCsaeHha7ai_NNX8or8Jyb-g"
    ],
    "price": {
-    "date": "2026-10-22",
-    "close": 2112.0,
-    "change_pct": -7.06,
+    "date": "2026-10-23",
+    "close": 2078.5,
+    "change_pct": -1.59,
     "live": null,
     "live_change_pct": null,
     "live_time": null,
-    "volume": 13283600,
-    "volume_ratio": 0.85,
-    "rsi14": 36.3,
+    "volume": 18707300,
+    "volume_ratio": 1.18,
+    "rsi14": 35.4,
     "rsi_zone": "中立",
-    "ma25": 2396.26,
-    "ma75": 2831.39,
+    "ma25": 2388.1,
+    "ma75": 2808.1,
     "trend": "下降基調",
-    "pos52": 18,
+    "pos52": 17,
     "spark": [
-     2846.5,
      2833.0,
      2902.5,
      2885.0,
@@ -1571,14 +2011,15 @@
      2305.0,
      2190.0,
      2272.5,
-     2112.0
+     2112.0,
+     2078.5
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
     "market_open": false,
     "symbol": "5706.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-22T23:37:50.768951+00:00"
+    "fetched_at": "2026-10-23T23:42:44.737699+00:00"
    }
   },
   {
@@ -1622,22 +2063,21 @@
     "UCsaeHha7ai_NNX8or8Jyb-g"
    ],
    "price": {
-    "date": "2026-10-22",
-    "close": 5380.0,
-    "change_pct": 3.86,
+    "date": "2026-10-23",
+    "close": 4760.0,
+    "change_pct": -11.52,
     "live": null,
     "live_change_pct": null,
     "live_time": null,
-    "volume": 334700,
-    "volume_ratio": 2.15,
-    "rsi14": 85.8,
-    "rsi_zone": "買われすぎ",
-    "ma25": 4218.2,
-    "ma75": 3896.8,
+    "volume": 1220700,
+    "volume_ratio": 6.46,
+    "rsi14": 59.2,
+    "rsi_zone": "中立",
+    "ma25": 4261.0,
+    "ma75": 3916.6,
     "trend": "上昇基調",
-    "pos52": 100,
+    "pos52": 78,
     "spark": [
-     3940.0,
      3900.0,
      3960.0,
      3980.0,
@@ -1676,14 +2116,15 @@
      4930.0,
      5120.0,
      5180.0,
-     5380.0
+     5380.0,
+     4760.0
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
     "market_open": false,
     "symbol": "3399.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-22T23:37:50.768951+00:00"
+    "fetched_at": "2026-10-23T23:42:44.737699+00:00"
    }
   },
   {
@@ -1727,22 +2168,21 @@
     "UCsaeHha7ai_NNX8or8Jyb-g"
    ],
    "price": {
-    "date": "2026-10-22",
-    "close": 3373.0,
-    "change_pct": -1.69,
+    "date": "2026-10-23",
+    "close": 3295.0,
+    "change_pct": -2.31,
     "live": null,
     "live_change_pct": null,
     "live_time": null,
-    "volume": 24613900,
-    "volume_ratio": 0.66,
-    "rsi14": 40.5,
+    "volume": 56646400,
+    "volume_ratio": 1.48,
+    "rsi14": 37.1,
     "rsi_zone": "中立",
-    "ma25": 3566.92,
-    "ma75": 3580.93,
+    "ma25": 3549.92,
+    "ma75": 3580.79,
     "trend": "下降基調",
-    "pos52": 73,
+    "pos52": 68,
     "spark": [
-     3481.0,
      3529.0,
      3579.0,
      3608.0,
@@ -1781,14 +2221,15 @@
      3478.0,
      3351.0,
      3431.0,
-     3373.0
+     3373.0,
+     3295.0
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
     "market_open": false,
     "symbol": "8306.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-22T23:37:50.768951+00:00"
+    "fetched_at": "2026-10-23T23:42:44.737699+00:00"
    }
   },
   {
@@ -1833,22 +2274,21 @@
     "UCt7qqCkTFFRfKjXzwqUXq4g"
    ],
    "price": {
-    "date": "2026-10-22",
-    "close": 4597.0,
-    "change_pct": -3.02,
+    "date": "2026-10-23",
+    "close": 4715.0,
+    "change_pct": 2.57,
     "live": null,
     "live_change_pct": null,
     "live_time": null,
-    "volume": 3091600,
-    "volume_ratio": 0.97,
-    "rsi14": 60.5,
+    "volume": 4167700,
+    "volume_ratio": 1.28,
+    "rsi14": 65.1,
     "rsi_zone": "中立",
-    "ma25": 4306.28,
-    "ma75": 4230.72,
+    "ma25": 4332.68,
+    "ma75": 4246.79,
     "trend": "上昇基調",
-    "pos52": 90,
+    "pos52": 96,
     "spark": [
-     4241.0,
      4289.0,
      4297.0,
      4297.0,
@@ -1887,14 +2327,15 @@
      4719.0,
      4743.0,
      4740.0,
-     4597.0
+     4597.0,
+     4715.0
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
     "market_open": false,
     "symbol": "7453.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-22T23:37:50.768951+00:00"
+    "fetched_at": "2026-10-23T23:42:44.737699+00:00"
    }
   },
   {
@@ -1938,22 +2379,21 @@
     "UCdQdRRLoajrt-5TEaAxslxA"
    ],
    "price": {
-    "date": "2026-10-22",
-    "close": 3865.0,
-    "change_pct": 22.12,
+    "date": "2026-10-23",
+    "close": 3450.0,
+    "change_pct": -10.74,
     "live": null,
     "live_change_pct": null,
     "live_time": null,
-    "volume": 5935800,
-    "volume_ratio": 1.09,
-    "rsi14": 64.1,
+    "volume": 4171400,
+    "volume_ratio": 0.74,
+    "rsi14": 57.7,
     "rsi_zone": "中立",
-    "ma25": 2649.64,
-    "ma75": 2122.04,
+    "ma25": 2714.52,
+    "ma75": 2143.61,
     "trend": "上昇基調",
-    "pos52": 88,
+    "pos52": 73,
     "spark": [
-     1952.0,
      1910.0,
      1821.0,
      1850.0,
@@ -1992,14 +2432,15 @@
      3340.0,
      3020.0,
      3165.0,
-     3865.0
+     3865.0,
+     3450.0
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
     "market_open": false,
     "symbol": "4493.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-22T23:37:50.768951+00:00"
+    "fetched_at": "2026-10-23T23:42:44.737699+00:00"
    }
   },
   {
@@ -2043,22 +2484,21 @@
     "UCdQdRRLoajrt-5TEaAxslxA"
    ],
    "price": {
-    "date": "2026-10-22",
-    "close": 9905.0,
-    "change_pct": 2.1,
+    "date": "2026-10-23",
+    "close": 9582.0,
+    "change_pct": -3.26,
     "live": null,
     "live_change_pct": null,
     "live_time": null,
-    "volume": 229700,
-    "volume_ratio": 0.96,
-    "rsi14": 63.1,
+    "volume": 211400,
+    "volume_ratio": 0.92,
+    "rsi14": 55.1,
     "rsi_zone": "中立",
-    "ma25": 9112.2,
-    "ma75": 8911.25,
+    "ma25": 9159.92,
+    "ma75": 8933.03,
     "trend": "上昇基調",
-    "pos52": 80,
+    "pos52": 73,
     "spark": [
-     9285.0,
      9377.0,
      9234.0,
      9274.0,
@@ -2097,14 +2537,15 @@
      10010.0,
      9760.0,
      9701.0,
-     9905.0
+     9905.0,
+     9582.0
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
     "market_open": false,
     "symbol": "4194.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-22T23:37:50.768951+00:00"
+    "fetched_at": "2026-10-23T23:42:44.737699+00:00"
    }
   },
   {
