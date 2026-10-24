@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T08:43:46.100578+09:00",
+ "generated_at": "2026-10-24T11:40:04.038392+09:00",
  "videos": [
   {
    "video_id": "OagDeuhZ6k4",
@@ -44,6 +44,122 @@
      "ticker": "8802",
      "stance": "bullish",
      "timestamp": "36:35"
+    }
+   ]
+  },
+  {
+   "video_id": "aHS1IdHRBPI",
+   "title": "【日経平均】 セリクラまだ終わらない？ 下げ止まりはどこか サンディスク・キオクシア・太陽誘電・オンコリスバイオ・ノースサンド",
+   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+   "channel_name": "Trader's Lab",
+   "channel_short": "TL",
+   "slot": 1,
+   "published": "2026-10-23T11:29:14+00:00",
+   "overview": "日経平均や米株指数のテクニカル分析を中心に、今後の相場見通しと注目個別銘柄の動向を解説する動画です。日経平均は重要安値を割り込んで明確な調整局面に入っており、日米欧の政策金利発表などの各種イベントを控える中で、6万円近辺を目指す下落リスクへの警戒が呼びかけられています。個別株では、先行して下落トレンドを形成している半導体・電子部品関連株と、地合いに逆行して高値を追う強気銘柄が対比して分析されています。",
+   "market_view": "政策金利発表や各種イベント前に相場全体のテクニカル形状が悪化しており、全体相場は下ぶれリスクが高く警戒が必要な局面です。",
+   "market": "MIX",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "日経平均株価",
+     "ticker": "N225",
+     "stance": "bearish",
+     "timestamp": "02:26"
+    },
+    {
+     "name": "キオクシアホールディングス",
+     "ticker": "",
+     "stance": "bearish",
+     "timestamp": "39:14"
+    },
+    {
+     "name": "サンディスク",
+     "ticker": "SNDK",
+     "stance": "bearish",
+     "timestamp": "45:28"
+    },
+    {
+     "name": "太陽誘電",
+     "ticker": "6976",
+     "stance": "bearish",
+     "timestamp": "46:09"
+    },
+    {
+     "name": "オンコリスバイオファーマ",
+     "ticker": "4588",
+     "stance": "bullish",
+     "timestamp": "49:58"
+    },
+    {
+     "name": "ノースサンド",
+     "ticker": "",
+     "stance": "bullish",
+     "timestamp": "51:41"
+    }
+   ]
+  },
+  {
+   "video_id": "NRqqybPDyyg",
+   "title": "今日の活況銘柄を見てみる！（太陽誘電・キオクシア・古川電工・イビデン・フジクラ・SBG等）株式テクニカルチャート分析",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-10-23T09:00:12+00:00",
+   "overview": "日経平均が一時1400円超下落するなど荒れた相場の中で、活況を示した個別銘柄のテクニカル分析を行っています。米国のAI関連株安の影響でギャップダウンスタートの銘柄が多いものの、場中に大口の買いが入って下ひげ陽線を形成する銘柄も目立ちました。東京海上のレンジ抜けを除き多くの銘柄で本格反発への警戒感からスイングは時期尚早としつつも、週明け以降の受給改善や節目突破に注目しています。",
+   "market_view": "日経平均は一時1400円超安と3ヶ月ぶりの安値水準まで下落したものの、場中で戻しを見せており、大口の買いが見られるなど回復の糸口が見え始めた1日となりました。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "キオクシア",
+     "ticker": "285A",
+     "stance": "neutral",
+     "timestamp": "02:59"
+    },
+    {
+     "name": "太陽誘電",
+     "ticker": "6976",
+     "stance": "neutral",
+     "timestamp": "04:16"
+    },
+    {
+     "name": "ソフトバンクグループ",
+     "ticker": "9984",
+     "stance": "neutral",
+     "timestamp": "04:47"
+    },
+    {
+     "name": "フジクラ",
+     "ticker": "5803",
+     "stance": "neutral",
+     "timestamp": "05:18"
+    },
+    {
+     "name": "東京海上ホールディングス",
+     "ticker": "8766",
+     "stance": "bullish",
+     "timestamp": "05:51"
+    },
+    {
+     "name": "イビデン",
+     "ticker": "4062",
+     "stance": "neutral",
+     "timestamp": "06:06"
+    },
+    {
+     "name": "古河電気工業",
+     "ticker": "5801",
+     "stance": "neutral",
+     "timestamp": "06:53"
+    },
+    {
+     "name": "東京エレクトロン",
+     "ticker": "8035",
+     "stance": "neutral",
+     "timestamp": "07:40"
     }
    ]
   },
@@ -160,46 +276,6 @@
      "ticker": "3399",
      "stance": "bullish",
      "timestamp": "44:44"
-    }
-   ]
-  },
-  {
-   "video_id": "9LI79qL4reA",
-   "title": "【日経平均】 安値引け 弱さ目立つ 一段下げのリスク備えよ サンディスク・キオクシア・村田製作所・三井金属・銀行株",
-   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-   "channel_name": "Trader's Lab",
-   "channel_short": "TL",
-   "slot": 1,
-   "published": "2026-10-20T11:42:02+00:00",
-   "overview": "日経平均が安値引けとなり上値の重さが目立つ中、相場は自律反発か一段下げかの見極めフェーズにあります。AI・半導体バブルの反動調整や需給悪化により、キオクシアや村田製作所、三井金属などの過去1年で急騰した銘柄が崩れ始めています。また国内長期金利の低下を受けて銀行株も調整局面にあり、迂闊なエントリーを避け現金比率を高めるリスク管理が推奨されています。",
-   "market_view": "指数は直近の上昇分を打ち消して安値更新するなど弱さが目立ち、海外市場の失速も相まって一段下げのリスクが高い警戒フェーズです。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "キオクシアホールディングス",
-     "ticker": "285A",
-     "stance": "bearish",
-     "timestamp": "27:24"
-    },
-    {
-     "name": "村田製作所",
-     "ticker": "6981",
-     "stance": "bearish",
-     "timestamp": "34:16"
-    },
-    {
-     "name": "三井金属鉱業",
-     "ticker": "5706",
-     "stance": "bearish",
-     "timestamp": "36:40"
-    },
-    {
-     "name": "三菱UFJフィナンシャル・グループ",
-     "ticker": "8306",
-     "stance": "bearish",
-     "timestamp": "42:00"
     }
    ]
   },
@@ -322,64 +398,6 @@
      "ticker": "7011",
      "stance": "bullish",
      "timestamp": "14:26"
-    }
-   ]
-  },
-  {
-   "video_id": "Nw7mitsoJrg",
-   "title": "今日の活況銘柄を見てみる！（太陽誘電・村田製作所・キオクシア・イビデン・フジクラ・SBG等）株式テクニカルチャート分析",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-10-16T09:00:39+00:00",
-   "overview": "本動画では、日経平均が自律反発を見せる中で活況となった主要銘柄のテクニカル分析が行われています。イビデンや太陽誘電などの電子部品株に底堅さや節目奪還の動きが見られる一方、キオクシアやアドバンテストといった半導体関連株は買い戻しの勢いに欠ける展開が指摘されています。また、需給悪化が懸念されるフジクラや調整局面にあるソフトバンクグループなど、来週の立ち回り方が解説されています。",
-   "market_view": "日経平均は約900円高と急反発したもののチャート形状が崩れており、戻り売りが出やすいためすぐ元の水準へ戻るような相場展開にはなりにくい見通しです。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "キオクシアホールディングス",
-     "ticker": "285A",
-     "stance": "neutral",
-     "timestamp": "03:55"
-    },
-    {
-     "name": "太陽誘電",
-     "ticker": "6976",
-     "stance": "bullish",
-     "timestamp": "05:00"
-    },
-    {
-     "name": "イビデン",
-     "ticker": "4062",
-     "stance": "bullish",
-     "timestamp": "05:48"
-    },
-    {
-     "name": "村田製作所",
-     "ticker": "6981",
-     "stance": "neutral",
-     "timestamp": "07:07"
-    },
-    {
-     "name": "ソフトバンクグループ",
-     "ticker": "9984",
-     "stance": "neutral",
-     "timestamp": "08:14"
-    },
-    {
-     "name": "フジクラ",
-     "ticker": "5803",
-     "stance": "bearish",
-     "timestamp": "09:17"
-    },
-    {
-     "name": "アドバンテスト",
-     "ticker": "6857",
-     "stance": "neutral",
-     "timestamp": "10:22"
     }
    ]
   },

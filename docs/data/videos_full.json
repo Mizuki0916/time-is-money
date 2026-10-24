@@ -256,6 +256,125 @@
    ]
   },
   {
+   "video_id": "aHS1IdHRBPI",
+   "title": "【日経平均】 セリクラまだ終わらない？ 下げ止まりはどこか サンディスク・キオクシア・太陽誘電・オンコリスバイオ・ノースサンド",
+   "published": "2026-10-23T11:29:14+00:00",
+   "description": "※動画の趣旨は個人的主観の予測であり、値動きを保証するものではありません。\n　投資の判断は自己責任でお願いします。\n\nトレンド分析マスターコース\n「無料オンライン講座(全5回)」＆豪華特典プレゼント！\n【完全無料】→ https://www.fpo.jp/suzuki/\n\n◉セミナーお申し込み\nhttps://sakura-inv.com/seminar/20261028/\n\n◉トレンド分析の基礎おすすめ動画\n【永久保存版】初心者でもわかるダウ理論の使い方【前編】\nhttps://youtu.be/re9XBR2qcBw\n【永久保存版】初心者でもわかるダウ理論の使い方【後編】\nhttps://youtu.be/Z21W4VFSs9g\n【知らなきゃ勝てない】移動平均線で相場を読む最強の方法\nhttps://youtu.be/FfSX8hcRR2I\n【一目均衡表の真髄】初心者でも分かる完全ガイ",
+   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+   "channel_name": "Trader's Lab",
+   "channel_short": "TL",
+   "slot": 1,
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "日経平均や米株指数のテクニカル分析を中心に、今後の相場見通しと注目個別銘柄の動向を解説する動画です。日経平均は重要安値を割り込んで明確な調整局面に入っており、日米欧の政策金利発表などの各種イベントを控える中で、6万円近辺を目指す下落リスクへの警戒が呼びかけられています。個別株では、先行して下落トレンドを形成している半導体・電子部品関連株と、地合いに逆行して高値を追う強気銘柄が対比して分析されています。",
+   "market_view": "政策金利発表や各種イベント前に相場全体のテクニカル形状が悪化しており、全体相場は下ぶれリスクが高く警戒が必要な局面です。",
+   "market": "MIX",
+   "picks": [
+    {
+     "name": "日経平均株価",
+     "name_en": "Nikkei 225",
+     "ticker": "N225",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "調整局面入りし6万円を目指す下落を警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "9月10日の安値を明確に下抜けし上昇トレンドが否定され調整局面入り。イベント通過後などに6万円を目指す下落リスクがあるため。",
+      "信用評価損益率の悪化やボリンジャーバンドのバンドウォークなど、テクニカルおよび需給の両面で急落リスクが懸念されるため。"
+     ],
+     "timestamp": "02:26",
+     "confidence": "high"
+    },
+    {
+     "name": "キオクシアホールディングス",
+     "name_en": "Kioxia Holdings Corporation",
+     "ticker": "",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "下落トレンド確定で11,380円割れなら底なし",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "高値を起点とした巨大な下落N波動が確定し、日足レベルでの明確な下落トレンドに転換したため。",
+      "直近1年で急騰した反動に加え、高値圏のシコリ玉が多く安値11,380円を割ると底なしの下落に発展する懸念があるため。"
+     ],
+     "timestamp": "39:14",
+     "confidence": "high"
+    },
+    {
+     "name": "サンディスク",
+     "name_en": "SanDisk Corporation",
+     "ticker": "SNDK",
+     "market": "US",
+     "stance": "bearish",
+     "stance_note": "下落傾向継続で7月末安値を目指す展開",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "週足でマイナス1シグマに対するバンドウォークが継続しており、日足チャートでも下落傾向が顕著であるため。",
+      "直近のレンジを下抜ける動きとなっており、7月末につけた安値を目指して調整が進む可能性が高いと見られるため。"
+     ],
+     "timestamp": "45:28",
+     "confidence": "medium"
+    },
+    {
+     "name": "太陽誘電",
+     "name_en": "Taiyo Yuden Co., Ltd.",
+     "ticker": "6976",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "8,320円を下抜け下落トレンドが継続",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "9月10日の安値8,320円を下抜けたことで下落トレンドが確定し、チャート形状が一段と悪化したため。",
+      "直近半年間で買った投資家の多くが含み損を抱えており、戻り売り圧力など需給面の悪さが影響しているため。"
+     ],
+     "timestamp": "46:09",
+     "confidence": "high"
+    },
+    {
+     "name": "オンコリスバイオファーマ",
+     "name_en": "Oncolys BioPharma Inc.",
+     "ticker": "4588",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "13週線が機能し中長期上昇トレンドを維持",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "週足の13週移動平均線がサポートとして機能しており、中長期的な上昇トレンドを維持しているため。",
+      "相場全体が急落する混沌とした状況においても逆行高を見せており、相対的に高いモメンタムを維持しているため。"
+     ],
+     "timestamp": "49:58",
+     "confidence": "medium"
+    },
+    {
+     "name": "ノースサンド",
+     "name_en": "North Sand Co., Ltd.",
+     "ticker": "",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "連日で高値を更新し非常に強い上昇トレンド",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "連日で高値を更新しており、日足でボリンジャーバンドのプラス2シグマに沿ったバンドウォークが継続しているため。",
+      "指数の地合いに左右されず買われており、モメンタムが非常に強くパフォーマンスに優れた銘柄であるため。"
+     ],
+     "timestamp": "51:41",
+     "confidence": "medium"
+    }
+   ]
+  },
+  {
    "video_id": "VH_dH6rfOIU",
    "title": "【日経平均】 大幅下落 安値更新 セリクラの始まりか サンディスク・キオクシア・太陽誘電・三井金属・山岡家",
    "published": "2026-10-22T11:24:50+00:00",
@@ -374,86 +493,147 @@
    ]
   },
   {
-   "video_id": "9LI79qL4reA",
-   "title": "【日経平均】 安値引け 弱さ目立つ 一段下げのリスク備えよ サンディスク・キオクシア・村田製作所・三井金属・銀行株",
-   "published": "2026-10-20T11:42:02+00:00",
-   "description": "※動画の趣旨は個人的主観の予測であり、値動きを保証するものではありません。\n　投資の判断は自己責任でお願いします。\n\n◉セミナーお申し込み\nhttps://sakura-inv.com/seminar/20261028/\n\n◉トレンド分析の基礎おすすめ動画\n【永久保存版】初心者でもわかるダウ理論の使い方【前編】\nhttps://youtu.be/re9XBR2qcBw\n【永久保存版】初心者でもわかるダウ理論の使い方【後編】\nhttps://youtu.be/Z21W4VFSs9g\n【知らなきゃ勝てない】移動平均線で相場を読む最強の方法\nhttps://youtu.be/FfSX8hcRR2I\n【一目均衡表の真髄】初心者でも分かる完全ガイド\nhttps://youtu.be/xPkb1twTFFI\n\n◉SBI証券株式会社キャンペーン　手数料無料、取引ツール便利PR\nhttps://h.acc",
-   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-   "channel_name": "Trader's Lab",
-   "channel_short": "TL",
-   "slot": 1,
+   "video_id": "NRqqybPDyyg",
+   "title": "今日の活況銘柄を見てみる！（太陽誘電・キオクシア・古川電工・イビデン・フジクラ・SBG等）株式テクニカルチャート分析",
+   "published": "2026-10-23T09:00:12+00:00",
+   "description": "🔽株のオンラインサロンやってます！次回メンバー募集は11月から\nエンジョイプランはいつでも初月無料で参加できます★\n→　https://yoor.jp/door/tradertomo\n\n※ 参加プラン別のサービス内容はこちらの動画で解説しています。\n→https://youtu.be/AGZetFvA-Xk?si=Qy_ctky7kW1QSOHX\n\n株好きが集まる楽しいサロンを目指してます♪\n初心者歓迎です～ご参加お待ちしています！\n\n🔽サブチャンネルもやってます＾＾\nhttps://www.youtube.com/@TOMO-subtrader\n\n---------------------------------------------\n🔽公式LINEやってます！ともだち登録お願いします☆\n---------------------------------------------\n\n「う",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
    "no_transcript": false,
    "skip_reason": "",
-   "overview": "日経平均が安値引けとなり上値の重さが目立つ中、相場は自律反発か一段下げかの見極めフェーズにあります。AI・半導体バブルの反動調整や需給悪化により、キオクシアや村田製作所、三井金属などの過去1年で急騰した銘柄が崩れ始めています。また国内長期金利の低下を受けて銀行株も調整局面にあり、迂闊なエントリーを避け現金比率を高めるリスク管理が推奨されています。",
-   "market_view": "指数は直近の上昇分を打ち消して安値更新するなど弱さが目立ち、海外市場の失速も相まって一段下げのリスクが高い警戒フェーズです。",
+   "overview": "日経平均が一時1400円超下落するなど荒れた相場の中で、活況を示した個別銘柄のテクニカル分析を行っています。米国のAI関連株安の影響でギャップダウンスタートの銘柄が多いものの、場中に大口の買いが入って下ひげ陽線を形成する銘柄も目立ちました。東京海上のレンジ抜けを除き多くの銘柄で本格反発への警戒感からスイングは時期尚早としつつも、週明け以降の受給改善や節目突破に注目しています。",
+   "market_view": "日経平均は一時1400円超安と3ヶ月ぶりの安値水準まで下落したものの、場中で戻しを見せており、大口の買いが見られるなど回復の糸口が見え始めた1日となりました。",
    "market": "JP",
    "picks": [
     {
-     "name": "キオクシアホールディングス",
+     "name": "キオクシア",
      "name_en": "Kioxia Holdings Corporation",
      "ticker": "285A",
      "market": "JP",
-     "stance": "bearish",
-     "stance_note": "需給構造が崩壊し安値割れで急落リスク",
+     "stance": "neutral",
+     "stance_note": "上値確認後のエントリーを推奨",
      "target_price": "",
-     "entry": "",
+     "entry": "1万4000円抜け",
      "stop": "",
      "reasons": [
-      "1年足らずで急速に買われた反動で高値圏のシコリが多く、1万2000円を割り込むと出来高の薄いゾーンへ突入して需給が急悪化する懸念がある。",
-      "チャート上ではボリンジャーバンドのマイナスバンドウォークが継続しており、木曜安値を割ると投げ売りが加速する可能性が高い。"
+      "前回安値ライン割れからの巻き戻しで出来高増加を伴う下ひげ陽線を形成し大口の買いが見られた。",
+      "上値の1万3000円台には戻り売り圧力が残るため戻りをしっかり確認してからエントリーするのが良い。"
      ],
-     "timestamp": "27:24",
+     "timestamp": "02:59",
      "confidence": "high"
     },
     {
-     "name": "村田製作所",
-     "name_en": "Murata Manufacturing Co., Ltd.",
-     "ticker": "6981",
+     "name": "太陽誘電",
+     "name_en": "Taiyo Yuden Co., Ltd.",
+     "ticker": "6976",
      "market": "JP",
-     "stance": "bearish",
-     "stance_note": "下限レンジ下抜けでシコリが重い状態",
+     "stance": "neutral",
+     "stance_note": "損切り消化も上値重くスイング不要",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "8月〜9月の底値圏レンジを下抜けており、7000円以上で買われた含み損ホルダーの戻り売り圧力が強まっている。",
-      "短期間で株価が数倍に跳ね上がったバブル的な上昇の調整局面であり、週足でもマイナス1シマを下回り下落基調にある。"
+      "前回安値を割り込んで損切りを巻き込みつつ下ひげ陽線を形成したが上値が依然として重い状態。"
      ],
-     "timestamp": "34:16",
+     "timestamp": "04:16",
      "confidence": "medium"
     },
     {
-     "name": "三井金属鉱業",
-     "name_en": "Mitsui Mining and Smelting Co., Ltd.",
-     "ticker": "5706",
+     "name": "ソフトバンクグループ",
+     "name_en": "SoftBank Group Corp.",
+     "ticker": "9984",
      "market": "JP",
-     "stance": "bearish",
-     "stance_note": "週足三役逆転で下落トレンドが継続",
+     "stance": "neutral",
+     "stance_note": "ギャップダウン後の陽線も上値重い",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "今期決算の営業減益発表をきっかけに売られ、週足で三役逆転の強烈な売りサインが点灯して下落トレンドが継続している。",
-      "日足でもバンドウォークが発生しており、直近安値を割り込むとさらなる投げ売りや狼狽売りを巻き込むリスクが高い。"
+      "大幅なギャップダウンから陽線を1本出せたのは良いが頭上が重いためスイングは不要との判断。"
      ],
-     "timestamp": "36:40",
-     "confidence": "high"
+     "timestamp": "04:47",
+     "confidence": "medium"
     },
     {
-     "name": "三菱UFJフィナンシャル・グループ",
-     "name_en": "Mitsubishi UFJ Financial Group, Inc.",
-     "ticker": "8306",
+     "name": "フジクラ",
+     "name_en": "Fujikura Ltd.",
+     "ticker": "5803",
      "market": "JP",
-     "stance": "bearish",
-     "stance_note": "金利低下を背景に重要サポート下抜け調整",
+     "stance": "neutral",
+     "stance_note": "足型改善も出来高不足で判断保留",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "20年債入札結果等を受けた国内長期金利の低下に伴い、利ザヤ縮小懸念から銀行株全般に売りが集まっている。",
-      "8月につけた重要安値(3400円付近)を明確に下抜けたことで短期的な調整局面入りとなり下値を模索する展開。"
+      "ギャップダウンからの下ひげ陽線で足型は改善したものの出来高が不十分でセリクラと見るには早い。"
      ],
-     "timestamp": "42:00",
+     "timestamp": "05:18",
+     "confidence": "medium"
+    },
+    {
+     "name": "東京海上ホールディングス",
+     "name_en": "Tokio Marine Holdings, Inc.",
+     "ticker": "8766",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "レンジ抜けを見せており引き続き上目線",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "国際利回りの下落も追い風となり前回高値を抜けてレンジ上ブレが見えており上目線を継続できる。"
+     ],
+     "timestamp": "05:51",
+     "confidence": "medium"
+    },
+    {
+     "name": "イビデン",
+     "name_en": "Ibiden Co., Ltd.",
+     "ticker": "4062",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "一時的な自律反発にとどまり様子見",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "下ひげ陽線で8500円付近まで戻したが出来高の増加がなく一時的な自律反発の域を出ていない。"
+     ],
+     "timestamp": "06:06",
+     "confidence": "medium"
+    },
+    {
+     "name": "古河電気工業",
+     "name_en": "Furukawa Electric Co., Ltd.",
+     "ticker": "5801",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "出来高増加も上値重くライン確認待ち",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "大幅ギャップダウンから出来高を作って陽線を戻したが上値のしこりが強くライン確定を待つ段階。"
+     ],
+     "timestamp": "06:53",
+     "confidence": "medium"
+    },
+    {
+     "name": "東京エレクトロン",
+     "name_en": "Tokyo Electron Limited",
+     "ticker": "8035",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "プラテン復帰で受給改善に期待",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "出来高を増加させてプラテンまで戻す動きを見せ大幅ギャップダウンからの信用改ざん減少が期待できる。"
+     ],
+     "timestamp": "07:40",
      "confidence": "medium"
     }
    ]
@@ -706,137 +886,6 @@
      ],
      "timestamp": "14:26",
      "confidence": "high"
-    }
-   ]
-  },
-  {
-   "video_id": "Nw7mitsoJrg",
-   "title": "今日の活況銘柄を見てみる！（太陽誘電・村田製作所・キオクシア・イビデン・フジクラ・SBG等）株式テクニカルチャート分析",
-   "published": "2026-10-16T09:00:39+00:00",
-   "description": "🔽株のオンラインサロンやってます！次回メンバー募集は11月から\nエンジョイプランはいつでも初月無料で参加できます★\n→　https://yoor.jp/door/tradertomo\n\n※ 参加プラン別のサービス内容はこちらの動画で解説しています。\n→https://youtu.be/AGZetFvA-Xk?si=Qy_ctky7kW1QSOHX\n\n株好きが集まる楽しいサロンを目指してます♪\n初心者歓迎です～ご参加お待ちしています！\n\n🔽サブチャンネルもやってます＾＾\nhttps://www.youtube.com/@TOMO-subtrader\n\n---------------------------------------------\n🔽公式LINEやってます！ともだち登録お願いします☆\n---------------------------------------------\n\n「う",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "本動画では、日経平均が自律反発を見せる中で活況となった主要銘柄のテクニカル分析が行われています。イビデンや太陽誘電などの電子部品株に底堅さや節目奪還の動きが見られる一方、キオクシアやアドバンテストといった半導体関連株は買い戻しの勢いに欠ける展開が指摘されています。また、需給悪化が懸念されるフジクラや調整局面にあるソフトバンクグループなど、来週の立ち回り方が解説されています。",
-   "market_view": "日経平均は約900円高と急反発したもののチャート形状が崩れており、戻り売りが出やすいためすぐ元の水準へ戻るような相場展開にはなりにくい見通しです。",
-   "market": "JP",
-   "picks": [
-    {
-     "name": "キオクシアホールディングス",
-     "name_en": "Kioxia Holdings Corporation",
-     "ticker": "285A",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "1万2000円割れでの綺麗な調整待ち",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "1万3000円ラインを意識した反発は見られるものの、大口の買い意欲が弱く後場で失速するなど買いの勢いに欠ける展開であるため。",
-      "10月30日の決算発表を控えており、一旦1万2000円を割り込んでからの揉み合い上昇を待つ方がテクニカル的に綺麗だと判断されるため。"
-     ],
-     "timestamp": "03:55",
-     "confidence": "medium"
-    },
-    {
-     "name": "太陽誘電",
-     "name_en": "Taiyo Yuden Co., Ltd.",
-     "ticker": "6976",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "1万円大台の奪還によりトレードしやすい",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "前日の調整から巻き返して1万円の大台ラインを奪還した点は評価でき、来週も1万円を基準としたトレードがやりやすい状態になっているため。"
-     ],
-     "timestamp": "05:00",
-     "confidence": "medium"
-    },
-    {
-     "name": "イビデン",
-     "name_en": "IBIDEN CO., LTD.",
-     "ticker": "4062",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "移動平均線のサポートと良好な板状況",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "日足で移動平均線がサポートとして機能し寄り付きから上昇したほか、出来高を維持しつつアンダーが優勢で板の状況が改善しているため。",
-      "前日のギャップダウン初値にあたる9800円ラインを意識しつつ、週明け以降は1万円の大台突破を目指す上位注目銘柄であるため。"
-     ],
-     "timestamp": "05:48",
-     "confidence": "high"
-    },
-    {
-     "name": "村田製作所",
-     "name_en": "Murata Manufacturing Co., Ltd.",
-     "ticker": "6981",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "下値での買戻し期待も上値は重い展開",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "安値を更新しながらも陽線で巻き返しており決算前の期待買いが期待できるものの、上値にしこりが残っており戻りは重いと想定されるため。"
-     ],
-     "timestamp": "07:07",
-     "confidence": "medium"
-    },
-    {
-     "name": "ソフトバンクグループ",
-     "name_en": "SoftBank Group Corp.",
-     "ticker": "9984",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "天井から30%下落し短期リバウンド狙い",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "天井圏から30%以上下落してレンジ下限に到達しており、急激な下落の後で大口投資家の動向に応じた短期的なリバウンドが期待されるため。"
-     ],
-     "timestamp": "08:14",
-     "confidence": "medium"
-    },
-    {
-     "name": "フジクラ",
-     "name_en": "Fujikura Ltd.",
-     "ticker": "5803",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "信用買い残の急増により戻りに時間",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "下落局面で信用買い残が増加して捕まっている投資家が多く、需給悪化と上値の重さが目立つため本格的な回復には時間がかかる見込みなため。"
-     ],
-     "timestamp": "09:17",
-     "confidence": "medium"
-    },
-    {
-     "name": "アドバンテスト",
-     "name_en": "Advantest Corporation",
-     "ticker": "6857",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "底値圏での揉み合いが精一杯で警戒感",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "大幅下落後に安値圏で揉み合うのが精一杯な状況であり、板の買い圧力も強くないため週明けも警戒感を持って対応する必要があるため。"
-     ],
-     "timestamp": "10:22",
-     "confidence": "medium"
     }
    ]
   },
