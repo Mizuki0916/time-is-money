@@ -1,6 +1,40 @@
 {
- "generated_at": "2026-10-24T15:38:24.199633+09:00",
+ "generated_at": "2026-10-24T16:38:59.729158+09:00",
  "videos": [
+  {
+   "video_id": "VrOd7YEJPcc",
+   "title": "ファナック（6954）好決算！株式テクニカルチャート分析",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-10-24T03:00:15+00:00",
+   "overview": "ファナック(6954)の好決算、通期業績予想の上方修正、500億円規模の自社株買い発表を受けて詳細を分析しています。FA事業やロボット分野の需要回復と営業利益率の改善を高く評価する一方で、信用買い残の多さや6000円台に存在する出来高のしこりを警戒点として挙げています。また、同セクターの安川電機についても割安感と今後の株価反転の可能性について触れています。",
+   "market_view": "地合いの影響によりFA関連銘柄が全体的に調整局面にあるものの、市場全体の地合いが戻ればモメンタムに伴う買戻しや連動した上昇が期待できるとしています。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "ファナック",
+     "ticker": "6954",
+     "stance": "neutral",
+     "timestamp": "00:03"
+    },
+    {
+     "name": "安川電機",
+     "ticker": "6506",
+     "stance": "bullish",
+     "timestamp": "08:25"
+    },
+    {
+     "name": "キーエンス",
+     "ticker": "6861",
+     "stance": "neutral",
+     "timestamp": "04:41"
+    }
+   ]
+  },
   {
    "video_id": "hj8t9QWxbgg",
    "title": "10/24【日経平均騙し上げか⁉日本株大暴落止まらない‼】半導体株投げ売り加速でキオクシア高値掴み助かる⁉ドル円156円。米国株、ナスダック、ハイテク株大荒れか⁉仮想通貨BTC弱",
@@ -268,106 +302,6 @@
      "ticker": "7453",
      "stance": "bullish",
      "timestamp": "04:32"
-    }
-   ]
-  },
-  {
-   "video_id": "isiSMntP4xI",
-   "title": "Deepseekショック再来？週明けに注目したい銘柄",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-10-18T09:00:01+00:00",
-   "overview": "ディープシークの新型AIモデル公開や米国株安の影響を受け、週明けの日本市場はギャップダウンスタートが予想されます。動画では、急落した半導体関連株のリバウンド狙いをはじめ、好決算をきっかけに買いが集まるサイバーセキュリティやIT関連株、チャート形状が良好なゲーム関連株、原油高や防衛テーマの個別銘柄について、具体的なエントリー戦略と節目ラインが解説されています。",
-   "market_view": "米国株安やディープシーク関連の懸念から半導体・AI銘柄を中心に下落が予想され、週明けは警戒感が必要な地合いとなります。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "ディスコ",
-     "ticker": "6146",
-     "stance": "bullish",
-     "timestamp": "03:23"
-    },
-    {
-     "name": "太陽誘電",
-     "ticker": "6976",
-     "stance": "bullish",
-     "timestamp": "04:29"
-    },
-    {
-     "name": "アドバンテスト",
-     "ticker": "6857",
-     "stance": "bullish",
-     "timestamp": "05:16"
-    },
-    {
-     "name": "サイバーセキュリティクラウド",
-     "ticker": "4493",
-     "stance": "bullish",
-     "timestamp": "07:07"
-    },
-    {
-     "name": "カウリス",
-     "ticker": "4194",
-     "stance": "bullish",
-     "timestamp": "08:13"
-    },
-    {
-     "name": "トレンドマイクロ",
-     "ticker": "4704",
-     "stance": "bullish",
-     "timestamp": "09:00"
-    },
-    {
-     "name": "ベイカレント・コンサルティング",
-     "ticker": "6532",
-     "stance": "bullish",
-     "timestamp": "09:34"
-    },
-    {
-     "name": "野村総合研究所",
-     "ticker": "4307",
-     "stance": "bullish",
-     "timestamp": "10:06"
-    },
-    {
-     "name": "日本電気",
-     "ticker": "6701",
-     "stance": "bullish",
-     "timestamp": "10:23"
-    },
-    {
-     "name": "ELEMENTS",
-     "ticker": "5246",
-     "stance": "bullish",
-     "timestamp": "10:47"
-    },
-    {
-     "name": "カプコン",
-     "ticker": "9697",
-     "stance": "bullish",
-     "timestamp": "11:40"
-    },
-    {
-     "name": "ソニーグループ",
-     "ticker": "6758",
-     "stance": "bullish",
-     "timestamp": "12:03"
-    },
-    {
-     "name": "INPEX",
-     "ticker": "1605",
-     "stance": "bullish",
-     "timestamp": "13:31"
-    },
-    {
-     "name": "三菱重工業",
-     "ticker": "7011",
-     "stance": "bullish",
-     "timestamp": "14:26"
     }
    ]
   },
