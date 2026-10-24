@@ -1,6 +1,73 @@
 {
  "videos": [
   {
+   "video_id": "hj8t9QWxbgg",
+   "title": "10/24【日経平均騙し上げか⁉日本株大暴落止まらない‼】半導体株投げ売り加速でキオクシア高値掴み助かる⁉ドル円156円。米国株、ナスダック、ハイテク株大荒れか⁉仮想通貨BTC弱",
+   "published": "2026-10-24T03:00:01+00:00",
+   "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "日経平均株価の下落について、信用買いの偏りと空売り不足による需給悪化、EPS低下に起因する理論株価の下方修正などを挙げ、2018年の急落時と非常に類似したパターンで動いていると解説。キオクシアなどの半導体株は信用買いの捕まりが多く需給が悪いため、決算による一時的な反発があっても戻り売りに押されやすく、年末にかけて警戒が必要と分析している。",
+   "market_view": "日本株は信用買いが膨らむ一方で空売りが乏しく需給が悪い。年末にかけて需給の軽い銘柄と重い銘柄による二極化相場が進むと予想。",
+   "market": "JP",
+   "picks": [
+    {
+     "name": "日経平均株価",
+     "name_en": "Nikkei 225",
+     "ticker": "",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "2018年同様の展開で月末まで軟調を警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "信用買いが大量で空売りが入っておらず需給が悪化しており、EPSや理論株価の下方修正に伴い下落傾向が続いている。",
+      "ボリンジャーバンドのバンドク終了サインや移動平均線割れが点灯し、2018年と同様のチャートパターンを描いている。"
+     ],
+     "timestamp": "01:19",
+     "confidence": "high"
+    },
+    {
+     "name": "キオクシアホールディングス",
+     "name_en": "Kioxia Holdings",
+     "ticker": "285A",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "信用買いの捕まりが多く戻り売り圧力に警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "信用買残が多く需給が非常に悪いため、決算などで一時的に買われても高値掴みの信用期日や損切り売り・戻り売りに押されやすい。",
+      "直近で株価が急落しており、12月の信用期日到来や年末に向けた損益通算の節税売りが重なり上値が重い展開を警戒している。"
+     ],
+     "timestamp": "28:07",
+     "confidence": "high"
+    },
+    {
+     "name": "東京エレクトロン",
+     "name_en": "Tokyo Electron",
+     "ticker": "8035",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "一時的な戻りがあっても高値売りを警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "半導体株全体で需給が悪化しており、2018年と同様に一時的な戻り高値を形成しても上値が重く叩き落とされる展開を警戒している。"
+     ],
+     "timestamp": "30:23",
+     "confidence": "medium"
+    }
+   ]
+  },
+  {
    "video_id": "OagDeuhZ6k4",
    "title": "10/23【日経平均大暴落‼】半導体株投げ売り加速ヤバい‼海外勢も日本株大量売却。キオクシア高値掴み助かる⁉ドル円157円。米国株、ナスダック、ハイテク株大荒れか⁉仮想通貨BTC弱",
    "published": "2026-10-23T15:50:14+00:00",
@@ -99,159 +166,6 @@
      ],
      "timestamp": "36:35",
      "confidence": "medium"
-    }
-   ]
-  },
-  {
-   "video_id": "Lm0ML80rclQ",
-   "title": "10/22【緊急事態,日経平均1713円大暴落‼】半導体株投げ売り加速ヤバい‼海外勢も日本株大量売却。キオクシア高値掴み助かる⁉ドル円157円。米国株、ナスダック、ハイテク株大荒れか⁉仮想通貨BTC弱",
-   "published": "2026-10-22T17:23:45+00:00",
-   "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "日経平均が1700円超の大暴落となる中、半導体株を中心に急落が加速した相場展開について解説しています。一方で、信用需給が良い銘柄や出遅れバリュー株、ソフトウェア関連などへ資金が向かうセクターローテーションが発生していると指摘。高値で捕まった信用買い残が多い銘柄は年末にかけて戻り売りが警戒されるため、安易な押し目買いを避け、データに基づいた二極化相場への立ち回りを推奨しています。",
-   "market_view": "半導体株の投げ売りにより全面安に見えるものの、実際はグロース株からバリュー株へのセクターローテーションであり二極化が進行中。信用倍率が高止まりしている需給悪化銘柄は年末に向けて弱含みやすい一方、需給が良い銘柄や初動を捉えた銘柄を見極める必要があります。",
-   "market": "JP",
-   "picks": [
-    {
-     "name": "レーザーテック",
-     "name_en": "Lasertec Corporation",
-     "ticker": "6920",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "急落継続中で反転の兆しなし",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "本日6%超の急落となっており、信用倍率4.33倍と需給が重くチャート上も反転の兆しが見られないため。",
-      "2018年の相場パターンと酷似しており、この波動カウント通りなら月末付近まで押し目形成が続くため。"
-     ],
-     "timestamp": "04:01",
-     "confidence": "high"
-    },
-    {
-     "name": "キオクシアホールディングス",
-     "name_en": "Kioxia Holdings Corporation",
-     "ticker": "285A",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "信用需給悪化で買手含み損拡大",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "株価が6.77%急落し、信用倍率が23.21倍と依然として非常に悪い需給バランスが続いているため。",
-      "直近安値を割り込んだことで信用買い層が含み損を抱えており、来週の決算発表まで弱含みやすいため。"
-     ],
-     "timestamp": "07:25",
-     "confidence": "high"
-    },
-    {
-     "name": "SCREENホールディングス",
-     "name_en": "SCREEN Holdings Co., Ltd.",
-     "ticker": "7735",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "バンドウォークに伴う下落進行",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "8.33%の急落となっており、下落方向へのバンドウォークが進行しているテクニカル形状であるため。",
-      "バンドウォーク終了サインがチャート上で確認されるまでは下がり続けるパターンに警戒が必要なため。"
-     ],
-     "timestamp": "10:06",
-     "confidence": "medium"
-    },
-    {
-     "name": "村田製作所",
-     "name_en": "Murata Manufacturing Co., Ltd.",
-     "ticker": "6981",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "200日線攻防と信用買残高高",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "200日移動平均線付近まで下落しているものの、下げ止まりや反転を示すテクニカルサインが出ていないため。",
-      "信用倍率が8.75倍で買残が多く捕まっている層が厚いため、節目を割ると投げ売りが加速する恐れがあるため。"
-     ],
-     "timestamp": "12:45",
-     "confidence": "medium"
-    },
-    {
-     "name": "アドバンテスト",
-     "name_en": "Advantest Corporation",
-     "ticker": "6857",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "急落傾向で需給ボーナス終了",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "直近2週間で20%近く下落しており、以前のような買い優勢の需給ボーナス期が終了しているため。",
-      "信用倍率が7.16倍と高止まりしており、上値の重い展開が継続しやすい環境にあるため。"
-     ],
-     "timestamp": "16:55",
-     "confidence": "medium"
-    },
-    {
-     "name": "ディスコ",
-     "name_en": "DISCO Corporation",
-     "ticker": "6146",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "好決算でも戻り売りに警戒",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "時間外PTSで買われているものの、半導体セクター全体の需給の重さが上値を抑える懸念があるため。",
-      "日本株においては好決算であっても需給悪化が優先されて売り叩かれる場面が多いため慎重姿勢が必要。"
-     ],
-     "timestamp": "19:25",
-     "confidence": "medium"
-    },
-    {
-     "name": "ニデック",
-     "name_en": "Nidec Corporation",
-     "ticker": "6594",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "不正問題と需給悪化で投資対象外",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "不正問題の発覚により投資対象外と判断しており、長期的なチャート形状も崩れているため。",
-      "信用倍率が25.21倍と極めて悪く大量の買い残が残っているため、決算を迎えても上値が重いため。"
-     ],
-     "timestamp": "21:21",
-     "confidence": "medium"
-    },
-    {
-     "name": "ソニーグループ",
-     "name_en": "Sony Group Corporation",
-     "ticker": "6758",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "バンドウォーク伴う強い上昇継続",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "全体の暴落局面において1.72%上昇し年初来高値圏まで買われるなど資金の逃避先として機能しているため。",
-      "ボリンジャーバンドの上軌条に沿った強いバンドウォークを形成しており上昇トレンドが継続しているため。"
-     ],
-     "timestamp": "55:43",
-     "confidence": "high"
     }
    ]
   },
