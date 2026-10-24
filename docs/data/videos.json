@@ -1,6 +1,28 @@
 {
- "generated_at": "2026-10-24T19:38:22.978497+09:00",
+ "generated_at": "2026-10-24T20:38:59.824845+09:00",
  "videos": [
+  {
+   "video_id": "7jLJxwqZaWw",
+   "title": "ファナック　好決算上方修正&自社株買い！　#shorts",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-10-24T10:23:15+00:00",
+   "overview": "ファナックの決算発表について解説しています。上半期決算に合わせて通期業績予想の上方修正と、上限500億円の自社株買いを同時に発表しました。営業利益率のアップがポジティブに評価されています。現状の株価に上昇感はないものの、今回の好決算をきっかけに出来高が増加すれば、株価反転の兆しが見えてくると期待されています。",
+   "market_view": "",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "ファナック",
+     "ticker": "6954",
+     "stance": "bullish",
+     "timestamp": "00:00"
+    }
+   ]
+  },
   {
    "video_id": "VrOd7YEJPcc",
    "title": "ファナック（6954）好決算！株式テクニカルチャート分析",
@@ -164,70 +186,6 @@
      "ticker": "",
      "stance": "bullish",
      "timestamp": "51:41"
-    }
-   ]
-  },
-  {
-   "video_id": "NRqqybPDyyg",
-   "title": "今日の活況銘柄を見てみる！（太陽誘電・キオクシア・古川電工・イビデン・フジクラ・SBG等）株式テクニカルチャート分析",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-10-23T09:00:12+00:00",
-   "overview": "日経平均が一時1400円超下落するなど荒れた相場の中で、活況を示した個別銘柄のテクニカル分析を行っています。米国のAI関連株安の影響でギャップダウンスタートの銘柄が多いものの、場中に大口の買いが入って下ひげ陽線を形成する銘柄も目立ちました。東京海上のレンジ抜けを除き多くの銘柄で本格反発への警戒感からスイングは時期尚早としつつも、週明け以降の受給改善や節目突破に注目しています。",
-   "market_view": "日経平均は一時1400円超安と3ヶ月ぶりの安値水準まで下落したものの、場中で戻しを見せており、大口の買いが見られるなど回復の糸口が見え始めた1日となりました。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "キオクシア",
-     "ticker": "285A",
-     "stance": "neutral",
-     "timestamp": "02:59"
-    },
-    {
-     "name": "太陽誘電",
-     "ticker": "6976",
-     "stance": "neutral",
-     "timestamp": "04:16"
-    },
-    {
-     "name": "ソフトバンクグループ",
-     "ticker": "9984",
-     "stance": "neutral",
-     "timestamp": "04:47"
-    },
-    {
-     "name": "フジクラ",
-     "ticker": "5803",
-     "stance": "neutral",
-     "timestamp": "05:18"
-    },
-    {
-     "name": "東京海上ホールディングス",
-     "ticker": "8766",
-     "stance": "bullish",
-     "timestamp": "05:51"
-    },
-    {
-     "name": "イビデン",
-     "ticker": "4062",
-     "stance": "neutral",
-     "timestamp": "06:06"
-    },
-    {
-     "name": "古河電気工業",
-     "ticker": "5801",
-     "stance": "neutral",
-     "timestamp": "06:53"
-    },
-    {
-     "name": "東京エレクトロン",
-     "ticker": "8035",
-     "stance": "neutral",
-     "timestamp": "07:40"
     }
    ]
   },
