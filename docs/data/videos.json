@@ -1,6 +1,21 @@
 {
- "generated_at": "2026-10-25T19:10:11.880239+09:00",
+ "generated_at": "2026-10-25T20:05:13.404252+09:00",
  "videos": [
+  {
+   "video_id": "IhQ-d1QAII8",
+   "title": "10/25【日経平均騙し上げか⁉日本株大暴落止まらない‼】半導体株投げ売り加速でキオクシア高値掴み助かる⁉ドル円156円。米国株、ナスダック、ハイテク株大荒れか⁉仮想通貨BTC弱",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-10-25T10:05:15+00:00",
+   "overview": "",
+   "market_view": "",
+   "market": "",
+   "no_transcript": true,
+   "skip_reason": "動画が非公開・削除・配信予定などで取得できません",
+   "picks": []
+  },
   {
    "video_id": "NcIyuEuwXNQ",
    "title": "来週の相場に備えて！　日本株チャート分析LIVE　10/25",
@@ -400,52 +415,6 @@
      "ticker": "8035",
      "stance": "bearish",
      "timestamp": "30:23"
-    }
-   ]
-  },
-  {
-   "video_id": "OagDeuhZ6k4",
-   "title": "10/23【日経平均大暴落‼】半導体株投げ売り加速ヤバい‼海外勢も日本株大量売却。キオクシア高値掴み助かる⁉ドル円157円。米国株、ナスダック、ハイテク株大荒れか⁉仮想通貨BTC弱",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-10-23T15:50:14+00:00",
-   "overview": "日経平均や半導体株の急落後の自律反発・ショートカバーの動きを分析しつつ、株式市場全体の需給動向やセクターローテーションについて解説しています。個別銘柄では受給悪化が懸念されるキオクシアやIHIへの警戒感を示す一方、需給整理が進む任天堂や出遅れバリュー株の住友林業、三菱地所などの買い推奨・長期保有姿勢を提示しています。年末に向けた慎重な資金管理とトータルリターンを意識した立ち回りを強く促しています。",
-   "market_view": "半導体株の短期的な買い戻しは見られるものの信用受給の改善が鈍く、米国市場も含めたローテーションの中で年末に向けて不透明感が強まるため慎重な立ち回りが求められます。",
-   "market": "MIX",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "キオクシアホールディングス",
-     "ticker": "285A",
-     "stance": "bearish",
-     "timestamp": "03:22"
-    },
-    {
-     "name": "任天堂",
-     "ticker": "7974",
-     "stance": "bullish",
-     "timestamp": "09:30"
-    },
-    {
-     "name": "IHI",
-     "ticker": "7013",
-     "stance": "bearish",
-     "timestamp": "14:33"
-    },
-    {
-     "name": "住友林業",
-     "ticker": "1911",
-     "stance": "bullish",
-     "timestamp": "20:15"
-    },
-    {
-     "name": "三菱地所",
-     "ticker": "8802",
-     "stance": "bullish",
-     "timestamp": "36:35"
     }
    ]
   },
