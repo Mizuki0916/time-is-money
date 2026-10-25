@@ -1,6 +1,76 @@
 {
- "generated_at": "2026-10-25T23:05:16.140318+09:00",
+ "generated_at": "2026-10-26T00:07:15.217329+09:00",
  "videos": [
+  {
+   "video_id": "IhQ-d1QAII8",
+   "title": "10/25【日経平均騙し上げか⁉日本株大暴落止まらない‼】半導体株投げ売り加速でキオクシア高値掴み助かる⁉ドル円156円。米国株、ナスダック、ハイテク株大荒れか⁉仮想通貨BTC弱",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-10-25T14:21:47+00:00",
+   "overview": "本動画では2018年相場との類似性を踏まえ、年末に向けた日経平均の軟調な展開や戻り売りリスクについて解説しています。特に決算発表を控えるキオクシアなどの主力ハイテク株への警戒感を提示する一方、マツダや日立製作所など個別銘柄のバリエーションや信用需給を詳細に分析しています。さらに住友不動産やアステラス製薬のように初動サインやバンドウォークが出ている好需給銘柄の見極め方を示しています。",
+   "market_view": "2018年相場と同様に月内は日経平均が軟調に推移しやすく、ハイテク決算ラッシュに伴う乱高下や年末に向けた投げ売りに警戒が必要です。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "キオクシアホールディングス",
+     "ticker": "285A",
+     "stance": "bearish",
+     "timestamp": "02:10"
+    },
+    {
+     "name": "マツダ",
+     "ticker": "7261",
+     "stance": "neutral",
+     "timestamp": "07:31"
+    },
+    {
+     "name": "日立製作所",
+     "ticker": "6501",
+     "stance": "neutral",
+     "timestamp": "11:44"
+    },
+    {
+     "name": "住友不動産",
+     "ticker": "8830",
+     "stance": "bullish",
+     "timestamp": "20:24"
+    },
+    {
+     "name": "三陽商会",
+     "ticker": "8011",
+     "stance": "neutral",
+     "timestamp": "28:06"
+    },
+    {
+     "name": "カプコン",
+     "ticker": "9697",
+     "stance": "bullish",
+     "timestamp": "33:26"
+    },
+    {
+     "name": "野村マイクロ・サイエンス",
+     "ticker": "6254",
+     "stance": "bearish",
+     "timestamp": "38:56"
+    },
+    {
+     "name": "アステラス製薬",
+     "ticker": "4503",
+     "stance": "bullish",
+     "timestamp": "45:17"
+    },
+    {
+     "name": "INPEX",
+     "ticker": "1605",
+     "stance": "neutral",
+     "timestamp": "53:32"
+    }
+   ]
+  },
   {
    "video_id": "5TltqiDeYBI",
    "title": "今週（10/26〜）専業が自信を持って買う1銘柄",
@@ -22,21 +92,6 @@
      "timestamp": "05:22"
     }
    ]
-  },
-  {
-   "video_id": "IhQ-d1QAII8",
-   "title": "10/25【日経平均騙し上げか⁉日本株大暴落止まらない‼】半導体株投げ売り加速でキオクシア高値掴み助かる⁉ドル円156円。米国株、ナスダック、ハイテク株大荒れか⁉仮想通貨BTC弱",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-10-25T10:05:15+00:00",
-   "overview": "",
-   "market_view": "",
-   "market": "",
-   "no_transcript": true,
-   "skip_reason": "この動画には字幕がありません",
-   "picks": []
   },
   {
    "video_id": "NcIyuEuwXNQ",

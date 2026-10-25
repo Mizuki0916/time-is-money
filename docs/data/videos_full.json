@@ -3,19 +3,170 @@
   {
    "video_id": "IhQ-d1QAII8",
    "title": "10/25【日経平均騙し上げか⁉日本株大暴落止まらない‼】半導体株投げ売り加速でキオクシア高値掴み助かる⁉ドル円156円。米国株、ナスダック、ハイテク株大荒れか⁉仮想通貨BTC弱",
-   "published": "2026-10-25T10:05:15+00:00",
+   "published": "2026-10-25T14:21:47+00:00",
    "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
    "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
    "channel_name": "Sho's投資情報局",
    "channel_short": "Sho",
    "slot": 3,
-   "no_transcript": true,
-   "skip_reason": "この動画には字幕がありません",
-   "attempts": 4,
-   "overview": "",
-   "market_view": "",
-   "market": "",
-   "picks": []
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "本動画では2018年相場との類似性を踏まえ、年末に向けた日経平均の軟調な展開や戻り売りリスクについて解説しています。特に決算発表を控えるキオクシアなどの主力ハイテク株への警戒感を提示する一方、マツダや日立製作所など個別銘柄のバリエーションや信用需給を詳細に分析しています。さらに住友不動産やアステラス製薬のように初動サインやバンドウォークが出ている好需給銘柄の見極め方を示しています。",
+   "market_view": "2018年相場と同様に月内は日経平均が軟調に推移しやすく、ハイテク決算ラッシュに伴う乱高下や年末に向けた投げ売りに警戒が必要です。",
+   "market": "JP",
+   "picks": [
+    {
+     "name": "キオクシアホールディングス",
+     "name_en": "Kioxia Holdings Corporation",
+     "ticker": "285A",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "決算後の戻りは絶好の売り場",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "10月30日の決算に向け信用高値掴みの売り圧力が重く、劇的な業績回復がない限り全員が助かるのは難しい展開である。(56字)",
+      "一時的な自立反発があっても戻り売りに押されやすく、年末に向けた最終的な投げ売り候補になりやすい構造となっている。(55字)"
+     ],
+     "timestamp": "02:10",
+     "confidence": "high"
+    },
+    {
+     "name": "マツダ",
+     "name_en": "Mazda Motor Corporation",
+     "ticker": "7261",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "低割安も信用買い過多で静観",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "PBR0.35倍や配当利回り5%超など指標面は極めて割安だが、信用倍率が14.53倍と非常に重く短期資金での買いは危険である。(59字)",
+      "決算発表まではレンジ内でのもみ合いが予想され、現物で低価格帯から長期保有している場合を除き借金トレードは控えるべき。(56字)"
+     ],
+     "timestamp": "07:31",
+     "confidence": "medium"
+    },
+    {
+     "name": "日立製作所",
+     "name_en": "Hitachi, Ltd.",
+     "ticker": "6501",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "信用改善もバリュエーション高値",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "信用改ざんはピーク時から大幅に減少しており整理は進んでいるものの、過去平均と比較してPBR4倍近辺は割高感が目立つ。(56字)",
+      "直前が決算シーズンであり過去のバリュエーション上限に近いため、決算跨ぎでの買い買い増しは下落リスクが高く慎重さが求められる。(61字)"
+     ],
+     "timestamp": "11:44",
+     "confidence": "high"
+    },
+    {
+     "name": "住友不動産",
+     "name_en": "Sumitomo Realty & Development Co., Ltd.",
+     "ticker": "8830",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "テクニカル買い初動サイン点灯",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "25日移動平均線のブレイクやMACDのゴールデンクロス、RSIの上抜けなど典型的な転換初動のサインが複数出現している。(55字)",
+      "金利低下を背景にボトムから切り返しており、テクニカル的な根拠が重なる期待値の高いチャート形状を形成している。(51字)"
+     ],
+     "timestamp": "20:24",
+     "confidence": "high"
+    },
+    {
+     "name": "三陽商会",
+     "name_en": "Sanyo Shokai Ltd.",
+     "ticker": "8011",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "受給回転良も新規参入は遅い",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "信用買い残は多いものの株価上昇により回転が効いており需給は良好だが、現状の位置からの新規エントリータイミングではない。(57字)",
+      "すでに買いシグナル点灯後の高値圏にあるため、安値で仕込めた保有者が利益を伸ばすか一部スライスを検討する局面である。(53字)"
+     ],
+     "timestamp": "28:06",
+     "confidence": "medium"
+    },
+    {
+     "name": "カプコン",
+     "name_en": "Capcom Co., Ltd.",
+     "ticker": "9697",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "ゴールデンクロス形成で追随",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "200日移動平均線を軸に各短期・中期線が相次いでゴールデンクロスを形成しており、上昇トレンドの好形状となっている。(53字)",
+      "バンドウォークの兆候が出ており、このような良い事象が起こりやすい強いパターンでは終了サインが出るまで握り続けるのが妥当。(57字)"
+     ],
+     "timestamp": "33:26",
+     "confidence": "medium"
+    },
+    {
+     "name": "野村マイクロ・サイエンス",
+     "name_en": "Nomura Micro Science Co., Ltd.",
+     "ticker": "6254",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "下落バンドウォークで手出し無用",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "主要な移動平均線群が200日線とデッドクロスを起こし下落方向にバンドウォークしているため、安易に手を出すべきではない。(56字)"
+     ],
+     "timestamp": "38:56",
+     "confidence": "medium"
+    },
+    {
+     "name": "アステラス製薬",
+     "name_en": "Astellas Pharma Inc.",
+     "ticker": "4503",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "上昇バンドウォーク継続で買い維持",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "医薬品セクター全体の底堅さと連動して上昇方向へのバンドウォークを形成しており、信用需給の改善傾向も追い風となっている。(57字)",
+      "配当利回り3.18%と下値支持力があり、バンドウォーク終了サインが出るまではポジションを継続して伸ばす局面である。(53字)"
+     ],
+     "timestamp": "45:17",
+     "confidence": "medium"
+    },
+    {
+     "name": "INPEX",
+     "name_en": "INPEX CORPORATION",
+     "ticker": "1605",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "三角持ち合い煮詰まりで上抜け待ち",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "日足・RSIともに三角持ち合いの煮詰まり局面にあり、上抜けを確認するまでは決算を挟んだジグザグな動きを想定し保留が妥当。(57字)"
+     ],
+     "timestamp": "53:32",
+     "confidence": "medium"
+    }
+   ]
   },
   {
    "video_id": "hj8t9QWxbgg",
