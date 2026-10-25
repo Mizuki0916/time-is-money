@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T18:05:15.536786+09:00",
+ "generated_at": "2026-10-25T19:10:11.880239+09:00",
  "videos": [
   {
    "video_id": "NcIyuEuwXNQ",
@@ -8,33 +8,364 @@
    "channel_name": "トレーダーTOMO",
    "channel_short": "TOMO",
    "slot": 2,
-   "published": "2026-10-25T08:13:28+00:00",
-   "overview": "",
-   "market_view": "",
-   "market": "",
-   "no_transcript": true,
-   "skip_reason": "この動画には字幕がありません",
-   "picks": []
-  },
-  {
-   "video_id": "7jLJxwqZaWw",
-   "title": "ファナック　好決算上方修正&自社株買い！　#shorts",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-10-24T10:23:15+00:00",
-   "overview": "ファナックの決算発表について解説しています。上半期決算に合わせて通期業績予想の上方修正と、上限500億円の自社株買いを同時に発表しました。営業利益率のアップがポジティブに評価されています。現状の株価に上昇感はないものの、今回の好決算をきっかけに出来高が増加すれば、株価反転の兆しが見えてくると期待されています。",
-   "market_view": "",
+   "published": "2026-10-25T09:44:21+00:00",
+   "overview": "本動画では、10月最終週に向けた日本株の相場展望と注目銘柄のチャート・決算分析がライブ形式で解説されました。地政学リスクや原油高への警戒感から日経平均は重いスタートが想定されるものの、決算発表が本格化する中で調整が進んだ主要株の押し目買いや決算跨ぎの戦略が示されています。特に半導体関連や好業績銘柄における信用需給の確認重要性が強調されています。",
+   "market_view": "原油価格の急騰や地政学リスクを注視しつつ、日経平均はフラットからやや安めのスタートを想定。決算発表本格化に伴い押し目買いの好機を探る相場展開を見込む。",
    "market": "JP",
    "no_transcript": false,
    "skip_reason": "",
    "picks": [
     {
-     "name": "ファナック",
-     "ticker": "6954",
+     "name": "ダイダン",
+     "ticker": "1980",
      "stance": "bullish",
-     "timestamp": "00:00"
+     "timestamp": "02:22"
+    },
+    {
+     "name": "レーザーテック",
+     "ticker": "6920",
+     "stance": "neutral",
+     "timestamp": "03:32"
+    },
+    {
+     "name": "アドバンテスト",
+     "ticker": "6857",
+     "stance": "bullish",
+     "timestamp": "04:55"
+    },
+    {
+     "name": "SUMCO",
+     "ticker": "3436",
+     "stance": "bearish",
+     "timestamp": "06:02"
+    },
+    {
+     "name": "ローツェ",
+     "ticker": "6323",
+     "stance": "bearish",
+     "timestamp": "06:56"
+    },
+    {
+     "name": "ライフコーポレーション",
+     "ticker": "8194",
+     "stance": "bearish",
+     "timestamp": "08:00"
+    },
+    {
+     "name": "味の素",
+     "ticker": "2802",
+     "stance": "bullish",
+     "timestamp": "11:17"
+    },
+    {
+     "name": "トーメンデバイス",
+     "ticker": "2737",
+     "stance": "neutral",
+     "timestamp": "11:50"
+    },
+    {
+     "name": "SHIFT",
+     "ticker": "3697",
+     "stance": "neutral",
+     "timestamp": "13:36"
+    },
+    {
+     "name": "弁護士ドットコム",
+     "ticker": "6027",
+     "stance": "bearish",
+     "timestamp": "14:10"
+    },
+    {
+     "name": "KOA",
+     "ticker": "6999",
+     "stance": "bullish",
+     "timestamp": "15:20"
+    },
+    {
+     "name": "KOKUSAI ELECTRIC",
+     "ticker": "6525",
+     "stance": "bullish",
+     "timestamp": "17:15"
+    },
+    {
+     "name": "太陽誘電",
+     "ticker": "6976",
+     "stance": "neutral",
+     "timestamp": "17:50"
+    },
+    {
+     "name": "フェローテックホールディングス",
+     "ticker": "6890",
+     "stance": "neutral",
+     "timestamp": "18:52"
+    },
+    {
+     "name": "キオクシアホールディングス",
+     "ticker": "",
+     "stance": "neutral",
+     "timestamp": "22:22"
+    },
+    {
+     "name": "TDK",
+     "ticker": "6762",
+     "stance": "bearish",
+     "timestamp": "23:45"
+    },
+    {
+     "name": "さくらインターネット",
+     "ticker": "3778",
+     "stance": "bearish",
+     "timestamp": "25:06"
+    },
+    {
+     "name": "村田製作所",
+     "ticker": "6981",
+     "stance": "neutral",
+     "timestamp": "26:15"
+    },
+    {
+     "name": "アストロスケールホールディングス",
+     "ticker": "186A",
+     "stance": "bearish",
+     "timestamp": "27:40"
+    },
+    {
+     "name": "ウエストホールディングス",
+     "ticker": "1407",
+     "stance": "neutral",
+     "timestamp": "28:40"
+    },
+    {
+     "name": "JINSホールディングス",
+     "ticker": "3046",
+     "stance": "neutral",
+     "timestamp": "30:00"
+    },
+    {
+     "name": "中外製薬",
+     "ticker": "4519",
+     "stance": "neutral",
+     "timestamp": "31:05"
+    },
+    {
+     "name": "イビデン",
+     "ticker": "4062",
+     "stance": "neutral",
+     "timestamp": "32:18"
+    },
+    {
+     "name": "山口フィナンシャルグループ",
+     "ticker": "8418",
+     "stance": "neutral",
+     "timestamp": "34:05"
+    },
+    {
+     "name": "信越化学工業",
+     "ticker": "4063",
+     "stance": "bullish",
+     "timestamp": "35:50"
+    },
+    {
+     "name": "日東電工",
+     "ticker": "6988",
+     "stance": "neutral",
+     "timestamp": "37:00"
+    },
+    {
+     "name": "NEC",
+     "ticker": "6701",
+     "stance": "bullish",
+     "timestamp": "40:28"
+    },
+    {
+     "name": "日本高度紙工業",
+     "ticker": "4973",
+     "stance": "bearish",
+     "timestamp": "41:22"
+    },
+    {
+     "name": "ユニチカ",
+     "ticker": "3103",
+     "stance": "neutral",
+     "timestamp": "42:58"
+    },
+    {
+     "name": "ディスコ",
+     "ticker": "6146",
+     "stance": "bullish",
+     "timestamp": "43:20"
+    },
+    {
+     "name": "井関農機",
+     "ticker": "6310",
+     "stance": "neutral",
+     "timestamp": "45:00"
+    },
+    {
+     "name": "バンダイナムコホールディングス",
+     "ticker": "7832",
+     "stance": "neutral",
+     "timestamp": "46:05"
+    },
+    {
+     "name": "三菱商事",
+     "ticker": "8058",
+     "stance": "bullish",
+     "timestamp": "48:42"
+    },
+    {
+     "name": "ソフトバンクグループ",
+     "ticker": "9984",
+     "stance": "bearish",
+     "timestamp": "49:15"
+    },
+    {
+     "name": "住友ベークライト",
+     "ticker": "4203",
+     "stance": "bullish",
+     "timestamp": "50:40"
+    },
+    {
+     "name": "住友ファーマ",
+     "ticker": "4506",
+     "stance": "neutral",
+     "timestamp": "52:30"
+    },
+    {
+     "name": "川崎重工業",
+     "ticker": "7012",
+     "stance": "bearish",
+     "timestamp": "53:50"
+    },
+    {
+     "name": "インフロニア・ホールディングス",
+     "ticker": "5076",
+     "stance": "bullish",
+     "timestamp": "55:45"
+    },
+    {
+     "name": "V・テクノロジー",
+     "ticker": "7717",
+     "stance": "bearish",
+     "timestamp": "56:10"
+    },
+    {
+     "name": "ソニーグループ",
+     "ticker": "6758",
+     "stance": "bullish",
+     "timestamp": "57:20"
+    },
+    {
+     "name": "パナソニック ホールディングス",
+     "ticker": "6752",
+     "stance": "bullish",
+     "timestamp": "1:00:10"
+    },
+    {
+     "name": "三井不動産",
+     "ticker": "8801",
+     "stance": "bullish",
+     "timestamp": "1:03:22"
+    },
+    {
+     "name": "東宝",
+     "ticker": "9602",
+     "stance": "bullish",
+     "timestamp": "1:09:16"
+    },
+    {
+     "name": "不二越",
+     "ticker": "6474",
+     "stance": "neutral",
+     "timestamp": "1:10:40"
+    }
+   ]
+  },
+  {
+   "video_id": "8wkpHxPQ_Qw",
+   "title": "明日の注目銘柄を見てみる！（アドバンテスト・太陽誘電・レーザーテック・フジクラ・古河電工・サイバーセキュリティ関連など）株式テクニカルチャート分析",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-10-25T09:00:22+00:00",
+   "overview": "来週の本格的な決算シーズンを前に、主要銘柄のスケジュールとテクニカル面に応じた立ち回り方を解説しています。アドバンテストやレーザーテックといった半導体関連銘柄の決算期待買いや押し目狙いに加え、活況なサイバーセキュリティ関連銘柄、個別材料が出たメルカリ、調整が進んだ外食株のリバウンド狙いなど、地合いに応じた注目銘柄とポイントを提示しています。",
+   "market_view": "地合いはスイングポジションを控えめにする局面であり、来週本格化する決算発表に焦点を絞った個別株主体の立ち回りが推奨されます。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "アドバンテスト",
+     "ticker": "6857",
+     "stance": "bullish",
+     "timestamp": "04:19"
+    },
+    {
+     "name": "太陽誘電",
+     "ticker": "6976",
+     "stance": "bullish",
+     "timestamp": "05:07"
+    },
+    {
+     "name": "古河電気工業",
+     "ticker": "5801",
+     "stance": "bullish",
+     "timestamp": "06:12"
+    },
+    {
+     "name": "フジクラ",
+     "ticker": "5803",
+     "stance": "bullish",
+     "timestamp": "06:43"
+    },
+    {
+     "name": "レーザーテック",
+     "ticker": "6920",
+     "stance": "bullish",
+     "timestamp": "07:17"
+    },
+    {
+     "name": "ディスコ",
+     "ticker": "6146",
+     "stance": "bullish",
+     "timestamp": "08:22"
+    },
+    {
+     "name": "HENNGE",
+     "ticker": "4475",
+     "stance": "bullish",
+     "timestamp": "09:26"
+    },
+    {
+     "name": "サイバートラスト",
+     "ticker": "4498",
+     "stance": "bullish",
+     "timestamp": "09:41"
+    },
+    {
+     "name": "データセクション",
+     "ticker": "3905",
+     "stance": "bullish",
+     "timestamp": "10:30"
+    },
+    {
+     "name": "シー・エス・シー",
+     "ticker": "4814",
+     "stance": "bullish",
+     "timestamp": "11:16"
+    },
+    {
+     "name": "メルカリ",
+     "ticker": "4385",
+     "stance": "bullish",
+     "timestamp": "11:32"
+    },
+    {
+     "name": "丸千代山岡家",
+     "ticker": "3399",
+     "stance": "bullish",
+     "timestamp": "12:21"
     }
    ]
   },
