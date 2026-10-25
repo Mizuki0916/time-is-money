@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T17:05:08.032950+09:00",
+ "generated_at": "2026-10-25T18:05:15.438875+09:00",
  "channels": [
   {
    "id": "UCsaeHha7ai_NNX8or8Jyb-g",
@@ -15,7 +15,7 @@
    "short": "TOMO",
    "slot": 2,
    "video_count": 2,
-   "latest": "2026-10-24T10:23:15+00:00"
+   "latest": "2026-10-25T08:13:28+00:00"
   },
   {
    "id": "UCK9Pl6bbWqMC_x7IDca2tIg",
@@ -35,12 +35,12 @@
   }
  ],
  "stats": {
-  "stocks": 18,
-  "videos": 8,
-  "videos_this_week": 7,
-  "bullish_lead": 10,
+  "stocks": 16,
+  "videos": 7,
+  "videos_this_week": 6,
+  "bullish_lead": 9,
   "split": 0,
-  "skipped": 0
+  "skipped": 1
  },
  "stocks": [
   {
@@ -387,28 +387,6 @@
      "timestamp": "00:00",
      "seconds": 0,
      "confidence": "high"
-    },
-    {
-     "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-     "channel_name": "トレーダーTOMO",
-     "channel_short": "TOMO",
-     "slot": 2,
-     "video_id": "VrOd7YEJPcc",
-     "video_title": "ファナック（6954）好決算！株式テクニカルチャート分析",
-     "published": "2026-10-24T03:00:15+00:00",
-     "stance": "neutral",
-     "stance_note": "好決算も6000円台のしこり抜け待ち",
-     "target_price": "",
-     "entry": "6100円〜6300円を上抜けた後",
-     "stop": "",
-     "reasons": [
-      "中間決算の会社予想上振れと通期上方修正、上限500億円の自社株買いを発表し、営業利益率の劇的な改善も好材料視される。",
-      "中国を中心にAI・半導体関連向けFA需要が好調で、ロボット部門も米中市場で自動化投資が牽引し業績を後押ししている。",
-      "信用買い残が多く6000円台に出来高のしこりがあるため、上値を抜けてスイングを行うには出来高の増加と節目の突破が必要となる。"
-     ],
-     "timestamp": "00:03",
-     "seconds": 3,
-     "confidence": "high"
     }
    ],
    "consensus": {
@@ -483,215 +461,6 @@
     "exchange_name": "Tokyo",
     "market_open": false,
     "symbol": "6954.T",
-    "source": "yahoo",
-    "fetched_at": "2026-10-24T22:53:04.222466+00:00"
-   }
-  },
-  {
-   "key": "JP:6506",
-   "name": "安川電機",
-   "name_en": "Yaskawa Electric Corporation",
-   "ticker": "6506",
-   "market": "JP",
-   "mentions": [
-    {
-     "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-     "channel_name": "トレーダーTOMO",
-     "channel_short": "TOMO",
-     "slot": 2,
-     "video_id": "VrOd7YEJPcc",
-     "video_title": "ファナック（6954）好決算！株式テクニカルチャート分析",
-     "published": "2026-10-24T03:00:15+00:00",
-     "stance": "bullish",
-     "stance_note": "割安感があり需給改善で上昇期待",
-     "target_price": "4800円〜4900円",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "FA需要の強さから業績は好調を維持しており、現在の株価位置はバリュエーション的に見ても過剰に割安な水準にある。",
-      "個人の信用買い残が多く足元は調整しているが、オーバーアンダーの改善や地合い回復とともに株価反転が期待される。"
-     ],
-     "timestamp": "08:25",
-     "seconds": 505,
-     "confidence": "medium"
-    }
-   ],
-   "consensus": {
-    "bullish": 1,
-    "bearish": 0,
-    "neutral": 0
-   },
-   "voices": 1,
-   "split": false,
-   "last_mentioned": "2026-10-24T03:00:15+00:00",
-   "channel_ids": [
-    "UCdQdRRLoajrt-5TEaAxslxA"
-   ],
-   "price": {
-    "date": "2026-10-23",
-    "close": 4022.0,
-    "change_pct": -0.27,
-    "live": null,
-    "live_change_pct": null,
-    "live_time": null,
-    "volume": 6364900,
-    "volume_ratio": 1.51,
-    "rsi14": 29.8,
-    "rsi_zone": "売られすぎ",
-    "ma25": 4520.88,
-    "ma75": 5001.73,
-    "trend": "下降基調",
-    "pos52": 7,
-    "spark": [
-     4966.0,
-     4949.0,
-     4883.0,
-     4811.0,
-     4780.0,
-     4700.0,
-     4475.0,
-     4500.0,
-     4570.0,
-     4661.0,
-     4456.0,
-     4503.0,
-     4432.0,
-     4301.0,
-     4299.0,
-     4296.0,
-     4360.0,
-     4299.0,
-     4383.0,
-     4507.0,
-     4480.0,
-     4453.0,
-     4528.0,
-     4633.0,
-     4779.0,
-     4806.0,
-     4931.0,
-     4936.0,
-     4946.0,
-     4789.0,
-     4783.0,
-     4840.0,
-     4712.0,
-     4274.0,
-     4378.0,
-     4373.0,
-     4277.0,
-     4204.0,
-     4033.0,
-     4022.0
-    ],
-    "currency": "JPY",
-    "exchange_name": "Tokyo",
-    "market_open": false,
-    "symbol": "6506.T",
-    "source": "yahoo",
-    "fetched_at": "2026-10-24T22:53:04.222466+00:00"
-   }
-  },
-  {
-   "key": "JP:6861",
-   "name": "キーエンス",
-   "name_en": "Keyence Corporation",
-   "ticker": "6861",
-   "market": "JP",
-   "mentions": [
-    {
-     "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-     "channel_name": "トレーダーTOMO",
-     "channel_short": "TOMO",
-     "slot": 2,
-     "video_id": "VrOd7YEJPcc",
-     "video_title": "ファナック（6954）好決算！株式テクニカルチャート分析",
-     "published": "2026-10-24T03:00:15+00:00",
-     "stance": "neutral",
-     "stance_note": "決算発表への期待感",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "同セクターのファナックの好決算によりFA市場の堅調さが確認されたため、今後の決算内容への期待が高まっている。"
-     ],
-     "timestamp": "04:41",
-     "seconds": 281,
-     "confidence": "low"
-    }
-   ],
-   "consensus": {
-    "bullish": 0,
-    "bearish": 0,
-    "neutral": 1
-   },
-   "voices": 1,
-   "split": false,
-   "last_mentioned": "2026-10-24T03:00:15+00:00",
-   "channel_ids": [
-    "UCdQdRRLoajrt-5TEaAxslxA"
-   ],
-   "price": {
-    "date": "2026-10-23",
-    "close": 78380.0,
-    "change_pct": -2.46,
-    "live": null,
-    "live_change_pct": null,
-    "live_time": null,
-    "volume": 667100,
-    "volume_ratio": 1.21,
-    "rsi14": 43.7,
-    "rsi_zone": "中立",
-    "ma25": 79522.4,
-    "ma75": 79310.53,
-    "trend": "調整中",
-    "pos52": 74,
-    "spark": [
-     82250.0,
-     81500.0,
-     82150.0,
-     82960.0,
-     83660.0,
-     82280.0,
-     78020.0,
-     77980.0,
-     77720.0,
-     78890.0,
-     76760.0,
-     76280.0,
-     76500.0,
-     76000.0,
-     75960.0,
-     75660.0,
-     75900.0,
-     76100.0,
-     76580.0,
-     77270.0,
-     79600.0,
-     78500.0,
-     79480.0,
-     80480.0,
-     81200.0,
-     80270.0,
-     81680.0,
-     81490.0,
-     81560.0,
-     80000.0,
-     80540.0,
-     79770.0,
-     80330.0,
-     78970.0,
-     80760.0,
-     81410.0,
-     80910.0,
-     80860.0,
-     80360.0,
-     78380.0
-    ],
-    "currency": "JPY",
-    "exchange_name": "Tokyo",
-    "market_open": false,
-    "symbol": "6861.T",
     "source": "yahoo",
     "fetched_at": "2026-10-24T22:53:04.222466+00:00"
    }

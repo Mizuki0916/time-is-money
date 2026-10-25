@@ -407,6 +407,23 @@
    ]
   },
   {
+   "video_id": "NcIyuEuwXNQ",
+   "title": "来週の相場に備えて！　日本株チャート分析LIVE　10/25",
+   "published": "2026-10-25T08:13:28+00:00",
+   "description": "🔽「株オンラインサロン」\n→　https://yoor.jp/door/tradertomo\n\n※ 参加プラン別のサービス内容はこちらの動画で解説しています。\n→https://youtu.be/LtXywHzgOHs?si=G3UipVQW0JsWkv5t\n\n株好きが集まる楽しいサロンを目指してます♪\n初心者歓迎です～ご参加お待ちしています！\n\n🔽松井証券口座開設キャンペーン中！\nAmazonギフトカード500円プレゼント\n\n以下の特設ページから口座開設＆アンケート回答でGET！\n→https://www.tcs-asp.net/alink?AC=C131836&LC=MTI1&SQ=1&isq=100",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "no_transcript": true,
+   "skip_reason": "この動画には字幕がありません",
+   "attempts": 1,
+   "overview": "",
+   "market_view": "",
+   "market": "",
+   "picks": []
+  },
+  {
    "video_id": "7jLJxwqZaWw",
    "title": "ファナック　好決算上方修正&自社株買い！　#shorts",
    "published": "2026-10-24T10:23:15+00:00",
@@ -437,74 +454,6 @@
      ],
      "timestamp": "00:00",
      "confidence": "high"
-    }
-   ]
-  },
-  {
-   "video_id": "VrOd7YEJPcc",
-   "title": "ファナック（6954）好決算！株式テクニカルチャート分析",
-   "published": "2026-10-24T03:00:15+00:00",
-   "description": "🔽株のオンラインサロンやってます！次回メンバー募集は11月から\nエンジョイプランはいつでも初月無料で参加できます★\n→　https://yoor.jp/door/tradertomo\n\n※ 参加プラン別のサービス内容はこちらの動画で解説しています。\n→https://youtu.be/AGZetFvA-Xk?si=Qy_ctky7kW1QSOHX\n\n株好きが集まる楽しいサロンを目指してます♪\n初心者歓迎です～ご参加お待ちしています！\n\n🔽サブチャンネルもやってます＾＾\nhttps://www.youtube.com/@TOMO-subtrader\n\n---------------------------------------------\n🔽公式LINEやってます！ともだち登録お願いします☆\n---------------------------------------------\n\n「う",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "ファナック(6954)の好決算、通期業績予想の上方修正、500億円規模の自社株買い発表を受けて詳細を分析しています。FA事業やロボット分野の需要回復と営業利益率の改善を高く評価する一方で、信用買い残の多さや6000円台に存在する出来高のしこりを警戒点として挙げています。また、同セクターの安川電機についても割安感と今後の株価反転の可能性について触れています。",
-   "market_view": "地合いの影響によりFA関連銘柄が全体的に調整局面にあるものの、市場全体の地合いが戻ればモメンタムに伴う買戻しや連動した上昇が期待できるとしています。",
-   "market": "JP",
-   "picks": [
-    {
-     "name": "ファナック",
-     "name_en": "FANUC CORPORATION",
-     "ticker": "6954",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "好決算も6000円台のしこり抜け待ち",
-     "target_price": "",
-     "entry": "6100円〜6300円を上抜けた後",
-     "stop": "",
-     "reasons": [
-      "中間決算の会社予想上振れと通期上方修正、上限500億円の自社株買いを発表し、営業利益率の劇的な改善も好材料視される。",
-      "中国を中心にAI・半導体関連向けFA需要が好調で、ロボット部門も米中市場で自動化投資が牽引し業績を後押ししている。",
-      "信用買い残が多く6000円台に出来高のしこりがあるため、上値を抜けてスイングを行うには出来高の増加と節目の突破が必要となる。"
-     ],
-     "timestamp": "00:03",
-     "confidence": "high"
-    },
-    {
-     "name": "安川電機",
-     "name_en": "Yaskawa Electric Corporation",
-     "ticker": "6506",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "割安感があり需給改善で上昇期待",
-     "target_price": "4800円〜4900円",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "FA需要の強さから業績は好調を維持しており、現在の株価位置はバリュエーション的に見ても過剰に割安な水準にある。",
-      "個人の信用買い残が多く足元は調整しているが、オーバーアンダーの改善や地合い回復とともに株価反転が期待される。"
-     ],
-     "timestamp": "08:25",
-     "confidence": "medium"
-    },
-    {
-     "name": "キーエンス",
-     "name_en": "Keyence Corporation",
-     "ticker": "6861",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "決算発表への期待感",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "同セクターのファナックの好決算によりFA市場の堅調さが確認されたため、今後の決算内容への期待が高まっている。"
-     ],
-     "timestamp": "04:41",
-     "confidence": "low"
     }
    ]
   },

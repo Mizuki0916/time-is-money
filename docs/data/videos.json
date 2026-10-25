@@ -1,6 +1,21 @@
 {
- "generated_at": "2026-10-25T17:05:45.922083+09:00",
+ "generated_at": "2026-10-25T18:05:15.536786+09:00",
  "videos": [
+  {
+   "video_id": "NcIyuEuwXNQ",
+   "title": "来週の相場に備えて！　日本株チャート分析LIVE　10/25",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-10-25T08:13:28+00:00",
+   "overview": "",
+   "market_view": "",
+   "market": "",
+   "no_transcript": true,
+   "skip_reason": "この動画には字幕がありません",
+   "picks": []
+  },
   {
    "video_id": "7jLJxwqZaWw",
    "title": "ファナック　好決算上方修正&自社株買い！　#shorts",
@@ -20,40 +35,6 @@
      "ticker": "6954",
      "stance": "bullish",
      "timestamp": "00:00"
-    }
-   ]
-  },
-  {
-   "video_id": "VrOd7YEJPcc",
-   "title": "ファナック（6954）好決算！株式テクニカルチャート分析",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-10-24T03:00:15+00:00",
-   "overview": "ファナック(6954)の好決算、通期業績予想の上方修正、500億円規模の自社株買い発表を受けて詳細を分析しています。FA事業やロボット分野の需要回復と営業利益率の改善を高く評価する一方で、信用買い残の多さや6000円台に存在する出来高のしこりを警戒点として挙げています。また、同セクターの安川電機についても割安感と今後の株価反転の可能性について触れています。",
-   "market_view": "地合いの影響によりFA関連銘柄が全体的に調整局面にあるものの、市場全体の地合いが戻ればモメンタムに伴う買戻しや連動した上昇が期待できるとしています。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "ファナック",
-     "ticker": "6954",
-     "stance": "neutral",
-     "timestamp": "00:03"
-    },
-    {
-     "name": "安川電機",
-     "ticker": "6506",
-     "stance": "bullish",
-     "timestamp": "08:25"
-    },
-    {
-     "name": "キーエンス",
-     "ticker": "6861",
-     "stance": "neutral",
-     "timestamp": "04:41"
     }
    ]
   },
