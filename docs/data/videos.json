@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T01:05:52.029777+09:00",
+ "generated_at": "2026-10-27T02:07:29.007240+09:00",
  "videos": [
   {
    "video_id": "NoHtkNHp3nI",
@@ -8,13 +8,68 @@
    "channel_name": "Sho's投資情報局",
    "channel_short": "Sho",
    "slot": 3,
-   "published": "2026-10-26T12:54:14+00:00",
-   "overview": "",
-   "market_view": "",
-   "market": "",
-   "no_transcript": true,
-   "skip_reason": "この動画には字幕がありません",
-   "picks": []
+   "published": "2026-10-26T16:26:44+00:00",
+   "overview": "日経平均が半導体株の投げ売りにより500円安となる中、年末に向けた相場見通しと個別銘柄の受給分析を解説しています。信用買い残が多く受給が悪化した半導体・ハイテク銘柄は戻り売り圧力が強い一方、各種移動平均線がゴールデンクロスし受給が良好な銘柄へ資金が向かう二極化相場が進んでいます。焦らず受給の良い銘柄に絞り、来年を見越した計画的なトレードを行うようアドバイスしています。",
+   "market_view": "受給悪化銘柄からの戻り売り圧力により上値が重い半導体株と、受給良好で上値を追う銘柄に二極化。11月は一時的な連動高の戻りがあっても年末に向けて受給を意識した立ち回りが必要です。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "任天堂",
+     "ticker": "7974",
+     "stance": "neutral",
+     "timestamp": "04:24"
+    },
+    {
+     "name": "ソニーグループ",
+     "ticker": "6758",
+     "stance": "neutral",
+     "timestamp": "06:52"
+    },
+    {
+     "name": "サンリオ",
+     "ticker": "8136",
+     "stance": "bullish",
+     "timestamp": "08:50"
+    },
+    {
+     "name": "アドバンテスト",
+     "ticker": "6857",
+     "stance": "bearish",
+     "timestamp": "11:27"
+    },
+    {
+     "name": "東京エレクトロン",
+     "ticker": "8035",
+     "stance": "bearish",
+     "timestamp": "12:12"
+    },
+    {
+     "name": "キオクシアホールディングス",
+     "ticker": "285A",
+     "stance": "bearish",
+     "timestamp": "15:47"
+    },
+    {
+     "name": "JX金属",
+     "ticker": "5016",
+     "stance": "bearish",
+     "timestamp": "20:22"
+    },
+    {
+     "name": "三菱重工業",
+     "ticker": "7011",
+     "stance": "bearish",
+     "timestamp": "30:44"
+    },
+    {
+     "name": "大林組",
+     "ticker": "1802",
+     "stance": "bullish",
+     "timestamp": "47:26"
+    }
+   ]
   },
   {
    "video_id": "W-qWtLM5MQw",
