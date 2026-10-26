@@ -237,259 +237,38 @@
    ]
   },
   {
-   "video_id": "9LkJOEzdE4E",
-   "title": "【日経平均】 緊迫した相場続く 上値は重いまま  サンディスク・キオクシア・太陽誘電・オンコリスバイオ・セキュアヴェイル・ショーケース",
-   "published": "2026-10-26T11:00:10+00:00",
-   "description": "※動画の趣旨は個人的主観の予測であり、値動きを保証するものではありません。\n　投資の判断は自己責任でお願いします。\n\n◉セミナーお申し込み\nhttps://sakura-inv.com/seminar/20261028/\n\n◉トレンド分析の基礎おすすめ動画\n【永久保存版】初心者でもわかるダウ理論の使い方【前編】\nhttps://youtu.be/re9XBR2qcBw\n【永久保存版】初心者でもわかるダウ理論の使い方【後編】\nhttps://youtu.be/Z21W4VFSs9g\n【知らなきゃ勝てない】移動平均線で相場を読む最強の方法\nhttps://youtu.be/FfSX8hcRR2I\n【一目均衡表の真髄】初心者でも分かる完全ガイド\nhttps://youtu.be/xPkb1twTFFI\n\n◉SBI証券株式会社キャンペーン　手数料無料、取引ツール便利PR\nhttps://h.acc",
+   "video_id": "W-qWtLM5MQw",
+   "title": "10/26 お久しぶりです チャート分析ライブ 緊迫した相場でどう考えどう立ち回るべきか",
+   "published": "2026-10-26T11:50:15+00:00",
+   "description": "※ライブ内での発言は個人的主観の予測であり、値動きを保証するものではありません。\n　投資の判断は自己責任でお願いします。\n\nトレンド分析マスターコース\n「無料オンライン講座(全5回)」＆豪華特典プレゼント！\n【完全無料】→ https://www.fpo.jp/suzuki/\n\n◉セミナーお申し込み\nhttps://sakura-inv.com/seminar/20261028/\n\n◉トレンド分析の基礎おすすめ動画\n【永久保存版】初心者でもわかるダウ理論の使い方【前編】\nhttps://youtu.be/re9XBR2qcBw\n【永久保存版】初心者でもわかるダウ理論の使い方【後編】\nhttps://youtu.be/Z21W4VFSs9g\n【知らなきゃ勝てない】移動平均線で相場を読む最強の方法\nhttps://youtu.be/FfSX8hcRR2I\n【一目均衡表の真髄】初心者でも分かる完",
    "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
    "channel_name": "Trader's Lab",
    "channel_short": "TL",
    "slot": 1,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "本動画では、日米の中銀イベントや米中間選挙を控えて日経平均の上値が重く、テクニカル悪化からイベント通過後の下抜けリスクを警戒する見解が示されています。個別銘柄では、キオクシアや太陽誘電などの半導体・電子部品株にしこりが多く下落警戒とされる一方、TOPIX採用を背景に好調なオンコリスバイオや、過熱感を伴いながら物色されるセキュアヴェイルなどのセキュリティ関連株が取り上げられています。",
-   "market_view": "日米の中銀イベント等を控え相場全体は方向感を欠きますが、テクニカルの悪化から下抜けリスクが高く慎重な姿勢が必要です。",
-   "market": "JP",
-   "picks": [
-    {
-     "name": "日経平均株価",
-     "name_en": "Nikkei 225",
-     "ticker": "1321",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "イベント通過後の下落やレンジ下抜けを警戒",
-     "target_price": "60000",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "PER17倍の6万4000円水準が抵抗線となり、16倍の6万円水準までの1段下げを想定すべき展開。",
-      "日足で三役逆転が確定しており、週足でも26週線を2週連続で割り込むなど明確にモメンタムが悪化。"
-     ],
-     "timestamp": "02:14",
-     "confidence": "high"
-    },
-    {
-     "name": "キオクシア",
-     "name_en": "Kioxia Holdings",
-     "ticker": "285A",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "直近安値割り込みによる急落に警戒",
-     "target_price": "",
-     "entry": "",
-     "stop": "11380",
-     "reasons": [
-      "1万2000円台後半は戻り売り圧力が強く、直近1週間で買った多くの投資家が含み損を抱える厳しい状態。",
-      "金曜安値の1万1380円を割り込むと売りが加速し出来高が薄い6000〜8000円付近まで急落する恐れ。"
-     ],
-     "timestamp": "24:28",
-     "confidence": "high"
-    },
-    {
-     "name": "サンディスク",
-     "name_en": "SanDisk",
-     "ticker": "SNDK",
-     "market": "US",
-     "stance": "bearish",
-     "stance_note": "バンドウォーク進行で上値が重い展開",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "5日線やボリンジャーバンドを下回るバンドウォークが続いており下落トレンドから抜け出せない状態。",
-      "直近の安値を明確に割り込むと4月末の安値を指向する形となりチャート形状が悪化している。"
-     ],
-     "timestamp": "29:00",
-     "confidence": "medium"
-    },
-    {
-     "name": "太陽誘電",
-     "name_en": "Taiyo Yuden",
-     "ticker": "6976",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "戻り売りシコリと下値ブレイクに警戒",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "9月中旬からの上昇分を全戻しする行ってこいの展開となり、9000円台を中心にシコリが大量に残る。",
-      "直近の安値を割り込むと出来高の希薄な5000円台の元のブレイクアウト水準まで調整が進むリスク。"
-     ],
-     "timestamp": "29:58",
-     "confidence": "high"
-    },
-    {
-     "name": "オンコリスバイオファーマ",
-     "name_en": "Oncolys BioPharma",
-     "ticker": "4588",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "TOPIX採用や対局の上昇波動継続に期待",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "TOPIX採用に伴う資金流入が意識されており、月足および週足レベルで上昇トレンドを維持している。",
-      "直近高値の720円を上抜ければ対局の上昇波動が継続し、中長期的な高値追いが期待できる局面。"
-     ],
-     "timestamp": "33:09",
-     "confidence": "high"
-    },
-    {
-     "name": "セキュアヴェイル",
-     "name_en": "Secureveil",
-     "ticker": "3042",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "上場来高値更新で青天井も過熱感に注意",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "年初来高値を更新中で、約20年前の高値1540円を突破すればシコリのない青天井の展開へ突入する。",
-      "25日線乖離率が100%を超えるなど極めて加熱感が高く、短期資金の流入による乱高下に注意が必要。"
-     ],
-     "timestamp": "35:10",
-     "confidence": "medium"
-    },
-    {
-     "name": "ショーケース",
-     "name_en": "Showcase",
-     "ticker": "3909",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "急騰もテクニカル乖離が大きく高リスク",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "時価総額が小さく短期資金が急流入して買われているが、過去の戻り高値が存在し上値に壁がある。",
-      "移動平均線からの乖離率が100%を超えて過熱感が強くテクニカルでの分析が困難なハイリスク局面。"
-     ],
-     "timestamp": "37:35",
-     "confidence": "medium"
-    }
-   ]
+   "no_transcript": true,
+   "skip_reason": "動画が非公開・削除・配信予定などで取得できません",
+   "attempts": 1,
+   "overview": "",
+   "market_view": "",
+   "market": "",
+   "picks": []
   },
   {
-   "video_id": "aHS1IdHRBPI",
-   "title": "【日経平均】 セリクラまだ終わらない？ 下げ止まりはどこか サンディスク・キオクシア・太陽誘電・オンコリスバイオ・ノースサンド",
-   "published": "2026-10-23T11:29:14+00:00",
+   "video_id": "CwMkv4xzuow",
+   "title": "10/26 お久しぶりです チャート分析ライブ 緊迫した相場でどう考えどう立ち回るべきか",
+   "published": "2026-10-26T11:38:42+00:00",
    "description": "※動画の趣旨は個人的主観の予測であり、値動きを保証するものではありません。\n　投資の判断は自己責任でお願いします。\n\nトレンド分析マスターコース\n「無料オンライン講座(全5回)」＆豪華特典プレゼント！\n【完全無料】→ https://www.fpo.jp/suzuki/\n\n◉セミナーお申し込み\nhttps://sakura-inv.com/seminar/20261028/\n\n◉トレンド分析の基礎おすすめ動画\n【永久保存版】初心者でもわかるダウ理論の使い方【前編】\nhttps://youtu.be/re9XBR2qcBw\n【永久保存版】初心者でもわかるダウ理論の使い方【後編】\nhttps://youtu.be/Z21W4VFSs9g\n【知らなきゃ勝てない】移動平均線で相場を読む最強の方法\nhttps://youtu.be/FfSX8hcRR2I\n【一目均衡表の真髄】初心者でも分かる完全ガイ",
    "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
    "channel_name": "Trader's Lab",
    "channel_short": "TL",
    "slot": 1,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "日経平均や米株指数のテクニカル分析を中心に、今後の相場見通しと注目個別銘柄の動向を解説する動画です。日経平均は重要安値を割り込んで明確な調整局面に入っており、日米欧の政策金利発表などの各種イベントを控える中で、6万円近辺を目指す下落リスクへの警戒が呼びかけられています。個別株では、先行して下落トレンドを形成している半導体・電子部品関連株と、地合いに逆行して高値を追う強気銘柄が対比して分析されています。",
-   "market_view": "政策金利発表や各種イベント前に相場全体のテクニカル形状が悪化しており、全体相場は下ぶれリスクが高く警戒が必要な局面です。",
-   "market": "MIX",
-   "picks": [
-    {
-     "name": "日経平均株価",
-     "name_en": "Nikkei 225",
-     "ticker": "N225",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "調整局面入りし6万円を目指す下落を警戒",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "9月10日の安値を明確に下抜けし上昇トレンドが否定され調整局面入り。イベント通過後などに6万円を目指す下落リスクがあるため。",
-      "信用評価損益率の悪化やボリンジャーバンドのバンドウォークなど、テクニカルおよび需給の両面で急落リスクが懸念されるため。"
-     ],
-     "timestamp": "02:26",
-     "confidence": "high"
-    },
-    {
-     "name": "キオクシアホールディングス",
-     "name_en": "Kioxia Holdings Corporation",
-     "ticker": "",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "下落トレンド確定で11,380円割れなら底なし",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "高値を起点とした巨大な下落N波動が確定し、日足レベルでの明確な下落トレンドに転換したため。",
-      "直近1年で急騰した反動に加え、高値圏のシコリ玉が多く安値11,380円を割ると底なしの下落に発展する懸念があるため。"
-     ],
-     "timestamp": "39:14",
-     "confidence": "high"
-    },
-    {
-     "name": "サンディスク",
-     "name_en": "SanDisk Corporation",
-     "ticker": "SNDK",
-     "market": "US",
-     "stance": "bearish",
-     "stance_note": "下落傾向継続で7月末安値を目指す展開",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "週足でマイナス1シグマに対するバンドウォークが継続しており、日足チャートでも下落傾向が顕著であるため。",
-      "直近のレンジを下抜ける動きとなっており、7月末につけた安値を目指して調整が進む可能性が高いと見られるため。"
-     ],
-     "timestamp": "45:28",
-     "confidence": "medium"
-    },
-    {
-     "name": "太陽誘電",
-     "name_en": "Taiyo Yuden Co., Ltd.",
-     "ticker": "6976",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "8,320円を下抜け下落トレンドが継続",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "9月10日の安値8,320円を下抜けたことで下落トレンドが確定し、チャート形状が一段と悪化したため。",
-      "直近半年間で買った投資家の多くが含み損を抱えており、戻り売り圧力など需給面の悪さが影響しているため。"
-     ],
-     "timestamp": "46:09",
-     "confidence": "high"
-    },
-    {
-     "name": "オンコリスバイオファーマ",
-     "name_en": "Oncolys BioPharma Inc.",
-     "ticker": "4588",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "13週線が機能し中長期上昇トレンドを維持",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "週足の13週移動平均線がサポートとして機能しており、中長期的な上昇トレンドを維持しているため。",
-      "相場全体が急落する混沌とした状況においても逆行高を見せており、相対的に高いモメンタムを維持しているため。"
-     ],
-     "timestamp": "49:58",
-     "confidence": "medium"
-    },
-    {
-     "name": "ノースサンド",
-     "name_en": "North Sand Co., Ltd.",
-     "ticker": "",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "連日で高値を更新し非常に強い上昇トレンド",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "連日で高値を更新しており、日足でボリンジャーバンドのプラス2シグマに沿ったバンドウォークが継続しているため。",
-      "指数の地合いに左右されず買われており、モメンタムが非常に強くパフォーマンスに優れた銘柄であるため。"
-     ],
-     "timestamp": "51:41",
-     "confidence": "medium"
-    }
-   ]
+   "no_transcript": true,
+   "skip_reason": "動画が非公開・削除・配信予定などで取得できません",
+   "attempts": 1,
+   "overview": "",
+   "market_view": "",
+   "market": "",
+   "picks": []
   },
   {
    "video_id": "NcIyuEuwXNQ",

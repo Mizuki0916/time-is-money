@@ -1,63 +1,35 @@
 {
- "generated_at": "2026-10-26T20:09:05.052123+09:00",
+ "generated_at": "2026-10-26T21:05:53.656649+09:00",
  "videos": [
   {
-   "video_id": "9LkJOEzdE4E",
-   "title": "【日経平均】 緊迫した相場続く 上値は重いまま  サンディスク・キオクシア・太陽誘電・オンコリスバイオ・セキュアヴェイル・ショーケース",
+   "video_id": "W-qWtLM5MQw",
+   "title": "10/26 お久しぶりです チャート分析ライブ 緊迫した相場でどう考えどう立ち回るべきか",
    "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
    "channel_name": "Trader's Lab",
    "channel_short": "TL",
    "slot": 1,
-   "published": "2026-10-26T11:00:10+00:00",
-   "overview": "本動画では、日米の中銀イベントや米中間選挙を控えて日経平均の上値が重く、テクニカル悪化からイベント通過後の下抜けリスクを警戒する見解が示されています。個別銘柄では、キオクシアや太陽誘電などの半導体・電子部品株にしこりが多く下落警戒とされる一方、TOPIX採用を背景に好調なオンコリスバイオや、過熱感を伴いながら物色されるセキュアヴェイルなどのセキュリティ関連株が取り上げられています。",
-   "market_view": "日米の中銀イベント等を控え相場全体は方向感を欠きますが、テクニカルの悪化から下抜けリスクが高く慎重な姿勢が必要です。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "日経平均株価",
-     "ticker": "1321",
-     "stance": "bearish",
-     "timestamp": "02:14"
-    },
-    {
-     "name": "キオクシア",
-     "ticker": "285A",
-     "stance": "bearish",
-     "timestamp": "24:28"
-    },
-    {
-     "name": "サンディスク",
-     "ticker": "SNDK",
-     "stance": "bearish",
-     "timestamp": "29:00"
-    },
-    {
-     "name": "太陽誘電",
-     "ticker": "6976",
-     "stance": "bearish",
-     "timestamp": "29:58"
-    },
-    {
-     "name": "オンコリスバイオファーマ",
-     "ticker": "4588",
-     "stance": "bullish",
-     "timestamp": "33:09"
-    },
-    {
-     "name": "セキュアヴェイル",
-     "ticker": "3042",
-     "stance": "neutral",
-     "timestamp": "35:10"
-    },
-    {
-     "name": "ショーケース",
-     "ticker": "3909",
-     "stance": "neutral",
-     "timestamp": "37:35"
-    }
-   ]
+   "published": "2026-10-26T11:50:15+00:00",
+   "overview": "",
+   "market_view": "",
+   "market": "",
+   "no_transcript": true,
+   "skip_reason": "動画が非公開・削除・配信予定などで取得できません",
+   "picks": []
+  },
+  {
+   "video_id": "CwMkv4xzuow",
+   "title": "10/26 お久しぶりです チャート分析ライブ 緊迫した相場でどう考えどう立ち回るべきか",
+   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+   "channel_name": "Trader's Lab",
+   "channel_short": "TL",
+   "slot": 1,
+   "published": "2026-10-26T11:38:42+00:00",
+   "overview": "",
+   "market_view": "",
+   "market": "",
+   "no_transcript": true,
+   "skip_reason": "動画が非公開・削除・配信予定などで取得できません",
+   "picks": []
   },
   {
    "video_id": "MPk6Jo6TJd8",
@@ -550,58 +522,6 @@
      "ticker": "3399",
      "stance": "bullish",
      "timestamp": "12:21"
-    }
-   ]
-  },
-  {
-   "video_id": "aHS1IdHRBPI",
-   "title": "【日経平均】 セリクラまだ終わらない？ 下げ止まりはどこか サンディスク・キオクシア・太陽誘電・オンコリスバイオ・ノースサンド",
-   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-   "channel_name": "Trader's Lab",
-   "channel_short": "TL",
-   "slot": 1,
-   "published": "2026-10-23T11:29:14+00:00",
-   "overview": "日経平均や米株指数のテクニカル分析を中心に、今後の相場見通しと注目個別銘柄の動向を解説する動画です。日経平均は重要安値を割り込んで明確な調整局面に入っており、日米欧の政策金利発表などの各種イベントを控える中で、6万円近辺を目指す下落リスクへの警戒が呼びかけられています。個別株では、先行して下落トレンドを形成している半導体・電子部品関連株と、地合いに逆行して高値を追う強気銘柄が対比して分析されています。",
-   "market_view": "政策金利発表や各種イベント前に相場全体のテクニカル形状が悪化しており、全体相場は下ぶれリスクが高く警戒が必要な局面です。",
-   "market": "MIX",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "日経平均株価",
-     "ticker": "N225",
-     "stance": "bearish",
-     "timestamp": "02:26"
-    },
-    {
-     "name": "キオクシアホールディングス",
-     "ticker": "",
-     "stance": "bearish",
-     "timestamp": "39:14"
-    },
-    {
-     "name": "サンディスク",
-     "ticker": "SNDK",
-     "stance": "bearish",
-     "timestamp": "45:28"
-    },
-    {
-     "name": "太陽誘電",
-     "ticker": "6976",
-     "stance": "bearish",
-     "timestamp": "46:09"
-    },
-    {
-     "name": "オンコリスバイオファーマ",
-     "ticker": "4588",
-     "stance": "bullish",
-     "timestamp": "49:58"
-    },
-    {
-     "name": "ノースサンド",
-     "ticker": "",
-     "stance": "bullish",
-     "timestamp": "51:41"
     }
    ]
   },
