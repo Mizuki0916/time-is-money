@@ -241,19 +241,138 @@
   {
    "video_id": "W-qWtLM5MQw",
    "title": "この状況について考えましょう",
-   "published": "2026-10-26T11:50:15+00:00",
+   "published": "2026-10-26T17:03:22+00:00",
    "description": "※ライブ内での発言は個人的主観の予測であり、値動きを保証するものではありません。\n　投資の判断は自己責任でお願いします。\n\nトレンド分析マスターコース\n「無料オンライン講座(全5回)」＆豪華特典プレゼント！\n【完全無料】→ https://www.fpo.jp/suzuki/\n\n◉セミナーお申し込み\nhttps://sakura-inv.com/seminar/20261028/\n\n◉トレンド分析の基礎おすすめ動画\n【永久保存版】初心者でもわかるダウ理論の使い方【前編】\nhttps://youtu.be/re9XBR2qcBw\n【永久保存版】初心者でもわかるダウ理論の使い方【後編】\nhttps://youtu.be/Z21W4VFSs9g\n【知らなきゃ勝てない】移動平均線で相場を読む最強の方法\nhttps://youtu.be/FfSX8hcRR2I\n【一目均衡表の真髄】初心者でも分かる完",
    "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
    "channel_name": "Trader's Lab",
    "channel_short": "TL",
    "slot": 1,
-   "no_transcript": true,
-   "skip_reason": "この動画には字幕がありません",
-   "attempts": 6,
-   "overview": "",
-   "market_view": "",
-   "market": "",
-   "picks": []
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "相場の調整局面における立ち回りやトレード戦略について解説する動画。配信者は下落相場においてロングに固執せず、ショート(ヘッジ売り)や短期売買を交えるトレーダー的思考と、厳格な資金管理・損切り戦略の重要性を強調する。個別銘柄についてはダウ理論やマルチタイムフレーム分析を基に、トレンドの有無や買い場・売り場の判断を視聴者の質問に答える形で解説している。",
+   "market_view": "日経平均は自律反発が入っても63,000〜64,000円程度が戻りの目途であり上値は重い。地合いが不安定な局面ではロングの優位性が低く、短期的な値動きに合わせた柔軟なヘッジやキャッシュ比率の調整が必要。",
+   "market": "JP",
+   "picks": [
+    {
+     "name": "キオクシアホールディングス",
+     "name_en": "Kioxia Holdings",
+     "ticker": "285A",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "高値安値切り下げの下落基調で買い不可",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "チャートは高値と安値を切り下げる下落基調であり、決算で上昇しても戻り売りに押されやすい構造であるため。",
+      "下落トレンド中の決算跨ぎはギャンブルであり、決算後にさらにドボンする下落リスクが高いため。"
+     ],
+     "timestamp": "10:25",
+     "confidence": "high"
+    },
+    {
+     "name": "アドバンテスト",
+     "name_en": "Advantest",
+     "ticker": "6857",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "200日線等の明確な下値支持線までの調整待ち",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "日経平均の動きに大きく影響を受けるため、指数全体の調整に合わせた見極めが必要となるため。",
+      "200日移動平均線や過去安値水準(27,000〜28,000円付近)まで下に大きく乖離した局面でのみ買いを検討するため。"
+     ],
+     "timestamp": "27:39",
+     "confidence": "medium"
+    },
+    {
+     "name": "テラドローン",
+     "name_en": "Terra Drone",
+     "ticker": "278A",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "水平ラインでの下げ止まり確認も出口戦略必須",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "過去の高値水準(5,370円付近)の水平ラインで下げ止まる挙動を見せており、逆張りの根拠は存在するため。",
+      "ただし基本は逆張り領域であるため、直近安値を割った場合の損切りなど明確な出口戦略が不可欠となるため。"
+     ],
+     "timestamp": "1:33:10",
+     "confidence": "medium"
+    },
+    {
+     "name": "日本タバコ産業",
+     "name_en": "Japan Tobacco",
+     "ticker": "2914",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "過去高値などの支持線まで調整すれば押し目買い",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "指定された過去高値などの明確な下値支持線まで調整して下げ止まるのであれば、押し目買いとして合理的であるため。",
+      "エントリー後にどのような値動きで撤退するかという出口戦略をあらかじめ決めて臨むことが前提となるため。"
+     ],
+     "timestamp": "1:36:24",
+     "confidence": "medium"
+    },
+    {
+     "name": "ハピネット",
+     "name_en": "Happinet",
+     "ticker": "7552",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "綺麗な右肩上がり継続、25日線タッチが狙い目",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "チャートが綺麗な右肩上がりを継続しており、出来高を伴った堅調な上昇トレンドが形成されているため。",
+      "押し目を狙う場合は25日移動平均線まで引きつけてタッチしたタイミングが最も安全なエントリーとなるため。"
+     ],
+     "timestamp": "1:46:00",
+     "confidence": "medium"
+    },
+    {
+     "name": "ディスコ",
+     "name_en": "DISCO",
+     "ticker": "6146",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "日足下落トレンド継続で買い対象外",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "日足ベースで明確な下落トレンドとなっており、トレンドが存在しないため買いで入る根拠がないため。",
+      "相場全体や半導体セクターの地合いの悪化を受けてチャート形状が崩れており、打診買いも危険であるため。"
+     ],
+     "timestamp": "2:06:36",
+     "confidence": "medium"
+    },
+    {
+     "name": "グローバルセキュリティエキスパート",
+     "name_en": "GLOBAL SECURITY EXPERTS",
+     "ticker": "4417",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "セキュリティ関連の中で安定した上昇トレンド",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "セキュリティ関連銘柄の中で明確な上昇トレンドを維持しており、相場全体の中でも硬い動きを見せているため。",
+      "過度なボラティリティに振られず、チャート形状が崩れていないためトレンドフォローとして機能しやすいため。"
+     ],
+     "timestamp": "2:12:30",
+     "confidence": "medium"
+    }
+   ]
   },
   {
    "video_id": "CwMkv4xzuow",
@@ -266,7 +385,7 @@
    "slot": 1,
    "no_transcript": true,
    "skip_reason": "動画が非公開・削除・配信予定などで取得できません",
-   "attempts": 2,
+   "attempts": 3,
    "overview": "",
    "market_view": "",
    "market": "",
