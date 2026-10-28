@@ -1,6 +1,86 @@
 {
- "generated_at": "2026-10-28T14:02:23.886710+09:00",
+ "generated_at": "2026-10-28T16:28:53.550000+09:00",
  "videos": [
+  {
+   "video_id": "alj6YsPkiho",
+   "title": "【日経平均】 大幅上昇だが 抵抗ライン到達 ここが正念場です  サンディスク・キオクシア・サイバートラスト・データセクション・オンコリスバイオ",
+   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+   "channel_name": "Trader's Lab",
+   "channel_short": "TL",
+   "slot": 1,
+   "published": "2026-10-27T10:36:00+00:00",
+   "overview": "日米の金利発表や米中間選挙などの重要イベントを控え、日経平均株価は大幅反発したものの自立反発の域を出ず抵抗ライン付近での慎重な見極めが求められる状況です。個別銘柄では、需給悪化が続くキオクシアや連日ストップ高で急騰するデータセクション、加熱感の漂うサイバートラストなどを分析しています。一方、オンコリスバイオは良好なチャート形状を背景に高値更新と中長期的な上昇期待が解説されています。",
+   "market_view": "日米の政策金利発表などのイベントを控え、指数は自立反発か一段下げかの見極め局面であり、イベント通過まではポジション管理を徹底し様子見姿勢を保つことが推奨されます。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "日経平均株価",
+     "ticker": "N225",
+     "stance": "neutral",
+     "timestamp": "01:56"
+    },
+    {
+     "name": "キオクシア",
+     "ticker": "285A",
+     "stance": "bearish",
+     "timestamp": "14:52"
+    },
+    {
+     "name": "サイバートラスト",
+     "ticker": "4498",
+     "stance": "neutral",
+     "timestamp": "18:09"
+    },
+    {
+     "name": "データセクション",
+     "ticker": "3905",
+     "stance": "neutral",
+     "timestamp": "21:15"
+    },
+    {
+     "name": "オンコリスバイオ",
+     "ticker": "4588",
+     "stance": "bullish",
+     "timestamp": "23:14"
+    }
+   ]
+  },
+  {
+   "video_id": "WFNxbk3uu_A",
+   "title": "10/27【日経平均の上昇短命か⁉日本株空売り激減→半導体株騙し上げで年末安か⁉】キオクシア投げ売り加速。ドル円157円。米国株、ナスダック、ハイテク株上昇仮想通貨BTC弱",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-10-27T09:15:01+00:00",
+   "overview": "日経平均株価は半導体株を中心に上昇したものの、空売り残高の減少や信用買いの偏りによる需給悪化から、短命な騙し上げとなる可能性が指摘されています。2018年と同様の推移を仮定した場合、11月は一時的な自立反発を挟むボックス相場となるものの、12月の年末に向けて投げ売りが再加速するリスクに警戒が必要です。投資戦略としては、需給状態の良好な銘柄の選別や、年末の投げ売り局面での買い場探しが推奨されています。",
+   "market_view": "空売り残高の枯渇と信用買い残の高止まりにより上昇力は限定的であり、11月の一時的な反発後に12月の年末安へ向かう下落リスクに警戒が必要です。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "キオクシア",
+     "ticker": "285A",
+     "stance": "bearish",
+     "timestamp": "24:38"
+    },
+    {
+     "name": "東京エレクトロン",
+     "ticker": "8035",
+     "stance": "neutral",
+     "timestamp": "25:58"
+    },
+    {
+     "name": "アドバンテスト",
+     "ticker": "6857",
+     "stance": "bullish",
+     "timestamp": "32:11"
+    }
+   ]
+  },
   {
    "video_id": "W-qWtLM5MQw",
    "title": "この状況について考えましょう",
@@ -126,55 +206,6 @@
      "ticker": "1802",
      "stance": "bullish",
      "timestamp": "47:26"
-    }
-   ]
-  },
-  {
-   "video_id": "CwMkv4xzuow",
-   "title": "10/26 お久しぶりです チャート分析ライブ 緊迫した相場でどう考えどう立ち回るべきか",
-   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-   "channel_name": "Trader's Lab",
-   "channel_short": "TL",
-   "slot": 1,
-   "published": "2026-10-26T11:38:42+00:00",
-   "overview": "",
-   "market_view": "",
-   "market": "",
-   "no_transcript": true,
-   "skip_reason": "動画が非公開・削除・配信予定などで取得できません",
-   "picks": []
-  },
-  {
-   "video_id": "MPk6Jo6TJd8",
-   "title": "10/26【日本株ついに稼ぎ時来るか⁉️】半導体株投げ売り加速で日経平均500円安→二極化相場。キオクシアまた下落。ドル円157円。米国株、ナスダック、ハイテク株大荒れか⁉仮想通貨BTC弱",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-10-26T09:15:00+00:00",
-   "overview": "日経平均株価は半導体株を中心に投げ売りが加速し大きく下落する中、需給の優劣による二極化相場が進行しています。信用買い残が高水準であるのに対して空売りが乏しく、上昇燃料が枯渇した危険な状態が続いています。2018年の相場展開と酷似しており、年末の損益通算売りや信用期日に向けて半導体株等の下落圧力に警戒が必要です。",
-   "market_view": "信用需給の悪化と上昇エネルギーの枯渇により、年末に向けて半導体・ハイテク株を中心に下落・調整リスクが高い二極化相場が想定されます。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "日経平均株価",
-     "ticker": "998407",
-     "stance": "bearish",
-     "timestamp": "01:10"
-    },
-    {
-     "name": "キオクシアホールディングス",
-     "ticker": "285A",
-     "stance": "bearish",
-     "timestamp": "29:10"
-    },
-    {
-     "name": "東京エレクトロン",
-     "ticker": "8035",
-     "stance": "bearish",
-     "timestamp": "31:16"
     }
    ]
   },
