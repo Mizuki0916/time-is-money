@@ -1,6 +1,73 @@
 {
  "videos": [
   {
+   "video_id": "0ocLQFYvFBk",
+   "title": "10/28【日経平均、半導体株爆上げで高値掴みついに助かるか‼】キオクシア14％爆上げ‼日本株空売り激減で戻り売り警戒。ドル円157円。米国株、ナスダック、ハイテク株も大幅高。仮想通貨BTC弱",
+   "published": "2026-10-28T17:08:01+00:00",
+   "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "半導体株の上昇やキオクシアの急騰、アドバンテストの好決算を受けた日経平均の動向について解説しています。足元の半導体株高は想定より1週間早く到来しており、11月にかけて乱高下しながら上昇する可能性があるものの、2018年の相場パターンと同様に年末に向けたブルトラップや戻り売りに警戒が必要だと強調しています。また、決算後に急落したカプコンなどの個別銘柄のテクニカル分析も行い、感情的なトレードを避け慎重に立ち回るよう助言しています。",
+   "market_view": "日経平均はPER16倍から17倍のレンジ内へ移行しており、半導体株主導で戻りを試す一方で、年末に向けた信用買い方の戻り売りや二番底形成に注意が必要です。",
+   "market": "JP",
+   "picks": [
+    {
+     "name": "キオクシア",
+     "name_en": "Kioxia Holdings",
+     "ticker": "285A",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "急騰も年末に向けた戻り売り警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "SKハイニックス決算後にショートカバー等を巻き込み急騰も、信用評価損益率の悪化から戻り売りが出やすい。",
+      "11月は乱高下しながら上昇する可能性もあるが、年末に向けた損益通算売りや戻り売りの下落リスクに注意。"
+     ],
+     "timestamp": "07:07",
+     "confidence": "high"
+    },
+    {
+     "name": "アドバンテスト",
+     "name_en": "Advantest",
+     "ticker": "6857",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "好決算でPTS上昇も高値警戒で様子見",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "決算発表を受けて時間外取引(PTS)で買われているが、今後の半導体セクター全体の地合いと戻り売りに要警戒。"
+     ],
+     "timestamp": "14:09",
+     "confidence": "medium"
+    },
+    {
+     "name": "カプコン",
+     "name_en": "Capcom Co., Ltd.",
+     "ticker": "9697",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "過熱的な急落後の自律反発狙い",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "決算通過後に急落しボリンジャーバンド-4シグマまで下落しているため、売られすぎからの自律反発が入る可能性がある。",
+      "200日移動平均線付近の3600円程度まで下落すれば買い戻しが入りやすく、リバウンド狙いの局面と判断できる。"
+     ],
+     "timestamp": "34:46",
+     "confidence": "medium"
+    }
+   ]
+  },
+  {
    "video_id": "WFNxbk3uu_A",
    "title": "10/27【日経平均の上昇短命か⁉日本株空売り激減→半導体株騙し上げで年末安か⁉】キオクシア投げ売り加速。ドル円157円。米国株、ナスダック、ハイテク株上昇仮想通貨BTC弱",
    "published": "2026-10-27T09:15:01+00:00",
@@ -63,176 +130,6 @@
       "安値からの上昇過程にあり高値での信用捕まりが少ないため、他の半導体株と比べて需給面で優位性があるため。"
      ],
      "timestamp": "32:11",
-     "confidence": "medium"
-    }
-   ]
-  },
-  {
-   "video_id": "NoHtkNHp3nI",
-   "title": "10/26【日本株ついに稼ぎ時来るか⁉️】半導体株投げ売り加速で日経平均500円安→二極化相場。キオクシアまた下落。ドル円157円。米国株、ナスダック、ハイテク株大荒れか⁉仮想通貨BTC弱",
-   "published": "2026-10-26T16:26:44+00:00",
-   "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "日経平均が半導体株の投げ売りにより500円安となる中、年末に向けた相場見通しと個別銘柄の受給分析を解説しています。信用買い残が多く受給が悪化した半導体・ハイテク銘柄は戻り売り圧力が強い一方、各種移動平均線がゴールデンクロスし受給が良好な銘柄へ資金が向かう二極化相場が進んでいます。焦らず受給の良い銘柄に絞り、来年を見越した計画的なトレードを行うようアドバイスしています。",
-   "market_view": "受給悪化銘柄からの戻り売り圧力により上値が重い半導体株と、受給良好で上値を追う銘柄に二極化。11月は一時的な連動高の戻りがあっても年末に向けて受給を意識した立ち回りが必要です。",
-   "market": "JP",
-   "picks": [
-    {
-     "name": "任天堂",
-     "name_en": "Nintendo",
-     "ticker": "7974",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "決算控え目先は様子見、中長期保有なら継続",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "信用買い残がこの1ヶ月で減少傾向にあり、受給の改善が進んでいる。",
-      "25日と200日移動平均線のゴールデンクロス形成局面であり決算発表待ち。"
-     ],
-     "timestamp": "04:24",
-     "confidence": "high"
-    },
-    {
-     "name": "ソニーグループ",
-     "name_en": "Sony Group",
-     "ticker": "6758",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "バンドウォーク終了のため次のサイン待ち",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "バンドウォークが終了したためチャートの反転サインが出るまで様子見。",
-      "パラボリックやMACDなどのテクニカル指標の形状確認が必要である。"
-     ],
-     "timestamp": "06:52",
-     "confidence": "medium"
-    },
-    {
-     "name": "サンリオ",
-     "name_en": "Sanrio",
-     "ticker": "8136",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "移動平均線のゴールデンクロスと受給良で強い",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "200日や75日などの各移動平均線がゴールデンクロスを形成して上昇傾向。",
-      "信用倍率が2.79倍と受給が改善傾向にあり資金が流入しやすい構造。"
-     ],
-     "timestamp": "08:50",
-     "confidence": "medium"
-    },
-    {
-     "name": "アドバンテスト",
-     "name_en": "Advantest",
-     "ticker": "6857",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "信用倍率悪化とデッドクロス形成懸念で警戒",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "信用買い残が増加し信用倍率が9.13倍まで悪化して捕まっている人が多い。",
-      "5日線と100日移動平均線のデッドクロス形成で下落方向への警戒が必要。"
-     ],
-     "timestamp": "11:27",
-     "confidence": "medium"
-    },
-    {
-     "name": "東京エレクトロン",
-     "name_en": "Tokyo Electron",
-     "ticker": "8035",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "信用倍率20倍超の受給悪化で決算前も重い",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "制度信用倍率が20.97倍と非常に高く受給が非常に重い状態になっている。",
-      "決算に向かって下落方向にバンドウォークが継続しているチャート形状。"
-     ],
-     "timestamp": "12:12",
-     "confidence": "high"
-    },
-    {
-     "name": "キオクシアホールディングス",
-     "name_en": "Kioxia Holdings",
-     "ticker": "285A",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "受給悪化で決算戻りがあっても戻り売り警戒",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "貸借倍率が非常に悪く受給面での上値の重さが強く意識されている。",
-      "決算で一時上昇しても25日線や200日線付近で叩き落とされるリスクがある。"
-     ],
-     "timestamp": "15:47",
-     "confidence": "high"
-    },
-    {
-     "name": "JX金属",
-     "name_en": "JX Metals",
-     "ticker": "5016",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "信用倍率高水準と強烈な下落トレンドで危険",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "信用倍率が24.11倍と悪く値ごろ感で買った層が下落で捕まっている。",
-      "チャート上の下のラインに沿って下がる強烈な下落トレンドを形成中。"
-     ],
-     "timestamp": "20:22",
-     "confidence": "medium"
-    },
-    {
-     "name": "三菱重工業",
-     "name_en": "Mitsubishi Heavy Industries",
-     "ticker": "7011",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "信用買残減らず重いため年内上昇は厳しい見込み",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "信用倍率が21.48倍と高く信用買い残が減少する兆しが見られない。",
-      "受給の壁が厚く年内はボックス圏か下押しの動きになりやすい。"
-     ],
-     "timestamp": "30:44",
-     "confidence": "high"
-    },
-    {
-     "name": "大林組",
-     "name_en": "Obayashi",
-     "ticker": "1802",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "移動平均線ゴールデンクロス形成で強い動き",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "75日線と5日移動平均線のゴールデンクロス形成が見込まれている。",
-      "相場全体が軟調な中でも強い推移を見せておりストキャスも加熱感がない。"
-     ],
-     "timestamp": "47:26",
      "confidence": "medium"
     }
    ]
