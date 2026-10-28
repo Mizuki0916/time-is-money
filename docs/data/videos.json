@@ -1,6 +1,50 @@
 {
- "generated_at": "2026-10-29T08:23:06.952395+09:00",
+ "generated_at": "2026-10-29T08:26:03.039946+09:00",
  "videos": [
+  {
+   "video_id": "_EdKxYbVBYc",
+   "title": "キオクシア決算直前！ここから株価上昇か？",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-10-28T21:00:23+00:00",
+   "overview": "SKハイニックスの好決算を受けて好調な動きを見せるキオクシアホールディングスについて解説しています。TOPIXの浮動株比率引き上げに伴い、パッシブファンドによる巨額の買付が確定で見込まれている点や出来高の復活が好材料とされています。1万6000円台の売りをこなしながら進行できれば、決算発表に向けて1万7000円や1万8000円を目指す展開が期待されています。",
+   "market_view": "SKハイニックスの好決算などを立役者として、日本市場は非常に強い動きを見せました。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "キオクシアホールディングス",
+     "ticker": "285A",
+     "stance": "bullish",
+     "timestamp": "00:00"
+    }
+   ]
+  },
+  {
+   "video_id": "l9c4MgV3e94",
+   "title": "アドバンテスト好決算！12%上方修正　今日から半導体株を引っ張るか？",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-10-28T21:00:16+00:00",
+   "overview": "アドバンテストの好決算について解説した動画です。今期最終利益を12%上方修正し、2Qおよび通期予想が市場コンセンサスを大きく上振れたことを高く評価しています。株価は直近の軟調な地合いの中で天井圏から約30%下落したことで売り方の整理が進んでおり、3万4000円から3万5000円台のラインを固めた後の素直な株価上昇が狙えると分析しています。",
+   "market_view": "ここ最近は軟調な地合いが続いていたものの、下落調整が進んだことで銘柄の新陳代謝が促されたと見ています。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "アドバンテスト",
+     "ticker": "6857",
+     "stance": "bullish",
+     "timestamp": "00:00"
+    }
+   ]
+  },
   {
    "video_id": "alj6YsPkiho",
    "title": "【日経平均】 大幅上昇だが 抵抗ライン到達 ここが正念場です  サンディスク・キオクシア・サイバートラスト・データセクション・オンコリスバイオ",
@@ -78,76 +122,6 @@
      "ticker": "6857",
      "stance": "bullish",
      "timestamp": "32:11"
-    }
-   ]
-  },
-  {
-   "video_id": "OS07T6_wzhM",
-   "title": "今日の活況銘柄を見てみる！（キオクシア・古河電工・フジクラ・古河電工・太陽誘電・データセクションなど）株式テクニカルチャート分析",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-10-27T07:43:58+00:00",
-   "overview": "米国でのアンソロピックIPO観測や主要指標の上昇を受けて日経平均が反発する中、主要な半導体・データセンター関連銘柄や決算発表銘柄のテクニカル分析が解説されています。キオクシアやフジクラなどは上値の重さが目立つ一方、好決算期待のあるアドバンテストやトーメンデバイス、材料でストップ高となったデータセクションなどが注目されています。各銘柄の決算通過後の動きや需給状況を見極めた慎重なトレードが推奨されています。",
-   "market_view": "アンソロピックのIPO申請をきっかけにAI・半導体関連が買われ日経平均は反発したものの、寄付き後の追い買いは限定的で決算見極めの展開となっています。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "キオクシアホールディングス",
-     "ticker": "285A",
-     "stance": "neutral",
-     "timestamp": "04:44"
-    },
-    {
-     "name": "太陽誘電",
-     "ticker": "6976",
-     "stance": "bearish",
-     "timestamp": "05:41"
-    },
-    {
-     "name": "ソフトバンクグループ",
-     "ticker": "9984",
-     "stance": "neutral",
-     "timestamp": "06:31"
-    },
-    {
-     "name": "イビデン",
-     "ticker": "4062",
-     "stance": "bullish",
-     "timestamp": "07:23"
-    },
-    {
-     "name": "古河電気工業",
-     "ticker": "5801",
-     "stance": "bearish",
-     "timestamp": "08:26"
-    },
-    {
-     "name": "データセクション",
-     "ticker": "3905",
-     "stance": "neutral",
-     "timestamp": "09:24"
-    },
-    {
-     "name": "フジクラ",
-     "ticker": "5803",
-     "stance": "bearish",
-     "timestamp": "11:20"
-    },
-    {
-     "name": "アドバンテスト",
-     "ticker": "6857",
-     "stance": "bullish",
-     "timestamp": "12:25"
-    },
-    {
-     "name": "トーメンデバイス",
-     "ticker": "2737",
-     "stance": "bullish",
-     "timestamp": "12:57"
     }
    ]
   },
@@ -298,286 +272,6 @@
      "ticker": "9861",
      "stance": "bullish",
      "timestamp": "05:22"
-    }
-   ]
-  },
-  {
-   "video_id": "NcIyuEuwXNQ",
-   "title": "来週の相場に備えて！　日本株チャート分析LIVE　10/25",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-10-25T09:44:21+00:00",
-   "overview": "本動画では、10月最終週に向けた日本株の相場展望と注目銘柄のチャート・決算分析がライブ形式で解説されました。地政学リスクや原油高への警戒感から日経平均は重いスタートが想定されるものの、決算発表が本格化する中で調整が進んだ主要株の押し目買いや決算跨ぎの戦略が示されています。特に半導体関連や好業績銘柄における信用需給の確認重要性が強調されています。",
-   "market_view": "原油価格の急騰や地政学リスクを注視しつつ、日経平均はフラットからやや安めのスタートを想定。決算発表本格化に伴い押し目買いの好機を探る相場展開を見込む。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "ダイダン",
-     "ticker": "1980",
-     "stance": "bullish",
-     "timestamp": "02:22"
-    },
-    {
-     "name": "レーザーテック",
-     "ticker": "6920",
-     "stance": "neutral",
-     "timestamp": "03:32"
-    },
-    {
-     "name": "アドバンテスト",
-     "ticker": "6857",
-     "stance": "bullish",
-     "timestamp": "04:55"
-    },
-    {
-     "name": "SUMCO",
-     "ticker": "3436",
-     "stance": "bearish",
-     "timestamp": "06:02"
-    },
-    {
-     "name": "ローツェ",
-     "ticker": "6323",
-     "stance": "bearish",
-     "timestamp": "06:56"
-    },
-    {
-     "name": "ライフコーポレーション",
-     "ticker": "8194",
-     "stance": "bearish",
-     "timestamp": "08:00"
-    },
-    {
-     "name": "味の素",
-     "ticker": "2802",
-     "stance": "bullish",
-     "timestamp": "11:17"
-    },
-    {
-     "name": "トーメンデバイス",
-     "ticker": "2737",
-     "stance": "neutral",
-     "timestamp": "11:50"
-    },
-    {
-     "name": "SHIFT",
-     "ticker": "3697",
-     "stance": "neutral",
-     "timestamp": "13:36"
-    },
-    {
-     "name": "弁護士ドットコム",
-     "ticker": "6027",
-     "stance": "bearish",
-     "timestamp": "14:10"
-    },
-    {
-     "name": "KOA",
-     "ticker": "6999",
-     "stance": "bullish",
-     "timestamp": "15:20"
-    },
-    {
-     "name": "KOKUSAI ELECTRIC",
-     "ticker": "6525",
-     "stance": "bullish",
-     "timestamp": "17:15"
-    },
-    {
-     "name": "太陽誘電",
-     "ticker": "6976",
-     "stance": "neutral",
-     "timestamp": "17:50"
-    },
-    {
-     "name": "フェローテックホールディングス",
-     "ticker": "6890",
-     "stance": "neutral",
-     "timestamp": "18:52"
-    },
-    {
-     "name": "キオクシアホールディングス",
-     "ticker": "",
-     "stance": "neutral",
-     "timestamp": "22:22"
-    },
-    {
-     "name": "TDK",
-     "ticker": "6762",
-     "stance": "bearish",
-     "timestamp": "23:45"
-    },
-    {
-     "name": "さくらインターネット",
-     "ticker": "3778",
-     "stance": "bearish",
-     "timestamp": "25:06"
-    },
-    {
-     "name": "村田製作所",
-     "ticker": "6981",
-     "stance": "neutral",
-     "timestamp": "26:15"
-    },
-    {
-     "name": "アストロスケールホールディングス",
-     "ticker": "186A",
-     "stance": "bearish",
-     "timestamp": "27:40"
-    },
-    {
-     "name": "ウエストホールディングス",
-     "ticker": "1407",
-     "stance": "neutral",
-     "timestamp": "28:40"
-    },
-    {
-     "name": "JINSホールディングス",
-     "ticker": "3046",
-     "stance": "neutral",
-     "timestamp": "30:00"
-    },
-    {
-     "name": "中外製薬",
-     "ticker": "4519",
-     "stance": "neutral",
-     "timestamp": "31:05"
-    },
-    {
-     "name": "イビデン",
-     "ticker": "4062",
-     "stance": "neutral",
-     "timestamp": "32:18"
-    },
-    {
-     "name": "山口フィナンシャルグループ",
-     "ticker": "8418",
-     "stance": "neutral",
-     "timestamp": "34:05"
-    },
-    {
-     "name": "信越化学工業",
-     "ticker": "4063",
-     "stance": "bullish",
-     "timestamp": "35:50"
-    },
-    {
-     "name": "日東電工",
-     "ticker": "6988",
-     "stance": "neutral",
-     "timestamp": "37:00"
-    },
-    {
-     "name": "NEC",
-     "ticker": "6701",
-     "stance": "bullish",
-     "timestamp": "40:28"
-    },
-    {
-     "name": "日本高度紙工業",
-     "ticker": "4973",
-     "stance": "bearish",
-     "timestamp": "41:22"
-    },
-    {
-     "name": "ユニチカ",
-     "ticker": "3103",
-     "stance": "neutral",
-     "timestamp": "42:58"
-    },
-    {
-     "name": "ディスコ",
-     "ticker": "6146",
-     "stance": "bullish",
-     "timestamp": "43:20"
-    },
-    {
-     "name": "井関農機",
-     "ticker": "6310",
-     "stance": "neutral",
-     "timestamp": "45:00"
-    },
-    {
-     "name": "バンダイナムコホールディングス",
-     "ticker": "7832",
-     "stance": "neutral",
-     "timestamp": "46:05"
-    },
-    {
-     "name": "三菱商事",
-     "ticker": "8058",
-     "stance": "bullish",
-     "timestamp": "48:42"
-    },
-    {
-     "name": "ソフトバンクグループ",
-     "ticker": "9984",
-     "stance": "bearish",
-     "timestamp": "49:15"
-    },
-    {
-     "name": "住友ベークライト",
-     "ticker": "4203",
-     "stance": "bullish",
-     "timestamp": "50:40"
-    },
-    {
-     "name": "住友ファーマ",
-     "ticker": "4506",
-     "stance": "neutral",
-     "timestamp": "52:30"
-    },
-    {
-     "name": "川崎重工業",
-     "ticker": "7012",
-     "stance": "bearish",
-     "timestamp": "53:50"
-    },
-    {
-     "name": "インフロニア・ホールディングス",
-     "ticker": "5076",
-     "stance": "bullish",
-     "timestamp": "55:45"
-    },
-    {
-     "name": "V・テクノロジー",
-     "ticker": "7717",
-     "stance": "bearish",
-     "timestamp": "56:10"
-    },
-    {
-     "name": "ソニーグループ",
-     "ticker": "6758",
-     "stance": "bullish",
-     "timestamp": "57:20"
-    },
-    {
-     "name": "パナソニック ホールディングス",
-     "ticker": "6752",
-     "stance": "bullish",
-     "timestamp": "1:00:10"
-    },
-    {
-     "name": "三井不動産",
-     "ticker": "8801",
-     "stance": "bullish",
-     "timestamp": "1:03:22"
-    },
-    {
-     "name": "東宝",
-     "ticker": "9602",
-     "stance": "bullish",
-     "timestamp": "1:09:16"
-    },
-    {
-     "name": "不二越",
-     "ticker": "6474",
-     "stance": "neutral",
-     "timestamp": "1:10:40"
     }
    ]
   },
