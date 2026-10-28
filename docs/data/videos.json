@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T16:28:53.550000+09:00",
+ "generated_at": "2026-10-28T16:31:27.630562+09:00",
  "videos": [
   {
    "video_id": "alj6YsPkiho",
@@ -78,6 +78,76 @@
      "ticker": "6857",
      "stance": "bullish",
      "timestamp": "32:11"
+    }
+   ]
+  },
+  {
+   "video_id": "OS07T6_wzhM",
+   "title": "今日の活況銘柄を見てみる！（キオクシア・古河電工・フジクラ・古河電工・太陽誘電・データセクションなど）株式テクニカルチャート分析",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-10-27T07:43:58+00:00",
+   "overview": "米国でのアンソロピックIPO観測や主要指標の上昇を受けて日経平均が反発する中、主要な半導体・データセンター関連銘柄や決算発表銘柄のテクニカル分析が解説されています。キオクシアやフジクラなどは上値の重さが目立つ一方、好決算期待のあるアドバンテストやトーメンデバイス、材料でストップ高となったデータセクションなどが注目されています。各銘柄の決算通過後の動きや需給状況を見極めた慎重なトレードが推奨されています。",
+   "market_view": "アンソロピックのIPO申請をきっかけにAI・半導体関連が買われ日経平均は反発したものの、寄付き後の追い買いは限定的で決算見極めの展開となっています。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "キオクシアホールディングス",
+     "ticker": "285A",
+     "stance": "neutral",
+     "timestamp": "04:44"
+    },
+    {
+     "name": "太陽誘電",
+     "ticker": "6976",
+     "stance": "bearish",
+     "timestamp": "05:41"
+    },
+    {
+     "name": "ソフトバンクグループ",
+     "ticker": "9984",
+     "stance": "neutral",
+     "timestamp": "06:31"
+    },
+    {
+     "name": "イビデン",
+     "ticker": "4062",
+     "stance": "bullish",
+     "timestamp": "07:23"
+    },
+    {
+     "name": "古河電気工業",
+     "ticker": "5801",
+     "stance": "bearish",
+     "timestamp": "08:26"
+    },
+    {
+     "name": "データセクション",
+     "ticker": "3905",
+     "stance": "neutral",
+     "timestamp": "09:24"
+    },
+    {
+     "name": "フジクラ",
+     "ticker": "5803",
+     "stance": "bearish",
+     "timestamp": "11:20"
+    },
+    {
+     "name": "アドバンテスト",
+     "ticker": "6857",
+     "stance": "bullish",
+     "timestamp": "12:25"
+    },
+    {
+     "name": "トーメンデバイス",
+     "ticker": "2737",
+     "stance": "bullish",
+     "timestamp": "12:57"
     }
    ]
   },
@@ -508,94 +578,6 @@
      "ticker": "6474",
      "stance": "neutral",
      "timestamp": "1:10:40"
-    }
-   ]
-  },
-  {
-   "video_id": "8wkpHxPQ_Qw",
-   "title": "明日の注目銘柄を見てみる！（アドバンテスト・太陽誘電・レーザーテック・フジクラ・古河電工・サイバーセキュリティ関連など）株式テクニカルチャート分析",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-10-25T09:00:22+00:00",
-   "overview": "来週の本格的な決算シーズンを前に、主要銘柄のスケジュールとテクニカル面に応じた立ち回り方を解説しています。アドバンテストやレーザーテックといった半導体関連銘柄の決算期待買いや押し目狙いに加え、活況なサイバーセキュリティ関連銘柄、個別材料が出たメルカリ、調整が進んだ外食株のリバウンド狙いなど、地合いに応じた注目銘柄とポイントを提示しています。",
-   "market_view": "地合いはスイングポジションを控えめにする局面であり、来週本格化する決算発表に焦点を絞った個別株主体の立ち回りが推奨されます。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "アドバンテスト",
-     "ticker": "6857",
-     "stance": "bullish",
-     "timestamp": "04:19"
-    },
-    {
-     "name": "太陽誘電",
-     "ticker": "6976",
-     "stance": "bullish",
-     "timestamp": "05:07"
-    },
-    {
-     "name": "古河電気工業",
-     "ticker": "5801",
-     "stance": "bullish",
-     "timestamp": "06:12"
-    },
-    {
-     "name": "フジクラ",
-     "ticker": "5803",
-     "stance": "bullish",
-     "timestamp": "06:43"
-    },
-    {
-     "name": "レーザーテック",
-     "ticker": "6920",
-     "stance": "bullish",
-     "timestamp": "07:17"
-    },
-    {
-     "name": "ディスコ",
-     "ticker": "6146",
-     "stance": "bullish",
-     "timestamp": "08:22"
-    },
-    {
-     "name": "HENNGE",
-     "ticker": "4475",
-     "stance": "bullish",
-     "timestamp": "09:26"
-    },
-    {
-     "name": "サイバートラスト",
-     "ticker": "4498",
-     "stance": "bullish",
-     "timestamp": "09:41"
-    },
-    {
-     "name": "データセクション",
-     "ticker": "3905",
-     "stance": "bullish",
-     "timestamp": "10:30"
-    },
-    {
-     "name": "シー・エス・シー",
-     "ticker": "4814",
-     "stance": "bullish",
-     "timestamp": "11:16"
-    },
-    {
-     "name": "メルカリ",
-     "ticker": "4385",
-     "stance": "bullish",
-     "timestamp": "11:32"
-    },
-    {
-     "name": "丸千代山岡家",
-     "ticker": "3399",
-     "stance": "bullish",
-     "timestamp": "12:21"
     }
    ]
   },

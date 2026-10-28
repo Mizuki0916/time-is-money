@@ -476,6 +476,179 @@
    ]
   },
   {
+   "video_id": "OS07T6_wzhM",
+   "title": "今日の活況銘柄を見てみる！（キオクシア・古河電工・フジクラ・古河電工・太陽誘電・データセクションなど）株式テクニカルチャート分析",
+   "published": "2026-10-27T07:43:58+00:00",
+   "description": "🔽株のオンラインサロンやってます！次回メンバー募集は11月から\nエンジョイプランはいつでも初月無料で参加できます★\n→　https://yoor.jp/door/tradertomo\n\n※ 参加プラン別のサービス内容はこちらの動画で解説しています。\n→https://youtu.be/AGZetFvA-Xk?si=Qy_ctky7kW1QSOHX\n\n株好きが集まる楽しいサロンを目指してます♪\n初心者歓迎です～ご参加お待ちしています！\n\n🔽サブチャンネルもやってます＾＾\nhttps://www.youtube.com/@TOMO-subtrader\n\n---------------------------------------------\n🔽公式LINEやってます！ともだち登録お願いします☆\n---------------------------------------------\n\n「う",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "米国でのアンソロピックIPO観測や主要指標の上昇を受けて日経平均が反発する中、主要な半導体・データセンター関連銘柄や決算発表銘柄のテクニカル分析が解説されています。キオクシアやフジクラなどは上値の重さが目立つ一方、好決算期待のあるアドバンテストやトーメンデバイス、材料でストップ高となったデータセクションなどが注目されています。各銘柄の決算通過後の動きや需給状況を見極めた慎重なトレードが推奨されています。",
+   "market_view": "アンソロピックのIPO申請をきっかけにAI・半導体関連が買われ日経平均は反発したものの、寄付き後の追い買いは限定的で決算見極めの展開となっています。",
+   "market": "JP",
+   "picks": [
+    {
+     "name": "キオクシアホールディングス",
+     "name_en": "Kioxia Holdings Corporation",
+     "ticker": "285A",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "シコリが多く上値が重い展開、判断保留",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "過去に滞在していた1万4000円付近にはシコリが多く存在し簡単に上抜けるのは難しい状況である。",
+      "1万2500円から1万2600円付近の価格帯が一定の下値支持線として機能している。",
+      "オーバーアンダーの需給が悪化しており決算発表も控えているため積極的な売買はしづらい。"
+     ],
+     "timestamp": "04:44",
+     "confidence": "high"
+    },
+    {
+     "name": "太陽誘電",
+     "name_en": "Taiyo Yuden Co., Ltd.",
+     "ticker": "6976",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "買い圧力が弱まり上値が重い展開を警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "好地合いにもかかわらず買い圧力が弱まっており本日は陰線を形成して上値の重さが目立つ。",
+      "9000円から9500円付近の価格帯には強い上値抵抗感が存在し上値を抑え込んでいる。",
+      "先に決算を発表する村田製作所に期待買いが集まっている影響で資金が分散している可能性がある。"
+     ],
+     "timestamp": "05:41",
+     "confidence": "medium"
+    },
+    {
+     "name": "ソフトバンクグループ",
+     "name_en": "SoftBank Group Corp.",
+     "ticker": "9984",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "下落に伴う売り圧力の消化が必要で過信禁物",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "ギャップアップ後に上髭を引く展開となり出来高も5000万株程度で盛り上がりに欠ける。",
+      "直前の下落局面で形成された陰線に伴う戻り売り圧力を順次こなしていく必要がある。"
+     ],
+     "timestamp": "06:31",
+     "confidence": "medium"
+    },
+    {
+     "name": "イビデン",
+     "name_en": "IBIDEN CO., LTD.",
+     "ticker": "4062",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "本日は押し戻されたが明後日の決算に期待",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "出来高を伴って上昇したが引けにかけて押され移動平均線のラインを割り込んで引けた。",
+      "10月29日に決算発表を控えており内容次第での反発を狙ったトレードが検討できる。"
+     ],
+     "timestamp": "07:23",
+     "confidence": "medium"
+    },
+    {
+     "name": "古河電気工業",
+     "name_en": "Furukawa Electric Co., Ltd.",
+     "ticker": "5801",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "地合いに対してリバウンドが弱く慎重な見極めが必要",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "全体相場が上昇する地合いにおいてもリバウンドが乏しく昨日の高値で押し戻されている。",
+      "データセンター関連銘柄全体でバリエーションの低下が進んでおり戻りが弱い展開が続く。"
+     ],
+     "timestamp": "08:26",
+     "confidence": "medium"
+    },
+    {
+     "name": "データセクション",
+     "name_en": "Data Section Inc.",
+     "ticker": "3905",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "大口介入で活況も急落リスクがあり短期対応が必要",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "大口案件の稼働開始に関するIR材料が好感され大口投資家の資金流入によりストップ高となった。",
+      "過去の急騰局面と比較しても出来高が3300万株と非常に多く短期的な勢いが維持されている。",
+      "大口が相場を支配しているため高値を追える反面急落のリスクが高くスイング保有には不向き。"
+     ],
+     "timestamp": "09:24",
+     "confidence": "high"
+    },
+    {
+     "name": "フジクラ",
+     "name_en": "Fujikura Ltd.",
+     "ticker": "5803",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "上値にシコリが多くしばらくは積極的に触りにくい",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "ギャップアップスタートから陰線を形成しチャート上のシコリの重さが嫌気された。",
+      "出来高も伸び悩んでおり市場の関心が薄くしばらくは積極的に買いづらい形状となっている。"
+     ],
+     "timestamp": "11:20",
+     "confidence": "medium"
+    },
+    {
+     "name": "アドバンテスト",
+     "name_en": "Advantest Corporation",
+     "ticker": "6857",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "明日の決算発表での上方修正期待で注目",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "明日の第2クォーター決算発表において業績の上方修正が出される可能性が高いと見込める。",
+      "通期コンセンサスと会社予想の差が小さく決算に対するハードルが低いため勝負しやすい。"
+     ],
+     "timestamp": "12:25",
+     "confidence": "medium"
+    },
+    {
+     "name": "トーメンデバイス",
+     "name_en": "TOMEN Devices Corporation",
+     "ticker": "2737",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "高配当かつ2Q決算での上方修正・増配に期待",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "第1クォーター時点で進捗率が48.4%と高く第2クォーターでの通期上方修正が期待される。",
+      "配当利回りが5%を超えており決算発表に合わせてさらなる増配が出されるか注目される。"
+     ],
+     "timestamp": "12:57",
+     "confidence": "medium"
+    }
+   ]
+  },
+  {
    "video_id": "NcIyuEuwXNQ",
    "title": "来週の相場に備えて！　日本株チャート分析LIVE　10/25",
    "published": "2026-10-25T09:44:21+00:00",
@@ -1237,227 +1410,6 @@
      ],
      "timestamp": "1:10:40",
      "confidence": "medium"
-    }
-   ]
-  },
-  {
-   "video_id": "8wkpHxPQ_Qw",
-   "title": "明日の注目銘柄を見てみる！（アドバンテスト・太陽誘電・レーザーテック・フジクラ・古河電工・サイバーセキュリティ関連など）株式テクニカルチャート分析",
-   "published": "2026-10-25T09:00:22+00:00",
-   "description": "🔽株のオンラインサロンやってます！次回メンバー募集は11月から\nエンジョイプランはいつでも初月無料で参加できます★\n→　https://yoor.jp/door/tradertomo\n\n※ 参加プラン別のサービス内容はこちらの動画で解説しています。\n→https://youtu.be/AGZetFvA-Xk?si=Qy_ctky7kW1QSOHX\n\n株好きが集まる楽しいサロンを目指してます♪\n初心者歓迎です～ご参加お待ちしています！\n\n🔽サブチャンネルもやってます＾＾\nhttps://www.youtube.com/@TOMO-subtrader\n\n---------------------------------------------\n🔽公式LINEやってます！ともだち登録お願いします☆\n---------------------------------------------\n\n「う",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "来週の本格的な決算シーズンを前に、主要銘柄のスケジュールとテクニカル面に応じた立ち回り方を解説しています。アドバンテストやレーザーテックといった半導体関連銘柄の決算期待買いや押し目狙いに加え、活況なサイバーセキュリティ関連銘柄、個別材料が出たメルカリ、調整が進んだ外食株のリバウンド狙いなど、地合いに応じた注目銘柄とポイントを提示しています。",
-   "market_view": "地合いはスイングポジションを控えめにする局面であり、来週本格化する決算発表に焦点を絞った個別株主体の立ち回りが推奨されます。",
-   "market": "JP",
-   "picks": [
-    {
-     "name": "アドバンテスト",
-     "name_en": "Advantest Corporation",
-     "ticker": "6857",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "決算に向けた3万4000円目指す上昇狙い",
-     "target_price": "34000円",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "10月28日の決算発表に向けた期待買いと3万円付近までの調整完了からの反転狙い。",
-      "3万2300円付近のサポレジや窓埋めを経て3万4000円付近までの上昇を想定。"
-     ],
-     "timestamp": "04:19",
-     "confidence": "high"
-    },
-    {
-     "name": "太陽誘電",
-     "name_en": "Taiyo Yuden Co., Ltd.",
-     "ticker": "6976",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "村田決算連動と8700円に向けた上昇狙い",
-     "target_price": "8700円",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "村田製作所の決算による連動波及効果への期待と8400円ラインからの切り返し狙い。",
-      "8600円上抜けから出来高ボリュームゾーンである8700円付近までの上昇を想定。"
-     ],
-     "timestamp": "05:07",
-     "confidence": "high"
-    },
-    {
-     "name": "古河電気工業",
-     "name_en": "Furukawa Electric Co., Ltd.",
-     "ticker": "5801",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "オーバーアンダー改善で3000円奪還狙い",
-     "target_price": "3000円",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "11月9日の決算に向けた期待感とオーバーアンダーの需給改善傾向をプラス評価。",
-      "信用買い残は多めだが出来高を背景に3000円大台の奪還を目指すテクニカル展開。"
-     ],
-     "timestamp": "06:12",
-     "confidence": "high"
-    },
-    {
-     "name": "フジクラ",
-     "name_en": "Fujikura Ltd.",
-     "ticker": "5803",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "損切り一巡からの需給改善と100円刻み狙い",
-     "target_price": "4500円",
-     "entry": "",
-     "stop": "4000円〜4100円",
-     "reasons": [
-      "一定数の損切り通過による需給改善を期待し、100円ごとの節目を狙うトレード方針。",
-      "4000円〜4100円を撤退ラインに設定し4200円〜4500円への段階的上昇を目指す。"
-     ],
-     "timestamp": "06:43",
-     "confidence": "high"
-    },
-    {
-     "name": "レーザーテック",
-     "name_en": "Lasertec Corporation",
-     "ticker": "6920",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "強気な買いと決算期待による上値模索",
-     "target_price": "40000円",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "前日安値突破と出来高500万株超の堅調さから10月30日決算への買いを期待。",
-      "板のアンダー優勢を前提に4万円付近に存在するしこりまでの買戻し上昇を想定。"
-     ],
-     "timestamp": "07:17",
-     "confidence": "high"
-    },
-    {
-     "name": "ディスコ",
-     "name_en": "DISCO Corporation",
-     "ticker": "6146",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "決算後の売られ過ぎ修正と持ち合い上抜け狙い",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "決算発表後の下落は過剰反応と捉え、5万円割れは売られ過ぎの安値圏と判断。",
-      "4万9000円台で固い保ち合い足型を形成しており上抜けからの反発狙いが有効。"
-     ],
-     "timestamp": "08:22",
-     "confidence": "high"
-    },
-    {
-     "name": "HENNGE",
-     "name_en": "HENNGE K.K.",
-     "ticker": "4475",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "好足型とセキュリティ人気で2500円狙い",
-     "target_price": "2500円",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "サイバーセキュリティ関連の中で足型が良好であり陽線主導で安値を切り上げ中。",
-      "高値更新の勢いと出来高を伴って11月5日決算前に2500円上抜けを目指す。"
-     ],
-     "timestamp": "09:26",
-     "confidence": "high"
-    },
-    {
-     "name": "サイバートラスト",
-     "name_en": "Cybertrust Japan Co., Ltd.",
-     "ticker": "4498",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "大出来高と2560円超えの青天井狙い",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "サイバーセキュリティテーマの中心として1500万株の大規模な出来高が継続。",
-      "2500円〜2560円のストップ高水準を超えれば上値の重さが消え青天井へ期待。"
-     ],
-     "timestamp": "09:41",
-     "confidence": "high"
-    },
-    {
-     "name": "データセクション",
-     "name_en": "Data Section Inc.",
-     "ticker": "3905",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "材料発表と大口資金による短期好転狙い",
-     "target_price": "2000円",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "材料発表を受け大口の強烈な買いにより1700万株の出来高でストップ高を達成。",
-      "上値のしこりは重いが勢い継続なら重い2000円の節目まで一気に進む可能性あり。"
-     ],
-     "timestamp": "10:30",
-     "confidence": "high"
-    },
-    {
-     "name": "シー・エス・シー",
-     "name_en": "C.S.C. Co., Ltd.",
-     "ticker": "4814",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "800円ラインを背にした限定的な上値狙い",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "セキュリティ関連銘柄としてチャート上で800円のサポートラインが明確に機能。",
-      "非常に難易度が高い銘柄のため800円上でのみエントリーするルール運用が前提。"
-     ],
-     "timestamp": "11:16",
-     "confidence": "medium"
-    },
-    {
-     "name": "メルカリ",
-     "name_en": "Mercari, Inc.",
-     "ticker": "4385",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "Meta連携材料による3700円超え再エントリー",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "Metaの「ミューズ」提供開始という明確な好材料を背景に株価が7.3%急伸。",
-      "3700円の既存ラインを上抜けると上値が軽くなるため再度エントリーを検討。"
-     ],
-     "timestamp": "11:32",
-     "confidence": "high"
-    },
-    {
-     "name": "丸千代山岡家",
-     "name_en": "Maruchiyo Yamaokaya Corporation",
-     "ticker": "3399",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "4700円底固めからの短期リバウンド狙い",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "大幅調整を経て過去に意識された4700円付近で鍋底を形成し反転の兆し。",
-      "半導体以外の防衛的テーマとして外食株への資金退避に乗じた短期反発が期待可能。"
-     ],
-     "timestamp": "12:21",
-     "confidence": "high"
     }
    ]
   },
