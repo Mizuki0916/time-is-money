@@ -1,9 +1,9 @@
 {
  "videos": [
   {
-   "video_id": "0ocLQFYvFBk",
-   "title": "10/28【日経平均、半導体株爆上げで高値掴みついに助かるか‼】キオクシア14％爆上げ‼日本株空売り激減で戻り売り警戒。ドル円157円。米国株、ナスダック、ハイテク株も大幅高。仮想通貨BTC弱",
-   "published": "2026-10-28T17:08:01+00:00",
+   "video_id": "EYsek4GioOY",
+   "title": "10/29【日本株爆上げブルトラップか⁉】キオクシア引けに大暴落‼半導体株急騰で日経平均続伸。ドル円157円。米国株、ナスダック、ハイテク株下落。仮想通貨BTC弱",
+   "published": "2026-10-29T17:03:04+00:00",
    "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
    "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
    "channel_name": "Sho's投資情報局",
@@ -11,66 +11,132 @@
    "slot": 3,
    "no_transcript": false,
    "skip_reason": "",
-   "overview": "半導体株の上昇やキオクシアの急騰、アドバンテストの好決算を受けた日経平均の動向について解説しています。足元の半導体株高は想定より1週間早く到来しており、11月にかけて乱高下しながら上昇する可能性があるものの、2018年の相場パターンと同様に年末に向けたブルトラップや戻り売りに警戒が必要だと強調しています。また、決算後に急落したカプコンなどの個別銘柄のテクニカル分析も行い、感情的なトレードを避け慎重に立ち回るよう助言しています。",
-   "market_view": "日経平均はPER16倍から17倍のレンジ内へ移行しており、半導体株主導で戻りを試す一方で、年末に向けた信用買い方の戻り売りや二番底形成に注意が必要です。",
-   "market": "JP",
+   "overview": "Sho氏による相場解説動画。日経平均は半導体株の急騰により続伸し、EPSの上方修正に伴いPER17倍(65,500円近辺)まで上値余地が開いたと分析。しかし、この半導体株の上昇は2018年のパターンと同様の騙し上げ(ブルトラップ)である可能性を指摘し警戒を促しています。個別では、引けに急落したキオクシアや大暴落した米アルファベット、株式分割を発表したキーエンス、任天堂やスクエニ等のゲーム銘柄の動向や年末の損益通算に向けた需給悪化への注意点を解説しています。",
+   "market_view": "半導体株主導の日経平均上昇は2018年と同様の軌道修正(ブルトラップ)の懸念があり、11〜12月の損益通算による売りも控えるため、高値掴みを避けたリスク管理が重要です。",
+   "market": "MIX",
    "picks": [
     {
-     "name": "キオクシア",
+     "name": "キオクシアホールディングス",
      "name_en": "Kioxia Holdings",
      "ticker": "285A",
      "market": "JP",
-     "stance": "neutral",
-     "stance_note": "急騰も年末に向けた戻り売り警戒",
+     "stance": "bearish",
+     "stance_note": "引けの急落と決算前の警戒感",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "SKハイニックス決算後にショートカバー等を巻き込み急騰も、信用評価損益率の悪化から戻り売りが出やすい。",
-      "11月は乱高下しながら上昇する可能性もあるが、年末に向けた損益通算売りや戻り売りの下落リスクに注意。"
+      "クロージングオークションで株価が約500円(3%)急落し、本日購入した投資家が捕まっている状況であるため。",
+      "明日の決算発表を控えており、ソックス指数の軟調さや半導体株全般の騙し上げ・ブルトラップ懸念から警戒が必要なため。"
      ],
-     "timestamp": "07:07",
+     "timestamp": "00:00",
      "confidence": "high"
     },
     {
-     "name": "アドバンテスト",
-     "name_en": "Advantest",
-     "ticker": "6857",
+     "name": "任天堂",
+     "name_en": "Nintendo",
+     "ticker": "7974",
      "market": "JP",
-     "stance": "neutral",
-     "stance_note": "好決算でPTS上昇も高値警戒で様子見",
+     "stance": "bullish",
+     "stance_note": "75日線での反転と決算・新作期待",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "決算発表を受けて時間外取引(PTS)で買われているが、今後の半導体セクター全体の地合いと戻り売りに要警戒。"
+      "75日移動平均線付近で止まり反転上昇するかが焦点であり、決算直前に向けて期待買いが入る可能性があるため。",
+      "ゼルダの伝説などの人気タイトルの発売や予約状況の好調さがあり、受給面も悪くないため低価格帯保持なら放置できるため。"
      ],
-     "timestamp": "14:09",
+     "timestamp": "05:44",
+     "confidence": "high"
+    },
+    {
+     "name": "川崎重工業",
+     "name_en": "Kawasaki Heavy Industries",
+     "ticker": "7012",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "需給悪化による年末までの下落警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "信用倍率が18.66倍と需給面が非常に悪く、決算発表までは戻り歩調になりにくい厳しい展開が予想されるため。",
+      "年末の損益通算に向けた投げ売りが出やすく、年内のリバウンド狙いは困難で来年に向けた仕込みが必要になるため。"
+     ],
+     "timestamp": "09:57",
      "confidence": "medium"
     },
     {
-     "name": "カプコン",
-     "name_en": "Capcom Co., Ltd.",
-     "ticker": "9697",
+     "name": "フジクラ",
+     "name_en": "Fujikura",
+     "ticker": "5803",
      "market": "JP",
-     "stance": "bullish",
-     "stance_note": "過熱的な急落後の自律反発狙い",
+     "stance": "bearish",
+     "stance_note": "移動平均線のデッドクロス懸念",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "決算通過後に急落しボリンジャーバンド-4シグマまで下落しているため、売られすぎからの自律反発が入る可能性がある。",
-      "200日移動平均線付近の3600円程度まで下落すれば買い戻しが入りやすく、リバウンド狙いの局面と判断できる。"
+      "MACDやパラボリックの上昇に伴う25日移動平均線への軌道修正が入っているものの戻り売りが出やすい形状のため。",
+      "200日移動平均線に対して50日や75日線などの長期移動平均線が11月中にデッドクロスを形成する懸念があるため。"
      ],
-     "timestamp": "34:46",
+     "timestamp": "21:55",
+     "confidence": "medium"
+    },
+    {
+     "name": "アルファベット",
+     "name_en": "Alphabet",
+     "ticker": "GOOGL",
+     "market": "US",
+     "stance": "bearish",
+     "stance_note": "決算発表後の大暴落",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "決算発表の内容を受けて株価が12%の大暴落となっており、明確な下方トレンドを描いてしまっているため。"
+     ],
+     "timestamp": "26:06",
+     "confidence": "medium"
+    },
+    {
+     "name": "キーエンス",
+     "name_en": "Keyence",
+     "ticker": "6861",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "株式分割によるブランド価値低下",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "株式5分割の発表により超値がさ株としてのブランド価値が失われ、個人投資家の狼狽売りに巻き込まれやすくなるため。"
+     ],
+     "timestamp": "40:10",
+     "confidence": "medium"
+    },
+    {
+     "name": "スクウェア・エニックス・ホールディングス",
+     "name_en": "Square Enix Holdings",
+     "ticker": "9684",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "来春の新作発売に向けた上昇期待",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "ファイナルファンタジー7のリメイク最終章が来春発売予定であり、安い株価位置で買えているなら保有継続が有効なため。"
+     ],
+     "timestamp": "44:44",
      "confidence": "medium"
     }
    ]
   },
   {
-   "video_id": "WFNxbk3uu_A",
-   "title": "10/27【日経平均の上昇短命か⁉日本株空売り激減→半導体株騙し上げで年末安か⁉】キオクシア投げ売り加速。ドル円157円。米国株、ナスダック、ハイテク株上昇仮想通貨BTC弱",
-   "published": "2026-10-27T09:15:01+00:00",
+   "video_id": "tz4zsNHaWug",
+   "title": "10/29【日本株爆上げブルトラップか⁉】キオクシア引けに大暴落‼半導体株急騰で日経平均続伸。ドル円157円。米国株、ナスダック、ハイテク株下落。仮想通貨BTC弱",
+   "published": "2026-10-29T09:15:02+00:00",
    "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
    "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
    "channel_name": "Sho's投資情報局",
@@ -78,58 +144,74 @@
    "slot": 3,
    "no_transcript": false,
    "skip_reason": "",
-   "overview": "日経平均株価は半導体株を中心に上昇したものの、空売り残高の減少や信用買いの偏りによる需給悪化から、短命な騙し上げとなる可能性が指摘されています。2018年と同様の推移を仮定した場合、11月は一時的な自立反発を挟むボックス相場となるものの、12月の年末に向けて投げ売りが再加速するリスクに警戒が必要です。投資戦略としては、需給状態の良好な銘柄の選別や、年末の投げ売り局面での買い場探しが推奨されています。",
-   "market_view": "空売り残高の枯渇と信用買い残の高止まりにより上昇力は限定的であり、11月の一時的な反発後に12月の年末安へ向かう下落リスクに警戒が必要です。",
-   "market": "JP",
+   "overview": "日経平均は予想通り705円高と反発したものの、半導体株中心の二極化相場が続いており、受給面での空売り燃料不足や信用買い残の多さから今後の戻り高値でのブルトラップ(騙し上げ)に警戒を呼びかけています。個別ではアドバンテストが買われた一方、キオクシアが引け間際に大暴落した点に触れ、2018年同様に年末に向けた下落リスクを指摘しています。",
+   "market_view": "日経平均はPER16〜17倍レンジへシフトしており、空売り燃料の枯渇と信用買残過多により反発は限定的で、年末にかけて下落するリスクを警戒しています。",
+   "market": "MIX",
    "picks": [
     {
-     "name": "キオクシア",
+     "name": "日経平均株価",
+     "name_en": "Nikkei 225",
+     "ticker": "",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "短期反発も戻り売り警戒で年末下落に注意",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "PER17倍の理論値6万4831円付近まで反発したが、全体的に信用買残が多く空売り燃料が枯渇しているため上昇力は限定的である。",
+      "2018年同様に高値での捕まりや信用期日対応の売りが出やすく、年末にかけてジグザグと下落へ向かうブルトラップの可能性がある。"
+     ],
+     "timestamp": "00:00",
+     "confidence": "high"
+    },
+    {
+     "name": "キオクシアホールディングス",
      "name_en": "Kioxia Holdings",
      "ticker": "285A",
      "market": "JP",
      "stance": "bearish",
-     "stance_note": "信用買いの捕まりが多く年末に向け売り圧力継続",
+     "stance_note": "引けの大幅下落と高値捕まりで戻り売り懸念",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "寄り天から軟調な動きとなっており、信用取引で高値買いした投資家の捕まりによる需給悪化が深刻であるため。",
-      "信用買いの半年期日や年末の損益通算売りが控えており、12月にかけて投げ売りが加速しやすい環境にあるため。"
+      "クロージングオークションで1万5000円近辺から1万4500円まで約500円幅で急落し、高値で買った信用取引の捕まりが多く発生した。",
+      "高値で捕まった投資家の信用期日が12月末に集中するため、戻り局面では強力な戻り売り圧力となりV字回復は難しいと見られる。"
      ],
-     "timestamp": "24:38",
-     "confidence": "high"
-    },
-    {
-     "name": "東京エレクトロン",
-     "name_en": "Tokyo Electron",
-     "ticker": "8035",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "11月は自立反発も12月の年末安に警戒",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "2018年と同様の動きであれば、10月末から11月にかけて短期的な自立反発の戻りを試す展開が見込まれるため。",
-      "根本的な需給悪化は解消されておらず、戻り高値は売られて12月の年末安に向かって再下落する懸念があるため。"
-     ],
-     "timestamp": "25:58",
+     "timestamp": "26:13",
      "confidence": "high"
     },
     {
      "name": "アドバンテスト",
-     "name_en": "Advantest",
+     "name_en": "Advantest Corporation",
      "ticker": "6857",
      "market": "JP",
-     "stance": "bullish",
-     "stance_note": "しこり玉が少なく相対的に需給が良好",
+     "stance": "neutral",
+     "stance_note": "急騰も高値捕まり銘柄の戻り売りに警戒",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "安値からの上昇過程にあり高値での信用捕まりが少ないため、他の半導体株と比べて需給面で優位性があるため。"
+      "決算発表を経て6.01%上昇し日経平均を大きく押し上げたものの、過去の高値で捕まっている投資家の戻り売りに押される展開が見られた。"
      ],
-     "timestamp": "32:11",
+     "timestamp": "25:24",
+     "confidence": "medium"
+    },
+    {
+     "name": "アルファベット",
+     "name_en": "Alphabet Inc.",
+     "ticker": "GOOGL",
+     "market": "US",
+     "stance": "bearish",
+     "stance_note": "AI投資増加や検索広告鈍化で時間外下落",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "決算で検索広告の伸びが鈍化し、AI投資の拡大による費用増加が嫌気されて時間外取引で株価が下落した。"
+     ],
+     "timestamp": "35:58",
      "confidence": "medium"
     }
    ]

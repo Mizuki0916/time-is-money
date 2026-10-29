@@ -1,6 +1,104 @@
 {
- "generated_at": "2026-10-30T08:26:45.164303+09:00",
+ "generated_at": "2026-10-30T08:30:38.015010+09:00",
  "videos": [
+  {
+   "video_id": "EYsek4GioOY",
+   "title": "10/29【日本株爆上げブルトラップか⁉】キオクシア引けに大暴落‼半導体株急騰で日経平均続伸。ドル円157円。米国株、ナスダック、ハイテク株下落。仮想通貨BTC弱",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-10-29T17:03:04+00:00",
+   "overview": "Sho氏による相場解説動画。日経平均は半導体株の急騰により続伸し、EPSの上方修正に伴いPER17倍(65,500円近辺)まで上値余地が開いたと分析。しかし、この半導体株の上昇は2018年のパターンと同様の騙し上げ(ブルトラップ)である可能性を指摘し警戒を促しています。個別では、引けに急落したキオクシアや大暴落した米アルファベット、株式分割を発表したキーエンス、任天堂やスクエニ等のゲーム銘柄の動向や年末の損益通算に向けた需給悪化への注意点を解説しています。",
+   "market_view": "半導体株主導の日経平均上昇は2018年と同様の軌道修正(ブルトラップ)の懸念があり、11〜12月の損益通算による売りも控えるため、高値掴みを避けたリスク管理が重要です。",
+   "market": "MIX",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "キオクシアホールディングス",
+     "ticker": "285A",
+     "stance": "bearish",
+     "timestamp": "00:00"
+    },
+    {
+     "name": "任天堂",
+     "ticker": "7974",
+     "stance": "bullish",
+     "timestamp": "05:44"
+    },
+    {
+     "name": "川崎重工業",
+     "ticker": "7012",
+     "stance": "bearish",
+     "timestamp": "09:57"
+    },
+    {
+     "name": "フジクラ",
+     "ticker": "5803",
+     "stance": "bearish",
+     "timestamp": "21:55"
+    },
+    {
+     "name": "アルファベット",
+     "ticker": "GOOGL",
+     "stance": "bearish",
+     "timestamp": "26:06"
+    },
+    {
+     "name": "キーエンス",
+     "ticker": "6861",
+     "stance": "bearish",
+     "timestamp": "40:10"
+    },
+    {
+     "name": "スクウェア・エニックス・ホールディングス",
+     "ticker": "9684",
+     "stance": "bullish",
+     "timestamp": "44:44"
+    }
+   ]
+  },
+  {
+   "video_id": "tz4zsNHaWug",
+   "title": "10/29【日本株爆上げブルトラップか⁉】キオクシア引けに大暴落‼半導体株急騰で日経平均続伸。ドル円157円。米国株、ナスダック、ハイテク株下落。仮想通貨BTC弱",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-10-29T09:15:02+00:00",
+   "overview": "日経平均は予想通り705円高と反発したものの、半導体株中心の二極化相場が続いており、受給面での空売り燃料不足や信用買い残の多さから今後の戻り高値でのブルトラップ(騙し上げ)に警戒を呼びかけています。個別ではアドバンテストが買われた一方、キオクシアが引け間際に大暴落した点に触れ、2018年同様に年末に向けた下落リスクを指摘しています。",
+   "market_view": "日経平均はPER16〜17倍レンジへシフトしており、空売り燃料の枯渇と信用買残過多により反発は限定的で、年末にかけて下落するリスクを警戒しています。",
+   "market": "MIX",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "日経平均株価",
+     "ticker": "",
+     "stance": "bearish",
+     "timestamp": "00:00"
+    },
+    {
+     "name": "キオクシアホールディングス",
+     "ticker": "285A",
+     "stance": "bearish",
+     "timestamp": "26:13"
+    },
+    {
+     "name": "アドバンテスト",
+     "ticker": "6857",
+     "stance": "neutral",
+     "timestamp": "25:24"
+    },
+    {
+     "name": "アルファベット",
+     "ticker": "GOOGL",
+     "stance": "bearish",
+     "timestamp": "35:58"
+    }
+   ]
+  },
   {
    "video_id": "_EdKxYbVBYc",
    "title": "キオクシア決算直前！ここから株価上昇か？",
@@ -42,40 +140,6 @@
      "ticker": "6857",
      "stance": "bullish",
      "timestamp": "00:00"
-    }
-   ]
-  },
-  {
-   "video_id": "0ocLQFYvFBk",
-   "title": "10/28【日経平均、半導体株爆上げで高値掴みついに助かるか‼】キオクシア14％爆上げ‼日本株空売り激減で戻り売り警戒。ドル円157円。米国株、ナスダック、ハイテク株も大幅高。仮想通貨BTC弱",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-10-28T17:08:01+00:00",
-   "overview": "半導体株の上昇やキオクシアの急騰、アドバンテストの好決算を受けた日経平均の動向について解説しています。足元の半導体株高は想定より1週間早く到来しており、11月にかけて乱高下しながら上昇する可能性があるものの、2018年の相場パターンと同様に年末に向けたブルトラップや戻り売りに警戒が必要だと強調しています。また、決算後に急落したカプコンなどの個別銘柄のテクニカル分析も行い、感情的なトレードを避け慎重に立ち回るよう助言しています。",
-   "market_view": "日経平均はPER16倍から17倍のレンジ内へ移行しており、半導体株主導で戻りを試す一方で、年末に向けた信用買い方の戻り売りや二番底形成に注意が必要です。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "キオクシア",
-     "ticker": "285A",
-     "stance": "neutral",
-     "timestamp": "07:07"
-    },
-    {
-     "name": "アドバンテスト",
-     "ticker": "6857",
-     "stance": "neutral",
-     "timestamp": "14:09"
-    },
-    {
-     "name": "カプコン",
-     "ticker": "9697",
-     "stance": "bullish",
-     "timestamp": "34:46"
     }
    ]
   },
@@ -122,40 +186,6 @@
      "ticker": "4588",
      "stance": "bullish",
      "timestamp": "23:14"
-    }
-   ]
-  },
-  {
-   "video_id": "WFNxbk3uu_A",
-   "title": "10/27【日経平均の上昇短命か⁉日本株空売り激減→半導体株騙し上げで年末安か⁉】キオクシア投げ売り加速。ドル円157円。米国株、ナスダック、ハイテク株上昇仮想通貨BTC弱",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-10-27T09:15:01+00:00",
-   "overview": "日経平均株価は半導体株を中心に上昇したものの、空売り残高の減少や信用買いの偏りによる需給悪化から、短命な騙し上げとなる可能性が指摘されています。2018年と同様の推移を仮定した場合、11月は一時的な自立反発を挟むボックス相場となるものの、12月の年末に向けて投げ売りが再加速するリスクに警戒が必要です。投資戦略としては、需給状態の良好な銘柄の選別や、年末の投げ売り局面での買い場探しが推奨されています。",
-   "market_view": "空売り残高の枯渇と信用買い残の高止まりにより上昇力は限定的であり、11月の一時的な反発後に12月の年末安へ向かう下落リスクに警戒が必要です。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "キオクシア",
-     "ticker": "285A",
-     "stance": "bearish",
-     "timestamp": "24:38"
-    },
-    {
-     "name": "東京エレクトロン",
-     "ticker": "8035",
-     "stance": "neutral",
-     "timestamp": "25:58"
-    },
-    {
-     "name": "アドバンテスト",
-     "ticker": "6857",
-     "stance": "bullish",
-     "timestamp": "32:11"
     }
    ]
   },
