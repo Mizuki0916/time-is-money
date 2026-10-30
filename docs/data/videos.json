@@ -1,6 +1,104 @@
 {
- "generated_at": "2026-10-31T03:59:17.275197+09:00",
+ "generated_at": "2026-10-31T08:01:12.537727+09:00",
  "videos": [
+  {
+   "video_id": "N_4G_z2uqBE",
+   "title": "10/30【日本株、半導体株大暴落でキオクシアも木端微塵】日経平均ブルトラップ。ドル円157円。米国株、ナスダック、ハイテク株下落。仮想通貨BTC弱",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-10-30T14:43:06+00:00",
+   "overview": "Sho氏が半導体株の急落やキオクシアの決算後PTS暴落、日経平均のブルトラップ展開について解説する動画。市場全体は全面安ではなく、需給に応じたセクターローテーションと二極化が進行していると分析。年末にかけて需給の悪い銘柄は投げ売りが継続しやすく、安易な飛び乗りを避けて初動を確認することの重要性を伝えている。",
+   "market_view": "半導体・ハイテク株を中心に下落する一方、バリュー株や需給の良い個別銘柄へ資金が流れる二極化相場。",
+   "market": "MIX",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "キオクシアホールディングス",
+     "ticker": "285A",
+     "stance": "bearish",
+     "timestamp": "03:52"
+    },
+    {
+     "name": "野村マイクロサイエンス",
+     "ticker": "6254",
+     "stance": "bearish",
+     "timestamp": "10:45"
+    },
+    {
+     "name": "サンリオ",
+     "ticker": "8136",
+     "stance": "neutral",
+     "timestamp": "14:42"
+    },
+    {
+     "name": "カプコン",
+     "ticker": "9697",
+     "stance": "neutral",
+     "timestamp": "18:38"
+    },
+    {
+     "name": "ソニーグループ",
+     "ticker": "6758",
+     "stance": "neutral",
+     "timestamp": "21:55"
+    },
+    {
+     "name": "富士通",
+     "ticker": "6702",
+     "stance": "bearish",
+     "timestamp": "27:21"
+    },
+    {
+     "name": "三菱UFJフィナンシャル・グループ",
+     "ticker": "8306",
+     "stance": "neutral",
+     "timestamp": "32:15"
+    },
+    {
+     "name": "任天堂",
+     "ticker": "7974",
+     "stance": "neutral",
+     "timestamp": "58:36"
+    },
+    {
+     "name": "日立製作所",
+     "ticker": "6501",
+     "stance": "bearish",
+     "timestamp": "1:03:30"
+    },
+    {
+     "name": "清水建設",
+     "ticker": "1803",
+     "stance": "neutral",
+     "timestamp": "1:10:07"
+    }
+   ]
+  },
+  {
+   "video_id": "lNkEal3xYSg",
+   "title": "キオクシア（285A）決算内容を見ていく！1株30円配当の理由",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-10-30T13:24:41+00:00",
+   "overview": "キオクシア(285A)の決算内容とPTSでの下落背景を分析した動画。コンセンサス未達や3Qガイダンスの落ち着きからPTSは下落したものの、1株30円の中間配当は制度上の分配可能額の上限によるもので還元姿勢悪化ではないと解説。NAND需要は強固であり、出荷ズレの影響を経て4Qに向け成長は加速する見通しのため、慌てて投げ売りする必要はないとしています。",
+   "market_view": "地合いや需給状況の悪さが事実として残っているため、それらを考慮した上でトレード判断をする必要があります。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "キオクシア",
+     "ticker": "285A",
+     "stance": "neutral",
+     "timestamp": "00:03"
+    }
+   ]
+  },
   {
    "video_id": "EYsek4GioOY",
    "title": "10/29【日本株爆上げブルトラップか⁉】キオクシア引けに大暴落‼半導体株急騰で日経平均続伸。ドル円157円。米国株、ナスダック、ハイテク株下落。仮想通貨BTC弱",
@@ -60,46 +158,6 @@
    ]
   },
   {
-   "video_id": "tz4zsNHaWug",
-   "title": "10/29【日本株爆上げブルトラップか⁉】キオクシア引けに大暴落‼半導体株急騰で日経平均続伸。ドル円157円。米国株、ナスダック、ハイテク株下落。仮想通貨BTC弱",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-10-29T09:15:02+00:00",
-   "overview": "日経平均は予想通り705円高と反発したものの、半導体株中心の二極化相場が続いており、受給面での空売り燃料不足や信用買い残の多さから今後の戻り高値でのブルトラップ(騙し上げ)に警戒を呼びかけています。個別ではアドバンテストが買われた一方、キオクシアが引け間際に大暴落した点に触れ、2018年同様に年末に向けた下落リスクを指摘しています。",
-   "market_view": "日経平均はPER16〜17倍レンジへシフトしており、空売り燃料の枯渇と信用買残過多により反発は限定的で、年末にかけて下落するリスクを警戒しています。",
-   "market": "MIX",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "日経平均株価",
-     "ticker": "",
-     "stance": "bearish",
-     "timestamp": "00:00"
-    },
-    {
-     "name": "キオクシアホールディングス",
-     "ticker": "285A",
-     "stance": "bearish",
-     "timestamp": "26:13"
-    },
-    {
-     "name": "アドバンテスト",
-     "ticker": "6857",
-     "stance": "neutral",
-     "timestamp": "25:24"
-    },
-    {
-     "name": "アルファベット",
-     "ticker": "GOOGL",
-     "stance": "bearish",
-     "timestamp": "35:58"
-    }
-   ]
-  },
-  {
    "video_id": "_EdKxYbVBYc",
    "title": "キオクシア決算直前！ここから株価上昇か？",
    "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
@@ -116,28 +174,6 @@
     {
      "name": "キオクシアホールディングス",
      "ticker": "285A",
-     "stance": "bullish",
-     "timestamp": "00:00"
-    }
-   ]
-  },
-  {
-   "video_id": "l9c4MgV3e94",
-   "title": "アドバンテスト好決算！12%上方修正　今日から半導体株を引っ張るか？",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-10-28T21:00:16+00:00",
-   "overview": "アドバンテストの好決算について解説した動画です。今期最終利益を12%上方修正し、2Qおよび通期予想が市場コンセンサスを大きく上振れたことを高く評価しています。株価は直近の軟調な地合いの中で天井圏から約30%下落したことで売り方の整理が進んでおり、3万4000円から3万5000円台のラインを固めた後の素直な株価上昇が狙えると分析しています。",
-   "market_view": "ここ最近は軟調な地合いが続いていたものの、下落調整が進んだことで銘柄の新陳代謝が促されたと見ています。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "アドバンテスト",
-     "ticker": "6857",
      "stance": "bullish",
      "timestamp": "00:00"
     }

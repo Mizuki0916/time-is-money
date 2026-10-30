@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T03:58:34.692933+09:00",
+ "generated_at": "2026-10-31T07:59:22.809150+09:00",
  "channels": [
   {
    "id": "UCsaeHha7ai_NNX8or8Jyb-g",
@@ -15,7 +15,7 @@
    "short": "TOMO",
    "slot": 2,
    "video_count": 2,
-   "latest": "2026-10-28T21:00:23+00:00"
+   "latest": "2026-10-30T13:24:41+00:00"
   },
   {
    "id": "UCK9Pl6bbWqMC_x7IDca2tIg",
@@ -23,7 +23,7 @@
    "short": "Sho",
    "slot": 3,
    "video_count": 2,
-   "latest": "2026-10-29T17:03:04+00:00"
+   "latest": "2026-10-30T14:43:06+00:00"
   },
   {
    "id": "UCt7qqCkTFFRfKjXzwqUXq4g",
@@ -35,21 +35,64 @@
   }
  ],
  "stats": {
-  "stocks": 19,
+  "stocks": 27,
   "videos": 8,
   "videos_this_week": 7,
-  "bullish_lead": 9,
-  "split": 1,
+  "bullish_lead": 7,
+  "split": 0,
   "skipped": 0
  },
  "stocks": [
   {
    "key": "JP:285A",
    "name": "キオクシアホールディングス",
-   "name_en": "Kioxia Holdings",
+   "name_en": "Kioxia Holdings Corporation",
    "ticker": "285A",
    "market": "JP",
    "mentions": [
+    {
+     "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+     "channel_name": "Sho's投資情報局",
+     "channel_short": "Sho",
+     "slot": 3,
+     "video_id": "N_4G_z2uqBE",
+     "video_title": "10/30【日本株、半導体株大暴落でキオクシアも木端微塵】日経平均ブルトラップ。ドル円157円。米国株、ナスダック、ハイテク株下落。仮想通貨BTC弱",
+     "published": "2026-10-30T14:43:06+00:00",
+     "stance": "bearish",
+     "stance_note": "決算後のPTS暴落と需給悪化で下落足踏み",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "決算発表後にコンセンサス未達等からPTS時間外取引で大幅暴落し高値掴みの信用買いが捕まったため。",
+      "移動平均線同士のデッドクロス形成が迫り高値からの半値期日や年末投げ売りが懸念されるため。"
+     ],
+     "timestamp": "03:52",
+     "seconds": 232,
+     "confidence": "high"
+    },
+    {
+     "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+     "channel_name": "トレーダーTOMO",
+     "channel_short": "TOMO",
+     "slot": 2,
+     "video_id": "lNkEal3xYSg",
+     "video_title": "キオクシア（285A）決算内容を見ていく！1株30円配当の理由",
+     "published": "2026-10-30T13:24:41+00:00",
+     "stance": "neutral",
+     "stance_note": "決算誤解による急落も慌てず地合い注視",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "3Qのコンセンサス未達や円高設定のガイダンスを受け、夜間PTSでは株価が下落している。",
+      "一株30円の配当は法律上の分配可能額の上限によるもので、今後の還元拡大の余地は残されている。",
+      "NAND需要は好調で出荷の前倒しやズレが影響しており、4Qに向けて成長はさらに加速する見通し。"
+     ],
+     "timestamp": "00:03",
+     "seconds": 3,
+     "confidence": "high"
+    },
     {
      "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
      "channel_name": "Sho's投資情報局",
@@ -69,27 +112,6 @@
      ],
      "timestamp": "00:00",
      "seconds": 0,
-     "confidence": "high"
-    },
-    {
-     "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-     "channel_name": "Sho's投資情報局",
-     "channel_short": "Sho",
-     "slot": 3,
-     "video_id": "tz4zsNHaWug",
-     "video_title": "10/29【日本株爆上げブルトラップか⁉】キオクシア引けに大暴落‼半導体株急騰で日経平均続伸。ドル円157円。米国株、ナスダック、ハイテク株下落。仮想通貨BTC弱",
-     "published": "2026-10-29T09:15:02+00:00",
-     "stance": "bearish",
-     "stance_note": "引けの大幅下落と高値捕まりで戻り売り懸念",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "クロージングオークションで1万5000円近辺から1万4500円まで約500円幅で急落し、高値で買った信用取引の捕まりが多く発生した。",
-      "高値で捕まった投資家の信用期日が12月末に集中するため、戻り局面では強力な戻り売り圧力となりV字回復は難しいと見られる。"
-     ],
-     "timestamp": "26:13",
-     "seconds": 1573,
      "confidence": "high"
     },
     {
@@ -158,13 +180,13 @@
     }
    ],
    "consensus": {
-    "bullish": 1,
+    "bullish": 0,
     "bearish": 2,
-    "neutral": 0
+    "neutral": 1
    },
    "voices": 3,
-   "split": true,
-   "last_mentioned": "2026-10-29T17:03:04+00:00",
+   "split": false,
+   "last_mentioned": "2026-10-30T14:43:06+00:00",
    "channel_ids": [
     "UCK9Pl6bbWqMC_x7IDca2tIg",
     "UCdQdRRLoajrt-5TEaAxslxA",
@@ -232,14 +254,14 @@
     "market_open": false,
     "symbol": "285A.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-30T18:58:34.697579+00:00"
+    "fetched_at": "2026-10-30T22:59:22.927917+00:00"
    }
   },
   {
-   "key": "JP:6857",
-   "name": "アドバンテスト",
-   "name_en": "Advantest Corporation",
-   "ticker": "6857",
+   "key": "JP:6254",
+   "name": "野村マイクロサイエンス",
+   "name_en": "Nomura Micro Science Co., Ltd.",
+   "ticker": "6254",
    "market": "JP",
    "mentions": [
     {
@@ -247,276 +269,652 @@
      "channel_name": "Sho's投資情報局",
      "channel_short": "Sho",
      "slot": 3,
-     "video_id": "tz4zsNHaWug",
-     "video_title": "10/29【日本株爆上げブルトラップか⁉】キオクシア引けに大暴落‼半導体株急騰で日経平均続伸。ドル円157円。米国株、ナスダック、ハイテク株下落。仮想通貨BTC弱",
-     "published": "2026-10-29T09:15:02+00:00",
-     "stance": "neutral",
-     "stance_note": "急騰も高値捕まり銘柄の戻り売りに警戒",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "決算発表を経て6.01%上昇し日経平均を大きく押し上げたものの、過去の高値で捕まっている投資家の戻り売りに押される展開が見られた。"
-     ],
-     "timestamp": "25:24",
-     "seconds": 1524,
-     "confidence": "medium"
-    },
-    {
-     "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-     "channel_name": "トレーダーTOMO",
-     "channel_short": "TOMO",
-     "slot": 2,
-     "video_id": "l9c4MgV3e94",
-     "video_title": "アドバンテスト好決算！12%上方修正　今日から半導体株を引っ張るか？",
-     "published": "2026-10-28T21:00:16+00:00",
-     "stance": "bullish",
-     "stance_note": "好決算と調整進展で素直な上昇を期待",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "今期最終損益の12%上方修正を発表し、2Q・通期ともに市場コンセンサスを大幅に上回る非常に強い決算内容となったため。",
-      "天井圏からの約30%の下落により売り方の整理が進んでおり、3万4000円〜3万5000円台を固めて素直な株価上昇が期待できるため。"
-     ],
-     "timestamp": "00:00",
-     "seconds": 0,
-     "confidence": "high"
-    },
-    {
-     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-     "channel_name": "Trader's Lab",
-     "channel_short": "TL",
-     "slot": 1,
-     "video_id": "W-qWtLM5MQw",
-     "video_title": "この状況について考えましょう",
-     "published": "2026-10-26T17:03:22+00:00",
-     "stance": "neutral",
-     "stance_note": "200日線等の明確な下値支持線までの調整待ち",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "日経平均の動きに大きく影響を受けるため、指数全体の調整に合わせた見極めが必要となるため。",
-      "200日移動平均線や過去安値水準(27,000〜28,000円付近)まで下に大きく乖離した局面でのみ買いを検討するため。"
-     ],
-     "timestamp": "27:39",
-     "seconds": 1659,
-     "confidence": "medium"
-    }
-   ],
-   "consensus": {
-    "bullish": 1,
-    "bearish": 0,
-    "neutral": 2
-   },
-   "voices": 3,
-   "split": false,
-   "last_mentioned": "2026-10-29T09:15:02+00:00",
-   "channel_ids": [
-    "UCK9Pl6bbWqMC_x7IDca2tIg",
-    "UCdQdRRLoajrt-5TEaAxslxA",
-    "UCsaeHha7ai_NNX8or8Jyb-g"
-   ],
-   "price": {
-    "date": "2026-10-30",
-    "close": 34860.0,
-    "change_pct": -5.86,
-    "live": null,
-    "live_change_pct": null,
-    "live_time": null,
-    "volume": 19644400,
-    "volume_ratio": 1.25,
-    "rsi14": 49.2,
-    "rsi_zone": "中立",
-    "ma25": 36279.6,
-    "ma75": 33585.67,
-    "trend": "調整中",
-    "pos52": 70,
-    "spark": [
-     33380.0,
-     32540.0,
-     32280.0,
-     33090.0,
-     34480.0,
-     33800.0,
-     32840.0,
-     33920.0,
-     31720.0,
-     31080.0,
-     30160.0,
-     30700.0,
-     30240.0,
-     32050.0,
-     33060.0,
-     34000.0,
-     33730.0,
-     33910.0,
-     34260.0,
-     37610.0,
-     38630.0,
-     40300.0,
-     41850.0,
-     41290.0,
-     40930.0,
-     41610.0,
-     40400.0,
-     40380.0,
-     34340.0,
-     34530.0,
-     34450.0,
-     33870.0,
-     34440.0,
-     32370.0,
-     32340.0,
-     31070.0,
-     33860.0,
-     34930.0,
-     37030.0,
-     34860.0
-    ],
-    "currency": "JPY",
-    "exchange_name": "Tokyo",
-    "market_open": false,
-    "symbol": "6857.T",
-    "source": "yahoo",
-    "fetched_at": "2026-10-30T18:58:34.697579+00:00"
-   }
-  },
-  {
-   "key": "IDX:^N225",
-   "name": "日経平均",
-   "name_en": "Nikkei 225",
-   "ticker": "N225",
-   "market": "JP",
-   "mentions": [
-    {
-     "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-     "channel_name": "Sho's投資情報局",
-     "channel_short": "Sho",
-     "slot": 3,
-     "video_id": "tz4zsNHaWug",
-     "video_title": "10/29【日本株爆上げブルトラップか⁉】キオクシア引けに大暴落‼半導体株急騰で日経平均続伸。ドル円157円。米国株、ナスダック、ハイテク株下落。仮想通貨BTC弱",
-     "published": "2026-10-29T09:15:02+00:00",
+     "video_id": "N_4G_z2uqBE",
+     "video_title": "10/30【日本株、半導体株大暴落でキオクシアも木端微塵】日経平均ブルトラップ。ドル円157円。米国株、ナスダック、ハイテク株下落。仮想通貨BTC弱",
+     "published": "2026-10-30T14:43:06+00:00",
      "stance": "bearish",
-     "stance_note": "短期反発も戻り売り警戒で年末下落に注意",
+     "stance_note": "チャート悪化により決算前の買戻しも限定的",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "PER17倍の理論値6万4831円付近まで反発したが、全体的に信用買残が多く空売り燃料が枯渇しているため上昇力は限定的である。",
-      "2018年同様に高値での捕まりや信用期日対応の売りが出やすく、年末にかけてジグザグと下落へ向かうブルトラップの可能性がある。"
+      "200日移動平均線と各移動平均線がデッドクロスを形成しそうな形でチャートが悪いため。",
+      "前回決算での急落を受けて決算プレイの動きが限定化され買戻しが入りにくいと捉えるため。"
      ],
-     "timestamp": "00:00",
-     "seconds": 0,
-     "confidence": "high"
-    },
-    {
-     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-     "channel_name": "Trader's Lab",
-     "channel_short": "TL",
-     "slot": 1,
-     "video_id": "alj6YsPkiho",
-     "video_title": "【日経平均】 大幅上昇だが 抵抗ライン到達 ここが正念場です  サンディスク・キオクシア・サイバートラスト・データセクション・オンコリスバイオ",
-     "published": "2026-10-27T10:36:00+00:00",
-     "stance": "neutral",
-     "stance_note": "イベント通過後の抵抗ライン突破か下落かを見極める段階",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "自立反発の局面だが直近高値と安値が交わる6万3570円の抵抗ライン付近に位置しておりイベントを前に見極めが必要な状況。",
-      "4時間足では直近高値超えで6万4880円を目指す展開も考えられるが戻り売りに押されて一段安となる下落シナリオにも警戒が必要。"
-     ],
-     "timestamp": "01:56",
-     "seconds": 116,
+     "timestamp": "10:45",
+     "seconds": 645,
      "confidence": "medium"
     }
    ],
    "consensus": {
     "bullish": 0,
     "bearish": 1,
-    "neutral": 1
+    "neutral": 0
    },
-   "voices": 2,
+   "voices": 1,
    "split": false,
-   "last_mentioned": "2026-10-29T09:15:02+00:00",
+   "last_mentioned": "2026-10-30T14:43:06+00:00",
    "channel_ids": [
-    "UCK9Pl6bbWqMC_x7IDca2tIg",
-    "UCsaeHha7ai_NNX8or8Jyb-g"
+    "UCK9Pl6bbWqMC_x7IDca2tIg"
    ],
    "price": {
-    "date": "2026-10-29",
-    "close": 64659.47,
-    "change_pct": 1.1,
+    "date": "2026-10-30",
+    "close": 2645.0,
+    "change_pct": -6.17,
     "live": null,
     "live_change_pct": null,
     "live_time": null,
-    "volume": 279800000,
-    "volume_ratio": 1.63,
-    "rsi14": 47.1,
+    "volume": 982900,
+    "volume_ratio": 1.34,
+    "rsi14": 31.3,
     "rsi_zone": "中立",
-    "ma25": 66182.19,
-    "ma75": 65831.92,
-    "trend": "調整中",
-    "pos52": 68,
+    "ma25": 3269.36,
+    "ma75": 3601.05,
+    "trend": "下降基調",
+    "pos52": 4,
     "spark": [
-     66311.93,
-     66215.34,
-     64325.64,
-     64214.48,
-     65020.94,
-     66399.84,
-     65269.33,
-     65142.78,
-     65270.95,
-     64011.34,
-     63492.99,
-     63484.1,
-     63923.0,
-     64136.25,
-     65018.95,
-     65513.99,
-     66364.2,
-     65877.62,
-     65481.27,
-     66753.72,
-     68956.72,
-     68309.46,
-     69946.86,
-     70683.98,
-     70035.71,
-     69042.11,
-     69030.92,
-     67777.52,
-     67744.29,
-     64425.95,
-     65324.29,
-     64916.7,
-     64075.42,
-     64621.24,
-     62907.84,
-     62693.16,
-     62189.65,
-     63268.37,
-     63954.19,
-     64659.47
+     3485.0,
+     3315.0,
+     3380.0,
+     3455.0,
+     3530.0,
+     3340.0,
+     3360.0,
+     3355.0,
+     3260.0,
+     3225.0,
+     3235.0,
+     3250.0,
+     3200.0,
+     3300.0,
+     3375.0,
+     3420.0,
+     3440.0,
+     3435.0,
+     3490.0,
+     3545.0,
+     3505.0,
+     3665.0,
+     3775.0,
+     3800.0,
+     3685.0,
+     3780.0,
+     3485.0,
+     3435.0,
+     3070.0,
+     3175.0,
+     3160.0,
+     3015.0,
+     3085.0,
+     2910.0,
+     2891.0,
+     2750.0,
+     2824.0,
+     2930.0,
+     2819.0,
+     2645.0
     ],
     "currency": "JPY",
-    "exchange_name": "Osaka",
+    "exchange_name": "Tokyo",
     "market_open": false,
-    "symbol": "^N225",
+    "symbol": "6254.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-30T18:58:34.697579+00:00"
+    "fetched_at": "2026-10-30T22:59:22.927917+00:00"
+   }
+  },
+  {
+   "key": "JP:8136",
+   "name": "サンリオ",
+   "name_en": "Sanrio Company, Ltd.",
+   "ticker": "8136",
+   "market": "JP",
+   "mentions": [
+    {
+     "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+     "channel_name": "Sho's投資情報局",
+     "channel_short": "Sho",
+     "slot": 3,
+     "video_id": "N_4G_z2uqBE",
+     "video_title": "10/30【日本株、半導体株大暴落でキオクシアも木端微塵】日経平均ブルトラップ。ドル円157円。米国株、ナスダック、ハイテク株下落。仮想通貨BTC弱",
+     "published": "2026-10-30T14:43:06+00:00",
+     "stance": "neutral",
+     "stance_note": "デッドクロス懸念があり下げ止まるか注視",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "75日移動平均線と5日移動平均線のデッドクロス形成が警戒され持ち堪えられるか懸念されるため。",
+      "信用買い残が増加傾向にあり空売りの減少も確認されるなど需給面での重みが出ているため。"
+     ],
+     "timestamp": "14:42",
+     "seconds": 882,
+     "confidence": "medium"
+    }
+   ],
+   "consensus": {
+    "bullish": 0,
+    "bearish": 0,
+    "neutral": 1
+   },
+   "voices": 1,
+   "split": false,
+   "last_mentioned": "2026-10-30T14:43:06+00:00",
+   "channel_ids": [
+    "UCK9Pl6bbWqMC_x7IDca2tIg"
+   ],
+   "price": {
+    "date": "2026-10-30",
+    "close": 1254.0,
+    "change_pct": 2.03,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 14636000,
+    "volume_ratio": 1.2,
+    "rsi14": 48.8,
+    "rsi_zone": "中立",
+    "ma25": 1249.4,
+    "ma75": 1241.08,
+    "trend": "上昇基調",
+    "pos52": 63,
+    "spark": [
+     1317.5,
+     1305.0,
+     1288.5,
+     1265.5,
+     1263.5,
+     1252.0,
+     1192.5,
+     1173.5,
+     1188.5,
+     1236.0,
+     1220.0,
+     1191.0,
+     1238.5,
+     1207.5,
+     1212.0,
+     1210.0,
+     1177.5,
+     1178.0,
+     1187.5,
+     1191.5,
+     1181.0,
+     1179.5,
+     1202.5,
+     1210.5,
+     1202.0,
+     1237.0,
+     1244.0,
+     1279.5,
+     1271.5,
+     1307.5,
+     1327.5,
+     1351.5,
+     1347.0,
+     1326.5,
+     1303.0,
+     1291.5,
+     1285.5,
+     1260.0,
+     1229.0,
+     1254.0
+    ],
+    "currency": "JPY",
+    "exchange_name": "Tokyo",
+    "market_open": false,
+    "symbol": "8136.T",
+    "source": "yahoo",
+    "fetched_at": "2026-10-30T22:59:22.927917+00:00"
+   }
+  },
+  {
+   "key": "JP:9697",
+   "name": "カプコン",
+   "name_en": "Capcom Co., Ltd.",
+   "ticker": "9697",
+   "market": "JP",
+   "mentions": [
+    {
+     "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+     "channel_name": "Sho's投資情報局",
+     "channel_short": "Sho",
+     "slot": 3,
+     "video_id": "N_4G_z2uqBE",
+     "video_title": "10/30【日本株、半導体株大暴落でキオクシアも木端微塵】日経平均ブルトラップ。ドル円157円。米国株、ナスダック、ハイテク株下落。仮想通貨BTC弱",
+     "published": "2026-10-30T14:43:06+00:00",
+     "stance": "neutral",
+     "stance_note": "急落後の自立反発域で買いの初動待ち",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "決算急落後の自立反発が起きた段階でありストキャスティクス等の上向き初動が確認できないため。",
+      "信用買残増加等により上値が重く見えるためデイトレ等で打診する程度にとどめるべきとされるため。"
+     ],
+     "timestamp": "18:38",
+     "seconds": 1118,
+     "confidence": "medium"
+    }
+   ],
+   "consensus": {
+    "bullish": 0,
+    "bearish": 0,
+    "neutral": 1
+   },
+   "voices": 1,
+   "split": false,
+   "last_mentioned": "2026-10-30T14:43:06+00:00",
+   "channel_ids": [
+    "UCK9Pl6bbWqMC_x7IDca2tIg"
+   ],
+   "price": {
+    "date": "2026-10-30",
+    "close": 3957.0,
+    "change_pct": 5.66,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 6199200,
+    "volume_ratio": 1.61,
+    "rsi14": 37.8,
+    "rsi_zone": "中立",
+    "ma25": 4355.44,
+    "ma75": 4116.64,
+    "trend": "調整中",
+    "pos52": 65,
+    "spark": [
+     4336.0,
+     4224.0,
+     4186.0,
+     4248.0,
+     4310.0,
+     4363.0,
+     4283.0,
+     4196.0,
+     4240.0,
+     4357.0,
+     4351.0,
+     4345.0,
+     4432.0,
+     4387.0,
+     4400.0,
+     4415.0,
+     4385.0,
+     4357.0,
+     4340.0,
+     4359.0,
+     4448.0,
+     4415.0,
+     4435.0,
+     4421.0,
+     4300.0,
+     4393.0,
+     4483.0,
+     4440.0,
+     4489.0,
+     4581.0,
+     4554.0,
+     4587.0,
+     4511.0,
+     4413.0,
+     4300.0,
+     4343.0,
+     4380.0,
+     3835.0,
+     3745.0,
+     3957.0
+    ],
+    "currency": "JPY",
+    "exchange_name": "Tokyo",
+    "market_open": false,
+    "symbol": "9697.T",
+    "source": "yahoo",
+    "fetched_at": "2026-10-30T22:59:22.927917+00:00"
+   }
+  },
+  {
+   "key": "JP:6758",
+   "name": "ソニーグループ",
+   "name_en": "Sony Group Corporation",
+   "ticker": "6758",
+   "market": "JP",
+   "mentions": [
+    {
+     "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+     "channel_name": "Sho's投資情報局",
+     "channel_short": "Sho",
+     "slot": 3,
+     "video_id": "N_4G_z2uqBE",
+     "video_title": "10/30【日本株、半導体株大暴落でキオクシアも木端微塵】日経平均ブルトラップ。ドル円157円。米国株、ナスダック、ハイテク株下落。仮想通貨BTC弱",
+     "published": "2026-10-30T14:43:06+00:00",
+     "stance": "neutral",
+     "stance_note": "トレンド良好だが決算前の揉み合いを注視",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "200日線と移動平均線群のゴールデンクロス形成によりボリバン25日線を下値に上昇傾向なため。",
+      "直近で利益確定売りや損失補填目的の抱き合わせ売りに押されつつ決算前の動きとなっているため。"
+     ],
+     "timestamp": "21:55",
+     "seconds": 1315,
+     "confidence": "medium"
+    }
+   ],
+   "consensus": {
+    "bullish": 0,
+    "bearish": 0,
+    "neutral": 1
+   },
+   "voices": 1,
+   "split": false,
+   "last_mentioned": "2026-10-30T14:43:06+00:00",
+   "channel_ids": [
+    "UCK9Pl6bbWqMC_x7IDca2tIg"
+   ],
+   "price": {
+    "date": "2026-10-30",
+    "close": 3958.0,
+    "change_pct": 0.56,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 15220300,
+    "volume_ratio": 0.95,
+    "rsi14": 54.7,
+    "rsi_zone": "中立",
+    "ma25": 3875.88,
+    "ma75": 3751.97,
+    "trend": "上昇基調",
+    "pos52": 53,
+    "spark": [
+     4046.0,
+     3920.0,
+     3895.0,
+     3885.0,
+     3780.0,
+     3654.0,
+     3625.0,
+     3640.0,
+     3632.0,
+     3788.0,
+     3725.0,
+     3719.0,
+     3754.0,
+     3697.0,
+     3663.0,
+     3710.0,
+     3680.0,
+     3732.0,
+     3759.0,
+     3787.0,
+     3753.0,
+     3723.0,
+     3768.0,
+     3743.0,
+     3706.0,
+     3814.0,
+     3814.0,
+     3859.0,
+     3884.0,
+     3959.0,
+     3960.0,
+     3960.0,
+     4012.0,
+     4081.0,
+     4137.0,
+     4135.0,
+     4070.0,
+     3957.0,
+     3936.0,
+     3958.0
+    ],
+    "currency": "JPY",
+    "exchange_name": "Tokyo",
+    "market_open": false,
+    "symbol": "6758.T",
+    "source": "yahoo",
+    "fetched_at": "2026-10-30T22:59:22.927917+00:00"
+   }
+  },
+  {
+   "key": "JP:6702",
+   "name": "富士通",
+   "name_en": "Fujitsu Limited",
+   "ticker": "6702",
+   "market": "JP",
+   "mentions": [
+    {
+     "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+     "channel_name": "Sho's投資情報局",
+     "channel_short": "Sho",
+     "slot": 3,
+     "video_id": "N_4G_z2uqBE",
+     "video_title": "10/30【日本株、半導体株大暴落でキオクシアも木端微塵】日経平均ブルトラップ。ドル円157円。米国株、ナスダック、ハイテク株下落。仮想通貨BTC弱",
+     "published": "2026-10-30T14:43:06+00:00",
+     "stance": "bearish",
+     "stance_note": "バリュエーション割高による決算後の暴落",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "PBRが過去上限近くの割高な水準でありバンド日柄調整を経て決算で大きく急落したため。",
+      "下落トレンドが継続しており急落3日目・4日目の自立反発を見極める段階にあるとされるため。"
+     ],
+     "timestamp": "27:21",
+     "seconds": 1641,
+     "confidence": "medium"
+    }
+   ],
+   "consensus": {
+    "bullish": 0,
+    "bearish": 1,
+    "neutral": 0
+   },
+   "voices": 1,
+   "split": false,
+   "last_mentioned": "2026-10-30T14:43:06+00:00",
+   "channel_ids": [
+    "UCK9Pl6bbWqMC_x7IDca2tIg"
+   ],
+   "price": {
+    "date": "2026-10-30",
+    "close": 3622.0,
+    "change_pct": -16.2,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 23990700,
+    "volume_ratio": 2.99,
+    "rsi14": 29.5,
+    "rsi_zone": "売られすぎ",
+    "ma25": 4215.56,
+    "ma75": 3850.08,
+    "trend": "調整中",
+    "pos52": 35,
+    "spark": [
+     3947.0,
+     3801.0,
+     3795.0,
+     3900.0,
+     3831.0,
+     3775.0,
+     3745.0,
+     3788.0,
+     3749.0,
+     4026.0,
+     3945.0,
+     3934.0,
+     4008.0,
+     3979.0,
+     3993.0,
+     4028.0,
+     3978.0,
+     3945.0,
+     3957.0,
+     4002.0,
+     4069.0,
+     4063.0,
+     4053.0,
+     4127.0,
+     4125.0,
+     4250.0,
+     4216.0,
+     4270.0,
+     4285.0,
+     4423.0,
+     4349.0,
+     4391.0,
+     4434.0,
+     4573.0,
+     4477.0,
+     4505.0,
+     4475.0,
+     4450.0,
+     4322.0,
+     3622.0
+    ],
+    "currency": "JPY",
+    "exchange_name": "Tokyo",
+    "market_open": false,
+    "symbol": "6702.T",
+    "source": "yahoo",
+    "fetched_at": "2026-10-30T22:59:22.927917+00:00"
+   }
+  },
+  {
+   "key": "JP:8306",
+   "name": "三菱UFJフィナンシャル・グループ",
+   "name_en": "Mitsubishi UFJ Financial Group, Inc.",
+   "ticker": "8306",
+   "market": "JP",
+   "mentions": [
+    {
+     "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+     "channel_name": "Sho's投資情報局",
+     "channel_short": "Sho",
+     "slot": 3,
+     "video_id": "N_4G_z2uqBE",
+     "video_title": "10/30【日本株、半導体株大暴落でキオクシアも木端微塵】日経平均ブルトラップ。ドル円157円。米国株、ナスダック、ハイテク株下落。仮想通貨BTC弱",
+     "published": "2026-10-30T14:43:06+00:00",
+     "stance": "neutral",
+     "stance_note": "デッドクロス形成後の下値を注視",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "25日移動平均線と100日移動平均線のデッドクロス形成が確認され目先の下落が警戒されるため。",
+      "信用買い残が多く貸株倍率が高いなど需給面で上値が重くなりやすい状態となっているため。"
+     ],
+     "timestamp": "32:15",
+     "seconds": 1935,
+     "confidence": "medium"
+    }
+   ],
+   "consensus": {
+    "bullish": 0,
+    "bearish": 0,
+    "neutral": 1
+   },
+   "voices": 1,
+   "split": false,
+   "last_mentioned": "2026-10-30T14:43:06+00:00",
+   "channel_ids": [
+    "UCK9Pl6bbWqMC_x7IDca2tIg"
+   ],
+   "price": {
+    "date": "2026-10-30",
+    "close": 3447.0,
+    "change_pct": -0.49,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 31089600,
+    "volume_ratio": 0.84,
+    "rsi14": 47.8,
+    "rsi_zone": "中立",
+    "ma25": 3501.68,
+    "ma75": 3580.43,
+    "trend": "下降基調",
+    "pos52": 77,
+    "spark": [
+     3700.0,
+     3684.0,
+     3754.0,
+     3785.0,
+     3711.0,
+     3656.0,
+     3601.0,
+     3662.0,
+     3661.0,
+     3720.0,
+     3668.0,
+     3655.0,
+     3652.0,
+     3620.0,
+     3573.0,
+     3714.0,
+     3721.0,
+     3592.0,
+     3700.0,
+     3586.0,
+     3544.0,
+     3615.0,
+     3671.0,
+     3622.0,
+     3504.0,
+     3462.0,
+     3551.0,
+     3482.0,
+     3413.0,
+     3475.0,
+     3478.0,
+     3351.0,
+     3431.0,
+     3373.0,
+     3295.0,
+     3304.0,
+     3370.0,
+     3377.0,
+     3464.0,
+     3447.0
+    ],
+    "currency": "JPY",
+    "exchange_name": "Tokyo",
+    "market_open": false,
+    "symbol": "8306.T",
+    "source": "yahoo",
+    "fetched_at": "2026-10-30T22:59:22.927917+00:00"
    }
   },
   {
    "key": "JP:7974",
    "name": "任天堂",
-   "name_en": "Nintendo",
+   "name_en": "Nintendo Co., Ltd.",
    "ticker": "7974",
    "market": "JP",
    "mentions": [
+    {
+     "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+     "channel_name": "Sho's投資情報局",
+     "channel_short": "Sho",
+     "slot": 3,
+     "video_id": "N_4G_z2uqBE",
+     "video_title": "10/30【日本株、半導体株大暴落でキオクシアも木端微塵】日経平均ブルトラップ。ドル円157円。米国株、ナスダック、ハイテク株下落。仮想通貨BTC弱",
+     "published": "2026-10-30T14:43:06+00:00",
+     "stance": "neutral",
+     "stance_note": "決算発表を控え移動平均線の交差を注視",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "ゼルダの伝説などのIP人気が根強く決算内容次第で移動平均線のゴールデンクロス形成が期待できるため。",
+      "直近安値圏から買われてきたものの決算発表を目前に控えており二分の一のギャンブル要素があるため。"
+     ],
+     "timestamp": "58:36",
+     "seconds": 3516,
+     "confidence": "medium"
+    },
     {
      "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
      "channel_name": "Sho's投資情報局",
@@ -540,13 +938,13 @@
     }
    ],
    "consensus": {
-    "bullish": 1,
+    "bullish": 0,
     "bearish": 0,
-    "neutral": 0
+    "neutral": 1
    },
    "voices": 1,
    "split": false,
-   "last_mentioned": "2026-10-29T17:03:04+00:00",
+   "last_mentioned": "2026-10-30T14:43:06+00:00",
    "channel_ids": [
     "UCK9Pl6bbWqMC_x7IDca2tIg"
    ],
@@ -612,7 +1010,217 @@
     "market_open": false,
     "symbol": "7974.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-30T18:58:34.697579+00:00"
+    "fetched_at": "2026-10-30T22:59:22.927917+00:00"
+   }
+  },
+  {
+   "key": "JP:6501",
+   "name": "日立製作所",
+   "name_en": "Hitachi, Ltd.",
+   "ticker": "6501",
+   "market": "JP",
+   "mentions": [
+    {
+     "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+     "channel_name": "Sho's投資情報局",
+     "channel_short": "Sho",
+     "slot": 3,
+     "video_id": "N_4G_z2uqBE",
+     "video_title": "10/30【日本株、半導体株大暴落でキオクシアも木端微塵】日経平均ブルトラップ。ドル円157円。米国株、ナスダック、ハイテク株下落。仮想通貨BTC弱",
+     "published": "2026-10-30T14:43:06+00:00",
+     "stance": "bearish",
+     "stance_note": "バンドウォーク継続で強烈な下落トレンド",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "マイナスシグマに沿ったバンドウォークが発生しており下落方向に強いトレンドが出ているため。",
+      "5日線と75日移動平均線のデッドクロス形成が見込まれ下落リスクが残るチャート形状であるため。"
+     ],
+     "timestamp": "1:03:30",
+     "seconds": 3810,
+     "confidence": "medium"
+    }
+   ],
+   "consensus": {
+    "bullish": 0,
+    "bearish": 1,
+    "neutral": 0
+   },
+   "voices": 1,
+   "split": false,
+   "last_mentioned": "2026-10-30T14:43:06+00:00",
+   "channel_ids": [
+    "UCK9Pl6bbWqMC_x7IDca2tIg"
+   ],
+   "price": {
+    "date": "2026-10-30",
+    "close": 5094.0,
+    "change_pct": 0.45,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 17072100,
+    "volume_ratio": 1.35,
+    "rsi14": 32.9,
+    "rsi_zone": "中立",
+    "ma25": 5597.16,
+    "ma75": 5365.75,
+    "trend": "調整中",
+    "pos52": 46,
+    "spark": [
+     5541.0,
+     5335.0,
+     5352.0,
+     5377.0,
+     5358.0,
+     5187.0,
+     5173.0,
+     5182.0,
+     5199.0,
+     5325.0,
+     5221.0,
+     5372.0,
+     5475.0,
+     5524.0,
+     5497.0,
+     5536.0,
+     5518.0,
+     5465.0,
+     5489.0,
+     5510.0,
+     5522.0,
+     5642.0,
+     5660.0,
+     5649.0,
+     5597.0,
+     5669.0,
+     5764.0,
+     5809.0,
+     5595.0,
+     5770.0,
+     5773.0,
+     5810.0,
+     5840.0,
+     5816.0,
+     5562.0,
+     5533.0,
+     5615.0,
+     5620.0,
+     5071.0,
+     5094.0
+    ],
+    "currency": "JPY",
+    "exchange_name": "Tokyo",
+    "market_open": false,
+    "symbol": "6501.T",
+    "source": "yahoo",
+    "fetched_at": "2026-10-30T22:59:22.927917+00:00"
+   }
+  },
+  {
+   "key": "JP:1803",
+   "name": "清水建設",
+   "name_en": "Shimizu Corporation",
+   "ticker": "1803",
+   "market": "JP",
+   "mentions": [
+    {
+     "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+     "channel_name": "Sho's投資情報局",
+     "channel_short": "Sho",
+     "slot": 3,
+     "video_id": "N_4G_z2uqBE",
+     "video_title": "10/30【日本株、半導体株大暴落でキオクシアも木端微塵】日経平均ブルトラップ。ドル円157円。米国株、ナスダック、ハイテク株下落。仮想通貨BTC弱",
+     "published": "2026-10-30T14:43:06+00:00",
+     "stance": "neutral",
+     "stance_note": "バンド縮小により決算までレンジ推移",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "ボリンジャーバンドの幅が拡大から縮小へと向かいバンドのトンネル状態を形成しているため。",
+      "RSIのラインを上抜けられるか等の材料待ちであり決算まで揉み合いの展開が見込まれるため。"
+     ],
+     "timestamp": "1:10:07",
+     "seconds": 4207,
+     "confidence": "medium"
+    }
+   ],
+   "consensus": {
+    "bullish": 0,
+    "bearish": 0,
+    "neutral": 1
+   },
+   "voices": 1,
+   "split": false,
+   "last_mentioned": "2026-10-30T14:43:06+00:00",
+   "channel_ids": [
+    "UCK9Pl6bbWqMC_x7IDca2tIg"
+   ],
+   "price": {
+    "date": "2026-10-30",
+    "close": 2055.0,
+    "change_pct": -2.03,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 2992400,
+    "volume_ratio": 0.67,
+    "rsi14": 43.3,
+    "rsi_zone": "中立",
+    "ma25": 2070.12,
+    "ma75": 2295.36,
+    "trend": "下降基調",
+    "pos52": 6,
+    "spark": [
+     2454.0,
+     2396.0,
+     2386.5,
+     2370.5,
+     2417.0,
+     2456.0,
+     2533.5,
+     2391.5,
+     2360.0,
+     2378.0,
+     2317.5,
+     2371.5,
+     2413.0,
+     2358.0,
+     2350.5,
+     2210.0,
+     2200.0,
+     2096.5,
+     2144.0,
+     2125.5,
+     2089.5,
+     2110.0,
+     2085.5,
+     2087.5,
+     2038.5,
+     2031.5,
+     2045.0,
+     2034.5,
+     1959.5,
+     2007.0,
+     2023.5,
+     1996.5,
+     2027.5,
+     2011.0,
+     2029.0,
+     2078.0,
+     2094.5,
+     2076.0,
+     2097.5,
+     2055.0
+    ],
+    "currency": "JPY",
+    "exchange_name": "Tokyo",
+    "market_open": false,
+    "symbol": "1803.T",
+    "source": "yahoo",
+    "fetched_at": "2026-10-30T22:59:22.927917+00:00"
    }
   },
   {
@@ -717,7 +1325,7 @@
     "market_open": false,
     "symbol": "7012.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-30T18:58:34.697579+00:00"
+    "fetched_at": "2026-10-30T22:59:22.927917+00:00"
    }
   },
   {
@@ -822,7 +1430,7 @@
     "market_open": false,
     "symbol": "5803.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-30T18:58:34.697579+00:00"
+    "fetched_at": "2026-10-30T22:59:22.927917+00:00"
    }
   },
   {
@@ -851,26 +1459,6 @@
      "timestamp": "26:06",
      "seconds": 1566,
      "confidence": "medium"
-    },
-    {
-     "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-     "channel_name": "Sho's投資情報局",
-     "channel_short": "Sho",
-     "slot": 3,
-     "video_id": "tz4zsNHaWug",
-     "video_title": "10/29【日本株爆上げブルトラップか⁉】キオクシア引けに大暴落‼半導体株急騰で日経平均続伸。ドル円157円。米国株、ナスダック、ハイテク株下落。仮想通貨BTC弱",
-     "published": "2026-10-29T09:15:02+00:00",
-     "stance": "bearish",
-     "stance_note": "AI投資増加や検索広告鈍化で時間外下落",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "決算で検索広告の伸びが鈍化し、AI投資の拡大による費用増加が嫌気されて時間外取引で株価が下落した。"
-     ],
-     "timestamp": "35:58",
-     "seconds": 2158,
-     "confidence": "medium"
     }
    ],
    "consensus": {
@@ -885,22 +1473,21 @@
     "UCK9Pl6bbWqMC_x7IDca2tIg"
    ],
    "price": {
-    "date": "2026-10-29",
-    "close": 283.82,
-    "change_pct": -12.64,
-    "live": 277.69,
-    "live_change_pct": -2.16,
-    "live_time": 1793386682,
-    "volume": 138898500,
-    "volume_ratio": 4.63,
-    "rsi14": 22.3,
+    "date": "2026-10-30",
+    "close": 279.84,
+    "change_pct": -1.4,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 65326584,
+    "volume_ratio": 2.06,
+    "rsi14": 21.4,
     "rsi_zone": "売られすぎ",
-    "ma25": 338.07,
-    "ma75": 342.36,
+    "ma25": 335.5,
+    "ma75": 341.36,
     "trend": "下降基調",
-    "pos52": 8,
+    "pos52": 5,
     "spark": [
-     342.48,
      338.46,
      338.36,
      330.65,
@@ -939,14 +1526,15 @@
      316.8,
      320.58,
      324.89,
-     283.82
+     283.82,
+     279.84
     ],
     "currency": "USD",
     "exchange_name": "NasdaqGS",
-    "market_open": true,
+    "market_open": false,
     "symbol": "GOOGL",
     "source": "yahoo",
-    "fetched_at": "2026-10-30T18:58:34.697579+00:00"
+    "fetched_at": "2026-10-30T22:59:22.927917+00:00"
    }
   },
   {
@@ -1050,7 +1638,7 @@
     "market_open": false,
     "symbol": "6861.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-30T18:58:34.697579+00:00"
+    "fetched_at": "2026-10-30T22:59:22.927917+00:00"
    }
   },
   {
@@ -1154,7 +1742,112 @@
     "market_open": false,
     "symbol": "9684.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-30T18:58:34.697579+00:00"
+    "fetched_at": "2026-10-30T22:59:22.927917+00:00"
+   }
+  },
+  {
+   "key": "IDX:^N225",
+   "name": "日経平均",
+   "name_en": "Nikkei 225",
+   "ticker": "N225",
+   "market": "JP",
+   "mentions": [
+    {
+     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+     "channel_name": "Trader's Lab",
+     "channel_short": "TL",
+     "slot": 1,
+     "video_id": "alj6YsPkiho",
+     "video_title": "【日経平均】 大幅上昇だが 抵抗ライン到達 ここが正念場です  サンディスク・キオクシア・サイバートラスト・データセクション・オンコリスバイオ",
+     "published": "2026-10-27T10:36:00+00:00",
+     "stance": "neutral",
+     "stance_note": "イベント通過後の抵抗ライン突破か下落かを見極める段階",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "自立反発の局面だが直近高値と安値が交わる6万3570円の抵抗ライン付近に位置しておりイベントを前に見極めが必要な状況。",
+      "4時間足では直近高値超えで6万4880円を目指す展開も考えられるが戻り売りに押されて一段安となる下落シナリオにも警戒が必要。"
+     ],
+     "timestamp": "01:56",
+     "seconds": 116,
+     "confidence": "medium"
+    }
+   ],
+   "consensus": {
+    "bullish": 0,
+    "bearish": 0,
+    "neutral": 1
+   },
+   "voices": 1,
+   "split": false,
+   "last_mentioned": "2026-10-27T10:36:00+00:00",
+   "channel_ids": [
+    "UCsaeHha7ai_NNX8or8Jyb-g"
+   ],
+   "price": {
+    "date": "2026-10-29",
+    "close": 64659.47,
+    "change_pct": 1.1,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 279800000,
+    "volume_ratio": 1.63,
+    "rsi14": 47.1,
+    "rsi_zone": "中立",
+    "ma25": 66182.19,
+    "ma75": 65831.92,
+    "trend": "調整中",
+    "pos52": 68,
+    "spark": [
+     66311.93,
+     66215.34,
+     64325.64,
+     64214.48,
+     65020.94,
+     66399.84,
+     65269.33,
+     65142.78,
+     65270.95,
+     64011.34,
+     63492.99,
+     63484.1,
+     63923.0,
+     64136.25,
+     65018.95,
+     65513.99,
+     66364.2,
+     65877.62,
+     65481.27,
+     66753.72,
+     68956.72,
+     68309.46,
+     69946.86,
+     70683.98,
+     70035.71,
+     69042.11,
+     69030.92,
+     67777.52,
+     67744.29,
+     64425.95,
+     65324.29,
+     64916.7,
+     64075.42,
+     64621.24,
+     62907.84,
+     62693.16,
+     62189.65,
+     63268.37,
+     63954.19,
+     64659.47
+    ],
+    "currency": "JPY",
+    "exchange_name": "Osaka",
+    "market_open": false,
+    "symbol": "^N225",
+    "source": "yahoo",
+    "fetched_at": "2026-10-30T22:59:22.927917+00:00"
    }
   },
   {
@@ -1259,7 +1952,7 @@
     "market_open": false,
     "symbol": "4498.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-30T18:58:34.697579+00:00"
+    "fetched_at": "2026-10-30T22:59:22.927917+00:00"
    }
   },
   {
@@ -1364,7 +2057,7 @@
     "market_open": false,
     "symbol": "3905.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-30T18:58:34.697579+00:00"
+    "fetched_at": "2026-10-30T22:59:22.927917+00:00"
    }
   },
   {
@@ -1469,7 +2162,112 @@
     "market_open": false,
     "symbol": "4588.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-30T18:58:34.697579+00:00"
+    "fetched_at": "2026-10-30T22:59:22.927917+00:00"
+   }
+  },
+  {
+   "key": "JP:6857",
+   "name": "アドバンテスト",
+   "name_en": "Advantest",
+   "ticker": "6857",
+   "market": "JP",
+   "mentions": [
+    {
+     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+     "channel_name": "Trader's Lab",
+     "channel_short": "TL",
+     "slot": 1,
+     "video_id": "W-qWtLM5MQw",
+     "video_title": "この状況について考えましょう",
+     "published": "2026-10-26T17:03:22+00:00",
+     "stance": "neutral",
+     "stance_note": "200日線等の明確な下値支持線までの調整待ち",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "日経平均の動きに大きく影響を受けるため、指数全体の調整に合わせた見極めが必要となるため。",
+      "200日移動平均線や過去安値水準(27,000〜28,000円付近)まで下に大きく乖離した局面でのみ買いを検討するため。"
+     ],
+     "timestamp": "27:39",
+     "seconds": 1659,
+     "confidence": "medium"
+    }
+   ],
+   "consensus": {
+    "bullish": 0,
+    "bearish": 0,
+    "neutral": 1
+   },
+   "voices": 1,
+   "split": false,
+   "last_mentioned": "2026-10-26T17:03:22+00:00",
+   "channel_ids": [
+    "UCsaeHha7ai_NNX8or8Jyb-g"
+   ],
+   "price": {
+    "date": "2026-10-30",
+    "close": 34860.0,
+    "change_pct": -5.86,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 19644400,
+    "volume_ratio": 1.25,
+    "rsi14": 49.2,
+    "rsi_zone": "中立",
+    "ma25": 36279.6,
+    "ma75": 33585.67,
+    "trend": "調整中",
+    "pos52": 70,
+    "spark": [
+     33380.0,
+     32540.0,
+     32280.0,
+     33090.0,
+     34480.0,
+     33800.0,
+     32840.0,
+     33920.0,
+     31720.0,
+     31080.0,
+     30160.0,
+     30700.0,
+     30240.0,
+     32050.0,
+     33060.0,
+     34000.0,
+     33730.0,
+     33910.0,
+     34260.0,
+     37610.0,
+     38630.0,
+     40300.0,
+     41850.0,
+     41290.0,
+     40930.0,
+     41610.0,
+     40400.0,
+     40380.0,
+     34340.0,
+     34530.0,
+     34450.0,
+     33870.0,
+     34440.0,
+     32370.0,
+     32340.0,
+     31070.0,
+     33860.0,
+     34930.0,
+     37030.0,
+     34860.0
+    ],
+    "currency": "JPY",
+    "exchange_name": "Tokyo",
+    "market_open": false,
+    "symbol": "6857.T",
+    "source": "yahoo",
+    "fetched_at": "2026-10-30T22:59:22.927917+00:00"
    }
   },
   {
@@ -1574,7 +2372,7 @@
     "market_open": false,
     "symbol": "278A.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-30T18:58:34.697579+00:00"
+    "fetched_at": "2026-10-30T22:59:22.927917+00:00"
    }
   },
   {
@@ -1679,7 +2477,7 @@
     "market_open": false,
     "symbol": "2914.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-30T18:58:34.697579+00:00"
+    "fetched_at": "2026-10-30T22:59:22.927917+00:00"
    }
   },
   {
@@ -1784,7 +2582,7 @@
     "market_open": false,
     "symbol": "7552.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-30T18:58:34.697579+00:00"
+    "fetched_at": "2026-10-30T22:59:22.927917+00:00"
    }
   },
   {
@@ -1889,7 +2687,7 @@
     "market_open": false,
     "symbol": "6146.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-30T18:58:34.697579+00:00"
+    "fetched_at": "2026-10-30T22:59:22.927917+00:00"
    }
   },
   {
@@ -1994,7 +2792,7 @@
     "market_open": false,
     "symbol": "4417.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-30T18:58:34.697579+00:00"
+    "fetched_at": "2026-10-30T22:59:22.927917+00:00"
    }
   },
   {
@@ -2100,7 +2898,7 @@
     "market_open": false,
     "symbol": "9861.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-30T18:58:34.697579+00:00"
+    "fetched_at": "2026-10-30T22:59:22.927917+00:00"
    }
   },
   {
@@ -2206,7 +3004,7 @@
     "market_open": false,
     "symbol": "7453.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-30T18:58:34.697579+00:00"
+    "fetched_at": "2026-10-30T22:59:22.927917+00:00"
    }
   }
  ]
