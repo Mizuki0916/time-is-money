@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T19:55:54.805990+09:00",
+ "generated_at": "2026-11-01T07:31:38.500490+09:00",
  "channels": [
   {
    "id": "UCsaeHha7ai_NNX8or8Jyb-g",
@@ -15,7 +15,7 @@
    "short": "TOMO",
    "slot": 2,
    "video_count": 2,
-   "latest": "2026-10-31T09:00:39+00:00"
+   "latest": "2026-10-31T21:00:26+00:00"
   },
   {
    "id": "UCK9Pl6bbWqMC_x7IDca2tIg",
@@ -50,6 +50,28 @@
    "ticker": "285A",
    "market": "JP",
    "mentions": [
+    {
+     "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+     "channel_name": "トレーダーTOMO",
+     "channel_short": "TOMO",
+     "slot": 2,
+     "video_id": "h14uFl-9ibE",
+     "video_title": "キオクシア純利益15倍の爆裂決算！でも株価が上がらない理由　#shorts",
+     "published": "2026-10-31T21:00:26+00:00",
+     "stance": "neutral",
+     "stance_note": "決算数値は強いがコンサ未達を警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "上期最終利益が大幅増益で90円の中間配当を発表し、利益率も80.4%に急改善したため。",
+      "第2四半期累計はコンセンサスを超過したものの、PTSでは約1000円下落したため。",
+      "第3四半期までの予想利益5.23兆円がコンセンサス予想5.43兆円に届かなかったため。"
+     ],
+     "timestamp": "00:00",
+     "seconds": 0,
+     "confidence": "high"
+    },
     {
      "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
      "channel_name": "Sho's投資情報局",
@@ -90,28 +112,6 @@
      ],
      "timestamp": "03:52",
      "seconds": 232,
-     "confidence": "high"
-    },
-    {
-     "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-     "channel_name": "トレーダーTOMO",
-     "channel_short": "TOMO",
-     "slot": 2,
-     "video_id": "lNkEal3xYSg",
-     "video_title": "キオクシア（285A）決算内容を見ていく！1株30円配当の理由",
-     "published": "2026-10-30T13:24:41+00:00",
-     "stance": "neutral",
-     "stance_note": "決算誤解による急落も慌てず地合い注視",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "3Qのコンセンサス未達や円高設定のガイダンスを受け、夜間PTSでは株価が下落している。",
-      "一株30円の配当は法律上の分配可能額の上限によるもので、今後の還元拡大の余地は残されている。",
-      "NAND需要は好調で出荷の前倒しやズレが影響しており、4Qに向けて成長はさらに加速する見通し。"
-     ],
-     "timestamp": "00:03",
-     "seconds": 3,
      "confidence": "high"
     },
     {
@@ -164,7 +164,7 @@
    },
    "voices": 3,
    "split": false,
-   "last_mentioned": "2026-10-31T03:00:03+00:00",
+   "last_mentioned": "2026-10-31T21:00:26+00:00",
    "channel_ids": [
     "UCK9Pl6bbWqMC_x7IDca2tIg",
     "UCdQdRRLoajrt-5TEaAxslxA",
@@ -232,7 +232,7 @@
     "market_open": false,
     "symbol": "285A.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-30T22:59:22.927917+00:00"
+    "fetched_at": "2026-10-31T22:31:38.685385+00:00"
    }
   },
   {
@@ -359,7 +359,7 @@
     "market_open": false,
     "symbol": "4062.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-31T10:25:09.265710+00:00"
+    "fetched_at": "2026-10-31T22:31:38.685385+00:00"
    }
   },
   {
@@ -463,7 +463,7 @@
     "market_open": false,
     "symbol": "INTC",
     "source": "yahoo",
-    "fetched_at": "2026-10-31T10:25:09.265710+00:00"
+    "fetched_at": "2026-10-31T22:31:38.685385+00:00"
    }
   },
   {
@@ -567,7 +567,7 @@
     "market_open": false,
     "symbol": "4661.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-31T10:25:09.265710+00:00"
+    "fetched_at": "2026-10-31T22:31:38.685385+00:00"
    }
   },
   {
@@ -672,7 +672,7 @@
     "market_open": false,
     "symbol": "6254.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-30T22:59:22.927917+00:00"
+    "fetched_at": "2026-10-31T22:31:38.685385+00:00"
    }
   },
   {
@@ -777,7 +777,7 @@
     "market_open": false,
     "symbol": "8136.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-30T22:59:22.927917+00:00"
+    "fetched_at": "2026-10-31T22:31:38.685385+00:00"
    }
   },
   {
@@ -882,7 +882,7 @@
     "market_open": false,
     "symbol": "9697.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-30T22:59:22.927917+00:00"
+    "fetched_at": "2026-10-31T22:31:38.685385+00:00"
    }
   },
   {
@@ -987,7 +987,7 @@
     "market_open": false,
     "symbol": "6758.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-30T22:59:22.927917+00:00"
+    "fetched_at": "2026-10-31T22:31:38.685385+00:00"
    }
   },
   {
@@ -1092,7 +1092,7 @@
     "market_open": false,
     "symbol": "6702.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-30T22:59:22.927917+00:00"
+    "fetched_at": "2026-10-31T22:31:38.685385+00:00"
    }
   },
   {
@@ -1197,7 +1197,7 @@
     "market_open": false,
     "symbol": "8306.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-30T22:59:22.927917+00:00"
+    "fetched_at": "2026-10-31T22:31:38.685385+00:00"
    }
   },
   {
@@ -1302,7 +1302,7 @@
     "market_open": false,
     "symbol": "7974.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-30T22:59:22.927917+00:00"
+    "fetched_at": "2026-10-31T22:31:38.685385+00:00"
    }
   },
   {
@@ -1407,7 +1407,7 @@
     "market_open": false,
     "symbol": "6501.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-30T22:59:22.927917+00:00"
+    "fetched_at": "2026-10-31T22:31:38.685385+00:00"
    }
   },
   {
@@ -1512,7 +1512,7 @@
     "market_open": false,
     "symbol": "1803.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-30T22:59:22.927917+00:00"
+    "fetched_at": "2026-10-31T22:31:38.685385+00:00"
    }
   },
   {
@@ -1556,22 +1556,21 @@
     "UCsaeHha7ai_NNX8or8Jyb-g"
    ],
    "price": {
-    "date": "2026-10-29",
-    "close": 64659.47,
-    "change_pct": 1.1,
+    "date": "2026-10-30",
+    "close": 63290.11,
+    "change_pct": -2.12,
     "live": null,
     "live_change_pct": null,
     "live_time": null,
-    "volume": 279800000,
-    "volume_ratio": 1.63,
-    "rsi14": 47.1,
+    "volume": 175100000,
+    "volume_ratio": 1.02,
+    "rsi14": 41.8,
     "rsi_zone": "中立",
-    "ma25": 66182.19,
-    "ma75": 65831.92,
+    "ma25": 66093.23,
+    "ma75": 65772.54,
     "trend": "調整中",
-    "pos52": 68,
+    "pos52": 62,
     "spark": [
-     66311.93,
      66215.34,
      64325.64,
      64214.48,
@@ -1610,14 +1609,15 @@
      62189.65,
      63268.37,
      63954.19,
-     64659.47
+     64659.47,
+     63290.11
     ],
     "currency": "JPY",
     "exchange_name": "Osaka",
     "market_open": false,
     "symbol": "^N225",
     "source": "yahoo",
-    "fetched_at": "2026-10-30T22:59:22.927917+00:00"
+    "fetched_at": "2026-10-31T22:31:38.685385+00:00"
    }
   },
   {
@@ -1722,7 +1722,7 @@
     "market_open": false,
     "symbol": "4498.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-30T22:59:22.927917+00:00"
+    "fetched_at": "2026-10-31T22:31:38.685385+00:00"
    }
   },
   {
@@ -1827,7 +1827,7 @@
     "market_open": false,
     "symbol": "3905.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-30T22:59:22.927917+00:00"
+    "fetched_at": "2026-10-31T22:31:38.685385+00:00"
    }
   },
   {
@@ -1932,7 +1932,7 @@
     "market_open": false,
     "symbol": "4588.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-30T22:59:22.927917+00:00"
+    "fetched_at": "2026-10-31T22:31:38.685385+00:00"
    }
   },
   {
@@ -2037,7 +2037,7 @@
     "market_open": false,
     "symbol": "6857.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-30T22:59:22.927917+00:00"
+    "fetched_at": "2026-10-31T22:31:38.685385+00:00"
    }
   },
   {
@@ -2142,7 +2142,7 @@
     "market_open": false,
     "symbol": "278A.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-30T22:59:22.927917+00:00"
+    "fetched_at": "2026-10-31T22:31:38.685385+00:00"
    }
   },
   {
@@ -2247,7 +2247,7 @@
     "market_open": false,
     "symbol": "2914.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-30T22:59:22.927917+00:00"
+    "fetched_at": "2026-10-31T22:31:38.685385+00:00"
    }
   },
   {
@@ -2352,7 +2352,7 @@
     "market_open": false,
     "symbol": "7552.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-30T22:59:22.927917+00:00"
+    "fetched_at": "2026-10-31T22:31:38.685385+00:00"
    }
   },
   {
@@ -2457,7 +2457,7 @@
     "market_open": false,
     "symbol": "6146.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-30T22:59:22.927917+00:00"
+    "fetched_at": "2026-10-31T22:31:38.685385+00:00"
    }
   },
   {
@@ -2562,7 +2562,7 @@
     "market_open": false,
     "symbol": "4417.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-30T22:59:22.927917+00:00"
+    "fetched_at": "2026-10-31T22:31:38.685385+00:00"
    }
   },
   {
@@ -2668,7 +2668,7 @@
     "market_open": false,
     "symbol": "9861.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-30T22:59:22.927917+00:00"
+    "fetched_at": "2026-10-31T22:31:38.685385+00:00"
    }
   },
   {
@@ -2774,7 +2774,7 @@
     "market_open": false,
     "symbol": "7453.T",
     "source": "yahoo",
-    "fetched_at": "2026-10-30T22:59:22.927917+00:00"
+    "fetched_at": "2026-10-31T22:31:38.685385+00:00"
    }
   }
  ]
