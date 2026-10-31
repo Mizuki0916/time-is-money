@@ -1,6 +1,68 @@
 {
- "generated_at": "2026-10-31T08:01:12.537727+09:00",
+ "generated_at": "2026-10-31T19:26:08.568493+09:00",
  "videos": [
+  {
+   "video_id": "OuhQu3VYJxQ",
+   "title": "イビデンストップ安！インテルショックで連れ下げ・・・株式テクニカルチャート分析",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-10-31T09:00:39+00:00",
+   "overview": "イビデンが好決算および通期上方修正を発表したものの、取引関係の深い米インテルの株価急落による連れ安でストップ安まで売り込まれた状況を解説。決算内容自体は非常に強固であり、AI需要の拡大や代替困難な技術力を背景とした中長期的成長ストーリーも不変であるため、現在の過度な急落は下値目処(7900円や7500円付近)での押し目買い好機と分析している。",
+   "market_view": "インテル株の急落や米ハイテク株安を受けてナスダックやSOX指数、日経平均株価が大幅安となるなど、全体相場は厳しい地合いとなっている。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "イビデン",
+     "ticker": "4062",
+     "stance": "bullish",
+     "timestamp": "00:03"
+    }
+   ]
+  },
+  {
+   "video_id": "kyyiuLWOW4U",
+   "title": "10/31【日本株、半導体株大暴落止まらない‼️】キオクシア高値掴み助かるか⁉️日経平均ブルトラップ。ドル円157円。米国株、ナスダック、ハイテク株暴落。仮想通貨BTC、金先物急落",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-10-31T03:00:03+00:00",
+   "overview": "日経平均や米ハイテク株の大幅下落に伴い、AI半導体株を中心に騙し上げ(ブルートラップ)からの急落が発生していると解説。2018年の相場展開と類似しており、信用売買バランスや需給の悪化が株価を押し下げていると指摘する。年末にかけては全面安ではなく、需給の良し悪しに応じた二極化相場が進行すると予想している。",
+   "market_view": "空売り燃料の枯渇と需給悪化により半導体株を中心に下落圧力が強いが、良好な需給を持つ銘柄へのセクターローテーションによる二極化相場が続くと見込んでいる。",
+   "market": "MIX",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "キオクシア",
+     "ticker": "285A",
+     "stance": "bearish",
+     "timestamp": "01:38"
+    },
+    {
+     "name": "イビデン",
+     "ticker": "4062",
+     "stance": "bearish",
+     "timestamp": "00:00"
+    },
+    {
+     "name": "Intel",
+     "ticker": "INTC",
+     "stance": "bearish",
+     "timestamp": "38:46"
+    },
+    {
+     "name": "オリエンタルランド",
+     "ticker": "4661",
+     "stance": "bullish",
+     "timestamp": "31:37"
+    }
+   ]
+  },
   {
    "video_id": "N_4G_z2uqBE",
    "title": "10/30【日本株、半導体株大暴落でキオクシアも木端微塵】日経平均ブルトラップ。ドル円157円。米国株、ナスダック、ハイテク株下落。仮想通貨BTC弱",
@@ -96,86 +158,6 @@
      "ticker": "285A",
      "stance": "neutral",
      "timestamp": "00:03"
-    }
-   ]
-  },
-  {
-   "video_id": "EYsek4GioOY",
-   "title": "10/29【日本株爆上げブルトラップか⁉】キオクシア引けに大暴落‼半導体株急騰で日経平均続伸。ドル円157円。米国株、ナスダック、ハイテク株下落。仮想通貨BTC弱",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-10-29T17:03:04+00:00",
-   "overview": "Sho氏による相場解説動画。日経平均は半導体株の急騰により続伸し、EPSの上方修正に伴いPER17倍(65,500円近辺)まで上値余地が開いたと分析。しかし、この半導体株の上昇は2018年のパターンと同様の騙し上げ(ブルトラップ)である可能性を指摘し警戒を促しています。個別では、引けに急落したキオクシアや大暴落した米アルファベット、株式分割を発表したキーエンス、任天堂やスクエニ等のゲーム銘柄の動向や年末の損益通算に向けた需給悪化への注意点を解説しています。",
-   "market_view": "半導体株主導の日経平均上昇は2018年と同様の軌道修正(ブルトラップ)の懸念があり、11〜12月の損益通算による売りも控えるため、高値掴みを避けたリスク管理が重要です。",
-   "market": "MIX",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "キオクシアホールディングス",
-     "ticker": "285A",
-     "stance": "bearish",
-     "timestamp": "00:00"
-    },
-    {
-     "name": "任天堂",
-     "ticker": "7974",
-     "stance": "bullish",
-     "timestamp": "05:44"
-    },
-    {
-     "name": "川崎重工業",
-     "ticker": "7012",
-     "stance": "bearish",
-     "timestamp": "09:57"
-    },
-    {
-     "name": "フジクラ",
-     "ticker": "5803",
-     "stance": "bearish",
-     "timestamp": "21:55"
-    },
-    {
-     "name": "アルファベット",
-     "ticker": "GOOGL",
-     "stance": "bearish",
-     "timestamp": "26:06"
-    },
-    {
-     "name": "キーエンス",
-     "ticker": "6861",
-     "stance": "bearish",
-     "timestamp": "40:10"
-    },
-    {
-     "name": "スクウェア・エニックス・ホールディングス",
-     "ticker": "9684",
-     "stance": "bullish",
-     "timestamp": "44:44"
-    }
-   ]
-  },
-  {
-   "video_id": "_EdKxYbVBYc",
-   "title": "キオクシア決算直前！ここから株価上昇か？",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-10-28T21:00:23+00:00",
-   "overview": "SKハイニックスの好決算を受けて好調な動きを見せるキオクシアホールディングスについて解説しています。TOPIXの浮動株比率引き上げに伴い、パッシブファンドによる巨額の買付が確定で見込まれている点や出来高の復活が好材料とされています。1万6000円台の売りをこなしながら進行できれば、決算発表に向けて1万7000円や1万8000円を目指す展開が期待されています。",
-   "market_view": "SKハイニックスの好決算などを立役者として、日本市場は非常に強い動きを見せました。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "キオクシアホールディングス",
-     "ticker": "285A",
-     "stance": "bullish",
-     "timestamp": "00:00"
     }
    ]
   },

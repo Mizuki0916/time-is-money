@@ -1,6 +1,88 @@
 {
  "videos": [
   {
+   "video_id": "kyyiuLWOW4U",
+   "title": "10/31【日本株、半導体株大暴落止まらない‼️】キオクシア高値掴み助かるか⁉️日経平均ブルトラップ。ドル円157円。米国株、ナスダック、ハイテク株暴落。仮想通貨BTC、金先物急落",
+   "published": "2026-10-31T03:00:03+00:00",
+   "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "日経平均や米ハイテク株の大幅下落に伴い、AI半導体株を中心に騙し上げ(ブルートラップ)からの急落が発生していると解説。2018年の相場展開と類似しており、信用売買バランスや需給の悪化が株価を押し下げていると指摘する。年末にかけては全面安ではなく、需給の良し悪しに応じた二極化相場が進行すると予想している。",
+   "market_view": "空売り燃料の枯渇と需給悪化により半導体株を中心に下落圧力が強いが、良好な需給を持つ銘柄へのセクターローテーションによる二極化相場が続くと見込んでいる。",
+   "market": "MIX",
+   "picks": [
+    {
+     "name": "キオクシア",
+     "name_en": "Kioxia Holdings",
+     "ticker": "285A",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "需給悪化による高値掴みの投げ売り警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "決算発表後に時間外取引で1万2000円を割り込む12%超の大幅下落となったため。",
+      "信用取引での高値買い捕まりが多く、年末の損益通算や半年期日で投げ売りが懸念されるため。"
+     ],
+     "timestamp": "01:38",
+     "confidence": "high"
+    },
+    {
+     "name": "イビデン",
+     "name_en": "Ibiden Co., Ltd.",
+     "ticker": "4062",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "決算通過後のストップ安と下落警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "決算発表を受けて株価が15%下落しストップ安となるなど、足元の需給悪化が深刻であるため。"
+     ],
+     "timestamp": "00:00",
+     "confidence": "medium"
+    },
+    {
+     "name": "Intel",
+     "name_en": "Intel Corporation",
+     "ticker": "INTC",
+     "market": "US",
+     "stance": "bearish",
+     "stance_note": "先行き懸念による大暴落に注意",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "事業の先行き懸念が出たことで株価が28%の大暴落を起こし、AI半導体株安の契機となったため。"
+     ],
+     "timestamp": "38:46",
+     "confidence": "medium"
+    },
+    {
+     "name": "オリエンタルランド",
+     "name_en": "Oriental Land Co., Ltd.",
+     "ticker": "4661",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "需給改善に伴う踏み上げ上昇に期待",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "信用の整理が進んで売り方の比率が高まり、良好な需給背景から踏み上げ上昇が起きているため。"
+     ],
+     "timestamp": "31:37",
+     "confidence": "medium"
+    }
+   ]
+  },
+  {
    "video_id": "N_4G_z2uqBE",
    "title": "10/30【日本株、半導体株大暴落でキオクシアも木端微塵】日経平均ブルトラップ。ドル円157円。米国株、ナスダック、ハイテク株下落。仮想通貨BTC弱",
    "published": "2026-10-30T14:43:06+00:00",
@@ -183,139 +265,6 @@
       "RSIのラインを上抜けられるか等の材料待ちであり決算まで揉み合いの展開が見込まれるため。"
      ],
      "timestamp": "1:10:07",
-     "confidence": "medium"
-    }
-   ]
-  },
-  {
-   "video_id": "EYsek4GioOY",
-   "title": "10/29【日本株爆上げブルトラップか⁉】キオクシア引けに大暴落‼半導体株急騰で日経平均続伸。ドル円157円。米国株、ナスダック、ハイテク株下落。仮想通貨BTC弱",
-   "published": "2026-10-29T17:03:04+00:00",
-   "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "Sho氏による相場解説動画。日経平均は半導体株の急騰により続伸し、EPSの上方修正に伴いPER17倍(65,500円近辺)まで上値余地が開いたと分析。しかし、この半導体株の上昇は2018年のパターンと同様の騙し上げ(ブルトラップ)である可能性を指摘し警戒を促しています。個別では、引けに急落したキオクシアや大暴落した米アルファベット、株式分割を発表したキーエンス、任天堂やスクエニ等のゲーム銘柄の動向や年末の損益通算に向けた需給悪化への注意点を解説しています。",
-   "market_view": "半導体株主導の日経平均上昇は2018年と同様の軌道修正(ブルトラップ)の懸念があり、11〜12月の損益通算による売りも控えるため、高値掴みを避けたリスク管理が重要です。",
-   "market": "MIX",
-   "picks": [
-    {
-     "name": "キオクシアホールディングス",
-     "name_en": "Kioxia Holdings",
-     "ticker": "285A",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "引けの急落と決算前の警戒感",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "クロージングオークションで株価が約500円(3%)急落し、本日購入した投資家が捕まっている状況であるため。",
-      "明日の決算発表を控えており、ソックス指数の軟調さや半導体株全般の騙し上げ・ブルトラップ懸念から警戒が必要なため。"
-     ],
-     "timestamp": "00:00",
-     "confidence": "high"
-    },
-    {
-     "name": "任天堂",
-     "name_en": "Nintendo",
-     "ticker": "7974",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "75日線での反転と決算・新作期待",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "75日移動平均線付近で止まり反転上昇するかが焦点であり、決算直前に向けて期待買いが入る可能性があるため。",
-      "ゼルダの伝説などの人気タイトルの発売や予約状況の好調さがあり、受給面も悪くないため低価格帯保持なら放置できるため。"
-     ],
-     "timestamp": "05:44",
-     "confidence": "high"
-    },
-    {
-     "name": "川崎重工業",
-     "name_en": "Kawasaki Heavy Industries",
-     "ticker": "7012",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "需給悪化による年末までの下落警戒",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "信用倍率が18.66倍と需給面が非常に悪く、決算発表までは戻り歩調になりにくい厳しい展開が予想されるため。",
-      "年末の損益通算に向けた投げ売りが出やすく、年内のリバウンド狙いは困難で来年に向けた仕込みが必要になるため。"
-     ],
-     "timestamp": "09:57",
-     "confidence": "medium"
-    },
-    {
-     "name": "フジクラ",
-     "name_en": "Fujikura",
-     "ticker": "5803",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "移動平均線のデッドクロス懸念",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "MACDやパラボリックの上昇に伴う25日移動平均線への軌道修正が入っているものの戻り売りが出やすい形状のため。",
-      "200日移動平均線に対して50日や75日線などの長期移動平均線が11月中にデッドクロスを形成する懸念があるため。"
-     ],
-     "timestamp": "21:55",
-     "confidence": "medium"
-    },
-    {
-     "name": "アルファベット",
-     "name_en": "Alphabet",
-     "ticker": "GOOGL",
-     "market": "US",
-     "stance": "bearish",
-     "stance_note": "決算発表後の大暴落",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "決算発表の内容を受けて株価が12%の大暴落となっており、明確な下方トレンドを描いてしまっているため。"
-     ],
-     "timestamp": "26:06",
-     "confidence": "medium"
-    },
-    {
-     "name": "キーエンス",
-     "name_en": "Keyence",
-     "ticker": "6861",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "株式分割によるブランド価値低下",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "株式5分割の発表により超値がさ株としてのブランド価値が失われ、個人投資家の狼狽売りに巻き込まれやすくなるため。"
-     ],
-     "timestamp": "40:10",
-     "confidence": "medium"
-    },
-    {
-     "name": "スクウェア・エニックス・ホールディングス",
-     "name_en": "Square Enix Holdings",
-     "ticker": "9684",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "来春の新作発売に向けた上昇期待",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "ファイナルファンタジー7のリメイク最終章が来春発売予定であり、安い株価位置で買えているなら保有継続が有効なため。"
-     ],
-     "timestamp": "44:44",
      "confidence": "medium"
     }
    ]
@@ -559,6 +508,41 @@
    ]
   },
   {
+   "video_id": "OuhQu3VYJxQ",
+   "title": "イビデンストップ安！インテルショックで連れ下げ・・・株式テクニカルチャート分析",
+   "published": "2026-10-31T09:00:39+00:00",
+   "description": "🔽株のオンラインサロンやってます！次回メンバー募集は11月から\nエンジョイプランはいつでも初月無料で参加できます★\n→　https://yoor.jp/door/tradertomo\n\n※ 参加プラン別のサービス内容はこちらの動画で解説しています。\n→https://youtu.be/AGZetFvA-Xk?si=Qy_ctky7kW1QSOHX\n\n株好きが集まる楽しいサロンを目指してます♪\n初心者歓迎です～ご参加お待ちしています！\n\n🔽サブチャンネルもやってます＾＾\nhttps://www.youtube.com/@TOMO-subtrader\n\n---------------------------------------------\n🔽公式LINEやってます！ともだち登録お願いします☆\n---------------------------------------------\n\n「う",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "イビデンが好決算および通期上方修正を発表したものの、取引関係の深い米インテルの株価急落による連れ安でストップ安まで売り込まれた状況を解説。決算内容自体は非常に強固であり、AI需要の拡大や代替困難な技術力を背景とした中長期的成長ストーリーも不変であるため、現在の過度な急落は下値目処(7900円や7500円付近)での押し目買い好機と分析している。",
+   "market_view": "インテル株の急落や米ハイテク株安を受けてナスダックやSOX指数、日経平均株価が大幅安となるなど、全体相場は厳しい地合いとなっている。",
+   "market": "JP",
+   "picks": [
+    {
+     "name": "イビデン",
+     "name_en": "Ibiden Co., Ltd.",
+     "ticker": "4062",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "インテル連れ安の暴落は過剰で押し目買い好機",
+     "target_price": "",
+     "entry": "7900円、7500円付近",
+     "stop": "",
+     "reasons": [
+      "通期業績予想の上方修正やコンセンサス超過など会社決算自体は好調で、インテル急落に伴う株価暴落は過剰反応と判断されるため。",
+      "競合に対する最先端基盤技術の優位性と安定供給能力が高く、2030年に向けた中長期的な需要拡大と業績底上げが期待できるため。",
+      "直近安値である8000円割れの7900円や7500円付近が下値目処として意識され、中長期視点での拾い場として魅力的であるため。"
+     ],
+     "timestamp": "00:03",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
    "video_id": "lNkEal3xYSg",
    "title": "キオクシア（285A）決算内容を見ていく！1株30円配当の理由",
    "published": "2026-10-30T13:24:41+00:00",
@@ -589,41 +573,6 @@
       "NAND需要は好調で出荷の前倒しやズレが影響しており、4Qに向けて成長はさらに加速する見通し。"
      ],
      "timestamp": "00:03",
-     "confidence": "high"
-    }
-   ]
-  },
-  {
-   "video_id": "_EdKxYbVBYc",
-   "title": "キオクシア決算直前！ここから株価上昇か？",
-   "published": "2026-10-28T21:00:23+00:00",
-   "description": "🔽株のオンラインサロンやってます！次回メンバー募集は11月から\nエンジョイプランはいつでも初月無料で参加できます★\n→　https://yoor.jp/door/tradertomo\n\n※ 参加プラン別のサービス内容はこちらの動画で解説しています。\n→https://youtu.be/AGZetFvA-Xk?si=Qy_ctky7kW1QSOHX\n\n株好きが集まる楽しいサロンを目指してます♪\n初心者歓迎です～ご参加お待ちしています！\n\n🔽サブチャンネルもやってます＾＾\nhttps://www.youtube.com/@TOMO-subtrader\n\n---------------------------------------------\n🔽公式LINEやってます！ともだち登録お願いします☆\n---------------------------------------------\n\n「う",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "SKハイニックスの好決算を受けて好調な動きを見せるキオクシアホールディングスについて解説しています。TOPIXの浮動株比率引き上げに伴い、パッシブファンドによる巨額の買付が確定で見込まれている点や出来高の復活が好材料とされています。1万6000円台の売りをこなしながら進行できれば、決算発表に向けて1万7000円や1万8000円を目指す展開が期待されています。",
-   "market_view": "SKハイニックスの好決算などを立役者として、日本市場は非常に強い動きを見せました。",
-   "market": "JP",
-   "picks": [
-    {
-     "name": "キオクシアホールディングス",
-     "name_en": "Kioxia Holdings",
-     "ticker": "285A",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "浮動株比率上昇の買い需要と決算期待で上値を追う",
-     "target_price": "17,000円〜18,000円",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "SKハイニックスの好決算を受けて安値玉が集まり出来高が大きく復活している点。",
-      "TOPIXの浮動株比率引き上げによりパッシブファンドの巨額の買いが確定している点。",
-      "続き足から売りをこなす展開になれば決算に向けて1万7000〜1万8000円を目指せる点。"
-     ],
-     "timestamp": "00:00",
      "confidence": "high"
     }
    ]
