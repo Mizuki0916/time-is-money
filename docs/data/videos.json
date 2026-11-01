@@ -1,6 +1,110 @@
 {
- "generated_at": "2026-11-01T13:05:06.543907+09:00",
+ "generated_at": "2026-11-02T06:49:06.480040+09:00",
  "videos": [
+  {
+   "video_id": "FSmvXvva6xc",
+   "title": "11/1【日本株、半導体株大暴落止まらない‼️】キオクシア高値掴み助かるか⁉️日経平均ブルトラップ。ドル円157円。米国株、ナスダック、ハイテク株暴落。仮想通貨BTC、金先物急落",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-11-01T16:50:01+00:00",
+   "overview": "半導体株の急落や米ハイテク株の下落を受け、日本株市場におけるセクターローテーションと需給悪化への警戒感を解説した動画です。キオクシアをはじめとする半導体銘柄の高値掴みリスクや年末に向けた損益通算売りの可能性を警告しています。一方で移動平均線のゴールデンクロスを形成している銘柄と、デッドクロスで崩れている銘柄の二極化が進むと分析しています。",
+   "market_view": "半導体株を中心とした騙し上げからの急落とセクターローテーションが進行中です。年末にかけて需給の悪化が株価を圧迫するため、業績ではなく受給重視の二極化相場になると見込んでいます。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "キオクシアホールディングス",
+     "ticker": "285A",
+     "stance": "bearish",
+     "timestamp": "00:00"
+    },
+    {
+     "name": "古河電気工業",
+     "ticker": "5801",
+     "stance": "bearish",
+     "timestamp": "04:23"
+    },
+    {
+     "name": "東洋エンジニアリング",
+     "ticker": "6330",
+     "stance": "bearish",
+     "timestamp": "12:41"
+    },
+    {
+     "name": "楽天グループ",
+     "ticker": "4755",
+     "stance": "bearish",
+     "timestamp": "16:47"
+    },
+    {
+     "name": "東宝",
+     "ticker": "9602",
+     "stance": "bullish",
+     "timestamp": "19:57"
+    },
+    {
+     "name": "レーザーテック",
+     "ticker": "6920",
+     "stance": "bearish",
+     "timestamp": "25:50"
+    },
+    {
+     "name": "村田製作所",
+     "ticker": "6981",
+     "stance": "bearish",
+     "timestamp": "28:20"
+    },
+    {
+     "name": "本田技研工業",
+     "ticker": "7267",
+     "stance": "neutral",
+     "timestamp": "48:57"
+    },
+    {
+     "name": "日本たばこ産業",
+     "ticker": "2914",
+     "stance": "neutral",
+     "timestamp": "56:56"
+    },
+    {
+     "name": "パナソニック ホールディングス",
+     "ticker": "6752",
+     "stance": "bullish",
+     "timestamp": "1:26:59"
+    },
+    {
+     "name": "日本電信電話",
+     "ticker": "9432",
+     "stance": "bullish",
+     "timestamp": "1:40:36"
+    }
+   ]
+  },
+  {
+   "video_id": "q6zWOf_TJ8I",
+   "title": "今週（11/2〜）専業が自信を持って買う1銘柄",
+   "channel_id": "UCt7qqCkTFFRfKjXzwqUXq4g",
+   "channel_name": "ぺこ株",
+   "channel_short": "ぺこ",
+   "slot": 4,
+   "published": "2026-11-01T11:13:57+00:00",
+   "overview": "日本株専業投資家のペコ氏が、今週上昇が期待できる注目銘柄としてオービック(4684)を解説する動画。米国ハイテク株安や中間選挙などのイベントが重なり波乱の相場展開が予想される中、同社の高い営業利益率、業績上方修正、積極的な株主還元姿勢、およびパーフェクトオーダーを形成する強いテクニカル形状を高く評価している。",
+   "market_view": "米国ハイテク株ショックや中間選挙、雇用統計、主要企業の決算発表などイベントが目白押しで、上下に激しい値動きが予想される先行き不透明な相場環境。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "オービック",
+     "ticker": "4684",
+     "stance": "bullish",
+     "timestamp": "05:42"
+    }
+   ]
+  },
   {
    "video_id": "h14uFl-9ibE",
    "title": "キオクシア純利益15倍の爆裂決算！でも株価が上がらない理由　#shorts",
@@ -82,82 +186,6 @@
      "ticker": "4661",
      "stance": "bullish",
      "timestamp": "31:37"
-    }
-   ]
-  },
-  {
-   "video_id": "N_4G_z2uqBE",
-   "title": "10/30【日本株、半導体株大暴落でキオクシアも木端微塵】日経平均ブルトラップ。ドル円157円。米国株、ナスダック、ハイテク株下落。仮想通貨BTC弱",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-10-30T14:43:06+00:00",
-   "overview": "Sho氏が半導体株の急落やキオクシアの決算後PTS暴落、日経平均のブルトラップ展開について解説する動画。市場全体は全面安ではなく、需給に応じたセクターローテーションと二極化が進行していると分析。年末にかけて需給の悪い銘柄は投げ売りが継続しやすく、安易な飛び乗りを避けて初動を確認することの重要性を伝えている。",
-   "market_view": "半導体・ハイテク株を中心に下落する一方、バリュー株や需給の良い個別銘柄へ資金が流れる二極化相場。",
-   "market": "MIX",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "キオクシアホールディングス",
-     "ticker": "285A",
-     "stance": "bearish",
-     "timestamp": "03:52"
-    },
-    {
-     "name": "野村マイクロサイエンス",
-     "ticker": "6254",
-     "stance": "bearish",
-     "timestamp": "10:45"
-    },
-    {
-     "name": "サンリオ",
-     "ticker": "8136",
-     "stance": "neutral",
-     "timestamp": "14:42"
-    },
-    {
-     "name": "カプコン",
-     "ticker": "9697",
-     "stance": "neutral",
-     "timestamp": "18:38"
-    },
-    {
-     "name": "ソニーグループ",
-     "ticker": "6758",
-     "stance": "neutral",
-     "timestamp": "21:55"
-    },
-    {
-     "name": "富士通",
-     "ticker": "6702",
-     "stance": "bearish",
-     "timestamp": "27:21"
-    },
-    {
-     "name": "三菱UFJフィナンシャル・グループ",
-     "ticker": "8306",
-     "stance": "neutral",
-     "timestamp": "32:15"
-    },
-    {
-     "name": "任天堂",
-     "ticker": "7974",
-     "stance": "neutral",
-     "timestamp": "58:36"
-    },
-    {
-     "name": "日立製作所",
-     "ticker": "6501",
-     "stance": "bearish",
-     "timestamp": "1:03:30"
-    },
-    {
-     "name": "清水建設",
-     "ticker": "1803",
-     "stance": "neutral",
-     "timestamp": "1:10:07"
     }
    ]
   },
@@ -284,28 +312,6 @@
      "ticker": "9861",
      "stance": "bullish",
      "timestamp": "05:22"
-    }
-   ]
-  },
-  {
-   "video_id": "VvV4vqjLd4Y",
-   "title": "今週（10/19〜）専業が自信を持って買う1銘柄",
-   "channel_id": "UCt7qqCkTFFRfKjXzwqUXq4g",
-   "channel_name": "ぺこ株",
-   "channel_short": "ぺこ",
-   "slot": 4,
-   "published": "2026-10-18T11:00:20+00:00",
-   "overview": "本動画では、過去の実績報告とともに今週以降で上昇が期待できる注目銘柄として良品計画(7453)を解説しています。コアウィーブの信用不安などでAI半導体株が軟調な相場環境の中、本決算で売上高1兆円の大台突破を見込む同社に着目しています。高いブランド力や海外成長性を評価しつつ、決算後の急騰に対する過熱感からの調整下落を待って買いエントリーするスイングトレード戦略を解説しています。",
-   "market_view": "コアウィーブの過剰債務懸念や利上げ観測によりAI半導体関連株には厳しい地合いが続く見込みで、決算相場に向けて資金の分散や調整待ちが重要視されています。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "良品計画",
-     "ticker": "7453",
-     "stance": "bullish",
-     "timestamp": "04:32"
     }
    ]
   }

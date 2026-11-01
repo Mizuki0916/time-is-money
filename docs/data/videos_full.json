@@ -1,6 +1,207 @@
 {
  "videos": [
   {
+   "video_id": "FSmvXvva6xc",
+   "title": "11/1【日本株、半導体株大暴落止まらない‼️】キオクシア高値掴み助かるか⁉️日経平均ブルトラップ。ドル円157円。米国株、ナスダック、ハイテク株暴落。仮想通貨BTC、金先物急落",
+   "published": "2026-11-01T16:50:01+00:00",
+   "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "半導体株の急落や米ハイテク株の下落を受け、日本株市場におけるセクターローテーションと需給悪化への警戒感を解説した動画です。キオクシアをはじめとする半導体銘柄の高値掴みリスクや年末に向けた損益通算売りの可能性を警告しています。一方で移動平均線のゴールデンクロスを形成している銘柄と、デッドクロスで崩れている銘柄の二極化が進むと分析しています。",
+   "market_view": "半導体株を中心とした騙し上げからの急落とセクターローテーションが進行中です。年末にかけて需給の悪化が株価を圧迫するため、業績ではなく受給重視の二極化相場になると見込んでいます。",
+   "market": "JP",
+   "picks": [
+    {
+     "name": "キオクシアホールディングス",
+     "name_en": "Kioxia Holdings",
+     "ticker": "285A",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "年末に向けた損益通算売りに警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "PTSで12,000円を割り込み大きく下落しており安易な高値掴みは非常に危険である。",
+      "年末に向けて信用買いの損益通算売りが連鎖する恐れがありクリスマス時期まで警戒が必要。"
+     ],
+     "timestamp": "00:00",
+     "confidence": "high"
+    },
+    {
+     "name": "古河電気工業",
+     "name_en": "Furukawa Electric",
+     "ticker": "5801",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "チャート悪化により年末まで放置推奨",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "200日移動平均線と各移動平均線のデッドクロスが相次ぎチャート形状が劣悪である。",
+      "株式分割に伴い信用倍率が大幅に悪化しており年末まで手出しせず放置するのが妥当。"
+     ],
+     "timestamp": "04:23",
+     "confidence": "high"
+    },
+    {
+     "name": "東洋エンジニアリング",
+     "name_en": "Toyo Engineering",
+     "ticker": "6330",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "MACDの騙し上げに注意し決算を警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "MACDのゴールデンクロスは騙しの可能性が高く一旦ダブルボトムをつけに行く形状。",
+      "売買高に対して信用買い残の割合が非常に大きく上値が重い展開が予想される。"
+     ],
+     "timestamp": "12:41",
+     "confidence": "medium"
+    },
+    {
+     "name": "楽天グループ",
+     "name_en": "Rakuten Group",
+     "ticker": "4755",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "決算発表通過後の内容確認を優先",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "チャート形状が弱く前回決算で暴落しているため今回も決算発表前の買いはリスクが高い。",
+      "ボリンジャーバンド25日線とマイナス2シグマのレンジ内での推移が継続しやすい。"
+     ],
+     "timestamp": "16:47",
+     "confidence": "medium"
+    },
+    {
+     "name": "東宝",
+     "name_en": "Toho",
+     "ticker": "9602",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "ゴールデンクロス形成で上昇トレンド",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "100日線と200日線のゴールデンクロス形成が見られチャート形状が良好である。",
+      "決算を無事に通過しておりネガティブ要素が出にくくエンタメ関連として底堅い。"
+     ],
+     "timestamp": "19:57",
+     "confidence": "medium"
+    },
+    {
+     "name": "レーザーテック",
+     "name_en": "Lasertec",
+     "ticker": "6920",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "ヘッドアンドショルダー完成懸念",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "PTSで34,700円台まで下落しヘッドアンドショルダー完成のリスクが高まっている。"
+     ],
+     "timestamp": "25:50",
+     "confidence": "medium"
+    },
+    {
+     "name": "村田製作所",
+     "name_en": "Murata Manufacturing",
+     "ticker": "6981",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "安値更新に伴う信用買いの含み損拡大",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "時間外取引で6,100円を割り込み200日線と5日線のデッドクロスが懸念される。",
+      "年安更新となれば過去の買い手が全員含み損に陥るため需給面で非常に苦しい。"
+     ],
+     "timestamp": "28:20",
+     "confidence": "medium"
+    },
+    {
+     "name": "本田技研工業",
+     "name_en": "Honda Motor",
+     "ticker": "7267",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "強含みもダイバージェンスに警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "200日線と各移動平均線がゴールデンクロスを形成しており足元の株価は強含み。",
+      "RSIやMACDの上値が切り下がっておりダイバージェンス下落への要警戒ポイント。"
+     ],
+     "timestamp": "48:57",
+     "confidence": "medium"
+    },
+    {
+     "name": "日本たばこ産業",
+     "name_en": "Japan Tobacco",
+     "ticker": "2914",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "過去高値圏のバリュエーションに達する",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "PBRが3.1倍を超えてきており過去15年の水準と比較すると上値余地は限定的。"
+     ],
+     "timestamp": "56:56",
+     "confidence": "medium"
+    },
+    {
+     "name": "パナソニック ホールディングス",
+     "name_en": "Panasonic Holdings",
+     "ticker": "6752",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "決算好感で200日線上抜け期待",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "決算発表後にPTSで8%超上昇し200日移動平均線の上抜けが期待できる展開。"
+     ],
+     "timestamp": "1:26:59",
+     "confidence": "medium"
+    },
+    {
+     "name": "日本電信電話",
+     "name_en": "Nippon Telegraph and Telephone",
+     "ticker": "9432",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "移動平均線の好形状で現物長期向き",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "移動平均線群がゴールデンクロスを形成しており株価は上昇トレンドを継続中。",
+      "時価総額が大きく高配当なため信用取引ではなく現物の中長期保有が向いている。"
+     ],
+     "timestamp": "1:40:36",
+     "confidence": "medium"
+    }
+   ]
+  },
+  {
    "video_id": "kyyiuLWOW4U",
    "title": "10/31【日本株、半導体株大暴落止まらない‼️】キオクシア高値掴み助かるか⁉️日経平均ブルトラップ。ドル円157円。米国株、ナスダック、ハイテク株暴落。仮想通貨BTC、金先物急落",
    "published": "2026-10-31T03:00:03+00:00",
@@ -78,193 +279,6 @@
       "信用の整理が進んで売り方の比率が高まり、良好な需給背景から踏み上げ上昇が起きているため。"
      ],
      "timestamp": "31:37",
-     "confidence": "medium"
-    }
-   ]
-  },
-  {
-   "video_id": "N_4G_z2uqBE",
-   "title": "10/30【日本株、半導体株大暴落でキオクシアも木端微塵】日経平均ブルトラップ。ドル円157円。米国株、ナスダック、ハイテク株下落。仮想通貨BTC弱",
-   "published": "2026-10-30T14:43:06+00:00",
-   "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "Sho氏が半導体株の急落やキオクシアの決算後PTS暴落、日経平均のブルトラップ展開について解説する動画。市場全体は全面安ではなく、需給に応じたセクターローテーションと二極化が進行していると分析。年末にかけて需給の悪い銘柄は投げ売りが継続しやすく、安易な飛び乗りを避けて初動を確認することの重要性を伝えている。",
-   "market_view": "半導体・ハイテク株を中心に下落する一方、バリュー株や需給の良い個別銘柄へ資金が流れる二極化相場。",
-   "market": "MIX",
-   "picks": [
-    {
-     "name": "キオクシアホールディングス",
-     "name_en": "Kioxia Holdings Corporation",
-     "ticker": "285A",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "決算後のPTS暴落と需給悪化で下落足踏み",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "決算発表後にコンセンサス未達等からPTS時間外取引で大幅暴落し高値掴みの信用買いが捕まったため。",
-      "移動平均線同士のデッドクロス形成が迫り高値からの半値期日や年末投げ売りが懸念されるため。"
-     ],
-     "timestamp": "03:52",
-     "confidence": "high"
-    },
-    {
-     "name": "野村マイクロサイエンス",
-     "name_en": "Nomura Micro Science Co., Ltd.",
-     "ticker": "6254",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "チャート悪化により決算前の買戻しも限定的",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "200日移動平均線と各移動平均線がデッドクロスを形成しそうな形でチャートが悪いため。",
-      "前回決算での急落を受けて決算プレイの動きが限定化され買戻しが入りにくいと捉えるため。"
-     ],
-     "timestamp": "10:45",
-     "confidence": "medium"
-    },
-    {
-     "name": "サンリオ",
-     "name_en": "Sanrio Company, Ltd.",
-     "ticker": "8136",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "デッドクロス懸念があり下げ止まるか注視",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "75日移動平均線と5日移動平均線のデッドクロス形成が警戒され持ち堪えられるか懸念されるため。",
-      "信用買い残が増加傾向にあり空売りの減少も確認されるなど需給面での重みが出ているため。"
-     ],
-     "timestamp": "14:42",
-     "confidence": "medium"
-    },
-    {
-     "name": "カプコン",
-     "name_en": "Capcom Co., Ltd.",
-     "ticker": "9697",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "急落後の自立反発域で買いの初動待ち",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "決算急落後の自立反発が起きた段階でありストキャスティクス等の上向き初動が確認できないため。",
-      "信用買残増加等により上値が重く見えるためデイトレ等で打診する程度にとどめるべきとされるため。"
-     ],
-     "timestamp": "18:38",
-     "confidence": "medium"
-    },
-    {
-     "name": "ソニーグループ",
-     "name_en": "Sony Group Corporation",
-     "ticker": "6758",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "トレンド良好だが決算前の揉み合いを注視",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "200日線と移動平均線群のゴールデンクロス形成によりボリバン25日線を下値に上昇傾向なため。",
-      "直近で利益確定売りや損失補填目的の抱き合わせ売りに押されつつ決算前の動きとなっているため。"
-     ],
-     "timestamp": "21:55",
-     "confidence": "medium"
-    },
-    {
-     "name": "富士通",
-     "name_en": "Fujitsu Limited",
-     "ticker": "6702",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "バリュエーション割高による決算後の暴落",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "PBRが過去上限近くの割高な水準でありバンド日柄調整を経て決算で大きく急落したため。",
-      "下落トレンドが継続しており急落3日目・4日目の自立反発を見極める段階にあるとされるため。"
-     ],
-     "timestamp": "27:21",
-     "confidence": "medium"
-    },
-    {
-     "name": "三菱UFJフィナンシャル・グループ",
-     "name_en": "Mitsubishi UFJ Financial Group, Inc.",
-     "ticker": "8306",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "デッドクロス形成後の下値を注視",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "25日移動平均線と100日移動平均線のデッドクロス形成が確認され目先の下落が警戒されるため。",
-      "信用買い残が多く貸株倍率が高いなど需給面で上値が重くなりやすい状態となっているため。"
-     ],
-     "timestamp": "32:15",
-     "confidence": "medium"
-    },
-    {
-     "name": "任天堂",
-     "name_en": "Nintendo Co., Ltd.",
-     "ticker": "7974",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "決算発表を控え移動平均線の交差を注視",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "ゼルダの伝説などのIP人気が根強く決算内容次第で移動平均線のゴールデンクロス形成が期待できるため。",
-      "直近安値圏から買われてきたものの決算発表を目前に控えており二分の一のギャンブル要素があるため。"
-     ],
-     "timestamp": "58:36",
-     "confidence": "medium"
-    },
-    {
-     "name": "日立製作所",
-     "name_en": "Hitachi, Ltd.",
-     "ticker": "6501",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "バンドウォーク継続で強烈な下落トレンド",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "マイナスシグマに沿ったバンドウォークが発生しており下落方向に強いトレンドが出ているため。",
-      "5日線と75日移動平均線のデッドクロス形成が見込まれ下落リスクが残るチャート形状であるため。"
-     ],
-     "timestamp": "1:03:30",
-     "confidence": "medium"
-    },
-    {
-     "name": "清水建設",
-     "name_en": "Shimizu Corporation",
-     "ticker": "1803",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "バンド縮小により決算までレンジ推移",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "ボリンジャーバンドの幅が拡大から縮小へと向かいバンドのトンネル状態を形成しているため。",
-      "RSIのラインを上抜けられるか等の材料待ちであり決算まで揉み合いの展開が見込まれるため。"
-     ],
-     "timestamp": "1:10:07",
      "confidence": "medium"
     }
    ]
@@ -578,6 +592,41 @@
    ]
   },
   {
+   "video_id": "q6zWOf_TJ8I",
+   "title": "今週（11/2〜）専業が自信を持って買う1銘柄",
+   "published": "2026-11-01T11:13:57+00:00",
+   "description": "今週、個人的に注目している個別銘柄を1銘柄に絞って解説します。\n個人的見解ですが投資戦略の参考にしてもらえたら幸いです。\n\n※パパッと見たい方は倍速設定をご使用ください.\n\n投資に絶対はありません。\n紹介銘柄が気になっても売買は自己責任でお願いいたします。\n\nnoteでメンバーシップを開始しました。\n詳しくはリンクをご覧ください。\n\n【note】\nhttps://note.com/peco_kabu/membership\n\n【X】\nhttps://x.com/peco_kabu\n\n#投資 #株式投資 #株 #日本株 #nisa #日経平均 #NISA #米国株 #個別株",
+   "channel_id": "UCt7qqCkTFFRfKjXzwqUXq4g",
+   "channel_name": "ぺこ株",
+   "channel_short": "ぺこ",
+   "slot": 4,
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "日本株専業投資家のペコ氏が、今週上昇が期待できる注目銘柄としてオービック(4684)を解説する動画。米国ハイテク株安や中間選挙などのイベントが重なり波乱の相場展開が予想される中、同社の高い営業利益率、業績上方修正、積極的な株主還元姿勢、およびパーフェクトオーダーを形成する強いテクニカル形状を高く評価している。",
+   "market_view": "米国ハイテク株ショックや中間選挙、雇用統計、主要企業の決算発表などイベントが目白押しで、上下に激しい値動きが予想される先行き不透明な相場環境。",
+   "market": "JP",
+   "picks": [
+    {
+     "name": "オービック",
+     "name_en": "OBIC Co., Ltd.",
+     "ticker": "4684",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "高利益率と好決算を背景に上昇期待",
+     "target_price": "買根から10%",
+     "entry": "場所は未定(打診で300株、調整時に追加300株)",
+     "stop": "13週線",
+     "reasons": [
+      "統合業務ソフト「OBIC7」の自社開発と直販により、営業利益率が直近で約68%と非常に高い収益性と継続性を誇る。",
+      "第2四半期決算で通期予想の上方修正と増配を発表し、上限500億円の自社株買いも含めた積極的な株主還元姿勢を示す。",
+      "日足・週足ともにパーフェクトオーダーを形成しており、6000円の節目を上抜けて青天井状態で強い上昇トレンドにある。"
+     ],
+     "timestamp": "05:42",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
    "video_id": "5TltqiDeYBI",
    "title": "今週（10/26〜）専業が自信を持って買う1銘柄",
    "published": "2026-10-25T11:00:30+00:00",
@@ -608,41 +657,6 @@
       "チャートは決算後に上値ラインと雲を上抜け高値を更新。信用倍率0.17倍と低く、円高に強い点や株主優待の存在も魅力的である。"
      ],
      "timestamp": "05:22",
-     "confidence": "high"
-    }
-   ]
-  },
-  {
-   "video_id": "VvV4vqjLd4Y",
-   "title": "今週（10/19〜）専業が自信を持って買う1銘柄",
-   "published": "2026-10-18T11:00:20+00:00",
-   "description": "今週、個人的に注目している個別銘柄を1銘柄に絞って解説します。\n個人的見解ですが投資戦略の参考にしてもらえたら幸いです。\n\n※パパッと見たい方は倍速設定をご使用ください.\n\n投資に絶対はありません。\n紹介銘柄が気になっても売買は自己責任でお願いいたします。\n\nnoteでメンバーシップを開始しました。\n詳しくはリンクをご覧ください。\n\n【note】\nhttps://note.com/peco_kabu/membership\n\n【X】\nhttps://x.com/peco_kabu\n\n#投資 #株式投資 #株 #日本株 #nisa #日経平均 #NISA #米国株 #個別株",
-   "channel_id": "UCt7qqCkTFFRfKjXzwqUXq4g",
-   "channel_name": "ぺこ株",
-   "channel_short": "ぺこ",
-   "slot": 4,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "本動画では、過去の実績報告とともに今週以降で上昇が期待できる注目銘柄として良品計画(7453)を解説しています。コアウィーブの信用不安などでAI半導体株が軟調な相場環境の中、本決算で売上高1兆円の大台突破を見込む同社に着目しています。高いブランド力や海外成長性を評価しつつ、決算後の急騰に対する過熱感からの調整下落を待って買いエントリーするスイングトレード戦略を解説しています。",
-   "market_view": "コアウィーブの過剰債務懸念や利上げ観測によりAI半導体関連株には厳しい地合いが続く見込みで、決算相場に向けて資金の分散や調整待ちが重要視されています。",
-   "market": "JP",
-   "picks": [
-    {
-     "name": "良品計画",
-     "name_en": "Ryohin Keikaku Co., Ltd.",
-     "ticker": "7453",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "決算後の過熱感が冷める調整下落を待って狙う",
-     "target_price": "5000円",
-     "entry": "調整下落を待ってエントリー",
-     "stop": "26週線",
-     "reasons": [
-      "国内外の既存店伸びや新規出店により今期売上高は初の1兆円突破を見込み、営業利益も増益予想と業績が好調な点。",
-      "無印良品の高いブランド力と商品力を強みに、海外店舗の拡大余地やEC成長、減価率見直しによる高収益化が期待できる点。",
-      "週足では綺麗なパーフェクトオーダーを形成しているが、決算後の急騰直後のため押し目・調整を待って入るのが有効な点。"
-     ],
-     "timestamp": "04:32",
      "confidence": "high"
     }
    ]
