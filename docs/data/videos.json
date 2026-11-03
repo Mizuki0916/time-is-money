@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T07:58:16.399212+09:00",
+ "generated_at": "2026-11-04T08:04:07.052093+09:00",
  "videos": [
   {
    "video_id": "GpZwgEIcqq8",
@@ -82,6 +82,140 @@
    ]
   },
   {
+   "video_id": "JrslFBEeb7Y",
+   "title": "今日の活況銘柄を見てみる！（キオクシア・太陽誘電・村田製作所・イビデン・ソフトバンクグループ・フジクラなど）株式テクニカルチャート分析",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-11-03T01:50:16+00:00",
+   "overview": "米国中間選挙や主要企業の決算発表を控えて市場に慎重姿勢が広がる中、本動画では活況な個別銘柄のテクニカルチャート分析が行われました。東京エレクトロンやレーザーテックなど好決算を示した一部の半導体株が相場を下支えする一方で、大幅下落となったキオクシアや連日陰線を形成する電線株など地合い悪化に押される銘柄も目立ちます。全体地合いの回復を見極めつつ、好業績銘柄のエントリー機会を探る重要性が解説されています。",
+   "market_view": "米中間選挙等の重要イベント前で慎重な雰囲気が支配的ですが、地合いが回復すれば好業績の銘柄を中心に株価上昇が期待できる展開が見込まれています。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "キオクシアホールディングス",
+     "ticker": "285A",
+     "stance": "bearish",
+     "timestamp": "04:22"
+    },
+    {
+     "name": "太陽誘電",
+     "ticker": "6976",
+     "stance": "neutral",
+     "timestamp": "06:15"
+    },
+    {
+     "name": "イビデン",
+     "ticker": "4062",
+     "stance": "bullish",
+     "timestamp": "07:08"
+    },
+    {
+     "name": "村田製作所",
+     "ticker": "6981",
+     "stance": "neutral",
+     "timestamp": "07:50"
+    },
+    {
+     "name": "住友化学",
+     "ticker": "4005",
+     "stance": "neutral",
+     "timestamp": "08:26"
+    },
+    {
+     "name": "ソフトバンクグループ",
+     "ticker": "9984",
+     "stance": "bearish",
+     "timestamp": "09:25"
+    },
+    {
+     "name": "フジクラ",
+     "ticker": "5803",
+     "stance": "bearish",
+     "timestamp": "09:45"
+    },
+    {
+     "name": "住友電気工業",
+     "ticker": "5802",
+     "stance": "bearish",
+     "timestamp": "10:33"
+    },
+    {
+     "name": "東京エレクトロン",
+     "ticker": "8035",
+     "stance": "bullish",
+     "timestamp": "11:50"
+    },
+    {
+     "name": "アドバンテスト",
+     "ticker": "6857",
+     "stance": "bullish",
+     "timestamp": "12:22"
+    },
+    {
+     "name": "レーザーテック",
+     "ticker": "6920",
+     "stance": "bullish",
+     "timestamp": "12:56"
+    }
+   ]
+  },
+  {
+   "video_id": "HAg2pIxG3EY",
+   "title": "米国中間選挙・AMDの決算直前！原油安進む。明日のトレード戦略",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-11-03T01:48:59+00:00",
+   "overview": "米国市場では原油価格の下落や中間選挙での民主党勝利による規制強化警戒から、テック株や半導体株を中心に弱含む展開となっています。一方で原油安の影響により日本市場では内需株に追い風が吹いており、内需株主導の相場展開が期待されます。半導体関連銘柄については好決算を発表したレーザーテックやアドバンテストなどの反発狙いを軸としつつ、外食や小売りなどの足型が良い内需銘柄を狙うトレード戦略が解説されています。",
+   "market_view": "原油安進行と米中間選挙への警戒からテック株は重い展開ですが、内需株主導でTOPIXは底堅く推移すると予想されます。",
+   "market": "MIX",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "レーザーテック",
+     "ticker": "6920",
+     "stance": "bullish",
+     "timestamp": "06:01"
+    },
+    {
+     "name": "アドバンテスト",
+     "ticker": "6857",
+     "stance": "bullish",
+     "timestamp": "08:10"
+    },
+    {
+     "name": "東京エレクトロン",
+     "ticker": "8035",
+     "stance": "bullish",
+     "timestamp": "08:55"
+    },
+    {
+     "name": "イビデン",
+     "ticker": "4062",
+     "stance": "neutral",
+     "timestamp": "09:41"
+    },
+    {
+     "name": "ニトリホールディングス",
+     "ticker": "9843",
+     "stance": "bullish",
+     "timestamp": "13:14"
+    },
+    {
+     "name": "NEC",
+     "ticker": "6701",
+     "stance": "bullish",
+     "timestamp": "14:24"
+    }
+   ]
+  },
+  {
    "video_id": "B6bDwU2HOvE",
    "title": "【日経平均】 中間選挙前嵐の前の静けさかそれとも暴落のきっかけか サンディスク・キオクシア・インテル・マイクロンテクノロジー・オンコリスバイオ",
    "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
@@ -146,50 +280,6 @@
      "ticker": "4684",
      "stance": "bullish",
      "timestamp": "05:42"
-    }
-   ]
-  },
-  {
-   "video_id": "h14uFl-9ibE",
-   "title": "キオクシア純利益15倍の爆裂決算！でも株価が上がらない理由　#shorts",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-10-31T21:00:26+00:00",
-   "overview": "キオクシアの決算発表について解説された動画です。上期最終利益が大幅増益となり中間配当90円の実施を発表したものの、夜間PTSでは株価が下落しました。第2四半期単体ではコンセンサスを超過したものの、第3四半期累計の経常利益予想が市場コンセンサスの5.43兆円に対し5.23兆円と届かなかったことが、株価下落の要因として挙げられています。",
-   "market_view": "",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "キオクシア",
-     "ticker": "285A",
-     "stance": "neutral",
-     "timestamp": "00:00"
-    }
-   ]
-  },
-  {
-   "video_id": "OuhQu3VYJxQ",
-   "title": "イビデンストップ安！インテルショックで連れ下げ・・・株式テクニカルチャート分析",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-10-31T09:00:39+00:00",
-   "overview": "イビデンが好決算および通期上方修正を発表したものの、取引関係の深い米インテルの株価急落による連れ安でストップ安まで売り込まれた状況を解説。決算内容自体は非常に強固であり、AI需要の拡大や代替困難な技術力を背景とした中長期的成長ストーリーも不変であるため、現在の過度な急落は下値目処(7900円や7500円付近)での押し目買い好機と分析している。",
-   "market_view": "インテル株の急落や米ハイテク株安を受けてナスダックやSOX指数、日経平均株価が大幅安となるなど、全体相場は厳しい地合いとなっている。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "イビデン",
-     "ticker": "4062",
-     "stance": "bullish",
-     "timestamp": "00:03"
     }
    ]
   },
