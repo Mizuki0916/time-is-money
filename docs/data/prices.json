@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-04T13:18:12.750617+00:00",
+ "updated_at": "2026-11-04T20:39:26.785867+00:00",
  "symbols": {
   "JP:1111": {
    "date": "2026-08-17",
@@ -1093,11 +1093,11 @@
    "date": "2026-11-03",
    "close": 1126.52,
    "change_pct": 4.78,
-   "live": null,
-   "live_change_pct": null,
-   "live_time": null,
-   "volume": 8413100,
-   "volume_ratio": 0.97,
+   "live": 1030.26,
+   "live_change_pct": -8.54,
+   "live_time": 1793824764,
+   "volume": 8550400,
+   "volume_ratio": 0.99,
    "rsi14": 34.0,
    "rsi_zone": "中立",
    "ma25": 1432.98,
@@ -1148,10 +1148,10 @@
    ],
    "currency": "USD",
    "exchange_name": "NasdaqGS",
-   "market_open": false,
+   "market_open": true,
    "symbol": "SNDK",
    "source": "yahoo",
-   "fetched_at": "2026-11-04T13:18:12.750617+00:00"
+   "fetched_at": "2026-11-04T20:39:26.785867+00:00"
   },
   "JP:5985": {
    "date": "2026-09-25",
@@ -6975,11 +6975,11 @@
    "date": "2026-11-03",
    "close": 855.1,
    "change_pct": 2.58,
-   "live": null,
-   "live_change_pct": null,
-   "live_time": null,
-   "volume": 20973600,
-   "volume_ratio": 0.77,
+   "live": 792.25,
+   "live_change_pct": -7.35,
+   "live_time": 1793824769,
+   "volume": 21286500,
+   "volume_ratio": 0.79,
    "rsi14": 40.4,
    "rsi_zone": "中立",
    "ma25": 957.53,
@@ -7030,10 +7030,10 @@
    ],
    "currency": "USD",
    "exchange_name": "NasdaqGS",
-   "market_open": false,
+   "market_open": true,
    "symbol": "MU",
    "source": "yahoo",
-   "fetched_at": "2026-11-04T13:18:12.750617+00:00"
+   "fetched_at": "2026-11-04T20:39:26.785867+00:00"
   },
   "US:ADBE": {
    "date": "2026-09-04",
@@ -15346,11 +15346,11 @@
    "date": "2026-11-03",
    "close": 60.55,
    "change_pct": 0.97,
-   "live": null,
-   "live_change_pct": null,
-   "live_time": null,
-   "volume": 147222100,
-   "volume_ratio": 1.23,
+   "live": 57.6,
+   "live_change_pct": -4.87,
+   "live_time": 1793824768,
+   "volume": 149052100,
+   "volume_ratio": 1.24,
    "rsi14": 23.7,
    "rsi_zone": "売られすぎ",
    "ma25": 96.31,
@@ -15401,10 +15401,10 @@
    ],
    "currency": "USD",
    "exchange_name": "NasdaqGS",
-   "market_open": false,
+   "market_open": true,
    "symbol": "INTC",
    "source": "yahoo",
-   "fetched_at": "2026-11-04T13:18:12.750617+00:00"
+   "fetched_at": "2026-11-04T20:39:26.785867+00:00"
   },
   "JP:4684": {
    "date": "2026-11-04",
