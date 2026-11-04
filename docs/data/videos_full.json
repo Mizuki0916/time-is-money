@@ -1,9 +1,9 @@
 {
  "videos": [
   {
-   "video_id": "GpZwgEIcqq8",
-   "title": "11/3【日本株、半導体株大暴落止まらない‼️】キオクシア高値掴み助かるか⁉️日経平均ブルトラップ。ドル円157円。米国株、ナスダック、ハイテク株暴落。仮想通貨BTC、金先物急落",
-   "published": "2026-11-03T15:11:32+00:00",
+   "video_id": "kf-lUtNq0eg",
+   "title": "11/4.日経平均一時3000円大暴落‼️ 米中間選で半導体株急落。日本株空売り激減でキオクシア崩壊ヤバイ。ドル円158円。米国株、ナスダック、ハイテク株暴落。仮想通貨BTC、金先物急落",
+   "published": "2026-11-04T16:55:45+00:00",
    "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
    "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
    "channel_name": "Sho's投資情報局",
@@ -11,142 +11,25 @@
    "slot": 3,
    "no_transcript": false,
    "skip_reason": "",
-   "overview": "米国市場でのSOX指数の急落やVIX指数の上昇を受け、日本株および半導体株の現状と今後の見通しについてテクニカル分析や需給面から解説する動画。半導体株については年末の損益通算売りや需給悪化を警戒し、安易な押し目買いを避けて慎重な姿勢を推奨している。一方で需給が良好なバリュー銘柄への資金シフトに着目し、感情を交えずデータとチャートに基づいた投資判断の重要性を述べている。",
-   "market_view": "米国ハイテク株やSOX指数の暴落により市場の不安心理が高まっており、半導体株は年末にかけて投げ売りリスクがあるため注意が必要。需給の軽いバリュー銘柄等に注目すべきとしている。",
+   "overview": "米国の政治動向やAI半導体株の失速を背景に日経平均が乱高下する中、半導体関連株の警戒感と需給悪化銘柄のリスクを詳しく解説しています。キオクシアなどの信用買い残が急増した銘柄の急落に警鐘を鳴らす一方、米国市場で起きつつあるハイテクからバリュー株への資金シフトに注目し、日本株でも需給が軽くてテクニカル形状が良い出遅れバリュー株への投資姿勢を提案しています。",
+   "market_view": "AI半導体株には戻り売り圧力が強く年末に向け慎重な姿勢が必要ですが、ハイテクからバリュー株へのセクターローテーションが起きており、需給が軽くテクニカル好形状な銘柄が優位な展開です。",
    "market": "MIX",
    "picks": [
     {
-     "name": "キオクシア",
+     "name": "キオクシアホールディングス",
      "name_en": "Kioxia Holdings Corporation",
      "ticker": "285A",
      "market": "JP",
      "stance": "bearish",
-     "stance_note": "需給悪化とデッドクロス形成でリスクが高い",
+     "stance_note": "信用需給が極度に悪化し急落傾向",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "時間外取引での下落やデッドクロス形成が見られ、高値掴みの信用買い残による売り圧力が懸念される。",
-      "株式分割による個人投資家の流入で需給が悪化しており、年末の損益通算売りに巻き込まれるリスクがある。"
+      "信用倍率が34.58倍まで急悪化しており、前日にも260万株以上の信用買いが入り投げ売りが加速しているため。",
+      "株価は一時1万円を割り込み、戻り歩調でも戻り売り圧力が強く年内のV字回復は極めて困難と分析されるため。"
      ],
-     "timestamp": "03:28",
-     "confidence": "high"
-    },
-    {
-     "name": "川崎汽船",
-     "name_en": "Kawasaki Kisen Kaisha, Ltd.",
-     "ticker": "9107",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "需給良好も決算発表前の見極めが必要",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "信用買い残が減少し空売りが増加するなど需給環境は良好で、RSIの上値抵抗線を上抜けている。",
-      "明日に決算発表を控えているため、決算通過後の株価反応やトレンドを確認することが不可欠である。"
-     ],
-     "timestamp": "06:00",
-     "confidence": "medium"
-    },
-    {
-     "name": "東京海上ホールディングス",
-     "name_en": "Tokio Marine Holdings, Inc.",
-     "ticker": "8766",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "信用買い減もダイバージェンス出現で様子見",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "信用買い残が減少して回転が効いているものの、株価と指標の間でダイバージェンスの兆候が見られる。"
-     ],
-     "timestamp": "13:40",
-     "confidence": "medium"
-    },
-    {
-     "name": "INPEX",
-     "name_en": "INPEX CORPORATION",
-     "ticker": "1605",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "バンドウォーク継続で順調な上昇傾向",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "ボリンジャーバンド沿いの順調なバンドウォークが続いており、割安なPBRと高い利回りも下支えとなる。"
-     ],
-     "timestamp": "52:50",
-     "confidence": "medium"
-    },
-    {
-     "name": "キーエンス",
-     "name_en": "KEYENCE CORPORATION",
-     "ticker": "6954",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "株式分割発表とチャート形状悪化で警戒",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "株式分割により値嵩株としての希少性が薄れ、需要拡大よりも需給乱れや投げ売りの悪影響が懸念される。",
-      "チャート上で三角持ち合いを下放れる下落トレンドの形となっており、テクニカル的にも注意が必要である。"
-     ],
-     "timestamp": "1:28:10",
-     "confidence": "medium"
-    }
-   ]
-  },
-  {
-   "video_id": "2X42yNQ8CeY",
-   "title": "11/3【日本株、半導体株大暴落止まらない‼️】キオクシア暴落で1万円割れか⁉日経平均に異常値発生‼ドル円157円。米国株、ナスダック、ハイテク株暴落。仮想通貨BTC、金先物急落",
-   "published": "2026-11-03T03:00:23+00:00",
-   "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "日本株や半導体株の急落背景として、信用買残の高止まりと空売り不足による需給悪化や理論株価の動向を解説しています。日経平均はEPS急上昇により理論株価が引き上がったことで下値が底堅い一方、戻り売り圧力も強く11月はジグザグの二極化相場を予想しています。またキオクシアや東京エレクトロンなどを例に挙げ、年末に向けた需給悪化や損益通算売りへの警戒と具体的な立ち回り方を分析しています。",
-   "market_view": "米国株はハイテクからバリュー株へのシフトが鮮明であり、日本株も需給の軽い銘柄への選別と短期的な立ち回りが重要となります。",
-   "market": "MIX",
-   "picks": [
-    {
-     "name": "日経平均株価",
-     "name_en": "Nikkei 225",
-     "ticker": "N225",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "理論値上昇で底堅いも年末に向けジグザグ推移",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "日経平均の一株当たり利益(EPS)が急上昇し理論株価が引き上がったことで、目先の下落圧力は限定的になると予想されるため。",
-      "信用倍率の悪化や市場の空売り不足により、持続的なショートカバーが入りにくく、上昇しても戻り売りに押されやすいため。"
-     ],
-     "timestamp": "01:05",
-     "confidence": "high"
-    },
-    {
-     "name": "キオクシア",
-     "name_en": "Kioxia Holdings",
-     "ticker": "285A",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "信用買い捕まりと期日売りで下落トレンド継続",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "決算後の暴落で信用買いが大量に捕まっており、需給バランスが極めて悪く年末に向けた期日売り圧力が強まる可能性が高いから。",
-      "チャート形状が上値切り下がり型の三角持ち合いを下抜けしており、25日線と200日線のデッドクロス形成も懸念されるため。"
-     ],
-     "timestamp": "25:19",
+     "timestamp": "12:19",
      "confidence": "high"
     },
     {
@@ -155,16 +38,169 @@
      "ticker": "8035",
      "market": "JP",
      "stance": "bearish",
-     "stance_note": "決算後の上昇は騙し上げの可能性が高く戻り売り",
+     "stance_note": "25日線と200日線のDC示唆で警戒",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "決算後に上昇したものの25日線や200日線付近で頭を抑えられる展開が予想され、戻り高値での売りに押されやすい需給状況だから。",
-      "過去の2018年同様に年末の損益通算に向けた投げ売りが発生するリスクがあり、短期的な戻りはブルトラップになる可能性が高いから。"
+      "25日移動平均線と200日移動平均線のデッドクロス形成が近づいており長期的な下落トレンドへの転換が警戒されるため。",
+      "ボリンジャーバンド中央線付近まで自律反発しても、戻り売り圧力により再度下落に転じるリスクが高いため。"
      ],
-     "timestamp": "27:38",
+     "timestamp": "29:30",
+     "confidence": "medium"
+    },
+    {
+     "name": "ワークマン",
+     "name_en": "Workman",
+     "ticker": "7564",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "需給悪化と年末の節税売り圧力に注意",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "信用倍率が11.24倍と高水準で、売買高に対して買い残の割合が高く需給面での重荷となっているため。",
+      "6月高値からの半年期日にあたる12月末に向け、損益通算目的の投げ売りが発生し二番底を探る可能性があるため。"
+     ],
+     "timestamp": "01:06:58",
      "confidence": "high"
+    },
+    {
+     "name": "北海道電力",
+     "name_en": "Hokkaido Electric Power",
+     "ticker": "9509",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "需給良好で200日線GC形成に期待",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "信用倍率が0.68倍と売り越し状態で需給が非常に軽く、上値追いの足取りが軽いチャート形状をしているため。",
+      "100日移動平均線と200日移動平均線のゴールデンクロス形成が目前であり、テクニカル面の好転が見込まれるため。"
+     ],
+     "timestamp": "53:56",
+     "confidence": "medium"
+    },
+    {
+     "name": "第一三共",
+     "name_en": "Daiichi Sankyo",
+     "ticker": "4568",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "テクニカル指標好転で上値追い期待",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "200日移動平均線を上抜け、主要移動平均線の断続的なゴールデンクロス形成が見込める好形状となっているため。",
+      "RSIの上値抵抗線突破やMACDのゴールデンクロスなど複数のテクニカル指標で上昇シグナルが出ているため。"
+     ],
+     "timestamp": "56:39",
+     "confidence": "medium"
+    },
+    {
+     "name": "大和ハウス工業",
+     "name_en": "Daiwa House Industry",
+     "ticker": "1925",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "逆ヘッドアンドショルダー形成で上昇示唆",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "逆ヘッドアンドショルダーのボトム形成が進んでおり、抵抗線を明確に上抜ければ上昇トレンドへ発展する可能性があるため。",
+      "配当利回りが4%近く存在しバリュー株としての底堅さがあり、決算発表を契機とした上放れが期待されるため。"
+     ],
+     "timestamp": "01:13:58",
+     "confidence": "medium"
+    }
+   ]
+  },
+  {
+   "video_id": "Ro85vdlNgcs",
+   "title": "11/4.日経平均一時3000円大暴落‼️ 米中間選で半導体株急落。日本株空売り激減でキオクシア崩壊ヤバイ。ドル円158円。米国株、ナスダック、ハイテク株暴落。仮想通貨BTC、金先物急落",
+   "published": "2026-11-04T09:15:01+00:00",
+   "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "日経平均株価が一時大幅下落する中、空売り残高の減少や信用買いの過多といった需給悪化を背景に、半導体株を中心に急落が進行している状況を解説しています。米中間選挙結果を受けた政策警戒感や年末の損益通算売りが重なるため、半導体株への戻り売り警戒を呼びかけています。一方で、移動平均線がゴールデンクロスを形成するような需給の軽い銘柄や出遅れ銘柄への資金シフトが有効であると示しています。",
+   "market_view": "日本株の空売り燃料枯渇と信用買い過多により、年末に向けて半導体株を中心とした期日売りや損益通算売りの警戒が必要な相場環境です。",
+   "market": "JP",
+   "picks": [
+    {
+     "name": "キオクシア",
+     "name_en": "Kioxia Holdings",
+     "ticker": "285A",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "年末に向けた受給悪化と下落警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "株価が瞬間1万円を割り込み、上値切り下げ型の三角持ち合いを下放れているため。",
+      "信用取引による高値掴みの整理や年末の税制上の売りに押されやすい受給構造なため。"
+     ],
+     "timestamp": "25:28",
+     "confidence": "medium"
+    },
+    {
+     "name": "東京エレクトロン",
+     "name_en": "Tokyo Electron",
+     "ticker": "8035",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "戻り売り警戒と年末までの下落懸念",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "移動平均線のデッドクロス形成が迫っており、テクニカル面の形状が悪化しているため。",
+      "6月高値で買った信用取引の半年期日と年末の損益通算売りが重なるリスクがあるため。"
+     ],
+     "timestamp": "26:24",
+     "confidence": "high"
+    },
+    {
+     "name": "フジクラ",
+     "name_en": "Fujikura",
+     "ticker": "5803",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "移動平均線のデッドクロスで警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "25日移動平均線と200日移動平均線のデッドクロス形成により下落傾向にあるため。",
+      "移動平均線の悪化に伴い、決算発表を控えてチャートの形状が悪化しているため。"
+     ],
+     "timestamp": "30:20",
+     "confidence": "medium"
+    },
+    {
+     "name": "オリエンタルランド",
+     "name_en": "Oriental Land",
+     "ticker": "4661",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "ゴールデンクロス形成でチャート良好",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "200日移動平均線と主要移動平均線がゴールデンクロスを形成し上放れているため。",
+      "株価上昇に伴い全体の需給が軽く、下値支持が固いチャートパターンを描いているため。"
+     ],
+     "timestamp": "30:52",
+     "confidence": "medium"
     }
    ]
   },
