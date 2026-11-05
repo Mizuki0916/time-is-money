@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T10:04:06.279459+09:00",
+ "generated_at": "2026-11-05T14:59:55.237723+09:00",
  "channels": [
   {
    "id": "UCsaeHha7ai_NNX8or8Jyb-g",
@@ -174,9 +174,9 @@
     "date": "2026-11-04",
     "close": 10735.0,
     "change_pct": -5.38,
-    "live": 9962.0,
-    "live_change_pct": -7.2,
-    "live_time": 1793839745,
+    "live": 9334.0,
+    "live_change_pct": -13.05,
+    "live_time": 1793857494,
     "volume": 163533500,
     "volume_ratio": 2.51,
     "rsi14": 30.3,
@@ -232,7 +232,7 @@
     "market_open": true,
     "symbol": "285A.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-05T01:04:06.290505+00:00"
+    "fetched_at": "2026-11-05T05:59:55.244919+00:00"
    }
   },
   {
@@ -342,9 +342,9 @@
     "date": "2026-11-04",
     "close": 9663.0,
     "change_pct": -3.42,
-    "live": 9066.0,
-    "live_change_pct": -6.18,
-    "live_time": 1793839747,
+    "live": 8710.0,
+    "live_change_pct": -9.86,
+    "live_time": 1793857496,
     "volume": 31686700,
     "volume_ratio": 2.06,
     "rsi14": 41.6,
@@ -400,7 +400,7 @@
     "market_open": true,
     "symbol": "8035.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-05T01:04:06.290505+00:00"
+    "fetched_at": "2026-11-05T05:59:55.244919+00:00"
    }
   },
   {
@@ -469,9 +469,9 @@
     "date": "2026-11-04",
     "close": 3680.0,
     "change_pct": -5.64,
-    "live": 3432.0,
-    "live_change_pct": -6.74,
-    "live_time": 1793839749,
+    "live": 3232.0,
+    "live_change_pct": -12.17,
+    "live_time": 1793857498,
     "volume": 41763000,
     "volume_ratio": 1.2,
     "rsi14": 29.8,
@@ -527,7 +527,7 @@
     "market_open": true,
     "symbol": "5803.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-05T01:04:06.290505+00:00"
+    "fetched_at": "2026-11-05T05:59:55.244919+00:00"
    }
   },
   {
@@ -638,9 +638,9 @@
     "date": "2026-11-04",
     "close": 8037.0,
     "change_pct": -0.1,
-    "live": 7011.0,
-    "live_change_pct": -12.77,
-    "live_time": 1793839751,
+    "live": 6738.0,
+    "live_change_pct": -16.16,
+    "live_time": 1793857500,
     "volume": 31725900,
     "volume_ratio": 2.05,
     "rsi14": 37.2,
@@ -696,7 +696,7 @@
     "market_open": true,
     "symbol": "4062.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-05T01:04:06.290505+00:00"
+    "fetched_at": "2026-11-05T05:59:55.244919+00:00"
    }
   },
   {
@@ -743,9 +743,9 @@
     "date": "2026-11-04",
     "close": 4930.0,
     "change_pct": -0.4,
-    "live": 5190.0,
-    "live_change_pct": 5.27,
-    "live_time": 1793839728,
+    "live": 5260.0,
+    "live_change_pct": 6.69,
+    "live_time": 1793857497,
     "volume": 815600,
     "volume_ratio": 1.35,
     "rsi14": 33.0,
@@ -801,7 +801,7 @@
     "market_open": true,
     "symbol": "7564.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-05T01:04:06.290505+00:00"
+    "fetched_at": "2026-11-05T05:59:55.244919+00:00"
    }
   },
   {
@@ -848,9 +848,9 @@
     "date": "2026-11-04",
     "close": 1070.0,
     "change_pct": -1.7,
-    "live": 1108.0,
-    "live_change_pct": 3.55,
-    "live_time": 1793839747,
+    "live": 1108.5,
+    "live_change_pct": 3.6,
+    "live_time": 1793857503,
     "volume": 2762400,
     "volume_ratio": 1.46,
     "rsi14": 43.8,
@@ -906,7 +906,7 @@
     "market_open": true,
     "symbol": "9509.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-05T01:04:06.290505+00:00"
+    "fetched_at": "2026-11-05T05:59:55.244919+00:00"
    }
   },
   {
@@ -955,7 +955,7 @@
     "change_pct": 0.59,
     "live": 3071.0,
     "live_change_pct": 5.55,
-    "live_time": 1793839754,
+    "live_time": 1793857507,
     "volume": 11398700,
     "volume_ratio": 1.45,
     "rsi14": 60.3,
@@ -1011,7 +1011,7 @@
     "market_open": true,
     "symbol": "4568.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-05T01:04:06.290505+00:00"
+    "fetched_at": "2026-11-05T05:59:55.244919+00:00"
    }
   },
   {
@@ -1058,9 +1058,9 @@
     "date": "2026-11-04",
     "close": 2303.5,
     "change_pct": 0.17,
-    "live": 2397.5,
-    "live_change_pct": 4.08,
-    "live_time": 1793839753,
+    "live": 2387.0,
+    "live_change_pct": 3.62,
+    "live_time": 1793857506,
     "volume": 5512100,
     "volume_ratio": 1.25,
     "rsi14": 57.0,
@@ -1116,7 +1116,7 @@
     "market_open": true,
     "symbol": "1925.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-05T01:04:06.290505+00:00"
+    "fetched_at": "2026-11-05T05:59:55.244919+00:00"
    }
   },
   {
@@ -1163,9 +1163,9 @@
     "date": "2026-11-04",
     "close": 3511.0,
     "change_pct": 0.83,
-    "live": 3698.0,
-    "live_change_pct": 5.33,
-    "live_time": 1793839758,
+    "live": 3710.0,
+    "live_change_pct": 5.67,
+    "live_time": 1793857510,
     "volume": 7239500,
     "volume_ratio": 1.41,
     "rsi14": 74.4,
@@ -1221,7 +1221,7 @@
     "market_open": true,
     "symbol": "4661.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-05T01:04:06.290505+00:00"
+    "fetched_at": "2026-11-05T05:59:55.244919+00:00"
    }
   },
   {
@@ -1268,9 +1268,9 @@
     "date": "2026-11-04",
     "close": 7610.0,
     "change_pct": -8.31,
-    "live": 7016.0,
-    "live_change_pct": -7.81,
-    "live_time": 1793839764,
+    "live": 6566.0,
+    "live_change_pct": -13.72,
+    "live_time": 1793857513,
     "volume": 38774600,
     "volume_ratio": 1.28,
     "rsi14": 33.9,
@@ -1326,7 +1326,7 @@
     "market_open": true,
     "symbol": "6976.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-05T01:04:06.290505+00:00"
+    "fetched_at": "2026-11-05T05:59:55.244919+00:00"
    }
   },
   {
@@ -1373,9 +1373,9 @@
     "date": "2026-11-04",
     "close": 6032.0,
     "change_pct": -4.86,
-    "live": 5445.0,
-    "live_change_pct": -9.73,
-    "live_time": 1793839766,
+    "live": 5032.0,
+    "live_change_pct": -16.58,
+    "live_time": 1793857515,
     "volume": 34136000,
     "volume_ratio": 1.48,
     "rsi14": 34.5,
@@ -1431,7 +1431,7 @@
     "market_open": true,
     "symbol": "6981.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-05T01:04:06.290505+00:00"
+    "fetched_at": "2026-11-05T05:59:55.244919+00:00"
    }
   },
   {
@@ -1478,9 +1478,9 @@
     "date": "2026-11-04",
     "close": 521.7,
     "change_pct": 1.99,
-    "live": 521.4,
-    "live_change_pct": -0.06,
-    "live_time": 1793839759,
+    "live": 513.7,
+    "live_change_pct": -1.53,
+    "live_time": 1793857517,
     "volume": 25052700,
     "volume_ratio": 1.97,
     "rsi14": 34.7,
@@ -1536,7 +1536,7 @@
     "market_open": true,
     "symbol": "4005.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-05T01:04:06.290505+00:00"
+    "fetched_at": "2026-11-05T05:59:55.244919+00:00"
    }
   },
   {
@@ -1582,9 +1582,9 @@
     "date": "2026-11-04",
     "close": 4269.0,
     "change_pct": -3.2,
-    "live": 4132.0,
-    "live_change_pct": -3.21,
-    "live_time": 1793839770,
+    "live": 3957.0,
+    "live_change_pct": -7.31,
+    "live_time": 1793857519,
     "volume": 64953600,
     "volume_ratio": 1.23,
     "rsi14": 34.0,
@@ -1640,7 +1640,7 @@
     "market_open": true,
     "symbol": "9984.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-05T01:04:06.290505+00:00"
+    "fetched_at": "2026-11-05T05:59:55.244919+00:00"
    }
   },
   {
@@ -1687,9 +1687,9 @@
     "date": "2026-11-04",
     "close": 1542.5,
     "change_pct": -7.25,
-    "live": 1470.0,
-    "live_change_pct": -4.7,
-    "live_time": 1793839767,
+    "live": 1403.5,
+    "live_change_pct": -9.01,
+    "live_time": 1793857520,
     "volume": 57066800,
     "volume_ratio": 2.27,
     "rsi14": 25.1,
@@ -1745,7 +1745,7 @@
     "market_open": true,
     "symbol": "5802.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-05T01:04:06.290505+00:00"
+    "fetched_at": "2026-11-05T05:59:55.244919+00:00"
    }
   },
   {
@@ -1812,9 +1812,9 @@
     "date": "2026-11-04",
     "close": 34570.0,
     "change_pct": -3.35,
-    "live": 31660.0,
-    "live_change_pct": -8.42,
-    "live_time": 1793839775,
+    "live": 29370.0,
+    "live_change_pct": -15.04,
+    "live_time": 1793857523,
     "volume": 22052500,
     "volume_ratio": 1.34,
     "rsi14": 48.3,
@@ -1870,7 +1870,7 @@
     "market_open": true,
     "symbol": "6857.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-05T01:04:06.290505+00:00"
+    "fetched_at": "2026-11-05T05:59:55.244919+00:00"
    }
   },
   {
@@ -1937,9 +1937,9 @@
     "date": "2026-11-04",
     "close": 39130.0,
     "change_pct": -3.9,
-    "live": 35960.0,
-    "live_change_pct": -8.1,
-    "live_time": 1793839776,
+    "live": 33640.0,
+    "live_change_pct": -14.03,
+    "live_time": 1793857520,
     "volume": 6523800,
     "volume_ratio": 1.28,
     "rsi14": 47.1,
@@ -1995,7 +1995,7 @@
     "market_open": true,
     "symbol": "6920.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-05T01:04:06.290505+00:00"
+    "fetched_at": "2026-11-05T05:59:55.244919+00:00"
    }
   },
   {
@@ -2042,9 +2042,9 @@
     "date": "2026-11-04",
     "close": 3387.0,
     "change_pct": -0.59,
-    "live": 3530.0,
-    "live_change_pct": 4.22,
-    "live_time": 1793839775,
+    "live": 3508.0,
+    "live_change_pct": 3.57,
+    "live_time": 1793857519,
     "volume": 2466500,
     "volume_ratio": 0.91,
     "rsi14": 62.5,
@@ -2100,7 +2100,7 @@
     "market_open": true,
     "symbol": "9843.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-05T01:04:06.290505+00:00"
+    "fetched_at": "2026-11-05T05:59:55.244919+00:00"
    }
   },
   {
@@ -2147,9 +2147,9 @@
     "date": "2026-11-04",
     "close": 4616.0,
     "change_pct": -4.86,
-    "live": 4816.0,
-    "live_change_pct": 4.33,
-    "live_time": 1793839780,
+    "live": 4714.0,
+    "live_change_pct": 2.12,
+    "live_time": 1793857523,
     "volume": 8472000,
     "volume_ratio": 1.21,
     "rsi14": 32.6,
@@ -2205,7 +2205,7 @@
     "market_open": true,
     "symbol": "6701.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-05T01:04:06.290505+00:00"
+    "fetched_at": "2026-11-05T05:59:55.244919+00:00"
    }
   },
   {
@@ -2249,22 +2249,21 @@
     "UCsaeHha7ai_NNX8or8Jyb-g"
    ],
    "price": {
-    "date": "2026-11-02",
-    "close": 63081.86,
-    "change_pct": -0.33,
-    "live": 62522.72,
-    "live_change_pct": -0.89,
-    "live_time": 1793839780,
-    "volume": 162800000,
-    "volume_ratio": 0.95,
-    "rsi14": 41.1,
+    "date": "2026-11-04",
+    "close": 62188.63,
+    "change_pct": -1.42,
+    "live": 60933.88,
+    "live_change_pct": -2.02,
+    "live_time": 1793857530,
+    "volume": 260100000,
+    "volume_ratio": 1.48,
+    "rsi14": 37.9,
     "rsi_zone": "中立",
-    "ma25": 65961.94,
-    "ma75": 65699.53,
+    "ma25": 65814.38,
+    "ma75": 65632.14,
     "trend": "調整中",
-    "pos52": 61,
+    "pos52": 57,
     "spark": [
-     64325.64,
      64214.48,
      65020.94,
      66399.84,
@@ -2303,14 +2302,15 @@
      63954.19,
      64659.47,
      63290.11,
-     63081.86
+     63081.86,
+     62188.63
     ],
     "currency": "JPY",
     "exchange_name": "Osaka",
     "market_open": true,
     "symbol": "^N225",
     "source": "yahoo",
-    "fetched_at": "2026-11-05T01:04:06.290505+00:00"
+    "fetched_at": "2026-11-05T05:59:55.244919+00:00"
    }
   },
   {
@@ -2483,9 +2483,9 @@
     "date": "2026-11-04",
     "close": 8300.0,
     "change_pct": 4.93,
-    "live": 7910.0,
-    "live_change_pct": -4.7,
-    "live_time": 1793839785,
+    "live": 7750.0,
+    "live_change_pct": -6.63,
+    "live_time": 1793857533,
     "volume": 2170800,
     "volume_ratio": 1.36,
     "rsi14": 71.4,
@@ -2541,7 +2541,7 @@
     "market_open": true,
     "symbol": "4588.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-05T01:04:06.290505+00:00"
+    "fetched_at": "2026-11-05T05:59:55.244919+00:00"
    }
   },
   {
@@ -2589,9 +2589,9 @@
     "date": "2026-11-04",
     "close": 6088.0,
     "change_pct": 0.48,
-    "live": 6286.0,
-    "live_change_pct": 3.25,
-    "live_time": 1793839781,
+    "live": 6290.0,
+    "live_change_pct": 3.32,
+    "live_time": 1793857533,
     "volume": 2302400,
     "volume_ratio": 1.12,
     "rsi14": 72.7,
@@ -2647,7 +2647,7 @@
     "market_open": true,
     "symbol": "4684.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-05T01:04:06.290505+00:00"
+    "fetched_at": "2026-11-05T05:59:55.244919+00:00"
    }
   },
   {
@@ -2905,9 +2905,9 @@
     "date": "2026-11-04",
     "close": 4592.0,
     "change_pct": 1.15,
-    "live": 4853.0,
-    "live_change_pct": 5.68,
-    "live_time": 1793839790,
+    "live": 4821.0,
+    "live_change_pct": 4.99,
+    "live_time": 1793857506,
     "volume": 568500,
     "volume_ratio": 0.99,
     "rsi14": 73.6,
@@ -2963,7 +2963,7 @@
     "market_open": true,
     "symbol": "9861.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-05T01:04:06.290505+00:00"
+    "fetched_at": "2026-11-05T05:59:55.244919+00:00"
    }
   }
  ]
