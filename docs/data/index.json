@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T14:59:55.237723+09:00",
+ "generated_at": "2026-11-05T23:31:15.529721+09:00",
  "channels": [
   {
    "id": "UCsaeHha7ai_NNX8or8Jyb-g",
@@ -2378,11 +2378,11 @@
     "date": "2026-11-04",
     "close": 1037.4,
     "change_pct": -7.91,
-    "live": null,
-    "live_change_pct": null,
-    "live_time": null,
-    "volume": 11332864,
-    "volume_ratio": 1.28,
+    "live": 946.27,
+    "live_change_pct": -8.78,
+    "live_time": 1793889062,
+    "volume": 11379600,
+    "volume_ratio": 1.29,
     "rsi14": 30.7,
     "rsi_zone": "中立",
     "ma25": 1404.88,
@@ -2433,10 +2433,10 @@
     ],
     "currency": "USD",
     "exchange_name": "NasdaqGS",
-    "market_open": false,
+    "market_open": true,
     "symbol": "SNDK",
     "source": "yahoo",
-    "fetched_at": "2026-11-04T23:11:37.014968+00:00"
+    "fetched_at": "2026-11-05T14:31:15.534055+00:00"
    }
   },
   {
@@ -2694,10 +2694,10 @@
     "date": "2026-11-04",
     "close": 58.27,
     "change_pct": -3.77,
-    "live": null,
-    "live_change_pct": null,
-    "live_time": null,
-    "volume": 188096167,
+    "live": 55.91,
+    "live_change_pct": -4.05,
+    "live_time": 1793889064,
+    "volume": 188619400,
     "volume_ratio": 1.52,
     "rsi14": 22.8,
     "rsi_zone": "売られすぎ",
@@ -2749,10 +2749,10 @@
     ],
     "currency": "USD",
     "exchange_name": "NasdaqGS",
-    "market_open": false,
+    "market_open": true,
     "symbol": "INTC",
     "source": "yahoo",
-    "fetched_at": "2026-11-04T23:11:37.014968+00:00"
+    "fetched_at": "2026-11-05T14:31:15.534055+00:00"
    }
   },
   {
@@ -2799,11 +2799,11 @@
     "date": "2026-11-04",
     "close": 795.23,
     "change_pct": -7.0,
-    "live": null,
-    "live_change_pct": null,
-    "live_time": null,
-    "volume": 35210225,
-    "volume_ratio": 1.29,
+    "live": 751.35,
+    "live_change_pct": -5.52,
+    "live_time": 1793889071,
+    "volume": 35391300,
+    "volume_ratio": 1.3,
     "rsi14": 35.4,
     "rsi_zone": "中立",
     "ma25": 946.74,
@@ -2854,10 +2854,10 @@
     ],
     "currency": "USD",
     "exchange_name": "NasdaqGS",
-    "market_open": false,
+    "market_open": true,
     "symbol": "MU",
     "source": "yahoo",
-    "fetched_at": "2026-11-04T23:11:37.014968+00:00"
+    "fetched_at": "2026-11-05T14:31:15.534055+00:00"
    }
   },
   {
