@@ -1,6 +1,74 @@
 {
- "generated_at": "2026-11-07T05:14:53.820112+09:00",
+ "generated_at": "2026-11-07T08:49:06.843272+09:00",
  "videos": [
+  {
+   "video_id": "HAreTqxnDu4",
+   "title": "日経平均株価の終値3643円安、下げ幅歴代3位で長期保有株が崩壊しました💦半導体でやられるのかと思いきや下落トップはJTとかクソクソクソプーチ×××おそロシア",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-11-06T07:42:50+00:00",
+   "overview": "日経平均株価が歴代3位の下落幅を記録し、米ハイテク株安や民主党のデータセンター規制警戒により全面安となった相場状況を解説しています。個別銘柄では、ロシア事業の一次管理化による減配懸念でストップ安となったJTの分析や、地合い悪化の中でも好決算を発表して買い戻しの動きが見られた太陽誘電、日東紡績の2銘柄をピックアップし、今後の注目ポイントや立ち回りについて解説しています。",
+   "market_view": "米国株安や規制警戒で日経平均が歴代3位の下げ幅となり長期トレンド割り込みの警戒感が強まる中、持ち越しを避けて慎重な立ち回りが求められる相場環境です。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "JT",
+     "ticker": "2914",
+     "stance": "bearish",
+     "timestamp": "05:50"
+    },
+    {
+     "name": "太陽誘電",
+     "ticker": "6976",
+     "stance": "bullish",
+     "timestamp": "07:45"
+    },
+    {
+     "name": "日東紡績",
+     "ticker": "3110",
+     "stance": "bullish",
+     "timestamp": "10:41"
+    }
+   ]
+  },
+  {
+   "video_id": "RlLoEww7dN0",
+   "title": "AI半導体銘柄がタコ売り・・・バリューは爆上げの2極化相場へ。",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-11-05T07:51:54+00:00",
+   "overview": "AI半導体銘柄が売られる一方でバリュー株が買われる2極化相場について解説しています。知事選結果を受けたデータセンター建設遅延の警戒感からAI需要減速への思惑が強まり、半導体株が急落しました。一方でトヨタ自動車などの好決算銘柄や内需株には資金がシフトしており、セクターローテーションが起きています。",
+   "market_view": "AI半導体銘柄には短期的な警戒感と強い悲観が広がっているものの、中長期的には日足・週足での下げ止まりを確認した後のエントリーが有効な局面です。",
+   "market": "MIX",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "トヨタ自動車",
+     "ticker": "7203",
+     "stance": "bullish",
+     "timestamp": "07:12"
+    },
+    {
+     "name": "アドバンテスト",
+     "ticker": "6857",
+     "stance": "bearish",
+     "timestamp": "07:50"
+    },
+    {
+     "name": "テスラ",
+     "ticker": "TSLA",
+     "stance": "bearish",
+     "timestamp": "01:55"
+    }
+   ]
+  },
   {
    "video_id": "kf-lUtNq0eg",
    "title": "11/4.日経平均一時3000円大暴落‼️ 米中間選で半導体株急落。日本株空売り激減でキオクシア崩壊ヤバイ。ドル円158円。米国株、ナスダック、ハイテク株暴落。仮想通貨BTC、金先物急落",
@@ -90,140 +158,6 @@
      "ticker": "4661",
      "stance": "bullish",
      "timestamp": "30:52"
-    }
-   ]
-  },
-  {
-   "video_id": "JrslFBEeb7Y",
-   "title": "今日の活況銘柄を見てみる！（キオクシア・太陽誘電・村田製作所・イビデン・ソフトバンクグループ・フジクラなど）株式テクニカルチャート分析",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-11-03T01:50:16+00:00",
-   "overview": "米国中間選挙や主要企業の決算発表を控えて市場に慎重姿勢が広がる中、本動画では活況な個別銘柄のテクニカルチャート分析が行われました。東京エレクトロンやレーザーテックなど好決算を示した一部の半導体株が相場を下支えする一方で、大幅下落となったキオクシアや連日陰線を形成する電線株など地合い悪化に押される銘柄も目立ちます。全体地合いの回復を見極めつつ、好業績銘柄のエントリー機会を探る重要性が解説されています。",
-   "market_view": "米中間選挙等の重要イベント前で慎重な雰囲気が支配的ですが、地合いが回復すれば好業績の銘柄を中心に株価上昇が期待できる展開が見込まれています。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "キオクシアホールディングス",
-     "ticker": "285A",
-     "stance": "bearish",
-     "timestamp": "04:22"
-    },
-    {
-     "name": "太陽誘電",
-     "ticker": "6976",
-     "stance": "neutral",
-     "timestamp": "06:15"
-    },
-    {
-     "name": "イビデン",
-     "ticker": "4062",
-     "stance": "bullish",
-     "timestamp": "07:08"
-    },
-    {
-     "name": "村田製作所",
-     "ticker": "6981",
-     "stance": "neutral",
-     "timestamp": "07:50"
-    },
-    {
-     "name": "住友化学",
-     "ticker": "4005",
-     "stance": "neutral",
-     "timestamp": "08:26"
-    },
-    {
-     "name": "ソフトバンクグループ",
-     "ticker": "9984",
-     "stance": "bearish",
-     "timestamp": "09:25"
-    },
-    {
-     "name": "フジクラ",
-     "ticker": "5803",
-     "stance": "bearish",
-     "timestamp": "09:45"
-    },
-    {
-     "name": "住友電気工業",
-     "ticker": "5802",
-     "stance": "bearish",
-     "timestamp": "10:33"
-    },
-    {
-     "name": "東京エレクトロン",
-     "ticker": "8035",
-     "stance": "bullish",
-     "timestamp": "11:50"
-    },
-    {
-     "name": "アドバンテスト",
-     "ticker": "6857",
-     "stance": "bullish",
-     "timestamp": "12:22"
-    },
-    {
-     "name": "レーザーテック",
-     "ticker": "6920",
-     "stance": "bullish",
-     "timestamp": "12:56"
-    }
-   ]
-  },
-  {
-   "video_id": "HAg2pIxG3EY",
-   "title": "米国中間選挙・AMDの決算直前！原油安進む。明日のトレード戦略",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-11-03T01:48:59+00:00",
-   "overview": "米国市場では原油価格の下落や中間選挙での民主党勝利による規制強化警戒から、テック株や半導体株を中心に弱含む展開となっています。一方で原油安の影響により日本市場では内需株に追い風が吹いており、内需株主導の相場展開が期待されます。半導体関連銘柄については好決算を発表したレーザーテックやアドバンテストなどの反発狙いを軸としつつ、外食や小売りなどの足型が良い内需銘柄を狙うトレード戦略が解説されています。",
-   "market_view": "原油安進行と米中間選挙への警戒からテック株は重い展開ですが、内需株主導でTOPIXは底堅く推移すると予想されます。",
-   "market": "MIX",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "レーザーテック",
-     "ticker": "6920",
-     "stance": "bullish",
-     "timestamp": "06:01"
-    },
-    {
-     "name": "アドバンテスト",
-     "ticker": "6857",
-     "stance": "bullish",
-     "timestamp": "08:10"
-    },
-    {
-     "name": "東京エレクトロン",
-     "ticker": "8035",
-     "stance": "bullish",
-     "timestamp": "08:55"
-    },
-    {
-     "name": "イビデン",
-     "ticker": "4062",
-     "stance": "neutral",
-     "timestamp": "09:41"
-    },
-    {
-     "name": "ニトリホールディングス",
-     "ticker": "9843",
-     "stance": "bullish",
-     "timestamp": "13:14"
-    },
-    {
-     "name": "NEC",
-     "ticker": "6701",
-     "stance": "bullish",
-     "timestamp": "14:24"
     }
    ]
   },
