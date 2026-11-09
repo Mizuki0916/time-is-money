@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-09T09:13:20.131697+00:00",
+ "updated_at": "2026-11-09T14:23:05.127192+00:00",
  "symbols": {
   "JP:1111": {
    "date": "2026-08-17",
@@ -1151,7 +1151,7 @@
    "market_open": false,
    "symbol": "SNDK",
    "source": "yahoo",
-   "fetched_at": "2026-11-09T09:13:20.131697+00:00"
+   "fetched_at": "2026-11-09T14:23:05.127192+00:00"
   },
   "JP:5985": {
    "date": "2026-09-25",
@@ -7033,7 +7033,7 @@
    "market_open": false,
    "symbol": "MU",
    "source": "yahoo",
-   "fetched_at": "2026-11-09T09:13:20.131697+00:00"
+   "fetched_at": "2026-11-09T14:23:05.127192+00:00"
   },
   "US:ADBE": {
    "date": "2026-09-04",
@@ -7161,7 +7161,7 @@
    "market_open": false,
    "symbol": "TSLA",
    "source": "yahoo",
-   "fetched_at": "2026-11-09T09:13:20.131697+00:00"
+   "fetched_at": "2026-11-09T14:23:05.127192+00:00"
   },
   "JP:5076": {
    "date": "2026-10-27",
@@ -13292,7 +13292,7 @@
    "market_open": false,
    "symbol": "CRWV",
    "source": "yahoo-search",
-   "fetched_at": "2026-11-09T09:13:20.131697+00:00"
+   "fetched_at": "2026-11-09T14:23:05.127192+00:00"
   },
   "JP:4194": {
    "date": "2026-10-23",
@@ -15404,7 +15404,7 @@
    "market_open": false,
    "symbol": "INTC",
    "source": "yahoo",
-   "fetched_at": "2026-11-09T09:13:20.131697+00:00"
+   "fetched_at": "2026-11-09T14:23:05.127192+00:00"
   },
   "JP:4684": {
    "date": "2026-11-09",
@@ -15788,7 +15788,7 @@
    "market_open": false,
    "symbol": "AMAT",
    "source": "yahoo",
-   "fetched_at": "2026-11-09T09:13:20.131697+00:00"
+   "fetched_at": "2026-11-09T14:23:05.127192+00:00"
   },
   "JP:8031": {
    "date": "2026-11-09",
