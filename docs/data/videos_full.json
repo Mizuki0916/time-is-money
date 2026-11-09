@@ -1,6 +1,104 @@
 {
  "videos": [
   {
+   "video_id": "hgJGWBpb1Dg",
+   "title": "11/8【日経平均3643円大暴落‼半導体株年末安確定か⁉】キオクシア救済措置あるか。海外勢日本株大量売却。バリュー株急落。ドル円158円。米国株、ナスダック、ハイテク株暴落。仮想通貨上",
+   "published": "2026-11-08T14:14:54+00:00",
+   "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "半導体株の大幅下落や地合い悪化に伴い、年末に向けたマーケットの見通しと需給悪化銘柄への対処法を解説した動画です。キオクシアやレーザーテックなどの半導体関連株は、12月の信用期日や損益通算売りが重なるため12月まで戻り売りを警戒すべきと指摘。個人投資家の買いが偏る需給悪化銘柄は避け、需給の軽い出遅れ銘柄や二極化相場への対応を推奨しています。",
+   "market_view": "半導体株を中心に年末12月に向かって売り圧力が強く厳しい展開が予想されますが、全面安ではなく需給の良し悪しによる二極化相場が進むと見ています。",
+   "market": "JP",
+   "picks": [
+    {
+     "name": "キオクシア",
+     "name_en": "Kioxia Holdings",
+     "ticker": "285A",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "信用期日や損益通算売りを警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "高値からの半年期限が12月に控え、損益通算売りや信用高値掴みの売却圧力が年末に向かって断続的にぶつかるため。",
+      "評価損益率が40%近くまで悪化しており、NISA買い付け上位のため下落局面で狼狽売りが出やすい需給状況なため。"
+     ],
+     "timestamp": "02:10",
+     "confidence": "high"
+    },
+    {
+     "name": "レーザーテック",
+     "name_en": "Lasertec Corporation",
+     "ticker": "6920",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "チャート悪化とバンドウォーク継続",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "ヘッドアンドショルダーの下値ラインを割り込んでおり、バンドウォークを伴う強烈な下落トレンドが継続しているため。"
+     ],
+     "timestamp": "05:41",
+     "confidence": "high"
+    },
+    {
+     "name": "東京エレクトロン",
+     "name_en": "Tokyo Electron Limited",
+     "ticker": "8035",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "信用倍率悪化と全買付者の含み損化",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "信用倍率が18.79倍と買い残が非常に重く、高値掴みの買い手がほぼ全員含み損を抱える需給の悪い状態にあるため。"
+     ],
+     "timestamp": "11:28",
+     "confidence": "high"
+    },
+    {
+     "name": "ソフトバンクグループ",
+     "name_en": "SoftBank Group Corp.",
+     "ticker": "9984",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "NISA買い上位による狼狽売り懸念",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "決算勝負の買いが入るも需給が悪化しており、NISA買付上位銘柄のため年末に向けて狼狽売りが出やすい状態にあるため。"
+     ],
+     "timestamp": "08:59",
+     "confidence": "medium"
+    },
+    {
+     "name": "JT",
+     "name_en": "Japan Tobacco Inc.",
+     "ticker": "2914",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "悪材料による急落と売りづらい需給",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "想定外の悪材料が発生してPTSでストップ安となっており、信用買い残が積み上がった中で処分が困難な状況にあるため。"
+     ],
+     "timestamp": "29:16",
+     "confidence": "medium"
+    }
+   ]
+  },
+  {
    "video_id": "5Cwy4r5nr6A",
    "title": "【日経平均4000円先物大暴落‼】半導体株クラッシュ。キオクシア暴落止まらない。バリュー株もつれ安。ドル円158円。米国株、ナスダック、ハイテク株暴落。仮想通貨上",
    "published": "2026-11-06T17:25:52+00:00",
@@ -132,91 +230,6 @@
       "信用倍率が13.8倍と非常に高く受給が重い状態が続いているため、下値を探る展開が継続しやすい。"
      ],
      "timestamp": "1:01:36",
-     "confidence": "medium"
-    }
-   ]
-  },
-  {
-   "video_id": "5MKqYJcG8Oc",
-   "title": "【日経平均4000円先物大暴落‼】半導体株クラッシュでS安連発か⁉キオクシア暴落止まらない→バリュー株に資金シフト加速。ドル円158円。米国株、ナスダック、ハイテク株暴落。仮想通貨上",
-   "published": "2026-11-06T02:07:16+00:00",
-   "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "米国SOX指数の12.25%暴落やAI規制報道を受けて半導体・ハイテク株がクラッシュし、日経平均が一時4000円超の大暴落となった緊急ライブ配信。配信者は事前の予想通り半導体株を回避しノーポジであることを明かし被害を回避。半導体株の投げ売りは年末まで静観し、需給が軽く200日移動平均線がゴールデンクロスを形成するバリュー株等への資金シフトに注目するよう解説している。",
-   "market_view": "SOX指数の大暴落による半導体クラッシュで日経平均は4000円規模の大暴落となったが、需給が軽くチャートが良い出遅れバリュー株には買い戻しの手が入る二極化相場を想定している。",
-   "market": "MIX",
-   "picks": [
-    {
-     "name": "キオクシアホールディングス",
-     "name_en": "Kioxia Holdings",
-     "ticker": "285A",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "S安気配で暴落し年末まで警戒",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "米SOX指数の12.25%暴落を受けて朝からストップ安気配となり、日中も7000円台まで大幅続落しているため。",
-      "高値からの半値以下への暴落が進んでおり、信用買いの捕まり等で年末にかけて投げ売りが続く懸念があるため。"
-     ],
-     "timestamp": "06:19",
-     "confidence": "high"
-    },
-    {
-     "name": "ソニーグループ",
-     "name_en": "Sony Group",
-     "ticker": "6758",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "需給軽さとGC形成で全般安でも堅調",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "全体相場が4000円規模で大暴落する局面でも、寄り底からプラス圏へと力強く買い戻されているため。",
-      "200日移動平均線と長期線がゴールデンクロスを形成しており、需給が軽くチャート形状が上方向であるため。"
-     ],
-     "timestamp": "16:21",
-     "confidence": "high"
-    },
-    {
-     "name": "アドバンテスト",
-     "name_en": "Advantest",
-     "ticker": "6857",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "半導体クラッシュで10%超の急落",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "米国ハイテク株やSOX指数の大暴落に巻き込まれ、株価が12%〜15%の大爆下げとなっているため。",
-      "半導体セクター全体の投げ売りや追証回避の売り圧力が集中し、短期的にも需給悪化が著しいため。"
-     ],
-     "timestamp": "39:46",
-     "confidence": "medium"
-    },
-    {
-     "name": "エヌビディア",
-     "name_en": "NVIDIA",
-     "ticker": "NVDA",
-     "market": "US",
-     "stance": "bearish",
-     "stance_note": "AI規制報道とSOX暴落で急落",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "昨晩の米国市場にてSOX指数が12.25%暴落する中で、単体としても株価が9%急落したため。",
-      "中間選挙後のAI規制に関するニュースなどが嫌気され、米半導体株クラッシュの中心となったため。"
-     ],
-     "timestamp": "02:46",
      "confidence": "medium"
     }
    ]
@@ -562,6 +575,185 @@
    ]
   },
   {
+   "video_id": "SSwJaMHu9Kc",
+   "title": "今週（11/9〜）現状報告と展望を語る回",
+   "published": "2026-11-08T11:00:04+00:00",
+   "description": "noteでメンバーシップを開始しました。\n詳しくはリンクをご覧ください。\n\n【note】\nhttps://note.com/peco_kabu/membership\n\n【X】\nhttps://x.com/peco_kabu\n\n#投資 #株式投資 #株 #日本株 #nisa #日経平均 #NISA #米国株 #個別株",
+   "channel_id": "UCt7qqCkTFFRfKjXzwqUXq4g",
+   "channel_name": "ぺこ株",
+   "channel_short": "ぺこ",
+   "slot": 4,
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "米中間選挙の結果を受けたAI関連銘柄の暴落要因や今後の相場見通しについて解説されています。また、ロシア政府によるJT子会社の一時管理措置が与える事業・配当リスクや関連日本企業への影響に言及。投稿者の現況としてオービックの打診買いやソニーの買い増しを報告しつつ、今週予定されている注目企業の決算やIPO情報をまとめています。",
+   "market_view": "米中間選挙で民主党が過半数を制したことでAI設備投資鈍化への懸念が広がり相場が崩れていますが、AI成長が完全に停止したわけではなく過剰な織り込みの是正と見ています。",
+   "market": "MIX",
+   "picks": [
+    {
+     "name": "キオクシアホールディングス",
+     "name_en": "Kioxia Holdings",
+     "ticker": "285A",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "売り一巡後の戻りを想定も高値更新は困難",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "株価は高値から急落しているがAIの成長自体が終わったわけではなく売り一巡後は戻す動きになると見込まれるため。",
+      "前提条件の変化により一気に高値へ戻すことは考えにくく世界情勢や需給面を含めて時間を要すると見ているため。"
+     ],
+     "timestamp": "02:09",
+     "confidence": "medium"
+    },
+    {
+     "name": "コアウィーブ",
+     "name_en": "CoreWeave",
+     "ticker": "",
+     "market": "US",
+     "stance": "neutral",
+     "stance_note": "決算や業績見通しの発表に注目",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "エヌビディアとの強い関連性を持つ注目企業であり今週予定されている決算発表内容を注視したいと考えているため。"
+     ],
+     "timestamp": "03:28",
+     "confidence": "medium"
+    },
+    {
+     "name": "アプライド・マテリアルズ",
+     "name_en": "Applied Materials",
+     "ticker": "AMAT",
+     "market": "US",
+     "stance": "neutral",
+     "stance_note": "今週控える決算発表内容に注目",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "東京エレクトロンと並ぶ半導体製造装置の大手であり今週発表される決算や業績の見通しについて確認が必要なため。"
+     ],
+     "timestamp": "03:28",
+     "confidence": "medium"
+    },
+    {
+     "name": "JT",
+     "name_en": "Japan Tobacco",
+     "ticker": "2914",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "ロシアでの事業統制による影響を懸念",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "ロシア当局により現地製造会社が一時管理下に置かれ自由な経営や利益回収が困難になるリスクが生じているため。",
+      "ロシア市場が全体の営業利益の約25%を占めており業績悪化や売りである配当の安全性が揺らぐ懸念が強まったため。"
+     ],
+     "timestamp": "03:57",
+     "confidence": "high"
+    },
+    {
+     "name": "三菱商事",
+     "name_en": "Mitsubishi Corporation",
+     "ticker": "8058",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "サハリン2の波及リスクを警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "ロシアの政情不安に伴い同国で参画している石油天然ガス開発事業サハリン2への悪影響が波及する懸念があるため。"
+     ],
+     "timestamp": "05:07",
+     "confidence": "low"
+    },
+    {
+     "name": "三井物産",
+     "name_en": "Mitsui & Co.",
+     "ticker": "8031",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "サハリン2の事業停止リスクを警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "日本のガス輸入の9%を占めるサハリン2事業に参画しておりロシアの意向による供給ストップの可能性が懸念されるため。"
+     ],
+     "timestamp": "05:07",
+     "confidence": "low"
+    },
+    {
+     "name": "三菱重工業",
+     "name_en": "Mitsubishi Heavy Industries",
+     "ticker": "7011",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "ロシア現地拠点の事業懸念を警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "ロシア国内にガスタービンやコンプレッサーの保守サービス拠点を保有しており今後の情勢悪化の影響が心配されるため。"
+     ],
+     "timestamp": "05:24",
+     "confidence": "low"
+    },
+    {
+     "name": "オービック",
+     "name_en": "OBIC",
+     "ticker": "4684",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "打診買いを実施し今後の上昇に期待",
+     "target_price": "",
+     "entry": "6100円",
+     "stop": "",
+     "reasons": [
+      "個人的に期待している好銘柄であり現状は含み損ながら先週6100円の単価で300株の打診買いを行ったため。"
+     ],
+     "timestamp": "05:57",
+     "confidence": "high"
+    },
+    {
+     "name": "ソニーグループ",
+     "name_en": "Sony Group",
+     "ticker": "6758",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "長期の大本命として追加購入",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "長期保有における投稿者の大本命銘柄であり確定利益の資金の一部を充当して買い増しを実施しているため。"
+     ],
+     "timestamp": "06:27",
+     "confidence": "medium"
+    },
+    {
+     "name": "レセプショニスト",
+     "name_en": "RECEPTIONIST",
+     "ticker": "",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "新規上場株として事業利便性に注目",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "11月10日にグロース市場への上場を予定しており内線不使用のビジネスチャット連動型受付システムを展開するため。"
+     ],
+     "timestamp": "08:23",
+     "confidence": "medium"
+    }
+   ]
+  },
+  {
    "video_id": "q6zWOf_TJ8I",
    "title": "今週（11/2〜）専業が自信を持って買う1銘柄",
    "published": "2026-11-01T11:13:57+00:00",
@@ -592,41 +784,6 @@
       "日足・週足ともにパーフェクトオーダーを形成しており、6000円の節目を上抜けて青天井状態で強い上昇トレンドにある。"
      ],
      "timestamp": "05:42",
-     "confidence": "high"
-    }
-   ]
-  },
-  {
-   "video_id": "5TltqiDeYBI",
-   "title": "今週（10/26〜）専業が自信を持って買う1銘柄",
-   "published": "2026-10-25T11:00:30+00:00",
-   "description": "今週、個人的に注目している個別銘柄を1銘柄に絞って解説します。\n個人的見解ですが投資戦略の参考にしてもらえたら幸いです。\n\n※パパッと見たい方は倍速設定をご使用ください.\n\n投資に絶対はありません。\n紹介銘柄が気になっても売買は自己責任でお願いいたします。\n\nnoteでメンバーシップを開始しました。\n詳しくはリンクをご覧ください。\n\n【note】\nhttps://note.com/peco_kabu/membership\n\n【X】\nhttps://x.com/peco_kabu\n\n#投資 #株式投資 #株 #日本株 #nisa #日経平均 #NISA #米国株 #個別株",
-   "channel_id": "UCt7qqCkTFFRfKjXzwqUXq4g",
-   "channel_name": "ぺこ株",
-   "channel_short": "ぺこ",
-   "slot": 4,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "村田製作所での損切りによる連勝ストップを報告しつつ、今週の注目銘柄として吉野家ホールディングスを紹介。同社は好調な第2四半期決算と通期情報修正に加え、ラーメン事業の買収など新たな成長軸を育成中。テクニカル面では決算後に高値を更新したものの短期的過熱感があるため、調整下げや押し目を待ってからスイングトレードで仕込む戦略を解説している。",
-   "market_view": "日米の金融政策決定会合での金利据え置き見通しや、中東情勢の激化に伴う原油高・円高傾向、本格化する決算シーズンに注目している。",
-   "market": "JP",
-   "picks": [
-    {
-     "name": "吉野家ホールディングス",
-     "name_en": "Yoshinoya Holdings Co., Ltd.",
-     "ticker": "9861",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "調整下げや押し目を待ってスイングで狙う",
-     "target_price": "",
-     "entry": "調整下げが入った局面(1σ付近)で打診300株、追加300株",
-     "stop": "13週線または26週線",
-     "reasons": [
-      "牛丼の強固なブランド力に加え、ラーメン事業の買収や海外展開を推進しており、複数事業を持つ外食グループへの成長が期待できる。",
-      "第2四半期決算は大幅な増収増益で通期予想を上方修正しており、売上増加に伴い利益率も改善するなど業績面が非常に好調である。",
-      "チャートは決算後に上値ラインと雲を上抜け高値を更新。信用倍率0.17倍と低く、円高に強い点や株主優待の存在も魅力的である。"
-     ],
-     "timestamp": "05:22",
      "confidence": "high"
     }
    ]
