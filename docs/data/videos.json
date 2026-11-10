@@ -1,6 +1,80 @@
 {
- "generated_at": "2026-11-11T05:42:49.999224+09:00",
+ "generated_at": "2026-11-11T08:34:54.427799+09:00",
  "videos": [
+  {
+   "video_id": "VrS1EpA9pjM",
+   "title": "フジクラ　決算でまさかの下方修正　その理由は？",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-11-10T14:52:10+00:00",
+   "overview": "フジクラ(5803)の決算内容と今後の投資戦略について解説された動画。今期経常利益が1%下方修正されたものの、想定為替レートを156円に見直したことが要因であり、今後の業績上振れや再度の情報修正の可能性は十分にあると分析している。42円の増配発表や、3000円のサポートラインが意識される展開の中で、需給悪化に注意しつつ上昇を狙っていく戦略が提示されている。",
+   "market_view": "本日の株式市場は全体的に強い相場環境であったことに触れられている。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "フジクラ",
+     "ticker": "5803",
+     "stance": "bullish",
+     "timestamp": "00:00"
+    }
+   ]
+  },
+  {
+   "video_id": "86ZENZIiKAA",
+   "title": "11/10【CPI発表。日本株動くぞ‼】ソフトバンクG決算ヤバい。半導体株急騰で日経平均1600円急騰。爆損で信用買い激減。ドル円157円。米国株、ナスダック、ハイテク株急騰。仮想通貨上",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-11-10T14:43:31+00:00",
+   "overview": "米CPIが市場予想を上回り、インフレ懸念と利上げ継続観測から米金利が上昇、日経先物も下落する展開となりました。配信者は、信用買い残の減少に対して空売りも減っているため、強力なショートカバーを誘発する燃料が不足していると分析しています。年末に向けては二極化相場が続くとみており、受給が悪く含み損を抱えた投資家が多い半導体株のV字回復には慎重な姿勢を示しつつ、受給が改善しているバリュー株やエンタメ株に注目しています。",
+   "market_view": "CPI上振れによる米利上げ懸念再燃で日経先物は下落。空売り燃料不足により半導体株の全般的なV字回復は難しく、年末にかけて受給の良し悪しによる二極化相場が続くと予想しています。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "ソフトバンクグループ",
+     "ticker": "9984",
+     "stance": "bearish",
+     "timestamp": "01:22"
+    },
+    {
+     "name": "キオクシアホールディングス",
+     "ticker": "285A",
+     "stance": "bearish",
+     "timestamp": "05:47"
+    },
+    {
+     "name": "アドバンテスト",
+     "ticker": "6857",
+     "stance": "neutral",
+     "timestamp": "11:00"
+    },
+    {
+     "name": "トヨタ自動車",
+     "ticker": "7203",
+     "stance": "bullish",
+     "timestamp": "55:37"
+    },
+    {
+     "name": "任天堂",
+     "ticker": "7974",
+     "stance": "bullish",
+     "timestamp": "20:43"
+    },
+    {
+     "name": "ソニーグループ",
+     "ticker": "6758",
+     "stance": "bullish",
+     "timestamp": "58:45"
+    }
+   ]
+  },
   {
    "video_id": "wylKhc5OraE",
    "title": "11/9【日本株に違和感。半導体株投げ売り加速か‼】日経平均1300円高なのにキオクシア下落。バリュー株に資金シフト。明日後場寄り警戒。ドル円157円。米国株、ナスダック、ハイテク株弱。仮想通貨上",
@@ -96,52 +170,6 @@
      "ticker": "2914",
      "stance": "neutral",
      "timestamp": "35:22"
-    }
-   ]
-  },
-  {
-   "video_id": "hgJGWBpb1Dg",
-   "title": "11/8【日経平均3643円大暴落‼半導体株年末安確定か⁉】キオクシア救済措置あるか。海外勢日本株大量売却。バリュー株急落。ドル円158円。米国株、ナスダック、ハイテク株暴落。仮想通貨上",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-11-08T14:14:54+00:00",
-   "overview": "半導体株の大幅下落や地合い悪化に伴い、年末に向けたマーケットの見通しと需給悪化銘柄への対処法を解説した動画です。キオクシアやレーザーテックなどの半導体関連株は、12月の信用期日や損益通算売りが重なるため12月まで戻り売りを警戒すべきと指摘。個人投資家の買いが偏る需給悪化銘柄は避け、需給の軽い出遅れ銘柄や二極化相場への対応を推奨しています。",
-   "market_view": "半導体株を中心に年末12月に向かって売り圧力が強く厳しい展開が予想されますが、全面安ではなく需給の良し悪しによる二極化相場が進むと見ています。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "キオクシア",
-     "ticker": "285A",
-     "stance": "bearish",
-     "timestamp": "02:10"
-    },
-    {
-     "name": "レーザーテック",
-     "ticker": "6920",
-     "stance": "bearish",
-     "timestamp": "05:41"
-    },
-    {
-     "name": "東京エレクトロン",
-     "ticker": "8035",
-     "stance": "bearish",
-     "timestamp": "11:28"
-    },
-    {
-     "name": "ソフトバンクグループ",
-     "ticker": "9984",
-     "stance": "bearish",
-     "timestamp": "08:59"
-    },
-    {
-     "name": "JT",
-     "ticker": "2914",
-     "stance": "bearish",
-     "timestamp": "29:16"
     }
    ]
   },
@@ -252,40 +280,6 @@
      "ticker": "3110",
      "stance": "bullish",
      "timestamp": "10:41"
-    }
-   ]
-  },
-  {
-   "video_id": "RlLoEww7dN0",
-   "title": "AI半導体銘柄がタコ売り・・・バリューは爆上げの2極化相場へ。",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-11-05T07:51:54+00:00",
-   "overview": "AI半導体銘柄が売られる一方でバリュー株が買われる2極化相場について解説しています。知事選結果を受けたデータセンター建設遅延の警戒感からAI需要減速への思惑が強まり、半導体株が急落しました。一方でトヨタ自動車などの好決算銘柄や内需株には資金がシフトしており、セクターローテーションが起きています。",
-   "market_view": "AI半導体銘柄には短期的な警戒感と強い悲観が広がっているものの、中長期的には日足・週足での下げ止まりを確認した後のエントリーが有効な局面です。",
-   "market": "MIX",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "トヨタ自動車",
-     "ticker": "7203",
-     "stance": "bullish",
-     "timestamp": "07:12"
-    },
-    {
-     "name": "アドバンテスト",
-     "ticker": "6857",
-     "stance": "bearish",
-     "timestamp": "07:50"
-    },
-    {
-     "name": "テスラ",
-     "ticker": "TSLA",
-     "stance": "bearish",
-     "timestamp": "01:55"
     }
    ]
   },
