@@ -1,6 +1,92 @@
 {
- "generated_at": "2026-11-12T06:03:43.429292+09:00",
+ "generated_at": "2026-11-12T07:02:04.842793+09:00",
  "videos": [
+  {
+   "video_id": "gYTYnZ1kC3Q",
+   "title": "11/11【日本株、半導体株また騙し上げか⁉】信用買い激減で日経平均789円高。ソフトバンクGも急反発。ドル円158円。CPI通過で金利急騰。米国株、ナスダック、ハイテク株乱高下か。仮想通貨BTC弱",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-11-11T14:25:49+00:00",
+   "overview": "Sho氏による11月11日時点の日本株相場分析動画。日経平均が789円高と急反発したものの、需給面や過渡期のパターンから2018年同様の「騙し上げ」後の再下落に警戒感を示している。無理なリスクテイクを避け、慎重に利益を守る立ち回りを推奨。キオクシアやソフトバンクグループ等の個別株分析のほか、チャートの鉄板初動パターンについても詳しく解説している。",
+   "market_view": "日経平均は大幅続進したものの短期的なショートカバー主導の動きと見られ、ボリンジャーバンド中央線付近までの自律反発後に再び下落へ転じるリスクを警戒すべきである。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "キオクシアホールディングス",
+     "ticker": "285A",
+     "stance": "neutral",
+     "timestamp": "03:14"
+    },
+    {
+     "name": "ソフトバンクグループ",
+     "ticker": "9984",
+     "stance": "neutral",
+     "timestamp": "05:16"
+    },
+    {
+     "name": "任天堂",
+     "ticker": "7974",
+     "stance": "bullish",
+     "timestamp": "08:56"
+    },
+    {
+     "name": "JX金属",
+     "ticker": "5016",
+     "stance": "neutral",
+     "timestamp": "24:41"
+    },
+    {
+     "name": "住友不動産",
+     "ticker": "8830",
+     "stance": "bullish",
+     "timestamp": "35:15"
+    }
+   ]
+  },
+  {
+   "video_id": "Nq31eUW_QzQ",
+   "title": "11/11【日本株、半導体株また騙し上げか⁉】信用買い激減で日経平均789円高。ソフトバンクGも急反発。ドル円158円。CPI通過で金利急騰。米国株、ナスダック、ハイテク株乱高下か。仮想通貨BTC弱",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-11-11T09:15:01+00:00",
+   "overview": "日経平均株価の自立反発や半導体株の短期急騰について解説し、信用買い残の高止まりや空売り不足の需給面から騙し上げ(ブルートラップ)の可能性を指摘している。2018年の相場展開との類似点を提示し、12月の利上げ懸念や損益通算売りに備えた慎重な投資姿勢と、需給の良い銘柄への選択的投資の重要性を説いている。",
+   "market_view": "日経平均は短期的な自立反発の局面にあるが、市場全体の空売り不足と高水準の信用買い残が重荷となっており、年末に向けた戻り売りや損益通算売りに警戒が必要な状況である。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "日経平均株価",
+     "ticker": "",
+     "stance": "neutral",
+     "timestamp": "00:00"
+    },
+    {
+     "name": "ソフトバンクグループ",
+     "ticker": "9984",
+     "stance": "neutral",
+     "timestamp": "10:35"
+    },
+    {
+     "name": "東京エレクトロン",
+     "ticker": "8035",
+     "stance": "bearish",
+     "timestamp": "30:45"
+    },
+    {
+     "name": "キオクシア",
+     "ticker": "285A",
+     "stance": "bearish",
+     "timestamp": "33:36"
+    }
+   ]
+  },
   {
    "video_id": "VrS1EpA9pjM",
    "title": "フジクラ　決算でまさかの下方修正　その理由は？",
@@ -20,58 +106,6 @@
      "ticker": "5803",
      "stance": "bullish",
      "timestamp": "00:00"
-    }
-   ]
-  },
-  {
-   "video_id": "86ZENZIiKAA",
-   "title": "11/10【CPI発表。日本株動くぞ‼】ソフトバンクG決算ヤバい。半導体株急騰で日経平均1600円急騰。爆損で信用買い激減。ドル円157円。米国株、ナスダック、ハイテク株急騰。仮想通貨上",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-11-10T14:43:31+00:00",
-   "overview": "米CPIが市場予想を上回り、インフレ懸念と利上げ継続観測から米金利が上昇、日経先物も下落する展開となりました。配信者は、信用買い残の減少に対して空売りも減っているため、強力なショートカバーを誘発する燃料が不足していると分析しています。年末に向けては二極化相場が続くとみており、受給が悪く含み損を抱えた投資家が多い半導体株のV字回復には慎重な姿勢を示しつつ、受給が改善しているバリュー株やエンタメ株に注目しています。",
-   "market_view": "CPI上振れによる米利上げ懸念再燃で日経先物は下落。空売り燃料不足により半導体株の全般的なV字回復は難しく、年末にかけて受給の良し悪しによる二極化相場が続くと予想しています。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "ソフトバンクグループ",
-     "ticker": "9984",
-     "stance": "bearish",
-     "timestamp": "01:22"
-    },
-    {
-     "name": "キオクシアホールディングス",
-     "ticker": "285A",
-     "stance": "bearish",
-     "timestamp": "05:47"
-    },
-    {
-     "name": "アドバンテスト",
-     "ticker": "6857",
-     "stance": "neutral",
-     "timestamp": "11:00"
-    },
-    {
-     "name": "トヨタ自動車",
-     "ticker": "7203",
-     "stance": "bullish",
-     "timestamp": "55:37"
-    },
-    {
-     "name": "任天堂",
-     "ticker": "7974",
-     "stance": "bullish",
-     "timestamp": "20:43"
-    },
-    {
-     "name": "ソニーグループ",
-     "ticker": "6758",
-     "stance": "bullish",
-     "timestamp": "58:45"
     }
    ]
   },
@@ -100,64 +134,6 @@
      "ticker": "5803",
      "stance": "neutral",
      "timestamp": "05:24"
-    }
-   ]
-  },
-  {
-   "video_id": "wylKhc5OraE",
-   "title": "11/9【日本株に違和感。半導体株投げ売り加速か‼】日経平均1300円高なのにキオクシア下落。バリュー株に資金シフト。明日後場寄り警戒。ドル円157円。米国株、ナスダック、ハイテク株弱。仮想通貨上",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-11-09T14:13:40+00:00",
-   "overview": "日経平均が大幅高となる中で14時以降に半導体株や古河電気工業の投げ売り・乱高下が起きた違和感について解説しています。需給の重い銘柄や半導体株への買いは避け、需給が軽く上昇トレンド(バンドウォーク)を維持しているバリュー株を優先する姿勢を強調。年末に向けた二極化相場を想定し、キャッシュ比率を調整しながら押し目を慎重に見極める投資戦略を伝えています。",
-   "market_view": "年末にかけて日経合計の信用倍率が高止まりしているため二極化相場になりやすく、需給の軽い銘柄が買われる一方で需給の重い銘柄は下落しやすい傾向があります。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "キオクシアホールディングス",
-     "ticker": "285A",
-     "stance": "bearish",
-     "timestamp": "03:29"
-    },
-    {
-     "name": "トヨタ自動車",
-     "ticker": "7203",
-     "stance": "bullish",
-     "timestamp": "06:43"
-    },
-    {
-     "name": "オリエンタルランド",
-     "ticker": "4661",
-     "stance": "bullish",
-     "timestamp": "15:54"
-    },
-    {
-     "name": "第一三共",
-     "ticker": "4568",
-     "stance": "bullish",
-     "timestamp": "33:51"
-    },
-    {
-     "name": "積水ハウス",
-     "ticker": "1928",
-     "stance": "bullish",
-     "timestamp": "40:58"
-    },
-    {
-     "name": "NEC",
-     "ticker": "6701",
-     "stance": "bearish",
-     "timestamp": "44:30"
-    },
-    {
-     "name": "SCREENホールディングス",
-     "ticker": "7735",
-     "stance": "bearish",
-     "timestamp": "50:03"
     }
    ]
   },

@@ -1,9 +1,9 @@
 {
  "videos": [
   {
-   "video_id": "86ZENZIiKAA",
-   "title": "11/10【CPI発表。日本株動くぞ‼】ソフトバンクG決算ヤバい。半導体株急騰で日経平均1600円急騰。爆損で信用買い激減。ドル円157円。米国株、ナスダック、ハイテク株急騰。仮想通貨上",
-   "published": "2026-11-10T14:43:31+00:00",
+   "video_id": "gYTYnZ1kC3Q",
+   "title": "11/11【日本株、半導体株また騙し上げか⁉】信用買い激減で日経平均789円高。ソフトバンクGも急反発。ドル円158円。CPI通過で金利急騰。米国株、ナスダック、ハイテク株乱高下か。仮想通貨BTC弱",
+   "published": "2026-11-11T14:25:49+00:00",
    "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
    "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
    "channel_name": "Sho's投資情報局",
@@ -11,81 +11,43 @@
    "slot": 3,
    "no_transcript": false,
    "skip_reason": "",
-   "overview": "米CPIが市場予想を上回り、インフレ懸念と利上げ継続観測から米金利が上昇、日経先物も下落する展開となりました。配信者は、信用買い残の減少に対して空売りも減っているため、強力なショートカバーを誘発する燃料が不足していると分析しています。年末に向けては二極化相場が続くとみており、受給が悪く含み損を抱えた投資家が多い半導体株のV字回復には慎重な姿勢を示しつつ、受給が改善しているバリュー株やエンタメ株に注目しています。",
-   "market_view": "CPI上振れによる米利上げ懸念再燃で日経先物は下落。空売り燃料不足により半導体株の全般的なV字回復は難しく、年末にかけて受給の良し悪しによる二極化相場が続くと予想しています。",
+   "overview": "Sho氏による11月11日時点の日本株相場分析動画。日経平均が789円高と急反発したものの、需給面や過渡期のパターンから2018年同様の「騙し上げ」後の再下落に警戒感を示している。無理なリスクテイクを避け、慎重に利益を守る立ち回りを推奨。キオクシアやソフトバンクグループ等の個別株分析のほか、チャートの鉄板初動パターンについても詳しく解説している。",
+   "market_view": "日経平均は大幅続進したものの短期的なショートカバー主導の動きと見られ、ボリンジャーバンド中央線付近までの自律反発後に再び下落へ転じるリスクを警戒すべきである。",
    "market": "JP",
    "picks": [
-    {
-     "name": "ソフトバンクグループ",
-     "name_en": "SoftBank Group Corp.",
-     "ticker": "9984",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "決算赤字転落と信用買い多さから警戒",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "決算で赤字転落となり時間外取引(PTS)で株価が急落しているため",
-      "日経平均への寄与度が高い銘柄であり明日の市場全体の下落要因になるため",
-      "高値圏で捕まっている信用買い残が多く明日の下落で投げ売りが出やすいため"
-     ],
-     "timestamp": "01:22",
-     "confidence": "high"
-    },
     {
      "name": "キオクシアホールディングス",
      "name_en": "Kioxia Holdings Corporation",
      "ticker": "285A",
      "market": "JP",
-     "stance": "bearish",
-     "stance_note": "信用改ざん膨大で戻り売り圧力強い",
+     "stance": "neutral",
+     "stance_note": "中央線までの戻り後の再下落に警戒",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "信用買い残が約2900万株と依然として膨大で信用整理が進んでいないため",
-      "市場全体の信用評価損益率マイナス21%という冷え込みの主因になっているため",
-      "一時的に反発しても高値で捕まった投資家からの戻り売り圧力が強いため"
+      "信用買い61万株に対し空売り35万株と空売りが増加したことで、短期的な踏み上げ(ショートカバー)が発生し上昇している。",
+      "200日移動平均線と50日・75日線のデッドクロス形成が控えており、ボリンジャーバンド中央線付近からの再下落に警戒が必要。"
      ],
-     "timestamp": "05:47",
+     "timestamp": "03:14",
      "confidence": "high"
     },
     {
-     "name": "アドバンテスト",
-     "name_en": "ADVANTEST CORPORATION",
-     "ticker": "6857",
+     "name": "ソフトバンクグループ",
+     "name_en": "SoftBank Group Corp.",
+     "ticker": "9984",
      "market": "JP",
      "stance": "neutral",
-     "stance_note": "受給は改善傾向も移動平均線デッドクロス警戒",
+     "stance_note": "目先中央線付近までの反発後は要警戒",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "信用買いが減り売りが増加して受給は改善傾向にあるが上値が重いため",
-      "5日移動平均線と200日移動平均線のデッドクロス形成が懸念されるため",
-      "相場全体の半導体株に対する警戒感からトレンド転換の確証が持てないため"
+      "信用買いが減少し空売りが増加したことで倍率が6.01倍へと改善し、全体地合いの助けもあり急反発をみせている。",
+      "2018年の相場パターンを踏まえると、ボリンジャーバンドの中央線付近まで目先反発した後に再び下落に転じる展開が予想される。"
      ],
-     "timestamp": "11:00",
-     "confidence": "medium"
-    },
-    {
-     "name": "トヨタ自動車",
-     "name_en": "Toyota Motor Corporation",
-     "ticker": "7203",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "好決算と受給大幅改善で上放れ期待",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "決算内容が良好でPER11倍台・PBR1倍近辺とバリュエーションに割安感があるため",
-      "信用買い残がピーク時から大幅減少し売り残が増加して受給が劇的に改善したため",
-      "受給改善を背景にチャートが上放れていく強いパターンを形成しているため"
-     ],
-     "timestamp": "55:37",
-     "confidence": "medium"
+     "timestamp": "05:16",
+     "confidence": "high"
     },
     {
      "name": "任天堂",
@@ -93,42 +55,57 @@
      "ticker": "7974",
      "market": "JP",
      "stance": "bullish",
-     "stance_note": "ゼルダ効果とゴールデンクロス形成で好調",
+     "stance_note": "ゼルダ大ヒットと年末商戦に向け期待",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "ゼルダの伝説などの好影響で海外を中心に週間売上高が最高水準を記録したため",
-      "75日移動平均線と200日移動平均線のゴールデンクロス形成が見込まれるため",
-      "信用買い残が整理されて売りが増加するなど受給バランスが良好であるため"
+      "「ゼルダ」リメイク作品が発売4日間で520万本を販売する大ヒットとなり、Switch2本体の牽引や業績上方修正への期待が高まる。",
+      "低い株価水準で買えている場合は中長期でバイアンドホールドに適しており、年末のクリスマス商戦に向けた再上昇が期待できる。"
      ],
-     "timestamp": "20:43",
+     "timestamp": "08:56",
+     "confidence": "high"
+    },
+    {
+     "name": "JX金属",
+     "name_en": "JX Advanced Metals Corporation",
+     "ticker": "5016",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "自律反発が入るも本格改善には至らず",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "フィボナッチのレッドゾーン付近まで下落した後に瞬間的なリバウンドが入っているが、本格的な需給改善には至っていない。",
+      "移動平均線のデッドクロス形成後の下落傾向であり、年末にかけてV字回復ではなくボリンジャーバンド中央線以下での揉み合いを想定。"
+     ],
+     "timestamp": "24:41",
      "confidence": "medium"
     },
     {
-     "name": "ソニーグループ",
-     "name_en": "SONY GROUP CORPORATION",
-     "ticker": "6758",
+     "name": "住友不動産",
+     "name_en": "Sumitomo Realty & Development Co., Ltd.",
+     "ticker": "8830",
      "market": "JP",
      "stance": "bullish",
-     "stance_note": "受給改善とエンタメ株の底堅さから好好感",
+     "stance_note": "ダイバージェンスとGCで初動サイン",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "信用売りが増加して倍率が低下し受給バランスの改善が進んでいるため",
-      "相場全体が波乱含みのなかでもエンタメ関連株として底堅く推移しているため",
-      "受給の良さを背景にジリジリと下値を切り上げていく展開が期待できるため"
+      "株価下落に対しRSIやMACDの下値が切り上がる逆ダイバージェンスが発生し、テクニカル的な初動の上昇サインが出ている。",
+      "5日線と25日線のゴールデンクロス形成とともにボリンジャーバンド中央線を上抜ける鉄板の初動上昇パターンを示している。"
      ],
-     "timestamp": "58:45",
-     "confidence": "medium"
+     "timestamp": "35:15",
+     "confidence": "high"
     }
    ]
   },
   {
-   "video_id": "wylKhc5OraE",
-   "title": "11/9【日本株に違和感。半導体株投げ売り加速か‼】日経平均1300円高なのにキオクシア下落。バリュー株に資金シフト。明日後場寄り警戒。ドル円157円。米国株、ナスダック、ハイテク株弱。仮想通貨上",
-   "published": "2026-11-09T14:13:40+00:00",
+   "video_id": "Nq31eUW_QzQ",
+   "title": "11/11【日本株、半導体株また騙し上げか⁉】信用買い激減で日経平均789円高。ソフトバンクGも急反発。ドル円158円。CPI通過で金利急騰。米国株、ナスダック、ハイテク株乱高下か。仮想通貨BTC弱",
+   "published": "2026-11-11T09:15:01+00:00",
    "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
    "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
    "channel_name": "Sho's投資情報局",
@@ -136,127 +113,73 @@
    "slot": 3,
    "no_transcript": false,
    "skip_reason": "",
-   "overview": "日経平均が大幅高となる中で14時以降に半導体株や古河電気工業の投げ売り・乱高下が起きた違和感について解説しています。需給の重い銘柄や半導体株への買いは避け、需給が軽く上昇トレンド(バンドウォーク)を維持しているバリュー株を優先する姿勢を強調。年末に向けた二極化相場を想定し、キャッシュ比率を調整しながら押し目を慎重に見極める投資戦略を伝えています。",
-   "market_view": "年末にかけて日経合計の信用倍率が高止まりしているため二極化相場になりやすく、需給の軽い銘柄が買われる一方で需給の重い銘柄は下落しやすい傾向があります。",
+   "overview": "日経平均株価の自立反発や半導体株の短期急騰について解説し、信用買い残の高止まりや空売り不足の需給面から騙し上げ(ブルートラップ)の可能性を指摘している。2018年の相場展開との類似点を提示し、12月の利上げ懸念や損益通算売りに備えた慎重な投資姿勢と、需給の良い銘柄への選択的投資の重要性を説いている。",
+   "market_view": "日経平均は短期的な自立反発の局面にあるが、市場全体の空売り不足と高水準の信用買い残が重荷となっており、年末に向けた戻り売りや損益通算売りに警戒が必要な状況である。",
    "market": "JP",
    "picks": [
     {
-     "name": "キオクシアホールディングス",
-     "name_en": "Kioxia Holdings",
-     "ticker": "285A",
+     "name": "日経平均株価",
+     "name_en": "Nikkei 225",
+     "ticker": "",
      "market": "JP",
-     "stance": "bearish",
-     "stance_note": "需給が重く年末まで軟調な動きが続く見込み",
+     "stance": "neutral",
+     "stance_note": "短期自立反発も戻り売りを警戒",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "信用買い残が多く需給が依然として重い状況が続いており2.46%下落したため。",
-      "年末にかけて上がっては下がるを繰り返す軟調な値動きが続くと想定されるため。"
+      "ボリンジャーバンドの下限から剥がれて短期的自立反発が入るが空売りが枯渇しており持続的な上昇には疑問が残るため。",
+      "信用買い残が高水準で評価損益率も悪化しており戻り高値での売り圧力や年末の損益通算売りに警戒が必要な状況であるため。"
      ],
-     "timestamp": "03:29",
+     "timestamp": "00:00",
      "confidence": "high"
     },
     {
-     "name": "トヨタ自動車",
-     "name_en": "Toyota Motor",
-     "ticker": "7203",
+     "name": "ソフトバンクグループ",
+     "name_en": "SoftBank Group Corp.",
+     "ticker": "9984",
      "market": "JP",
-     "stance": "bullish",
-     "stance_note": "強力なバンドウォーク継続で上昇傾向維持",
+     "stance": "neutral",
+     "stance_note": "決算発表後のショートカバーで乱高下",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "ボリンジャーバンドのプラス2シグマに沿って上昇するバンドウォークが継続しているため。",
-      "決算通過後もチャート形状が強く、移動平均線のゴールデンクロス形成が期待できるため。"
+      "決算発表後に10%程度下落した後にショートカバーを巻き込んで急反発する動きを見せるもボラティリティが高い状態なため。"
      ],
-     "timestamp": "06:43",
+     "timestamp": "10:35",
      "confidence": "medium"
     },
     {
-     "name": "オリエンタルランド",
-     "name_en": "Oriental Land",
-     "ticker": "4661",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "信用倍率0.36倍で需給良好かつバンドウォーク",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "信用倍率が0.36倍と売り残が多く、踏み上げが入りやすい良好な需給環境であるため。",
-      "株価がボリンジャーバンドの上限に沿って順調に上昇するバンドウォークを形成しているため。"
-     ],
-     "timestamp": "15:54",
-     "confidence": "medium"
-    },
-    {
-     "name": "第一三共",
-     "name_en": "Daiichi Sankyo",
-     "ticker": "4568",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "200日線と長期線のゴールデンクロス間近",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "200日移動平均線と長期移動平均線がゴールデンクロスを形成しそうな良いチャート形状なため。",
-      "底値からの切り返しが見られ、テクニカル面で上昇転換の兆候が出始めているため。"
-     ],
-     "timestamp": "33:51",
-     "confidence": "medium"
-    },
-    {
-     "name": "積水ハウス",
-     "name_en": "Sekisui House",
-     "ticker": "1928",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "高配当かつ信用買いが減少し需給良好",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "配当利回りが4.06%と高く、バリュエーション面で魅力的な水準にあるため。",
-      "信用買い残が大幅に減少しており、信用倍率0.43倍と需給関係が悪くないため。"
-     ],
-     "timestamp": "40:58",
-     "confidence": "medium"
-    },
-    {
-     "name": "NEC",
-     "name_en": "NEC",
-     "ticker": "6701",
+     "name": "東京エレクトロン",
+     "name_en": "Tokyo Electron Limited",
+     "ticker": "8035",
      "market": "JP",
      "stance": "bearish",
-     "stance_note": "下落方向へのバンドウォーク継続で警戒",
+     "stance_note": "戻り高値でのブルートラップに警戒",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "NTTによる保有株売却のニュースがあり、株主構造の変化や需給悪化が懸念されるため。",
-      "ボリンジャーバンドの上の青ラインから剥がれず下落方向へのバンドウォークが続いているため。"
+      "11月の戻しはブルートラップの可能性が高く6月高値からの半年期日売りや12月の損益通算売りの重なる展開が懸念されるため。"
      ],
-     "timestamp": "44:30",
+     "timestamp": "30:45",
      "confidence": "medium"
     },
     {
-     "name": "SCREENホールディングス",
-     "name_en": "SCREEN Holdings",
-     "ticker": "7735",
+     "name": "キオクシア",
+     "name_en": "Kioxia Holdings Corporation",
+     "ticker": "285A",
      "market": "JP",
      "stance": "bearish",
-     "stance_note": "デッドクロス形成の懸念がありチャート悪化",
+     "stance_note": "含み損を抱えた個人の売り圧力に注意",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "25日移動平均線と200日移動平均線のデッドクロスが形成されそうな悪いチャート形状なため。",
-      "戻りを試してもダブルボトムを形成しに行く可能性が高く、年末に向けV字回復しにくいため。"
+      "直近1週間の購入者以外は含み損を抱えている状況であり上値での戻り売りや年末に向けた投げ売りが出やすい受給環境なため。"
      ],
-     "timestamp": "50:03",
+     "timestamp": "33:36",
      "confidence": "medium"
     }
    ]
