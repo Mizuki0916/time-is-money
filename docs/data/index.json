@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T08:33:43.006060+09:00",
+ "generated_at": "2026-11-11T09:05:04.762522+09:00",
  "channels": [
   {
    "id": "UCsaeHha7ai_NNX8or8Jyb-g",
@@ -35,10 +35,10 @@
   }
  ],
  "stats": {
-  "stocks": 27,
+  "stocks": 24,
   "videos": 8,
-  "videos_this_week": 6,
-  "bullish_lead": 11,
+  "videos_this_week": 7,
+  "bullish_lead": 8,
   "split": 0,
   "skipped": 0
  },
@@ -140,21 +140,20 @@
      "channel_name": "Trader's Lab",
      "channel_short": "TL",
      "slot": 1,
-     "video_id": "B6bDwU2HOvE",
-     "video_title": "【日経平均】 中間選挙前嵐の前の静けさかそれとも暴落のきっかけか サンディスク・キオクシア・インテル・マイクロンテクノロジー・オンコリスバイオ",
-     "published": "2026-11-02T11:29:06+00:00",
+     "video_id": "wLyMtqonF7o",
+     "video_title": "【日経平均】 ついに崩落 底打ちはまだ先？セリクラはこれから サンディスク・キオクシア・太陽誘電・JT",
+     "published": "2026-11-06T11:06:34+00:00",
      "stance": "bearish",
-     "stance_note": "決算失望感と安値更新で下落トレンド継続",
+     "stance_note": "需給と地合いが悪く中長期の買いは不可",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "12月期の最終利益予想が前四半期比で伸び悩む内容となり、失望感から15%を超える大幅下落となったこと。",
-      "直近安値を割り込んだことで高値・安値の切り下げが確定し、テクニカル的に下落トレンドが継続していること。",
-      "信用買い残が約5180万株と高水準に積み上がっており、個人の含み損拡大による需給悪化が懸念されること。"
+      "半導体メモリー関連指数の下落に伴い急落しており、明確な下落のN波動を形成しているため。",
+      "JPモルガンによる空売りが1400万株以上入っており、需給面やテクニカル面で厳しい状況なため。"
      ],
-     "timestamp": "23:38",
-     "seconds": 1418,
+     "timestamp": "28:57",
+     "seconds": 1737,
      "confidence": "high"
     }
    ],
@@ -233,16 +232,37 @@
     "market_open": false,
     "symbol": "285A.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-10T23:33:43.080417+00:00"
+    "fetched_at": "2026-11-11T00:05:04.851821+00:00"
    }
   },
   {
    "key": "JP:2914",
-   "name": "JT",
+   "name": "日本たばこ産業",
    "name_en": "Japan Tobacco Inc.",
    "ticker": "2914",
    "market": "JP",
    "mentions": [
+    {
+     "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+     "channel_name": "トレーダーTOMO",
+     "channel_short": "TOMO",
+     "slot": 2,
+     "video_id": "wqrVYVc7Tvs",
+     "video_title": "フジクラ（5803）決算発表！株式テクニカルチャート分析",
+     "published": "2026-11-10T07:25:40+00:00",
+     "stance": "neutral",
+     "stance_note": "悪材料織り込みも強気買い上がりは難し",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "2連ストップ安後に買い圧力が強く万弱な板で上昇したものの減損処理や減配織り込みが進んだ段階である点。",
+      "今後の会社からのガイダンス次第でありここから強気で上値を追う展開にはなりにくく注意が必要な点。"
+     ],
+     "timestamp": "04:30",
+     "seconds": 270,
+     "confidence": "medium"
+    },
     {
      "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
      "channel_name": "Trader's Lab",
@@ -286,35 +306,35 @@
      "confidence": "high"
     },
     {
-     "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-     "channel_name": "トレーダーTOMO",
-     "channel_short": "TOMO",
-     "slot": 2,
-     "video_id": "HAreTqxnDu4",
-     "video_title": "日経平均株価の終値3643円安、下げ幅歴代3位で長期保有株が崩壊しました💦半導体でやられるのかと思いきや下落トップはJTとかクソクソクソプーチ×××おそロシア",
-     "published": "2026-11-06T07:42:50+00:00",
-     "stance": "bearish",
-     "stance_note": "減配懸念による下落を見越し5000円付近の押し目を監視",
-     "target_price": "5000円",
+     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+     "channel_name": "Trader's Lab",
+     "channel_short": "TL",
+     "slot": 1,
+     "video_id": "wLyMtqonF7o",
+     "video_title": "【日経平均】 ついに崩落 底打ちはまだ先？セリクラはこれから サンディスク・キオクシア・太陽誘電・JT",
+     "published": "2026-11-06T11:06:34+00:00",
+     "stance": "neutral",
+     "stance_note": "ロシア事業不透明感による急落で深追い警戒",
+     "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "ロシア法人一次管理化により経営権を失うリスクがあり、同国での高収益構造が崩れて減損処理等の懸念があるため。",
-      "EPS減少に伴う自動減配の可能性が高く、配当利回り4%水準となる5000円程度までの下落が意識されるため。"
+      "ロシア現地法人の一部が一時管理対象となったニュースを受け、事業の不透明感からストップ安まで売り込まれたため。",
+      "含み損を抱える売り圧力が強いため、ストップ安連発で4000円台まで大幅調整しないと中長期では買いにくいため。"
      ],
-     "timestamp": "05:50",
-     "seconds": 350,
+     "timestamp": "35:22",
+     "seconds": 2122,
      "confidence": "high"
     }
    ],
    "consensus": {
     "bullish": 0,
-    "bearish": 2,
-    "neutral": 1
+    "bearish": 1,
+    "neutral": 2
    },
    "voices": 3,
    "split": false,
-   "last_mentioned": "2026-11-09T11:00:01+00:00",
+   "last_mentioned": "2026-11-10T07:25:40+00:00",
    "channel_ids": [
     "UCdQdRRLoajrt-5TEaAxslxA",
     "UCsaeHha7ai_NNX8or8Jyb-g",
@@ -382,7 +402,7 @@
     "market_open": false,
     "symbol": "2914.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-10T23:33:43.080417+00:00"
+    "fetched_at": "2026-11-11T00:05:04.851821+00:00"
    }
   },
   {
@@ -509,7 +529,7 @@
     "market_open": false,
     "symbol": "6758.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-10T23:33:43.080417+00:00"
+    "fetched_at": "2026-11-11T00:05:04.851821+00:00"
    }
   },
   {
@@ -538,6 +558,28 @@
      ],
      "timestamp": "00:00",
      "seconds": 0,
+     "confidence": "high"
+    },
+    {
+     "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+     "channel_name": "トレーダーTOMO",
+     "channel_short": "TOMO",
+     "slot": 2,
+     "video_id": "wqrVYVc7Tvs",
+     "video_title": "フジクラ（5803）決算発表！株式テクニカルチャート分析",
+     "published": "2026-11-10T07:25:40+00:00",
+     "stance": "neutral",
+     "stance_note": "為替要因の下方修正だが3000円支持線",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "情報通信事業が成長を牽引し上期過去最高益を更新するなどデータセンター向け光ファイバー需要は好調な点。",
+      "想定為替レートの変更による1%の下方修正や過去のコロコロ変わる決算発表姿勢から長期保有のしづらさがある点。",
+      "株価3000円のラインが支持線として機能しており需給悪化に注意しつつ上値を狙うトレード戦略が取れる点。"
+     ],
+     "timestamp": "05:24",
+     "seconds": 324,
      "confidence": "high"
     }
    ],
@@ -614,7 +656,7 @@
     "market_open": false,
     "symbol": "5803.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-10T23:33:43.080417+00:00"
+    "fetched_at": "2026-11-11T00:05:04.851821+00:00"
    }
   },
   {
@@ -720,7 +762,7 @@
     "market_open": false,
     "symbol": "9984.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-10T23:33:43.080417+00:00"
+    "fetched_at": "2026-11-11T00:05:04.851821+00:00"
    }
   },
   {
@@ -826,7 +868,7 @@
     "market_open": false,
     "symbol": "6857.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-10T23:33:43.080417+00:00"
+    "fetched_at": "2026-11-11T00:05:04.851821+00:00"
    }
   },
   {
@@ -953,7 +995,7 @@
     "market_open": false,
     "symbol": "7203.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-10T23:33:43.080417+00:00"
+    "fetched_at": "2026-11-11T00:05:04.851821+00:00"
    }
   },
   {
@@ -1059,7 +1101,7 @@
     "market_open": false,
     "symbol": "7974.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-10T23:33:43.080417+00:00"
+    "fetched_at": "2026-11-11T00:05:04.851821+00:00"
    }
   },
   {
@@ -1164,7 +1206,7 @@
     "market_open": false,
     "symbol": "4661.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-10T23:33:43.080417+00:00"
+    "fetched_at": "2026-11-11T00:05:04.851821+00:00"
    }
   },
   {
@@ -1269,7 +1311,7 @@
     "market_open": false,
     "symbol": "4568.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-10T23:33:43.080417+00:00"
+    "fetched_at": "2026-11-11T00:05:04.851821+00:00"
    }
   },
   {
@@ -1374,7 +1416,7 @@
     "market_open": false,
     "symbol": "1928.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-10T23:33:43.080417+00:00"
+    "fetched_at": "2026-11-11T00:05:04.851821+00:00"
    }
   },
   {
@@ -1479,7 +1521,7 @@
     "market_open": false,
     "symbol": "6701.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-10T23:33:43.080417+00:00"
+    "fetched_at": "2026-11-11T00:05:04.851821+00:00"
    }
   },
   {
@@ -1584,7 +1626,7 @@
     "market_open": false,
     "symbol": "7735.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-10T23:33:43.080417+00:00"
+    "fetched_at": "2026-11-11T00:05:04.851821+00:00"
    }
   },
   {
@@ -1620,20 +1662,20 @@
      "channel_name": "Trader's Lab",
      "channel_short": "TL",
      "slot": 1,
-     "video_id": "B6bDwU2HOvE",
-     "video_title": "【日経平均】 中間選挙前嵐の前の静けさかそれとも暴落のきっかけか サンディスク・キオクシア・インテル・マイクロンテクノロジー・オンコリスバイオ",
-     "published": "2026-11-02T11:29:06+00:00",
+     "video_id": "wLyMtqonF7o",
+     "video_title": "【日経平均】 ついに崩落 底打ちはまだ先？セリクラはこれから サンディスク・キオクシア・太陽誘電・JT",
+     "published": "2026-11-06T11:06:34+00:00",
      "stance": "bearish",
-     "stance_note": "自立反発にとどまり調整トレンド継続",
+     "stance_note": "調整局面入りで5万円台への下落を警戒",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "週明けの上昇は売られすぎからの自立反発に過ぎず、チャートのトレンド自体は明確な調整入りを示していること。",
-      "日足・週足ともにマイナス1シグマに沿ったバンドウォークの兆候があり、戻りの上値が重い展開となっていること。"
+      "7月安値を割り込んで高値・安値を切り下げる下落N波動が確定し、明確な調整局面へ入ったため。",
+      "セリングクライマックスの途上にあり、PER13倍水準である5万円から5万2000円付近までの下落リスクがあるため。"
      ],
-     "timestamp": "07:30",
-     "seconds": 450,
+     "timestamp": "03:02",
+     "seconds": 182,
      "confidence": "high"
     }
    ],
@@ -1710,7 +1752,7 @@
     "market_open": false,
     "symbol": "^N225",
     "source": "yahoo",
-    "fetched_at": "2026-11-10T23:33:43.080417+00:00"
+    "fetched_at": "2026-11-11T00:05:04.851821+00:00"
    }
   },
   {
@@ -1815,7 +1857,7 @@
     "market_open": false,
     "symbol": "5801.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-10T23:33:43.080417+00:00"
+    "fetched_at": "2026-11-11T00:05:04.851821+00:00"
    }
   },
   {
@@ -2127,7 +2169,7 @@
     "market_open": false,
     "symbol": "8058.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-10T23:33:43.080417+00:00"
+    "fetched_at": "2026-11-11T00:05:04.851821+00:00"
    }
   },
   {
@@ -2231,7 +2273,7 @@
     "market_open": false,
     "symbol": "8031.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-10T23:33:43.080417+00:00"
+    "fetched_at": "2026-11-11T00:05:04.851821+00:00"
    }
   },
   {
@@ -2335,7 +2377,7 @@
     "market_open": false,
     "symbol": "7011.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-10T23:33:43.080417+00:00"
+    "fetched_at": "2026-11-11T00:05:04.851821+00:00"
    }
   },
   {
@@ -2461,7 +2503,7 @@
     "market_open": false,
     "symbol": "4684.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-10T23:33:43.080417+00:00"
+    "fetched_at": "2026-11-11T00:05:04.851821+00:00"
    }
   },
   {
@@ -2505,216 +2547,6 @@
    ]
   },
   {
-   "key": "JP:6976",
-   "name": "太陽誘電",
-   "name_en": "Taiyo Yuden Co., Ltd.",
-   "ticker": "6976",
-   "market": "JP",
-   "mentions": [
-    {
-     "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-     "channel_name": "トレーダーTOMO",
-     "channel_short": "TOMO",
-     "slot": 2,
-     "video_id": "HAreTqxnDu4",
-     "video_title": "日経平均株価の終値3643円安、下げ幅歴代3位で長期保有株が崩壊しました💦半導体でやられるのかと思いきや下落トップはJTとかクソクソクソプーチ×××おそロシア",
-     "published": "2026-11-06T07:42:50+00:00",
-     "stance": "bullish",
-     "stance_note": "好決算と需給改善を背景に優先的に狙いたい銘柄",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "AIサーバーや自動車向けコンデンサーが好調で通期業績予想を大幅情報修正し、BBレシオも1.83まで上昇しているため。",
-      "全体相場の地合い悪化によるギャップダウンスタートから場中に大幅買い戻され、プラマイゼロ付近まで戻す強さを示したため。"
-     ],
-     "timestamp": "07:45",
-     "seconds": 465,
-     "confidence": "high"
-    }
-   ],
-   "consensus": {
-    "bullish": 1,
-    "bearish": 0,
-    "neutral": 0
-   },
-   "voices": 1,
-   "split": false,
-   "last_mentioned": "2026-11-06T07:42:50+00:00",
-   "channel_ids": [
-    "UCdQdRRLoajrt-5TEaAxslxA"
-   ],
-   "price": {
-    "date": "2026-11-10",
-    "close": 6966.0,
-    "change_pct": 4.74,
-    "live": null,
-    "live_change_pct": null,
-    "live_time": null,
-    "volume": 24517500,
-    "volume_ratio": 0.81,
-    "rsi14": 33.5,
-    "rsi_zone": "中立",
-    "ma25": 9143.48,
-    "ma75": 9573.8,
-    "trend": "下降基調",
-    "pos52": 20,
-    "spark": [
-     8972.0,
-     9403.0,
-     9209.0,
-     8714.0,
-     9197.0,
-     9364.0,
-     9000.0,
-     9375.0,
-     8935.0,
-     9160.0,
-     9093.0,
-     9117.0,
-     9324.0,
-     10100.0,
-     10095.0,
-     10490.0,
-     11135.0,
-     11460.0,
-     10955.0,
-     11135.0,
-     10590.0,
-     10970.0,
-     9864.0,
-     10070.0,
-     9582.0,
-     9095.0,
-     9253.0,
-     8700.0,
-     8364.0,
-     8572.0,
-     8587.0,
-     9200.0,
-     9231.0,
-     8553.0,
-     8300.0,
-     7610.0,
-     6580.0,
-     6674.0,
-     6651.0,
-     6966.0
-    ],
-    "currency": "JPY",
-    "exchange_name": "Tokyo",
-    "market_open": false,
-    "symbol": "6976.T",
-    "source": "yahoo",
-    "fetched_at": "2026-11-10T23:33:43.080417+00:00"
-   }
-  },
-  {
-   "key": "JP:3110",
-   "name": "日東紡績",
-   "name_en": "Nitto Boseki Co., Ltd.",
-   "ticker": "3110",
-   "market": "JP",
-   "mentions": [
-    {
-     "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-     "channel_name": "トレーダーTOMO",
-     "channel_short": "TOMO",
-     "slot": 2,
-     "video_id": "HAreTqxnDu4",
-     "video_title": "日経平均株価の終値3643円安、下げ幅歴代3位で長期保有株が崩壊しました💦半導体でやられるのかと思いきや下落トップはJTとかクソクソクソプーチ×××おそロシア",
-     "published": "2026-11-06T07:42:50+00:00",
-     "stance": "bullish",
-     "stance_note": "価格改定と好決算を評価し3000円手前への上昇を期待",
-     "target_price": "3000円手前",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "スペシャルガラスの販売好調と価格改定が寄与し、通期経常利益予想を13%上方修正してコンセンサスを上振れたため。",
-      "地合い悪化で安くスタートしたものの買戻しが入ってプラテン引けし、3000円手前までの上昇可能性が期待できるため。"
-     ],
-     "timestamp": "10:41",
-     "seconds": 641,
-     "confidence": "high"
-    }
-   ],
-   "consensus": {
-    "bullish": 1,
-    "bearish": 0,
-    "neutral": 0
-   },
-   "voices": 1,
-   "split": false,
-   "last_mentioned": "2026-11-06T07:42:50+00:00",
-   "channel_ids": [
-    "UCdQdRRLoajrt-5TEaAxslxA"
-   ],
-   "price": {
-    "date": "2026-11-10",
-    "close": 2702.5,
-    "change_pct": 8.99,
-    "live": null,
-    "live_change_pct": null,
-    "live_time": null,
-    "volume": 6798600,
-    "volume_ratio": 1.21,
-    "rsi14": 44.6,
-    "rsi_zone": "中立",
-    "ma25": 2993.5,
-    "ma75": 3025.07,
-    "trend": "下降基調",
-    "pos52": 15,
-    "spark": [
-     3065.0,
-     2955.0,
-     2835.0,
-     2851.0,
-     2884.0,
-     2899.0,
-     2876.0,
-     3080.0,
-     3010.0,
-     2980.0,
-     3100.0,
-     3040.0,
-     3210.0,
-     3335.0,
-     3370.0,
-     3360.0,
-     3640.0,
-     3675.0,
-     3525.0,
-     3415.0,
-     3300.0,
-     3220.0,
-     2916.0,
-     2989.0,
-     3005.0,
-     2912.0,
-     3040.0,
-     2961.0,
-     2867.0,
-     2794.0,
-     2942.0,
-     3025.0,
-     3050.0,
-     2814.5,
-     2825.5,
-     2659.0,
-     2321.0,
-     2399.5,
-     2479.5,
-     2702.5
-    ],
-    "currency": "JPY",
-    "exchange_name": "Tokyo",
-    "market_open": false,
-    "symbol": "3110.T",
-    "source": "yahoo",
-    "fetched_at": "2026-11-10T23:33:43.080417+00:00"
-   }
-  },
-  {
    "key": "NAME:サンディスク",
    "name": "サンディスク",
    "name_en": "SanDisk",
@@ -2726,20 +2558,20 @@
      "channel_name": "Trader's Lab",
      "channel_short": "TL",
      "slot": 1,
-     "video_id": "B6bDwU2HOvE",
-     "video_title": "【日経平均】 中間選挙前嵐の前の静けさかそれとも暴落のきっかけか サンディスク・キオクシア・インテル・マイクロンテクノロジー・オンコリスバイオ",
-     "published": "2026-11-02T11:29:06+00:00",
+     "video_id": "wLyMtqonF7o",
+     "video_title": "【日経平均】 ついに崩落 底打ちはまだ先？セリクラはこれから サンディスク・キオクシア・太陽誘電・JT",
+     "published": "2026-11-06T11:06:34+00:00",
      "stance": "bearish",
-     "stance_note": "主要移動平均線を下回り安値水準が視野",
+     "stance_note": "バブル崩壊の動きで適正水準まで下落警戒",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "25日線と75日線がデッドクロスし200日線も下回るなど、7月末安値が視野に入る厳しいチャート形状なこと。",
-      "半年近く上値が重い展開が続いており、直近の価格帯で買っている投資家層の含み損が投げ売りを呼ぶ状況なこと。"
+      "1年間で急上昇した半導体メモリー関連のバブル化が崩壊し、天井をつけて本来の適正位置へ下落中なため。",
+      "チャート形状は下落のN波動を形成しており、過去の安値水準である500ドル付近まで調整する可能性があるため。"
      ],
-     "timestamp": "30:16",
-     "seconds": 1816,
+     "timestamp": "31:07",
+     "seconds": 1867,
      "confidence": "medium"
     }
    ],
@@ -2750,7 +2582,7 @@
    },
    "voices": 1,
    "split": false,
-   "last_mentioned": "2026-11-02T11:29:06+00:00",
+   "last_mentioned": "2026-11-06T11:06:34+00:00",
    "channel_ids": [
     "UCsaeHha7ai_NNX8or8Jyb-g"
    ],
@@ -2820,10 +2652,10 @@
    }
   },
   {
-   "key": "JP:4062",
-   "name": "イビデン",
-   "name_en": "Ibiden Co., Ltd.",
-   "ticker": "4062",
+   "key": "JP:6976",
+   "name": "太陽誘電",
+   "name_en": "Taiyo Yuden Co., Ltd.",
+   "ticker": "6976",
    "market": "JP",
    "mentions": [
     {
@@ -2831,202 +2663,97 @@
      "channel_name": "Trader's Lab",
      "channel_short": "TL",
      "slot": 1,
-     "video_id": "B6bDwU2HOvE",
-     "video_title": "【日経平均】 中間選挙前嵐の前の静けさかそれとも暴落のきっかけか サンディスク・キオクシア・インテル・マイクロンテクノロジー・オンコリスバイオ",
-     "published": "2026-11-02T11:29:06+00:00",
-     "stance": "bearish",
-     "stance_note": "日経平均より深い調整局面が進行",
+     "video_id": "wLyMtqonF7o",
+     "video_title": "【日経平均】 ついに崩落 底打ちはまだ先？セリクラはこれから サンディスク・キオクシア・太陽誘電・JT",
+     "published": "2026-11-06T11:06:34+00:00",
+     "stance": "neutral",
+     "stance_note": "好決算で自立反発も上値が重いチャート形状",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "ストップ安を交えて下落し直近安値を割り込んでおり、日経平均よりも深い調整局面に入っていること。",
-      "週足ではデッドクロス直前の形状となっており、200日線などのサポートを維持できるか瀬戸際であること。"
+      "業績予想の上方修正を発表して決算自体は好調だったものの、全体の地合い悪化に押され上昇幅が限定されたため。",
+      "過去の高値圏でのシコリ玉が多く上値が極めて重いチャートパターンであり、短期トレード向きな状態なため。"
      ],
-     "timestamp": "31:34",
-     "seconds": 1894,
+     "timestamp": "32:56",
+     "seconds": 1976,
      "confidence": "high"
     }
    ],
    "consensus": {
     "bullish": 0,
-    "bearish": 1,
-    "neutral": 0
-   },
-   "voices": 1,
-   "split": false,
-   "last_mentioned": "2026-11-02T11:29:06+00:00",
-   "channel_ids": [
-    "UCsaeHha7ai_NNX8or8Jyb-g"
-   ],
-   "price": {
-    "date": "2026-11-10",
-    "close": 6418.0,
-    "change_pct": 8.19,
-    "live": null,
-    "live_change_pct": null,
-    "live_time": null,
-    "volume": 17164800,
-    "volume_ratio": 0.94,
-    "rsi14": 32.3,
-    "rsi_zone": "中立",
-    "ma25": 9280.84,
-    "ma75": 9634.91,
-    "trend": "下降基調",
-    "pos52": 35,
-    "spark": [
-     10710.0,
-     10340.0,
-     9780.0,
-     9570.0,
-     9557.5,
-     9475.0,
-     9237.5,
-     9777.5,
-     11202.5,
-     11672.5,
-     11155.0,
-     11020.0,
-     11030.0,
-     11995.0,
-     12100.0,
-     12265.0,
-     12400.0,
-     12270.0,
-     11810.0,
-     11515.0,
-     10620.0,
-     10495.0,
-     9213.0,
-     9764.0,
-     9506.0,
-     9167.0,
-     9500.0,
-     8598.0,
-     8512.0,
-     8248.0,
-     8952.0,
-     9663.0,
-     9859.0,
-     8359.0,
-     8045.0,
-     8037.0,
-     6726.0,
-     6147.0,
-     5932.0,
-     6418.0
-    ],
-    "currency": "JPY",
-    "exchange_name": "Tokyo",
-    "market_open": false,
-    "symbol": "4062.T",
-    "source": "yahoo",
-    "fetched_at": "2026-11-10T23:33:43.080417+00:00"
-   }
-  },
-  {
-   "key": "JP:4588",
-   "name": "オンコリスバイオファーマ",
-   "name_en": "Oncolys BioPharma Inc.",
-   "ticker": "4588",
-   "market": "JP",
-   "mentions": [
-    {
-     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-     "channel_name": "Trader's Lab",
-     "channel_short": "TL",
-     "slot": 1,
-     "video_id": "B6bDwU2HOvE",
-     "video_title": "【日経平均】 中間選挙前嵐の前の静けさかそれとも暴落のきっかけか サンディスク・キオクシア・インテル・マイクロンテクノロジー・オンコリスバイオ",
-     "published": "2026-11-02T11:29:06+00:00",
-     "stance": "bullish",
-     "stance_note": "強烈なバンドウォークで最高値更新",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "月足・週足ともに強烈なバンドウォークを形成しており、ザラバで市場最高値を更新する極めて強い動きなこと。",
-      "直近で空売りが多めに入っている需給要因や、11月6日に控える決算発表への期待感などが支えとなっていること。"
-     ],
-     "timestamp": "33:16",
-     "seconds": 1996,
-     "confidence": "high"
-    }
-   ],
-   "consensus": {
-    "bullish": 1,
     "bearish": 0,
-    "neutral": 0
+    "neutral": 1
    },
    "voices": 1,
    "split": false,
-   "last_mentioned": "2026-11-02T11:29:06+00:00",
+   "last_mentioned": "2026-11-06T11:06:34+00:00",
    "channel_ids": [
     "UCsaeHha7ai_NNX8or8Jyb-g"
    ],
    "price": {
     "date": "2026-11-10",
-    "close": 7510.0,
-    "change_pct": 5.77,
+    "close": 6966.0,
+    "change_pct": 4.74,
     "live": null,
     "live_change_pct": null,
     "live_time": null,
-    "volume": 1325500,
-    "volume_ratio": 0.8,
-    "rsi14": 59.5,
+    "volume": 24517500,
+    "volume_ratio": 0.81,
+    "rsi14": 33.5,
     "rsi_zone": "中立",
-    "ma25": 6505.2,
-    "ma75": 4956.75,
-    "trend": "上昇基調",
-    "pos52": 89,
+    "ma25": 9143.48,
+    "ma75": 9573.8,
+    "trend": "下降基調",
+    "pos52": 20,
     "spark": [
-     5630.0,
-     5790.0,
-     5740.0,
-     6160.0,
-     6390.0,
-     5800.0,
-     6300.0,
-     6770.0,
-     5990.0,
-     6280.0,
-     5700.0,
-     5630.0,
-     5930.0,
-     6050.0,
-     5980.0,
-     6490.0,
-     6830.0,
-     6350.0,
-     6170.0,
-     5970.0,
-     5750.0,
-     5400.0,
-     5010.0,
-     5180.0,
-     5160.0,
-     5190.0,
-     5690.0,
-     5600.0,
-     5930.0,
-     6300.0,
-     6980.0,
-     7900.0,
-     7400.0,
-     7560.0,
-     7910.0,
+     8972.0,
+     9403.0,
+     9209.0,
+     8714.0,
+     9197.0,
+     9364.0,
+     9000.0,
+     9375.0,
+     8935.0,
+     9160.0,
+     9093.0,
+     9117.0,
+     9324.0,
+     10100.0,
+     10095.0,
+     10490.0,
+     11135.0,
+     11460.0,
+     10955.0,
+     11135.0,
+     10590.0,
+     10970.0,
+     9864.0,
+     10070.0,
+     9582.0,
+     9095.0,
+     9253.0,
+     8700.0,
+     8364.0,
+     8572.0,
+     8587.0,
+     9200.0,
+     9231.0,
+     8553.0,
      8300.0,
-     7550.0,
-     7400.0,
-     7100.0,
-     7510.0
+     7610.0,
+     6580.0,
+     6674.0,
+     6651.0,
+     6966.0
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
     "market_open": false,
-    "symbol": "4588.T",
+    "symbol": "6976.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-10T23:33:43.080417+00:00"
+    "fetched_at": "2026-11-11T00:05:04.851821+00:00"
    }
   }
  ]
