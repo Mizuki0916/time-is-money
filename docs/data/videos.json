@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T06:48:07.732560+09:00",
+ "generated_at": "2026-11-13T07:02:58.978757+09:00",
  "videos": [
   {
    "video_id": "H4SgGtNcPFg",
@@ -106,6 +106,122 @@
    ]
   },
   {
+   "video_id": "IBx0Sge4DEs",
+   "title": "NVIDIAショック？今日の活況銘柄を見てみる！（キオクシア・イビデン・太陽誘電・村田製作所・ソフトバンクグループなど）株式テクニカルチャート分析",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-11-12T07:47:53+00:00",
+   "overview": "NVIDIAのCEOに関する報道を受けて半導体やAI関連株を中心に後場から地合いが大きく崩れ、日経平均は429円安となりました。動画では活況銘柄であるキオクシア、太陽誘電、イビデン、古河電工、ソフトバンクグループ、フジクラ、村田製作所、東京エレクトロンのチャート形状や需給、デイトレでの立ち回りについて解説しています。",
+   "market_view": "前場は粘りを見せたものの後場から大きく崩れる展開となり、日経平均は429円安となった一方で、バリュー株に買いが入りTOPIXはプラスで引けました。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "キオクシア",
+     "ticker": "285A",
+     "stance": "neutral",
+     "timestamp": "04:21"
+    },
+    {
+     "name": "太陽誘電",
+     "ticker": "6976",
+     "stance": "neutral",
+     "timestamp": "05:46"
+    },
+    {
+     "name": "イビデン",
+     "ticker": "4062",
+     "stance": "neutral",
+     "timestamp": "06:32"
+    },
+    {
+     "name": "古河電工",
+     "ticker": "5801",
+     "stance": "bullish",
+     "timestamp": "07:35"
+    },
+    {
+     "name": "ソフトバンクグループ",
+     "ticker": "9984",
+     "stance": "bearish",
+     "timestamp": "08:29"
+    },
+    {
+     "name": "フジクラ",
+     "ticker": "5803",
+     "stance": "bearish",
+     "timestamp": "09:25"
+    },
+    {
+     "name": "村田製作所",
+     "ticker": "6981",
+     "stance": "bearish",
+     "timestamp": "10:18"
+    },
+    {
+     "name": "東京エレクトロン",
+     "ticker": "8035",
+     "stance": "bullish",
+     "timestamp": "11:03"
+    }
+   ]
+  },
+  {
+   "video_id": "RLHviu3eZqU",
+   "title": "【日経平均】 自律反発はまだ続く 下げ止まりは確定か 私はこう立ち回る サンディスク・キオクシア・アドバンテスト・太陽誘電・オンコリスバイオ",
+   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+   "channel_name": "Trader's Lab",
+   "channel_short": "TL",
+   "slot": 1,
+   "published": "2026-11-11T11:00:16+00:00",
+   "overview": "動画では、日経平均や米主要指数の足元の反発は急落に対する自律反発の域を出ず、依然として下落N波動や調整局面が継続しているため警戒が必要であると解説しています。個別銘柄では、キオクシアやアドバンテスト、太陽誘電などの半導体関連は短期的なリバウンドに留まり戻り売りに注意すべきとする一方、オンコリスバイオは月足・週足で強いバンドウォークを形成しており更なる上値追いが期待できると分析しています。",
+   "market_view": "日経平均やナスダック100などの主要指数は自律反発の範囲内にあり、下落トレンドを否定できていないため戻り売りに警戒が必要な局面です。",
+   "market": "MIX",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "日経平均株価",
+     "ticker": "N225",
+     "stance": "bearish",
+     "timestamp": "07:15"
+    },
+    {
+     "name": "キオクシア",
+     "ticker": "285A",
+     "stance": "neutral",
+     "timestamp": "24:48"
+    },
+    {
+     "name": "サンディスク",
+     "ticker": "",
+     "stance": "bearish",
+     "timestamp": "29:18"
+    },
+    {
+     "name": "アドバンテスト",
+     "ticker": "6857",
+     "stance": "bearish",
+     "timestamp": "30:08"
+    },
+    {
+     "name": "太陽誘電",
+     "ticker": "6976",
+     "stance": "bearish",
+     "timestamp": "33:26"
+    },
+    {
+     "name": "オンコリスバイオ",
+     "ticker": "4588",
+     "stance": "bullish",
+     "timestamp": "36:18"
+    }
+   ]
+  },
+  {
    "video_id": "VrS1EpA9pjM",
    "title": "フジクラ　決算でまさかの下方修正　その理由は？",
    "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
@@ -124,34 +240,6 @@
      "ticker": "5803",
      "stance": "bullish",
      "timestamp": "00:00"
-    }
-   ]
-  },
-  {
-   "video_id": "wqrVYVc7Tvs",
-   "title": "フジクラ（5803）決算発表！株式テクニカルチャート分析",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-11-10T07:25:40+00:00",
-   "overview": "トランプ大統領の発言による原油価格下落を受けて半導体・テック系を中心に日経平均が大幅高となった相場環境を解説しています。個別では2連ストップ安から反発したJTの板の動きや、決算発表を行ったフジクラの業績と株価動向を分析。フジクラは光通信事業の好調で実体は悪くないものの、想定為替レート見直しによる下方修正とIR姿勢の不透明感を指摘し、3,000円の支持線に着目したトレード視点を提示しています。",
-   "market_view": "地政学リスク緩和に伴う原油先物の下落により、半導体関連銘柄を中心に買いが広がり日経平均は1,600円を超える大幅高となりました。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "日本たばこ産業",
-     "ticker": "2914",
-     "stance": "neutral",
-     "timestamp": "04:30"
-    },
-    {
-     "name": "フジクラ",
-     "ticker": "5803",
-     "stance": "neutral",
-     "timestamp": "05:24"
     }
    ]
   },
@@ -268,52 +356,6 @@
      "ticker": "",
      "stance": "neutral",
      "timestamp": "08:23"
-    }
-   ]
-  },
-  {
-   "video_id": "wLyMtqonF7o",
-   "title": "【日経平均】 ついに崩落 底打ちはまだ先？セリクラはこれから サンディスク・キオクシア・太陽誘電・JT",
-   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-   "channel_name": "Trader's Lab",
-   "channel_short": "TL",
-   "slot": 1,
-   "published": "2026-11-06T11:06:34+00:00",
-   "overview": "日経平均や主要指数が急落して調整局面入りした背景を受け、全体相場の環境認識とリスク管理の重要性が解説されています。個別銘柄では、空売りと半導体安で厳しいキオクシア、バブル崩壊の兆候が見られるサンディスク、好決算も地合いに押された太陽誘電、ロシア事業の不透明感からストップ安となったJTの分析が行われました。",
-   "market_view": "主要指数が安値を割り込み調整局面に入ったため、当面は中長期の新規買いを控え、短期売買やヘッジ売りで対応すべき厳しい相場環境です。",
-   "market": "MIX",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "日経平均",
-     "ticker": "",
-     "stance": "bearish",
-     "timestamp": "03:02"
-    },
-    {
-     "name": "キオクシア",
-     "ticker": "285A",
-     "stance": "bearish",
-     "timestamp": "28:57"
-    },
-    {
-     "name": "サンディスク",
-     "ticker": "",
-     "stance": "bearish",
-     "timestamp": "31:07"
-    },
-    {
-     "name": "太陽誘電",
-     "ticker": "6976",
-     "stance": "neutral",
-     "timestamp": "32:56"
-    },
-    {
-     "name": "JT",
-     "ticker": "2914",
-     "stance": "neutral",
-     "timestamp": "35:22"
     }
    ]
   },
