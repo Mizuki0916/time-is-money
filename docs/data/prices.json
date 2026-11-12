@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-12T07:10:02.608578+00:00",
+ "updated_at": "2026-11-12T15:37:19.745277+00:00",
  "symbols": {
   "JP:1111": {
    "date": "2026-08-17",
@@ -447,7 +447,7 @@
    "market_open": false,
    "symbol": "285A.T",
    "source": "yahoo",
-   "fetched_at": "2026-11-11T22:01:08.690719+00:00"
+   "fetched_at": "2026-11-12T15:37:19.745277+00:00"
   },
   "JP:6976": {
    "date": "2026-11-11",
@@ -511,7 +511,7 @@
    "market_open": false,
    "symbol": "6976.T",
    "source": "yahoo",
-   "fetched_at": "2026-11-11T22:01:08.690719+00:00"
+   "fetched_at": "2026-11-12T15:37:19.745277+00:00"
   },
   "JP:6981": {
    "date": "2026-11-05",
@@ -703,7 +703,7 @@
    "market_open": false,
    "symbol": "5803.T",
    "source": "yahoo",
-   "fetched_at": "2026-11-11T22:01:08.690719+00:00"
+   "fetched_at": "2026-11-12T15:37:19.745277+00:00"
   },
   "JP:7974": {
    "date": "2026-11-11",
@@ -767,7 +767,7 @@
    "market_open": false,
    "symbol": "7974.T",
    "source": "yahoo",
-   "fetched_at": "2026-11-11T22:01:08.690719+00:00"
+   "fetched_at": "2026-11-12T15:37:19.745277+00:00"
   },
   "JP:7203": {
    "date": "2026-11-10",
@@ -1023,7 +1023,7 @@
    "market_open": false,
    "symbol": "6758.T",
    "source": "yahoo",
-   "fetched_at": "2026-11-11T22:01:08.690719+00:00"
+   "fetched_at": "2026-11-12T15:37:19.745277+00:00"
   },
   "JP:9432": {
    "date": "2026-11-02",
@@ -1407,7 +1407,7 @@
    "market_open": false,
    "symbol": "9984.T",
    "source": "yahoo",
-   "fetched_at": "2026-11-11T22:01:08.690719+00:00"
+   "fetched_at": "2026-11-12T15:37:19.745277+00:00"
   },
   "JP:5801": {
    "date": "2026-11-11",
@@ -1471,7 +1471,7 @@
    "market_open": false,
    "symbol": "5801.T",
    "source": "yahoo",
-   "fetched_at": "2026-11-11T22:01:08.690719+00:00"
+   "fetched_at": "2026-11-12T15:37:19.745277+00:00"
   },
   "JP:3436": {
    "date": "2026-10-27",
@@ -2178,22 +2178,21 @@
    "fetched_at": "2026-08-19T04:36:24.190592+00:00"
   },
   "IDX:^N225": {
-   "date": "2026-11-10",
-   "close": 60459.58,
-   "change_pct": 2.87,
+   "date": "2026-11-11",
+   "close": 61248.59,
+   "change_pct": 1.31,
    "live": null,
    "live_change_pct": null,
    "live_time": null,
-   "volume": 176100000,
-   "volume_ratio": 0.95,
-   "rsi14": 39.8,
+   "volume": 193200000,
+   "volume_ratio": 1.04,
+   "rsi14": 42.9,
    "rsi_zone": "中立",
-   "ma25": 64544.24,
-   "ma75": 65235.82,
+   "ma25": 64196.31,
+   "ma75": 65169.37,
    "trend": "下降基調",
-   "pos52": 50,
+   "pos52": 53,
    "spark": [
-    65142.78,
     65270.95,
     64011.34,
     63492.99,
@@ -2232,14 +2231,15 @@
     61077.9,
     57434.77,
     58775.5,
-    60459.58
+    60459.58,
+    61248.59
    ],
    "currency": "JPY",
    "exchange_name": "Osaka",
    "market_open": false,
    "symbol": "^N225",
    "source": "yahoo",
-   "fetched_at": "2026-11-11T22:01:08.690719+00:00"
+   "fetched_at": "2026-11-12T15:37:19.745277+00:00"
   },
   "JP:5802": {
    "date": "2026-11-05",
@@ -2431,7 +2431,7 @@
    "market_open": false,
    "symbol": "7011.T",
    "source": "yahoo",
-   "fetched_at": "2026-11-11T22:01:08.690719+00:00"
+   "fetched_at": "2026-11-12T15:37:19.745277+00:00"
   },
   "JP:4503": {
    "date": "2026-10-23",
@@ -2623,7 +2623,7 @@
    "market_open": false,
    "symbol": "8035.T",
    "source": "yahoo",
-   "fetched_at": "2026-11-11T22:01:08.690719+00:00"
+   "fetched_at": "2026-11-12T15:37:19.745277+00:00"
   },
   "JP:9983": {
    "date": "2026-10-19",
@@ -5305,7 +5305,7 @@
    "market_open": false,
    "symbol": "2914.T",
    "source": "yahoo",
-   "fetched_at": "2026-11-11T22:01:08.690719+00:00"
+   "fetched_at": "2026-11-12T15:37:19.745277+00:00"
   },
   "NAME:パワーエックス": {
    "date": "2026-10-09",
@@ -6905,7 +6905,7 @@
    "market_open": false,
    "symbol": "8058.T",
    "source": "yahoo",
-   "fetched_at": "2026-11-11T22:01:08.690719+00:00"
+   "fetched_at": "2026-11-12T15:37:19.745277+00:00"
   },
   "NAME:ダイナミックマッププラットフォーム": {
    "date": "2026-09-08",
@@ -7807,11 +7807,11 @@
    "date": "2026-11-11",
    "close": 977.69,
    "change_pct": 13.69,
-   "live": null,
-   "live_change_pct": null,
-   "live_time": null,
-   "volume": 15894995,
-   "volume_ratio": 1.45,
+   "live": 921.68,
+   "live_change_pct": -5.73,
+   "live_time": 1794497880,
+   "volume": 16076700,
+   "volume_ratio": 1.47,
    "rsi14": 37.4,
    "rsi_zone": "中立",
    "ma25": 1236.92,
@@ -7862,10 +7862,10 @@
    ],
    "currency": "USD",
    "exchange_name": "NasdaqGS",
-   "market_open": false,
+   "market_open": true,
    "symbol": "SNDK",
    "source": "yahoo-search",
-   "fetched_at": "2026-11-11T22:01:08.690719+00:00"
+   "fetched_at": "2026-11-12T15:37:19.745277+00:00"
   },
   "JP:6203": {
    "date": "2026-09-18",
@@ -8633,7 +8633,7 @@
    "market_open": false,
    "symbol": "5016.T",
    "source": "yahoo",
-   "fetched_at": "2026-11-11T22:01:08.690719+00:00"
+   "fetched_at": "2026-11-12T15:37:19.745277+00:00"
   },
   "JP:3003": {
    "date": "2026-09-14",
@@ -13234,11 +13234,11 @@
    "date": "2026-11-11",
    "close": 60.77,
    "change_pct": 24.71,
-   "live": null,
-   "live_change_pct": null,
-   "live_time": null,
-   "volume": 157133649,
-   "volume_ratio": 2.28,
+   "live": 55.75,
+   "live_change_pct": -8.26,
+   "live_time": 1794497862,
+   "volume": 161569500,
+   "volume_ratio": 2.33,
    "rsi14": 49.7,
    "rsi_zone": "中立",
    "ma25": 60.35,
@@ -13289,10 +13289,10 @@
    ],
    "currency": "USD",
    "exchange_name": "NasdaqGS",
-   "market_open": false,
+   "market_open": true,
    "symbol": "CRWV",
    "source": "yahoo-search",
-   "fetched_at": "2026-11-11T22:01:08.690719+00:00"
+   "fetched_at": "2026-11-12T15:37:19.745277+00:00"
   },
   "JP:4194": {
    "date": "2026-10-23",
@@ -14956,7 +14956,7 @@
    "market_open": false,
    "symbol": "8830.T",
    "source": "yahoo",
-   "fetched_at": "2026-11-11T22:01:08.690719+00:00"
+   "fetched_at": "2026-11-12T15:37:19.745277+00:00"
   },
   "JP:8011": {
    "date": "2026-10-23",
@@ -15468,7 +15468,7 @@
    "market_open": false,
    "symbol": "4684.T",
    "source": "yahoo",
-   "fetched_at": "2026-11-11T22:01:08.690719+00:00"
+   "fetched_at": "2026-11-12T15:37:19.745277+00:00"
   },
   "JP:4005": {
    "date": "2026-11-05",
@@ -15730,11 +15730,11 @@
    "date": "2026-11-11",
    "close": 395.08,
    "change_pct": 6.05,
-   "live": null,
-   "live_change_pct": null,
-   "live_time": null,
-   "volume": 7311702,
-   "volume_ratio": 0.9,
+   "live": 385.22,
+   "live_change_pct": -2.5,
+   "live_time": 1794497861,
+   "volume": 7376400,
+   "volume_ratio": 0.91,
    "rsi14": 47.6,
    "rsi_zone": "中立",
    "ma25": 406.86,
@@ -15785,10 +15785,10 @@
    ],
    "currency": "USD",
    "exchange_name": "NasdaqGS",
-   "market_open": false,
+   "market_open": true,
    "symbol": "AMAT",
    "source": "yahoo",
-   "fetched_at": "2026-11-11T22:01:08.690719+00:00"
+   "fetched_at": "2026-11-12T15:37:19.745277+00:00"
   },
   "JP:8031": {
    "date": "2026-11-11",
@@ -15852,7 +15852,7 @@
    "market_open": false,
    "symbol": "8031.T",
    "source": "yahoo",
-   "fetched_at": "2026-11-11T22:01:08.690719+00:00"
+   "fetched_at": "2026-11-12T15:37:19.745277+00:00"
   },
   "NAME:レセプショニスト": {
    "date": "2026-11-11",
@@ -15878,7 +15878,7 @@
    "market_open": false,
    "symbol": "660A.T",
    "source": "yahoo-search",
-   "fetched_at": "2026-11-11T22:01:08.690719+00:00"
+   "fetched_at": "2026-11-12T15:37:19.745277+00:00"
   }
  }
 }
