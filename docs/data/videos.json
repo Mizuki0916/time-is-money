@@ -1,6 +1,122 @@
 {
- "generated_at": "2026-11-14T05:46:11.507427+09:00",
+ "generated_at": "2026-11-14T07:52:18.459018+09:00",
  "videos": [
+  {
+   "video_id": "2mQZNn5rR7g",
+   "title": "11/13【半導体株,日本株騙し上げか⁉】日経平均後場急落でバリュー株シフト。ドル円160円。エヌビディア急落で米国株、ナスダック、ハイテク株乱高下か。仮想通貨BTC弱",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-11-13T14:13:28+00:00",
+   "overview": "本動画では、後場の急落を経てバリュー株シフトが進む日本株や、ドル円160円台手前での推移、NVIDIA急落に伴う米国ハイテク株の乱高下について解説しています。日経平均のPER16倍ラインを意識した調整局面において、年末に向け需給の良い銘柄と悪い銘柄で明暗が分かれる二極化相場を指摘。信用買い残が重く戻り売りに押される半導体・防衛関連銘柄への警戒を示す一方、需給改善や年末商戦の恩恵を受けるゲーム関連銘柄などの優位性を論じています。",
+   "market_view": "日経平均はPER16倍の理論値付近でジグザグと段階的な調整が入る見通し。年末に向けて需給良好な銘柄に資金が流出入する一方、信用買い残が多い銘柄は戻り売りに押される二極化相場が想定されます。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "任天堂",
+     "ticker": "7974",
+     "stance": "bullish",
+     "timestamp": "11:03"
+    },
+    {
+     "name": "キオクシアホールディングス",
+     "ticker": "285A",
+     "stance": "bearish",
+     "timestamp": "16:53"
+    },
+    {
+     "name": "三菱重工業",
+     "ticker": "7011",
+     "stance": "bearish",
+     "timestamp": "14:31"
+    },
+    {
+     "name": "スクウェア・エニックス・ホールディングス",
+     "ticker": "9684",
+     "stance": "bullish",
+     "timestamp": "32:12"
+    },
+    {
+     "name": "三井金属鉱業",
+     "ticker": "5706",
+     "stance": "bearish",
+     "timestamp": "48:09"
+    },
+    {
+     "name": "東京エレクトロン",
+     "ticker": "8035",
+     "stance": "neutral",
+     "timestamp": "1:02:37"
+    }
+   ]
+  },
+  {
+   "video_id": "seDVO4lotAM",
+   "title": "【日経平均】 来週はNVIDIA決算 〇〇に警戒  サンディスク・キオクシア・古河電気・太陽誘電・三井金属・オンコリスバイオ",
+   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+   "channel_name": "Trader's Lab",
+   "channel_short": "TL",
+   "slot": 1,
+   "published": "2026-11-13T11:14:37+00:00",
+   "overview": "来週のNVIDIA決算を控えた日経平均や米主要指数の環境認識と、主要個別銘柄の分析が解説されています。指数全体は直近の大幅下落に対する自律反発の域を出ておらず、戻り売り圧力への警戒が必要です。キオクシアや古河電気などAI半導体・データセンター関連株が下落トレンドにある一方、新高値を更新したオンコリスバイオなど業績良好な銘柄の選別が重要視されています。",
+   "market_view": "日経平均および米株指数は直近下落に対する自律反発の範囲にとどまっており、本格的な上昇転換に至っていないため戻り売りリスクに警戒が必要です。",
+   "market": "MIX",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "NVIDIA",
+     "ticker": "NVDA",
+     "stance": "neutral",
+     "timestamp": "25:25"
+    },
+    {
+     "name": "サンディスク",
+     "ticker": "WDC",
+     "stance": "bearish",
+     "timestamp": "27:48"
+    },
+    {
+     "name": "キオクシア",
+     "ticker": "285A",
+     "stance": "bearish",
+     "timestamp": "28:53"
+    },
+    {
+     "name": "ソフトバンク",
+     "ticker": "9984",
+     "stance": "bearish",
+     "timestamp": "31:38"
+    },
+    {
+     "name": "太陽誘電",
+     "ticker": "6976",
+     "stance": "bearish",
+     "timestamp": "33:57"
+    },
+    {
+     "name": "古河電気工業",
+     "ticker": "5801",
+     "stance": "bearish",
+     "timestamp": "35:19"
+    },
+    {
+     "name": "三井金属鉱業",
+     "ticker": "5706",
+     "stance": "bearish",
+     "timestamp": "37:20"
+    },
+    {
+     "name": "オンコリスバイオファーマ",
+     "ticker": "4588",
+     "stance": "bullish",
+     "timestamp": "39:39"
+    }
+   ]
+  },
   {
    "video_id": "H4SgGtNcPFg",
    "title": "11/12【半導体株ついに急落‼️日本株騙し上げか⁉】日経平均後場急落でバリュー株シフト。ドル円159円。エヌビディア急落で米国株、ナスダック、ハイテク株乱高下か。仮想通貨BTC弱",
@@ -62,46 +178,6 @@
      "ticker": "NVDA",
      "stance": "bearish",
      "timestamp": "1:26:38"
-    }
-   ]
-  },
-  {
-   "video_id": "6lqIc5Qz734",
-   "title": "11/12【半導体株ついに急落‼️日本株騙し上げか⁉】日経平均後場急落でバリュー株シフト。ドル円159円。エヌビディア急落で米国株、ナスダック、ハイテク株乱高下か。仮想通貨BTC弱",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-11-12T09:15:01+00:00",
-   "overview": "日経平均は後場から半導体株を中心に急落し、エヌビディアの時間外下落や信用の空売り不足などの需給悪化が重しとなったことが解説されています。過去の2018年米中貿易摩擦相場との類似点を提示し、PER16倍を上限とするレンジ形成や12月の米利上げ懸念に伴う年末の下落リスクが指摘されました。半導体株などの需給悪化銘柄は短期売買に留め、バリュー株や高配当・需給良好銘柄への資金シフトが推奨されています。",
-   "market_view": "信用売り残が8000億円未満で空売り燃料が枯渇しており、年末に向けて需給の悪い半導体株から需給が良好なバリュー株への二極化相場が進む見通しです。",
-   "market": "MIX",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "キオクシアホールディングス",
-     "ticker": "285A",
-     "stance": "bearish",
-     "timestamp": "01:21"
-    },
-    {
-     "name": "アドバンテスト",
-     "ticker": "6857",
-     "stance": "bearish",
-     "timestamp": "01:02"
-    },
-    {
-     "name": "エヌビディア",
-     "ticker": "NVDA",
-     "stance": "bearish",
-     "timestamp": "01:21"
-    },
-    {
-     "name": "東京エレクトロン",
-     "ticker": "8035",
-     "stance": "bearish",
-     "timestamp": "31:25"
     }
    ]
   },
@@ -240,46 +316,6 @@
      "ticker": "5803",
      "stance": "bullish",
      "timestamp": "00:00"
-    }
-   ]
-  },
-  {
-   "video_id": "q6ol8tx3PL8",
-   "title": "【日経平均】 想定通りの自立反発の上昇 騙し上げか？値固めか？ サンディスク・キオクシア・古川電気・JT",
-   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-   "channel_name": "Trader's Lab",
-   "channel_short": "TL",
-   "slot": 1,
-   "published": "2026-11-09T11:00:01+00:00",
-   "overview": "日経平均株価の自立反発に対する分析と、注目個別銘柄(キオクシア、古河電気工業、JT)のチャート・需給分析を行う動画です。日経平均は週明けに上昇したものの自立反発の範囲内であり、戻り売り圧力や米株のAI減速懸念から一段下げのリスクを警戒しています。個別銘柄では半導体バブル剥落や決算出尽くし、ニュース材料による急落銘柄の現状と底値目安を解説しています。",
-   "market_view": "日経平均は自立反発を見せたものの5万9300円付近の上値が重く、下落トレンド中の戻りに過ぎない可能性があります。AI減速懸念や米株の調整継続により、一段下げへの警戒が必要です。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "日経平均株価",
-     "ticker": "N225",
-     "stance": "bearish",
-     "timestamp": "02:11"
-    },
-    {
-     "name": "キオクシアホールディングス",
-     "ticker": "285A",
-     "stance": "bearish",
-     "timestamp": "26:14"
-    },
-    {
-     "name": "古河電気工業",
-     "ticker": "5801",
-     "stance": "bearish",
-     "timestamp": "30:45"
-    },
-    {
-     "name": "JT",
-     "ticker": "2914",
-     "stance": "neutral",
-     "timestamp": "35:22"
     }
    ]
   },
