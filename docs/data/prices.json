@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-13T05:58:43.893631+00:00",
+ "updated_at": "2026-11-13T14:27:43.099122+00:00",
  "symbols": {
   "JP:1111": {
    "date": "2026-08-17",
@@ -4168,8 +4168,8 @@
    "live": null,
    "live_change_pct": null,
    "live_time": null,
-   "volume": 734295011,
-   "volume_ratio": 4.17,
+   "volume": 742789000,
+   "volume_ratio": 4.21,
    "rsi14": 26.0,
    "rsi_zone": "売られすぎ",
    "ma25": 205.91,
@@ -4223,7 +4223,7 @@
    "market_open": false,
    "symbol": "NVDA",
    "source": "yahoo",
-   "fetched_at": "2026-11-12T21:47:00.112354+00:00"
+   "fetched_at": "2026-11-13T14:27:43.099122+00:00"
   },
   "JP:593A": {
    "date": "2026-09-08",
@@ -7810,8 +7810,8 @@
    "live": null,
    "live_change_pct": null,
    "live_time": null,
-   "volume": 12844569,
-   "volume_ratio": 1.15,
+   "volume": 12989100,
+   "volume_ratio": 1.17,
    "rsi14": 35.9,
    "rsi_zone": "中立",
    "ma25": 1210.04,
@@ -7865,7 +7865,7 @@
    "market_open": false,
    "symbol": "SNDK",
    "source": "yahoo-search",
-   "fetched_at": "2026-11-12T21:47:00.112354+00:00"
+   "fetched_at": "2026-11-13T14:27:43.099122+00:00"
   },
   "JP:6203": {
    "date": "2026-09-18",
@@ -13237,8 +13237,8 @@
    "live": null,
    "live_change_pct": null,
    "live_time": null,
-   "volume": 106881144,
-   "volume_ratio": 1.49,
+   "volume": 107783100,
+   "volume_ratio": 1.5,
    "rsi14": 46.0,
    "rsi_zone": "中立",
    "ma25": 59.35,
@@ -13292,7 +13292,7 @@
    "market_open": false,
    "symbol": "CRWV",
    "source": "yahoo-search",
-   "fetched_at": "2026-11-12T21:47:00.112354+00:00"
+   "fetched_at": "2026-11-13T14:27:43.099122+00:00"
   },
   "JP:4194": {
    "date": "2026-10-23",
@@ -15733,8 +15733,8 @@
    "live": null,
    "live_change_pct": null,
    "live_time": null,
-   "volume": 8475029,
-   "volume_ratio": 1.03,
+   "volume": 9120200,
+   "volume_ratio": 1.11,
    "rsi14": 44.7,
    "rsi_zone": "中立",
    "ma25": 401.71,
@@ -15788,7 +15788,7 @@
    "market_open": false,
    "symbol": "AMAT",
    "source": "yahoo",
-   "fetched_at": "2026-11-12T21:47:00.112354+00:00"
+   "fetched_at": "2026-11-13T14:27:43.099122+00:00"
   },
   "JP:8031": {
    "date": "2026-11-12",
