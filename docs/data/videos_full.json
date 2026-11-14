@@ -487,6 +487,108 @@
    ]
   },
   {
+   "video_id": "S64dm-dk2ms",
+   "title": "防衛費削減報道で、防衛関連銘柄が急落（三菱重工業・IHI・川崎重工業など）株式テクニカルチャート分析",
+   "published": "2026-11-14T09:00:17+00:00",
+   "description": "🔽日本株オンラインサロンやってます！波乱の相場を乗り切ろう🌊\nエンジョイプランはいつでも初月無料で参加できます★\n→　https://yoor.jp/door/tradertomo\n\n※ 参加プラン別のサービス内容はこちらの動画で解説しています。\n→https://youtu.be/AGZetFvA-Xk?si=Qy_ctky7kW1QSOHX\n\n株好きが集まる楽しいサロンを目指してます♪\n初心者歓迎です～ご参加お待ちしています！\n\n🔽サブチャンネルもやってます＾＾\nhttps://www.youtube.com/@TOMO-subtrader\n\n---------------------------------------------\n🔽公式LINEやってます！ともだち登録お願いします☆\n---------------------------------------------\n\n「うね",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "防衛費の削減報道を受け、防衛関連銘柄(三菱重工業、川崎重工業、IHIなど)が急落したニュースとテクニカルチャートを分析しています。全体として出来高に対して信用買い残が多く、含み損のしこりが株価の上昇を阻害している受給問題が解説されています。安易な押し目買いは避け、週足などで包み足(アウトサイド)の要線が出現するような明確な底打ち・反転サインを確認してからポジションを取ることが推奨されています。",
+   "market_view": "",
+   "market": "JP",
+   "picks": [
+    {
+     "name": "三菱重工業",
+     "name_en": "Mitsubishi Heavy Industries, Ltd.",
+     "ticker": "7011",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "防衛費削減と重い信用買い残で反転確認待ち",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "防衛費5年で50兆円台と政府報道が出たことで今後の調達数量削減や受注見通しの悪化が懸念される点。",
+      "信用買い残が約2000万株と高水準でデイトレーダーも少なく、含み損のしこりが株価上昇を阻害している点。",
+      "チャート面で週足4週連続陰線となっており、明確な底打ち反転(アウトサイド要線)が確認できるまで買いづらい点。"
+     ],
+     "timestamp": "01:39",
+     "confidence": "high"
+    },
+    {
+     "name": "川崎重工業",
+     "name_en": "Kawasaki Heavy Industries, Ltd.",
+     "ticker": "7012",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "陰線が継続し信用買い残の重さから押し目買いは尚早",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "株価の陰線が止まらず下げ圧力が収まっていないため、前回安値付近での押し目買いは時期尚早である点。",
+      "信用買い残が1800万株を超えており出来高に対して含み損のしこりが多く、上がりにくい受給環境である点。"
+     ],
+     "timestamp": "08:35",
+     "confidence": "medium"
+    },
+    {
+     "name": "IHI",
+     "name_en": "IHI Corporation",
+     "ticker": "7013",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "連続陰線も節目の水準に達し週足陽線での反転を注視",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "週足で8本連続陰線だが実体部分が小さく、1本陽線が出るだけでアウトサイドできる形状にある点。",
+      "2025年6〜8月の踊り場や過去に跳ね返った水準まで下げてきており、長期的に反転が期待できる位置にある点。",
+      "信用買い残が約1200万株と高止まりしており、出来高の減少とともに注目度が下がりしこりになっている点。"
+     ],
+     "timestamp": "09:26",
+     "confidence": "medium"
+    },
+    {
+     "name": "三菱電機",
+     "name_en": "Mitsubishi Electric Corporation",
+     "ticker": "6503",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "週足の動きはあるが防衛株全体の下落に連動",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "週足でアウトサイドの動きは見られるものの防衛関連銘柄の1つとして下落しており、落ち着きが必要な点。"
+     ],
+     "timestamp": "11:52",
+     "confidence": "low"
+    },
+    {
+     "name": "日本製鋼所",
+     "name_en": "The Japan Steel Works, Ltd.",
+     "ticker": "5631",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "調整が進行し過去の水準に到達、反転確認が必要",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "調整が進んで2025年の株価水準である5000円台近くまで下落しており、反転を確認してから狙いたい点。"
+     ],
+     "timestamp": "12:09",
+     "confidence": "low"
+    }
+   ]
+  },
+  {
    "video_id": "bhaVGeNqjCI",
    "title": "来週の相場に備えて！　日本株チャート分析LIVE　11/14",
    "published": "2026-11-14T05:27:10+00:00",
@@ -619,159 +721,6 @@
      ],
      "timestamp": "01:05:13",
      "confidence": "medium"
-    }
-   ]
-  },
-  {
-   "video_id": "IBx0Sge4DEs",
-   "title": "NVIDIAショック？今日の活況銘柄を見てみる！（キオクシア・イビデン・太陽誘電・村田製作所・ソフトバンクグループなど）株式テクニカルチャート分析",
-   "published": "2026-11-12T07:47:53+00:00",
-   "description": "🔽日本株オンラインサロンやってます！波乱の相場を乗り切ろう🌊\nエンジョイプランはいつでも初月無料で参加できます★\n→　https://yoor.jp/door/tradertomo\n\n※ 参加プラン別のサービス内容はこちらの動画で解説しています。\n→https://youtu.be/AGZetFvA-Xk?si=Qy_ctky7kW1QSOHX\n\n株好きが集まる楽しいサロンを目指してます♪\n初心者歓迎です～ご参加お待ちしています！\n\n🔽サブチャンネルもやってます＾＾\nhttps://www.youtube.com/@TOMO-subtrader\n\n---------------------------------------------\n🔽公式LINEやってます！ともだち登録お願いします☆\n---------------------------------------------\n\n「うね",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "NVIDIAのCEOに関する報道を受けて半導体やAI関連株を中心に後場から地合いが大きく崩れ、日経平均は429円安となりました。動画では活況銘柄であるキオクシア、太陽誘電、イビデン、古河電工、ソフトバンクグループ、フジクラ、村田製作所、東京エレクトロンのチャート形状や需給、デイトレでの立ち回りについて解説しています。",
-   "market_view": "前場は粘りを見せたものの後場から大きく崩れる展開となり、日経平均は429円安となった一方で、バリュー株に買いが入りTOPIXはプラスで引けました。",
-   "market": "JP",
-   "picks": [
-    {
-     "name": "キオクシア",
-     "name_en": "Kioxia Holdings",
-     "ticker": "285A",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "1万円ラインが重く引き続き慎重な対応が必要",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "場中で一時1万円の大台を突破するも後場の地合い悪化に押されて上ヒゲ陰線を形成。板のオーバーアンダーとの連動性が高くデイトレの判断はやりやすい状態。",
-      "1万円ラインの戻り売りが重く安値を切り下げる動きが出ると苦しくなるため、来週に向けて安値を切り上げるチャート形成が維持できるか慎重な見極めが必要。"
-     ],
-     "timestamp": "04:21",
-     "confidence": "high"
-    },
-    {
-     "name": "太陽誘電",
-     "name_en": "Taiyo Yuden",
-     "ticker": "6976",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "7000円を支持線に上値を狙う展開を想定",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "キオクシアと同様に後場は地合いに押される展開となったが、出来高は約2900万株と高水準を維持しており売買自体は活発に行われている。",
-      "200円刻みの価格節目が機能しており下限の7000円や7400円が意識されている。明日は7000円を支持線に上値を狙うトレードが組み立てやすい。"
-     ],
-     "timestamp": "05:46",
-     "confidence": "high"
-    },
-    {
-     "name": "イビデン",
-     "name_en": "Ibiden",
-     "ticker": "4062",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "6150円の支持線を見極めてポジションを判断",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "NVIDIA関連報道やインテルショックの影響で重い展開が続くが、機関投資家の空売り買い戻し動向が順当に見られるためどこかで力強い戻りが期待される。",
-      "過去に何度も意識されている6150円付近のサポートラインが今回も機能しており、明確な支持線として確認しながらポジションを探る立ち回りが有効。"
-     ],
-     "timestamp": "06:32",
-     "confidence": "high"
-    },
-    {
-     "name": "古河電工",
-     "name_en": "Furukawa Electric",
-     "ticker": "5801",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "足型崩れず上目線継続も明日は戻り売りが重い",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "前場の戻りで2400円ライン突破を狙うも抜け切れず、後場はずるずると下落して他銘柄と同様の陰線チャートを形成した。",
-      "出来高は4000万株近くあり足型も崩れていないため上目線は継続するが、本日の陰線の戻り売りをこなす必要があり明日は上値が重い展開を予想。"
-     ],
-     "timestamp": "07:35",
-     "confidence": "high"
-    },
-    {
-     "name": "ソフトバンクグループ",
-     "name_en": "SoftBank Group",
-     "ticker": "9984",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "個人投資家のしこりが重く上値が重い展開",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "4000円手前のラインで上ヒゲを付けるも押し戻される展開となり、個人投資家の含み損による捕まりが多く戻り売りをこなすのにパワーが必要。",
-      "終値は前日付近の3700円台まで押し戻されており、明日も3700円ラインを意識しつつ3800円中盤までの戻りを狙う絞ったトレードが現実的。"
-     ],
-     "timestamp": "08:29",
-     "confidence": "high"
-    },
-    {
-     "name": "フジクラ",
-     "name_en": "Fujikura",
-     "ticker": "5803",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "ファンダと需給悪化で触りづらい厳しい形状",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "決算の下方修正発表からギャップアップ後の陰線を形成し、3100円台で捕まった戻り売りしこりが蓄積しているため上値が非常に重い。",
-      "日中足でも最後に向けて売られており、需給面だけでなくファンダメンタルズ面でも懸念があるため電線株の中で最も触りづらい厳しい形状。"
-     ],
-     "timestamp": "09:25",
-     "confidence": "high"
-    },
-    {
-     "name": "村田製作所",
-     "name_en": "Murata Manufacturing",
-     "ticker": "6981",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "太陽誘電と比較して上値の重さが目立つ",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "ギャップアップからの陰線となり信用買い残も多いことから、上値のしこりをさらに増やす結果となっており同セクター内で重さが目立つ。",
-      "出来高は2700万株と活況ではあるものの、デイトレで触る際も太陽誘電と比較して上が重い印象が強いため優先度は下がる展開。"
-     ],
-     "timestamp": "10:18",
-     "confidence": "high"
-    },
-    {
-     "name": "東京エレクトロン",
-     "name_en": "Tokyo Electron",
-     "ticker": "8035",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "9300円の支持線を背に上値を目指す展開",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "上ヒゲ陰線にはなったものの前日終値よりややプラスで引けており、弱い地合いの中では比較的健闘した足型を見せている。",
-      "5分足で見ると前日ラインである9300円が明確な支持線として機能しており、ギャップダウンしなければここを背に上値を狙う立ち回りが可能。"
-     ],
-     "timestamp": "11:03",
-     "confidence": "high"
     }
    ]
   },

@@ -1,6 +1,52 @@
 {
- "generated_at": "2026-11-14T17:07:27.339767+09:00",
+ "generated_at": "2026-11-14T18:05:54.603219+09:00",
  "videos": [
+  {
+   "video_id": "S64dm-dk2ms",
+   "title": "防衛費削減報道で、防衛関連銘柄が急落（三菱重工業・IHI・川崎重工業など）株式テクニカルチャート分析",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-11-14T09:00:17+00:00",
+   "overview": "防衛費の削減報道を受け、防衛関連銘柄(三菱重工業、川崎重工業、IHIなど)が急落したニュースとテクニカルチャートを分析しています。全体として出来高に対して信用買い残が多く、含み損のしこりが株価の上昇を阻害している受給問題が解説されています。安易な押し目買いは避け、週足などで包み足(アウトサイド)の要線が出現するような明確な底打ち・反転サインを確認してからポジションを取ることが推奨されています。",
+   "market_view": "",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "三菱重工業",
+     "ticker": "7011",
+     "stance": "bearish",
+     "timestamp": "01:39"
+    },
+    {
+     "name": "川崎重工業",
+     "ticker": "7012",
+     "stance": "bearish",
+     "timestamp": "08:35"
+    },
+    {
+     "name": "IHI",
+     "ticker": "7013",
+     "stance": "neutral",
+     "timestamp": "09:26"
+    },
+    {
+     "name": "三菱電機",
+     "ticker": "6503",
+     "stance": "neutral",
+     "timestamp": "11:52"
+    },
+    {
+     "name": "日本製鋼所",
+     "ticker": "5631",
+     "stance": "neutral",
+     "timestamp": "12:09"
+    }
+   ]
+  },
   {
    "video_id": "bhaVGeNqjCI",
    "title": "来週の相場に備えて！　日本株チャート分析LIVE　11/14",
@@ -218,70 +264,6 @@
      "ticker": "4588",
      "stance": "bullish",
      "timestamp": "39:39"
-    }
-   ]
-  },
-  {
-   "video_id": "IBx0Sge4DEs",
-   "title": "NVIDIAショック？今日の活況銘柄を見てみる！（キオクシア・イビデン・太陽誘電・村田製作所・ソフトバンクグループなど）株式テクニカルチャート分析",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-11-12T07:47:53+00:00",
-   "overview": "NVIDIAのCEOに関する報道を受けて半導体やAI関連株を中心に後場から地合いが大きく崩れ、日経平均は429円安となりました。動画では活況銘柄であるキオクシア、太陽誘電、イビデン、古河電工、ソフトバンクグループ、フジクラ、村田製作所、東京エレクトロンのチャート形状や需給、デイトレでの立ち回りについて解説しています。",
-   "market_view": "前場は粘りを見せたものの後場から大きく崩れる展開となり、日経平均は429円安となった一方で、バリュー株に買いが入りTOPIXはプラスで引けました。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "キオクシア",
-     "ticker": "285A",
-     "stance": "neutral",
-     "timestamp": "04:21"
-    },
-    {
-     "name": "太陽誘電",
-     "ticker": "6976",
-     "stance": "neutral",
-     "timestamp": "05:46"
-    },
-    {
-     "name": "イビデン",
-     "ticker": "4062",
-     "stance": "neutral",
-     "timestamp": "06:32"
-    },
-    {
-     "name": "古河電工",
-     "ticker": "5801",
-     "stance": "bullish",
-     "timestamp": "07:35"
-    },
-    {
-     "name": "ソフトバンクグループ",
-     "ticker": "9984",
-     "stance": "bearish",
-     "timestamp": "08:29"
-    },
-    {
-     "name": "フジクラ",
-     "ticker": "5803",
-     "stance": "bearish",
-     "timestamp": "09:25"
-    },
-    {
-     "name": "村田製作所",
-     "ticker": "6981",
-     "stance": "bearish",
-     "timestamp": "10:18"
-    },
-    {
-     "name": "東京エレクトロン",
-     "ticker": "8035",
-     "stance": "bullish",
-     "timestamp": "11:03"
     }
    ]
   },
