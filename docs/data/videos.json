@@ -1,6 +1,110 @@
 {
- "generated_at": "2026-11-14T16:55:14.100988+09:00",
+ "generated_at": "2026-11-14T17:07:27.339767+09:00",
  "videos": [
+  {
+   "video_id": "bhaVGeNqjCI",
+   "title": "来週の相場に備えて！　日本株チャート分析LIVE　11/14",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-11-14T05:27:10+00:00",
+   "overview": "日本株のチャート・決算分析ライブ動画。アンソロピックの上場やNVIDIAの決算を控えて半導体株中心に資金抜けが警戒される現状を踏まえつつ、視聴者からのリクエスト銘柄について決算評価や需給、チャート形状を解説。鹿島やメイコーなどの好決算銘柄や、急落したアシックス、下落が続く半導体関連株の今後の見通しとエントリー判断を提示している。",
+   "market_view": "決算発表通過や個別イベントを控え、週前半は半導体を中心に資金抜けが懸念されるが、イベント通過後は年末に向けてAI・半導体分野を中心に強気スタンスへ移行する見込み。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "レーザーテック",
+     "ticker": "6920",
+     "stance": "bullish",
+     "timestamp": "03:28"
+    },
+    {
+     "name": "住友ファーマ",
+     "ticker": "4506",
+     "stance": "bullish",
+     "timestamp": "04:49"
+    },
+    {
+     "name": "鹿島建設",
+     "ticker": "1812",
+     "stance": "bullish",
+     "timestamp": "09:12"
+    },
+    {
+     "name": "イビデン",
+     "ticker": "4062",
+     "stance": "bearish",
+     "timestamp": "11:54"
+    },
+    {
+     "name": "アシックス",
+     "ticker": "7936",
+     "stance": "neutral",
+     "timestamp": "34:17"
+    },
+    {
+     "name": "メイコー",
+     "ticker": "6787",
+     "stance": "bullish",
+     "timestamp": "43:54"
+    },
+    {
+     "name": "インターネットイニシアティブ",
+     "ticker": "3774",
+     "stance": "bullish",
+     "timestamp": "01:05:13"
+    }
+   ]
+  },
+  {
+   "video_id": "rrd8dcRaomc",
+   "title": "11/14【日本株ヤバいヤバいヤバい‼‼半導体株暴落捕まったか‼】キオクシア急落。日経平均バリュー株シフト。ドル円160円。エヌビディア急落で米国株、ナスダック、ハイテク株大荒れ。仮想通貨BTC",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-11-14T03:00:00+00:00",
+   "overview": "日本株市場は日経平均が連動する半導体株の不安定な動きや米半導体株指数の急落を受けて荒れた展開となっています。市場全体で信用の空売りが激減して買い残が高止まりしており、持続的な上昇に必要なショートカバーの燃料が枯渇している状態です。年末に向けて相場の二極化が加速し、需給が悪く含み損を抱えた銘柄は下落しやすく、需給が改善し長期移動平均線を上抜けた銘柄へ資金がシフトすると分析しています。",
+   "market_view": "信用倍率の高止まりと空売り燃料不足により年末に向けて株式市場の二極化が加速し、需給面で優位な銘柄へ資金シフトが進む見通しです。",
+   "market": "MIX",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "キオクシアホールディングス",
+     "ticker": "285A",
+     "stance": "bearish",
+     "timestamp": "34:57"
+    },
+    {
+     "name": "三菱重工業",
+     "ticker": "7011",
+     "stance": "bearish",
+     "timestamp": "32:55"
+    },
+    {
+     "name": "任天堂",
+     "ticker": "7974",
+     "stance": "bullish",
+     "timestamp": "37:05"
+    },
+    {
+     "name": "オリエンタルランド",
+     "ticker": "4661",
+     "stance": "bullish",
+     "timestamp": "37:48"
+    },
+    {
+     "name": "フジクラ",
+     "ticker": "5803",
+     "stance": "bearish",
+     "timestamp": "38:11"
+    }
+   ]
+  },
   {
    "video_id": "2mQZNn5rR7g",
    "title": "11/13【半導体株,日本株騙し上げか⁉】日経平均後場急落でバリュー株シフト。ドル円160円。エヌビディア急落で米国株、ナスダック、ハイテク株乱高下か。仮想通貨BTC弱",
@@ -118,70 +222,6 @@
    ]
   },
   {
-   "video_id": "H4SgGtNcPFg",
-   "title": "11/12【半導体株ついに急落‼️日本株騙し上げか⁉】日経平均後場急落でバリュー株シフト。ドル円159円。エヌビディア急落で米国株、ナスダック、ハイテク株乱高下か。仮想通貨BTC弱",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-11-12T14:43:59+00:00",
-   "overview": "日経平均株価は前場の上げから後場にかけて急落する不安定な展開となりました。マーケットはPER16倍の理論株価水準が目先の天井として強力に意識されており、空売り燃料の不足から上値を追いにくい環境が続いています。個別銘柄では半導体株が受給悪化や米エヌビディアCEOの辞任報道による波及で下落する一方、受給改善が進むトヨタなどのバリュー株や決算良好なスクエニが買われています。",
-   "market_view": "日経平均は信用売り残が8000億円以上に増えない限りPER16倍の水準が目先の天井となりやすく、12月にかけてレンジ内での乱高下を警戒すべき地合いです。",
-   "market": "MIX",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "キオクシアホールディングス",
-     "ticker": "285A",
-     "stance": "bearish",
-     "timestamp": "03:02"
-    },
-    {
-     "name": "シフト",
-     "ticker": "3697",
-     "stance": "neutral",
-     "timestamp": "16:13"
-    },
-    {
-     "name": "三菱HCキャピタル",
-     "ticker": "8593",
-     "stance": "bearish",
-     "timestamp": "18:24"
-    },
-    {
-     "name": "任天堂",
-     "ticker": "7974",
-     "stance": "bullish",
-     "timestamp": "20:51"
-    },
-    {
-     "name": "トヨタ自動車",
-     "ticker": "7203",
-     "stance": "bullish",
-     "timestamp": "29:03"
-    },
-    {
-     "name": "ソフトバンクグループ",
-     "ticker": "9984",
-     "stance": "bearish",
-     "timestamp": "47:10"
-    },
-    {
-     "name": "スクウェア・エニックス・ホールディングス",
-     "ticker": "9684",
-     "stance": "bullish",
-     "timestamp": "1:17:39"
-    },
-    {
-     "name": "エヌビディア",
-     "ticker": "NVDA",
-     "stance": "bearish",
-     "timestamp": "1:26:38"
-    }
-   ]
-  },
-  {
    "video_id": "IBx0Sge4DEs",
    "title": "NVIDIAショック？今日の活況銘柄を見てみる！（キオクシア・イビデン・太陽誘電・村田製作所・ソフトバンクグループなど）株式テクニカルチャート分析",
    "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
@@ -294,28 +334,6 @@
      "ticker": "4588",
      "stance": "bullish",
      "timestamp": "36:18"
-    }
-   ]
-  },
-  {
-   "video_id": "VrS1EpA9pjM",
-   "title": "フジクラ　決算でまさかの下方修正　その理由は？",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-11-10T14:52:10+00:00",
-   "overview": "フジクラ(5803)の決算内容と今後の投資戦略について解説された動画。今期経常利益が1%下方修正されたものの、想定為替レートを156円に見直したことが要因であり、今後の業績上振れや再度の情報修正の可能性は十分にあると分析している。42円の増配発表や、3000円のサポートラインが意識される展開の中で、需給悪化に注意しつつ上昇を狙っていく戦略が提示されている。",
-   "market_view": "本日の株式市場は全体的に強い相場環境であったことに触れられている。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "フジクラ",
-     "ticker": "5803",
-     "stance": "bullish",
-     "timestamp": "00:00"
     }
    ]
   },
