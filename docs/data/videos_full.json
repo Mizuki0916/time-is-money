@@ -1,6 +1,23 @@
 {
  "videos": [
   {
+   "video_id": "noYhvh7EyW8",
+   "title": "11/1【日本株ヤバい‼半導体株暴落捕まったか‼】キオクシア急落。日経平均バリュー株シフト。ドル円160円。エヌビディア急落で米国株、ナスダック、ハイテク株大荒れ。仮想通貨BTC",
+   "published": "2026-11-15T12:26:25+00:00",
+   "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "no_transcript": true,
+   "skip_reason": "この動画には字幕がありません",
+   "attempts": 1,
+   "overview": "",
+   "market_view": "",
+   "market": "",
+   "picks": []
+  },
+  {
    "video_id": "rrd8dcRaomc",
    "title": "11/14【日本株ヤバいヤバいヤバい‼‼半導体株暴落捕まったか‼】キオクシア急落。日経平均バリュー株シフト。ドル円160円。エヌビディア急落で米国株、ナスダック、ハイテク株大荒れ。仮想通貨BTC",
    "published": "2026-11-14T03:00:00+00:00",
@@ -94,122 +111,6 @@
       "200日移動平均線と長期移動平均線がデッドクロスを形成し、需給の悪化を伴って下落基調が強まっている。"
      ],
      "timestamp": "38:11",
-     "confidence": "medium"
-    }
-   ]
-  },
-  {
-   "video_id": "2mQZNn5rR7g",
-   "title": "11/13【半導体株,日本株騙し上げか⁉】日経平均後場急落でバリュー株シフト。ドル円160円。エヌビディア急落で米国株、ナスダック、ハイテク株乱高下か。仮想通貨BTC弱",
-   "published": "2026-11-13T14:13:28+00:00",
-   "description": "「10か月20％オフ」のメンバークーポンの有効期限11/22まで。\nMEDIABLEのVIP、プラチナが対象です。\n\n ※クーポンコード：birthday38\n\n◆Mediable\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://you",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "本動画では、後場の急落を経てバリュー株シフトが進む日本株や、ドル円160円台手前での推移、NVIDIA急落に伴う米国ハイテク株の乱高下について解説しています。日経平均のPER16倍ラインを意識した調整局面において、年末に向け需給の良い銘柄と悪い銘柄で明暗が分かれる二極化相場を指摘。信用買い残が重く戻り売りに押される半導体・防衛関連銘柄への警戒を示す一方、需給改善や年末商戦の恩恵を受けるゲーム関連銘柄などの優位性を論じています。",
-   "market_view": "日経平均はPER16倍の理論値付近でジグザグと段階的な調整が入る見通し。年末に向けて需給良好な銘柄に資金が流出入する一方、信用買い残が多い銘柄は戻り売りに押される二極化相場が想定されます。",
-   "market": "JP",
-   "picks": [
-    {
-     "name": "任天堂",
-     "name_en": "Nintendo Co., Ltd.",
-     "ticker": "7974",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "ゼルダ効果で本体販売好調、年末商戦に向け上昇を期待",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "ゼルダの新作効果でニンテンドースイッチの国内週間販売台数が従来の2万台から5〜6万台へ急増している。",
-      "年末のクリスマス商戦に向けて需要増加が見込まれるほか、信用買い残も減少傾向で需給面の改善が進んでいる。"
-     ],
-     "timestamp": "11:03",
-     "confidence": "high"
-    },
-    {
-     "name": "キオクシアホールディングス",
-     "name_en": "Kioxia Holdings Corporation",
-     "ticker": "285A",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "信用買い残増加で需給悪化、年末まで戻り売りに警戒",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "高値圏で信用買いした投資家が捕まっており、制度信用倍率が16.16倍に悪化するなど戻り売り圧力が非常に強い。",
-      "年末に向けた損益通算の売りも出やすく、株価が反発した局面では戻り売りを徹底して無理な飛び乗りは避けるべき。"
-     ],
-     "timestamp": "16:53",
-     "confidence": "high"
-    },
-    {
-     "name": "三菱重工業",
-     "name_en": "Mitsubishi Heavy Industries, Ltd.",
-     "ticker": "7011",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "防衛費減額ニュースと需給悪化により投げ売り警戒",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "防衛予算が想定より大幅減額された悪材料に対し、信用買い残が1100万株以上残る悪需給が重なり急落している。",
-      "市場はネガティブインパクトに過剰反応しやすい地合いであり、受給改善が進まないため年内の戻りは厳しいと判断。"
-     ],
-     "timestamp": "14:31",
-     "confidence": "medium"
-    },
-    {
-     "name": "スクウェア・エニックス・ホールディングス",
-     "name_en": "SQUARE ENIX HOLDINGS CO., LTD.",
-     "ticker": "9684",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "信用倍率1倍未満で需給良好、上値を試す展開",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "信用倍率が1倍未満で買残より売残が多い好需給状態にあり、好材料が出たことで一気に上値を試しに行く動きとなっている。"
-     ],
-     "timestamp": "32:12",
-     "confidence": "medium"
-    },
-    {
-     "name": "三井金属鉱業",
-     "name_en": "Mitsui Mining and Smelting Co., Ltd.",
-     "ticker": "5706",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "信用倍率44倍の悪需給により年内の上昇は困難と予想",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "制度信用倍率が44.65倍と極めて高く、デッドクロス形成も伴って高値から半年経過した戻り売り圧力が継続している。"
-     ],
-     "timestamp": "48:09",
-     "confidence": "medium"
-    },
-    {
-     "name": "東京エレクトロン",
-     "name_en": "Tokyo Electron Limited",
-     "ticker": "8035",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "移動平均線のデッドクロス控え戻り売りに注意",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "50日と200日の移動平均線デッドクロスが近づいており、戻り売りに押されて下方のレンジで年末を迎える可能性がある。"
-     ],
-     "timestamp": "1:02:37",
      "confidence": "medium"
     }
    ]

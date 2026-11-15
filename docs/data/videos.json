@@ -1,6 +1,21 @@
 {
- "generated_at": "2026-11-15T21:05:18.763108+09:00",
+ "generated_at": "2026-11-15T22:05:15.503311+09:00",
  "videos": [
+  {
+   "video_id": "noYhvh7EyW8",
+   "title": "11/1【日本株ヤバい‼半導体株暴落捕まったか‼】キオクシア急落。日経平均バリュー株シフト。ドル円160円。エヌビディア急落で米国株、ナスダック、ハイテク株大荒れ。仮想通貨BTC",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-11-15T12:26:25+00:00",
+   "overview": "",
+   "market_view": "",
+   "market": "",
+   "no_transcript": true,
+   "skip_reason": "この動画には字幕がありません",
+   "picks": []
+  },
   {
    "video_id": "2mZtf74kuyU",
    "title": "今週（11/16〜）専業が自信を持って買う1銘柄",
@@ -188,58 +203,6 @@
      "ticker": "5803",
      "stance": "bearish",
      "timestamp": "38:11"
-    }
-   ]
-  },
-  {
-   "video_id": "2mQZNn5rR7g",
-   "title": "11/13【半導体株,日本株騙し上げか⁉】日経平均後場急落でバリュー株シフト。ドル円160円。エヌビディア急落で米国株、ナスダック、ハイテク株乱高下か。仮想通貨BTC弱",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-11-13T14:13:28+00:00",
-   "overview": "本動画では、後場の急落を経てバリュー株シフトが進む日本株や、ドル円160円台手前での推移、NVIDIA急落に伴う米国ハイテク株の乱高下について解説しています。日経平均のPER16倍ラインを意識した調整局面において、年末に向け需給の良い銘柄と悪い銘柄で明暗が分かれる二極化相場を指摘。信用買い残が重く戻り売りに押される半導体・防衛関連銘柄への警戒を示す一方、需給改善や年末商戦の恩恵を受けるゲーム関連銘柄などの優位性を論じています。",
-   "market_view": "日経平均はPER16倍の理論値付近でジグザグと段階的な調整が入る見通し。年末に向けて需給良好な銘柄に資金が流出入する一方、信用買い残が多い銘柄は戻り売りに押される二極化相場が想定されます。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "任天堂",
-     "ticker": "7974",
-     "stance": "bullish",
-     "timestamp": "11:03"
-    },
-    {
-     "name": "キオクシアホールディングス",
-     "ticker": "285A",
-     "stance": "bearish",
-     "timestamp": "16:53"
-    },
-    {
-     "name": "三菱重工業",
-     "ticker": "7011",
-     "stance": "bearish",
-     "timestamp": "14:31"
-    },
-    {
-     "name": "スクウェア・エニックス・ホールディングス",
-     "ticker": "9684",
-     "stance": "bullish",
-     "timestamp": "32:12"
-    },
-    {
-     "name": "三井金属鉱業",
-     "ticker": "5706",
-     "stance": "bearish",
-     "timestamp": "48:09"
-    },
-    {
-     "name": "東京エレクトロン",
-     "ticker": "8035",
-     "stance": "neutral",
-     "timestamp": "1:02:37"
     }
    ]
   },
