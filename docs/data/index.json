@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T19:05:07.030430+09:00",
+ "generated_at": "2026-11-15T20:05:37.014774+09:00",
  "channels": [
   {
    "id": "UCsaeHha7ai_NNX8or8Jyb-g",
@@ -31,14 +31,14 @@
    "short": "ぺこ",
    "slot": 4,
    "video_count": 2,
-   "latest": "2026-11-08T11:00:04+00:00"
+   "latest": "2026-11-15T11:00:29+00:00"
   }
  ],
  "stats": {
-  "stocks": 33,
+  "stocks": 34,
   "videos": 8,
   "videos_this_week": 7,
-  "bullish_lead": 10,
+  "bullish_lead": 11,
   "split": 1,
   "skipped": 0
  },
@@ -252,7 +252,7 @@
     "market_open": false,
     "symbol": "285A.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-14T23:05:10.549386+00:00"
+    "fetched_at": "2026-11-15T11:05:37.131653+00:00"
    }
   },
   {
@@ -441,7 +441,7 @@
     "market_open": false,
     "symbol": "7011.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-14T23:05:10.549386+00:00"
+    "fetched_at": "2026-11-15T11:05:37.131653+00:00"
    }
   },
   {
@@ -587,7 +587,7 @@
     "market_open": false,
     "symbol": "7974.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-14T23:05:10.549386+00:00"
+    "fetched_at": "2026-11-15T11:05:37.131653+00:00"
    }
   },
   {
@@ -713,7 +713,7 @@
     "market_open": false,
     "symbol": "6857.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-14T23:05:10.549386+00:00"
+    "fetched_at": "2026-11-15T11:05:37.131653+00:00"
    }
   },
   {
@@ -860,7 +860,7 @@
     "market_open": false,
     "symbol": "6976.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-14T23:05:10.549386+00:00"
+    "fetched_at": "2026-11-15T11:05:37.131653+00:00"
    }
   },
   {
@@ -986,7 +986,113 @@
     "market_open": false,
     "symbol": "5706.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-14T23:05:10.549386+00:00"
+    "fetched_at": "2026-11-15T11:05:37.131653+00:00"
+   }
+  },
+  {
+   "key": "JP:7550",
+   "name": "ゼンショーホールディングス",
+   "name_en": "Zensho Holdings Co., Ltd.",
+   "ticker": "7550",
+   "market": "JP",
+   "mentions": [
+    {
+     "channel_id": "UCt7qqCkTFFRfKjXzwqUXq4g",
+     "channel_name": "ぺこ株",
+     "channel_short": "ぺこ",
+     "slot": 4,
+     "video_id": "2mZtf74kuyU",
+     "video_title": "今週（11/16〜）専業が自信を持って買う1銘柄",
+     "published": "2026-11-15T11:00:29+00:00",
+     "stance": "bullish",
+     "stance_note": "好業績も高値圏のため押し目を待って狙う",
+     "target_price": "買値から10%",
+     "entry": "",
+     "stop": "出来高ゾーンを抜けたライン",
+     "reasons": [
+      "食材調達から販売まで一貫管理しコストを抑制。すき家だけでなく浜寿司や海外事業が成長しており、世界1万5309店舗まで規模を拡大している点。",
+      "上期累計の業績は売上・営業益ともに過去最高で営業利益率は8.2%に改善。通期の営業利益予想も1050億円へ引き上げるなど業績が極めて好調な点。",
+      "チャートは日足・週足ともに強い上昇トレンドで高値更新状態。一目均衡表の雲や移動平均線に沿って再上昇しており調整局面は押し目買いの好機となる点。"
+     ],
+     "timestamp": "03:47",
+     "seconds": 227,
+     "confidence": "high"
+    }
+   ],
+   "consensus": {
+    "bullish": 1,
+    "bearish": 0,
+    "neutral": 0
+   },
+   "voices": 1,
+   "split": false,
+   "last_mentioned": "2026-11-15T11:00:29+00:00",
+   "channel_ids": [
+    "UCt7qqCkTFFRfKjXzwqUXq4g"
+   ],
+   "price": {
+    "date": "2026-11-13",
+    "close": 13270.0,
+    "change_pct": 5.69,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 1165300,
+    "volume_ratio": 1.98,
+    "rsi14": 63.5,
+    "rsi_zone": "中立",
+    "ma25": 12222.8,
+    "ma75": 11423.57,
+    "trend": "上昇基調",
+    "pos52": 100,
+    "spark": [
+     11475.0,
+     11340.0,
+     10980.0,
+     10400.0,
+     10450.0,
+     10220.0,
+     10435.0,
+     10520.0,
+     10595.0,
+     10705.0,
+     10790.0,
+     11065.0,
+     11115.0,
+     11055.0,
+     11525.0,
+     11315.0,
+     11705.0,
+     11780.0,
+     11700.0,
+     11980.0,
+     11960.0,
+     12360.0,
+     12335.0,
+     11950.0,
+     11715.0,
+     12005.0,
+     12165.0,
+     12080.0,
+     11835.0,
+     12020.0,
+     12560.0,
+     12345.0,
+     12465.0,
+     13040.0,
+     12195.0,
+     12660.0,
+     12870.0,
+     12705.0,
+     12555.0,
+     13270.0
+    ],
+    "currency": "JPY",
+    "exchange_name": "Tokyo",
+    "market_open": false,
+    "symbol": "7550.T",
+    "source": "yahoo",
+    "fetched_at": "2026-11-15T11:05:37.131653+00:00"
    }
   },
   {
@@ -1611,7 +1717,7 @@
     "market_open": false,
     "symbol": "7012.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-14T22:05:09.982682+00:00"
+    "fetched_at": "2026-11-15T11:05:37.131653+00:00"
    }
   },
   {
@@ -1717,7 +1823,7 @@
     "market_open": false,
     "symbol": "7013.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-14T22:05:09.982682+00:00"
+    "fetched_at": "2026-11-15T11:05:37.131653+00:00"
    }
   },
   {
@@ -1821,7 +1927,7 @@
     "market_open": false,
     "symbol": "6503.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-14T22:05:09.982682+00:00"
+    "fetched_at": "2026-11-15T11:05:37.131653+00:00"
    }
   },
   {
@@ -1925,7 +2031,7 @@
     "market_open": false,
     "symbol": "5631.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-14T22:05:09.982682+00:00"
+    "fetched_at": "2026-11-15T11:05:37.131653+00:00"
    }
   },
   {
@@ -2133,7 +2239,7 @@
     "market_open": false,
     "symbol": "5803.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-14T23:05:10.549386+00:00"
+    "fetched_at": "2026-11-15T11:05:37.131653+00:00"
    }
   },
   {
@@ -2237,7 +2343,7 @@
     "market_open": false,
     "symbol": "9684.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-14T23:05:10.549386+00:00"
+    "fetched_at": "2026-11-15T11:05:37.131653+00:00"
    }
   },
   {
@@ -2341,7 +2447,7 @@
     "market_open": false,
     "symbol": "8035.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-14T23:05:10.549386+00:00"
+    "fetched_at": "2026-11-15T11:05:37.131653+00:00"
    }
   },
   {
@@ -2446,7 +2552,7 @@
     "market_open": false,
     "symbol": "NVDA",
     "source": "yahoo",
-    "fetched_at": "2026-11-14T23:05:10.549386+00:00"
+    "fetched_at": "2026-11-15T11:05:37.131653+00:00"
    }
   },
   {
@@ -2572,7 +2678,7 @@
     "market_open": false,
     "symbol": "WDC",
     "source": "yahoo",
-    "fetched_at": "2026-11-14T23:05:10.549386+00:00"
+    "fetched_at": "2026-11-15T11:05:37.131653+00:00"
    }
   },
   {
@@ -2677,7 +2783,7 @@
     "market_open": false,
     "symbol": "9984.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-14T23:05:10.549386+00:00"
+    "fetched_at": "2026-11-15T11:05:37.131653+00:00"
    }
   },
   {
@@ -2782,7 +2888,7 @@
     "market_open": false,
     "symbol": "5801.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-14T23:05:10.549386+00:00"
+    "fetched_at": "2026-11-15T11:05:37.131653+00:00"
    }
   },
   {
@@ -2908,7 +3014,7 @@
     "market_open": false,
     "symbol": "4588.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-14T23:05:10.549386+00:00"
+    "fetched_at": "2026-11-15T11:05:37.131653+00:00"
    }
   },
   {
@@ -3013,7 +3119,7 @@
     "market_open": false,
     "symbol": "^N225",
     "source": "yahoo",
-    "fetched_at": "2026-11-14T23:05:10.549386+00:00"
+    "fetched_at": "2026-11-15T11:05:37.131653+00:00"
    }
   },
   {
@@ -3117,7 +3223,7 @@
     "market_open": false,
     "symbol": "CRWV",
     "source": "yahoo-search",
-    "fetched_at": "2026-11-14T23:05:10.549386+00:00"
+    "fetched_at": "2026-11-15T11:05:37.131653+00:00"
    }
   },
   {
@@ -3221,7 +3327,7 @@
     "market_open": false,
     "symbol": "AMAT",
     "source": "yahoo",
-    "fetched_at": "2026-11-14T23:05:10.549386+00:00"
+    "fetched_at": "2026-11-15T11:05:37.131653+00:00"
    }
   },
   {
@@ -3326,7 +3432,7 @@
     "market_open": false,
     "symbol": "2914.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-14T23:05:10.549386+00:00"
+    "fetched_at": "2026-11-15T11:05:37.131653+00:00"
    }
   },
   {
@@ -3430,7 +3536,7 @@
     "market_open": false,
     "symbol": "8058.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-14T23:05:10.549386+00:00"
+    "fetched_at": "2026-11-15T11:05:37.131653+00:00"
    }
   },
   {
@@ -3534,7 +3640,7 @@
     "market_open": false,
     "symbol": "8031.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-14T23:05:10.549386+00:00"
+    "fetched_at": "2026-11-15T11:05:37.131653+00:00"
    }
   },
   {
@@ -3562,28 +3668,6 @@
      ],
      "timestamp": "05:57",
      "seconds": 357,
-     "confidence": "high"
-    },
-    {
-     "channel_id": "UCt7qqCkTFFRfKjXzwqUXq4g",
-     "channel_name": "ぺこ株",
-     "channel_short": "ぺこ",
-     "slot": 4,
-     "video_id": "q6zWOf_TJ8I",
-     "video_title": "今週（11/2〜）専業が自信を持って買う1銘柄",
-     "published": "2026-11-01T11:13:57+00:00",
-     "stance": "bullish",
-     "stance_note": "高利益率と好決算を背景に上昇期待",
-     "target_price": "買根から10%",
-     "entry": "場所は未定(打診で300株、調整時に追加300株)",
-     "stop": "13週線",
-     "reasons": [
-      "統合業務ソフト「OBIC7」の自社開発と直販により、営業利益率が直近で約68%と非常に高い収益性と継続性を誇る。",
-      "第2四半期決算で通期予想の上方修正と増配を発表し、上限500億円の自社株買いも含めた積極的な株主還元姿勢を示す。",
-      "日足・週足ともにパーフェクトオーダーを形成しており、6000円の節目を上抜けて青天井状態で強い上昇トレンドにある。"
-     ],
-     "timestamp": "05:42",
-     "seconds": 342,
      "confidence": "high"
     }
    ],
@@ -3660,7 +3744,7 @@
     "market_open": false,
     "symbol": "4684.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-14T23:05:10.549386+00:00"
+    "fetched_at": "2026-11-15T11:05:37.131653+00:00"
    }
   },
   {
@@ -3764,7 +3848,7 @@
     "market_open": false,
     "symbol": "6758.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-14T23:05:10.549386+00:00"
+    "fetched_at": "2026-11-15T11:05:37.131653+00:00"
    }
   },
   {
@@ -3832,7 +3916,7 @@
     "market_open": false,
     "symbol": "660A.T",
     "source": "yahoo-search",
-    "fetched_at": "2026-11-14T23:05:10.549386+00:00"
+    "fetched_at": "2026-11-15T11:05:37.131653+00:00"
    }
   }
  ]
