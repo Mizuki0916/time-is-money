@@ -1,6 +1,82 @@
 {
- "generated_at": "2026-11-15T16:05:04.716766+09:00",
+ "generated_at": "2026-11-15T18:05:13.675235+09:00",
  "videos": [
+  {
+   "video_id": "-E_koTSUx4g",
+   "title": "月曜日の注目銘柄を見ていく！（ゲームIPセクター・三菱重工業・アシックス・任天堂・スシロー・キオクシア等）株式テクニカルチャート分析",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-11-14T23:00:36+00:00",
+   "overview": "日経平均は前週の急落から自律反発を見せているものの、トレンド転換には至っておらずイベント待ちの状況です。今週はNVIDIA決算やアンソピックの上場などを控えて半導体セクターからの資金抜けが懸念されるため、無理なトレードは控えつつ足型の良い銘柄やテーマ性のある銘柄に絞る方針が示されています。具体的にはゲーム・IP関連や、急落後の反発を狙う個別銘柄テクニカル分析が解説されています。",
+   "market_view": "4時間足の下落トレンドラインを抜け切れておらずイベント待ち。アンソピック上場前の半導体関連の資金抜けに警戒が必要な局面。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "バンダイナムコホールディングス",
+     "ticker": "7832",
+     "stance": "bullish",
+     "timestamp": "03:32"
+    },
+    {
+     "name": "アシックス",
+     "ticker": "7936",
+     "stance": "bullish",
+     "timestamp": "04:51"
+    },
+    {
+     "name": "任天堂",
+     "ticker": "7974",
+     "stance": "bullish",
+     "timestamp": "05:56"
+    },
+    {
+     "name": "FOOD & LIFE COMPANIES",
+     "ticker": "3563",
+     "stance": "bullish",
+     "timestamp": "06:44"
+    },
+    {
+     "name": "三菱重工業",
+     "ticker": "7011",
+     "stance": "bullish",
+     "timestamp": "08:21"
+    },
+    {
+     "name": "データセクション",
+     "ticker": "3905",
+     "stance": "neutral",
+     "timestamp": "08:56"
+    },
+    {
+     "name": "楽天銀行",
+     "ticker": "5838",
+     "stance": "bullish",
+     "timestamp": "09:11"
+    },
+    {
+     "name": "アドバンテスト",
+     "ticker": "6857",
+     "stance": "neutral",
+     "timestamp": "10:14"
+    },
+    {
+     "name": "太陽誘電",
+     "ticker": "6976",
+     "stance": "neutral",
+     "timestamp": "11:11"
+    },
+    {
+     "name": "キオクシアホールディングス",
+     "ticker": "285A",
+     "stance": "neutral",
+     "timestamp": "11:33"
+    }
+   ]
+  },
   {
    "video_id": "S64dm-dk2ms",
    "title": "防衛費削減報道で、防衛関連銘柄が急落（三菱重工業・IHI・川崎重工業など）株式テクニカルチャート分析",
@@ -44,64 +120,6 @@
      "ticker": "5631",
      "stance": "neutral",
      "timestamp": "12:09"
-    }
-   ]
-  },
-  {
-   "video_id": "bhaVGeNqjCI",
-   "title": "来週の相場に備えて！　日本株チャート分析LIVE　11/14",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-11-14T05:27:10+00:00",
-   "overview": "日本株のチャート・決算分析ライブ動画。アンソロピックの上場やNVIDIAの決算を控えて半導体株中心に資金抜けが警戒される現状を踏まえつつ、視聴者からのリクエスト銘柄について決算評価や需給、チャート形状を解説。鹿島やメイコーなどの好決算銘柄や、急落したアシックス、下落が続く半導体関連株の今後の見通しとエントリー判断を提示している。",
-   "market_view": "決算発表通過や個別イベントを控え、週前半は半導体を中心に資金抜けが懸念されるが、イベント通過後は年末に向けてAI・半導体分野を中心に強気スタンスへ移行する見込み。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "レーザーテック",
-     "ticker": "6920",
-     "stance": "bullish",
-     "timestamp": "03:28"
-    },
-    {
-     "name": "住友ファーマ",
-     "ticker": "4506",
-     "stance": "bullish",
-     "timestamp": "04:49"
-    },
-    {
-     "name": "鹿島建設",
-     "ticker": "1812",
-     "stance": "bullish",
-     "timestamp": "09:12"
-    },
-    {
-     "name": "イビデン",
-     "ticker": "4062",
-     "stance": "bearish",
-     "timestamp": "11:54"
-    },
-    {
-     "name": "アシックス",
-     "ticker": "7936",
-     "stance": "neutral",
-     "timestamp": "34:17"
-    },
-    {
-     "name": "メイコー",
-     "ticker": "6787",
-     "stance": "bullish",
-     "timestamp": "43:54"
-    },
-    {
-     "name": "インターネットイニシアティブ",
-     "ticker": "3774",
-     "stance": "bullish",
-     "timestamp": "01:05:13"
     }
    ]
   },
