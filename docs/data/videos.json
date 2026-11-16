@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T08:25:00.269525+09:00",
+ "generated_at": "2026-11-17T08:28:52.249883+09:00",
  "videos": [
   {
    "video_id": "nkoSz2Dssoo",
@@ -124,60 +124,118 @@
    ]
   },
   {
-   "video_id": "noYhvh7EyW8",
-   "title": "11/15【日本株ヤバい‼半導体株暴落捕まったか‼】キオクシア急落。日経平均バリュー株シフト。ドル円160円。エヌビディア急落で米国株、ナスダック、ハイテク株大荒れ。仮想通貨BTC",
+   "video_id": "oBVO9UWPCag",
+   "title": "11/16【日経平均1480円急落。半導体株投げ売り連鎖ヤバい‼】日本株二極化加速。キオクシア暴落でバリュー株シフト。ドル円159円、米国株、ナスダック、ハイテク株も大荒れか⁉仮想通貨BTC急落",
    "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
    "channel_name": "Sho's投資情報局",
    "channel_short": "Sho",
    "slot": 3,
-   "published": "2026-11-15T14:14:00+00:00",
-   "overview": "米ハイテク株安や暗号資産急落の影響を受けた相場環境において、半導体株と出遅れバリュー株の明暗についての解説がなされています。信用買い残が大量に積み上がるキオクシアなどは年末にかけて厳しい展開が予想される一方、JR東海やセブン銀行、ベイカレントといった需給が良好で移動平均線のゴールデンクロスを形成するバリュー株への資金シフトが継続すると分析されています。",
-   "market_view": "半導体株などの需給悪化銘柄は下落圧力が強いものの、受給が良くチャート形状の優れた出遅れバリュー株主導のローテーション相場が年末にかけて進むと見ています。",
+   "published": "2026-11-16T09:15:02+00:00",
+   "overview": "日経平均が1480円急落した背景として、信用買残の過多や空売り燃料の不足など8つの急落サインが点灯したことを解説しています。半導体株は年末にかけて需給悪化や投げ売りにより厳しい展開が続く一方、需給が良好で200日移動平均線がゴールデンクロスしているバリュー株や出遅れ銘柄への資金シフトによる二極化相場を予想しています。投げ売りが落ち着く年末の安値水準が絶好の買い場になると分析しています。",
+   "market_view": "日経平均は需給悪化や空売り燃料の枯渇により上値が重く、年末にかけて半導体株などの下落銘柄とバリュー株などの上昇銘柄に明暗が分かれる二極化相場が継続する見通しです。",
    "market": "JP",
    "no_transcript": false,
    "skip_reason": "",
    "picks": [
     {
-     "name": "キオクシアホールディングス",
+     "name": "日経平均株価",
+     "ticker": "N225",
+     "stance": "bearish",
+     "timestamp": "01:04"
+    },
+    {
+     "name": "キオクシア",
      "ticker": "285A",
      "stance": "bearish",
-     "timestamp": "04:29"
+     "timestamp": "01:21"
+    },
+    {
+     "name": "レーザーテック",
+     "ticker": "6920",
+     "stance": "bearish",
+     "timestamp": "33:14"
     },
     {
      "name": "任天堂",
      "ticker": "7974",
      "stance": "bullish",
-     "timestamp": "06:56"
+     "timestamp": "34:50"
     },
     {
-     "name": "JR東海",
-     "ticker": "9022",
+     "name": "オリエンタルランド",
+     "ticker": "4661",
      "stance": "bullish",
-     "timestamp": "18:25"
+     "timestamp": "35:08"
     },
     {
-     "name": "アドバンテスト",
-     "ticker": "6857",
+     "name": "ソニーグループ",
+     "ticker": "6758",
+     "stance": "bullish",
+     "timestamp": "35:25"
+    }
+   ]
+  },
+  {
+   "video_id": "jcVR6vGajWA",
+   "title": "日経平均終値1480円安！今日のデイトレード振り返り！（バンナム・フォードアンドライフ・ソフトバンクグループ・ティアフォー・アシックスなど）",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-11-16T07:22:22+00:00",
+   "overview": "日経平均が大幅下落となる厳しい相場環境のなか、AI・半導体関連以外の好足型銘柄に焦点を当てたデイトレードの実践結果を振り返る動画です。フェローテックの決算・修正発表の解説に加え、アシックスやフード&ライフ、バンダイナムコなどの非AI銘柄を中心に、エントリー位置や売買根拠、損切り判断が具体的に解説されています。",
+   "market_view": "AI関連銘柄からの資金抜けで相場全体が圧迫される一方、非AIの好業績株や内需セクターに資金が逃避する展開となっています。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "フェローテックホールディングス",
+     "ticker": "6890",
      "stance": "neutral",
-     "timestamp": "27:03"
+     "timestamp": "04:22"
     },
     {
-     "name": "五洋建設",
-     "ticker": "1893",
+     "name": "アシックス",
+     "ticker": "7936",
      "stance": "bullish",
-     "timestamp": "40:08"
+     "timestamp": "07:52"
     },
     {
-     "name": "ベイカレント",
-     "ticker": "6532",
+     "name": "FOOD & LIFE COMPANIES",
+     "ticker": "3563",
      "stance": "bullish",
-     "timestamp": "56:56"
+     "timestamp": "09:42"
     },
     {
-     "name": "セブン銀行",
-     "ticker": "8410",
+     "name": "バンダイナムコホールディングス",
+     "ticker": "7832",
      "stance": "bullish",
-     "timestamp": "01:01:37"
+     "timestamp": "10:41"
+    },
+    {
+     "name": "住友ファーマ",
+     "ticker": "4506",
+     "stance": "neutral",
+     "timestamp": "11:33"
+    },
+    {
+     "name": "ソフトバンクグループ",
+     "ticker": "9984",
+     "stance": "bearish",
+     "timestamp": "11:53"
+    },
+    {
+     "name": "ティアフォー",
+     "ticker": "",
+     "stance": "bearish",
+     "timestamp": "12:51"
+    },
+    {
+     "name": "三菱UFJフィナンシャル・グループ",
+     "ticker": "8306",
+     "stance": "bullish",
+     "timestamp": "13:58"
     }
    ]
   },
@@ -276,52 +334,6 @@
      "ticker": "285A",
      "stance": "neutral",
      "timestamp": "11:33"
-    }
-   ]
-  },
-  {
-   "video_id": "S64dm-dk2ms",
-   "title": "防衛費削減報道で、防衛関連銘柄が急落（三菱重工業・IHI・川崎重工業など）株式テクニカルチャート分析",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-11-14T09:00:17+00:00",
-   "overview": "防衛費の削減報道を受け、防衛関連銘柄(三菱重工業、川崎重工業、IHIなど)が急落したニュースとテクニカルチャートを分析しています。全体として出来高に対して信用買い残が多く、含み損のしこりが株価の上昇を阻害している受給問題が解説されています。安易な押し目買いは避け、週足などで包み足(アウトサイド)の要線が出現するような明確な底打ち・反転サインを確認してからポジションを取ることが推奨されています。",
-   "market_view": "",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "三菱重工業",
-     "ticker": "7011",
-     "stance": "bearish",
-     "timestamp": "01:39"
-    },
-    {
-     "name": "川崎重工業",
-     "ticker": "7012",
-     "stance": "bearish",
-     "timestamp": "08:35"
-    },
-    {
-     "name": "IHI",
-     "ticker": "7013",
-     "stance": "neutral",
-     "timestamp": "09:26"
-    },
-    {
-     "name": "三菱電機",
-     "ticker": "6503",
-     "stance": "neutral",
-     "timestamp": "11:52"
-    },
-    {
-     "name": "日本製鋼所",
-     "ticker": "5631",
-     "stance": "neutral",
-     "timestamp": "12:09"
     }
    ]
   },
