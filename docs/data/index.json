@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T08:11:21.118420+09:00",
+ "generated_at": "2026-11-17T08:23:28.865175+09:00",
  "channels": [
   {
    "id": "UCsaeHha7ai_NNX8or8Jyb-g",
@@ -7,7 +7,7 @@
    "short": "TL",
    "slot": 1,
    "video_count": 2,
-   "latest": "2026-11-13T11:14:37+00:00"
+   "latest": "2026-11-16T11:35:28+00:00"
   },
   {
    "id": "UCdQdRRLoajrt-5TEaAxslxA",
@@ -23,7 +23,7 @@
    "short": "Sho",
    "slot": 3,
    "video_count": 2,
-   "latest": "2026-11-15T14:14:00+00:00"
+   "latest": "2026-11-16T14:46:45+00:00"
   },
   {
    "id": "UCt7qqCkTFFRfKjXzwqUXq4g",
@@ -35,21 +35,63 @@
   }
  ],
  "stats": {
-  "stocks": 36,
+  "stocks": 38,
   "videos": 8,
   "videos_this_week": 7,
-  "bullish_lead": 14,
+  "bullish_lead": 15,
   "split": 1,
   "skipped": 0
  },
  "stocks": [
   {
    "key": "JP:285A",
-   "name": "キオクシアホールディングス",
+   "name": "キオクシア",
    "name_en": "Kioxia Holdings Corporation",
    "ticker": "285A",
    "market": "JP",
    "mentions": [
+    {
+     "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+     "channel_name": "Sho's投資情報局",
+     "channel_short": "Sho",
+     "slot": 3,
+     "video_id": "nkoSz2Dssoo",
+     "video_title": "11/16【日経平均1480円急落。半導体株投げ売り連鎖ヤバい‼】日本株二極化加速。キオクシア暴落でバリュー株シフト。ドル円159円、米国株、ナスダック、ハイテク株も大荒れか⁉仮想通貨BTC急落",
+     "published": "2026-11-16T14:46:45+00:00",
+     "stance": "bearish",
+     "stance_note": "信用買増加で受給悪化し下落懸念",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "信用買残が3047万株と大きく増加して信用倍率が17.58倍へ著しく悪化している。",
+      "直近の買い手が捕まって含み損状態となり、年末に向けた投げ売りが継続するリスクが高い。"
+     ],
+     "timestamp": "14:01",
+     "seconds": 841,
+     "confidence": "high"
+    },
+    {
+     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+     "channel_name": "Trader's Lab",
+     "channel_short": "TL",
+     "slot": 1,
+     "video_id": "jHQeTKKDoXU",
+     "video_title": "【日経平均】  AI半導体株急落！戻り売り警戒 一方で内需株は強い！  NDIVIA・サンディスク・キオクシア・アドバンテスト・イビデン・古河電気・フジクラ・吉野家・ゼンショー",
+     "published": "2026-11-16T11:35:28+00:00",
+     "stance": "bearish",
+     "stance_note": "信用買い残が多く売り圧力が非常に強い",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "直近安値に迫る大幅下落となっており、割れるとさらに下の価格帯まで下落する恐れがある。",
+      "信用買い残が5000万株を超えて需給が大幅に悪化しており、戻り売り圧力が極めて強い。"
+     ],
+     "timestamp": "25:57",
+     "seconds": 1557,
+     "confidence": "high"
+    },
     {
      "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
      "channel_name": "Sho's投資情報局",
@@ -92,27 +134,6 @@
      "confidence": "low"
     },
     {
-     "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-     "channel_name": "Sho's投資情報局",
-     "channel_short": "Sho",
-     "slot": 3,
-     "video_id": "rrd8dcRaomc",
-     "video_title": "11/14【日本株ヤバいヤバいヤバい‼‼半導体株暴落捕まったか‼】キオクシア急落。日経平均バリュー株シフト。ドル円160円。エヌビディア急落で米国株、ナスダック、ハイテク株大荒れ。仮想通貨BTC",
-     "published": "2026-11-14T03:00:00+00:00",
-     "stance": "bearish",
-     "stance_note": "信用買い捕まりと期日売りで上値重い",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "信用買いの大部分が含み損状態であり、戻り売りや年末の節税売り・期日売りの圧力が非常に強い状況。",
-      "200日線と長期移動平均線のデッドクロスが近づいており、需給悪化に伴い上値が重い展開が続く見込み。"
-     ],
-     "timestamp": "34:57",
-     "seconds": 2097,
-     "confidence": "high"
-    },
-    {
      "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
      "channel_name": "Trader's Lab",
      "channel_short": "TL",
@@ -131,27 +152,6 @@
      ],
      "timestamp": "28:53",
      "seconds": 1733,
-     "confidence": "high"
-    },
-    {
-     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-     "channel_name": "Trader's Lab",
-     "channel_short": "TL",
-     "slot": 1,
-     "video_id": "RLHviu3eZqU",
-     "video_title": "【日経平均】 自律反発はまだ続く 下げ止まりは確定か 私はこう立ち回る サンディスク・キオクシア・アドバンテスト・太陽誘電・オンコリスバイオ",
-     "published": "2026-11-11T11:00:16+00:00",
-     "stance": "neutral",
-     "stance_note": "セリクラ後の短期反発も中長期買いは保留",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "売られすぎによる売り物の減少と急増した出来高で一旦の下げ止まり感はあるが自律反発の域を出ない点。",
-      "週足ではマイナス2シマへのバンドウォークが継続中で、高値掴みの戻り売りが出やすい複雑なフェーズである点。"
-     ],
-     "timestamp": "24:48",
-     "seconds": 1488,
      "confidence": "high"
     },
     {
@@ -183,7 +183,7 @@
    },
    "voices": 4,
    "split": false,
-   "last_mentioned": "2026-11-15T14:14:00+00:00",
+   "last_mentioned": "2026-11-16T14:46:45+00:00",
    "channel_ids": [
     "UCK9Pl6bbWqMC_x7IDca2tIg",
     "UCdQdRRLoajrt-5TEaAxslxA",
@@ -252,7 +252,7 @@
     "market_open": false,
     "symbol": "285A.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
+    "fetched_at": "2026-11-16T23:23:28.939552+00:00"
    }
   },
   {
@@ -262,6 +262,27 @@
    "ticker": "6857",
    "market": "JP",
    "mentions": [
+    {
+     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+     "channel_name": "Trader's Lab",
+     "channel_short": "TL",
+     "slot": 1,
+     "video_id": "jHQeTKKDoXU",
+     "video_title": "【日経平均】  AI半導体株急落！戻り売り警戒 一方で内需株は強い！  NDIVIA・サンディスク・キオクシア・アドバンテスト・イビデン・古河電気・フジクラ・吉野家・ゼンショー",
+     "published": "2026-11-16T11:35:28+00:00",
+     "stance": "neutral",
+     "stance_note": "他銘柄より強さ維持も短期売買向け",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "大陰線をつけて200日移動平均線を割ったものの、前回の主要安値は割らず相対的に強い。",
+      "一目均衡表の雲の上限付近が当面のサポートとして機能するか注目される局面である。"
+     ],
+     "timestamp": "28:28",
+     "seconds": 1708,
+     "confidence": "medium"
+    },
     {
      "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
      "channel_name": "Sho's投資情報局",
@@ -302,37 +323,16 @@
      "timestamp": "10:14",
      "seconds": 614,
      "confidence": "medium"
-    },
-    {
-     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-     "channel_name": "Trader's Lab",
-     "channel_short": "TL",
-     "slot": 1,
-     "video_id": "RLHviu3eZqU",
-     "video_title": "【日経平均】 自律反発はまだ続く 下げ止まりは確定か 私はこう立ち回る サンディスク・キオクシア・アドバンテスト・太陽誘電・オンコリスバイオ",
-     "published": "2026-11-11T11:00:16+00:00",
-     "stance": "bearish",
-     "stance_note": "日足で調整入りし自律反発後の上値重さに警戒",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "9月安値を割れ込み日足レベルで上昇トレンドが終了して明確な調整入り(下落基調)となっている点。",
-      "200日線で反発したものの、上空には25日線・75日線・一目均衡表の雲がレジスタンスとして控えている点。"
-     ],
-     "timestamp": "30:08",
-     "seconds": 1808,
-     "confidence": "high"
     }
    ],
    "consensus": {
     "bullish": 0,
-    "bearish": 1,
-    "neutral": 2
+    "bearish": 0,
+    "neutral": 3
    },
    "voices": 3,
    "split": false,
-   "last_mentioned": "2026-11-15T14:14:00+00:00",
+   "last_mentioned": "2026-11-16T11:35:28+00:00",
    "channel_ids": [
     "UCK9Pl6bbWqMC_x7IDca2tIg",
     "UCdQdRRLoajrt-5TEaAxslxA",
@@ -400,175 +400,7 @@
     "market_open": false,
     "symbol": "6857.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
-   }
-  },
-  {
-   "key": "JP:7011",
-   "name": "三菱重工業",
-   "name_en": "Mitsubishi Heavy Industries, Ltd.",
-   "ticker": "7011",
-   "market": "JP",
-   "mentions": [
-    {
-     "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-     "channel_name": "トレーダーTOMO",
-     "channel_short": "TOMO",
-     "slot": 2,
-     "video_id": "-E_koTSUx4g",
-     "video_title": "月曜日の注目銘柄を見ていく！（ゲームIPセクター・三菱重工業・アシックス・任天堂・スシロー・キオクシア等）株式テクニカルチャート分析",
-     "published": "2026-11-14T23:00:36+00:00",
-     "stance": "bullish",
-     "stance_note": "急落後の2900円支持から3000円への短期リバ",
-     "target_price": "3000円",
-     "entry": "2900円",
-     "stop": "",
-     "reasons": [
-      "悪材料による急落からの短期的リバウンド狙い。意識されやすい2900円の支持線を基準に3000円までの上昇を狙える展開。"
-     ],
-     "timestamp": "08:21",
-     "seconds": 501,
-     "confidence": "high"
-    },
-    {
-     "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-     "channel_name": "トレーダーTOMO",
-     "channel_short": "TOMO",
-     "slot": 2,
-     "video_id": "S64dm-dk2ms",
-     "video_title": "防衛費削減報道で、防衛関連銘柄が急落（三菱重工業・IHI・川崎重工業など）株式テクニカルチャート分析",
-     "published": "2026-11-14T09:00:17+00:00",
-     "stance": "bearish",
-     "stance_note": "防衛費削減と重い信用買い残で反転確認待ち",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "防衛費5年で50兆円台と政府報道が出たことで今後の調達数量削減や受注見通しの悪化が懸念される点。",
-      "信用買い残が約2000万株と高水準でデイトレーダーも少なく、含み損のしこりが株価上昇を阻害している点。",
-      "チャート面で週足4週連続陰線となっており、明確な底打ち反転(アウトサイド要線)が確認できるまで買いづらい点。"
-     ],
-     "timestamp": "01:39",
-     "seconds": 99,
-     "confidence": "high"
-    },
-    {
-     "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-     "channel_name": "Sho's投資情報局",
-     "channel_short": "Sho",
-     "slot": 3,
-     "video_id": "rrd8dcRaomc",
-     "video_title": "11/14【日本株ヤバいヤバいヤバい‼‼半導体株暴落捕まったか‼】キオクシア急落。日経平均バリュー株シフト。ドル円160円。エヌビディア急落で米国株、ナスダック、ハイテク株大荒れ。仮想通貨BTC",
-     "published": "2026-11-14T03:00:00+00:00",
-     "stance": "bearish",
-     "stance_note": "高値期日到来と信用買い残で下落警戒",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "6月高値からの半年期日が到来する中で信用買い残が非常に多く、需給が改善していないため年末に向けて下がりやすい。"
-     ],
-     "timestamp": "32:55",
-     "seconds": 1975,
-     "confidence": "medium"
-    },
-    {
-     "channel_id": "UCt7qqCkTFFRfKjXzwqUXq4g",
-     "channel_name": "ぺこ株",
-     "channel_short": "ぺこ",
-     "slot": 4,
-     "video_id": "SSwJaMHu9Kc",
-     "video_title": "今週（11/9〜）現状報告と展望を語る回",
-     "published": "2026-11-08T11:00:04+00:00",
-     "stance": "bearish",
-     "stance_note": "ロシア現地拠点の事業懸念を警戒",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "ロシア国内にガスタービンやコンプレッサーの保守サービス拠点を保有しており今後の情勢悪化の影響が心配されるため。"
-     ],
-     "timestamp": "05:24",
-     "seconds": 324,
-     "confidence": "low"
-    }
-   ],
-   "consensus": {
-    "bullish": 1,
-    "bearish": 2,
-    "neutral": 0
-   },
-   "voices": 3,
-   "split": true,
-   "last_mentioned": "2026-11-14T23:00:36+00:00",
-   "channel_ids": [
-    "UCK9Pl6bbWqMC_x7IDca2tIg",
-    "UCdQdRRLoajrt-5TEaAxslxA",
-    "UCt7qqCkTFFRfKjXzwqUXq4g"
-   ],
-   "price": {
-    "date": "2026-11-16",
-    "close": 2900.0,
-    "change_pct": -0.7,
-    "live": null,
-    "live_change_pct": null,
-    "live_time": null,
-    "volume": 27542500,
-    "volume_ratio": 1.08,
-    "rsi14": 28.3,
-    "rsi_zone": "売られすぎ",
-    "ma25": 3415.96,
-    "ma75": 3738.91,
-    "trend": "下降基調",
-    "pos52": 0,
-    "spark": [
-     3701.0,
-     3737.0,
-     3887.0,
-     3879.0,
-     3929.0,
-     3897.0,
-     3886.0,
-     3793.0,
-     3839.0,
-     3842.0,
-     3813.0,
-     3871.0,
-     3787.0,
-     3811.0,
-     3680.0,
-     3669.0,
-     3721.0,
-     3727.0,
-     3601.0,
-     3796.0,
-     3781.0,
-     3685.0,
-     3721.0,
-     3688.0,
-     3614.0,
-     3500.0,
-     3527.0,
-     3550.0,
-     3499.0,
-     3413.0,
-     3363.0,
-     3252.0,
-     3052.0,
-     2912.5,
-     3063.0,
-     3151.0,
-     3138.0,
-     3155.0,
-     2920.5,
-     2900.0
-    ],
-    "currency": "JPY",
-    "exchange_name": "Tokyo",
-    "market_open": false,
-    "symbol": "7011.T",
-    "source": "yahoo",
-    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
+    "fetched_at": "2026-11-16T23:23:28.939552+00:00"
    }
   },
   {
@@ -578,6 +410,28 @@
    "ticker": "7974",
    "market": "JP",
    "mentions": [
+    {
+     "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+     "channel_name": "Sho's投資情報局",
+     "channel_short": "Sho",
+     "slot": 3,
+     "video_id": "nkoSz2Dssoo",
+     "video_title": "11/16【日経平均1480円急落。半導体株投げ売り連鎖ヤバい‼】日本株二極化加速。キオクシア暴落でバリュー株シフト。ドル円159円、米国株、ナスダック、ハイテク株も大荒れか⁉仮想通貨BTC急落",
+     "published": "2026-11-16T14:46:45+00:00",
+     "stance": "bullish",
+     "stance_note": "受給改善と新ソフト効果で順調な上昇",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "200日線と長期移動平均線のゴールデンクロスが形成され、100日線・200日線の交差も控えている。",
+      "信用買い残が12万株減少して倍率が4.06倍に改善しており、受給の軽さが確認できる。",
+      "ゼルダ効果やSwitch 2販売後押し、年末商戦に向けた需要などが株価の上昇を後押ししている。"
+     ],
+     "timestamp": "06:06",
+     "seconds": 366,
+     "confidence": "high"
+    },
     {
      "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
      "channel_name": "Sho's投資情報局",
@@ -618,26 +472,6 @@
      "timestamp": "05:56",
      "seconds": 356,
      "confidence": "high"
-    },
-    {
-     "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-     "channel_name": "Sho's投資情報局",
-     "channel_short": "Sho",
-     "slot": 3,
-     "video_id": "rrd8dcRaomc",
-     "video_title": "11/14【日本株ヤバいヤバいヤバい‼‼半導体株暴落捕まったか‼】キオクシア急落。日経平均バリュー株シフト。ドル円160円。エヌビディア急落で米国株、ナスダック、ハイテク株大荒れ。仮想通貨BTC",
-     "published": "2026-11-14T03:00:00+00:00",
-     "stance": "bullish",
-     "stance_note": "信用買い整理完了とゴールデンクロス",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "整理が進み信用買い残が減少したことで需給が改善し、200日移動平均線と長期線がゴールデンクロスを形成。"
-     ],
-     "timestamp": "37:05",
-     "seconds": 2225,
-     "confidence": "medium"
     }
    ],
    "consensus": {
@@ -647,7 +481,7 @@
    },
    "voices": 2,
    "split": false,
-   "last_mentioned": "2026-11-15T14:14:00+00:00",
+   "last_mentioned": "2026-11-16T14:46:45+00:00",
    "channel_ids": [
     "UCK9Pl6bbWqMC_x7IDca2tIg",
     "UCdQdRRLoajrt-5TEaAxslxA"
@@ -714,7 +548,536 @@
     "market_open": false,
     "symbol": "7974.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
+    "fetched_at": "2026-11-16T23:23:28.939552+00:00"
+   }
+  },
+  {
+   "key": "JP:5803",
+   "name": "フジクラ",
+   "name_en": "Fujikura Ltd.",
+   "ticker": "5803",
+   "market": "JP",
+   "mentions": [
+    {
+     "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+     "channel_name": "Sho's投資情報局",
+     "channel_short": "Sho",
+     "slot": 3,
+     "video_id": "nkoSz2Dssoo",
+     "video_title": "11/16【日経平均1480円急落。半導体株投げ売り連鎖ヤバい‼】日本株二極化加速。キオクシア暴落でバリュー株シフト。ドル円159円、米国株、ナスダック、ハイテク株も大荒れか⁉仮想通貨BTC急落",
+     "published": "2026-11-16T14:46:45+00:00",
+     "stance": "bearish",
+     "stance_note": "信用買い増加と受給悪化で下落基調",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "信用買残がさらに25万株増加して倍率が24.45倍まで悪化しており受給が非常に重い。",
+      "200日線と長期ラインが連続でデッドクロスを組んでいる6月高値銘柄の下落パターン。"
+     ],
+     "timestamp": "03:20",
+     "seconds": 200,
+     "confidence": "medium"
+    },
+    {
+     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+     "channel_name": "Trader's Lab",
+     "channel_short": "TL",
+     "slot": 1,
+     "video_id": "jHQeTKKDoXU",
+     "video_title": "【日経平均】  AI半導体株急落！戻り売り警戒 一方で内需株は強い！  NDIVIA・サンディスク・キオクシア・アドバンテスト・イビデン・古河電気・フジクラ・吉野家・ゼンショー",
+     "published": "2026-11-16T11:35:28+00:00",
+     "stance": "bearish",
+     "stance_note": "急上昇が終わり水平サポートを下抜ける",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "水平サポートゾーンを明確に下抜けており、2年ほど続いた上昇バブルの終了を示唆。",
+      "直近安値を割り込むと更なる安値切り下げが確定し、売り圧力が一段と強まる展開。"
+     ],
+     "timestamp": "33:30",
+     "seconds": 2010,
+     "confidence": "high"
+    }
+   ],
+   "consensus": {
+    "bullish": 0,
+    "bearish": 2,
+    "neutral": 0
+   },
+   "voices": 2,
+   "split": false,
+   "last_mentioned": "2026-11-16T14:46:45+00:00",
+   "channel_ids": [
+    "UCK9Pl6bbWqMC_x7IDca2tIg",
+    "UCsaeHha7ai_NNX8or8Jyb-g"
+   ],
+   "price": {
+    "date": "2026-11-16",
+    "close": 2700.0,
+    "change_pct": -7.09,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 47771000,
+    "volume_ratio": 1.2,
+    "rsi14": 21.9,
+    "rsi_zone": "売られすぎ",
+    "ma25": 3914.24,
+    "ma75": 4714.84,
+    "trend": "下降基調",
+    "pos52": 1,
+    "spark": [
+     4744.0,
+     4839.0,
+     4867.0,
+     4952.0,
+     4911.0,
+     4986.0,
+     4957.0,
+     4931.0,
+     5224.0,
+     5368.0,
+     5598.0,
+     5566.0,
+     5855.0,
+     5700.0,
+     5512.0,
+     5413.0,
+     5070.0,
+     5200.0,
+     4540.0,
+     4503.0,
+     4482.0,
+     4192.0,
+     4347.0,
+     4078.0,
+     4037.0,
+     3978.0,
+     4092.0,
+     4111.0,
+     4195.0,
+     3918.0,
+     3900.0,
+     3680.0,
+     3260.0,
+     2962.0,
+     3080.0,
+     3089.0,
+     3121.0,
+     3002.0,
+     2906.0,
+     2700.0
+    ],
+    "currency": "JPY",
+    "exchange_name": "Tokyo",
+    "market_open": false,
+    "symbol": "5803.T",
+    "source": "yahoo",
+    "fetched_at": "2026-11-16T23:23:28.939552+00:00"
+   }
+  },
+  {
+   "key": "JP:9984",
+   "name": "ソフトバンクグループ",
+   "name_en": "SoftBank Group Corp.",
+   "ticker": "9984",
+   "market": "JP",
+   "mentions": [
+    {
+     "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+     "channel_name": "Sho's投資情報局",
+     "channel_short": "Sho",
+     "slot": 3,
+     "video_id": "nkoSz2Dssoo",
+     "video_title": "11/16【日経平均1480円急落。半導体株投げ売り連鎖ヤバい‼】日本株二極化加速。キオクシア暴落でバリュー株シフト。ドル円159円、米国株、ナスダック、ハイテク株も大荒れか⁉仮想通貨BTC急落",
+     "published": "2026-11-16T14:46:45+00:00",
+     "stance": "bearish",
+     "stance_note": "信用買増加で受給悪化し半年経過待ち",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "信用買残が146万株急増して信用倍率が7.65倍へ悪化しており受給の重さが目立つ。",
+      "受給悪化を伴う下落の場合、半年程度の経過や受給改善が見えるまで上値が重い展開が続く。"
+     ],
+     "timestamp": "40:24",
+     "seconds": 2424,
+     "confidence": "medium"
+    },
+    {
+     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+     "channel_name": "Trader's Lab",
+     "channel_short": "TL",
+     "slot": 1,
+     "video_id": "seDVO4lotAM",
+     "video_title": "【日経平均】 来週はNVIDIA決算 〇〇に警戒  サンディスク・キオクシア・古河電気・太陽誘電・三井金属・オンコリスバイオ",
+     "published": "2026-11-13T11:14:37+00:00",
+     "stance": "bearish",
+     "stance_note": "直近決算赤字で週足下落転換",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "直近決算の大赤字が響き、3月安値3350円を下回ったことで週足での上昇トレンド終了と下落トレンド転換が示唆されている。",
+      "日足でバンドウォークが発生して急落しており、指数を引っ張ってきた主要銘柄の中で特に売られやすい状況が続いている。"
+     ],
+     "timestamp": "31:38",
+     "seconds": 1898,
+     "confidence": "medium"
+    }
+   ],
+   "consensus": {
+    "bullish": 0,
+    "bearish": 2,
+    "neutral": 0
+   },
+   "voices": 2,
+   "split": false,
+   "last_mentioned": "2026-11-16T14:46:45+00:00",
+   "channel_ids": [
+    "UCK9Pl6bbWqMC_x7IDca2tIg",
+    "UCsaeHha7ai_NNX8or8Jyb-g"
+   ],
+   "price": {
+    "date": "2026-11-16",
+    "close": 3416.0,
+    "change_pct": -3.69,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 67327200,
+    "volume_ratio": 1.16,
+    "rsi14": 30.4,
+    "rsi_zone": "中立",
+    "ma25": 4382.52,
+    "ma75": 5294.19,
+    "trend": "下降基調",
+    "pos52": 0,
+    "spark": [
+     6279.0,
+     6183.0,
+     6247.0,
+     6315.0,
+     6352.0,
+     6150.0,
+     6244.0,
+     6035.0,
+     6430.0,
+     6701.0,
+     6310.0,
+     6497.0,
+     6295.0,
+     6310.0,
+     6040.0,
+     5803.0,
+     5310.0,
+     5351.0,
+     4852.0,
+     4944.0,
+     4845.0,
+     4554.0,
+     4622.0,
+     4305.0,
+     4276.0,
+     4263.0,
+     4474.0,
+     4682.0,
+     4765.0,
+     4481.0,
+     4410.0,
+     4269.0,
+     3980.0,
+     3549.0,
+     3400.0,
+     3872.0,
+     3855.0,
+     3738.0,
+     3547.0,
+     3416.0
+    ],
+    "currency": "JPY",
+    "exchange_name": "Tokyo",
+    "market_open": false,
+    "symbol": "9984.T",
+    "source": "yahoo",
+    "fetched_at": "2026-11-16T23:23:28.939552+00:00"
+   }
+  },
+  {
+   "key": "JP:7550",
+   "name": "ゼンショーホールディングス",
+   "name_en": "Zensho Holdings Co., Ltd.",
+   "ticker": "7550",
+   "market": "JP",
+   "mentions": [
+    {
+     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+     "channel_name": "Trader's Lab",
+     "channel_short": "TL",
+     "slot": 1,
+     "video_id": "jHQeTKKDoXU",
+     "video_title": "【日経平均】  AI半導体株急落！戻り売り警戒 一方で内需株は強い！  NDIVIA・サンディスク・キオクシア・アドバンテスト・イビデン・古河電気・フジクラ・吉野家・ゼンショー",
+     "published": "2026-11-16T11:35:28+00:00",
+     "stance": "bullish",
+     "stance_note": "上位足・日足ともに上昇トレンド維持",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "上位足および日足で綺麗にトレンドフォローとバンドウォークが続いており非常に強い。",
+      "AI半導体株から資金が流入する内需株セクターの中で順調な上昇トレンドを維持。"
+     ],
+     "timestamp": "35:18",
+     "seconds": 2118,
+     "confidence": "medium"
+    },
+    {
+     "channel_id": "UCt7qqCkTFFRfKjXzwqUXq4g",
+     "channel_name": "ぺこ株",
+     "channel_short": "ぺこ",
+     "slot": 4,
+     "video_id": "2mZtf74kuyU",
+     "video_title": "今週（11/16〜）専業が自信を持って買う1銘柄",
+     "published": "2026-11-15T11:00:29+00:00",
+     "stance": "bullish",
+     "stance_note": "好業績も高値圏のため押し目を待って狙う",
+     "target_price": "買値から10%",
+     "entry": "",
+     "stop": "出来高ゾーンを抜けたライン",
+     "reasons": [
+      "食材調達から販売まで一貫管理しコストを抑制。すき家だけでなく浜寿司や海外事業が成長しており、世界1万5309店舗まで規模を拡大している点。",
+      "上期累計の業績は売上・営業益ともに過去最高で営業利益率は8.2%に改善。通期の営業利益予想も1050億円へ引き上げるなど業績が極めて好調な点。",
+      "チャートは日足・週足ともに強い上昇トレンドで高値更新状態。一目均衡表の雲や移動平均線に沿って再上昇しており調整局面は押し目買いの好機となる点。"
+     ],
+     "timestamp": "03:47",
+     "seconds": 227,
+     "confidence": "high"
+    }
+   ],
+   "consensus": {
+    "bullish": 2,
+    "bearish": 0,
+    "neutral": 0
+   },
+   "voices": 2,
+   "split": false,
+   "last_mentioned": "2026-11-16T11:35:28+00:00",
+   "channel_ids": [
+    "UCsaeHha7ai_NNX8or8Jyb-g",
+    "UCt7qqCkTFFRfKjXzwqUXq4g"
+   ],
+   "price": {
+    "date": "2026-11-16",
+    "close": 13660.0,
+    "change_pct": 2.94,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 750500,
+    "volume_ratio": 1.29,
+    "rsi14": 66.8,
+    "rsi_zone": "中立",
+    "ma25": 12316.6,
+    "ma75": 11484.01,
+    "trend": "上昇基調",
+    "pos52": 100,
+    "spark": [
+     11340.0,
+     10980.0,
+     10400.0,
+     10450.0,
+     10220.0,
+     10435.0,
+     10520.0,
+     10595.0,
+     10705.0,
+     10790.0,
+     11065.0,
+     11115.0,
+     11055.0,
+     11525.0,
+     11315.0,
+     11705.0,
+     11780.0,
+     11700.0,
+     11980.0,
+     11960.0,
+     12360.0,
+     12335.0,
+     11950.0,
+     11715.0,
+     12005.0,
+     12165.0,
+     12080.0,
+     11835.0,
+     12020.0,
+     12560.0,
+     12345.0,
+     12465.0,
+     13040.0,
+     12195.0,
+     12660.0,
+     12870.0,
+     12705.0,
+     12555.0,
+     13270.0,
+     13660.0
+    ],
+    "currency": "JPY",
+    "exchange_name": "Tokyo",
+    "market_open": false,
+    "symbol": "7550.T",
+    "source": "yahoo",
+    "fetched_at": "2026-11-16T23:23:28.939552+00:00"
+   }
+  },
+  {
+   "key": "JP:7011",
+   "name": "三菱重工業",
+   "name_en": "Mitsubishi Heavy Industries, Ltd.",
+   "ticker": "7011",
+   "market": "JP",
+   "mentions": [
+    {
+     "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+     "channel_name": "トレーダーTOMO",
+     "channel_short": "TOMO",
+     "slot": 2,
+     "video_id": "-E_koTSUx4g",
+     "video_title": "月曜日の注目銘柄を見ていく！（ゲームIPセクター・三菱重工業・アシックス・任天堂・スシロー・キオクシア等）株式テクニカルチャート分析",
+     "published": "2026-11-14T23:00:36+00:00",
+     "stance": "bullish",
+     "stance_note": "急落後の2900円支持から3000円への短期リバ",
+     "target_price": "3000円",
+     "entry": "2900円",
+     "stop": "",
+     "reasons": [
+      "悪材料による急落からの短期的リバウンド狙い。意識されやすい2900円の支持線を基準に3000円までの上昇を狙える展開。"
+     ],
+     "timestamp": "08:21",
+     "seconds": 501,
+     "confidence": "high"
+    },
+    {
+     "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+     "channel_name": "トレーダーTOMO",
+     "channel_short": "TOMO",
+     "slot": 2,
+     "video_id": "S64dm-dk2ms",
+     "video_title": "防衛費削減報道で、防衛関連銘柄が急落（三菱重工業・IHI・川崎重工業など）株式テクニカルチャート分析",
+     "published": "2026-11-14T09:00:17+00:00",
+     "stance": "bearish",
+     "stance_note": "防衛費削減と重い信用買い残で反転確認待ち",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "防衛費5年で50兆円台と政府報道が出たことで今後の調達数量削減や受注見通しの悪化が懸念される点。",
+      "信用買い残が約2000万株と高水準でデイトレーダーも少なく、含み損のしこりが株価上昇を阻害している点。",
+      "チャート面で週足4週連続陰線となっており、明確な底打ち反転(アウトサイド要線)が確認できるまで買いづらい点。"
+     ],
+     "timestamp": "01:39",
+     "seconds": 99,
+     "confidence": "high"
+    },
+    {
+     "channel_id": "UCt7qqCkTFFRfKjXzwqUXq4g",
+     "channel_name": "ぺこ株",
+     "channel_short": "ぺこ",
+     "slot": 4,
+     "video_id": "SSwJaMHu9Kc",
+     "video_title": "今週（11/9〜）現状報告と展望を語る回",
+     "published": "2026-11-08T11:00:04+00:00",
+     "stance": "bearish",
+     "stance_note": "ロシア現地拠点の事業懸念を警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "ロシア国内にガスタービンやコンプレッサーの保守サービス拠点を保有しており今後の情勢悪化の影響が心配されるため。"
+     ],
+     "timestamp": "05:24",
+     "seconds": 324,
+     "confidence": "low"
+    }
+   ],
+   "consensus": {
+    "bullish": 1,
+    "bearish": 1,
+    "neutral": 0
+   },
+   "voices": 2,
+   "split": true,
+   "last_mentioned": "2026-11-14T23:00:36+00:00",
+   "channel_ids": [
+    "UCdQdRRLoajrt-5TEaAxslxA",
+    "UCt7qqCkTFFRfKjXzwqUXq4g"
+   ],
+   "price": {
+    "date": "2026-11-16",
+    "close": 2900.0,
+    "change_pct": -0.7,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 27542500,
+    "volume_ratio": 1.08,
+    "rsi14": 28.3,
+    "rsi_zone": "売られすぎ",
+    "ma25": 3415.96,
+    "ma75": 3738.91,
+    "trend": "下降基調",
+    "pos52": 0,
+    "spark": [
+     3701.0,
+     3737.0,
+     3887.0,
+     3879.0,
+     3929.0,
+     3897.0,
+     3886.0,
+     3793.0,
+     3839.0,
+     3842.0,
+     3813.0,
+     3871.0,
+     3787.0,
+     3811.0,
+     3680.0,
+     3669.0,
+     3721.0,
+     3727.0,
+     3601.0,
+     3796.0,
+     3781.0,
+     3685.0,
+     3721.0,
+     3688.0,
+     3614.0,
+     3500.0,
+     3527.0,
+     3550.0,
+     3499.0,
+     3413.0,
+     3363.0,
+     3252.0,
+     3052.0,
+     2912.5,
+     3063.0,
+     3151.0,
+     3138.0,
+     3155.0,
+     2920.5,
+     2900.0
+    ],
+    "currency": "JPY",
+    "exchange_name": "Tokyo",
+    "market_open": false,
+    "symbol": "7011.T",
+    "source": "yahoo",
+    "fetched_at": "2026-11-16T23:23:28.939552+00:00"
    }
   },
   {
@@ -764,27 +1127,6 @@
      "timestamp": "33:57",
      "seconds": 2037,
      "confidence": "medium"
-    },
-    {
-     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-     "channel_name": "Trader's Lab",
-     "channel_short": "TL",
-     "slot": 1,
-     "video_id": "RLHviu3eZqU",
-     "video_title": "【日経平均】 自律反発はまだ続く 下げ止まりは確定か 私はこう立ち回る サンディスク・キオクシア・アドバンテスト・太陽誘電・オンコリスバイオ",
-     "published": "2026-11-11T11:00:16+00:00",
-     "stance": "bearish",
-     "stance_note": "戻り高値での売り圧力に警戒し短期売買に限定",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "高値からの戻り高値と安値の切り下げが続いており、中長期でバブル崩壊後の厳しい下落トレンドにある点。",
-      "日足でマイナス1シマ沿いのバンドウォークが続いており、10月安値の8794円付近が戻り売りポイントになる点。"
-     ],
-     "timestamp": "33:26",
-     "seconds": 2006,
-     "confidence": "high"
     }
    ],
    "consensus": {
@@ -861,7 +1203,805 @@
     "market_open": false,
     "symbol": "6976.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
+    "fetched_at": "2026-11-16T23:23:28.939552+00:00"
+   }
+  },
+  {
+   "key": "JP:6254",
+   "name": "野村マイクロ・サイエンス",
+   "name_en": "Nomura Micro Science Co., Ltd.",
+   "ticker": "6254",
+   "market": "JP",
+   "mentions": [
+    {
+     "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+     "channel_name": "Sho's投資情報局",
+     "channel_short": "Sho",
+     "slot": 3,
+     "video_id": "nkoSz2Dssoo",
+     "video_title": "11/16【日経平均1480円急落。半導体株投げ売り連鎖ヤバい‼】日本株二極化加速。キオクシア暴落でバリュー株シフト。ドル円159円、米国株、ナスダック、ハイテク株も大荒れか⁉仮想通貨BTC急落",
+     "published": "2026-11-16T14:46:45+00:00",
+     "stance": "bearish",
+     "stance_note": "受給悪化とデッドクロスで年末まで静観",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "信用買残が日中売買高の約8割を占める重い受給状態で、高値掴みの捕まりが多い。",
+      "200日線や各移動平均線が相次いでデッドクロスを組んで下落基調が継続している。"
+     ],
+     "timestamp": "23:16",
+     "seconds": 1396,
+     "confidence": "medium"
+    }
+   ],
+   "consensus": {
+    "bullish": 0,
+    "bearish": 1,
+    "neutral": 0
+   },
+   "voices": 1,
+   "split": false,
+   "last_mentioned": "2026-11-16T14:46:45+00:00",
+   "channel_ids": [
+    "UCK9Pl6bbWqMC_x7IDca2tIg"
+   ],
+   "price": {
+    "date": "2026-11-16",
+    "close": 2149.0,
+    "change_pct": -6.16,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 1037600,
+    "volume_ratio": 1.11,
+    "rsi14": 29.6,
+    "rsi_zone": "売られすぎ",
+    "ma25": 2765.08,
+    "ma75": 3343.69,
+    "trend": "下降基調",
+    "pos52": 2,
+    "spark": [
+     3235.0,
+     3250.0,
+     3200.0,
+     3300.0,
+     3375.0,
+     3420.0,
+     3440.0,
+     3435.0,
+     3490.0,
+     3545.0,
+     3505.0,
+     3665.0,
+     3775.0,
+     3800.0,
+     3685.0,
+     3780.0,
+     3485.0,
+     3435.0,
+     3070.0,
+     3175.0,
+     3160.0,
+     3015.0,
+     3085.0,
+     2910.0,
+     2891.0,
+     2750.0,
+     2824.0,
+     2930.0,
+     2819.0,
+     2645.0,
+     2642.0,
+     2537.0,
+     2256.0,
+     2095.0,
+     2148.0,
+     2318.0,
+     2385.0,
+     2333.0,
+     2290.0,
+     2149.0
+    ],
+    "currency": "JPY",
+    "exchange_name": "Tokyo",
+    "market_open": false,
+    "symbol": "6254.T",
+    "source": "yahoo",
+    "fetched_at": "2026-11-16T23:23:28.939552+00:00"
+   }
+  },
+  {
+   "key": "JP:4661",
+   "name": "オリエンタルランド",
+   "name_en": "Oriental Land Co., Ltd.",
+   "ticker": "4661",
+   "market": "JP",
+   "mentions": [
+    {
+     "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+     "channel_name": "Sho's投資情報局",
+     "channel_short": "Sho",
+     "slot": 3,
+     "video_id": "nkoSz2Dssoo",
+     "video_title": "11/16【日経平均1480円急落。半導体株投げ売り連鎖ヤバい‼】日本株二極化加速。キオクシア暴落でバリュー株シフト。ドル円159円、米国株、ナスダック、ハイテク株も大荒れか⁉仮想通貨BTC急落",
+     "published": "2026-11-16T14:46:45+00:00",
+     "stance": "bullish",
+     "stance_note": "受給改善とゴールデンクロスで好調な上昇",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "200日移動平均線とのゴールデンクロスが形成されておりチャート形状が非常に良好である。",
+      "信用倍率0.4倍と空売りが入っており、踏み上げを巻き込みながら年末に向け切り上げている。"
+     ],
+     "timestamp": "03:54",
+     "seconds": 234,
+     "confidence": "medium"
+    }
+   ],
+   "consensus": {
+    "bullish": 1,
+    "bearish": 0,
+    "neutral": 0
+   },
+   "voices": 1,
+   "split": false,
+   "last_mentioned": "2026-11-16T14:46:45+00:00",
+   "channel_ids": [
+    "UCK9Pl6bbWqMC_x7IDca2tIg"
+   ],
+   "price": {
+    "date": "2026-11-16",
+    "close": 3865.0,
+    "change_pct": 1.36,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 4000800,
+    "volume_ratio": 0.71,
+    "rsi14": 72.5,
+    "rsi_zone": "買われすぎ",
+    "ma25": 3387.66,
+    "ma75": 3121.75,
+    "trend": "上昇基調",
+    "pos52": 100,
+    "spark": [
+     3053.0,
+     3002.0,
+     3068.0,
+     3035.0,
+     2956.5,
+     2968.0,
+     2902.0,
+     2889.0,
+     2908.5,
+     2882.0,
+     2816.5,
+     2837.0,
+     2840.0,
+     2888.5,
+     2933.0,
+     2968.5,
+     2990.0,
+     3010.0,
+     3118.0,
+     3167.0,
+     3222.0,
+     3277.0,
+     3234.0,
+     3280.0,
+     3281.0,
+     3275.0,
+     3232.0,
+     3168.0,
+     3170.0,
+     3438.0,
+     3482.0,
+     3511.0,
+     3712.0,
+     3529.0,
+     3773.0,
+     3729.0,
+     3690.0,
+     3757.0,
+     3813.0,
+     3865.0
+    ],
+    "currency": "JPY",
+    "exchange_name": "Tokyo",
+    "market_open": false,
+    "symbol": "4661.T",
+    "source": "yahoo",
+    "fetched_at": "2026-11-16T23:23:28.939552+00:00"
+   }
+  },
+  {
+   "key": "US:NVDA",
+   "name": "NVIDIA",
+   "name_en": "NVIDIA Corporation",
+   "ticker": "NVDA",
+   "market": "US",
+   "mentions": [
+    {
+     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+     "channel_name": "Trader's Lab",
+     "channel_short": "TL",
+     "slot": 1,
+     "video_id": "jHQeTKKDoXU",
+     "video_title": "【日経平均】  AI半導体株急落！戻り売り警戒 一方で内需株は強い！  NDIVIA・サンディスク・キオクシア・アドバンテスト・イビデン・古河電気・フジクラ・吉野家・ゼンショー",
+     "published": "2026-11-16T11:35:28+00:00",
+     "stance": "bearish",
+     "stance_note": "決算前で下落リスクを孕み警戒が必要",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "過去の高値ラインである150ドル付近でサポートされたが、下げ止まったかは不確実である。",
+      "日足の5日移動平均線やボリンジャーバンドのマイナス2σに沿った下落が継続し弱い。"
+     ],
+     "timestamp": "21:50",
+     "seconds": 1310,
+     "confidence": "high"
+    },
+    {
+     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+     "channel_name": "Trader's Lab",
+     "channel_short": "TL",
+     "slot": 1,
+     "video_id": "seDVO4lotAM",
+     "video_title": "【日経平均】 来週はNVIDIA決算 〇〇に警戒  サンディスク・キオクシア・古河電気・太陽誘電・三井金属・オンコリスバイオ",
+     "published": "2026-11-13T11:14:37+00:00",
+     "stance": "neutral",
+     "stance_note": "急落後の自律反発も上値警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "ファンシーCEO解任のニュースで10%以上急落し148ドル付近まで下落も、過去の高値ブレイクラインに到達したことで一旦下げ止まった。",
+      "現状は下げすぎの反動による自律反発の域を出ておらず、直近安値を下更新した場合は週足レベルでの下落トレンド入りが警戒される。"
+     ],
+     "timestamp": "25:25",
+     "seconds": 1525,
+     "confidence": "medium"
+    }
+   ],
+   "consensus": {
+    "bullish": 0,
+    "bearish": 1,
+    "neutral": 0
+   },
+   "voices": 1,
+   "split": false,
+   "last_mentioned": "2026-11-16T11:35:28+00:00",
+   "channel_ids": [
+    "UCsaeHha7ai_NNX8or8Jyb-g"
+   ],
+   "price": {
+    "date": "2026-11-16",
+    "close": 156.14,
+    "change_pct": -4.12,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 329959344,
+    "volume_ratio": 1.66,
+    "rsi14": 22.7,
+    "rsi_zone": "売られすぎ",
+    "ma25": 200.44,
+    "ma75": 215.21,
+    "trend": "下降基調",
+    "pos52": 0,
+    "spark": [
+     228.87,
+     225.51,
+     224.58,
+     225.07,
+     228.86,
+     227.21,
+     228.38,
+     230.86,
+     233.95,
+     238.9,
+     239.24,
+     237.47,
+     230.48,
+     229.28,
+     226.32,
+     228.52,
+     221.3,
+     217.23,
+     214.13,
+     217.09,
+     216.47,
+     221.97,
+     212.21,
+     210.96,
+     216.0,
+     217.94,
+     215.38,
+     213.66,
+     204.64,
+     202.06,
+     206.69,
+     200.13,
+     181.6,
+     186.64,
+     178.67,
+     168.89,
+     173.73,
+     166.19,
+     162.85,
+     156.14
+    ],
+    "currency": "USD",
+    "exchange_name": "NasdaqGS",
+    "market_open": false,
+    "symbol": "NVDA",
+    "source": "yahoo",
+    "fetched_at": "2026-11-16T23:23:28.939552+00:00"
+   }
+  },
+  {
+   "key": "US:WDC",
+   "name": "サンディスク",
+   "name_en": "Western Digital Corporation",
+   "ticker": "WDC",
+   "market": "US",
+   "mentions": [
+    {
+     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+     "channel_name": "Trader's Lab",
+     "channel_short": "TL",
+     "slot": 1,
+     "video_id": "jHQeTKKDoXU",
+     "video_title": "【日経平均】  AI半導体株急落！戻り売り警戒 一方で内需株は強い！  NDIVIA・サンディスク・キオクシア・アドバンテスト・イビデン・古河電気・フジクラ・吉野家・ゼンショー",
+     "published": "2026-11-16T11:35:28+00:00",
+     "stance": "bearish",
+     "stance_note": "安値割り込みの展開で下落トレンド継続",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "時間外取引で大幅下落しており、前回の安値を下回ると一段の下落トレンドが確定する。",
+      "マイナス1σに沿うバンドウォークが継続し、半導体メモリーバブルの終焉が窺える。"
+     ],
+     "timestamp": "24:28",
+     "seconds": 1468,
+     "confidence": "medium"
+    },
+    {
+     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+     "channel_name": "Trader's Lab",
+     "channel_short": "TL",
+     "slot": 1,
+     "video_id": "seDVO4lotAM",
+     "video_title": "【日経平均】 来週はNVIDIA決算 〇〇に警戒  サンディスク・キオクシア・古河電気・太陽誘電・三井金属・オンコリスバイオ",
+     "published": "2026-11-13T11:14:37+00:00",
+     "stance": "bearish",
+     "stance_note": "下落トレンド継続で上値が重い",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "キオクシアと同様に下落トレンドが継続しており、7月末安値を下割れたことで巨大な下落N波動の形成が懸念される。",
+      "ボリンジャーバンドのマイナスバンドウォークが続いており、上値が重く戻り売り圧力が強いチャート形状となっている。"
+     ],
+     "timestamp": "27:48",
+     "seconds": 1668,
+     "confidence": "medium"
+    }
+   ],
+   "consensus": {
+    "bullish": 0,
+    "bearish": 1,
+    "neutral": 0
+   },
+   "voices": 1,
+   "split": false,
+   "last_mentioned": "2026-11-16T11:35:28+00:00",
+   "channel_ids": [
+    "UCsaeHha7ai_NNX8or8Jyb-g"
+   ],
+   "price": {
+    "date": "2026-11-16",
+    "close": 280.93,
+    "change_pct": -4.98,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 6515042,
+    "volume_ratio": 0.73,
+    "rsi14": 36.1,
+    "rsi_zone": "中立",
+    "ma25": 337.69,
+    "ma75": 415.53,
+    "trend": "下降基調",
+    "pos52": 23,
+    "spark": [
+     464.6,
+     473.69,
+     450.31,
+     456.81,
+     453.23,
+     453.48,
+     454.46,
+     462.56,
+     415.29,
+     441.64,
+     411.04,
+     405.42,
+     393.31,
+     397.28,
+     386.94,
+     380.71,
+     364.1,
+     356.45,
+     332.0,
+     352.21,
+     364.32,
+     378.51,
+     354.19,
+     343.67,
+     356.13,
+     380.88,
+     396.42,
+     395.41,
+     366.11,
+     338.59,
+     347.35,
+     323.83,
+     267.63,
+     263.78,
+     289.78,
+     289.2,
+     313.31,
+     311.21,
+     295.65,
+     280.93
+    ],
+    "currency": "USD",
+    "exchange_name": "NasdaqGS",
+    "market_open": false,
+    "symbol": "WDC",
+    "source": "yahoo",
+    "fetched_at": "2026-11-16T23:23:28.939552+00:00"
+   }
+  },
+  {
+   "key": "JP:4062",
+   "name": "イビデン",
+   "name_en": "Ibiden Co., Ltd.",
+   "ticker": "4062",
+   "market": "JP",
+   "mentions": [
+    {
+     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+     "channel_name": "Trader's Lab",
+     "channel_short": "TL",
+     "slot": 1,
+     "video_id": "jHQeTKKDoXU",
+     "video_title": "【日経平均】  AI半導体株急落！戻り売り警戒 一方で内需株は強い！  NDIVIA・サンディスク・キオクシア・アドバンテスト・イビデン・古河電気・フジクラ・吉野家・ゼンショー",
+     "published": "2026-11-16T11:35:28+00:00",
+     "stance": "bearish",
+     "stance_note": "下落トレンド確定で下値模索が続く恐れ",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "7月安値を割り込んで高値と安値を切り下げる巨大なN波動を形成し下落トレンド確定。",
+      "週足で三役逆転がほぼ確定しており、出来高の薄い3000円〜4000円台への下落リスク。"
+     ],
+     "timestamp": "29:46",
+     "seconds": 1786,
+     "confidence": "high"
+    }
+   ],
+   "consensus": {
+    "bullish": 0,
+    "bearish": 1,
+    "neutral": 0
+   },
+   "voices": 1,
+   "split": false,
+   "last_mentioned": "2026-11-16T11:35:28+00:00",
+   "channel_ids": [
+    "UCsaeHha7ai_NNX8or8Jyb-g"
+   ],
+   "price": {
+    "date": "2026-11-16",
+    "close": 5588.0,
+    "change_pct": -8.2,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 22721300,
+    "volume_ratio": 1.1,
+    "rsi14": 30.5,
+    "rsi_zone": "中立",
+    "ma25": 8328.6,
+    "ma75": 9493.37,
+    "trend": "下降基調",
+    "pos52": 27,
+    "spark": [
+     9557.5,
+     9475.0,
+     9237.5,
+     9777.5,
+     11202.5,
+     11672.5,
+     11155.0,
+     11020.0,
+     11030.0,
+     11995.0,
+     12100.0,
+     12265.0,
+     12400.0,
+     12270.0,
+     11810.0,
+     11515.0,
+     10620.0,
+     10495.0,
+     9213.0,
+     9764.0,
+     9506.0,
+     9167.0,
+     9500.0,
+     8598.0,
+     8512.0,
+     8248.0,
+     8952.0,
+     9663.0,
+     9859.0,
+     8359.0,
+     8045.0,
+     8037.0,
+     6726.0,
+     6147.0,
+     5932.0,
+     6418.0,
+     6920.0,
+     6344.0,
+     6087.0,
+     5588.0
+    ],
+    "currency": "JPY",
+    "exchange_name": "Tokyo",
+    "market_open": false,
+    "symbol": "4062.T",
+    "source": "yahoo",
+    "fetched_at": "2026-11-16T23:23:28.939552+00:00"
+   }
+  },
+  {
+   "key": "JP:5801",
+   "name": "古河電気工業",
+   "name_en": "Furukawa Electric Co., Ltd.",
+   "ticker": "5801",
+   "market": "JP",
+   "mentions": [
+    {
+     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+     "channel_name": "Trader's Lab",
+     "channel_short": "TL",
+     "slot": 1,
+     "video_id": "jHQeTKKDoXU",
+     "video_title": "【日経平均】  AI半導体株急落！戻り売り警戒 一方で内需株は強い！  NDIVIA・サンディスク・キオクシア・アドバンテスト・イビデン・古河電気・フジクラ・吉野家・ゼンショー",
+     "published": "2026-11-16T11:35:28+00:00",
+     "stance": "bearish",
+     "stance_note": "上昇トレンド終了で戻り売り圧力が強力",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "高値からの切り下げが生じており、年初からの強烈な上昇チャートと真逆の動きへ転換。",
+      "直近安値を割り込むと、上昇ブレイク前の1000円台まで下げる可能性が懸念される。"
+     ],
+     "timestamp": "32:25",
+     "seconds": 1945,
+     "confidence": "high"
+    },
+    {
+     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+     "channel_name": "Trader's Lab",
+     "channel_short": "TL",
+     "slot": 1,
+     "video_id": "seDVO4lotAM",
+     "video_title": "【日経平均】 来週はNVIDIA決算 〇〇に警戒  サンディスク・キオクシア・古河電気・太陽誘電・三井金属・オンコリスバイオ",
+     "published": "2026-11-13T11:14:37+00:00",
+     "stance": "bearish",
+     "stance_note": "バブル終焉でブレイク前水準懸念",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "史上最高値からの下落トレンドが継続しており、7月安値を割り込んだことで上昇波動が完全に否定された。",
+      "売買高が減少して真空地帯に入っており、AI半導体関連の失速に伴いブレイク前の1000円台まで下落する懸念がある。"
+     ],
+     "timestamp": "35:19",
+     "seconds": 2119,
+     "confidence": "medium"
+    }
+   ],
+   "consensus": {
+    "bullish": 0,
+    "bearish": 1,
+    "neutral": 0
+   },
+   "voices": 1,
+   "split": false,
+   "last_mentioned": "2026-11-16T11:35:28+00:00",
+   "channel_ids": [
+    "UCsaeHha7ai_NNX8or8Jyb-g"
+   ],
+   "price": {
+    "date": "2026-11-16",
+    "close": 1982.5,
+    "change_pct": -8.54,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 33488300,
+    "volume_ratio": 1.15,
+    "rsi14": 29.1,
+    "rsi_zone": "売られすぎ",
+    "ma25": 2841.7,
+    "ma75": 3510.05,
+    "trend": "下降基調",
+    "pos52": 21,
+    "spark": [
+     3719.0,
+     3812.0,
+     3763.0,
+     3901.0,
+     3807.0,
+     3826.0,
+     3785.0,
+     3684.0,
+     3856.0,
+     4113.0,
+     4429.0,
+     4378.0,
+     4490.0,
+     4444.0,
+     4220.0,
+     4096.0,
+     3895.0,
+     3885.0,
+     3376.0,
+     3366.0,
+     3322.0,
+     3126.0,
+     3200.0,
+     2946.5,
+     2894.5,
+     2840.0,
+     2851.0,
+     2926.0,
+     3065.0,
+     2806.0,
+     2755.0,
+     2584.5,
+     2143.5,
+     1960.0,
+     2000.0,
+     2197.0,
+     2373.0,
+     2284.5,
+     2167.5,
+     1982.5
+    ],
+    "currency": "JPY",
+    "exchange_name": "Tokyo",
+    "market_open": false,
+    "symbol": "5801.T",
+    "source": "yahoo",
+    "fetched_at": "2026-11-16T23:23:28.939552+00:00"
+   }
+  },
+  {
+   "key": "JP:9861",
+   "name": "吉野家ホールディングス",
+   "name_en": "Yoshinoya Holdings Co., Ltd.",
+   "ticker": "9861",
+   "market": "JP",
+   "mentions": [
+    {
+     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+     "channel_name": "Trader's Lab",
+     "channel_short": "TL",
+     "slot": 1,
+     "video_id": "jHQeTKKDoXU",
+     "video_title": "【日経平均】  AI半導体株急落！戻り売り警戒 一方で内需株は強い！  NDIVIA・サンディスク・キオクシア・アドバンテスト・イビデン・古河電気・フジクラ・吉野家・ゼンショー",
+     "published": "2026-11-16T11:35:28+00:00",
+     "stance": "bullish",
+     "stance_note": "内需株への資金シフトで上場来高値更新",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "月足で綺麗なトレンドフォローが継続しており、セクターローテーションの恩恵を受ける。",
+      "日足でも右肩上がりの綺麗な上昇チャートを描いており、上場来高値を更新中である。"
+     ],
+     "timestamp": "34:50",
+     "seconds": 2090,
+     "confidence": "medium"
+    }
+   ],
+   "consensus": {
+    "bullish": 1,
+    "bearish": 0,
+    "neutral": 0
+   },
+   "voices": 1,
+   "split": false,
+   "last_mentioned": "2026-11-16T11:35:28+00:00",
+   "channel_ids": [
+    "UCsaeHha7ai_NNX8or8Jyb-g"
+   ],
+   "price": {
+    "date": "2026-11-16",
+    "close": 5000.0,
+    "change_pct": 3.41,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 580300,
+    "volume_ratio": 0.94,
+    "rsi14": 72.2,
+    "rsi_zone": "買われすぎ",
+    "ma25": 4433.08,
+    "ma75": 3991.31,
+    "trend": "上昇基調",
+    "pos52": 100,
+    "spark": [
+     3797.0,
+     3761.0,
+     3690.0,
+     3639.0,
+     3617.0,
+     3585.0,
+     3651.0,
+     3624.0,
+     3641.0,
+     3688.0,
+     3689.0,
+     3649.0,
+     3675.0,
+     3728.0,
+     3747.0,
+     3950.0,
+     4027.0,
+     3960.0,
+     4141.0,
+     4156.0,
+     4283.0,
+     4464.0,
+     4309.0,
+     4279.0,
+     4343.0,
+     4379.0,
+     4380.0,
+     4280.0,
+     4309.0,
+     4506.0,
+     4540.0,
+     4592.0,
+     4835.0,
+     4496.0,
+     4684.0,
+     4710.0,
+     4691.0,
+     4678.0,
+     4835.0,
+     5000.0
+    ],
+    "currency": "JPY",
+    "exchange_name": "Tokyo",
+    "market_open": false,
+    "symbol": "9861.T",
+    "source": "yahoo",
+    "fetched_at": "2026-11-16T23:23:28.939552+00:00"
    }
   },
   {
@@ -966,7 +2106,7 @@
     "market_open": false,
     "symbol": "9022.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
+    "fetched_at": "2026-11-16T23:23:28.939552+00:00"
    }
   },
   {
@@ -1071,7 +2211,7 @@
     "market_open": false,
     "symbol": "1893.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
+    "fetched_at": "2026-11-16T23:23:28.939552+00:00"
    }
   },
   {
@@ -1176,7 +2316,7 @@
     "market_open": false,
     "symbol": "6532.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
+    "fetched_at": "2026-11-16T23:23:28.939552+00:00"
    }
   },
   {
@@ -1281,113 +2421,7 @@
     "market_open": false,
     "symbol": "8410.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
-   }
-  },
-  {
-   "key": "JP:7550",
-   "name": "ゼンショーホールディングス",
-   "name_en": "Zensho Holdings Co., Ltd.",
-   "ticker": "7550",
-   "market": "JP",
-   "mentions": [
-    {
-     "channel_id": "UCt7qqCkTFFRfKjXzwqUXq4g",
-     "channel_name": "ぺこ株",
-     "channel_short": "ぺこ",
-     "slot": 4,
-     "video_id": "2mZtf74kuyU",
-     "video_title": "今週（11/16〜）専業が自信を持って買う1銘柄",
-     "published": "2026-11-15T11:00:29+00:00",
-     "stance": "bullish",
-     "stance_note": "好業績も高値圏のため押し目を待って狙う",
-     "target_price": "買値から10%",
-     "entry": "",
-     "stop": "出来高ゾーンを抜けたライン",
-     "reasons": [
-      "食材調達から販売まで一貫管理しコストを抑制。すき家だけでなく浜寿司や海外事業が成長しており、世界1万5309店舗まで規模を拡大している点。",
-      "上期累計の業績は売上・営業益ともに過去最高で営業利益率は8.2%に改善。通期の営業利益予想も1050億円へ引き上げるなど業績が極めて好調な点。",
-      "チャートは日足・週足ともに強い上昇トレンドで高値更新状態。一目均衡表の雲や移動平均線に沿って再上昇しており調整局面は押し目買いの好機となる点。"
-     ],
-     "timestamp": "03:47",
-     "seconds": 227,
-     "confidence": "high"
-    }
-   ],
-   "consensus": {
-    "bullish": 1,
-    "bearish": 0,
-    "neutral": 0
-   },
-   "voices": 1,
-   "split": false,
-   "last_mentioned": "2026-11-15T11:00:29+00:00",
-   "channel_ids": [
-    "UCt7qqCkTFFRfKjXzwqUXq4g"
-   ],
-   "price": {
-    "date": "2026-11-16",
-    "close": 13660.0,
-    "change_pct": 2.94,
-    "live": null,
-    "live_change_pct": null,
-    "live_time": null,
-    "volume": 750500,
-    "volume_ratio": 1.29,
-    "rsi14": 66.8,
-    "rsi_zone": "中立",
-    "ma25": 12316.6,
-    "ma75": 11484.01,
-    "trend": "上昇基調",
-    "pos52": 100,
-    "spark": [
-     11340.0,
-     10980.0,
-     10400.0,
-     10450.0,
-     10220.0,
-     10435.0,
-     10520.0,
-     10595.0,
-     10705.0,
-     10790.0,
-     11065.0,
-     11115.0,
-     11055.0,
-     11525.0,
-     11315.0,
-     11705.0,
-     11780.0,
-     11700.0,
-     11980.0,
-     11960.0,
-     12360.0,
-     12335.0,
-     11950.0,
-     11715.0,
-     12005.0,
-     12165.0,
-     12080.0,
-     11835.0,
-     12020.0,
-     12560.0,
-     12345.0,
-     12465.0,
-     13040.0,
-     12195.0,
-     12660.0,
-     12870.0,
-     12705.0,
-     12555.0,
-     13270.0,
-     13660.0
-    ],
-    "currency": "JPY",
-    "exchange_name": "Tokyo",
-    "market_open": false,
-    "symbol": "7550.T",
-    "source": "yahoo",
-    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
+    "fetched_at": "2026-11-16T23:23:28.939552+00:00"
    }
   },
   {
@@ -1491,7 +2525,7 @@
     "market_open": false,
     "symbol": "7832.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
+    "fetched_at": "2026-11-16T23:23:28.939552+00:00"
    }
   },
   {
@@ -1595,7 +2629,7 @@
     "market_open": false,
     "symbol": "7936.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
+    "fetched_at": "2026-11-16T23:23:28.939552+00:00"
    }
   },
   {
@@ -1699,7 +2733,7 @@
     "market_open": false,
     "symbol": "3563.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
+    "fetched_at": "2026-11-16T23:23:28.939552+00:00"
    }
   },
   {
@@ -1803,7 +2837,7 @@
     "market_open": false,
     "symbol": "3905.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
+    "fetched_at": "2026-11-16T23:23:28.939552+00:00"
    }
   },
   {
@@ -1907,7 +2941,7 @@
     "market_open": false,
     "symbol": "5838.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
+    "fetched_at": "2026-11-16T23:23:28.939552+00:00"
    }
   },
   {
@@ -2012,7 +3046,7 @@
     "market_open": false,
     "symbol": "7012.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
+    "fetched_at": "2026-11-16T23:23:28.939552+00:00"
    }
   },
   {
@@ -2118,7 +3152,7 @@
     "market_open": false,
     "symbol": "7013.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
+    "fetched_at": "2026-11-16T23:23:28.939552+00:00"
    }
   },
   {
@@ -2222,7 +3256,7 @@
     "market_open": false,
     "symbol": "6503.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
+    "fetched_at": "2026-11-16T23:23:28.939552+00:00"
    }
   },
   {
@@ -2326,656 +3360,7 @@
     "market_open": false,
     "symbol": "5631.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
-   }
-  },
-  {
-   "key": "JP:4661",
-   "name": "オリエンタルランド",
-   "name_en": "Oriental Land Co., Ltd.",
-   "ticker": "4661",
-   "market": "JP",
-   "mentions": [
-    {
-     "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-     "channel_name": "Sho's投資情報局",
-     "channel_short": "Sho",
-     "slot": 3,
-     "video_id": "rrd8dcRaomc",
-     "video_title": "11/14【日本株ヤバいヤバいヤバい‼‼半導体株暴落捕まったか‼】キオクシア急落。日経平均バリュー株シフト。ドル円160円。エヌビディア急落で米国株、ナスダック、ハイテク株大荒れ。仮想通貨BTC",
-     "published": "2026-11-14T03:00:00+00:00",
-     "stance": "bullish",
-     "stance_note": "良好な需給と長期線のゴールデンクロス",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "需給状態が良好で、200日移動平均線と長期移動平均線のゴールデンクロス形成に伴い上昇トレンドを維持。"
-     ],
-     "timestamp": "37:48",
-     "seconds": 2268,
-     "confidence": "medium"
-    }
-   ],
-   "consensus": {
-    "bullish": 1,
-    "bearish": 0,
-    "neutral": 0
-   },
-   "voices": 1,
-   "split": false,
-   "last_mentioned": "2026-11-14T03:00:00+00:00",
-   "channel_ids": [
-    "UCK9Pl6bbWqMC_x7IDca2tIg"
-   ],
-   "price": {
-    "date": "2026-11-16",
-    "close": 3865.0,
-    "change_pct": 1.36,
-    "live": null,
-    "live_change_pct": null,
-    "live_time": null,
-    "volume": 4000800,
-    "volume_ratio": 0.71,
-    "rsi14": 72.5,
-    "rsi_zone": "買われすぎ",
-    "ma25": 3387.66,
-    "ma75": 3121.75,
-    "trend": "上昇基調",
-    "pos52": 100,
-    "spark": [
-     3053.0,
-     3002.0,
-     3068.0,
-     3035.0,
-     2956.5,
-     2968.0,
-     2902.0,
-     2889.0,
-     2908.5,
-     2882.0,
-     2816.5,
-     2837.0,
-     2840.0,
-     2888.5,
-     2933.0,
-     2968.5,
-     2990.0,
-     3010.0,
-     3118.0,
-     3167.0,
-     3222.0,
-     3277.0,
-     3234.0,
-     3280.0,
-     3281.0,
-     3275.0,
-     3232.0,
-     3168.0,
-     3170.0,
-     3438.0,
-     3482.0,
-     3511.0,
-     3712.0,
-     3529.0,
-     3773.0,
-     3729.0,
-     3690.0,
-     3757.0,
-     3813.0,
-     3865.0
-    ],
-    "currency": "JPY",
-    "exchange_name": "Tokyo",
-    "market_open": false,
-    "symbol": "4661.T",
-    "source": "yahoo",
-    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
-   }
-  },
-  {
-   "key": "JP:5803",
-   "name": "フジクラ",
-   "name_en": "Fujikura Ltd.",
-   "ticker": "5803",
-   "market": "JP",
-   "mentions": [
-    {
-     "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-     "channel_name": "Sho's投資情報局",
-     "channel_short": "Sho",
-     "slot": 3,
-     "video_id": "rrd8dcRaomc",
-     "video_title": "11/14【日本株ヤバいヤバいヤバい‼‼半導体株暴落捕まったか‼】キオクシア急落。日経平均バリュー株シフト。ドル円160円。エヌビディア急落で米国株、ナスダック、ハイテク株大荒れ。仮想通貨BTC",
-     "published": "2026-11-14T03:00:00+00:00",
-     "stance": "bearish",
-     "stance_note": "デッドクロス形成と需給悪化で下落傾向",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "200日移動平均線と長期移動平均線がデッドクロスを形成し、需給の悪化を伴って下落基調が強まっている。"
-     ],
-     "timestamp": "38:11",
-     "seconds": 2291,
-     "confidence": "medium"
-    }
-   ],
-   "consensus": {
-    "bullish": 0,
-    "bearish": 1,
-    "neutral": 0
-   },
-   "voices": 1,
-   "split": false,
-   "last_mentioned": "2026-11-14T03:00:00+00:00",
-   "channel_ids": [
-    "UCK9Pl6bbWqMC_x7IDca2tIg"
-   ],
-   "price": {
-    "date": "2026-11-16",
-    "close": 2700.0,
-    "change_pct": -7.09,
-    "live": null,
-    "live_change_pct": null,
-    "live_time": null,
-    "volume": 47771000,
-    "volume_ratio": 1.2,
-    "rsi14": 21.9,
-    "rsi_zone": "売られすぎ",
-    "ma25": 3914.24,
-    "ma75": 4714.84,
-    "trend": "下降基調",
-    "pos52": 1,
-    "spark": [
-     4744.0,
-     4839.0,
-     4867.0,
-     4952.0,
-     4911.0,
-     4986.0,
-     4957.0,
-     4931.0,
-     5224.0,
-     5368.0,
-     5598.0,
-     5566.0,
-     5855.0,
-     5700.0,
-     5512.0,
-     5413.0,
-     5070.0,
-     5200.0,
-     4540.0,
-     4503.0,
-     4482.0,
-     4192.0,
-     4347.0,
-     4078.0,
-     4037.0,
-     3978.0,
-     4092.0,
-     4111.0,
-     4195.0,
-     3918.0,
-     3900.0,
-     3680.0,
-     3260.0,
-     2962.0,
-     3080.0,
-     3089.0,
-     3121.0,
-     3002.0,
-     2906.0,
-     2700.0
-    ],
-    "currency": "JPY",
-    "exchange_name": "Tokyo",
-    "market_open": false,
-    "symbol": "5803.T",
-    "source": "yahoo",
-    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
-   }
-  },
-  {
-   "key": "US:NVDA",
-   "name": "NVIDIA",
-   "name_en": "NVIDIA Corporation",
-   "ticker": "NVDA",
-   "market": "US",
-   "mentions": [
-    {
-     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-     "channel_name": "Trader's Lab",
-     "channel_short": "TL",
-     "slot": 1,
-     "video_id": "seDVO4lotAM",
-     "video_title": "【日経平均】 来週はNVIDIA決算 〇〇に警戒  サンディスク・キオクシア・古河電気・太陽誘電・三井金属・オンコリスバイオ",
-     "published": "2026-11-13T11:14:37+00:00",
-     "stance": "neutral",
-     "stance_note": "急落後の自律反発も上値警戒",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "ファンシーCEO解任のニュースで10%以上急落し148ドル付近まで下落も、過去の高値ブレイクラインに到達したことで一旦下げ止まった。",
-      "現状は下げすぎの反動による自律反発の域を出ておらず、直近安値を下更新した場合は週足レベルでの下落トレンド入りが警戒される。"
-     ],
-     "timestamp": "25:25",
-     "seconds": 1525,
-     "confidence": "medium"
-    }
-   ],
-   "consensus": {
-    "bullish": 0,
-    "bearish": 0,
-    "neutral": 1
-   },
-   "voices": 1,
-   "split": false,
-   "last_mentioned": "2026-11-13T11:14:37+00:00",
-   "channel_ids": [
-    "UCsaeHha7ai_NNX8or8Jyb-g"
-   ],
-   "price": {
-    "date": "2026-11-13",
-    "close": 162.85,
-    "change_pct": -2.01,
-    "live": 159.79,
-    "live_change_pct": -1.88,
-    "live_time": 1794842525,
-    "volume": 363819700,
-    "volume_ratio": 1.94,
-    "rsi14": 24.9,
-    "rsi_zone": "売られすぎ",
-    "ma25": 203.25,
-    "ma75": 215.8,
-    "trend": "下降基調",
-    "pos52": 0,
-    "spark": [
-     227.38,
-     228.87,
-     225.51,
-     224.58,
-     225.07,
-     228.86,
-     227.21,
-     228.38,
-     230.86,
-     233.95,
-     238.9,
-     239.24,
-     237.47,
-     230.48,
-     229.28,
-     226.32,
-     228.52,
-     221.3,
-     217.23,
-     214.13,
-     217.09,
-     216.47,
-     221.97,
-     212.21,
-     210.96,
-     216.0,
-     217.94,
-     215.38,
-     213.66,
-     204.64,
-     202.06,
-     206.69,
-     200.13,
-     181.6,
-     186.64,
-     178.67,
-     168.89,
-     173.73,
-     166.19,
-     162.85
-    ],
-    "currency": "USD",
-    "exchange_name": "NasdaqGS",
-    "market_open": true,
-    "symbol": "NVDA",
-    "source": "yahoo",
-    "fetched_at": "2026-11-16T15:22:05.880176+00:00"
-   }
-  },
-  {
-   "key": "US:WDC",
-   "name": "サンディスク",
-   "name_en": "Western Digital Corporation",
-   "ticker": "WDC",
-   "market": "US",
-   "mentions": [
-    {
-     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-     "channel_name": "Trader's Lab",
-     "channel_short": "TL",
-     "slot": 1,
-     "video_id": "seDVO4lotAM",
-     "video_title": "【日経平均】 来週はNVIDIA決算 〇〇に警戒  サンディスク・キオクシア・古河電気・太陽誘電・三井金属・オンコリスバイオ",
-     "published": "2026-11-13T11:14:37+00:00",
-     "stance": "bearish",
-     "stance_note": "下落トレンド継続で上値が重い",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "キオクシアと同様に下落トレンドが継続しており、7月末安値を下割れたことで巨大な下落N波動の形成が懸念される。",
-      "ボリンジャーバンドのマイナスバンドウォークが続いており、上値が重く戻り売り圧力が強いチャート形状となっている。"
-     ],
-     "timestamp": "27:48",
-     "seconds": 1668,
-     "confidence": "medium"
-    },
-    {
-     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-     "channel_name": "Trader's Lab",
-     "channel_short": "TL",
-     "slot": 1,
-     "video_id": "RLHviu3eZqU",
-     "video_title": "【日経平均】 自律反発はまだ続く 下げ止まりは確定か 私はこう立ち回る サンディスク・キオクシア・アドバンテスト・太陽誘電・オンコリスバイオ",
-     "published": "2026-11-11T11:00:16+00:00",
-     "stance": "bearish",
-     "stance_note": "下方向へのバンドウォーク継続で戻り売り警戒",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "日足・週足ともに下方向へのバンドウォークが継続しており、強烈な下落トレンドを否定できていない点。",
-      "7月安値を明確に下抜けており、過去安値付近に近づくほど戻り売り圧力が強まりやすいチャート形状である点。"
-     ],
-     "timestamp": "29:18",
-     "seconds": 1758,
-     "confidence": "medium"
-    }
-   ],
-   "consensus": {
-    "bullish": 0,
-    "bearish": 1,
-    "neutral": 0
-   },
-   "voices": 1,
-   "split": false,
-   "last_mentioned": "2026-11-13T11:14:37+00:00",
-   "channel_ids": [
-    "UCsaeHha7ai_NNX8or8Jyb-g"
-   ],
-   "price": {
-    "date": "2026-11-13",
-    "close": 295.65,
-    "change_pct": -5.0,
-    "live": 277.03,
-    "live_change_pct": -6.3,
-    "live_time": 1794842523,
-    "volume": 4797800,
-    "volume_ratio": 0.54,
-    "rsi14": 38.5,
-    "rsi_zone": "中立",
-    "ma25": 341.94,
-    "ma75": 419.05,
-    "trend": "下降基調",
-    "pos52": 26,
-    "spark": [
-     448.17,
-     464.6,
-     473.69,
-     450.31,
-     456.81,
-     453.23,
-     453.48,
-     454.46,
-     462.56,
-     415.29,
-     441.64,
-     411.04,
-     405.42,
-     393.31,
-     397.28,
-     386.94,
-     380.71,
-     364.1,
-     356.45,
-     332.0,
-     352.21,
-     364.32,
-     378.51,
-     354.19,
-     343.67,
-     356.13,
-     380.88,
-     396.42,
-     395.41,
-     366.11,
-     338.59,
-     347.35,
-     323.83,
-     267.63,
-     263.78,
-     289.78,
-     289.2,
-     313.31,
-     311.21,
-     295.65
-    ],
-    "currency": "USD",
-    "exchange_name": "NasdaqGS",
-    "market_open": true,
-    "symbol": "WDC",
-    "source": "yahoo",
-    "fetched_at": "2026-11-16T15:22:05.880176+00:00"
-   }
-  },
-  {
-   "key": "JP:9984",
-   "name": "ソフトバンク",
-   "name_en": "SoftBank Group Corp.",
-   "ticker": "9984",
-   "market": "JP",
-   "mentions": [
-    {
-     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-     "channel_name": "Trader's Lab",
-     "channel_short": "TL",
-     "slot": 1,
-     "video_id": "seDVO4lotAM",
-     "video_title": "【日経平均】 来週はNVIDIA決算 〇〇に警戒  サンディスク・キオクシア・古河電気・太陽誘電・三井金属・オンコリスバイオ",
-     "published": "2026-11-13T11:14:37+00:00",
-     "stance": "bearish",
-     "stance_note": "直近決算赤字で週足下落転換",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "直近決算の大赤字が響き、3月安値3350円を下回ったことで週足での上昇トレンド終了と下落トレンド転換が示唆されている。",
-      "日足でバンドウォークが発生して急落しており、指数を引っ張ってきた主要銘柄の中で特に売られやすい状況が続いている。"
-     ],
-     "timestamp": "31:38",
-     "seconds": 1898,
-     "confidence": "medium"
-    }
-   ],
-   "consensus": {
-    "bullish": 0,
-    "bearish": 1,
-    "neutral": 0
-   },
-   "voices": 1,
-   "split": false,
-   "last_mentioned": "2026-11-13T11:14:37+00:00",
-   "channel_ids": [
-    "UCsaeHha7ai_NNX8or8Jyb-g"
-   ],
-   "price": {
-    "date": "2026-11-16",
-    "close": 3416.0,
-    "change_pct": -3.69,
-    "live": null,
-    "live_change_pct": null,
-    "live_time": null,
-    "volume": 67327200,
-    "volume_ratio": 1.16,
-    "rsi14": 30.4,
-    "rsi_zone": "中立",
-    "ma25": 4382.52,
-    "ma75": 5294.19,
-    "trend": "下降基調",
-    "pos52": 0,
-    "spark": [
-     6279.0,
-     6183.0,
-     6247.0,
-     6315.0,
-     6352.0,
-     6150.0,
-     6244.0,
-     6035.0,
-     6430.0,
-     6701.0,
-     6310.0,
-     6497.0,
-     6295.0,
-     6310.0,
-     6040.0,
-     5803.0,
-     5310.0,
-     5351.0,
-     4852.0,
-     4944.0,
-     4845.0,
-     4554.0,
-     4622.0,
-     4305.0,
-     4276.0,
-     4263.0,
-     4474.0,
-     4682.0,
-     4765.0,
-     4481.0,
-     4410.0,
-     4269.0,
-     3980.0,
-     3549.0,
-     3400.0,
-     3872.0,
-     3855.0,
-     3738.0,
-     3547.0,
-     3416.0
-    ],
-    "currency": "JPY",
-    "exchange_name": "Tokyo",
-    "market_open": false,
-    "symbol": "9984.T",
-    "source": "yahoo",
-    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
-   }
-  },
-  {
-   "key": "JP:5801",
-   "name": "古河電気工業",
-   "name_en": "Furukawa Electric Co., Ltd.",
-   "ticker": "5801",
-   "market": "JP",
-   "mentions": [
-    {
-     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-     "channel_name": "Trader's Lab",
-     "channel_short": "TL",
-     "slot": 1,
-     "video_id": "seDVO4lotAM",
-     "video_title": "【日経平均】 来週はNVIDIA決算 〇〇に警戒  サンディスク・キオクシア・古河電気・太陽誘電・三井金属・オンコリスバイオ",
-     "published": "2026-11-13T11:14:37+00:00",
-     "stance": "bearish",
-     "stance_note": "バブル終焉でブレイク前水準懸念",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "史上最高値からの下落トレンドが継続しており、7月安値を割り込んだことで上昇波動が完全に否定された。",
-      "売買高が減少して真空地帯に入っており、AI半導体関連の失速に伴いブレイク前の1000円台まで下落する懸念がある。"
-     ],
-     "timestamp": "35:19",
-     "seconds": 2119,
-     "confidence": "medium"
-    }
-   ],
-   "consensus": {
-    "bullish": 0,
-    "bearish": 1,
-    "neutral": 0
-   },
-   "voices": 1,
-   "split": false,
-   "last_mentioned": "2026-11-13T11:14:37+00:00",
-   "channel_ids": [
-    "UCsaeHha7ai_NNX8or8Jyb-g"
-   ],
-   "price": {
-    "date": "2026-11-16",
-    "close": 1982.5,
-    "change_pct": -8.54,
-    "live": null,
-    "live_change_pct": null,
-    "live_time": null,
-    "volume": 33488300,
-    "volume_ratio": 1.15,
-    "rsi14": 29.1,
-    "rsi_zone": "売られすぎ",
-    "ma25": 2841.7,
-    "ma75": 3510.05,
-    "trend": "下降基調",
-    "pos52": 21,
-    "spark": [
-     3719.0,
-     3812.0,
-     3763.0,
-     3901.0,
-     3807.0,
-     3826.0,
-     3785.0,
-     3684.0,
-     3856.0,
-     4113.0,
-     4429.0,
-     4378.0,
-     4490.0,
-     4444.0,
-     4220.0,
-     4096.0,
-     3895.0,
-     3885.0,
-     3376.0,
-     3366.0,
-     3322.0,
-     3126.0,
-     3200.0,
-     2946.5,
-     2894.5,
-     2840.0,
-     2851.0,
-     2926.0,
-     3065.0,
-     2806.0,
-     2755.0,
-     2584.5,
-     2143.5,
-     1960.0,
-     2000.0,
-     2197.0,
-     2373.0,
-     2284.5,
-     2167.5,
-     1982.5
-    ],
-    "currency": "JPY",
-    "exchange_name": "Tokyo",
-    "market_open": false,
-    "symbol": "5801.T",
-    "source": "yahoo",
-    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
+    "fetched_at": "2026-11-16T23:23:28.939552+00:00"
    }
   },
   {
@@ -3080,7 +3465,7 @@
     "market_open": false,
     "symbol": "5706.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
+    "fetched_at": "2026-11-16T23:23:28.939552+00:00"
    }
   },
   {
@@ -3109,27 +3494,6 @@
      ],
      "timestamp": "39:39",
      "seconds": 2379,
-     "confidence": "high"
-    },
-    {
-     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-     "channel_name": "Trader's Lab",
-     "channel_short": "TL",
-     "slot": 1,
-     "video_id": "RLHviu3eZqU",
-     "video_title": "【日経平均】 自律反発はまだ続く 下げ止まりは確定か 私はこう立ち回る サンディスク・キオクシア・アドバンテスト・太陽誘電・オンコリスバイオ",
-     "published": "2026-11-11T11:00:16+00:00",
-     "stance": "bullish",
-     "stance_note": "月足・週足のバンドウォーク継続で青天井展開",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "地合いの影響を受けず4ヶ月連続で月足バンドウォークを継続しており、対局で非常に強い上昇相場である点。",
-      "7000円のサポートを維持しており、年初来高値の8450円を抜ければ青天井で更なる上値を狙えるチャートである点。"
-     ],
-     "timestamp": "36:18",
-     "seconds": 2178,
      "confidence": "high"
     }
    ],
@@ -3206,112 +3570,7 @@
     "market_open": false,
     "symbol": "4588.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
-   }
-  },
-  {
-   "key": "IDX:^N225",
-   "name": "日経平均",
-   "name_en": "Nikkei 225",
-   "ticker": "N225",
-   "market": "JP",
-   "mentions": [
-    {
-     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-     "channel_name": "Trader's Lab",
-     "channel_short": "TL",
-     "slot": 1,
-     "video_id": "RLHviu3eZqU",
-     "video_title": "【日経平均】 自律反発はまだ続く 下げ止まりは確定か 私はこう立ち回る サンディスク・キオクシア・アドバンテスト・太陽誘電・オンコリスバイオ",
-     "published": "2026-11-11T11:00:16+00:00",
-     "stance": "bearish",
-     "stance_note": "自律反発の域を出ず下落基調継続に警戒",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "日足や4時間足で下落のN波動が継続しており、足元の反発は急落に対する自律反発の範囲内と判断される点。",
-      "6万1630円や6万2530円の過去安値水平ラインが戻り高値として強力なレジスタンスになる可能性がある点。"
-     ],
-     "timestamp": "07:15",
-     "seconds": 435,
-     "confidence": "high"
-    }
-   ],
-   "consensus": {
-    "bullish": 0,
-    "bearish": 1,
-    "neutral": 0
-   },
-   "voices": 1,
-   "split": false,
-   "last_mentioned": "2026-11-11T11:00:16+00:00",
-   "channel_ids": [
-    "UCsaeHha7ai_NNX8or8Jyb-g"
-   ],
-   "price": {
-    "date": "2026-11-13",
-    "close": 61142.35,
-    "change_pct": 0.53,
-    "live": null,
-    "live_change_pct": null,
-    "live_time": null,
-    "volume": 145000000,
-    "volume_ratio": 0.77,
-    "rsi14": 43.0,
-    "rsi_zone": "中立",
-    "ma25": 63445.99,
-    "ma75": 65028.35,
-    "trend": "下降基調",
-    "pos52": 53,
-    "spark": [
-     63492.99,
-     63484.1,
-     63923.0,
-     64136.25,
-     65018.95,
-     65513.99,
-     66364.2,
-     65877.62,
-     65481.27,
-     66753.72,
-     68956.72,
-     68309.46,
-     69946.86,
-     70683.98,
-     70035.71,
-     69042.11,
-     69030.92,
-     67777.52,
-     67744.29,
-     64425.95,
-     65324.29,
-     64916.7,
-     64075.42,
-     64621.24,
-     62907.84,
-     62693.16,
-     62189.65,
-     63268.37,
-     63954.19,
-     64659.47,
-     63290.11,
-     63081.86,
-     62188.63,
-     61077.9,
-     57434.77,
-     58775.5,
-     60459.58,
-     61248.59,
-     60819.36,
-     61142.35
-    ],
-    "currency": "JPY",
-    "exchange_name": "Osaka",
-    "market_open": false,
-    "symbol": "^N225",
-    "source": "yahoo",
-    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
+    "fetched_at": "2026-11-16T23:23:28.939552+00:00"
    }
   },
   {
@@ -3354,22 +3613,21 @@
     "UCt7qqCkTFFRfKjXzwqUXq4g"
    ],
    "price": {
-    "date": "2026-11-13",
-    "close": 53.13,
-    "change_pct": -6.13,
-    "live": 49.71,
-    "live_change_pct": -6.44,
-    "live_time": 1794842528,
-    "volume": 79832700,
-    "volume_ratio": 1.07,
-    "rsi14": 43.1,
+    "date": "2026-11-16",
+    "close": 49.88,
+    "change_pct": -6.12,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 52998961,
+    "volume_ratio": 0.7,
+    "rsi14": 40.5,
     "rsi_zone": "中立",
-    "ma25": 58.19,
-    "ma75": 78.35,
+    "ma25": 56.97,
+    "ma75": 78.06,
     "trend": "下降基調",
-    "pos52": 10,
+    "pos52": 7,
     "spark": [
-     85.43,
      86.76,
      86.9,
      90.13,
@@ -3408,14 +3666,15 @@
      48.73,
      60.77,
      56.6,
-     53.13
+     53.13,
+     49.88
     ],
     "currency": "USD",
     "exchange_name": "NasdaqGS",
-    "market_open": true,
+    "market_open": false,
     "symbol": "CRWV",
     "source": "yahoo-search",
-    "fetched_at": "2026-11-16T15:22:05.880176+00:00"
+    "fetched_at": "2026-11-16T23:23:28.939552+00:00"
    }
   },
   {
@@ -3458,22 +3717,21 @@
     "UCt7qqCkTFFRfKjXzwqUXq4g"
    ],
    "price": {
-    "date": "2026-11-13",
-    "close": 370.5,
-    "change_pct": -2.74,
-    "live": 351.87,
-    "live_change_pct": -5.03,
-    "live_time": 1794842531,
-    "volume": 11937400,
-    "volume_ratio": 1.39,
-    "rsi14": 42.6,
+    "date": "2026-11-16",
+    "close": 350.25,
+    "change_pct": -5.47,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 7027974,
+    "volume_ratio": 0.81,
+    "rsi14": 38.8,
     "rsi_zone": "中立",
-    "ma25": 396.25,
-    "ma75": 458.71,
+    "ma25": 390.36,
+    "ma75": 456.61,
     "trend": "下降基調",
-    "pos52": 30,
+    "pos52": 26,
     "spark": [
-     464.24,
      472.46,
      474.38,
      474.25,
@@ -3512,14 +3770,15 @@
      372.53,
      395.08,
      380.95,
-     370.5
+     370.5,
+     350.25
     ],
     "currency": "USD",
     "exchange_name": "NasdaqGS",
-    "market_open": true,
+    "market_open": false,
     "symbol": "AMAT",
     "source": "yahoo",
-    "fetched_at": "2026-11-16T15:22:05.880176+00:00"
+    "fetched_at": "2026-11-16T23:23:28.939552+00:00"
    }
   },
   {
@@ -3624,7 +3883,7 @@
     "market_open": false,
     "symbol": "2914.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
+    "fetched_at": "2026-11-16T23:23:28.939552+00:00"
    }
   },
   {
@@ -3728,7 +3987,7 @@
     "market_open": false,
     "symbol": "8058.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
+    "fetched_at": "2026-11-16T23:23:28.939552+00:00"
    }
   },
   {
@@ -3832,7 +4091,7 @@
     "market_open": false,
     "symbol": "8031.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
+    "fetched_at": "2026-11-16T23:23:28.939552+00:00"
    }
   },
   {
@@ -3936,7 +4195,7 @@
     "market_open": false,
     "symbol": "4684.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
+    "fetched_at": "2026-11-16T23:23:28.939552+00:00"
    }
   },
   {
@@ -4040,7 +4299,7 @@
     "market_open": false,
     "symbol": "6758.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
+    "fetched_at": "2026-11-16T23:23:28.939552+00:00"
    }
   },
   {
@@ -4109,7 +4368,7 @@
     "market_open": false,
     "symbol": "660A.T",
     "source": "yahoo-search",
-    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
+    "fetched_at": "2026-11-16T23:23:28.939552+00:00"
    }
   }
  ]
