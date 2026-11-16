@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T00:22:05.874870+09:00",
+ "generated_at": "2026-11-17T08:11:21.118420+09:00",
  "channels": [
   {
    "id": "UCsaeHha7ai_NNX8or8Jyb-g",
@@ -191,22 +191,21 @@
     "UCt7qqCkTFFRfKjXzwqUXq4g"
    ],
    "price": {
-    "date": "2026-11-13",
-    "close": 9091.0,
-    "change_pct": -2.25,
-    "live": 8347.0,
-    "live_change_pct": -8.18,
-    "live_time": 1794807168,
-    "volume": 138264100,
-    "volume_ratio": 1.45,
-    "rsi14": 31.4,
-    "rsi_zone": "中立",
-    "ma25": 12393.88,
-    "ma75": 15773.83,
+    "date": "2026-11-16",
+    "close": 8392.0,
+    "change_pct": -7.69,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 119779100,
+    "volume_ratio": 1.22,
+    "rsi14": 29.1,
+    "rsi_zone": "売られすぎ",
+    "ma25": 12013.56,
+    "ma75": 15636.79,
     "trend": "下降基調",
-    "pos52": 19,
+    "pos52": 17,
     "spark": [
-     16863.33,
      17250.0,
      16926.67,
      16626.67,
@@ -245,14 +244,15 @@
      9068.0,
      9571.0,
      9300.0,
-     9091.0
+     9091.0,
+     8392.0
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
-    "market_open": true,
+    "market_open": false,
     "symbol": "285A.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-16T05:47:48.770425+00:00"
+    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
    }
   },
   {
@@ -339,22 +339,21 @@
     "UCsaeHha7ai_NNX8or8Jyb-g"
    ],
    "price": {
-    "date": "2026-11-13",
-    "close": 30610.0,
-    "change_pct": 2.08,
-    "live": 27380.0,
-    "live_change_pct": -10.55,
-    "live_time": 1794807170,
-    "volume": 19780100,
-    "volume_ratio": 1.05,
-    "rsi14": 43.6,
+    "date": "2026-11-16",
+    "close": 27205.0,
+    "change_pct": -11.12,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 26321100,
+    "volume_ratio": 1.36,
+    "rsi14": 36.8,
     "rsi_zone": "中立",
-    "ma25": 33974.0,
-    "ma75": 33730.27,
-    "trend": "調整中",
-    "pos52": 52,
+    "ma25": 33425.0,
+    "ma75": 33707.07,
+    "trend": "下降基調",
+    "pos52": 38,
     "spark": [
-     31080.0,
      30160.0,
      30700.0,
      30240.0,
@@ -393,14 +392,15 @@
      29690.0,
      31440.0,
      29985.0,
-     30610.0
+     30610.0,
+     27205.0
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
-    "market_open": true,
+    "market_open": false,
     "symbol": "6857.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-16T05:47:48.770425+00:00"
+    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
    }
   },
   {
@@ -507,22 +507,21 @@
     "UCt7qqCkTFFRfKjXzwqUXq4g"
    ],
    "price": {
-    "date": "2026-11-13",
-    "close": 2920.5,
-    "change_pct": -7.43,
-    "live": 2893.5,
-    "live_change_pct": -0.92,
-    "live_time": 1794807172,
-    "volume": 53286700,
-    "volume_ratio": 2.12,
-    "rsi14": 28.8,
+    "date": "2026-11-16",
+    "close": 2900.0,
+    "change_pct": -0.7,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 27542500,
+    "volume_ratio": 1.08,
+    "rsi14": 28.3,
     "rsi_zone": "売られすぎ",
-    "ma25": 3447.16,
-    "ma75": 3752.84,
+    "ma25": 3415.96,
+    "ma75": 3738.91,
     "trend": "下降基調",
     "pos52": 0,
     "spark": [
-     3761.0,
      3701.0,
      3737.0,
      3887.0,
@@ -561,14 +560,15 @@
      3151.0,
      3138.0,
      3155.0,
-     2920.5
+     2920.5,
+     2900.0
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
-    "market_open": true,
+    "market_open": false,
     "symbol": "7011.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-16T05:47:48.770425+00:00"
+    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
    }
   },
   {
@@ -653,22 +653,21 @@
     "UCdQdRRLoajrt-5TEaAxslxA"
    ],
    "price": {
-    "date": "2026-11-13",
-    "close": 8773.0,
-    "change_pct": 2.45,
-    "live": 8871.0,
-    "live_change_pct": 1.12,
-    "live_time": 1794807173,
-    "volume": 9371600,
-    "volume_ratio": 1.11,
-    "rsi14": 57.2,
+    "date": "2026-11-16",
+    "close": 8894.0,
+    "change_pct": 1.38,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 9435900,
+    "volume_ratio": 1.1,
+    "rsi14": 59.1,
     "rsi_zone": "中立",
-    "ma25": 8417.6,
-    "ma75": 8313.67,
+    "ma25": 8459.32,
+    "ma75": 8339.33,
     "trend": "上昇基調",
-    "pos52": 32,
+    "pos52": 34,
     "spark": [
-     8268.0,
      8118.0,
      8126.0,
      8475.0,
@@ -707,14 +706,15 @@
      8452.0,
      8371.0,
      8563.0,
-     8773.0
+     8773.0,
+     8894.0
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
-    "market_open": true,
+    "market_open": false,
     "symbol": "7974.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-16T05:47:48.770425+00:00"
+    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
    }
   },
   {
@@ -800,22 +800,21 @@
     "UCsaeHha7ai_NNX8or8Jyb-g"
    ],
    "price": {
-    "date": "2026-11-13",
-    "close": 7095.0,
-    "change_pct": -0.78,
-    "live": 6405.0,
-    "live_change_pct": -9.73,
-    "live_time": 1794807176,
-    "volume": 21752700,
-    "volume_ratio": 0.71,
-    "rsi14": 36.9,
+    "date": "2026-11-16",
+    "close": 6386.0,
+    "change_pct": -9.99,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 23257000,
+    "volume_ratio": 0.77,
+    "rsi14": 32.0,
     "rsi_zone": "中立",
-    "ma25": 8688.96,
-    "ma75": 9377.63,
+    "ma25": 8506.2,
+    "ma75": 9310.57,
     "trend": "下降基調",
-    "pos52": 20,
+    "pos52": 17,
     "spark": [
-     8714.0,
      9197.0,
      9364.0,
      9000.0,
@@ -854,14 +853,15 @@
      6966.0,
      7476.0,
      7151.0,
-     7095.0
+     7095.0,
+     6386.0
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
-    "market_open": true,
+    "market_open": false,
     "symbol": "6976.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-16T05:47:48.770425+00:00"
+    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
    }
   },
   {
@@ -905,22 +905,21 @@
     "UCK9Pl6bbWqMC_x7IDca2tIg"
    ],
    "price": {
-    "date": "2026-11-13",
-    "close": 4473.0,
-    "change_pct": 1.87,
-    "live": 4562.0,
-    "live_change_pct": 1.99,
-    "live_time": 1794807152,
-    "volume": 2546700,
-    "volume_ratio": 0.85,
-    "rsi14": 70.0,
+    "date": "2026-11-16",
+    "close": 4552.0,
+    "change_pct": 1.77,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 2820500,
+    "volume_ratio": 0.94,
+    "rsi14": 72.0,
     "rsi_zone": "買われすぎ",
-    "ma25": 3970.68,
-    "ma75": 3894.4,
+    "ma25": 4007.48,
+    "ma75": 3903.2,
     "trend": "上昇基調",
-    "pos52": 79,
+    "pos52": 84,
     "spark": [
-     3867.0,
      3842.0,
      3796.0,
      3842.0,
@@ -959,14 +958,15 @@
      4320.0,
      4277.0,
      4391.0,
-     4473.0
+     4473.0,
+     4552.0
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
-    "market_open": true,
+    "market_open": false,
     "symbol": "9022.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-16T05:47:48.770425+00:00"
+    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
    }
   },
   {
@@ -1010,22 +1010,21 @@
     "UCK9Pl6bbWqMC_x7IDca2tIg"
    ],
    "price": {
-    "date": "2026-11-13",
-    "close": 1445.0,
-    "change_pct": -2.23,
-    "live": 1403.5,
-    "live_change_pct": -2.87,
-    "live_time": 1794807176,
-    "volume": 5304800,
-    "volume_ratio": 2.3,
-    "rsi14": 56.1,
+    "date": "2026-11-16",
+    "close": 1406.5,
+    "change_pct": -2.66,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 3894100,
+    "volume_ratio": 1.63,
+    "rsi14": 51.6,
     "rsi_zone": "中立",
-    "ma25": 1365.98,
-    "ma75": 1440.47,
+    "ma25": 1366.84,
+    "ma75": 1438.3,
     "trend": "戻り歩調",
-    "pos52": 20,
+    "pos52": 16,
     "spark": [
-     1517.5,
      1554.0,
      1582.0,
      1583.0,
@@ -1064,14 +1063,15 @@
      1405.0,
      1427.5,
      1478.0,
-     1445.0
+     1445.0,
+     1406.5
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
-    "market_open": true,
+    "market_open": false,
     "symbol": "1893.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-16T05:47:48.770425+00:00"
+    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
    }
   },
   {
@@ -1115,22 +1115,21 @@
     "UCK9Pl6bbWqMC_x7IDca2tIg"
    ],
    "price": {
-    "date": "2026-11-13",
-    "close": 12325.0,
-    "change_pct": 5.7,
-    "live": 12615.0,
-    "live_change_pct": 2.35,
-    "live_time": 1794807177,
-    "volume": 2329300,
-    "volume_ratio": 1.14,
-    "rsi14": 65.2,
+    "date": "2026-11-16",
+    "close": 12640.0,
+    "change_pct": 2.56,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 1426000,
+    "volume_ratio": 0.69,
+    "rsi14": 67.4,
     "rsi_zone": "中立",
-    "ma25": 11004.2,
-    "ma75": 8708.27,
+    "ma25": 11175.96,
+    "ma75": 8789.84,
     "trend": "上昇基調",
-    "pos52": 95,
+    "pos52": 99,
     "spark": [
-     7691.0,
      7710.0,
      7573.0,
      7840.0,
@@ -1169,14 +1168,15 @@
      12415.0,
      11970.0,
      11660.0,
-     12325.0
+     12325.0,
+     12640.0
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
-    "market_open": true,
+    "market_open": false,
     "symbol": "6532.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-16T05:47:48.770425+00:00"
+    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
    }
   },
   {
@@ -1220,22 +1220,21 @@
     "UCK9Pl6bbWqMC_x7IDca2tIg"
    ],
    "price": {
-    "date": "2026-11-13",
-    "close": 350.9,
-    "change_pct": -0.11,
-    "live": 355.2,
-    "live_change_pct": 1.23,
-    "live_time": 1794807158,
-    "volume": 2835100,
-    "volume_ratio": 0.56,
-    "rsi14": 59.3,
+    "date": "2026-11-16",
+    "close": 358.6,
+    "change_pct": 2.19,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 6790600,
+    "volume_ratio": 1.32,
+    "rsi14": 64.9,
     "rsi_zone": "中立",
-    "ma25": 340.34,
-    "ma75": 336.71,
+    "ma25": 341.07,
+    "ma75": 337.35,
     "trend": "上昇基調",
     "pos52": 100,
     "spark": [
-     345.6,
      344.4,
      343.1,
      345.1,
@@ -1274,14 +1273,15 @@
      345.1,
      351.0,
      351.3,
-     350.9
+     350.9,
+     358.6
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
-    "market_open": true,
+    "market_open": false,
     "symbol": "8410.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-16T05:47:48.770425+00:00"
+    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
    }
   },
   {
@@ -1326,22 +1326,21 @@
     "UCt7qqCkTFFRfKjXzwqUXq4g"
    ],
    "price": {
-    "date": "2026-11-13",
-    "close": 13270.0,
-    "change_pct": 5.69,
-    "live": 13625.0,
-    "live_change_pct": 2.68,
-    "live_time": 1794807144,
-    "volume": 1165300,
-    "volume_ratio": 1.98,
-    "rsi14": 63.5,
+    "date": "2026-11-16",
+    "close": 13660.0,
+    "change_pct": 2.94,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 750500,
+    "volume_ratio": 1.29,
+    "rsi14": 66.8,
     "rsi_zone": "中立",
-    "ma25": 12222.8,
-    "ma75": 11423.57,
+    "ma25": 12316.6,
+    "ma75": 11484.01,
     "trend": "上昇基調",
     "pos52": 100,
     "spark": [
-     11475.0,
      11340.0,
      10980.0,
      10400.0,
@@ -1380,14 +1379,15 @@
      12870.0,
      12705.0,
      12555.0,
-     13270.0
+     13270.0,
+     13660.0
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
-    "market_open": true,
+    "market_open": false,
     "symbol": "7550.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-16T05:47:48.770425+00:00"
+    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
    }
   },
   {
@@ -1430,22 +1430,21 @@
     "UCdQdRRLoajrt-5TEaAxslxA"
    ],
    "price": {
-    "date": "2026-11-13",
-    "close": 6900.0,
-    "change_pct": 2.19,
-    "live": 7077.0,
-    "live_change_pct": 2.57,
-    "live_time": 1794807186,
-    "volume": 2852600,
-    "volume_ratio": 0.92,
-    "rsi14": 65.5,
+    "date": "2026-11-16",
+    "close": 7066.0,
+    "change_pct": 2.41,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 2469900,
+    "volume_ratio": 0.79,
+    "rsi14": 68.2,
     "rsi_zone": "中立",
-    "ma25": 6305.72,
-    "ma75": 5659.4,
+    "ma25": 6359.52,
+    "ma75": 5698.8,
     "trend": "上昇基調",
     "pos52": 100,
     "spark": [
-     5617.0,
      5559.0,
      5463.0,
      5651.0,
@@ -1484,14 +1483,15 @@
      6649.0,
      6821.0,
      6752.0,
-     6900.0
+     6900.0,
+     7066.0
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
-    "market_open": true,
+    "market_open": false,
     "symbol": "7832.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-16T05:47:48.770425+00:00"
+    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
    }
   },
   {
@@ -1534,22 +1534,21 @@
     "UCdQdRRLoajrt-5TEaAxslxA"
    ],
    "price": {
-    "date": "2026-11-13",
-    "close": 4180.0,
-    "change_pct": -14.34,
-    "live": 4503.0,
-    "live_change_pct": 7.73,
-    "live_time": 1794807191,
-    "volume": 24046800,
-    "volume_ratio": 4.44,
-    "rsi14": 37.5,
+    "date": "2026-11-16",
+    "close": 4502.0,
+    "change_pct": 7.7,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 23673500,
+    "volume_ratio": 3.81,
+    "rsi14": 45.7,
     "rsi_zone": "中立",
-    "ma25": 4748.92,
-    "ma75": 4587.01,
+    "ma25": 4751.04,
+    "ma75": 4583.13,
     "trend": "調整中",
-    "pos52": 36,
+    "pos52": 54,
     "spark": [
-     4071.0,
      4115.0,
      4013.0,
      4097.0,
@@ -1588,14 +1587,15 @@
      5151.0,
      5119.0,
      4880.0,
-     4180.0
+     4180.0,
+     4502.0
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
-    "market_open": true,
+    "market_open": false,
     "symbol": "7936.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-16T05:47:48.770425+00:00"
+    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
    }
   },
   {
@@ -1638,22 +1638,21 @@
     "UCdQdRRLoajrt-5TEaAxslxA"
    ],
    "price": {
-    "date": "2026-11-13",
-    "close": 6085.0,
-    "change_pct": 5.44,
-    "live": 6363.0,
-    "live_change_pct": 4.57,
-    "live_time": 1794807191,
-    "volume": 2710700,
-    "volume_ratio": 0.9,
-    "rsi14": 59.3,
+    "date": "2026-11-16",
+    "close": 6395.0,
+    "change_pct": 5.09,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 4624500,
+    "volume_ratio": 1.49,
+    "rsi14": 64.0,
     "rsi_zone": "中立",
-    "ma25": 5683.2,
-    "ma75": 5580.88,
+    "ma25": 5723.4,
+    "ma75": 5593.77,
     "trend": "上昇基調",
     "pos52": 100,
     "spark": [
-     5136.0,
      4946.0,
      4846.0,
      4766.0,
@@ -1692,14 +1691,15 @@
      5712.0,
      5775.0,
      5771.0,
-     6085.0
+     6085.0,
+     6395.0
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
-    "market_open": true,
+    "market_open": false,
     "symbol": "3563.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-16T05:47:48.770425+00:00"
+    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
    }
   },
   {
@@ -1742,22 +1742,21 @@
     "UCdQdRRLoajrt-5TEaAxslxA"
    ],
    "price": {
-    "date": "2026-11-13",
-    "close": 1215.0,
-    "change_pct": -9.06,
-    "live": 1172.0,
-    "live_change_pct": -3.54,
-    "live_time": 1794807193,
-    "volume": 10761100,
-    "volume_ratio": 0.58,
-    "rsi14": 36.9,
+    "date": "2026-11-16",
+    "close": 1191.0,
+    "change_pct": -1.98,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 8790400,
+    "volume_ratio": 0.47,
+    "rsi14": 36.4,
     "rsi_zone": "中立",
-    "ma25": 1586.48,
-    "ma75": 1730.08,
+    "ma25": 1567.88,
+    "ma75": 1714.92,
     "trend": "下降基調",
     "pos52": 0,
     "spark": [
-     1483.0,
      1509.0,
      1446.0,
      1438.0,
@@ -1796,14 +1795,15 @@
      1399.0,
      1383.0,
      1336.0,
-     1215.0
+     1215.0,
+     1191.0
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
-    "market_open": true,
+    "market_open": false,
     "symbol": "3905.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-16T05:47:48.770425+00:00"
+    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
    }
   },
   {
@@ -1846,22 +1846,21 @@
     "UCdQdRRLoajrt-5TEaAxslxA"
    ],
    "price": {
-    "date": "2026-11-13",
-    "close": 5428.0,
-    "change_pct": -0.7,
-    "live": 5287.0,
-    "live_change_pct": -2.6,
-    "live_time": 1794807186,
-    "volume": 3404300,
-    "volume_ratio": 2.35,
-    "rsi14": 40.7,
+    "date": "2026-11-16",
+    "close": 5294.0,
+    "change_pct": -2.47,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 2384700,
+    "volume_ratio": 1.6,
+    "rsi14": 38.9,
     "rsi_zone": "中立",
-    "ma25": 5949.8,
-    "ma75": 6061.43,
+    "ma25": 5913.72,
+    "ma75": 6057.67,
     "trend": "下降基調",
-    "pos52": 20,
+    "pos52": 17,
     "spark": [
-     6517.0,
      6383.0,
      6177.0,
      6177.0,
@@ -1900,14 +1899,15 @@
      6305.0,
      6421.0,
      5466.0,
-     5428.0
+     5428.0,
+     5294.0
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
-    "market_open": true,
+    "market_open": false,
     "symbol": "5838.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-16T05:47:48.770425+00:00"
+    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
    }
   },
   {
@@ -1951,22 +1951,21 @@
     "UCdQdRRLoajrt-5TEaAxslxA"
    ],
    "price": {
-    "date": "2026-11-13",
-    "close": 1814.0,
-    "change_pct": -8.29,
-    "live": 1753.5,
-    "live_change_pct": -3.34,
-    "live_time": 1794807198,
-    "volume": 31538400,
-    "volume_ratio": 2.77,
-    "rsi14": 22.5,
+    "date": "2026-11-16",
+    "close": 1757.0,
+    "change_pct": -3.14,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 21403200,
+    "volume_ratio": 1.84,
+    "rsi14": 20.5,
     "rsi_zone": "売られすぎ",
-    "ma25": 2131.72,
-    "ma75": 2421.16,
+    "ma25": 2111.2,
+    "ma75": 2407.45,
     "trend": "下降基調",
     "pos52": 0,
     "spark": [
-     2351.0,
      2372.0,
      2388.5,
      2421.0,
@@ -2005,14 +2004,15 @@
      1963.0,
      1971.0,
      1978.0,
-     1814.0
+     1814.0,
+     1757.0
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
-    "market_open": true,
+    "market_open": false,
     "symbol": "7012.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-16T05:47:48.770425+00:00"
+    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
    }
   },
   {
@@ -2057,22 +2057,21 @@
     "UCdQdRRLoajrt-5TEaAxslxA"
    ],
    "price": {
-    "date": "2026-11-13",
-    "close": 2322.5,
-    "change_pct": -6.14,
-    "live": 2314.5,
-    "live_change_pct": -0.34,
-    "live_time": 1794807201,
-    "volume": 18933400,
-    "volume_ratio": 1.35,
-    "rsi14": 40.3,
+    "date": "2026-11-16",
+    "close": 2305.5,
+    "change_pct": -0.73,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 11374900,
+    "volume_ratio": 0.82,
+    "rsi14": 39.3,
     "rsi_zone": "中立",
-    "ma25": 2443.76,
-    "ma75": 2654.17,
+    "ma25": 2432.38,
+    "ma75": 2646.53,
     "trend": "下降基調",
     "pos52": 1,
     "spark": [
-     2723.0,
      2772.5,
      2779.5,
      2842.5,
@@ -2111,14 +2110,15 @@
      2449.5,
      2471.0,
      2474.5,
-     2322.5
+     2322.5,
+     2305.5
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
-    "market_open": true,
+    "market_open": false,
     "symbol": "7013.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-16T05:47:48.770425+00:00"
+    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
    }
   },
   {
@@ -2161,22 +2161,21 @@
     "UCdQdRRLoajrt-5TEaAxslxA"
    ],
    "price": {
-    "date": "2026-11-13",
-    "close": 4755.0,
-    "change_pct": -4.29,
-    "live": 4627.0,
-    "live_change_pct": -2.69,
-    "live_time": 1794807203,
-    "volume": 10597200,
-    "volume_ratio": 1.32,
-    "rsi14": 44.6,
+    "date": "2026-11-16",
+    "close": 4614.0,
+    "change_pct": -2.97,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 5936400,
+    "volume_ratio": 0.74,
+    "rsi14": 40.6,
     "rsi_zone": "中立",
-    "ma25": 4871.4,
-    "ma75": 5273.33,
+    "ma25": 4853.92,
+    "ma75": 5259.52,
     "trend": "下降基調",
-    "pos52": 29,
+    "pos52": 23,
     "spark": [
-     5122.0,
      5100.0,
      5160.0,
      5164.0,
@@ -2215,14 +2214,15 @@
      4908.0,
      4917.0,
      4968.0,
-     4755.0
+     4755.0,
+     4614.0
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
-    "market_open": true,
+    "market_open": false,
     "symbol": "6503.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-16T05:47:48.770425+00:00"
+    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
    }
   },
   {
@@ -2265,22 +2265,21 @@
     "UCdQdRRLoajrt-5TEaAxslxA"
    ],
    "price": {
-    "date": "2026-11-13",
-    "close": 5419.0,
-    "change_pct": -8.46,
-    "live": 5204.0,
-    "live_change_pct": -3.97,
-    "live_time": 1794807203,
-    "volume": 1465000,
-    "volume_ratio": 1.43,
-    "rsi14": 36.3,
+    "date": "2026-11-16",
+    "close": 5218.0,
+    "change_pct": -3.71,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 863900,
+    "volume_ratio": 0.85,
+    "rsi14": 33.8,
     "rsi_zone": "中立",
-    "ma25": 6140.76,
-    "ma75": 7023.96,
+    "ma25": 6072.68,
+    "ma75": 6990.12,
     "trend": "下降基調",
-    "pos52": 5,
+    "pos52": 1,
     "spark": [
-     7245.0,
      7189.0,
      7107.0,
      7453.0,
@@ -2319,14 +2318,15 @@
      5779.0,
      6013.0,
      5920.0,
-     5419.0
+     5419.0,
+     5218.0
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
-    "market_open": true,
+    "market_open": false,
     "symbol": "5631.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-16T05:47:48.770425+00:00"
+    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
    }
   },
   {
@@ -2369,22 +2369,21 @@
     "UCK9Pl6bbWqMC_x7IDca2tIg"
    ],
    "price": {
-    "date": "2026-11-13",
-    "close": 3813.0,
-    "change_pct": 1.49,
-    "live": 3871.0,
-    "live_change_pct": 1.52,
-    "live_time": 1794807207,
-    "volume": 4429200,
-    "volume_ratio": 0.78,
-    "rsi14": 71.1,
+    "date": "2026-11-16",
+    "close": 3865.0,
+    "change_pct": 1.36,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 4000800,
+    "volume_ratio": 0.71,
+    "rsi14": 72.5,
     "rsi_zone": "買われすぎ",
-    "ma25": 3350.38,
-    "ma75": 3105.99,
+    "ma25": 3387.66,
+    "ma75": 3121.75,
     "trend": "上昇基調",
     "pos52": 100,
     "spark": [
-     3112.0,
      3053.0,
      3002.0,
      3068.0,
@@ -2423,14 +2422,15 @@
      3729.0,
      3690.0,
      3757.0,
-     3813.0
+     3813.0,
+     3865.0
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
-    "market_open": true,
+    "market_open": false,
     "symbol": "4661.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-16T05:47:48.770425+00:00"
+    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
    }
   },
   {
@@ -2473,22 +2473,21 @@
     "UCK9Pl6bbWqMC_x7IDca2tIg"
    ],
    "price": {
-    "date": "2026-11-13",
-    "close": 2906.0,
-    "change_pct": -3.2,
-    "live": 2708.0,
-    "live_change_pct": -6.81,
-    "live_time": 1794807209,
-    "volume": 44493200,
-    "volume_ratio": 1.14,
-    "rsi14": 24.2,
+    "date": "2026-11-16",
+    "close": 2700.0,
+    "change_pct": -7.09,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 47771000,
+    "volume_ratio": 1.2,
+    "rsi14": 21.9,
     "rsi_zone": "売られすぎ",
-    "ma25": 4026.72,
-    "ma75": 4740.08,
+    "ma25": 3914.24,
+    "ma75": 4714.84,
     "trend": "下降基調",
-    "pos52": 5,
+    "pos52": 1,
     "spark": [
-     4834.0,
      4744.0,
      4839.0,
      4867.0,
@@ -2527,14 +2526,15 @@
      3089.0,
      3121.0,
      3002.0,
-     2906.0
+     2906.0,
+     2700.0
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
-    "market_open": true,
+    "market_open": false,
     "symbol": "5803.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-16T05:47:48.770425+00:00"
+    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
    }
   },
   {
@@ -2809,22 +2809,21 @@
     "UCsaeHha7ai_NNX8or8Jyb-g"
    ],
    "price": {
-    "date": "2026-11-13",
-    "close": 3547.0,
-    "change_pct": -5.11,
-    "live": 3443.0,
-    "live_change_pct": -2.93,
-    "live_time": 1794807210,
-    "volume": 68899000,
-    "volume_ratio": 1.21,
-    "rsi14": 31.9,
+    "date": "2026-11-16",
+    "close": 3416.0,
+    "change_pct": -3.69,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 67327200,
+    "volume_ratio": 1.16,
+    "rsi14": 30.4,
     "rsi_zone": "中立",
-    "ma25": 4487.48,
-    "ma75": 5321.97,
+    "ma25": 4382.52,
+    "ma75": 5294.19,
     "trend": "下降基調",
-    "pos52": 3,
+    "pos52": 0,
     "spark": [
-     5839.0,
      6279.0,
      6183.0,
      6247.0,
@@ -2863,14 +2862,15 @@
      3872.0,
      3855.0,
      3738.0,
-     3547.0
+     3547.0,
+     3416.0
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
-    "market_open": true,
+    "market_open": false,
     "symbol": "9984.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-16T05:47:48.770425+00:00"
+    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
    }
   },
   {
@@ -2914,22 +2914,21 @@
     "UCsaeHha7ai_NNX8or8Jyb-g"
    ],
    "price": {
-    "date": "2026-11-13",
-    "close": 2167.5,
-    "change_pct": -5.12,
-    "live": 1990.0,
-    "live_change_pct": -8.19,
-    "live_time": 1794807214,
-    "volume": 32013700,
-    "volume_ratio": 1.11,
-    "rsi14": 31.9,
-    "rsi_zone": "中立",
-    "ma25": 2931.2,
-    "ma75": 3528.79,
+    "date": "2026-11-16",
+    "close": 1982.5,
+    "change_pct": -8.54,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 33488300,
+    "volume_ratio": 1.15,
+    "rsi14": 29.1,
+    "rsi_zone": "売られすぎ",
+    "ma25": 2841.7,
+    "ma75": 3510.05,
     "trend": "下降基調",
-    "pos52": 25,
+    "pos52": 21,
     "spark": [
-     3845.0,
      3719.0,
      3812.0,
      3763.0,
@@ -2968,14 +2967,15 @@
      2197.0,
      2373.0,
      2284.5,
-     2167.5
+     2167.5,
+     1982.5
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
-    "market_open": true,
+    "market_open": false,
     "symbol": "5801.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-16T05:47:48.770425+00:00"
+    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
    }
   },
   {
@@ -3019,22 +3019,21 @@
     "UCsaeHha7ai_NNX8or8Jyb-g"
    ],
    "price": {
-    "date": "2026-11-13",
-    "close": 1538.0,
-    "change_pct": -4.91,
-    "live": 1427.0,
-    "live_change_pct": -7.22,
-    "live_time": 1794807215,
-    "volume": 12746200,
-    "volume_ratio": 0.86,
-    "rsi14": 30.1,
-    "rsi_zone": "中立",
-    "ma25": 2070.96,
-    "ma75": 2506.49,
+    "date": "2026-11-16",
+    "close": 1409.5,
+    "change_pct": -8.36,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 15402500,
+    "volume_ratio": 1.04,
+    "rsi14": 27.1,
+    "rsi_zone": "売られすぎ",
+    "ma25": 2018.74,
+    "ma75": 2482.73,
     "trend": "下降基調",
     "pos52": 0,
     "spark": [
-     2282.5,
      2280.5,
      2276.0,
      2123.5,
@@ -3073,14 +3072,15 @@
      1752.5,
      1669.5,
      1617.5,
-     1538.0
+     1538.0,
+     1409.5
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
-    "market_open": true,
+    "market_open": false,
     "symbol": "5706.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-16T05:47:48.770425+00:00"
+    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
    }
   },
   {
@@ -3145,22 +3145,21 @@
     "UCsaeHha7ai_NNX8or8Jyb-g"
    ],
    "price": {
-    "date": "2026-11-13",
-    "close": 8410.0,
-    "change_pct": 9.65,
-    "live": 7990.0,
-    "live_change_pct": -4.99,
-    "live_time": 1794807215,
-    "volume": 2120700,
-    "volume_ratio": 1.32,
-    "rsi14": 65.3,
+    "date": "2026-11-16",
+    "close": 8080.0,
+    "change_pct": -3.92,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 1695200,
+    "volume_ratio": 1.05,
+    "rsi14": 61.2,
     "rsi_zone": "中立",
-    "ma25": 6677.6,
-    "ma75": 5177.35,
+    "ma25": 6754.0,
+    "ma75": 5252.16,
     "trend": "上昇基調",
-    "pos52": 100,
+    "pos52": 96,
     "spark": [
-     6160.0,
      6390.0,
      5800.0,
      6300.0,
@@ -3199,14 +3198,15 @@
      7510.0,
      7900.0,
      7670.0,
-     8410.0
+     8410.0,
+     8080.0
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
-    "market_open": true,
+    "market_open": false,
     "symbol": "4588.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-16T05:47:48.770425+00:00"
+    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
    }
   },
   {
@@ -3253,9 +3253,9 @@
     "date": "2026-11-13",
     "close": 61142.35,
     "change_pct": 0.53,
-    "live": 59848.15,
-    "live_change_pct": -2.12,
-    "live_time": 1794807220,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
     "volume": 145000000,
     "volume_ratio": 0.77,
     "rsi14": 43.0,
@@ -3308,10 +3308,10 @@
     ],
     "currency": "JPY",
     "exchange_name": "Osaka",
-    "market_open": true,
+    "market_open": false,
     "symbol": "^N225",
     "source": "yahoo",
-    "fetched_at": "2026-11-16T05:47:48.770425+00:00"
+    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
    }
   },
   {
@@ -3563,22 +3563,21 @@
     "UCt7qqCkTFFRfKjXzwqUXq4g"
    ],
    "price": {
-    "date": "2026-11-13",
-    "close": 5944.0,
-    "change_pct": -0.87,
-    "live": 5914.0,
-    "live_change_pct": -0.5,
-    "live_time": 1794807221,
-    "volume": 13191600,
-    "volume_ratio": 1.35,
-    "rsi14": 37.0,
+    "date": "2026-11-16",
+    "close": 5913.0,
+    "change_pct": -0.52,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 10939300,
+    "volume_ratio": 1.09,
+    "rsi14": 36.7,
     "rsi_zone": "中立",
-    "ma25": 7019.92,
-    "ma75": 6928.89,
+    "ma25": 6978.04,
+    "ma75": 6921.59,
     "trend": "調整中",
-    "pos52": 27,
+    "pos52": 26,
     "spark": [
-     6763.0,
      6780.0,
      6773.0,
      6916.0,
@@ -3617,14 +3616,15 @@
      5500.0,
      5562.0,
      5996.0,
-     5944.0
+     5944.0,
+     5913.0
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
-    "market_open": true,
+    "market_open": false,
     "symbol": "2914.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-16T05:47:48.770425+00:00"
+    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
    }
   },
   {
@@ -3667,22 +3667,21 @@
     "UCt7qqCkTFFRfKjXzwqUXq4g"
    ],
    "price": {
-    "date": "2026-11-13",
-    "close": 5405.0,
-    "change_pct": 1.56,
-    "live": 5406.0,
-    "live_change_pct": 0.02,
-    "live_time": 1794807221,
-    "volume": 7881800,
-    "volume_ratio": 0.75,
-    "rsi14": 64.8,
+    "date": "2026-11-16",
+    "close": 5358.0,
+    "change_pct": -0.87,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 8425700,
+    "volume_ratio": 0.8,
+    "rsi14": 62.7,
     "rsi_zone": "中立",
-    "ma25": 4912.28,
-    "ma75": 4852.52,
+    "ma25": 4943.0,
+    "ma75": 4858.39,
     "trend": "上昇基調",
-    "pos52": 80,
+    "pos52": 78,
     "spark": [
-     4991.0,
      4910.0,
      4944.0,
      4979.0,
@@ -3721,14 +3720,15 @@
      5311.0,
      5263.0,
      5322.0,
-     5405.0
+     5405.0,
+     5358.0
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
-    "market_open": true,
+    "market_open": false,
     "symbol": "8058.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-16T05:47:48.770425+00:00"
+    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
    }
   },
   {
@@ -3771,22 +3771,21 @@
     "UCt7qqCkTFFRfKjXzwqUXq4g"
    ],
    "price": {
-    "date": "2026-11-13",
-    "close": 5100.0,
-    "change_pct": 0.2,
-    "live": 5109.0,
-    "live_change_pct": 0.18,
-    "live_time": 1794807213,
-    "volume": 3888600,
-    "volume_ratio": 0.6,
-    "rsi14": 55.3,
+    "date": "2026-11-16",
+    "close": 5086.0,
+    "change_pct": -0.27,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 4262000,
+    "volume_ratio": 0.68,
+    "rsi14": 54.7,
     "rsi_zone": "中立",
-    "ma25": 4958.8,
-    "ma75": 4964.95,
-    "trend": "戻り歩調",
-    "pos52": 42,
+    "ma25": 4971.68,
+    "ma75": 4966.55,
+    "trend": "上昇基調",
+    "pos52": 41,
     "spark": [
-     5164.0,
      5069.0,
      5174.0,
      5224.0,
@@ -3825,14 +3824,15 @@
      4979.0,
      5026.0,
      5090.0,
-     5100.0
+     5100.0,
+     5086.0
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
-    "market_open": true,
+    "market_open": false,
     "symbol": "8031.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-16T05:47:48.770425+00:00"
+    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
    }
   },
   {
@@ -3875,22 +3875,21 @@
     "UCt7qqCkTFFRfKjXzwqUXq4g"
    ],
    "price": {
-    "date": "2026-11-13",
-    "close": 6205.0,
-    "change_pct": 2.89,
-    "live": 6239.0,
-    "live_change_pct": 0.55,
-    "live_time": 1794807210,
-    "volume": 1712700,
-    "volume_ratio": 0.74,
-    "rsi14": 61.1,
+    "date": "2026-11-16",
+    "close": 6273.0,
+    "change_pct": 1.1,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 1402600,
+    "volume_ratio": 0.61,
+    "rsi14": 62.7,
     "rsi_zone": "中立",
-    "ma25": 5888.08,
-    "ma75": 5173.01,
+    "ma25": 5932.04,
+    "ma75": 5200.76,
     "trend": "上昇基調",
-    "pos52": 92,
+    "pos52": 95,
     "spark": [
-     5084.0,
      5067.0,
      5065.0,
      5111.0,
@@ -3929,14 +3928,15 @@
      6217.0,
      6150.0,
      6031.0,
-     6205.0
+     6205.0,
+     6273.0
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
-    "market_open": true,
+    "market_open": false,
     "symbol": "4684.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-16T05:47:48.770425+00:00"
+    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
    }
   },
   {
@@ -3979,22 +3979,21 @@
     "UCt7qqCkTFFRfKjXzwqUXq4g"
    ],
    "price": {
-    "date": "2026-11-13",
-    "close": 4353.0,
-    "change_pct": 1.68,
-    "live": 4326.0,
-    "live_change_pct": -0.62,
-    "live_time": 1794807231,
-    "volume": 13407100,
-    "volume_ratio": 0.72,
-    "rsi14": 68.0,
+    "date": "2026-11-16",
+    "close": 4320.0,
+    "change_pct": -0.76,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 15961500,
+    "volume_ratio": 0.85,
+    "rsi14": 65.5,
     "rsi_zone": "中立",
-    "ma25": 4034.48,
-    "ma75": 3843.88,
+    "ma25": 4059.04,
+    "ma75": 3856.03,
     "trend": "上昇基調",
-    "pos52": 84,
+    "pos52": 82,
     "spark": [
-     3788.0,
      3725.0,
      3719.0,
      3754.0,
@@ -4033,14 +4032,15 @@
      4237.0,
      4200.0,
      4281.0,
-     4353.0
+     4353.0,
+     4320.0
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
-    "market_open": true,
+    "market_open": false,
     "symbol": "6758.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-16T05:47:48.770425+00:00"
+    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
    }
   },
   {
@@ -4083,13 +4083,13 @@
     "UCt7qqCkTFFRfKjXzwqUXq4g"
    ],
    "price": {
-    "date": "2026-11-13",
-    "close": 871.0,
-    "change_pct": -14.61,
-    "live": 871.0,
-    "live_change_pct": 0.0,
-    "live_time": 1794804742,
-    "volume": 5231300,
+    "date": "2026-11-16",
+    "close": 885.0,
+    "change_pct": 1.61,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 2796900,
     "volume_ratio": null,
     "rsi14": null,
     "rsi_zone": "",
@@ -4101,14 +4101,15 @@
      870.0,
      870.0,
      1020.0,
-     871.0
+     871.0,
+     885.0
     ],
     "currency": "JPY",
     "exchange_name": "Tokyo",
-    "market_open": true,
+    "market_open": false,
     "symbol": "660A.T",
     "source": "yahoo-search",
-    "fetched_at": "2026-11-16T05:06:38.230426+00:00"
+    "fetched_at": "2026-11-16T23:11:21.125224+00:00"
    }
   }
  ]
