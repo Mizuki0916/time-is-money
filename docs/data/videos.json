@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T23:05:17.537985+09:00",
+ "generated_at": "2026-11-16T09:03:46.016323+09:00",
  "videos": [
   {
    "video_id": "noYhvh7EyW8",
@@ -8,13 +8,56 @@
    "channel_name": "Sho's投資情報局",
    "channel_short": "Sho",
    "slot": 3,
-   "published": "2026-11-15T12:26:25+00:00",
-   "overview": "",
-   "market_view": "",
-   "market": "",
-   "no_transcript": true,
-   "skip_reason": "この動画には字幕がありません",
-   "picks": []
+   "published": "2026-11-15T14:14:00+00:00",
+   "overview": "米ハイテク株安や暗号資産急落の影響を受けた相場環境において、半導体株と出遅れバリュー株の明暗についての解説がなされています。信用買い残が大量に積み上がるキオクシアなどは年末にかけて厳しい展開が予想される一方、JR東海やセブン銀行、ベイカレントといった需給が良好で移動平均線のゴールデンクロスを形成するバリュー株への資金シフトが継続すると分析されています。",
+   "market_view": "半導体株などの需給悪化銘柄は下落圧力が強いものの、受給が良くチャート形状の優れた出遅れバリュー株主導のローテーション相場が年末にかけて進むと見ています。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "キオクシアホールディングス",
+     "ticker": "285A",
+     "stance": "bearish",
+     "timestamp": "04:29"
+    },
+    {
+     "name": "任天堂",
+     "ticker": "7974",
+     "stance": "bullish",
+     "timestamp": "06:56"
+    },
+    {
+     "name": "JR東海",
+     "ticker": "9022",
+     "stance": "bullish",
+     "timestamp": "18:25"
+    },
+    {
+     "name": "アドバンテスト",
+     "ticker": "6857",
+     "stance": "neutral",
+     "timestamp": "27:03"
+    },
+    {
+     "name": "五洋建設",
+     "ticker": "1893",
+     "stance": "bullish",
+     "timestamp": "40:08"
+    },
+    {
+     "name": "ベイカレント",
+     "ticker": "6532",
+     "stance": "bullish",
+     "timestamp": "56:56"
+    },
+    {
+     "name": "セブン銀行",
+     "ticker": "8410",
+     "stance": "bullish",
+     "timestamp": "01:01:37"
+    }
+   ]
   },
   {
    "video_id": "2mZtf74kuyU",

@@ -3,19 +3,138 @@
   {
    "video_id": "noYhvh7EyW8",
    "title": "11/15【日本株ヤバい‼半導体株暴落捕まったか‼】キオクシア急落。日経平均バリュー株シフト。ドル円160円。エヌビディア急落で米国株、ナスダック、ハイテク株大荒れ。仮想通貨BTC",
-   "published": "2026-11-15T12:26:25+00:00",
+   "published": "2026-11-15T14:14:00+00:00",
    "description": "「10か月20％オフ」のメンバークーポンの有効期限11/22まで。\nMEDIABLEのVIP、プラチナが対象です。\n\n ※クーポンコード：birthday38\n\n◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーー",
    "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
    "channel_name": "Sho's投資情報局",
    "channel_short": "Sho",
    "slot": 3,
-   "no_transcript": true,
-   "skip_reason": "この動画には字幕がありません",
-   "attempts": 2,
-   "overview": "",
-   "market_view": "",
-   "market": "",
-   "picks": []
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "米ハイテク株安や暗号資産急落の影響を受けた相場環境において、半導体株と出遅れバリュー株の明暗についての解説がなされています。信用買い残が大量に積み上がるキオクシアなどは年末にかけて厳しい展開が予想される一方、JR東海やセブン銀行、ベイカレントといった需給が良好で移動平均線のゴールデンクロスを形成するバリュー株への資金シフトが継続すると分析されています。",
+   "market_view": "半導体株などの需給悪化銘柄は下落圧力が強いものの、受給が良くチャート形状の優れた出遅れバリュー株主導のローテーション相場が年末にかけて進むと見ています。",
+   "market": "JP",
+   "picks": [
+    {
+     "name": "キオクシアホールディングス",
+     "name_en": "Kioxia Holdings Corporation",
+     "ticker": "285A",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "信用買い残過多で需給悪化し年内難調",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "制度信用買い残が約3000万株と極めて多く、高値で捕まっている個人投資家による戻り売り圧力が非常に強い。",
+      "移動平均線の断続的なデッドクロス形成が予想され、年末にかけて下落圧力が継続し回復は困難と分析。"
+     ],
+     "timestamp": "04:29",
+     "confidence": "high"
+    },
+    {
+     "name": "任天堂",
+     "name_en": "Nintendo Co., Ltd.",
+     "ticker": "7974",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "ゼルダ新作好調でハード売上倍増",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "「ゼルダの伝説」新作のヒットにより、懸念されていたハードウェアの売上ペースが倍増するなど好調推移。",
+      "ソフト主導による業績底上げ効果で、市場のネガティブな反応を払拭する好材料が出現している。"
+     ],
+     "timestamp": "06:56",
+     "confidence": "medium"
+    },
+    {
+     "name": "JR東海",
+     "name_en": "Central Japan Railway Company",
+     "ticker": "9022",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "インバウンド需要と好需給・好チャート",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "インバウンド観光客の急増により人出が大幅に増加しており、業績面へのポジティブな影響が期待できる。",
+      "信用倍率が実質0.88倍と空売り優勢の好需給であり、200日線とのゴールデンクロス形成で上昇が期待される。"
+     ],
+     "timestamp": "18:25",
+     "confidence": "high"
+    },
+    {
+     "name": "アドバンテスト",
+     "name_en": "Advantest Corporation",
+     "ticker": "6857",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "半導体銘柄内で相対的に需給良好",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "半導体セクター内で明暗が分かれる中、他社と比較して需給が崩れておらず下値を大きく掘っていない。",
+      "年末にかけて一方的な下落ではなくジグザグとしたレンジ推移となる可能性が示唆されている。"
+     ],
+     "timestamp": "27:03",
+     "confidence": "medium"
+    },
+    {
+     "name": "五洋建設",
+     "name_en": "Penta-Ocean Construction Co., Ltd.",
+     "ticker": "1893",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "移動平均線の連続GCで200日線目指す",
+     "target_price": "1600",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "5日移動平均線と50日・75日線のゴールデンクロス形成に伴い、200日線(1600〜1620円)付近を目指す展開。",
+      "バンドウォークを伴う上昇傾向が見られ、短期的な戻り高値を試すチャート形状が整いつつある。"
+     ],
+     "timestamp": "40:08",
+     "confidence": "medium"
+    },
+    {
+     "name": "ベイカレント",
+     "name_en": "BayCurrent Consulting, Inc.",
+     "ticker": "6532",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "長期GCと好需給で年末高へ向け上昇",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "200日移動平均線と長期線のゴールデンクロスを達成しており、年末高に向けた上昇トレンドが継続中。",
+      "信用倍率0.79倍と空売りが買い残を上回る良好な需給環境であり、さらなる上値追いに期待が持てる。"
+     ],
+     "timestamp": "56:56",
+     "confidence": "medium"
+    },
+    {
+     "name": "セブン銀行",
+     "name_en": "Seven Bank, Ltd.",
+     "ticker": "8410",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "一般空売り急増で好需給とチャート好形",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "一般信用を中心に500万株以上の空売りが残っており、合算倍率0.33倍という極めて良好な需給状態。",
+      "200日線との断続的なゴールデンクロスを形成しており、好需給を背景とした踏み上げ上昇が狙える。"
+     ],
+     "timestamp": "01:01:37",
+     "confidence": "medium"
+    }
+   ]
   },
   {
    "video_id": "rrd8dcRaomc",
