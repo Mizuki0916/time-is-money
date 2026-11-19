@@ -1,6 +1,64 @@
 {
- "generated_at": "2026-11-19T08:40:35.095656+09:00",
+ "generated_at": "2026-11-19T09:17:36.844405+09:00",
  "videos": [
+  {
+   "video_id": "3sLT9VyGSC4",
+   "title": "【日経平均】NVIDIA決算通過 重要シグナル点灯 下落に備えろ  サンディスク・キオクシア・アドバンテスト・イビデン・古河電気・フジクラ",
+   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+   "channel_name": "Trader's Lab",
+   "channel_short": "TL",
+   "slot": 1,
+   "published": "2026-11-18T11:39:11+00:00",
+   "overview": "NVIDIA決算通過後の相場環境について、日経平均や米主要指数のチャート分析をもとに下落リスクを解説した動画です。指数・個別株ともに主要安値の割り込みやバンドウォークが発生しており、全体として調整色が強まっています。NVIDIAやキオクシア、フジクラなどの注目銘柄についても下値リスクや戻りの弱さを指摘し、中長期エントリーを控えてリスク管理を徹底するスタンスを提示しています。",
+   "market_view": "日経平均や米主要3指数はテクニカル的に調整・下落トレンドに入っており、売り圧力が強い神経質な相場環境が続いています。",
+   "market": "MIX",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "NVIDIA",
+     "ticker": "NVDA",
+     "stance": "bearish",
+     "timestamp": "31:07"
+    },
+    {
+     "name": "サンディスク",
+     "ticker": "SNDK",
+     "stance": "bearish",
+     "timestamp": "33:31"
+    },
+    {
+     "name": "キオクシア",
+     "ticker": "285A",
+     "stance": "bearish",
+     "timestamp": "35:55"
+    },
+    {
+     "name": "アドバンテスト",
+     "ticker": "6857",
+     "stance": "neutral",
+     "timestamp": "39:20"
+    },
+    {
+     "name": "イビデン",
+     "ticker": "4062",
+     "stance": "bearish",
+     "timestamp": "41:58"
+    },
+    {
+     "name": "古河電気工業",
+     "ticker": "5801",
+     "stance": "bearish",
+     "timestamp": "43:32"
+    },
+    {
+     "name": "フジクラ",
+     "ticker": "5803",
+     "stance": "bearish",
+     "timestamp": "44:18"
+    }
+   ]
+  },
   {
    "video_id": "nkoSz2Dssoo",
    "title": "11/16【日経平均1480円急落。半導体株投げ売り連鎖ヤバい‼】日本株二極化加速。キオクシア暴落でバリュー株シフト。ドル円159円、米国株、ナスダック、ハイテク株も大荒れか⁉仮想通貨BTC急落",
@@ -334,70 +392,6 @@
      "ticker": "285A",
      "stance": "neutral",
      "timestamp": "11:33"
-    }
-   ]
-  },
-  {
-   "video_id": "seDVO4lotAM",
-   "title": "【日経平均】 来週はNVIDIA決算 〇〇に警戒  サンディスク・キオクシア・古河電気・太陽誘電・三井金属・オンコリスバイオ",
-   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-   "channel_name": "Trader's Lab",
-   "channel_short": "TL",
-   "slot": 1,
-   "published": "2026-11-13T11:14:37+00:00",
-   "overview": "来週のNVIDIA決算を控えた日経平均や米主要指数の環境認識と、主要個別銘柄の分析が解説されています。指数全体は直近の大幅下落に対する自律反発の域を出ておらず、戻り売り圧力への警戒が必要です。キオクシアや古河電気などAI半導体・データセンター関連株が下落トレンドにある一方、新高値を更新したオンコリスバイオなど業績良好な銘柄の選別が重要視されています。",
-   "market_view": "日経平均および米株指数は直近下落に対する自律反発の範囲にとどまっており、本格的な上昇転換に至っていないため戻り売りリスクに警戒が必要です。",
-   "market": "MIX",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "NVIDIA",
-     "ticker": "NVDA",
-     "stance": "neutral",
-     "timestamp": "25:25"
-    },
-    {
-     "name": "サンディスク",
-     "ticker": "WDC",
-     "stance": "bearish",
-     "timestamp": "27:48"
-    },
-    {
-     "name": "キオクシア",
-     "ticker": "285A",
-     "stance": "bearish",
-     "timestamp": "28:53"
-    },
-    {
-     "name": "ソフトバンク",
-     "ticker": "9984",
-     "stance": "bearish",
-     "timestamp": "31:38"
-    },
-    {
-     "name": "太陽誘電",
-     "ticker": "6976",
-     "stance": "bearish",
-     "timestamp": "33:57"
-    },
-    {
-     "name": "古河電気工業",
-     "ticker": "5801",
-     "stance": "bearish",
-     "timestamp": "35:19"
-    },
-    {
-     "name": "三井金属鉱業",
-     "ticker": "5706",
-     "stance": "bearish",
-     "timestamp": "37:20"
-    },
-    {
-     "name": "オンコリスバイオファーマ",
-     "ticker": "4588",
-     "stance": "bullish",
-     "timestamp": "39:39"
     }
    ]
   },

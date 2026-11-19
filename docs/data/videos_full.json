@@ -236,6 +236,142 @@
    ]
   },
   {
+   "video_id": "3sLT9VyGSC4",
+   "title": "【日経平均】NVIDIA決算通過 重要シグナル点灯 下落に備えろ  サンディスク・キオクシア・アドバンテスト・イビデン・古河電気・フジクラ",
+   "published": "2026-11-18T11:39:11+00:00",
+   "description": "※動画の趣旨は個人的主観の予測であり、値動きを保証するものではありません。\n　投資の判断は自己責任でお願いします。\n\n◉セミナーお申し込み\nhttps://www.sunward-t.co.jp/seminar/2026/12/19_2/index_k.html\n\n◉トレンド分析の基礎おすすめ動画\n【永久保存版】初心者でもわかるダウ理論の使い方【前編】\nhttps://youtu.be/re9XBR2qcBw\n【永久保存版】初心者でもわかるダウ理論の使い方【後編】\nhttps://youtu.be/Z21W4VFSs9g\n【知らなきゃ勝てない】移動平均線で相場を読む最強の方法\nhttps://youtu.be/FfSX8hcRR2I\n【一目均衡表の真髄】初心者でも分かる完全ガイド\nhttps://youtu.be/xPkb1twTFFI\n\n◉SBI証券株式会社キャンペーン　手数料無料、取引",
+   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+   "channel_name": "Trader's Lab",
+   "channel_short": "TL",
+   "slot": 1,
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "NVIDIA決算通過後の相場環境について、日経平均や米主要指数のチャート分析をもとに下落リスクを解説した動画です。指数・個別株ともに主要安値の割り込みやバンドウォークが発生しており、全体として調整色が強まっています。NVIDIAやキオクシア、フジクラなどの注目銘柄についても下値リスクや戻りの弱さを指摘し、中長期エントリーを控えてリスク管理を徹底するスタンスを提示しています。",
+   "market_view": "日経平均や米主要3指数はテクニカル的に調整・下落トレンドに入っており、売り圧力が強い神経質な相場環境が続いています。",
+   "market": "MIX",
+   "picks": [
+    {
+     "name": "NVIDIA",
+     "name_en": "NVIDIA Corporation",
+     "ticker": "NVDA",
+     "market": "US",
+     "stance": "bearish",
+     "stance_note": "決算後の戻りは小幅で下落リスク継続",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "良好な決算通過後も戻りは限定的であり最高値から30%近く下落している点。",
+      "CEO辞任を巡る不透明感が残る中148.8ドルの安値を割ると下落トレンドが続く点。"
+     ],
+     "timestamp": "31:07",
+     "confidence": "high"
+    },
+    {
+     "name": "サンディスク",
+     "name_en": "SanDisk",
+     "ticker": "SNDK",
+     "market": "US",
+     "stance": "bearish",
+     "stance_note": "下落N波動形成で急落後の調整が継続",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "週足で綺麗な下落N波動を形成しており過去の過剰な上昇に対する調整が続く点。",
+      "直近で5日安値を更新しておりテクニカル的にもバンドウォークで売り圧力が強い点。"
+     ],
+     "timestamp": "33:31",
+     "confidence": "medium"
+    },
+    {
+     "name": "キオクシア",
+     "name_en": "Kioxia Holdings Corporation",
+     "ticker": "285A",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "安値更新が続き高値掴み玉の重さが残る",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "本日も安値を更新して高値安値切り下げの下落チャートパターンが確定した点。",
+      "過去半年間の高値掴みホルダーによる損切りや投げ売りの解消が終わっていない点。"
+     ],
+     "timestamp": "35:55",
+     "confidence": "medium"
+    },
+    {
+     "name": "アドバンテスト",
+     "name_en": "Advantest Corporation",
+     "ticker": "6857",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "指数より堅調も短期的な上値重い",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "他銘柄より相対的に堅調で長期上昇を保つものの25日線下回りで上値が重い点。",
+      "6日安値を割り込むと3月安値である2万円付近まで大幅調整するリスクがある点。"
+     ],
+     "timestamp": "39:20",
+     "confidence": "medium"
+    },
+    {
+     "name": "イビデン",
+     "name_en": "Ibiden Co., Ltd.",
+     "ticker": "4062",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "主要安値を下抜けし下落トレンド鮮明",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "7月や6日の主要安値を割り込んでおりバンドウォークを伴う強い下落トレンドな点。",
+      "決算通過後も買いが続かず全戻しとなり3000円台後半まで主要な出来高が薄い点。"
+     ],
+     "timestamp": "41:58",
+     "confidence": "medium"
+    },
+    {
+     "name": "古河電気工業",
+     "name_en": "Furukawa Electric Co., Ltd.",
+     "ticker": "5801",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "バンドウォーク進行で一段安を警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "バンドウォークが進行する厳しいチャート形状で米国比重の高さも懸念される点。",
+      "6日安値を割り込むと窓埋めからの上昇とならずに適正水準まで一段安となる点。"
+     ],
+     "timestamp": "43:32",
+     "confidence": "low"
+    },
+    {
+     "name": "フジクラ",
+     "name_en": "Fujikura Ltd.",
+     "ticker": "5803",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "トレンドライン割れで下落波動に突入",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "2024年以降の主要な下値支持線を割り込み高値安値を切り下げる下落波動な点。",
+      "2622円の重要ラインを割り込むと下方の出来高が薄い空間に入り一段安となる点。"
+     ],
+     "timestamp": "44:18",
+     "confidence": "medium"
+    }
+   ]
+  },
+  {
    "video_id": "jHQeTKKDoXU",
    "title": "【日経平均】  AI半導体株急落！戻り売り警戒 一方で内需株は強い！  NDIVIA・サンディスク・キオクシア・アドバンテスト・イビデン・古河電気・フジクラ・吉野家・ゼンショー",
    "published": "2026-11-16T11:35:28+00:00",
@@ -402,159 +538,6 @@
      ],
      "timestamp": "35:18",
      "confidence": "medium"
-    }
-   ]
-  },
-  {
-   "video_id": "seDVO4lotAM",
-   "title": "【日経平均】 来週はNVIDIA決算 〇〇に警戒  サンディスク・キオクシア・古河電気・太陽誘電・三井金属・オンコリスバイオ",
-   "published": "2026-11-13T11:14:37+00:00",
-   "description": "※動画の趣旨は個人的主観の予測であり、値動きを保証するものではありません。\n　投資の判断は自己責任でお願いします。\n\nトレンド分析マスターコース\n「無料オンライン講座(全5回)」＆豪華特典プレゼント！\n【完全無料】→ https://www.fpo.jp/suzuki/\n\n◉トレンド分析の基礎おすすめ動画\n【永久保存版】初心者でもわかるダウ理論の使い方【前編】\nhttps://youtu.be/re9XBR2qcBw\n【永久保存版】初心者でもわかるダウ理論の使い方【後編】\nhttps://youtu.be/Z21W4VFSs9g\n【知らなきゃ勝てない】移動平均線で相場を読む最強の方法\nhttps://youtu.be/FfSX8hcRR2I\n【一目均衡表の真髄】初心者でも分かる完全ガイド\nhttps://youtu.be/xPkb1twTFFI\n\n◉SBI証券株式会社キャンペーン　手数料無",
-   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-   "channel_name": "Trader's Lab",
-   "channel_short": "TL",
-   "slot": 1,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "来週のNVIDIA決算を控えた日経平均や米主要指数の環境認識と、主要個別銘柄の分析が解説されています。指数全体は直近の大幅下落に対する自律反発の域を出ておらず、戻り売り圧力への警戒が必要です。キオクシアや古河電気などAI半導体・データセンター関連株が下落トレンドにある一方、新高値を更新したオンコリスバイオなど業績良好な銘柄の選別が重要視されています。",
-   "market_view": "日経平均および米株指数は直近下落に対する自律反発の範囲にとどまっており、本格的な上昇転換に至っていないため戻り売りリスクに警戒が必要です。",
-   "market": "MIX",
-   "picks": [
-    {
-     "name": "NVIDIA",
-     "name_en": "NVIDIA Corporation",
-     "ticker": "NVDA",
-     "market": "US",
-     "stance": "neutral",
-     "stance_note": "急落後の自律反発も上値警戒",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "ファンシーCEO解任のニュースで10%以上急落し148ドル付近まで下落も、過去の高値ブレイクラインに到達したことで一旦下げ止まった。",
-      "現状は下げすぎの反動による自律反発の域を出ておらず、直近安値を下更新した場合は週足レベルでの下落トレンド入りが警戒される。"
-     ],
-     "timestamp": "25:25",
-     "confidence": "medium"
-    },
-    {
-     "name": "サンディスク",
-     "name_en": "Western Digital Corporation",
-     "ticker": "WDC",
-     "market": "US",
-     "stance": "bearish",
-     "stance_note": "下落トレンド継続で上値が重い",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "キオクシアと同様に下落トレンドが継続しており、7月末安値を下割れたことで巨大な下落N波動の形成が懸念される。",
-      "ボリンジャーバンドのマイナスバンドウォークが続いており、上値が重く戻り売り圧力が強いチャート形状となっている。"
-     ],
-     "timestamp": "27:48",
-     "confidence": "medium"
-    },
-    {
-     "name": "キオクシア",
-     "name_en": "Kioxia Holdings Corporation",
-     "ticker": "285A",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "テクニカル最悪で下落基調続く",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "日経平均の上昇に対して戻りが鈍く、一目均衡表の雲下抜けやマイナスバンドウォーク継続などテクニカル形状が悪化している。",
-      "節目の1万円付近で押し戻されており、デイトレ向けのボラティリティにとどまるため中長期での下げ止まり確認は困難である。"
-     ],
-     "timestamp": "28:53",
-     "confidence": "high"
-    },
-    {
-     "name": "ソフトバンク",
-     "name_en": "SoftBank Group Corp.",
-     "ticker": "9984",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "直近決算赤字で週足下落転換",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "直近決算の大赤字が響き、3月安値3350円を下回ったことで週足での上昇トレンド終了と下落トレンド転換が示唆されている。",
-      "日足でバンドウォークが発生して急落しており、指数を引っ張ってきた主要銘柄の中で特に売られやすい状況が続いている。"
-     ],
-     "timestamp": "31:38",
-     "confidence": "medium"
-    },
-    {
-     "name": "太陽誘電",
-     "name_en": "Taiyo Yuden Co., Ltd.",
-     "ticker": "6976",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "高値切り下げの下落トレンド継続",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "高値からの下落N波動が続いており、直近数日間の戻りも強い陰線で押し戻されるなど下落基調を脱していない。",
-      "相場全体の自律反発に伴う一時的な戻りに過ぎず、11月につけた直近安値を再び下割れする可能性が高いため警戒が必要である。"
-     ],
-     "timestamp": "33:57",
-     "confidence": "medium"
-    },
-    {
-     "name": "古河電気工業",
-     "name_en": "Furukawa Electric Co., Ltd.",
-     "ticker": "5801",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "バブル終焉でブレイク前水準懸念",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "史上最高値からの下落トレンドが継続しており、7月安値を割り込んだことで上昇波動が完全に否定された。",
-      "売買高が減少して真空地帯に入っており、AI半導体関連の失速に伴いブレイク前の1000円台まで下落する懸念がある。"
-     ],
-     "timestamp": "35:19",
-     "confidence": "medium"
-    },
-    {
-     "name": "三井金属鉱業",
-     "name_en": "Mitsui Mining & Smelting Co., Ltd.",
-     "ticker": "5706",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "最高値後の下落トレンド継続",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "最高値をつけて以降は下落トレンドを形成しており、古河電気工業と同様に高値・安値を切り下げる展開が続いている。",
-      "チャート上の明確な下げ止まりサインが確認できないため、現状のフェーズでは中長期の買いエントリーはリスクが高い。"
-     ],
-     "timestamp": "37:20",
-     "confidence": "medium"
-    },
-    {
-     "name": "オンコリスバイオファーマ",
-     "name_en": "Oncolys BioPharma Inc.",
-     "ticker": "4588",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "年初来高値更新で強い上昇傾向",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "全体相場が乱高下する中で新高値を更新し、高値と安値を切り上げる明確な上昇トレンドを描いている。",
-      "日足・週足・月足の全てでプラスバンドウォークを形成しており、好決算を背景に次の決算期まで強い上昇維持が期待される。"
-     ],
-     "timestamp": "39:39",
-     "confidence": "high"
     }
    ]
   },
