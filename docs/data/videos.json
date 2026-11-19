@@ -1,6 +1,116 @@
 {
- "generated_at": "2026-11-20T08:05:06.268823+09:00",
+ "generated_at": "2026-11-20T08:12:14.093319+09:00",
  "videos": [
+  {
+   "video_id": "4jwI_VB9vNg",
+   "title": "11/19【日本株ここが大底か⁉半導体株大暴落ついに終了⁉】キオクシア急落助かる⁉アンソロピック期待で日経平均続伸。ドル円159円、米国株、ナスダック、ハイテク株どうなる、仮想通貨BTC急落",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-11-19T14:36:30+00:00",
+   "overview": "本動画では、年末に向けた日本株の二極化相場と個別銘柄の需給・チャート構造をプロ視点で詳細に解説しています。出遅れバリュー株やゲーム関連(任天堂など)の上昇トレンドが継続する一方、キオクシアや日本郵船などの戻り売り圧力や悪材料、下落バンドウォーク銘柄には強い注意を喚起しています。さらに下方修正と減配を発表したJTについて、NISA投資家の狼狽売りによる急落リスクを指摘しています。",
+   "market_view": "出遅れバリュー株や需給の軽い銘柄へ資金が集中する二極化相場が年末に向けて継続すると予想。半導体株はイベント要因で一時的に戻す局面があっても上値は重く警戒が必要です。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "キオクシアホールディングス",
+     "ticker": "285A",
+     "stance": "bearish",
+     "timestamp": "02:58"
+    },
+    {
+     "name": "任天堂",
+     "ticker": "7974",
+     "stance": "bullish",
+     "timestamp": "35:25"
+    },
+    {
+     "name": "東洋エンジニアリング",
+     "ticker": "6315",
+     "stance": "bearish",
+     "timestamp": "10:05"
+    },
+    {
+     "name": "日本郵船",
+     "ticker": "9101",
+     "stance": "bearish",
+     "timestamp": "11:19"
+    },
+    {
+     "name": "良品計画",
+     "ticker": "7453",
+     "stance": "neutral",
+     "timestamp": "15:08"
+    },
+    {
+     "name": "セブン&アイ・ホールディングス",
+     "ticker": "3382",
+     "stance": "neutral",
+     "timestamp": "18:42"
+    },
+    {
+     "name": "ヤマハ発動機",
+     "ticker": "7272",
+     "stance": "bullish",
+     "timestamp": "24:34"
+    },
+    {
+     "name": "中外製薬",
+     "ticker": "4519",
+     "stance": "bearish",
+     "timestamp": "28:05"
+    },
+    {
+     "name": "北海道電力",
+     "ticker": "9509",
+     "stance": "neutral",
+     "timestamp": "30:04"
+    },
+    {
+     "name": "カプコン",
+     "ticker": "9697",
+     "stance": "bullish",
+     "timestamp": "34:55"
+    },
+    {
+     "name": "住友金属鉱山",
+     "ticker": "5713",
+     "stance": "bearish",
+     "timestamp": "47:00"
+    },
+    {
+     "name": "日本タバコ産業",
+     "ticker": "2914",
+     "stance": "bearish",
+     "timestamp": "1:12:39"
+    }
+   ]
+  },
+  {
+   "video_id": "VjkI_85mRDo",
+   "title": "JT（日本たばこ産業）配当を68円大幅減配！年間配当は204円へ　#shorts",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-11-19T09:29:40+00:00",
+   "overview": "JTがロシア子会社の連結除外に伴い業績の下方修正と年間204円への68円減配を発表しました。減配を受けて株価はPTSで大きく下落しており、配当利回り約4%水準となる5000円付近までの下落を覚悟する必要があります。今後は下値支持線として機能すると期待される5200円や5000円のラインを意識しながら、ポジションを探る展開が提示されています。",
+   "market_view": "",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "JT",
+     "ticker": "2914",
+     "stance": "neutral",
+     "timestamp": "00:00"
+    }
+   ]
+  },
   {
    "video_id": "JnImY9NRJuE",
    "title": "11/18【日本株追証多発ヤバい‼半導体株騙し上げか⁉】キオクシア急落助からない⁉日経平均軟調。ドル円159円、エヌビディア決算で米国株、ナスダック、ハイテク株どうなる、仮想通貨BTC急落",
@@ -124,52 +234,6 @@
    ]
   },
   {
-   "video_id": "OlPd0kLq5D0",
-   "title": "11/18【日本株追証多発ヤバい‼半導体株騙し上げか⁉】キオクシア急落助からない⁉日経平均軟調。ドル円159円、エヌビディア決算で米国株、ナスダック、ハイテク株どうなる、仮想通貨BTC急落",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-11-18T09:15:01+00:00",
-   "overview": "日経平均株価は半導体株の寄り天井や信用買い残高の高止まり、空売り残高の枯渇による受給悪化から上値の重い展開が続いています。エヌビディアの好決算にもかかわらずキオクシアなどの半導体関連株は寄り付き後に急落し、騙し上げの様相を呈しています。市場全体としては受給が軽く長期移動平均線がゴールデンクロスを描く任天堂などの銘柄と、受給が悪くデッドクロスを描く銘柄への二極化が年末に向けて進行すると分析しています。",
-   "market_view": "信用買い残が高止まりし空売り残が枯渇しているためショートカバーが入りにくく、年末にかけて受給の良し悪しによる極端な二極化相場が続くと見込んでいます。",
-   "market": "MIX",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "日経平均株価",
-     "ticker": "1321",
-     "stance": "neutral",
-     "timestamp": "01:22"
-    },
-    {
-     "name": "キオクシア",
-     "ticker": "285A",
-     "stance": "bearish",
-     "timestamp": "01:38"
-    },
-    {
-     "name": "エヌビディア",
-     "ticker": "NVDA",
-     "stance": "neutral",
-     "timestamp": "01:38"
-    },
-    {
-     "name": "任天堂",
-     "ticker": "7974",
-     "stance": "bullish",
-     "timestamp": "36:12"
-    },
-    {
-     "name": "フジクラ",
-     "ticker": "5803",
-     "stance": "bearish",
-     "timestamp": "38:05"
-    }
-   ]
-  },
-  {
    "video_id": "ann3ComM01w",
    "title": "NVIDIA決算発表！今日の活況銘柄を見てみる！（キオクシア・イビデン・アドバンテスト・ソフトバンクグループ・村田製作所など）株式テクニカルチャート分析",
    "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
@@ -224,40 +288,6 @@
      "ticker": "6976",
      "stance": "bearish",
      "timestamp": "11:06"
-    }
-   ]
-  },
-  {
-   "video_id": "1ZmGGaqCAtE",
-   "title": "NVIDIA決算直前の警戒。アンソロピックIPO換金売りもきつい。株式テクニカルチャート分析",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-11-17T07:21:55+00:00",
-   "overview": "NVIDIAの決算発表やアンソロピックIPOに伴う換金売り警戒から、日経平均をはじめ市場全体が大幅下落する厳しい地合いとなっています。米国の対中AI半導体規制の強化も懸念される中、フェローテックは好決算を発表したものの地合い悪化で反発は限定的でした。市場全体がNVIDIAの決算待ちとなっており、短期的には慎重な姿勢が求められる状況です。",
-   "market_view": "日経平均やTOPIX、グロース市場ともに大幅下落する全面安の厳しい展開で、NVIDIA決算や換金売りなどの警戒感から商いも薄く難しい相場状況です。",
-   "market": "MIX",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "NVIDIA",
-     "ticker": "NVDA",
-     "stance": "neutral",
-     "timestamp": "00:03"
-    },
-    {
-     "name": "フェローテックホールディングス",
-     "ticker": "6890",
-     "stance": "neutral",
-     "timestamp": "03:14"
-    },
-    {
-     "name": "キオクシアホールディングス",
-     "ticker": "285A",
-     "stance": "neutral",
-     "timestamp": "06:55"
     }
    ]
   },
