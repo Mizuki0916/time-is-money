@@ -562,9 +562,9 @@
    ]
   },
   {
-   "video_id": "jcVR6vGajWA",
-   "title": "日経平均終値1480円安！今日のデイトレード振り返り！（バンナム・フォードアンドライフ・ソフトバンクグループ・ティアフォー・アシックスなど）",
-   "published": "2026-11-16T07:22:22+00:00",
+   "video_id": "ann3ComM01w",
+   "title": "NVIDIA決算発表！今日の活況銘柄を見てみる！（キオクシア・イビデン・アドバンテスト・ソフトバンクグループ・村田製作所など）株式テクニカルチャート分析",
+   "published": "2026-11-18T07:37:01+00:00",
    "description": "🔽日本株オンラインサロンやってます！波乱の相場を乗り切ろう🌊\nエンジョイプランはいつでも初月無料で参加できます★\n→　https://yoor.jp/door/tradertomo\n\n※ 参加プラン別のサービス内容はこちらの動画で解説しています。\n→https://youtu.be/AGZetFvA-Xk?si=Qy_ctky7kW1QSOHX\n\n株好きが集まる楽しいサロンを目指してます♪\n初心者歓迎です～ご参加お待ちしています！\n\n🔽サブチャンネルもやってます＾＾\nhttps://www.youtube.com/@TOMO-subtrader\n\n---------------------------------------------\n🔽公式LINEやってます！ともだち登録お願いします☆\n---------------------------------------------\n\n「うね",
    "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
    "channel_name": "トレーダーTOMO",
@@ -572,273 +572,42 @@
    "slot": 2,
    "no_transcript": false,
    "skip_reason": "",
-   "overview": "日経平均が大幅下落となる厳しい相場環境のなか、AI・半導体関連以外の好足型銘柄に焦点を当てたデイトレードの実践結果を振り返る動画です。フェローテックの決算・修正発表の解説に加え、アシックスやフード&ライフ、バンダイナムコなどの非AI銘柄を中心に、エントリー位置や売買根拠、損切り判断が具体的に解説されています。",
-   "market_view": "AI関連銘柄からの資金抜けで相場全体が圧迫される一方、非AIの好業績株や内需セクターに資金が逃避する展開となっています。",
+   "overview": "NVIDIAの決算発表後、AI半導体関連株への警戒感や政治的不透明感から日本市場の反発は限定的となりました。動画では日経平均の全体地合いを解説した上で、市場で注目度の高いキオクシア、藤倉、アドバンテスト、イビデン、ソフトバンクグループ、村田製作所、太陽誘電のチャート形状や信用需給に基づくテクニカル分析を行っています。",
+   "market_view": "AI半導体関連銘柄への警戒感や米中ロの政治的不透明感など悪材料が多く、強気で買いに向かうのは難しい地合いです。日経平均は米国株の動向次第で下落トレンドを転換できるかが焦点となります。",
    "market": "JP",
    "picks": [
     {
-     "name": "フェローテックホールディングス",
-     "name_en": "Ferrotec Holdings",
-     "ticker": "6890",
+     "name": "キオクシアホールディングス",
+     "name_en": "Kioxia Holdings Corporation",
+     "ticker": "285A",
      "market": "JP",
      "stance": "neutral",
-     "stance_note": "業績・増配は堅調だが設備投資リスクに注視",
+     "stance_note": "信用買い残が多くスイングは見送り",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "今期特別利益による上方修正に加え、年間配当を200円から300円へ大増配したこと。",
-      "中期経営計画の利益率目標を引き上げたが、一方で巨額の設備投資計画増によるリスク面も考慮が必要。"
+      "8000円ラインを取り戻したものの、個人の信用買い残が約5226万株と多く馬中の値動きが重い。",
+      "5連続陰線で1万円付近まで戻りが重く、デイトレーダーが減少しているためスイングは見送り判断。"
      ],
-     "timestamp": "04:22",
+     "timestamp": "04:57",
      "confidence": "high"
     },
     {
-     "name": "アシックス",
-     "name_en": "ASICS",
-     "ticker": "7936",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "売られすぎからのリバウンド狙い成功",
-     "target_price": "4400円",
-     "entry": "4227円",
-     "stop": "",
-     "reasons": [
-      "前日ストップ安水準からの過度な売られすぎを判断し、ストップ安ライン回復で買いエントリー。",
-      "意識される抵抗線4400円で一部利確し、残りは大口の買いとトレンド崩れを確認して全決済。"
-     ],
-     "timestamp": "07:52",
-     "confidence": "high"
-    },
-    {
-     "name": "FOOD & LIFE COMPANIES",
-     "name_en": "FOOD & LIFE COMPANIES",
-     "ticker": "3563",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "非AI銘柄への資金移動を見越してホールド",
-     "target_price": "",
-     "entry": "6110円",
-     "stop": "",
-     "reasons": [
-      "寄り付き後の下値試しから下へ行かない堅調さを確認し、ショートカバー巻き込みを期待しエントリー。",
-      "半導体株の弱さから非AI外食セクターへの資金流入が続くと見込み、引けまでトレンドを維持。"
-     ],
-     "timestamp": "09:42",
-     "confidence": "high"
-    },
-    {
-     "name": "バンダイナムコホールディングス",
-     "name_en": "Bandai Namco Holdings",
-     "ticker": "7832",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "前日高値での窓埋め完了を確認してエントリー",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "寄り付き後の押し目で前日高値付近の窓埋め完了を確認し、買いエントリーを開始したこと。",
-      "空売りが溜まっており上抜け時のショートカバーを想定し、引けまで保持して利益確定。"
-     ],
-     "timestamp": "10:41",
-     "confidence": "high"
-    },
-    {
-     "name": "住友ファーマ",
-     "name_en": "Sumitomo Pharma",
-     "ticker": "4506",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "前日高値上抜けで入るも後場のガラで微損切り",
-     "target_price": "",
-     "entry": "2059円",
-     "stop": "",
-     "reasons": [
-      "綺麗な日足トレンドと非AI銘柄としての買われやすさに注目し前日高値突破でエントリー。",
-      "順調に推移していたものの後場の急落に巻き込まれ、撤退が間に合わず微損切りとなった。"
-     ],
-     "timestamp": "11:33",
-     "confidence": "medium"
-    },
-    {
-     "name": "ソフトバンクグループ",
-     "name_en": "SoftBank Group",
-     "ticker": "9984",
+     "name": "藤倉",
+     "name_en": "Fujikura Ltd.",
+     "ticker": "5803",
      "market": "JP",
      "stance": "bearish",
-     "stance_note": "サポートラインを大きく割り込み損切り撤退",
-     "target_price": "",
-     "entry": "3596円",
-     "stop": "3455円",
-     "reasons": [
-      "アンソロピックIPOへの期待から注視していたが、エントリー後に下落トレンドが継続。",
-      "節目となる3500円ラインを大きく下回ったためルールに従い引けで損切りを実施。"
-     ],
-     "timestamp": "11:53",
-     "confidence": "medium"
-    },
-    {
-     "name": "ティアフォー",
-     "name_en": "Tier IV",
-     "ticker": "",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "節目下抜けで素早い損切り対応",
-     "target_price": "",
-     "entry": "2220円",
-     "stop": "2175円",
-     "reasons": [
-      "決算後にギャップアップから2000円の節目で大口買いが入り2200円を回復したためエントリー。",
-      "ストップ高を目指す勢いが続かず2200円の支持線を割ったため即座に損切りを実施。"
-     ],
-     "timestamp": "12:51",
-     "confidence": "medium"
-    },
-    {
-     "name": "三菱UFJフィナンシャル・グループ",
-     "name_en": "Mitsubishi UFJ Financial Group",
-     "ticker": "8306",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "決算後の売られすぎからの回復を狙い利益確定",
-     "target_price": "",
-     "entry": "3393円",
-     "stop": "",
-     "reasons": [
-      "決算発表後の急落は売られすぎと判断し、安値持ち合いからのVWAPライン回復を見て買いエントリー。",
-      "その後のもみ合いを経て引けにかけて上昇したタイミングの3415円で利益確定。"
-     ],
-     "timestamp": "13:58",
-     "confidence": "medium"
-    }
-   ]
-  },
-  {
-   "video_id": "-E_koTSUx4g",
-   "title": "月曜日の注目銘柄を見ていく！（ゲームIPセクター・三菱重工業・アシックス・任天堂・スシロー・キオクシア等）株式テクニカルチャート分析",
-   "published": "2026-11-14T23:00:36+00:00",
-   "description": "■Xアカウント「トレーダーTOMO」\nフォローお願いします！\n→　https://x.com/tatepane",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "日経平均は前週の急落から自律反発を見せているものの、トレンド転換には至っておらずイベント待ちの状況です。今週はNVIDIA決算やアンソピックの上場などを控えて半導体セクターからの資金抜けが懸念されるため、無理なトレードは控えつつ足型の良い銘柄やテーマ性のある銘柄に絞る方針が示されています。具体的にはゲーム・IP関連や、急落後の反発を狙う個別銘柄テクニカル分析が解説されています。",
-   "market_view": "4時間足の下落トレンドラインを抜け切れておらずイベント待ち。アンソピック上場前の半導体関連の資金抜けに警戒が必要な局面。",
-   "market": "JP",
-   "picks": [
-    {
-     "name": "バンダイナムコホールディングス",
-     "name_en": "Bandai Namco Holdings Inc.",
-     "ticker": "7832",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "高値圏キープと新陳代謝が進み上昇継続期待",
+     "stance_note": "信用買残豊富で短期的な上昇は見込めず",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "高値圏をずっとキープしておりトレンドが綺麗な形状。火曜の決算での振り落としを経て下髭巻き返しで新陳代謝が進んでいる。"
+      "配当利回りが3%を超えているが、週足が陰線傾向で前回安値を下回るなど弱い動きが続いている。",
+      "個人の信用買い残が約2400万株と豊富に積み上がっており、短期的な株価上昇は見込みにくい。"
      ],
-     "timestamp": "03:32",
-     "confidence": "high"
-    },
-    {
-     "name": "アシックス",
-     "name_en": "ASICS Corporation",
-     "ticker": "7936",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "ストップ安水準の上での短期リバウンド狙い",
-     "target_price": "",
-     "entry": "4180円の上",
-     "stop": "4180円",
-     "reasons": [
-      "弱含んだ決算発表内容ではあるがストップ安するほどではなく短期的なリバウンド狙いが十分可能。4180円の上部推移が前提。"
-     ],
-     "timestamp": "04:51",
-     "confidence": "high"
-    },
-    {
-     "name": "任天堂",
-     "name_en": "Nintendo Co., Ltd.",
-     "ticker": "7974",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "8700円・8800円支持線から9000円目指す",
-     "target_price": "9000円",
-     "entry": "8700円〜8800円付近",
-     "stop": "",
-     "reasons": [
-      "新作ソフトの好調でチャート形状が良化しており出来高も増加傾向。8700円や8800円の支持線から9000円を目指す展開。"
-     ],
-     "timestamp": "05:56",
-     "confidence": "high"
-    },
-    {
-     "name": "FOOD & LIFE COMPANIES",
-     "name_en": "FOOD & LIFE COMPANIES LTD.",
-     "ticker": "3563",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "海外展開好調と振り落とし通過で6000円超え期待",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "海外展開が順調で将来性が高く空売り買い戻しも進行。直前で下に振り落として損切りを巻き込んでいるため6000円突破が狙える。"
-     ],
-     "timestamp": "06:44",
-     "confidence": "high"
-    },
-    {
-     "name": "三菱重工業",
-     "name_en": "Mitsubishi Heavy Industries, Ltd.",
-     "ticker": "7011",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "急落後の2900円支持から3000円への短期リバ",
-     "target_price": "3000円",
-     "entry": "2900円",
-     "stop": "",
-     "reasons": [
-      "悪材料による急落からの短期的リバウンド狙い。意識されやすい2900円の支持線を基準に3000円までの上昇を狙える展開。"
-     ],
-     "timestamp": "08:21",
-     "confidence": "high"
-    },
-    {
-     "name": "データセクション",
-     "name_en": "Data Section Inc.",
-     "ticker": "3905",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "1200円を撤退線にした決算期待の場中狙い",
-     "target_price": "",
-     "entry": "",
-     "stop": "1200円",
-     "reasons": [
-      "株価は安値圏だが月曜日に決算発表を控えており期待感がある。1200円ラインを撤退ラインに定めて場中の上昇を取りに行く。"
-     ],
-     "timestamp": "08:56",
-     "confidence": "medium"
-    },
-    {
-     "name": "楽天銀行",
-     "name_en": "Rakuten Bank, Ltd.",
-     "ticker": "5838",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "売り込まれすぎからのVWAP奪還で短期リバ狙い",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "業績は安定し金利上昇の恩恵もあるが売り込まれすぎの印象。VWAPラインを取り戻して引けており短期的な反発が期待できる。"
-     ],
-     "timestamp": "09:11",
+     "timestamp": "06:15",
      "confidence": "medium"
     },
     {
@@ -846,32 +615,136 @@
      "name_en": "Advantest Corporation",
      "ticker": "6857",
      "market": "JP",
-     "stance": "neutral",
-     "stance_note": "需給改善待ちの短期リバ狙いも慎重スタンス",
+     "stance": "bullish",
+     "stance_note": "窓埋めからV字回復し継続狙い可能",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "アンソピック上場前の資金抜けに警戒が必要。オーバーアンダーの改善が確認できれば節目のラインでの反発狙いを検討。"
+      "ギャップアップ後の窓埋めで2万6000円ライン付近からV字回復しVWAPの上で引けた。",
+      "出来高が増加し陰線ながら高値更新および安値切り上げの形で、明日以降も継続して狙える。"
      ],
-     "timestamp": "10:14",
+     "timestamp": "07:06",
+     "confidence": "high"
+    },
+    {
+     "name": "イビデン",
+     "name_en": "Ibiden Co., Ltd.",
+     "ticker": "4062",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "5000円は維持も上値が重く地合い次第",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "5000円ラインを守り下髭で巻き返したが、陰線5本目となり上値の重さが目立っている。",
+      "信用買い残が約500万株とゆるやかに増加傾向でシコリ警戒が必要であり空売りも入る展開。"
+     ],
+     "timestamp": "07:57",
      "confidence": "medium"
+    },
+    {
+     "name": "ソフトバンクグループ",
+     "name_en": "SoftBank Group Corp.",
+     "ticker": "9984",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "アンソロピック上場で短期的に期待",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "出来高6300万株と高水準で安値を切り上げており、3400円ラインが強く意識されている。",
+      "出資先のアンソロピックのナスダック上場を控えており、短期的盛り上がりが期待できる。"
+     ],
+     "timestamp": "08:58",
+     "confidence": "high"
+    },
+    {
+     "name": "村田製作所",
+     "name_en": "Murata Manufacturing Co., Ltd.",
+     "ticker": "6981",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "他と比べ底固くトレンド上抜けに期待",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "周囲の銘柄に比べて相対的に強い動きを見せており、出来高を伴って陽線を形成した。",
+      "5000円ラインを意識しつつ、日経平均より早く下落トレンドラインをブレイクできる可能性がある。"
+     ],
+     "timestamp": "09:47",
+     "confidence": "high"
     },
     {
      "name": "太陽誘電",
      "name_en": "Taiyo Yuden Co., Ltd.",
      "ticker": "6976",
      "market": "JP",
-     "stance": "neutral",
-     "stance_note": "7000円上維持が条件も過度な期待は禁物",
+     "stance": "bearish",
+     "stance_note": "陰線で出来高減少しており警戒が必要",
      "target_price": "",
-     "entry": "7000円の上",
+     "entry": "",
      "stop": "",
      "reasons": [
-      "7000円のラインが支持線として機能するため7000円の上での推移なら監視。板の買いが弱いとだらだら下がる傾向に注意。"
+      "村田製作所と似た動きだが陰線で出来高が減少しており、相対的に危険なチャート形状をしている。",
+      "7500円付近まで上値が重く、機関投資家の空売り動向もあるため注意しながら触る必要がある。"
      ],
-     "timestamp": "11:11",
-     "confidence": "low"
+     "timestamp": "11:06",
+     "confidence": "medium"
+    }
+   ]
+  },
+  {
+   "video_id": "1ZmGGaqCAtE",
+   "title": "NVIDIA決算直前の警戒。アンソロピックIPO換金売りもきつい。株式テクニカルチャート分析",
+   "published": "2026-11-17T07:21:55+00:00",
+   "description": "🔽日本株オンラインサロンやってます！波乱の相場を乗り切ろう🌊\nエンジョイプランはいつでも初月無料で参加できます★\n→　https://yoor.jp/door/tradertomo\n\n※ 参加プラン別のサービス内容はこちらの動画で解説しています。\n→https://youtu.be/AGZetFvA-Xk?si=Qy_ctky7kW1QSOHX\n\n株好きが集まる楽しいサロンを目指してます♪\n初心者歓迎です～ご参加お待ちしています！\n\n🔽サブチャンネルもやってます＾＾\nhttps://www.youtube.com/@TOMO-subtrader\n\n---------------------------------------------\n🔽公式LINEやってます！ともだち登録お願いします☆\n---------------------------------------------\n\n「うね",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "NVIDIAの決算発表やアンソロピックIPOに伴う換金売り警戒から、日経平均をはじめ市場全体が大幅下落する厳しい地合いとなっています。米国の対中AI半導体規制の強化も懸念される中、フェローテックは好決算を発表したものの地合い悪化で反発は限定的でした。市場全体がNVIDIAの決算待ちとなっており、短期的には慎重な姿勢が求められる状況です。",
+   "market_view": "日経平均やTOPIX、グロース市場ともに大幅下落する全面安の厳しい展開で、NVIDIA決算や換金売りなどの警戒感から商いも薄く難しい相場状況です。",
+   "market": "MIX",
+   "picks": [
+    {
+     "name": "NVIDIA",
+     "name_en": "NVIDIA Corporation",
+     "ticker": "NVDA",
+     "market": "US",
+     "stance": "neutral",
+     "stance_note": "決算前夜で強弱感が対立し見極めが必要",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "株価は高値243ドルから157ドルへと30%以上下落しており決算発表を目前に控えているため。",
+      "UBSなどは割安と評価する一方みずほが目標株価を引き下げるなど強弱感が激しく対立しているため。"
+     ],
+     "timestamp": "00:03",
+     "confidence": "high"
+    },
+    {
+     "name": "フェローテックホールディングス",
+     "name_en": "Ferrotec Holdings Corporation",
+     "ticker": "6890",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "決算内容は良いが地合い悪化で伸び悩む",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "増配と中期経営計画の数値引き上げを発表し決算内容自体は良好だが地合い悪化で伸び悩んだため。",
+      "表示上の利回りは今期が9ヶ月算定のため高く見えており12ヶ月換算の実際の利回りに注意を要するため。"
+     ],
+     "timestamp": "03:14",
+     "confidence": "medium"
     },
     {
      "name": "キオクシアホールディングス",
@@ -879,14 +752,14 @@
      "ticker": "285A",
      "market": "JP",
      "stance": "neutral",
-     "stance_note": "9000円撤退線も上値重くギャップダウン想定",
+     "stance_note": "約定回数は多いが全体的にスイングは難しい",
      "target_price": "",
      "entry": "",
-     "stop": "9000円",
+     "stop": "",
      "reasons": [
-      "9000円ラインを撤退基準に設定できるが直上に出来高溜まりがあり重い展開が予想される。ギャップダウン想定で無理はしない。"
+      "約定回数がダントツで出来高を集めているものの市場全体の商いが薄く足型も悪化しているため。"
      ],
-     "timestamp": "11:33",
+     "timestamp": "06:55",
      "confidence": "low"
     }
    ]
