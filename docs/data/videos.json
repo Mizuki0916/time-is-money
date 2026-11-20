@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T06:08:07.119432+09:00",
+ "generated_at": "2026-11-21T06:11:05.304133+09:00",
  "videos": [
   {
    "video_id": "efmC7xLZBeQ",
@@ -118,6 +118,40 @@
    ]
   },
   {
+   "video_id": "ZYsOB-nC63I",
+   "title": "日経平均終値3007円安 !アンソロピック上場も・・・暴落",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-11-20T07:57:14+00:00",
+   "overview": "日経平均株価が307円安と大きく売られ、ほぼ全面安の展開となった相場について解説しています。米国市場でのAI・半導体株の売りやFRBの利上げ再開観測などが重荷となり、日本市場でも下落トレンドが強まっています。個別の注目銘柄としては、配当利回りが上昇した藤倉や急落したキオクシアなどを挙げ、底打ちサインを確認するまでは焦って買い向かわず慎重に見極めるべきだとアドバイスしています。",
+   "market_view": "日経平均は307円安でほぼ全面安となり下落トレンドが継続中。利上げ観測やAI・半導体株売りなど向かい風が多く、テクニカル的にも天井感が出ているため、短期リバウンドがあっても上値は重く警戒が必要な局面。",
+   "market": "MIX",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "アンソロピック",
+     "ticker": "",
+     "stance": "bearish",
+     "timestamp": "00:35"
+    },
+    {
+     "name": "藤倉",
+     "ticker": "5803",
+     "stance": "neutral",
+     "timestamp": "09:27"
+    },
+    {
+     "name": "キオクシア",
+     "ticker": "285A",
+     "stance": "neutral",
+     "timestamp": "10:32"
+    }
+   ]
+  },
+  {
    "video_id": "qdL4mHOhBwk",
    "title": "暴落ザラ場らいぶ　11/20",
    "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
@@ -200,28 +234,6 @@
      "ticker": "AMD",
      "stance": "bearish",
      "timestamp": "12:08"
-    }
-   ]
-  },
-  {
-   "video_id": "VjkI_85mRDo",
-   "title": "JT（日本たばこ産業）配当を68円大幅減配！年間配当は204円へ　#shorts",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-11-19T09:29:40+00:00",
-   "overview": "JTがロシア子会社の連結除外に伴い業績の下方修正と年間204円への68円減配を発表しました。減配を受けて株価はPTSで大きく下落しており、配当利回り約4%水準となる5000円付近までの下落を覚悟する必要があります。今後は下値支持線として機能すると期待される5200円や5000円のラインを意識しながら、ポジションを探る展開が提示されています。",
-   "market_view": "",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "JT",
-     "ticker": "2914",
-     "stance": "neutral",
-     "timestamp": "00:00"
     }
    ]
   },
