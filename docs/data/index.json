@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T16:10:41.052438+09:00",
+ "generated_at": "2026-11-21T00:46:15.720109+09:00",
  "channels": [
   {
    "id": "UCsaeHha7ai_NNX8or8Jyb-g",
@@ -252,7 +252,7 @@
     "market_open": false,
     "symbol": "285A.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-19T23:11:49.313769+00:00"
+    "fetched_at": "2026-11-20T15:46:15.728998+00:00"
    }
   },
   {
@@ -402,7 +402,7 @@
     "market_open": false,
     "symbol": "2914.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-19T23:03:39.560540+00:00"
+    "fetched_at": "2026-11-20T15:46:15.728998+00:00"
    }
   },
   {
@@ -527,7 +527,7 @@
     "market_open": false,
     "symbol": "8058.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-19T23:03:39.560540+00:00"
+    "fetched_at": "2026-11-20T15:46:15.728998+00:00"
    }
   },
   {
@@ -675,7 +675,7 @@
     "market_open": false,
     "symbol": "6857.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-19T23:03:39.560540+00:00"
+    "fetched_at": "2026-11-20T15:46:15.728998+00:00"
    }
   },
   {
@@ -823,7 +823,7 @@
     "market_open": false,
     "symbol": "5803.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-19T23:03:39.560540+00:00"
+    "fetched_at": "2026-11-20T15:46:15.728998+00:00"
    }
   },
   {
@@ -951,7 +951,7 @@
     "market_open": false,
     "symbol": "7550.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-19T23:03:39.560540+00:00"
+    "fetched_at": "2026-11-20T15:46:15.728998+00:00"
    }
   },
   {
@@ -1263,7 +1263,7 @@
     "market_open": false,
     "symbol": "9984.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-19T23:03:39.560540+00:00"
+    "fetched_at": "2026-11-20T15:46:15.728998+00:00"
    }
   },
   {
@@ -1310,9 +1310,9 @@
     "date": "2026-11-19",
     "close": 489.19,
     "change_pct": -7.72,
-    "live": null,
-    "live_change_pct": null,
-    "live_time": null,
+    "live": 442.46,
+    "live_change_pct": -9.55,
+    "live_time": 1795189591,
     "volume": 71098300,
     "volume_ratio": 1.99,
     "rsi14": 45.2,
@@ -1365,10 +1365,10 @@
     ],
     "currency": "USD",
     "exchange_name": "NasdaqGS",
-    "market_open": false,
+    "market_open": true,
     "symbol": "AMD",
     "source": "yahoo",
-    "fetched_at": "2026-11-20T07:10:41.134507+00:00"
+    "fetched_at": "2026-11-20T15:46:15.728998+00:00"
    }
   },
   {
@@ -1473,7 +1473,7 @@
     "market_open": false,
     "symbol": "7974.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-19T23:03:39.560540+00:00"
+    "fetched_at": "2026-11-20T15:46:15.728998+00:00"
    }
   },
   {
@@ -1578,7 +1578,7 @@
     "market_open": false,
     "symbol": "6315.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-19T23:11:49.313769+00:00"
+    "fetched_at": "2026-11-20T15:46:15.728998+00:00"
    }
   },
   {
@@ -1683,7 +1683,7 @@
     "market_open": false,
     "symbol": "9101.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-19T23:11:49.313769+00:00"
+    "fetched_at": "2026-11-20T15:46:15.728998+00:00"
    }
   },
   {
@@ -1788,7 +1788,7 @@
     "market_open": false,
     "symbol": "7453.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-19T23:11:49.313769+00:00"
+    "fetched_at": "2026-11-20T15:46:15.728998+00:00"
    }
   },
   {
@@ -1893,7 +1893,7 @@
     "market_open": false,
     "symbol": "3382.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-19T23:11:49.313769+00:00"
+    "fetched_at": "2026-11-20T15:46:15.728998+00:00"
    }
   },
   {
@@ -1998,7 +1998,7 @@
     "market_open": false,
     "symbol": "7272.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-19T23:11:49.313769+00:00"
+    "fetched_at": "2026-11-20T15:46:15.728998+00:00"
    }
   },
   {
@@ -2103,7 +2103,7 @@
     "market_open": false,
     "symbol": "4519.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-19T23:11:49.313769+00:00"
+    "fetched_at": "2026-11-20T15:46:15.728998+00:00"
    }
   },
   {
@@ -2208,7 +2208,7 @@
     "market_open": false,
     "symbol": "9509.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-19T23:11:49.313769+00:00"
+    "fetched_at": "2026-11-20T15:46:15.728998+00:00"
    }
   },
   {
@@ -2313,7 +2313,7 @@
     "market_open": false,
     "symbol": "9697.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-19T23:11:49.313769+00:00"
+    "fetched_at": "2026-11-20T15:46:15.728998+00:00"
    }
   },
   {
@@ -2418,7 +2418,7 @@
     "market_open": false,
     "symbol": "5713.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-19T23:11:49.313769+00:00"
+    "fetched_at": "2026-11-20T15:46:15.728998+00:00"
    }
   },
   {
@@ -2486,11 +2486,11 @@
     "date": "2026-11-19",
     "close": 145.98,
     "change_pct": -3.3,
-    "live": null,
-    "live_change_pct": null,
-    "live_time": null,
-    "volume": 315864587,
-    "volume_ratio": 1.38,
+    "live": 135.94,
+    "live_change_pct": -6.88,
+    "live_time": 1795189616,
+    "volume": 320588100,
+    "volume_ratio": 1.4,
     "rsi14": 19.6,
     "rsi_zone": "売られすぎ",
     "ma25": 191.86,
@@ -2541,10 +2541,10 @@
     ],
     "currency": "USD",
     "exchange_name": "NasdaqGS",
-    "market_open": false,
+    "market_open": true,
     "symbol": "NVDA",
     "source": "yahoo",
-    "fetched_at": "2026-11-19T23:03:39.560540+00:00"
+    "fetched_at": "2026-11-20T15:46:15.728998+00:00"
    }
   },
   {
@@ -2589,30 +2589,67 @@
    ],
    "price": {
     "date": "2026-11-19",
-    "close": 755.16,
+    "close": 94.39,
     "change_pct": -2.71,
-    "live": null,
-    "live_change_pct": null,
-    "live_time": null,
-    "volume": 15100945,
-    "volume_ratio": null,
-    "rsi14": null,
-    "rsi_zone": "",
-    "ma25": null,
-    "ma75": null,
-    "trend": "判定不可",
-    "pos52": null,
+    "live": 79.73,
+    "live_change_pct": -15.54,
+    "live_time": 1795189619,
+    "volume": 119852712,
+    "volume_ratio": 1.23,
+    "rsi14": 29.4,
+    "rsi_zone": "売られすぎ",
+    "ma25": 134.62,
+    "ma75": 177.56,
+    "trend": "下降基調",
+    "pos52": 26,
     "spark": [
-     797.24,
-     776.22,
-     755.16
+     222.23,
+     214.11,
+     216.22,
+     217.49,
+     223.46,
+     215.0,
+     213.02,
+     207.56,
+     211.55,
+     201.18,
+     197.73,
+     185.92,
+     185.29,
+     175.42,
+     174.35,
+     162.41,
+     171.39,
+     170.67,
+     172.28,
+     157.62,
+     154.75,
+     156.95,
+     163.1,
+     175.6,
+     166.26,
+     143.86,
+     134.38,
+     140.82,
+     129.68,
+     100.8,
+     104.38,
+     110.81,
+     107.5,
+     122.21,
+     117.18,
+     110.63,
+     101.14,
+     99.65,
+     97.03,
+     94.39
     ],
     "currency": "USD",
     "exchange_name": "NasdaqGS",
-    "market_open": false,
+    "market_open": true,
     "symbol": "SNDK",
     "source": "yahoo",
-    "fetched_at": "2026-11-19T23:03:39.560540+00:00"
+    "fetched_at": "2026-11-20T15:46:15.728998+00:00"
    }
   },
   {
@@ -2738,7 +2775,7 @@
     "market_open": false,
     "symbol": "4062.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-19T23:03:39.560540+00:00"
+    "fetched_at": "2026-11-20T15:46:15.728998+00:00"
    }
   },
   {
@@ -2864,7 +2901,7 @@
     "market_open": false,
     "symbol": "5801.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-19T23:03:39.560540+00:00"
+    "fetched_at": "2026-11-20T15:46:15.728998+00:00"
    }
   },
   {
@@ -2911,11 +2948,11 @@
     "date": "2026-11-19",
     "close": 296.78,
     "change_pct": 2.98,
-    "live": null,
-    "live_change_pct": null,
-    "live_time": null,
-    "volume": 8765163,
-    "volume_ratio": 1.04,
+    "live": 264.67,
+    "live_change_pct": -10.82,
+    "live_time": 1795189625,
+    "volume": 9838000,
+    "volume_ratio": 1.17,
     "rsi14": 40.9,
     "rsi_zone": "中立",
     "ma25": 328.38,
@@ -2966,10 +3003,10 @@
     ],
     "currency": "USD",
     "exchange_name": "NasdaqGS",
-    "market_open": false,
+    "market_open": true,
     "symbol": "WDC",
     "source": "yahoo",
-    "fetched_at": "2026-11-19T23:03:39.560540+00:00"
+    "fetched_at": "2026-11-20T15:46:15.728998+00:00"
    }
   },
   {
@@ -3074,7 +3111,7 @@
     "market_open": false,
     "symbol": "9861.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-19T23:03:39.560540+00:00"
+    "fetched_at": "2026-11-20T15:46:15.728998+00:00"
    }
   },
   {
@@ -3120,10 +3157,10 @@
     "date": "2026-11-19",
     "close": 44.91,
     "change_pct": -6.1,
-    "live": null,
-    "live_change_pct": null,
-    "live_time": null,
-    "volume": 77395534,
+    "live": 40.12,
+    "live_change_pct": -10.67,
+    "live_time": 1795189629,
+    "volume": 77707900,
     "volume_ratio": 1.07,
     "rsi14": 36.5,
     "rsi_zone": "中立",
@@ -3175,10 +3212,10 @@
     ],
     "currency": "USD",
     "exchange_name": "NasdaqGS",
-    "market_open": false,
+    "market_open": true,
     "symbol": "CRWV",
     "source": "yahoo-search",
-    "fetched_at": "2026-11-19T23:03:39.560540+00:00"
+    "fetched_at": "2026-11-20T15:46:15.728998+00:00"
    }
   },
   {
@@ -3224,11 +3261,11 @@
     "date": "2026-11-19",
     "close": 338.93,
     "change_pct": -3.8,
-    "live": null,
-    "live_change_pct": null,
-    "live_time": null,
-    "volume": 7130172,
-    "volume_ratio": 0.87,
+    "live": 309.02,
+    "live_change_pct": -8.82,
+    "live_time": 1795189628,
+    "volume": 7173700,
+    "volume_ratio": 0.88,
     "rsi14": 36.9,
     "rsi_zone": "中立",
     "ma25": 378.34,
@@ -3279,10 +3316,10 @@
     ],
     "currency": "USD",
     "exchange_name": "NasdaqGS",
-    "market_open": false,
+    "market_open": true,
     "symbol": "AMAT",
     "source": "yahoo",
-    "fetched_at": "2026-11-19T23:03:39.560540+00:00"
+    "fetched_at": "2026-11-20T15:46:15.728998+00:00"
    }
   },
   {
@@ -3386,7 +3423,7 @@
     "market_open": false,
     "symbol": "8031.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-19T23:03:39.560540+00:00"
+    "fetched_at": "2026-11-20T15:46:15.728998+00:00"
    }
   },
   {
@@ -3490,7 +3527,7 @@
     "market_open": false,
     "symbol": "7011.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-19T23:03:39.560540+00:00"
+    "fetched_at": "2026-11-20T15:46:15.728998+00:00"
    }
   },
   {
@@ -3594,7 +3631,7 @@
     "market_open": false,
     "symbol": "4684.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-19T23:03:39.560540+00:00"
+    "fetched_at": "2026-11-20T15:46:15.728998+00:00"
    }
   },
   {
@@ -3698,7 +3735,7 @@
     "market_open": false,
     "symbol": "6758.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-19T23:03:39.560540+00:00"
+    "fetched_at": "2026-11-20T15:46:15.728998+00:00"
    }
   },
   {
@@ -3770,7 +3807,7 @@
     "market_open": false,
     "symbol": "660A.T",
     "source": "yahoo-search",
-    "fetched_at": "2026-11-19T23:03:39.560540+00:00"
+    "fetched_at": "2026-11-20T15:46:15.728998+00:00"
    }
   }
  ]
