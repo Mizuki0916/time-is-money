@@ -1,6 +1,159 @@
 {
  "videos": [
   {
+   "video_id": "3JfckzFPdmY",
+   "title": "11/22【日本株危機的状況‼半導体株大暴落で追証の嵐。日経平均急落ヤバいぞ‼】キオクシア急落助からない⁉ドル円158円。米国株、ナスダック、ハイテク株崩壊。仮想通貨BTC急落",
+   "published": "2026-11-22T05:09:38+00:00",
+   "description": "「10か月20％オフ」のメンバークーポンの有効期限11/22まで。\nMEDIABLEのVIP、プラチナが対象です。\n\n ※クーポンコード：birthday38\n\n◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーー",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "Sho氏が半導体株の大暴落や日経平均の急落を受けた緊急ライブ配信にて、主要銘柄のチャート分析と年末年始の投資戦略を解説しています。10月高値銘柄の信用期日が来年前半にかけて残るため、目先の自立反発狙いではなく来年以降に向けた安値拾いの仕込み場と捉えるべきだと主張しています。全体相場が崩れる中で信用需給が良好な強気銘柄と下落基調が続く弱気銘柄の二極化が進む見通しを示しています。",
+   "market_view": "半導体株の暴落に伴い日経平均は年末にかけて軟調な展開が予想され、来年前半にかけて戻り売り圧力に警戒が必要です。信用需給の良し悪しによる強弱の二極化が一段と進む見通しです。",
+   "market": "JP",
+   "picks": [
+    {
+     "name": "日経平均",
+     "name_en": "Nikkei 225",
+     "ticker": "N225",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "年末にかけて慎重姿勢、来年向け仕込み場",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "先物安や移動平均線のデッドクロス形成により年末にかけて弱い展開が想定されるため。",
+      "目先の短期反発狙いではなく、来年以降に向けた安値での中長期仕込み場として捉えるべきため。"
+     ],
+     "timestamp": "02:31",
+     "confidence": "high"
+    },
+    {
+     "name": "ルネサスエレクトロニクス",
+     "name_en": "Renesas Electronics Corporation",
+     "ticker": "6723",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "下落トレンド継続で1月以降も警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "米国半導体株の暴落に連動しバンドウォークを形成して下落方向への動きが継続しているため。",
+      "7月高値の信用期日が1月に到来し、信用改ざんの整理が進まないと戻りが鈍いため。"
+     ],
+     "timestamp": "07:43",
+     "confidence": "medium"
+    },
+    {
+     "name": "村田製作所",
+     "name_en": "Murata Manufacturing Co., Ltd.",
+     "ticker": "6981",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "10月高値期日の4月まで戻り売り警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "移動平均線のデッドクロス形成が入る予定であり年末に向けてチャート形状が弱いため。",
+      "10月高値の信用期日が来年4月に到来するため、年明け後も戻り売り圧力に注意が必要なため。"
+     ],
+     "timestamp": "09:00",
+     "confidence": "medium"
+    },
+    {
+     "name": "キーエンス",
+     "name_en": "Keyence Corporation",
+     "ticker": "6861",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "デッドクロス懸念と株式分割の悪影響",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "5日線と200日移動平均線のデッドクロス形成が確認されるまでは底打ち判断が難しいため。",
+      "株式分割が実施されたことで値かさ株としての魅力が薄れ需給面でマイナスに作用しているため。"
+     ],
+     "timestamp": "17:28",
+     "confidence": "medium"
+    },
+    {
+     "name": "キヤノン",
+     "name_en": "Canon Inc.",
+     "ticker": "7751",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "需給良好で比較的堅調な推移",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "PER12倍、PBR1.2倍、配当利回り3.83%と割安感がある指標水準に位置しているため。",
+      "信用需給の悪化が見られず、全体相場が下落する中でも比較的良好なチャート形状を維持しているため。"
+     ],
+     "timestamp": "34:59",
+     "confidence": "medium"
+    },
+    {
+     "name": "ソニーグループ",
+     "name_en": "Sony Group Corporation",
+     "ticker": "6758",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "需給改善とGC形成で上目線継続",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "200日移動平均線と長期移動平均線がゴールデンクロスを形成しているため。",
+      "信用需給の改善が着実に進んでおり、全体の地合いが悪化する中でも上値を狙える形状であるため。"
+     ],
+     "timestamp": "35:20",
+     "confidence": "medium"
+    },
+    {
+     "name": "コナミグループ",
+     "name_en": "KONAMI GROUP CORPORATION",
+     "ticker": "9766",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "2極化の強い側として上昇基調を維持",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "200日線と長期線のゴールデンクロス形成に伴い上昇トレンドを維持しているため。",
+      "相場の二極化が進む中で信用需給が良好であり、短期的な下落にとどまり強さを保っているため。"
+     ],
+     "timestamp": "44:13",
+     "confidence": "medium"
+    },
+    {
+     "name": "武田薬品工業",
+     "name_en": "Takeda Pharmaceutical Company Limited",
+     "ticker": "4502",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "上昇基調を強め上値抵抗線を試す展開",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "地合いの悪化に影響されず買いが優勢であり、チャート形状が良好な上昇を示しているため。",
+      "7066円から7500円付近に位置する重要な抵抗ラインに向けた更なる上昇が期待できるため。"
+     ],
+     "timestamp": "50:43",
+     "confidence": "medium"
+    }
+   ]
+  },
+  {
    "video_id": "efmC7xLZBeQ",
    "title": "11/20【日本株追証多発ヤバい‼半導体株大暴落】キオクシア急落助からない⁉日経平均暴落。ドル円159円、アンソロピック上場で米国株、ナスダック、ハイテク株暴落。仮想通貨BTC急落",
    "published": "2026-11-20T14:39:40+00:00",
@@ -98,91 +251,6 @@
       "信用買い残が過去2年間で最高水準に膨らんでおり、受給面での圧迫から回復に時間がかかると見られるため。"
      ],
      "timestamp": "45:23",
-     "confidence": "medium"
-    }
-   ]
-  },
-  {
-   "video_id": "Kt5UqQW7tZo",
-   "title": "11/20【日本株追証多発ヤバい‼半導体株大暴落】キオクシア急落助からない⁉日経平均暴落。ドル円159円、アンソロピック上場で米国株、ナスダック、ハイテク株暴落。仮想通貨BTC急落",
-   "published": "2026-11-20T02:12:33+00:00",
-   "description": "「10か月20％オフ」のメンバークーポンの有効期限11/22まで。\nMEDIABLEのVIP、プラチナが対象です。\n\n ※クーポンコード：birthday38\n\n◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーー",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "日経平均および半導体株の急落を受け、現在の相場が業績ではなく需給主導で動いていると解説。年末に向けて信用買いの捕まりや追証発生に伴う投げ売りが懸念され、需給の悪い半導体・ハイテク株は下落が続く「年末安コース」に入ったと分析している。一方で、移動平均線のゴールデンクロスなど条件を満たした需給の良い出遅れバリュー株との二極化が進行すると見込み、安易な逆張りや信用ナンピン買いを控えるよう警鐘を鳴らしている。",
-   "market_view": "米国株急落や追証発生による負のスパイラルで全面安の様相だが、年末にかけては需給が良い銘柄と悪い銘柄の二極化相場が進む見通し。",
-   "market": "MIX",
-   "picks": [
-    {
-     "name": "キオクシア",
-     "name_en": "Kioxia Holdings Corporation",
-     "ticker": "285A",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "10%暴落で底割れし年末安コース",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "需給悪化が続く中で10%を超える大幅下落となり、株価は底値を割り込んで推移している。",
-      "個人投資家の信用買いが捕まっており、追証発生に伴う強制決済や投げ売りの波及が懸念される。"
-     ],
-     "timestamp": "04:28",
-     "confidence": "medium"
-    },
-    {
-     "name": "アドバンテスト",
-     "name_en": "Advantest Corporation",
-     "ticker": "6857",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "9%暴落し直近安値を割り込む展開",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "直近安値を下回る9%の大幅暴落となっており、半導体株全体に対する売り崩しが直撃している。",
-      "需給が重く上値が抑えられており、リバウンド狙いの安易な買い買い向かいは危険と分析。"
-     ],
-     "timestamp": "04:34",
-     "confidence": "medium"
-    },
-    {
-     "name": "フジクラ",
-     "name_en": "Fujikura Ltd.",
-     "ticker": "5803",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "11%急落し年末安コースへと突入",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "11%の急落を記録しており、全体相場の投げ売りに巻き込まれて下落トレンドが加速している。",
-      "需給の悪い銘柄群に位置しており、年末に向かって下値を模索する展開が想定される。"
-     ],
-     "timestamp": "04:48",
-     "confidence": "medium"
-    },
-    {
-     "name": "AMD",
-     "name_en": "Advanced Micro Devices, Inc.",
-     "ticker": "AMD",
-     "market": "US",
-     "stance": "bearish",
-     "stance_note": "ネガティブ報道で一時13%急落",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "中国へのチップ違法販売疑惑に関する報道が浮上し、短時間で株価が13%急落した。",
-      "米国の半導体株指数や日本の半導体関連株全体の下落を引き起こすトリガーとなった。"
-     ],
-     "timestamp": "12:08",
      "confidence": "medium"
     }
    ]
@@ -494,6 +562,142 @@
    ]
   },
   {
+   "video_id": "C6swYyaY7h4",
+   "title": "来週の相場に備えて！　日本株チャート分析LIVE　11/22",
+   "published": "2026-11-22T07:09:22+00:00",
+   "description": "",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "日経平均株価の下落や米国株安を受けた日本株相場の現状と、来週に向けたチャート分析をLIVE形式で解説した動画です。データセンター関連や半導体銘柄の需給悪化・調整が続く一方、地合いの影響を受けにくい非AI銘柄やIP関連株、医薬品株などに買い機会を見出しています。全体相場の本格的なスイング買いは春頃まで慎重姿勢を推奨しつつ、デイトレードや短期リバウンド狙いの戦略を提示しています。",
+   "market_view": "米株安や半導体株の調整を受けて日経平均は軟調な展開が予想され、本格的なスイング投資のタイミングは春頃まで慎重に見極める必要があります。",
+   "market": "JP",
+   "picks": [
+    {
+     "name": "アシックス",
+     "name_en": "ASICS Corporation",
+     "ticker": "7936",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "決算後の持ち合い期間を静観",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "決算通過後の下げすぎ感はあるものの本決算期に下落する季節性が見られるため。",
+      "前回の決算後と同様に底固めから回復するまで1ヶ月程度の持ち合いが必要なため。"
+     ],
+     "timestamp": "01:59",
+     "confidence": "high"
+    },
+    {
+     "name": "シスメックス",
+     "name_en": "Sysmex Corporation",
+     "ticker": "6869",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "良好なトレンドで押し目狙い",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "全体相場の影響を受けにくい医療機器分野で長期的な上昇トレンドを維持しているため。",
+      "チャート上で2000円のラインが下値支持線として機能しており買いを狙える足形なため。"
+     ],
+     "timestamp": "07:52",
+     "confidence": "medium"
+    },
+    {
+     "name": "東京エレクトロン",
+     "name_en": "Tokyo Electron Limited",
+     "ticker": "8035",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "長期下降トレンド継続で慎重",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "長期の移動平均線が全て下向きであり高値を切り下げる厳しい展開が継続しているため。",
+      "信用買い残が1000万株規模と高水準で積み上がっており馬中で陰線が出やすい需給なため。"
+     ],
+     "timestamp": "08:41",
+     "confidence": "high"
+    },
+    {
+     "name": "キオクシアホールディングス",
+     "name_en": "Kioxia Holdings Corporation",
+     "ticker": "285A",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "大口不在で寄付き後のリバ狙い限定",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "価格帯が過去の出来高ゾーンまで下落し大幅な寄付き下落からの短期リバが狙えるため。",
+      "信用買い残に対して大口の買いが入っておらず本格的な上昇展開には時間がかかるため。"
+     ],
+     "timestamp": "24:58",
+     "confidence": "high"
+    },
+    {
+     "name": "ベイカレント",
+     "name_en": "BayCurrent Consulting, Inc.",
+     "ticker": "6532",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "業績と需給が良く買い候補",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "セキュリティ関連需要の取り込みなどテーマ性があり業績と需給ともに良好なため。",
+      "下値を大きく掘る懸念が乏しくチャート形状も崩れていないため優先度の高い買い候補。"
+     ],
+     "timestamp": "32:45",
+     "confidence": "high"
+    },
+    {
+     "name": "武田薬品工業",
+     "name_en": "Takeda Pharmaceutical Company Limited",
+     "ticker": "4502",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "パイプライン豊富で強気継続",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "新薬のパイプラインが豊富に控えており今後の業績成長期待から評価が高いため。",
+      "今後の新薬成長によりバリュエーション向上が期待でき押し目買いが有効なため。"
+     ],
+     "timestamp": "54:32",
+     "confidence": "medium"
+    },
+    {
+     "name": "サンリオ",
+     "name_en": "Sanrio Company, Ltd.",
+     "ticker": "8136",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "信用買い残過多で需給悪化",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "同一セクター内で唯一信用買い残が非常に多く需給バランスが悪化しているため。",
+      "機関投資家からの空売りも入っており株価の下落傾向に歯止めがかかっていないため。"
+     ],
+     "timestamp": "01:15:30",
+     "confidence": "medium"
+    }
+   ]
+  },
+  {
    "video_id": "ZYsOB-nC63I",
    "title": "日経平均終値3007円安 !アンソロピック上場も・・・暴落",
    "published": "2026-11-20T07:57:14+00:00",
@@ -557,103 +761,6 @@
       "下落トレンドが継続しているため、週足チャートで陽線アウトサイドなどの明確な転換サインが出るまでじっくり引きつける必要がある。"
      ],
      "timestamp": "10:32",
-     "confidence": "medium"
-    }
-   ]
-  },
-  {
-   "video_id": "qdL4mHOhBwk",
-   "title": "暴落ザラ場らいぶ　11/20",
-   "published": "2026-11-20T06:34:56+00:00",
-   "description": "アンソロピック・・・",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "悪材料が重なる非常に厳しい相場環境の中でザラバ配信を行い、現在の相場見通しと個別銘柄への対応を解説した動画です。相場全体で買い手が不在であり、中長期的な下落トレンドに入っていると判断して無理な仕込みは避け現金比率を高める戦略を提示しています。保険株などの底堅い銘柄に言及しつつ、ソフトバンクグループの損切り報告やキオクシア、三菱商事の見通しを語っています。",
-   "market_view": "複数の悪材料や規制懸念が重なり、相場全体は下落トレンドに入っているため、無闇な仕込みは避けて現金比率を高めて様子見するべき相場です。",
-   "market": "JP",
-   "picks": [
-    {
-     "name": "インフロニア・ホールディングス",
-     "name_en": "INFRONEER Holdings Inc.",
-     "ticker": "5076",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "増資後のカバー狙いが外れたため撤退",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "増資発表後のショートカバーを狙って購入したが、想定通りの上昇とならなかったため取引から撤退した。"
-     ],
-     "timestamp": "02:46",
-     "confidence": "medium"
-    },
-    {
-     "name": "東京海上ホールディングス",
-     "name_en": "Tokio Marine Holdings, Inc.",
-     "ticker": "8766",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "地合い悪化の中でも評価できる主力押し銘柄",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "大手損保は決算や政策保有株の縮小方針が評価でき、全体相場が下落する中でも比較的しっかりした推移を見せている。"
-     ],
-     "timestamp": "07:46",
-     "confidence": "medium"
-    },
-    {
-     "name": "ソフトバンクグループ",
-     "name_en": "SoftBank Group Corp.",
-     "ticker": "9984",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "アンソロピック懸念から寄り付きで損切り",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "頼みとしていたアンソロピック関連の悪材料や先物の下落を受けて、寄り付きの段階で損切りを行った。"
-     ],
-     "timestamp": "28:51",
-     "confidence": "medium"
-    },
-    {
-     "name": "キオクシアホールディングス",
-     "name_en": "Kioxia Holdings Corporation",
-     "ticker": "285A",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "単価UP重視は妥当も相場悪化で上値重い",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "増産ではなく製品ミックスの改善による単価アップで利益率を保つ慎重な戦略は妥当だが、相場の好転が必要となる。"
-     ],
-     "timestamp": "24:04",
-     "confidence": "high"
-    },
-    {
-     "name": "三菱商事",
-     "name_en": "Mitsubishi Corporation",
-     "ticker": "8058",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "4600円割れなら買い検討だが現状は様子見",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "コモディティ価格の下落に伴い調整している。株価が4600円割れまで下がれば拾いたくなるが現状は様子見が吉。"
-     ],
-     "timestamp": "25:38",
      "confidence": "medium"
     }
    ]

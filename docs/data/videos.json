@@ -1,6 +1,128 @@
 {
- "generated_at": "2026-11-21T06:11:05.304133+09:00",
+ "generated_at": "2026-11-22T18:15:27.514427+09:00",
  "videos": [
+  {
+   "video_id": "C6swYyaY7h4",
+   "title": "来週の相場に備えて！　日本株チャート分析LIVE　11/22",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-11-22T07:09:22+00:00",
+   "overview": "日経平均株価の下落や米国株安を受けた日本株相場の現状と、来週に向けたチャート分析をLIVE形式で解説した動画です。データセンター関連や半導体銘柄の需給悪化・調整が続く一方、地合いの影響を受けにくい非AI銘柄やIP関連株、医薬品株などに買い機会を見出しています。全体相場の本格的なスイング買いは春頃まで慎重姿勢を推奨しつつ、デイトレードや短期リバウンド狙いの戦略を提示しています。",
+   "market_view": "米株安や半導体株の調整を受けて日経平均は軟調な展開が予想され、本格的なスイング投資のタイミングは春頃まで慎重に見極める必要があります。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "アシックス",
+     "ticker": "7936",
+     "stance": "neutral",
+     "timestamp": "01:59"
+    },
+    {
+     "name": "シスメックス",
+     "ticker": "6869",
+     "stance": "bullish",
+     "timestamp": "07:52"
+    },
+    {
+     "name": "東京エレクトロン",
+     "ticker": "8035",
+     "stance": "bearish",
+     "timestamp": "08:41"
+    },
+    {
+     "name": "キオクシアホールディングス",
+     "ticker": "285A",
+     "stance": "neutral",
+     "timestamp": "24:58"
+    },
+    {
+     "name": "ベイカレント",
+     "ticker": "6532",
+     "stance": "bullish",
+     "timestamp": "32:45"
+    },
+    {
+     "name": "武田薬品工業",
+     "ticker": "4502",
+     "stance": "bullish",
+     "timestamp": "54:32"
+    },
+    {
+     "name": "サンリオ",
+     "ticker": "8136",
+     "stance": "bearish",
+     "timestamp": "01:15:30"
+    }
+   ]
+  },
+  {
+   "video_id": "3JfckzFPdmY",
+   "title": "11/22【日本株危機的状況‼半導体株大暴落で追証の嵐。日経平均急落ヤバいぞ‼】キオクシア急落助からない⁉ドル円158円。米国株、ナスダック、ハイテク株崩壊。仮想通貨BTC急落",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-11-22T05:09:38+00:00",
+   "overview": "Sho氏が半導体株の大暴落や日経平均の急落を受けた緊急ライブ配信にて、主要銘柄のチャート分析と年末年始の投資戦略を解説しています。10月高値銘柄の信用期日が来年前半にかけて残るため、目先の自立反発狙いではなく来年以降に向けた安値拾いの仕込み場と捉えるべきだと主張しています。全体相場が崩れる中で信用需給が良好な強気銘柄と下落基調が続く弱気銘柄の二極化が進む見通しを示しています。",
+   "market_view": "半導体株の暴落に伴い日経平均は年末にかけて軟調な展開が予想され、来年前半にかけて戻り売り圧力に警戒が必要です。信用需給の良し悪しによる強弱の二極化が一段と進む見通しです。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "日経平均",
+     "ticker": "N225",
+     "stance": "bearish",
+     "timestamp": "02:31"
+    },
+    {
+     "name": "ルネサスエレクトロニクス",
+     "ticker": "6723",
+     "stance": "bearish",
+     "timestamp": "07:43"
+    },
+    {
+     "name": "村田製作所",
+     "ticker": "6981",
+     "stance": "bearish",
+     "timestamp": "09:00"
+    },
+    {
+     "name": "キーエンス",
+     "ticker": "6861",
+     "stance": "bearish",
+     "timestamp": "17:28"
+    },
+    {
+     "name": "キヤノン",
+     "ticker": "7751",
+     "stance": "bullish",
+     "timestamp": "34:59"
+    },
+    {
+     "name": "ソニーグループ",
+     "ticker": "6758",
+     "stance": "bullish",
+     "timestamp": "35:20"
+    },
+    {
+     "name": "コナミグループ",
+     "ticker": "9766",
+     "stance": "bullish",
+     "timestamp": "44:13"
+    },
+    {
+     "name": "武田薬品工業",
+     "ticker": "4502",
+     "stance": "bullish",
+     "timestamp": "50:43"
+    }
+   ]
+  },
   {
    "video_id": "efmC7xLZBeQ",
    "title": "11/20【日本株追証多発ヤバい‼半導体株大暴落】キオクシア急落助からない⁉日経平均暴落。ドル円159円、アンソロピック上場で米国株、ナスダック、ハイテク株暴落。仮想通貨BTC急落",
@@ -148,92 +270,6 @@
      "ticker": "285A",
      "stance": "neutral",
      "timestamp": "10:32"
-    }
-   ]
-  },
-  {
-   "video_id": "qdL4mHOhBwk",
-   "title": "暴落ザラ場らいぶ　11/20",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-11-20T06:34:56+00:00",
-   "overview": "悪材料が重なる非常に厳しい相場環境の中でザラバ配信を行い、現在の相場見通しと個別銘柄への対応を解説した動画です。相場全体で買い手が不在であり、中長期的な下落トレンドに入っていると判断して無理な仕込みは避け現金比率を高める戦略を提示しています。保険株などの底堅い銘柄に言及しつつ、ソフトバンクグループの損切り報告やキオクシア、三菱商事の見通しを語っています。",
-   "market_view": "複数の悪材料や規制懸念が重なり、相場全体は下落トレンドに入っているため、無闇な仕込みは避けて現金比率を高めて様子見するべき相場です。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "インフロニア・ホールディングス",
-     "ticker": "5076",
-     "stance": "bearish",
-     "timestamp": "02:46"
-    },
-    {
-     "name": "東京海上ホールディングス",
-     "ticker": "8766",
-     "stance": "bullish",
-     "timestamp": "07:46"
-    },
-    {
-     "name": "ソフトバンクグループ",
-     "ticker": "9984",
-     "stance": "bearish",
-     "timestamp": "28:51"
-    },
-    {
-     "name": "キオクシアホールディングス",
-     "ticker": "285A",
-     "stance": "neutral",
-     "timestamp": "24:04"
-    },
-    {
-     "name": "三菱商事",
-     "ticker": "8058",
-     "stance": "neutral",
-     "timestamp": "25:38"
-    }
-   ]
-  },
-  {
-   "video_id": "Kt5UqQW7tZo",
-   "title": "11/20【日本株追証多発ヤバい‼半導体株大暴落】キオクシア急落助からない⁉日経平均暴落。ドル円159円、アンソロピック上場で米国株、ナスダック、ハイテク株暴落。仮想通貨BTC急落",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-11-20T02:12:33+00:00",
-   "overview": "日経平均および半導体株の急落を受け、現在の相場が業績ではなく需給主導で動いていると解説。年末に向けて信用買いの捕まりや追証発生に伴う投げ売りが懸念され、需給の悪い半導体・ハイテク株は下落が続く「年末安コース」に入ったと分析している。一方で、移動平均線のゴールデンクロスなど条件を満たした需給の良い出遅れバリュー株との二極化が進行すると見込み、安易な逆張りや信用ナンピン買いを控えるよう警鐘を鳴らしている。",
-   "market_view": "米国株急落や追証発生による負のスパイラルで全面安の様相だが、年末にかけては需給が良い銘柄と悪い銘柄の二極化相場が進む見通し。",
-   "market": "MIX",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "キオクシア",
-     "ticker": "285A",
-     "stance": "bearish",
-     "timestamp": "04:28"
-    },
-    {
-     "name": "アドバンテスト",
-     "ticker": "6857",
-     "stance": "bearish",
-     "timestamp": "04:34"
-    },
-    {
-     "name": "フジクラ",
-     "ticker": "5803",
-     "stance": "bearish",
-     "timestamp": "04:48"
-    },
-    {
-     "name": "AMD",
-     "ticker": "AMD",
-     "stance": "bearish",
-     "timestamp": "12:08"
     }
    ]
   },
