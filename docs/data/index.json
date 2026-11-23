@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T13:15:29.162633+09:00",
+ "generated_at": "2026-11-23T14:07:47.690496+09:00",
  "channels": [
   {
    "id": "UCsaeHha7ai_NNX8or8Jyb-g",
@@ -7,7 +7,7 @@
    "short": "TL",
    "slot": 1,
    "video_count": 2,
-   "latest": "2026-11-20T12:26:56+00:00"
+   "latest": "2026-11-22T12:00:37+00:00"
   },
   {
    "id": "UCdQdRRLoajrt-5TEaAxslxA",
@@ -23,7 +23,7 @@
    "short": "Sho",
    "slot": 3,
    "video_count": 2,
-   "latest": "2026-11-22T14:11:06+00:00"
+   "latest": "2026-11-23T04:16:59+00:00"
   },
   {
    "id": "UCt7qqCkTFFRfKjXzwqUXq4g",
@@ -35,161 +35,14 @@
   }
  ],
  "stats": {
-  "stocks": 51,
-  "videos": 8,
-  "videos_this_week": 6,
-  "bullish_lead": 18,
+  "stocks": 48,
+  "videos": 7,
+  "videos_this_week": 5,
+  "bullish_lead": 16,
   "split": 0,
-  "skipped": 0
+  "skipped": 1
  },
  "stocks": [
-  {
-   "key": "JP:6758",
-   "name": "ソニーグループ",
-   "name_en": "Sony Group Corporation",
-   "ticker": "6758",
-   "market": "JP",
-   "mentions": [
-    {
-     "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-     "channel_name": "トレーダーTOMO",
-     "channel_short": "TOMO",
-     "slot": 2,
-     "video_id": "o-MYA-vuI9o",
-     "video_title": "連休明けの注目銘柄を見ていく！（キオクシア・アドバンテスト・太陽誘電・ベイカレント・トレンドマイクロ・バンダイナムコなど）株式テクニカルチャート分析",
-     "published": "2026-11-22T23:00:19+00:00",
-     "stance": "bullish",
-     "stance_note": "過熱感なく高値圏揉み合いで順調に推移",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "過熱感がない状態で高値圏レンジを形成しており着実にポジションを切り上げているため。"
-     ],
-     "timestamp": "06:54",
-     "seconds": 414,
-     "confidence": "low"
-    },
-    {
-     "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-     "channel_name": "Sho's投資情報局",
-     "channel_short": "Sho",
-     "slot": 3,
-     "video_id": "3JfckzFPdmY",
-     "video_title": "11/22【日本株危機的状況‼半導体株大暴落で追証の嵐。日経平均急落ヤバいぞ‼】キオクシア急落助からない⁉ドル円158円。米国株、ナスダック、ハイテク株崩壊。仮想通貨BTC急落",
-     "published": "2026-11-22T05:09:38+00:00",
-     "stance": "bullish",
-     "stance_note": "需給改善とGC形成で上目線継続",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "200日移動平均線と長期移動平均線がゴールデンクロスを形成しているため。",
-      "信用需給の改善が着実に進んでおり、全体の地合いが悪化する中でも上値を狙える形状であるため。"
-     ],
-     "timestamp": "35:20",
-     "seconds": 2120,
-     "confidence": "medium"
-    },
-    {
-     "channel_id": "UCt7qqCkTFFRfKjXzwqUXq4g",
-     "channel_name": "ぺこ株",
-     "channel_short": "ぺこ",
-     "slot": 4,
-     "video_id": "SSwJaMHu9Kc",
-     "video_title": "今週（11/9〜）現状報告と展望を語る回",
-     "published": "2026-11-08T11:00:04+00:00",
-     "stance": "bullish",
-     "stance_note": "長期の大本命として追加購入",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "長期保有における投稿者の大本命銘柄であり確定利益の資金の一部を充当して買い増しを実施しているため。"
-     ],
-     "timestamp": "06:27",
-     "seconds": 387,
-     "confidence": "medium"
-    }
-   ],
-   "consensus": {
-    "bullish": 3,
-    "bearish": 0,
-    "neutral": 0
-   },
-   "voices": 3,
-   "split": false,
-   "last_mentioned": "2026-11-22T23:00:19+00:00",
-   "channel_ids": [
-    "UCK9Pl6bbWqMC_x7IDca2tIg",
-    "UCdQdRRLoajrt-5TEaAxslxA",
-    "UCt7qqCkTFFRfKjXzwqUXq4g"
-   ],
-   "price": {
-    "date": "2026-11-20",
-    "close": 4312.0,
-    "change_pct": -1.21,
-    "live": null,
-    "live_change_pct": null,
-    "live_time": null,
-    "volume": 22040400,
-    "volume_ratio": 1.12,
-    "rsi14": 61.2,
-    "rsi_zone": "中立",
-    "ma25": 4131.76,
-    "ma75": 3887.16,
-    "trend": "上昇基調",
-    "pos52": 82,
-    "spark": [
-     3663.0,
-     3710.0,
-     3680.0,
-     3732.0,
-     3759.0,
-     3787.0,
-     3753.0,
-     3723.0,
-     3768.0,
-     3743.0,
-     3706.0,
-     3814.0,
-     3814.0,
-     3859.0,
-     3884.0,
-     3959.0,
-     3960.0,
-     3960.0,
-     4012.0,
-     4081.0,
-     4137.0,
-     4135.0,
-     4070.0,
-     3957.0,
-     3936.0,
-     3958.0,
-     3966.0,
-     3933.0,
-     4211.0,
-     4142.0,
-     4297.0,
-     4237.0,
-     4200.0,
-     4281.0,
-     4353.0,
-     4320.0,
-     4271.0,
-     4241.0,
-     4365.0,
-     4312.0
-    ],
-    "currency": "JPY",
-    "exchange_name": "Tokyo",
-    "market_open": false,
-    "symbol": "6758.T",
-    "source": "yahoo",
-    "fetched_at": "2026-11-23T04:15:29.378395+00:00"
-   }
-  },
   {
    "key": "JP:285A",
    "name": "キオクシアホールディングス",
@@ -258,27 +111,6 @@
      ],
      "timestamp": "32:51",
      "seconds": 1971,
-     "confidence": "medium"
-    },
-    {
-     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-     "channel_name": "Trader's Lab",
-     "channel_short": "TL",
-     "slot": 1,
-     "video_id": "3sLT9VyGSC4",
-     "video_title": "【日経平均】NVIDIA決算通過 重要シグナル点灯 下落に備えろ  サンディスク・キオクシア・アドバンテスト・イビデン・古河電気・フジクラ",
-     "published": "2026-11-18T11:39:11+00:00",
-     "stance": "bearish",
-     "stance_note": "安値更新が続き高値掴み玉の重さが残る",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "本日も安値を更新して高値安値切り下げの下落チャートパターンが確定した点。",
-      "過去半年間の高値掴みホルダーによる損切りや投げ売りの解消が終わっていない点。"
-     ],
-     "timestamp": "35:55",
-     "seconds": 2155,
      "confidence": "medium"
     },
     {
@@ -378,7 +210,132 @@
     "market_open": false,
     "symbol": "285A.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T04:15:29.378395+00:00"
+    "fetched_at": "2026-11-23T05:07:47.758851+00:00"
+   }
+  },
+  {
+   "key": "JP:6758",
+   "name": "ソニーグループ",
+   "name_en": "Sony Group Corporation",
+   "ticker": "6758",
+   "market": "JP",
+   "mentions": [
+    {
+     "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+     "channel_name": "トレーダーTOMO",
+     "channel_short": "TOMO",
+     "slot": 2,
+     "video_id": "o-MYA-vuI9o",
+     "video_title": "連休明けの注目銘柄を見ていく！（キオクシア・アドバンテスト・太陽誘電・ベイカレント・トレンドマイクロ・バンダイナムコなど）株式テクニカルチャート分析",
+     "published": "2026-11-22T23:00:19+00:00",
+     "stance": "bullish",
+     "stance_note": "過熱感なく高値圏揉み合いで順調に推移",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "過熱感がない状態で高値圏レンジを形成しており着実にポジションを切り上げているため。"
+     ],
+     "timestamp": "06:54",
+     "seconds": 414,
+     "confidence": "low"
+    },
+    {
+     "channel_id": "UCt7qqCkTFFRfKjXzwqUXq4g",
+     "channel_name": "ぺこ株",
+     "channel_short": "ぺこ",
+     "slot": 4,
+     "video_id": "SSwJaMHu9Kc",
+     "video_title": "今週（11/9〜）現状報告と展望を語る回",
+     "published": "2026-11-08T11:00:04+00:00",
+     "stance": "bullish",
+     "stance_note": "長期の大本命として追加購入",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "長期保有における投稿者の大本命銘柄であり確定利益の資金の一部を充当して買い増しを実施しているため。"
+     ],
+     "timestamp": "06:27",
+     "seconds": 387,
+     "confidence": "medium"
+    }
+   ],
+   "consensus": {
+    "bullish": 2,
+    "bearish": 0,
+    "neutral": 0
+   },
+   "voices": 2,
+   "split": false,
+   "last_mentioned": "2026-11-22T23:00:19+00:00",
+   "channel_ids": [
+    "UCdQdRRLoajrt-5TEaAxslxA",
+    "UCt7qqCkTFFRfKjXzwqUXq4g"
+   ],
+   "price": {
+    "date": "2026-11-20",
+    "close": 4312.0,
+    "change_pct": -1.21,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 22040400,
+    "volume_ratio": 1.12,
+    "rsi14": 61.2,
+    "rsi_zone": "中立",
+    "ma25": 4131.76,
+    "ma75": 3887.16,
+    "trend": "上昇基調",
+    "pos52": 82,
+    "spark": [
+     3663.0,
+     3710.0,
+     3680.0,
+     3732.0,
+     3759.0,
+     3787.0,
+     3753.0,
+     3723.0,
+     3768.0,
+     3743.0,
+     3706.0,
+     3814.0,
+     3814.0,
+     3859.0,
+     3884.0,
+     3959.0,
+     3960.0,
+     3960.0,
+     4012.0,
+     4081.0,
+     4137.0,
+     4135.0,
+     4070.0,
+     3957.0,
+     3936.0,
+     3958.0,
+     3966.0,
+     3933.0,
+     4211.0,
+     4142.0,
+     4297.0,
+     4237.0,
+     4200.0,
+     4281.0,
+     4353.0,
+     4320.0,
+     4271.0,
+     4241.0,
+     4365.0,
+     4312.0
+    ],
+    "currency": "JPY",
+    "exchange_name": "Tokyo",
+    "market_open": false,
+    "symbol": "6758.T",
+    "source": "yahoo",
+    "fetched_at": "2026-11-23T05:07:47.758851+00:00"
    }
   },
   {
@@ -429,27 +386,6 @@
      "timestamp": "34:44",
      "seconds": 2084,
      "confidence": "high"
-    },
-    {
-     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-     "channel_name": "Trader's Lab",
-     "channel_short": "TL",
-     "slot": 1,
-     "video_id": "3sLT9VyGSC4",
-     "video_title": "【日経平均】NVIDIA決算通過 重要シグナル点灯 下落に備えろ  サンディスク・キオクシア・アドバンテスト・イビデン・古河電気・フジクラ",
-     "published": "2026-11-18T11:39:11+00:00",
-     "stance": "neutral",
-     "stance_note": "指数より堅調も短期的な上値重い",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "他銘柄より相対的に堅調で長期上昇を保つものの25日線下回りで上値が重い点。",
-      "6日安値を割り込むと3月安値である2万円付近まで大幅調整するリスクがある点。"
-     ],
-     "timestamp": "39:20",
-     "seconds": 2360,
-     "confidence": "medium"
     }
    ],
    "consensus": {
@@ -526,7 +462,7 @@
     "market_open": false,
     "symbol": "6857.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T04:15:29.378395+00:00"
+    "fetched_at": "2026-11-23T05:07:47.758851+00:00"
    }
   },
   {
@@ -652,134 +588,7 @@
     "market_open": false,
     "symbol": "7011.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T04:15:29.378395+00:00"
-   }
-  },
-  {
-   "key": "JP:4502",
-   "name": "武田薬品工業",
-   "name_en": "Takeda Pharmaceutical Company Limited",
-   "ticker": "4502",
-   "market": "JP",
-   "mentions": [
-    {
-     "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-     "channel_name": "トレーダーTOMO",
-     "channel_short": "TOMO",
-     "slot": 2,
-     "video_id": "C6swYyaY7h4",
-     "video_title": "来週の相場に備えて！　日本株チャート分析LIVE　11/22",
-     "published": "2026-11-22T07:09:22+00:00",
-     "stance": "bullish",
-     "stance_note": "パイプライン豊富で強気継続",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "新薬のパイプラインが豊富に控えており今後の業績成長期待から評価が高いため。",
-      "今後の新薬成長によりバリュエーション向上が期待でき押し目買いが有効なため。"
-     ],
-     "timestamp": "54:32",
-     "seconds": 3272,
-     "confidence": "medium"
-    },
-    {
-     "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-     "channel_name": "Sho's投資情報局",
-     "channel_short": "Sho",
-     "slot": 3,
-     "video_id": "3JfckzFPdmY",
-     "video_title": "11/22【日本株危機的状況‼半導体株大暴落で追証の嵐。日経平均急落ヤバいぞ‼】キオクシア急落助からない⁉ドル円158円。米国株、ナスダック、ハイテク株崩壊。仮想通貨BTC急落",
-     "published": "2026-11-22T05:09:38+00:00",
-     "stance": "bullish",
-     "stance_note": "上昇基調を強め上値抵抗線を試す展開",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "地合いの悪化に影響されず買いが優勢であり、チャート形状が良好な上昇を示しているため。",
-      "7066円から7500円付近に位置する重要な抵抗ラインに向けた更なる上昇が期待できるため。"
-     ],
-     "timestamp": "50:43",
-     "seconds": 3043,
-     "confidence": "medium"
-    }
-   ],
-   "consensus": {
-    "bullish": 2,
-    "bearish": 0,
-    "neutral": 0
-   },
-   "voices": 2,
-   "split": false,
-   "last_mentioned": "2026-11-22T07:09:22+00:00",
-   "channel_ids": [
-    "UCK9Pl6bbWqMC_x7IDca2tIg",
-    "UCdQdRRLoajrt-5TEaAxslxA"
-   ],
-   "price": {
-    "date": "2026-11-20",
-    "close": 6973.0,
-    "change_pct": 0.33,
-    "live": null,
-    "live_change_pct": null,
-    "live_time": null,
-    "volume": 7665500,
-    "volume_ratio": 1.55,
-    "rsi14": 67.7,
-    "rsi_zone": "中立",
-    "ma25": 6606.0,
-    "ma75": 6026.23,
-    "trend": "上昇基調",
-    "pos52": 100,
-    "spark": [
-     5885.0,
-     5969.0,
-     5930.0,
-     5739.0,
-     5780.0,
-     5731.0,
-     5643.0,
-     5639.0,
-     5719.0,
-     5766.0,
-     5816.0,
-     5843.0,
-     5963.0,
-     5889.0,
-     6183.0,
-     6223.0,
-     6244.0,
-     6310.0,
-     6315.0,
-     6348.0,
-     6389.0,
-     6452.0,
-     6407.0,
-     6307.0,
-     6471.0,
-     6651.0,
-     6647.0,
-     6588.0,
-     6888.0,
-     6560.0,
-     6673.0,
-     6593.0,
-     6673.0,
-     6825.0,
-     6926.0,
-     6937.0,
-     6931.0,
-     6869.0,
-     6950.0,
-     6973.0
-    ],
-    "currency": "JPY",
-    "exchange_name": "Tokyo",
-    "market_open": false,
-    "symbol": "4502.T",
-    "source": "yahoo",
-    "fetched_at": "2026-11-23T04:15:29.378395+00:00"
+    "fetched_at": "2026-11-23T05:07:47.758851+00:00"
    }
   },
   {
@@ -905,7 +714,7 @@
     "market_open": false,
     "symbol": "6532.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T04:15:29.378395+00:00"
+    "fetched_at": "2026-11-23T05:07:47.758851+00:00"
    }
   },
   {
@@ -1010,7 +819,7 @@
     "market_open": false,
     "symbol": "4704.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T04:15:29.378395+00:00"
+    "fetched_at": "2026-11-23T05:07:47.758851+00:00"
    }
   },
   {
@@ -1115,7 +924,7 @@
     "market_open": false,
     "symbol": "4307.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T04:15:29.378395+00:00"
+    "fetched_at": "2026-11-23T05:07:47.758851+00:00"
    }
   },
   {
@@ -1220,7 +1029,7 @@
     "market_open": false,
     "symbol": "6701.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T04:15:29.378395+00:00"
+    "fetched_at": "2026-11-23T05:07:47.758851+00:00"
    }
   },
   {
@@ -1324,7 +1133,7 @@
     "market_open": false,
     "symbol": "2331.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T04:15:29.378395+00:00"
+    "fetched_at": "2026-11-23T05:07:47.758851+00:00"
    }
   },
   {
@@ -1428,7 +1237,7 @@
     "market_open": false,
     "symbol": "9735.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T04:15:29.378395+00:00"
+    "fetched_at": "2026-11-23T05:07:47.758851+00:00"
    }
   },
   {
@@ -1533,7 +1342,7 @@
     "market_open": false,
     "symbol": "9843.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T04:15:29.378395+00:00"
+    "fetched_at": "2026-11-23T05:07:47.758851+00:00"
    }
   },
   {
@@ -1638,7 +1447,7 @@
     "market_open": false,
     "symbol": "9983.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T04:15:29.378395+00:00"
+    "fetched_at": "2026-11-23T05:07:47.758851+00:00"
    }
   },
   {
@@ -1742,7 +1551,7 @@
     "market_open": false,
     "symbol": "7832.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T04:15:29.378395+00:00"
+    "fetched_at": "2026-11-23T05:07:47.758851+00:00"
    }
   },
   {
@@ -1846,7 +1655,7 @@
     "market_open": false,
     "symbol": "7974.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T04:15:29.378395+00:00"
+    "fetched_at": "2026-11-23T05:07:47.758851+00:00"
    }
   },
   {
@@ -1950,7 +1759,7 @@
     "market_open": false,
     "symbol": "9697.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T04:15:29.378395+00:00"
+    "fetched_at": "2026-11-23T05:07:47.758851+00:00"
    }
   },
   {
@@ -2095,7 +1904,7 @@
     "market_open": false,
     "symbol": "6976.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T04:15:29.378395+00:00"
+    "fetched_at": "2026-11-23T05:07:47.758851+00:00"
    }
   },
   {
@@ -2200,7 +2009,7 @@
     "market_open": false,
     "symbol": "6302.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T04:15:29.378395+00:00"
+    "fetched_at": "2026-11-23T05:07:47.758851+00:00"
    }
   },
   {
@@ -2305,7 +2114,7 @@
     "market_open": false,
     "symbol": "6326.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T04:15:29.378395+00:00"
+    "fetched_at": "2026-11-23T05:07:47.758851+00:00"
    }
   },
   {
@@ -2410,7 +2219,7 @@
     "market_open": false,
     "symbol": "7013.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T04:15:29.378395+00:00"
+    "fetched_at": "2026-11-23T05:07:47.758851+00:00"
    }
   },
   {
@@ -2515,7 +2324,7 @@
     "market_open": false,
     "symbol": "6367.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T04:15:29.378395+00:00"
+    "fetched_at": "2026-11-23T05:07:47.758851+00:00"
    }
   },
   {
@@ -2620,7 +2429,7 @@
     "market_open": false,
     "symbol": "6501.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T04:15:29.378395+00:00"
+    "fetched_at": "2026-11-23T05:07:47.758851+00:00"
    }
   },
   {
@@ -2725,7 +2534,7 @@
     "market_open": false,
     "symbol": "7261.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T04:15:29.378395+00:00"
+    "fetched_at": "2026-11-23T05:07:47.758851+00:00"
    }
   },
   {
@@ -2830,7 +2639,363 @@
     "market_open": false,
     "symbol": "6098.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T04:15:29.378395+00:00"
+    "fetched_at": "2026-11-23T05:07:47.758851+00:00"
+   }
+  },
+  {
+   "key": "IDX:^N225",
+   "name": "日経平均",
+   "name_en": "Nikkei 225",
+   "ticker": "N225",
+   "market": "JP",
+   "mentions": [
+    {
+     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+     "channel_name": "Trader's Lab",
+     "channel_short": "TL",
+     "slot": 1,
+     "video_id": "t-aSjNwaz28",
+     "video_title": "緊急動画 AI半導体バブル崩壊 暴落巻き込まれた人は絶対見て",
+     "published": "2026-11-22T12:00:37+00:00",
+     "stance": "bearish",
+     "stance_note": "下落トレンド継続で5万円〜4万8000円への下落警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "11月6日の直近安値を明確に割り込んで売りサインが出ており、ダウ理論上も明確な下落トレンドが形成されている。",
+      "過去のPER12〜13倍の水準や暴落時の下落率30%超を考慮すると、5万円から4万8000円台までの下落が想定される。"
+     ],
+     "timestamp": "01:06",
+     "seconds": 66,
+     "confidence": "high"
+    }
+   ],
+   "consensus": {
+    "bullish": 0,
+    "bearish": 1,
+    "neutral": 0
+   },
+   "voices": 1,
+   "split": false,
+   "last_mentioned": "2026-11-22T12:00:37+00:00",
+   "channel_ids": [
+    "UCsaeHha7ai_NNX8or8Jyb-g"
+   ],
+   "price": {
+    "date": "2026-11-20",
+    "close": 56436.65,
+    "change_pct": -5.06,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 174600000,
+    "volume_ratio": 0.96,
+    "rsi14": 31.3,
+    "rsi_zone": "中立",
+    "ma25": 61662.26,
+    "ma75": 64737.93,
+    "trend": "下降基調",
+    "pos52": 33,
+    "spark": [
+     65513.99,
+     66364.2,
+     65877.62,
+     65481.27,
+     66753.72,
+     68956.72,
+     68309.46,
+     69946.86,
+     70683.98,
+     70035.71,
+     69042.11,
+     69030.92,
+     67777.52,
+     67744.29,
+     64425.95,
+     65324.29,
+     64916.7,
+     64075.42,
+     64621.24,
+     62907.84,
+     62693.16,
+     62189.65,
+     63268.37,
+     63954.19,
+     64659.47,
+     63290.11,
+     63081.86,
+     62188.63,
+     61077.9,
+     57434.77,
+     58775.5,
+     60459.58,
+     61248.59,
+     60819.36,
+     61142.35,
+     59662.02,
+     58860.43,
+     59024.28,
+     59444.21,
+     56436.65
+    ],
+    "currency": "JPY",
+    "exchange_name": "Osaka",
+    "market_open": false,
+    "symbol": "^N225",
+    "source": "yahoo",
+    "fetched_at": "2026-11-23T05:07:47.758851+00:00"
+   }
+  },
+  {
+   "key": "IDX:^NDX",
+   "name": "NASDAQ100",
+   "name_en": "NASDAQ 100",
+   "ticker": "NDX",
+   "market": "US",
+   "mentions": [
+    {
+     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+     "channel_name": "Trader's Lab",
+     "channel_short": "TL",
+     "slot": 1,
+     "video_id": "t-aSjNwaz28",
+     "video_title": "緊急動画 AI半導体バブル崩壊 暴落巻き込まれた人は絶対見て",
+     "published": "2026-11-22T12:00:37+00:00",
+     "stance": "bearish",
+     "stance_note": "過去の高値水準である2万2000pt付近への調整警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "完税ショックからの大幅な上昇に対する反動が生じており、ダウ理論に基づく下落調整局面に入っている。",
+      "過去の暴落局面では前回の戻り高値付近まで調整する傾向があり、2万2000ポイント付近までの下落が意識される。"
+     ],
+     "timestamp": "19:07",
+     "seconds": 1147,
+     "confidence": "high"
+    }
+   ],
+   "consensus": {
+    "bullish": 0,
+    "bearish": 1,
+    "neutral": 0
+   },
+   "voices": 1,
+   "split": false,
+   "last_mentioned": "2026-11-22T12:00:37+00:00",
+   "channel_ids": [
+    "UCsaeHha7ai_NNX8or8Jyb-g"
+   ],
+   "price": {
+    "date": "2026-11-20",
+    "close": 25028.98,
+    "change_pct": -5.61,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 12469600000,
+    "volume_ratio": 1.37,
+    "rsi14": 26.5,
+    "rsi_zone": "売られすぎ",
+    "ma25": 28185.1,
+    "ma75": 29307.03,
+    "trend": "下降基調",
+    "pos52": 25,
+    "spark": [
+     30276.81,
+     30339.33,
+     30408.5,
+     30501.56,
+     30807.93,
+     31076.44,
+     31224.47,
+     31160.08,
+     30725.81,
+     30883.15,
+     30664.7,
+     30569.48,
+     29950.82,
+     29935.6,
+     29187.55,
+     29529.35,
+     29490.28,
+     29822.52,
+     28958.69,
+     28957.53,
+     29273.4,
+     29651.44,
+     29813.16,
+     29402.51,
+     28384.85,
+     27989.82,
+     28180.26,
+     28437.17,
+     26629.81,
+     26989.99,
+     27907.63,
+     27740.79,
+     28374.25,
+     28289.19,
+     27943.74,
+     27197.15,
+     27001.78,
+     27116.26,
+     26517.05,
+     25028.98
+    ],
+    "currency": "USD",
+    "exchange_name": "Nasdaq GIDS",
+    "market_open": false,
+    "symbol": "^NDX",
+    "source": "yahoo",
+    "fetched_at": "2026-11-23T05:07:47.758851+00:00"
+   }
+  },
+  {
+   "key": "US:SOX",
+   "name": "SOX指数",
+   "name_en": "PHLX Semiconductor Index",
+   "ticker": "SOX",
+   "market": "US",
+   "mentions": [
+    {
+     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+     "channel_name": "Trader's Lab",
+     "channel_short": "TL",
+     "slot": 1,
+     "video_id": "t-aSjNwaz28",
+     "video_title": "緊急動画 AI半導体バブル崩壊 暴落巻き込まれた人は絶対見て",
+     "published": "2026-11-22T12:00:37+00:00",
+     "stance": "bearish",
+     "stance_note": "7月安値割れで6000〜5000pt台への下落リスク警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "日足チャートで7月の安値を割り込み、明確な高値・安値の切り下げによる下落トレンドが継続している。",
+      "長期の下値支持線や過去の利上げ相場の調整幅から、6000ポイント割れから5000ポイント台までの下落が想定される。"
+     ],
+     "timestamp": "31:22",
+     "seconds": 1882,
+     "confidence": "medium"
+    }
+   ],
+   "consensus": {
+    "bullish": 0,
+    "bearish": 1,
+    "neutral": 0
+   },
+   "voices": 1,
+   "split": false,
+   "last_mentioned": "2026-11-22T12:00:37+00:00",
+   "channel_ids": [
+    "UCsaeHha7ai_NNX8or8Jyb-g"
+   ]
+  },
+  {
+   "key": "IDX:^TOPX",
+   "name": "TOPIX",
+   "name_en": "TOPIX",
+   "ticker": "TOPX",
+   "market": "JP",
+   "mentions": [
+    {
+     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+     "channel_name": "Trader's Lab",
+     "channel_short": "TL",
+     "slot": 1,
+     "video_id": "t-aSjNwaz28",
+     "video_title": "緊急動画 AI半導体バブル崩壊 暴落巻き込まれた人は絶対見て",
+     "published": "2026-11-22T12:00:37+00:00",
+     "stance": "bearish",
+     "stance_note": "大陰線形成で3月安値3419ptを目指す展開を警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "月足チャートで大きな陰線を形成しており、長期の上昇トレンドが終了して深めの調整に入る可能性が高まっている。",
+      "明確な下値支持線が乏しいため、今年3月につけた安値である3419ポイント付近を目指す下落シナリオが懸念される。"
+     ],
+     "timestamp": "26:22",
+     "seconds": 1582,
+     "confidence": "medium"
+    }
+   ],
+   "consensus": {
+    "bullish": 0,
+    "bearish": 1,
+    "neutral": 0
+   },
+   "voices": 1,
+   "split": false,
+   "last_mentioned": "2026-11-22T12:00:37+00:00",
+   "channel_ids": [
+    "UCsaeHha7ai_NNX8or8Jyb-g"
+   ],
+   "price": {
+    "date": "2026-11-20",
+    "close": 386.2,
+    "change_pct": -3.98,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 39389070,
+    "volume_ratio": 1.75,
+    "rsi14": 31.2,
+    "rsi_zone": "中立",
+    "ma25": 413.19,
+    "ma75": 422.64,
+    "trend": "下降基調",
+    "pos52": 87,
+    "spark": [
+     424.8,
+     430.3,
+     428.2,
+     425.4,
+     431.5,
+     434.4,
+     430.2,
+     436.3,
+     440.4,
+     437.0,
+     429.5,
+     432.5,
+     432.5,
+     431.3,
+     421.0,
+     428.4,
+     427.1,
+     421.8,
+     425.6,
+     420.6,
+     416.3,
+     418.4,
+     420.6,
+     420.0,
+     421.3,
+     416.4,
+     413.0,
+     414.0,
+     415.6,
+     388.6,
+     402.1,
+     410.5,
+     413.9,
+     414.3,
+     415.5,
+     410.9,
+     404.5,
+     401.9,
+     402.2,
+     386.2
+    ],
+    "currency": "JPY",
+    "exchange_name": "Tokyo",
+    "market_open": false,
+    "symbol": "1306.T",
+    "source": "yahoo",
+    "fetched_at": "2026-11-23T05:07:47.758851+00:00"
    }
   },
   {
@@ -2935,7 +3100,7 @@
     "market_open": false,
     "symbol": "7936.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T04:15:29.378395+00:00"
+    "fetched_at": "2026-11-23T05:07:47.758851+00:00"
    }
   },
   {
@@ -3040,7 +3205,7 @@
     "market_open": false,
     "symbol": "6869.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T04:15:29.378395+00:00"
+    "fetched_at": "2026-11-23T05:07:47.758851+00:00"
    }
   },
   {
@@ -3145,7 +3310,112 @@
     "market_open": false,
     "symbol": "8035.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T04:15:29.378395+00:00"
+    "fetched_at": "2026-11-23T05:07:47.758851+00:00"
+   }
+  },
+  {
+   "key": "JP:4502",
+   "name": "武田薬品工業",
+   "name_en": "Takeda Pharmaceutical Company Limited",
+   "ticker": "4502",
+   "market": "JP",
+   "mentions": [
+    {
+     "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+     "channel_name": "トレーダーTOMO",
+     "channel_short": "TOMO",
+     "slot": 2,
+     "video_id": "C6swYyaY7h4",
+     "video_title": "来週の相場に備えて！　日本株チャート分析LIVE　11/22",
+     "published": "2026-11-22T07:09:22+00:00",
+     "stance": "bullish",
+     "stance_note": "パイプライン豊富で強気継続",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "新薬のパイプラインが豊富に控えており今後の業績成長期待から評価が高いため。",
+      "今後の新薬成長によりバリュエーション向上が期待でき押し目買いが有効なため。"
+     ],
+     "timestamp": "54:32",
+     "seconds": 3272,
+     "confidence": "medium"
+    }
+   ],
+   "consensus": {
+    "bullish": 1,
+    "bearish": 0,
+    "neutral": 0
+   },
+   "voices": 1,
+   "split": false,
+   "last_mentioned": "2026-11-22T07:09:22+00:00",
+   "channel_ids": [
+    "UCdQdRRLoajrt-5TEaAxslxA"
+   ],
+   "price": {
+    "date": "2026-11-20",
+    "close": 6973.0,
+    "change_pct": 0.33,
+    "live": null,
+    "live_change_pct": null,
+    "live_time": null,
+    "volume": 7665500,
+    "volume_ratio": 1.55,
+    "rsi14": 67.7,
+    "rsi_zone": "中立",
+    "ma25": 6606.0,
+    "ma75": 6026.23,
+    "trend": "上昇基調",
+    "pos52": 100,
+    "spark": [
+     5885.0,
+     5969.0,
+     5930.0,
+     5739.0,
+     5780.0,
+     5731.0,
+     5643.0,
+     5639.0,
+     5719.0,
+     5766.0,
+     5816.0,
+     5843.0,
+     5963.0,
+     5889.0,
+     6183.0,
+     6223.0,
+     6244.0,
+     6310.0,
+     6315.0,
+     6348.0,
+     6389.0,
+     6452.0,
+     6407.0,
+     6307.0,
+     6471.0,
+     6651.0,
+     6647.0,
+     6588.0,
+     6888.0,
+     6560.0,
+     6673.0,
+     6593.0,
+     6673.0,
+     6825.0,
+     6926.0,
+     6937.0,
+     6931.0,
+     6869.0,
+     6950.0,
+     6973.0
+    ],
+    "currency": "JPY",
+    "exchange_name": "Tokyo",
+    "market_open": false,
+    "symbol": "4502.T",
+    "source": "yahoo",
+    "fetched_at": "2026-11-23T05:07:47.758851+00:00"
    }
   },
   {
@@ -3250,637 +3520,7 @@
     "market_open": false,
     "symbol": "8136.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T04:15:29.378395+00:00"
-   }
-  },
-  {
-   "key": "IDX:^N225",
-   "name": "日経平均",
-   "name_en": "Nikkei 225",
-   "ticker": "N225",
-   "market": "JP",
-   "mentions": [
-    {
-     "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-     "channel_name": "Sho's投資情報局",
-     "channel_short": "Sho",
-     "slot": 3,
-     "video_id": "3JfckzFPdmY",
-     "video_title": "11/22【日本株危機的状況‼半導体株大暴落で追証の嵐。日経平均急落ヤバいぞ‼】キオクシア急落助からない⁉ドル円158円。米国株、ナスダック、ハイテク株崩壊。仮想通貨BTC急落",
-     "published": "2026-11-22T05:09:38+00:00",
-     "stance": "bearish",
-     "stance_note": "年末にかけて慎重姿勢、来年向け仕込み場",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "先物安や移動平均線のデッドクロス形成により年末にかけて弱い展開が想定されるため。",
-      "目先の短期反発狙いではなく、来年以降に向けた安値での中長期仕込み場として捉えるべきため。"
-     ],
-     "timestamp": "02:31",
-     "seconds": 151,
-     "confidence": "high"
-    }
-   ],
-   "consensus": {
-    "bullish": 0,
-    "bearish": 1,
-    "neutral": 0
-   },
-   "voices": 1,
-   "split": false,
-   "last_mentioned": "2026-11-22T05:09:38+00:00",
-   "channel_ids": [
-    "UCK9Pl6bbWqMC_x7IDca2tIg"
-   ],
-   "price": {
-    "date": "2026-11-20",
-    "close": 56436.65,
-    "change_pct": -5.06,
-    "live": null,
-    "live_change_pct": null,
-    "live_time": null,
-    "volume": 174600000,
-    "volume_ratio": 0.96,
-    "rsi14": 31.3,
-    "rsi_zone": "中立",
-    "ma25": 61662.26,
-    "ma75": 64737.93,
-    "trend": "下降基調",
-    "pos52": 33,
-    "spark": [
-     65513.99,
-     66364.2,
-     65877.62,
-     65481.27,
-     66753.72,
-     68956.72,
-     68309.46,
-     69946.86,
-     70683.98,
-     70035.71,
-     69042.11,
-     69030.92,
-     67777.52,
-     67744.29,
-     64425.95,
-     65324.29,
-     64916.7,
-     64075.42,
-     64621.24,
-     62907.84,
-     62693.16,
-     62189.65,
-     63268.37,
-     63954.19,
-     64659.47,
-     63290.11,
-     63081.86,
-     62188.63,
-     61077.9,
-     57434.77,
-     58775.5,
-     60459.58,
-     61248.59,
-     60819.36,
-     61142.35,
-     59662.02,
-     58860.43,
-     59024.28,
-     59444.21,
-     56436.65
-    ],
-    "currency": "JPY",
-    "exchange_name": "Osaka",
-    "market_open": false,
-    "symbol": "^N225",
-    "source": "yahoo",
-    "fetched_at": "2026-11-23T04:15:29.378395+00:00"
-   }
-  },
-  {
-   "key": "JP:6723",
-   "name": "ルネサスエレクトロニクス",
-   "name_en": "Renesas Electronics Corporation",
-   "ticker": "6723",
-   "market": "JP",
-   "mentions": [
-    {
-     "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-     "channel_name": "Sho's投資情報局",
-     "channel_short": "Sho",
-     "slot": 3,
-     "video_id": "3JfckzFPdmY",
-     "video_title": "11/22【日本株危機的状況‼半導体株大暴落で追証の嵐。日経平均急落ヤバいぞ‼】キオクシア急落助からない⁉ドル円158円。米国株、ナスダック、ハイテク株崩壊。仮想通貨BTC急落",
-     "published": "2026-11-22T05:09:38+00:00",
-     "stance": "bearish",
-     "stance_note": "下落トレンド継続で1月以降も警戒",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "米国半導体株の暴落に連動しバンドウォークを形成して下落方向への動きが継続しているため。",
-      "7月高値の信用期日が1月に到来し、信用改ざんの整理が進まないと戻りが鈍いため。"
-     ],
-     "timestamp": "07:43",
-     "seconds": 463,
-     "confidence": "medium"
-    }
-   ],
-   "consensus": {
-    "bullish": 0,
-    "bearish": 1,
-    "neutral": 0
-   },
-   "voices": 1,
-   "split": false,
-   "last_mentioned": "2026-11-22T05:09:38+00:00",
-   "channel_ids": [
-    "UCK9Pl6bbWqMC_x7IDca2tIg"
-   ],
-   "price": {
-    "date": "2026-11-20",
-    "close": 2425.0,
-    "change_pct": -7.02,
-    "live": null,
-    "live_change_pct": null,
-    "live_time": null,
-    "volume": 11883100,
-    "volume_ratio": 0.78,
-    "rsi14": 33.1,
-    "rsi_zone": "中立",
-    "ma25": 2803.36,
-    "ma75": 3269.4,
-    "trend": "下降基調",
-    "pos52": 19,
-    "spark": [
-     3490.0,
-     3478.0,
-     3459.0,
-     3458.0,
-     3477.0,
-     3616.0,
-     3575.0,
-     3862.0,
-     3995.0,
-     3924.0,
-     3750.0,
-     3600.0,
-     3387.0,
-     3349.0,
-     3014.0,
-     3048.0,
-     3017.0,
-     2954.0,
-     3000.0,
-     2919.0,
-     2886.5,
-     2783.5,
-     2884.5,
-     3100.0,
-     2956.5,
-     2865.0,
-     2860.0,
-     2818.0,
-     2628.5,
-     2477.5,
-     2559.5,
-     2743.0,
-     2922.0,
-     2840.0,
-     2847.5,
-     2704.5,
-     2618.5,
-     2618.0,
-     2608.0,
-     2425.0
-    ],
-    "currency": "JPY",
-    "exchange_name": "Tokyo",
-    "market_open": false,
-    "symbol": "6723.T",
-    "source": "yahoo",
-    "fetched_at": "2026-11-23T04:15:29.378395+00:00"
-   }
-  },
-  {
-   "key": "JP:6981",
-   "name": "村田製作所",
-   "name_en": "Murata Manufacturing Co., Ltd.",
-   "ticker": "6981",
-   "market": "JP",
-   "mentions": [
-    {
-     "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-     "channel_name": "Sho's投資情報局",
-     "channel_short": "Sho",
-     "slot": 3,
-     "video_id": "3JfckzFPdmY",
-     "video_title": "11/22【日本株危機的状況‼半導体株大暴落で追証の嵐。日経平均急落ヤバいぞ‼】キオクシア急落助からない⁉ドル円158円。米国株、ナスダック、ハイテク株崩壊。仮想通貨BTC急落",
-     "published": "2026-11-22T05:09:38+00:00",
-     "stance": "bearish",
-     "stance_note": "10月高値期日の4月まで戻り売り警戒",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "移動平均線のデッドクロス形成が入る予定であり年末に向けてチャート形状が弱いため。",
-      "10月高値の信用期日が来年4月に到来するため、年明け後も戻り売り圧力に注意が必要なため。"
-     ],
-     "timestamp": "09:00",
-     "seconds": 540,
-     "confidence": "medium"
-    }
-   ],
-   "consensus": {
-    "bullish": 0,
-    "bearish": 1,
-    "neutral": 0
-   },
-   "voices": 1,
-   "split": false,
-   "last_mentioned": "2026-11-22T05:09:38+00:00",
-   "channel_ids": [
-    "UCK9Pl6bbWqMC_x7IDca2tIg"
-   ],
-   "price": {
-    "date": "2026-11-20",
-    "close": 4700.0,
-    "change_pct": -8.93,
-    "live": null,
-    "live_change_pct": null,
-    "live_time": null,
-    "volume": 22704300,
-    "volume_ratio": 0.9,
-    "rsi14": 31.8,
-    "rsi_zone": "中立",
-    "ma25": 5811.56,
-    "ma75": 7000.32,
-    "trend": "下降基調",
-    "pos52": 18,
-    "spark": [
-     7823.0,
-     8022.0,
-     8004.0,
-     8089.0,
-     7851.0,
-     8513.0,
-     8467.0,
-     8745.0,
-     8829.0,
-     8683.0,
-     8267.0,
-     7970.0,
-     7582.0,
-     7501.0,
-     6749.0,
-     6900.0,
-     6798.0,
-     6643.0,
-     6756.0,
-     6432.0,
-     6275.0,
-     6201.0,
-     6367.0,
-     6701.0,
-     6890.0,
-     6358.0,
-     6340.0,
-     6032.0,
-     5032.0,
-     4882.0,
-     4933.0,
-     5274.0,
-     5457.0,
-     5224.0,
-     5177.0,
-     4855.0,
-     4851.0,
-     5050.0,
-     5161.0,
-     4700.0
-    ],
-    "currency": "JPY",
-    "exchange_name": "Tokyo",
-    "market_open": false,
-    "symbol": "6981.T",
-    "source": "yahoo",
-    "fetched_at": "2026-11-23T04:15:29.378395+00:00"
-   }
-  },
-  {
-   "key": "JP:6861",
-   "name": "キーエンス",
-   "name_en": "Keyence Corporation",
-   "ticker": "6861",
-   "market": "JP",
-   "mentions": [
-    {
-     "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-     "channel_name": "Sho's投資情報局",
-     "channel_short": "Sho",
-     "slot": 3,
-     "video_id": "3JfckzFPdmY",
-     "video_title": "11/22【日本株危機的状況‼半導体株大暴落で追証の嵐。日経平均急落ヤバいぞ‼】キオクシア急落助からない⁉ドル円158円。米国株、ナスダック、ハイテク株崩壊。仮想通貨BTC急落",
-     "published": "2026-11-22T05:09:38+00:00",
-     "stance": "bearish",
-     "stance_note": "デッドクロス懸念と株式分割の悪影響",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "5日線と200日移動平均線のデッドクロス形成が確認されるまでは底打ち判断が難しいため。",
-      "株式分割が実施されたことで値かさ株としての魅力が薄れ需給面でマイナスに作用しているため。"
-     ],
-     "timestamp": "17:28",
-     "seconds": 1048,
-     "confidence": "medium"
-    }
-   ],
-   "consensus": {
-    "bullish": 0,
-    "bearish": 1,
-    "neutral": 0
-   },
-   "voices": 1,
-   "split": false,
-   "last_mentioned": "2026-11-22T05:09:38+00:00",
-   "channel_ids": [
-    "UCK9Pl6bbWqMC_x7IDca2tIg"
-   ],
-   "price": {
-    "date": "2026-11-20",
-    "close": 14025.0,
-    "change_pct": -4.53,
-    "live": null,
-    "live_change_pct": null,
-    "live_time": null,
-    "volume": 2824000,
-    "volume_ratio": 0.79,
-    "rsi14": 35.5,
-    "rsi_zone": "中立",
-    "ma25": 15203.08,
-    "ma75": 15828.97,
-    "trend": "下降基調",
-    "pos52": 50,
-    "spark": [
-     15454.0,
-     15920.0,
-     15700.0,
-     15896.0,
-     16096.0,
-     16240.0,
-     16054.0,
-     16336.0,
-     16298.0,
-     16312.0,
-     16000.0,
-     16108.0,
-     15954.0,
-     16066.0,
-     15794.0,
-     16152.0,
-     16282.0,
-     16182.0,
-     16172.0,
-     16072.0,
-     15676.0,
-     15454.0,
-     15816.0,
-     15838.0,
-     15272.0,
-     15600.0,
-     14978.0,
-     15104.0,
-     14478.0,
-     13950.0,
-     14316.0,
-     15040.0,
-     15144.0,
-     15006.0,
-     14916.0,
-     14690.0,
-     14502.0,
-     14722.0,
-     14690.0,
-     14025.0
-    ],
-    "currency": "JPY",
-    "exchange_name": "Tokyo",
-    "market_open": false,
-    "symbol": "6861.T",
-    "source": "yahoo",
-    "fetched_at": "2026-11-23T04:15:29.378395+00:00"
-   }
-  },
-  {
-   "key": "JP:7751",
-   "name": "キヤノン",
-   "name_en": "Canon Inc.",
-   "ticker": "7751",
-   "market": "JP",
-   "mentions": [
-    {
-     "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-     "channel_name": "Sho's投資情報局",
-     "channel_short": "Sho",
-     "slot": 3,
-     "video_id": "3JfckzFPdmY",
-     "video_title": "11/22【日本株危機的状況‼半導体株大暴落で追証の嵐。日経平均急落ヤバいぞ‼】キオクシア急落助からない⁉ドル円158円。米国株、ナスダック、ハイテク株崩壊。仮想通貨BTC急落",
-     "published": "2026-11-22T05:09:38+00:00",
-     "stance": "bullish",
-     "stance_note": "需給良好で比較的堅調な推移",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "PER12倍、PBR1.2倍、配当利回り3.83%と割安感がある指標水準に位置しているため。",
-      "信用需給の悪化が見られず、全体相場が下落する中でも比較的良好なチャート形状を維持しているため。"
-     ],
-     "timestamp": "34:59",
-     "seconds": 2099,
-     "confidence": "medium"
-    }
-   ],
-   "consensus": {
-    "bullish": 1,
-    "bearish": 0,
-    "neutral": 0
-   },
-   "voices": 1,
-   "split": false,
-   "last_mentioned": "2026-11-22T05:09:38+00:00",
-   "channel_ids": [
-    "UCK9Pl6bbWqMC_x7IDca2tIg"
-   ],
-   "price": {
-    "date": "2026-11-20",
-    "close": 4796.0,
-    "change_pct": -0.35,
-    "live": null,
-    "live_change_pct": null,
-    "live_time": null,
-    "volume": 4132400,
-    "volume_ratio": 1.07,
-    "rsi14": 52.4,
-    "rsi_zone": "中立",
-    "ma25": 4786.64,
-    "ma75": 4642.95,
-    "trend": "上昇基調",
-    "pos52": 84,
-    "spark": [
-     4564.0,
-     4613.0,
-     4587.0,
-     4587.0,
-     4605.0,
-     4676.0,
-     4607.0,
-     4627.0,
-     4643.0,
-     4619.0,
-     4635.0,
-     4708.0,
-     4716.0,
-     4745.0,
-     4771.0,
-     4817.0,
-     4807.0,
-     4807.0,
-     4816.0,
-     4898.0,
-     4891.0,
-     4949.0,
-     4904.0,
-     4610.0,
-     4697.0,
-     4744.0,
-     4672.0,
-     4643.0,
-     4879.0,
-     4645.0,
-     4731.0,
-     4735.0,
-     4690.0,
-     4791.0,
-     4832.0,
-     4870.0,
-     4847.0,
-     4782.0,
-     4813.0,
-     4796.0
-    ],
-    "currency": "JPY",
-    "exchange_name": "Tokyo",
-    "market_open": false,
-    "symbol": "7751.T",
-    "source": "yahoo",
-    "fetched_at": "2026-11-23T04:15:29.378395+00:00"
-   }
-  },
-  {
-   "key": "JP:9766",
-   "name": "コナミグループ",
-   "name_en": "KONAMI GROUP CORPORATION",
-   "ticker": "9766",
-   "market": "JP",
-   "mentions": [
-    {
-     "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-     "channel_name": "Sho's投資情報局",
-     "channel_short": "Sho",
-     "slot": 3,
-     "video_id": "3JfckzFPdmY",
-     "video_title": "11/22【日本株危機的状況‼半導体株大暴落で追証の嵐。日経平均急落ヤバいぞ‼】キオクシア急落助からない⁉ドル円158円。米国株、ナスダック、ハイテク株崩壊。仮想通貨BTC急落",
-     "published": "2026-11-22T05:09:38+00:00",
-     "stance": "bullish",
-     "stance_note": "2極化の強い側として上昇基調を維持",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "200日線と長期線のゴールデンクロス形成に伴い上昇トレンドを維持しているため。",
-      "相場の二極化が進む中で信用需給が良好であり、短期的な下落にとどまり強さを保っているため。"
-     ],
-     "timestamp": "44:13",
-     "seconds": 2653,
-     "confidence": "medium"
-    }
-   ],
-   "consensus": {
-    "bullish": 1,
-    "bearish": 0,
-    "neutral": 0
-   },
-   "voices": 1,
-   "split": false,
-   "last_mentioned": "2026-11-22T05:09:38+00:00",
-   "channel_ids": [
-    "UCK9Pl6bbWqMC_x7IDca2tIg"
-   ],
-   "price": {
-    "date": "2026-11-20",
-    "close": 29735.0,
-    "change_pct": -3.27,
-    "live": null,
-    "live_change_pct": null,
-    "live_time": null,
-    "volume": 1028100,
-    "volume_ratio": 1.29,
-    "rsi14": 64.3,
-    "rsi_zone": "中立",
-    "ma25": 26922.0,
-    "ma75": 23394.93,
-    "trend": "上昇基調",
-    "pos52": 93,
-    "spark": [
-     21390.0,
-     21270.0,
-     21320.0,
-     21075.0,
-     21400.0,
-     22140.0,
-     22350.0,
-     22205.0,
-     22140.0,
-     22170.0,
-     22330.0,
-     23120.0,
-     23765.0,
-     23880.0,
-     24015.0,
-     24845.0,
-     24835.0,
-     25225.0,
-     25335.0,
-     25175.0,
-     24500.0,
-     24815.0,
-     24500.0,
-     22940.0,
-     22940.0,
-     26385.0,
-     26105.0,
-     26125.0,
-     28985.0,
-     27350.0,
-     28555.0,
-     28975.0,
-     28150.0,
-     28650.0,
-     29180.0,
-     29875.0,
-     29530.0,
-     29600.0,
-     30740.0,
-     29735.0
-    ],
-    "currency": "JPY",
-    "exchange_name": "Tokyo",
-    "market_open": false,
-    "symbol": "9766.T",
-    "source": "yahoo",
-    "fetched_at": "2026-11-23T04:15:29.378395+00:00"
+    "fetched_at": "2026-11-23T05:07:47.758851+00:00"
    }
   },
   {
@@ -3909,27 +3549,6 @@
      ],
      "timestamp": "31:30",
      "seconds": 1890,
-     "confidence": "high"
-    },
-    {
-     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-     "channel_name": "Trader's Lab",
-     "channel_short": "TL",
-     "slot": 1,
-     "video_id": "3sLT9VyGSC4",
-     "video_title": "【日経平均】NVIDIA決算通過 重要シグナル点灯 下落に備えろ  サンディスク・キオクシア・アドバンテスト・イビデン・古河電気・フジクラ",
-     "published": "2026-11-18T11:39:11+00:00",
-     "stance": "bearish",
-     "stance_note": "決算後の戻りは小幅で下落リスク継続",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "良好な決算通過後も戻りは限定的であり最高値から30%近く下落している点。",
-      "CEO辞任を巡る不透明感が残る中148.8ドルの安値を割ると下落トレンドが続く点。"
-     ],
-     "timestamp": "31:07",
-     "seconds": 1867,
      "confidence": "high"
     }
    ],
@@ -4036,27 +3655,6 @@
      "timestamp": "36:09",
      "seconds": 2169,
      "confidence": "medium"
-    },
-    {
-     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-     "channel_name": "Trader's Lab",
-     "channel_short": "TL",
-     "slot": 1,
-     "video_id": "3sLT9VyGSC4",
-     "video_title": "【日経平均】NVIDIA決算通過 重要シグナル点灯 下落に備えろ  サンディスク・キオクシア・アドバンテスト・イビデン・古河電気・フジクラ",
-     "published": "2026-11-18T11:39:11+00:00",
-     "stance": "bearish",
-     "stance_note": "主要安値を下抜けし下落トレンド鮮明",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "7月や6日の主要安値を割り込んでおりバンドウォークを伴う強い下落トレンドな点。",
-      "決算通過後も買いが続かず全戻しとなり3000円台後半まで主要な出来高が薄い点。"
-     ],
-     "timestamp": "41:58",
-     "seconds": 2518,
-     "confidence": "medium"
     }
    ],
    "consensus": {
@@ -4132,7 +3730,7 @@
     "market_open": false,
     "symbol": "4062.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T04:15:29.378395+00:00"
+    "fetched_at": "2026-11-23T05:07:47.758851+00:00"
    }
   },
   {
@@ -4237,7 +3835,7 @@
     "market_open": false,
     "symbol": "9984.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T04:15:29.378395+00:00"
+    "fetched_at": "2026-11-23T05:07:47.758851+00:00"
    }
   },
   {
@@ -4267,27 +3865,6 @@
      "timestamp": "38:10",
      "seconds": 2290,
      "confidence": "medium"
-    },
-    {
-     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-     "channel_name": "Trader's Lab",
-     "channel_short": "TL",
-     "slot": 1,
-     "video_id": "3sLT9VyGSC4",
-     "video_title": "【日経平均】NVIDIA決算通過 重要シグナル点灯 下落に備えろ  サンディスク・キオクシア・アドバンテスト・イビデン・古河電気・フジクラ",
-     "published": "2026-11-18T11:39:11+00:00",
-     "stance": "bearish",
-     "stance_note": "バンドウォーク進行で一段安を警戒",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "バンドウォークが進行する厳しいチャート形状で米国比重の高さも懸念される点。",
-      "6日安値を割り込むと窓埋めからの上昇とならずに適正水準まで一段安となる点。"
-     ],
-     "timestamp": "43:32",
-     "seconds": 2612,
-     "confidence": "low"
     }
    ],
    "consensus": {
@@ -4363,7 +3940,7 @@
     "market_open": false,
     "symbol": "5801.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T04:15:29.378395+00:00"
+    "fetched_at": "2026-11-23T05:07:47.758851+00:00"
    }
   },
   {
@@ -4392,27 +3969,6 @@
      ],
      "timestamp": "38:57",
      "seconds": 2337,
-     "confidence": "medium"
-    },
-    {
-     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-     "channel_name": "Trader's Lab",
-     "channel_short": "TL",
-     "slot": 1,
-     "video_id": "3sLT9VyGSC4",
-     "video_title": "【日経平均】NVIDIA決算通過 重要シグナル点灯 下落に備えろ  サンディスク・キオクシア・アドバンテスト・イビデン・古河電気・フジクラ",
-     "published": "2026-11-18T11:39:11+00:00",
-     "stance": "bearish",
-     "stance_note": "トレンドライン割れで下落波動に突入",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "2024年以降の主要な下値支持線を割り込み高値安値を切り下げる下落波動な点。",
-      "2622円の重要ラインを割り込むと下方の出来高が薄い空間に入り一段安となる点。"
-     ],
-     "timestamp": "44:18",
-     "seconds": 2658,
      "confidence": "medium"
     }
    ],
@@ -4489,7 +4045,7 @@
     "market_open": false,
     "symbol": "5803.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T04:15:29.378395+00:00"
+    "fetched_at": "2026-11-23T05:07:47.758851+00:00"
    }
   },
   {
@@ -4594,7 +4150,7 @@
     "market_open": false,
     "symbol": "5706.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T04:15:29.378395+00:00"
+    "fetched_at": "2026-11-23T05:07:47.758851+00:00"
    }
   },
   {
@@ -4699,112 +4255,7 @@
     "market_open": false,
     "symbol": "5016.T",
     "source": "yahoo-search",
-    "fetched_at": "2026-11-23T04:15:29.378395+00:00"
-   }
-  },
-  {
-   "key": "US:SNDK",
-   "name": "サンディスク",
-   "name_en": "SanDisk",
-   "ticker": "SNDK",
-   "market": "US",
-   "mentions": [
-    {
-     "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-     "channel_name": "Trader's Lab",
-     "channel_short": "TL",
-     "slot": 1,
-     "video_id": "3sLT9VyGSC4",
-     "video_title": "【日経平均】NVIDIA決算通過 重要シグナル点灯 下落に備えろ  サンディスク・キオクシア・アドバンテスト・イビデン・古河電気・フジクラ",
-     "published": "2026-11-18T11:39:11+00:00",
-     "stance": "bearish",
-     "stance_note": "下落N波動形成で急落後の調整が継続",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "週足で綺麗な下落N波動を形成しており過去の過剰な上昇に対する調整が続く点。",
-      "直近で5日安値を更新しておりテクニカル的にもバンドウォークで売り圧力が強い点。"
-     ],
-     "timestamp": "33:31",
-     "seconds": 2011,
-     "confidence": "medium"
-    }
-   ],
-   "consensus": {
-    "bullish": 0,
-    "bearish": 1,
-    "neutral": 0
-   },
-   "voices": 1,
-   "split": false,
-   "last_mentioned": "2026-11-18T11:39:11+00:00",
-   "channel_ids": [
-    "UCsaeHha7ai_NNX8or8Jyb-g"
-   ],
-   "price": {
-    "date": "2026-11-20",
-    "close": 79.24,
-    "change_pct": -16.05,
-    "live": null,
-    "live_change_pct": null,
-    "live_time": null,
-    "volume": 127045200,
-    "volume_ratio": 1.28,
-    "rsi14": 25.4,
-    "rsi_zone": "売られすぎ",
-    "ma25": 131.29,
-    "ma75": 176.52,
-    "trend": "下降基調",
-    "pos52": 21,
-    "spark": [
-     214.11,
-     216.22,
-     217.49,
-     223.46,
-     215.0,
-     213.02,
-     207.56,
-     211.55,
-     201.18,
-     197.73,
-     185.92,
-     185.29,
-     175.42,
-     174.35,
-     162.41,
-     171.39,
-     170.67,
-     172.28,
-     157.62,
-     154.75,
-     156.95,
-     163.1,
-     175.6,
-     166.26,
-     143.86,
-     134.38,
-     140.82,
-     129.68,
-     100.8,
-     104.38,
-     110.81,
-     107.5,
-     122.21,
-     117.18,
-     110.63,
-     101.14,
-     99.65,
-     97.03,
-     94.39,
-     79.24
-    ],
-    "currency": "USD",
-    "exchange_name": "NasdaqGS",
-    "market_open": false,
-    "symbol": "SNDK",
-    "source": "yahoo",
-    "fetched_at": "2026-11-23T04:15:29.378395+00:00"
+    "fetched_at": "2026-11-23T05:07:47.758851+00:00"
    }
   },
   {
@@ -4910,7 +4361,7 @@
     "market_open": false,
     "symbol": "7550.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T04:15:29.378395+00:00"
+    "fetched_at": "2026-11-23T05:07:47.758851+00:00"
    }
   },
   {
@@ -5223,7 +4674,7 @@
     "market_open": false,
     "symbol": "2914.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T04:15:29.378395+00:00"
+    "fetched_at": "2026-11-23T05:07:47.758851+00:00"
    }
   },
   {
@@ -5327,7 +4778,7 @@
     "market_open": false,
     "symbol": "8058.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T04:15:29.378395+00:00"
+    "fetched_at": "2026-11-23T05:07:47.758851+00:00"
    }
   },
   {
@@ -5431,7 +4882,7 @@
     "market_open": false,
     "symbol": "8031.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T04:15:29.378395+00:00"
+    "fetched_at": "2026-11-23T05:07:47.758851+00:00"
    }
   },
   {
@@ -5535,7 +4986,7 @@
     "market_open": false,
     "symbol": "4684.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T04:15:29.378395+00:00"
+    "fetched_at": "2026-11-23T05:07:47.758851+00:00"
    }
   },
   {
@@ -5608,7 +5059,7 @@
     "market_open": false,
     "symbol": "660A.T",
     "source": "yahoo-search",
-    "fetched_at": "2026-11-23T04:15:29.378395+00:00"
+    "fetched_at": "2026-11-23T05:07:47.758851+00:00"
    }
   }
  ]

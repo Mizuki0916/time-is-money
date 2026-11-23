@@ -1,6 +1,21 @@
 {
- "generated_at": "2026-11-23T13:17:38.096848+09:00",
+ "generated_at": "2026-11-23T14:09:27.342781+09:00",
  "videos": [
+  {
+   "video_id": "8w16BoE46Sk",
+   "title": "11/23【日本株、半導体株大暴落で追証の嵐。日経平均急落ヤバいぞ‼】キオクシア急落助からない⁉ドル円158円。米国株、ナスダック、ハイテク株崩壊。仮想通貨BTC急落",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-11-23T04:16:59+00:00",
+   "overview": "",
+   "market_view": "",
+   "market": "",
+   "no_transcript": true,
+   "skip_reason": "この動画には字幕がありません",
+   "picks": []
+  },
   {
    "video_id": "o-MYA-vuI9o",
    "title": "連休明けの注目銘柄を見ていく！（キオクシア・アドバンテスト・太陽誘電・ベイカレント・トレンドマイクロ・バンダイナムコなど）株式テクニカルチャート分析",
@@ -178,6 +193,46 @@
    ]
   },
   {
+   "video_id": "t-aSjNwaz28",
+   "title": "緊急動画 AI半導体バブル崩壊 暴落巻き込まれた人は絶対見て",
+   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+   "channel_name": "Trader's Lab",
+   "channel_short": "TL",
+   "slot": 1,
+   "published": "2026-11-22T12:00:37+00:00",
+   "overview": "AI半導体関連銘柄の過熱感剥落に伴い、日米およびグローバル市場で調整・暴落局面が進行している現状を解説した動画。ダウ理論に基づき日経平均株価やナスダック100などのチャート分析を行い、下落N波動の形成から明確な下落トレンドへの移行を指摘している。過去のコロナショックや利上げ相場時の下落率と比較し、日経平均であれば5万円〜4万8000円付近、ナスダック100であれば2万2000ポイント付近までの底模索を想定し、安易な押し目買いへの注意を促している。",
+   "market_view": "日米市場ともに主要指数が安値を割り込んで下落トレンドを形成しており、AIバブルの剥落による警戒感から当面はリスク回避を重視すべき局面である。",
+   "market": "MIX",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "日経平均株価",
+     "ticker": "N225",
+     "stance": "bearish",
+     "timestamp": "01:06"
+    },
+    {
+     "name": "ナスダック100",
+     "ticker": "NDX",
+     "stance": "bearish",
+     "timestamp": "19:07"
+    },
+    {
+     "name": "SOX指数",
+     "ticker": "SOX",
+     "stance": "bearish",
+     "timestamp": "31:22"
+    },
+    {
+     "name": "TOPIX",
+     "ticker": "TOPX",
+     "stance": "bearish",
+     "timestamp": "26:22"
+    }
+   ]
+  },
+  {
    "video_id": "C6swYyaY7h4",
    "title": "来週の相場に備えて！　日本株チャート分析LIVE　11/22",
    "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
@@ -232,70 +287,6 @@
      "ticker": "8136",
      "stance": "bearish",
      "timestamp": "01:15:30"
-    }
-   ]
-  },
-  {
-   "video_id": "3JfckzFPdmY",
-   "title": "11/22【日本株危機的状況‼半導体株大暴落で追証の嵐。日経平均急落ヤバいぞ‼】キオクシア急落助からない⁉ドル円158円。米国株、ナスダック、ハイテク株崩壊。仮想通貨BTC急落",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-11-22T05:09:38+00:00",
-   "overview": "Sho氏が半導体株の大暴落や日経平均の急落を受けた緊急ライブ配信にて、主要銘柄のチャート分析と年末年始の投資戦略を解説しています。10月高値銘柄の信用期日が来年前半にかけて残るため、目先の自立反発狙いではなく来年以降に向けた安値拾いの仕込み場と捉えるべきだと主張しています。全体相場が崩れる中で信用需給が良好な強気銘柄と下落基調が続く弱気銘柄の二極化が進む見通しを示しています。",
-   "market_view": "半導体株の暴落に伴い日経平均は年末にかけて軟調な展開が予想され、来年前半にかけて戻り売り圧力に警戒が必要です。信用需給の良し悪しによる強弱の二極化が一段と進む見通しです。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "日経平均",
-     "ticker": "N225",
-     "stance": "bearish",
-     "timestamp": "02:31"
-    },
-    {
-     "name": "ルネサスエレクトロニクス",
-     "ticker": "6723",
-     "stance": "bearish",
-     "timestamp": "07:43"
-    },
-    {
-     "name": "村田製作所",
-     "ticker": "6981",
-     "stance": "bearish",
-     "timestamp": "09:00"
-    },
-    {
-     "name": "キーエンス",
-     "ticker": "6861",
-     "stance": "bearish",
-     "timestamp": "17:28"
-    },
-    {
-     "name": "キヤノン",
-     "ticker": "7751",
-     "stance": "bullish",
-     "timestamp": "34:59"
-    },
-    {
-     "name": "ソニーグループ",
-     "ticker": "6758",
-     "stance": "bullish",
-     "timestamp": "35:20"
-    },
-    {
-     "name": "コナミグループ",
-     "ticker": "9766",
-     "stance": "bullish",
-     "timestamp": "44:13"
-    },
-    {
-     "name": "武田薬品工業",
-     "ticker": "4502",
-     "stance": "bullish",
-     "timestamp": "50:43"
     }
    ]
   },
@@ -366,64 +357,6 @@
      "ticker": "",
      "stance": "bearish",
      "timestamp": "40:32"
-    }
-   ]
-  },
-  {
-   "video_id": "3sLT9VyGSC4",
-   "title": "【日経平均】NVIDIA決算通過 重要シグナル点灯 下落に備えろ  サンディスク・キオクシア・アドバンテスト・イビデン・古河電気・フジクラ",
-   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-   "channel_name": "Trader's Lab",
-   "channel_short": "TL",
-   "slot": 1,
-   "published": "2026-11-18T11:39:11+00:00",
-   "overview": "NVIDIA決算通過後の相場環境について、日経平均や米主要指数のチャート分析をもとに下落リスクを解説した動画です。指数・個別株ともに主要安値の割り込みやバンドウォークが発生しており、全体として調整色が強まっています。NVIDIAやキオクシア、フジクラなどの注目銘柄についても下値リスクや戻りの弱さを指摘し、中長期エントリーを控えてリスク管理を徹底するスタンスを提示しています。",
-   "market_view": "日経平均や米主要3指数はテクニカル的に調整・下落トレンドに入っており、売り圧力が強い神経質な相場環境が続いています。",
-   "market": "MIX",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "NVIDIA",
-     "ticker": "NVDA",
-     "stance": "bearish",
-     "timestamp": "31:07"
-    },
-    {
-     "name": "サンディスク",
-     "ticker": "SNDK",
-     "stance": "bearish",
-     "timestamp": "33:31"
-    },
-    {
-     "name": "キオクシア",
-     "ticker": "285A",
-     "stance": "bearish",
-     "timestamp": "35:55"
-    },
-    {
-     "name": "アドバンテスト",
-     "ticker": "6857",
-     "stance": "neutral",
-     "timestamp": "39:20"
-    },
-    {
-     "name": "イビデン",
-     "ticker": "4062",
-     "stance": "bearish",
-     "timestamp": "41:58"
-    },
-    {
-     "name": "古河電気工業",
-     "ticker": "5801",
-     "stance": "bearish",
-     "timestamp": "43:32"
-    },
-    {
-     "name": "フジクラ",
-     "ticker": "5803",
-     "stance": "bearish",
-     "timestamp": "44:18"
     }
    ]
   },
