@@ -3,19 +3,104 @@
   {
    "video_id": "q6VnhdQ8PgA",
    "title": "11/23【日本株動くぞ‼半導体株大暴落で追証の嵐。日経平均急落ヤバいぞ‼】キオクシア急落助からない⁉ドル円158円。米国株、ナスダック、ハイテク株崩壊。仮想通貨BTC急落",
-   "published": "2026-11-23T12:44:12+00:00",
+   "published": "2026-11-23T14:10:31+00:00",
    "description": "「10か月20％オフ」のメンバークーポンの有効期限11/22まで。枚数制限あり\nMEDIABLEのVIP、プラチナが対象です。\n\n ※クーポンコード：birthday38\n\n◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーー",
    "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
    "channel_name": "Sho's投資情報局",
    "channel_short": "Sho",
    "slot": 3,
-   "no_transcript": true,
-   "skip_reason": "この動画には字幕がありません",
-   "attempts": 2,
-   "overview": "",
-   "market_view": "",
-   "market": "",
-   "picks": []
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "動画では、米株先物の反発や半導体株急落に伴う相場環境、個人投資家の需給悪化や追証リスクについて解説されています。年末に向けた戦略として、需給が軽くて移動平均線が好形状な出遅れ株に注目する一方、安易な底値探しや無限ナンピンを避け、守備力を重視したリスク管理を推奨しています。また、配信終盤にはNVIDIAの電撃材料による時間外株価の急速な反発についても触れられています。",
+   "market_view": "短期的には売られすぎからの自立反発が期待されるものの、年末にかけて投げ売りや戻り売りが出やすい環境。底値探しの焦りを捨て、需給が良好な銘柄の初動を狙う姿勢が重要です。",
+   "market": "MIX",
+   "picks": [
+    {
+     "name": "キオクシアホールディングス",
+     "name_en": "Kioxia Holdings Corporation",
+     "ticker": "285A",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "個人投資家の捕まりが多く戻り売り懸念強し",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "個人投資家の狼狽売りや過度なナンピンによる捕まりが多く、盛大に捕まっているため戻り売りの圧力が強い。",
+      "自立反発が入ってもデイトレーダーの売り浴びせにより上値が重く、元の株価に戻るには相当な時間を要する見込み。"
+     ],
+     "timestamp": "05:48",
+     "confidence": "high"
+    },
+    {
+     "name": "味の素",
+     "name_en": "Ajinomoto Co., Inc.",
+     "ticker": "2802",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "半導体安の連れ安と下落トレンドが継続",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "半導体関連材料を手掛けるテック系要素があるため、半導体株の下落局面の巻き添えを喰らい崩れている。",
+      "200日移動平均線との継続的なデッドクロスを形成しており、フィボナッチの安値ラインに向かって下落中。"
+     ],
+     "timestamp": "10:20",
+     "confidence": "medium"
+    },
+    {
+     "name": "日本郵船",
+     "name_en": "Nippon Yusen Kabushiki Kaisha",
+     "ticker": "9101",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "デッドクロス接近で下げ止まり未確認",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "ヘッドアンドショルダー形成の懸念があり、25日線と75日線のデッドクロスが間近に迫り下落トレンド傾向にある。",
+      "チャートの足元に底止まりの明確なサインが見られず、テクニカル的に安易に拾いにいける状況ではない。"
+     ],
+     "timestamp": "18:49",
+     "confidence": "medium"
+    },
+    {
+     "name": "フジクラ",
+     "name_en": "Fujikura Ltd.",
+     "ticker": "5803",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "下落バンドウォーク継続で調整局面が持続",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "個人人気でNISA買い付け上位だが需給が悪化しており、急激な下落角度で調整が続いている。",
+      "下落方向へのバンドウォークが続いており、終了サインが出るまでは下げ止まりを期待しづらい。"
+     ],
+     "timestamp": "46:03",
+     "confidence": "medium"
+    },
+    {
+     "name": "NVIDIA",
+     "name_en": "NVIDIA Corporation",
+     "ticker": "NVDA",
+     "market": "US",
+     "stance": "bullish",
+     "stance_note": "CEO復帰等の電撃報道により時間外で急反発",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "ジェンスン・ファンCEOの復帰決定などの材料が伝わり、時間外取引で株価が大きく跳ね上がる展開となった。",
+      "米ハイテク株やナスダック先物の急速な買い戻しを牽引し、短期的な自立反発のトリガーとなっている。"
+     ],
+     "timestamp": "55:06",
+     "confidence": "high"
+    }
+   ]
   },
   {
    "video_id": "8w16BoE46Sk",

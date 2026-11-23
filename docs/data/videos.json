@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T23:05:24.211475+09:00",
+ "generated_at": "2026-11-24T00:06:07.564746+09:00",
  "videos": [
   {
    "video_id": "q6VnhdQ8PgA",
@@ -8,13 +8,44 @@
    "channel_name": "Sho's投資情報局",
    "channel_short": "Sho",
    "slot": 3,
-   "published": "2026-11-23T12:44:12+00:00",
-   "overview": "",
-   "market_view": "",
-   "market": "",
-   "no_transcript": true,
-   "skip_reason": "この動画には字幕がありません",
-   "picks": []
+   "published": "2026-11-23T14:10:31+00:00",
+   "overview": "動画では、米株先物の反発や半導体株急落に伴う相場環境、個人投資家の需給悪化や追証リスクについて解説されています。年末に向けた戦略として、需給が軽くて移動平均線が好形状な出遅れ株に注目する一方、安易な底値探しや無限ナンピンを避け、守備力を重視したリスク管理を推奨しています。また、配信終盤にはNVIDIAの電撃材料による時間外株価の急速な反発についても触れられています。",
+   "market_view": "短期的には売られすぎからの自立反発が期待されるものの、年末にかけて投げ売りや戻り売りが出やすい環境。底値探しの焦りを捨て、需給が良好な銘柄の初動を狙う姿勢が重要です。",
+   "market": "MIX",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "キオクシアホールディングス",
+     "ticker": "285A",
+     "stance": "bearish",
+     "timestamp": "05:48"
+    },
+    {
+     "name": "味の素",
+     "ticker": "2802",
+     "stance": "bearish",
+     "timestamp": "10:20"
+    },
+    {
+     "name": "日本郵船",
+     "ticker": "9101",
+     "stance": "bearish",
+     "timestamp": "18:49"
+    },
+    {
+     "name": "フジクラ",
+     "ticker": "5803",
+     "stance": "bearish",
+     "timestamp": "46:03"
+    },
+    {
+     "name": "NVIDIA",
+     "ticker": "NVDA",
+     "stance": "bullish",
+     "timestamp": "55:06"
+    }
+   ]
   },
   {
    "video_id": "t8lJC9CMKC8",
