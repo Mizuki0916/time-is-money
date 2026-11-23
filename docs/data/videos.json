@@ -1,6 +1,46 @@
 {
- "generated_at": "2026-11-23T19:15:33.926696+09:00",
+ "generated_at": "2026-11-23T20:16:13.921465+09:00",
  "videos": [
+  {
+   "video_id": "t8lJC9CMKC8",
+   "title": "今週（11/24〜）現状報告と展望を語る回",
+   "channel_id": "UCt7qqCkTFFRfKjXzwqUXq4g",
+   "channel_name": "ぺこ株",
+   "channel_short": "ぺこ",
+   "slot": 4,
+   "published": "2026-11-23T11:00:28+00:00",
+   "overview": "米国市場におけるアンソロピックIPO後の失速やNVIDIAのSEC調査報道による暴落、トランプ氏のデータセンター規制発言、FRB利上げ観測など悪材料が重なり、ハイテク株を中心に厳しい地合いが続いています。国内市場も二番底を試す展開と見ており、自身の保有銘柄であるオービックの根固めを観察しつつ、全体として押し目待ち・様子見姿勢を継続しています。",
+   "market_view": "米国株の急落や利上げ懸念から全体相場は悪化しており、日本市場も二番底を探る展開を予想。セリングクライマックス通過後の反転に期待しつつも警戒感を持った様子見姿勢です。",
+   "market": "MIX",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "NVIDIA",
+     "ticker": "NVDA",
+     "stance": "bearish",
+     "timestamp": "01:23"
+    },
+    {
+     "name": "ゼンショーホールディングス",
+     "ticker": "7550",
+     "stance": "neutral",
+     "timestamp": "04:23"
+    },
+    {
+     "name": "オービック",
+     "ticker": "4684",
+     "stance": "bullish",
+     "timestamp": "04:38"
+    },
+    {
+     "name": "トキルム",
+     "ticker": "",
+     "stance": "neutral",
+     "timestamp": "05:42"
+    }
+   ]
+  },
   {
    "video_id": "8w16BoE46Sk",
    "title": "11/23【日本株、半導体株大暴落で追証の嵐。日経平均急落ヤバいぞ‼】キオクシア急落助からない⁉ドル円158円。米国株、ナスダック、ハイテク株崩壊。仮想通貨BTC急落",
@@ -434,82 +474,6 @@
      "ticker": "7550",
      "stance": "bullish",
      "timestamp": "03:47"
-    }
-   ]
-  },
-  {
-   "video_id": "SSwJaMHu9Kc",
-   "title": "今週（11/9〜）現状報告と展望を語る回",
-   "channel_id": "UCt7qqCkTFFRfKjXzwqUXq4g",
-   "channel_name": "ぺこ株",
-   "channel_short": "ぺこ",
-   "slot": 4,
-   "published": "2026-11-08T11:00:04+00:00",
-   "overview": "米中間選挙の結果を受けたAI関連銘柄の暴落要因や今後の相場見通しについて解説されています。また、ロシア政府によるJT子会社の一時管理措置が与える事業・配当リスクや関連日本企業への影響に言及。投稿者の現況としてオービックの打診買いやソニーの買い増しを報告しつつ、今週予定されている注目企業の決算やIPO情報をまとめています。",
-   "market_view": "米中間選挙で民主党が過半数を制したことでAI設備投資鈍化への懸念が広がり相場が崩れていますが、AI成長が完全に停止したわけではなく過剰な織り込みの是正と見ています。",
-   "market": "MIX",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "キオクシアホールディングス",
-     "ticker": "285A",
-     "stance": "neutral",
-     "timestamp": "02:09"
-    },
-    {
-     "name": "コアウィーブ",
-     "ticker": "",
-     "stance": "neutral",
-     "timestamp": "03:28"
-    },
-    {
-     "name": "アプライド・マテリアルズ",
-     "ticker": "AMAT",
-     "stance": "neutral",
-     "timestamp": "03:28"
-    },
-    {
-     "name": "JT",
-     "ticker": "2914",
-     "stance": "bearish",
-     "timestamp": "03:57"
-    },
-    {
-     "name": "三菱商事",
-     "ticker": "8058",
-     "stance": "bearish",
-     "timestamp": "05:07"
-    },
-    {
-     "name": "三井物産",
-     "ticker": "8031",
-     "stance": "bearish",
-     "timestamp": "05:07"
-    },
-    {
-     "name": "三菱重工業",
-     "ticker": "7011",
-     "stance": "bearish",
-     "timestamp": "05:24"
-    },
-    {
-     "name": "オービック",
-     "ticker": "4684",
-     "stance": "bullish",
-     "timestamp": "05:57"
-    },
-    {
-     "name": "ソニーグループ",
-     "ticker": "6758",
-     "stance": "bullish",
-     "timestamp": "06:27"
-    },
-    {
-     "name": "レセプショニスト",
-     "ticker": "",
-     "stance": "neutral",
-     "timestamp": "08:23"
     }
    ]
   }
