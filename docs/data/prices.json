@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-23T20:05:06.162891+00:00",
+ "updated_at": "2026-11-23T21:05:06.642088+00:00",
  "symbols": {
   "JP:1111": {
    "date": "2026-08-17",
@@ -4162,22 +4162,21 @@
    "fetched_at": "2026-08-28T07:23:10.955805+00:00"
   },
   "US:NVDA": {
-   "date": "2026-11-20",
-   "close": 125.53,
-   "change_pct": -14.01,
-   "live": 165.24,
-   "live_change_pct": 31.63,
-   "live_time": 1795464305,
-   "volume": 626373200,
-   "volume_ratio": 2.52,
-   "rsi14": 15.0,
-   "rsi_zone": "売られすぎ",
-   "ma25": 188.31,
-   "ma75": 211.49,
+   "date": "2026-11-23",
+   "close": 165.05,
+   "change_pct": 31.48,
+   "live": null,
+   "live_change_pct": null,
+   "live_time": null,
+   "volume": 753692010,
+   "volume_ratio": 2.74,
+   "rsi14": 42.9,
+   "rsi_zone": "中立",
+   "ma25": 186.23,
+   "ma75": 210.7,
    "trend": "下降基調",
-   "pos52": 0,
+   "pos52": 35,
    "spark": [
-    228.86,
     227.21,
     228.38,
     230.86,
@@ -4216,14 +4215,15 @@
     155.46,
     150.96,
     145.98,
-    125.53
+    125.53,
+    165.05
    ],
    "currency": "USD",
    "exchange_name": "NasdaqGS",
-   "market_open": true,
+   "market_open": false,
    "symbol": "NVDA",
    "source": "yahoo",
-   "fetched_at": "2026-11-23T20:05:06.162891+00:00"
+   "fetched_at": "2026-11-23T21:05:06.642088+00:00"
   },
   "JP:593A": {
    "date": "2026-09-08",
@@ -10300,22 +10300,21 @@
    "fetched_at": "2026-09-23T09:06:40.496439+00:00"
   },
   "IDX:^NDX": {
-   "date": "2026-11-20",
-   "close": 25028.98,
-   "change_pct": -5.61,
-   "live": 26703.85,
-   "live_change_pct": 6.69,
-   "live_time": 1795464315,
-   "volume": 12469600000,
-   "volume_ratio": 1.37,
-   "rsi14": 26.5,
-   "rsi_zone": "売られすぎ",
-   "ma25": 28185.1,
-   "ma75": 29307.03,
+   "date": "2026-11-23",
+   "close": 26746.1,
+   "change_pct": 6.86,
+   "live": null,
+   "live_change_pct": null,
+   "live_time": null,
+   "volume": 2427346000,
+   "volume_ratio": 0.27,
+   "rsi14": 42.0,
+   "rsi_zone": "中立",
+   "ma25": 28073.77,
+   "ma75": 29267.35,
    "trend": "下降基調",
-   "pos52": 25,
+   "pos52": 46,
    "spark": [
-    30276.81,
     30339.33,
     30408.5,
     30501.56,
@@ -10354,14 +10353,15 @@
     27001.78,
     27116.26,
     26517.05,
-    25028.98
+    25028.98,
+    26746.1
    ],
    "currency": "USD",
    "exchange_name": "Nasdaq GIDS",
-   "market_open": true,
+   "market_open": false,
    "symbol": "^NDX",
    "source": "yahoo",
-   "fetched_at": "2026-11-23T20:05:06.162891+00:00"
+   "fetched_at": "2026-11-23T21:05:06.642088+00:00"
   },
   "IDX:^TOPX": {
    "date": "2026-11-20",
