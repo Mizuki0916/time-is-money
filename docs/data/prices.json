@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-23T19:05:06.518489+00:00",
+ "updated_at": "2026-11-23T20:05:06.162891+00:00",
  "symbols": {
   "JP:1111": {
    "date": "2026-08-17",
@@ -4165,9 +4165,9 @@
    "date": "2026-11-20",
    "close": 125.53,
    "change_pct": -14.01,
-   "live": 165.16,
-   "live_change_pct": 31.57,
-   "live_time": 1795460710,
+   "live": 165.24,
+   "live_change_pct": 31.63,
+   "live_time": 1795464305,
    "volume": 626373200,
    "volume_ratio": 2.52,
    "rsi14": 15.0,
@@ -4223,7 +4223,7 @@
    "market_open": true,
    "symbol": "NVDA",
    "source": "yahoo",
-   "fetched_at": "2026-11-23T19:05:06.518489+00:00"
+   "fetched_at": "2026-11-23T20:05:06.162891+00:00"
   },
   "JP:593A": {
    "date": "2026-09-08",
@@ -10303,9 +10303,9 @@
    "date": "2026-11-20",
    "close": 25028.98,
    "change_pct": -5.61,
-   "live": 26797.94,
-   "live_change_pct": 7.07,
-   "live_time": 1795460777,
+   "live": 26703.85,
+   "live_change_pct": 6.69,
+   "live_time": 1795464315,
    "volume": 12469600000,
    "volume_ratio": 1.37,
    "rsi14": 26.5,
@@ -10361,7 +10361,7 @@
    "market_open": true,
    "symbol": "^NDX",
    "source": "yahoo",
-   "fetched_at": "2026-11-23T19:05:06.518489+00:00"
+   "fetched_at": "2026-11-23T20:05:06.162891+00:00"
   },
   "IDX:^TOPX": {
    "date": "2026-11-20",
