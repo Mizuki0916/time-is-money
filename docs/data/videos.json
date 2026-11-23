@@ -1,6 +1,182 @@
 {
- "generated_at": "2026-11-22T18:15:27.514427+09:00",
+ "generated_at": "2026-11-23T13:17:38.096848+09:00",
  "videos": [
+  {
+   "video_id": "o-MYA-vuI9o",
+   "title": "連休明けの注目銘柄を見ていく！（キオクシア・アドバンテスト・太陽誘電・ベイカレント・トレンドマイクロ・バンダイナムコなど）株式テクニカルチャート分析",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-11-22T23:00:19+00:00",
+   "overview": "連休明けの株式市場における注目銘柄とテクニカル分析が解説されています。半導体・AI関連株の調整長期化を背景に、セクターローテーションを意識した非AI銘柄への資金移動や、セキュリティ関連・IPゲーム関連などの下値が硬い銘柄への注目を提言しています。また、大きく売られたキオクシアやアドバンテストなどの反発狙いにおける注意点とサポートラインが提示されています。",
+   "market_view": "日経平均先物は1000円程度の下落が見込まれギャップダウンからのスタートが濃厚です。半導体・AI株の本格回復には数ヶ月以上かかる見通しのため、非AI銘柄やTOPIX構成銘柄主導の回復を意識した戦略が有効とされています。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "ベイカレント",
+     "ticker": "6532",
+     "stance": "bullish",
+     "timestamp": "02:43"
+    },
+    {
+     "name": "トレンドマイクロ",
+     "ticker": "4704",
+     "stance": "bullish",
+     "timestamp": "03:16"
+    },
+    {
+     "name": "野村総合研究所",
+     "ticker": "4307",
+     "stance": "bullish",
+     "timestamp": "03:32"
+    },
+    {
+     "name": "NEC",
+     "ticker": "6701",
+     "stance": "neutral",
+     "timestamp": "04:04"
+    },
+    {
+     "name": "ALSOK",
+     "ticker": "2331",
+     "stance": "bullish",
+     "timestamp": "04:51"
+    },
+    {
+     "name": "セコム",
+     "ticker": "9735",
+     "stance": "bullish",
+     "timestamp": "04:51"
+    },
+    {
+     "name": "ニトリホールディングス",
+     "ticker": "9843",
+     "stance": "bullish",
+     "timestamp": "05:23"
+    },
+    {
+     "name": "ファーストリテイリング",
+     "ticker": "9983",
+     "stance": "neutral",
+     "timestamp": "05:51"
+    },
+    {
+     "name": "バンダイナムコホールディングス",
+     "ticker": "7832",
+     "stance": "bullish",
+     "timestamp": "06:24"
+    },
+    {
+     "name": "任天堂",
+     "ticker": "7974",
+     "stance": "bullish",
+     "timestamp": "06:39"
+    },
+    {
+     "name": "ソニーグループ",
+     "ticker": "6758",
+     "stance": "bullish",
+     "timestamp": "06:54"
+    },
+    {
+     "name": "カプコン",
+     "ticker": "9697",
+     "stance": "bullish",
+     "timestamp": "07:10"
+    },
+    {
+     "name": "非上場パートナーズ",
+     "ticker": "",
+     "stance": "bullish",
+     "timestamp": "07:37"
+    },
+    {
+     "name": "キオクシアホールディングス",
+     "ticker": "285A",
+     "stance": "bearish",
+     "timestamp": "09:08"
+    },
+    {
+     "name": "太陽誘電",
+     "ticker": "6976",
+     "stance": "neutral",
+     "timestamp": "10:41"
+    },
+    {
+     "name": "アドバンテスト",
+     "ticker": "6857",
+     "stance": "bearish",
+     "timestamp": "11:12"
+    }
+   ]
+  },
+  {
+   "video_id": "OjmNHClsG18",
+   "title": "11/22【日本株木端微塵やばいやばい‼半導体株大暴落で追証の嵐。日経平均急落ヤバいぞ‼】キオクシア急落助からない⁉ドル円158円。米国株、ナスダック、ハイテク株崩壊。仮想通貨BTC急落",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-11-22T14:11:06+00:00",
+   "overview": "全体相場の急落や需給悪化を受けた今後の日本株の見通しと、年末に向けた戦略について解説しています。2018年の信用買い残高止まり相場と同様の暴落パターンを例に挙げ、11月中にキャッシュ比率を引き上げて12月の投げ売りを狙う準備の重要性を主張しています。また、個別銘柄では住友重機、クボタ、ダイキン、マツダ、リクルートなどのテクニカル形状や需給関係について詳細な分析を行っています。",
+   "market_view": "信用買い残が高止まりする中での急落となっており、2018年相場のような厳しい展開が続いています。短期的な自律反発は期待されるものの、12月の損益通算に向けた投げ売りを慎重に待ち、キャッシュを確保して買い場を探る姿勢が求められます。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "住友重機械工業",
+     "ticker": "6302",
+     "stance": "bearish",
+     "timestamp": "02:31"
+    },
+    {
+     "name": "クボタ",
+     "ticker": "6326",
+     "stance": "bearish",
+     "timestamp": "03:39"
+    },
+    {
+     "name": "三菱重工業",
+     "ticker": "7011",
+     "stance": "bearish",
+     "timestamp": "12:31"
+    },
+    {
+     "name": "IHI",
+     "ticker": "7013",
+     "stance": "bearish",
+     "timestamp": "19:04"
+    },
+    {
+     "name": "ダイキン工業",
+     "ticker": "6367",
+     "stance": "bullish",
+     "timestamp": "30:09"
+    },
+    {
+     "name": "日立製作所",
+     "ticker": "6501",
+     "stance": "bearish",
+     "timestamp": "30:57"
+    },
+    {
+     "name": "マツダ",
+     "ticker": "7261",
+     "stance": "neutral",
+     "timestamp": "33:50"
+    },
+    {
+     "name": "リクルートホールディングス",
+     "ticker": "6098",
+     "stance": "bearish",
+     "timestamp": "58:51"
+    }
+   ]
+  },
   {
    "video_id": "C6swYyaY7h4",
    "title": "来週の相場に備えて！　日本株チャート分析LIVE　11/22",
@@ -124,52 +300,6 @@
    ]
   },
   {
-   "video_id": "efmC7xLZBeQ",
-   "title": "11/20【日本株追証多発ヤバい‼半導体株大暴落】キオクシア急落助からない⁉日経平均暴落。ドル円159円、アンソロピック上場で米国株、ナスダック、ハイテク株暴落。仮想通貨BTC急落",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-11-20T14:39:40+00:00",
-   "overview": "半導体株の投げ売りを背景に日経平均が暴落する中、相場の現状と年末に向けた戦略を解説する動画です。メモリー価格の下落予測によりキオクシア等に下落圧力がかかる一方、任天堂などコスト改善が期待される銘柄への影響に言及。12月は信用買い残が重い銘柄の損益通算や期日到来による投げ売りが不可避とし、キャッシュ比率を引き上げて12月のバーゲンセールに備える重要性を強調しています。",
-   "market_view": "半導体株主導で全面安となっているが、米国市場ではハイテク売りからバリュー株へのローテーションも散見される。信用買い残が重い受給悪化銘柄は年末まで下落リスクが高く、2極化相場を想定。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "キオクシアホールディングス",
-     "ticker": "285A",
-     "stance": "bearish",
-     "timestamp": "03:58"
-    },
-    {
-     "name": "任天堂",
-     "ticker": "7974",
-     "stance": "bullish",
-     "timestamp": "04:15"
-    },
-    {
-     "name": "ソフトバンクグループ",
-     "ticker": "9984",
-     "stance": "bearish",
-     "timestamp": "12:48"
-    },
-    {
-     "name": "三菱重工業",
-     "ticker": "7011",
-     "stance": "bearish",
-     "timestamp": "33:30"
-    },
-    {
-     "name": "アドバンテスト",
-     "ticker": "6857",
-     "stance": "bearish",
-     "timestamp": "45:23"
-    }
-   ]
-  },
-  {
    "video_id": "le-yMUo7YEk",
    "title": "【日経平均】 下抜け確定 アンソロピック上場ゴール 週明け暴落か？  NVIDIA・サンディスク・キオクシア・アドバンテスト・イビデン・古河電気・フジクラ・三井金属・JX金属・内需株・飲食",
    "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
@@ -236,40 +366,6 @@
      "ticker": "",
      "stance": "bearish",
      "timestamp": "40:32"
-    }
-   ]
-  },
-  {
-   "video_id": "ZYsOB-nC63I",
-   "title": "日経平均終値3007円安 !アンソロピック上場も・・・暴落",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-11-20T07:57:14+00:00",
-   "overview": "日経平均株価が307円安と大きく売られ、ほぼ全面安の展開となった相場について解説しています。米国市場でのAI・半導体株の売りやFRBの利上げ再開観測などが重荷となり、日本市場でも下落トレンドが強まっています。個別の注目銘柄としては、配当利回りが上昇した藤倉や急落したキオクシアなどを挙げ、底打ちサインを確認するまでは焦って買い向かわず慎重に見極めるべきだとアドバイスしています。",
-   "market_view": "日経平均は307円安でほぼ全面安となり下落トレンドが継続中。利上げ観測やAI・半導体株売りなど向かい風が多く、テクニカル的にも天井感が出ているため、短期リバウンドがあっても上値は重く警戒が必要な局面。",
-   "market": "MIX",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "アンソロピック",
-     "ticker": "",
-     "stance": "bearish",
-     "timestamp": "00:35"
-    },
-    {
-     "name": "藤倉",
-     "ticker": "5803",
-     "stance": "neutral",
-     "timestamp": "09:27"
-    },
-    {
-     "name": "キオクシア",
-     "ticker": "285A",
-     "stance": "neutral",
-     "timestamp": "10:32"
     }
    ]
   },
