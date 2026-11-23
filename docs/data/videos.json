@@ -1,6 +1,21 @@
 {
- "generated_at": "2026-11-23T21:10:27.978409+09:00",
+ "generated_at": "2026-11-23T22:05:25.099876+09:00",
  "videos": [
+  {
+   "video_id": "q6VnhdQ8PgA",
+   "title": "11/23【日本株動くぞ‼半導体株大暴落で追証の嵐。日経平均急落ヤバいぞ‼】キオクシア急落助からない⁉ドル円158円。米国株、ナスダック、ハイテク株崩壊。仮想通貨BTC急落",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-11-23T12:44:12+00:00",
+   "overview": "",
+   "market_view": "",
+   "market": "",
+   "no_transcript": true,
+   "skip_reason": "この動画には字幕がありません",
+   "picks": []
+  },
   {
    "video_id": "t8lJC9CMKC8",
    "title": "今週（11/24〜）現状報告と展望を語る回",
@@ -220,70 +235,6 @@
      "ticker": "6857",
      "stance": "bearish",
      "timestamp": "11:12"
-    }
-   ]
-  },
-  {
-   "video_id": "OjmNHClsG18",
-   "title": "11/22【日本株木端微塵やばいやばい‼半導体株大暴落で追証の嵐。日経平均急落ヤバいぞ‼】キオクシア急落助からない⁉ドル円158円。米国株、ナスダック、ハイテク株崩壊。仮想通貨BTC急落",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-11-22T14:11:06+00:00",
-   "overview": "全体相場の急落や需給悪化を受けた今後の日本株の見通しと、年末に向けた戦略について解説しています。2018年の信用買い残高止まり相場と同様の暴落パターンを例に挙げ、11月中にキャッシュ比率を引き上げて12月の投げ売りを狙う準備の重要性を主張しています。また、個別銘柄では住友重機、クボタ、ダイキン、マツダ、リクルートなどのテクニカル形状や需給関係について詳細な分析を行っています。",
-   "market_view": "信用買い残が高止まりする中での急落となっており、2018年相場のような厳しい展開が続いています。短期的な自律反発は期待されるものの、12月の損益通算に向けた投げ売りを慎重に待ち、キャッシュを確保して買い場を探る姿勢が求められます。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "住友重機械工業",
-     "ticker": "6302",
-     "stance": "bearish",
-     "timestamp": "02:31"
-    },
-    {
-     "name": "クボタ",
-     "ticker": "6326",
-     "stance": "bearish",
-     "timestamp": "03:39"
-    },
-    {
-     "name": "三菱重工業",
-     "ticker": "7011",
-     "stance": "bearish",
-     "timestamp": "12:31"
-    },
-    {
-     "name": "IHI",
-     "ticker": "7013",
-     "stance": "bearish",
-     "timestamp": "19:04"
-    },
-    {
-     "name": "ダイキン工業",
-     "ticker": "6367",
-     "stance": "bullish",
-     "timestamp": "30:09"
-    },
-    {
-     "name": "日立製作所",
-     "ticker": "6501",
-     "stance": "bearish",
-     "timestamp": "30:57"
-    },
-    {
-     "name": "マツダ",
-     "ticker": "7261",
-     "stance": "neutral",
-     "timestamp": "33:50"
-    },
-    {
-     "name": "リクルートホールディングス",
-     "ticker": "6098",
-     "stance": "bearish",
-     "timestamp": "58:51"
     }
    ]
   },
