@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T03:05:06.004772+09:00",
+ "generated_at": "2026-11-24T04:05:06.481174+09:00",
  "channels": [
   {
    "id": "UCsaeHha7ai_NNX8or8Jyb-g",
@@ -231,7 +231,7 @@
     "market_open": false,
     "symbol": "285A.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T06:06:43.351444+00:00"
+    "fetched_at": "2026-11-23T19:05:06.518489+00:00"
    }
   },
   {
@@ -321,9 +321,9 @@
     "date": "2026-11-20",
     "close": 125.53,
     "change_pct": -14.01,
-    "live": 164.0,
-    "live_change_pct": 30.65,
-    "live_time": 1795457108,
+    "live": 165.16,
+    "live_change_pct": 31.57,
+    "live_time": 1795460710,
     "volume": 626373200,
     "volume_ratio": 2.52,
     "rsi14": 15.0,
@@ -379,7 +379,7 @@
     "market_open": true,
     "symbol": "NVDA",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T18:05:06.041781+00:00"
+    "fetched_at": "2026-11-23T19:05:06.518489+00:00"
    }
   },
   {
@@ -506,7 +506,7 @@
     "market_open": false,
     "symbol": "5803.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T06:06:43.351444+00:00"
+    "fetched_at": "2026-11-23T19:05:06.518489+00:00"
    }
   },
   {
@@ -633,7 +633,7 @@
     "market_open": false,
     "symbol": "6857.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T06:06:43.351444+00:00"
+    "fetched_at": "2026-11-23T19:05:06.518489+00:00"
    }
   },
   {
@@ -969,7 +969,7 @@
     "market_open": false,
     "symbol": "7550.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T06:06:43.351444+00:00"
+    "fetched_at": "2026-11-23T19:05:06.518489+00:00"
    }
   },
   {
@@ -1073,7 +1073,7 @@
     "market_open": false,
     "symbol": "4684.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T06:06:43.351444+00:00"
+    "fetched_at": "2026-11-23T19:05:06.518489+00:00"
    }
   },
   {
@@ -1218,7 +1218,7 @@
     "market_open": false,
     "symbol": "2413.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T06:16:08.563902+00:00"
+    "fetched_at": "2026-11-23T19:05:06.518489+00:00"
    }
   },
   {
@@ -1323,7 +1323,7 @@
     "market_open": false,
     "symbol": "4661.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T06:16:08.563902+00:00"
+    "fetched_at": "2026-11-23T19:05:06.518489+00:00"
    }
   },
   {
@@ -1427,7 +1427,7 @@
     "market_open": false,
     "symbol": "4004.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T06:16:08.563902+00:00"
+    "fetched_at": "2026-11-23T19:05:06.518489+00:00"
    }
   },
   {
@@ -1532,7 +1532,7 @@
     "market_open": false,
     "symbol": "4005.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T06:16:08.563902+00:00"
+    "fetched_at": "2026-11-23T19:05:06.518489+00:00"
    }
   },
   {
@@ -1637,7 +1637,7 @@
     "market_open": false,
     "symbol": "4063.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T06:16:08.563902+00:00"
+    "fetched_at": "2026-11-23T19:05:06.518489+00:00"
    }
   },
   {
@@ -1742,7 +1742,7 @@
     "market_open": false,
     "symbol": "4901.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T06:16:08.563902+00:00"
+    "fetched_at": "2026-11-23T19:05:06.518489+00:00"
    }
   },
   {
@@ -1847,7 +1847,7 @@
     "market_open": false,
     "symbol": "4911.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T06:16:08.563902+00:00"
+    "fetched_at": "2026-11-23T19:05:06.518489+00:00"
    }
   },
   {
@@ -1952,7 +1952,7 @@
     "market_open": false,
     "symbol": "4452.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T06:16:08.563902+00:00"
+    "fetched_at": "2026-11-23T19:05:06.518489+00:00"
    }
   },
   {
@@ -2078,7 +2078,7 @@
     "market_open": false,
     "symbol": "6532.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T06:06:43.351444+00:00"
+    "fetched_at": "2026-11-23T19:05:06.518489+00:00"
    }
   },
   {
@@ -2183,7 +2183,7 @@
     "market_open": false,
     "symbol": "4704.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T06:06:43.351444+00:00"
+    "fetched_at": "2026-11-23T19:05:06.518489+00:00"
    }
   },
   {
@@ -2288,7 +2288,7 @@
     "market_open": false,
     "symbol": "4307.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T06:06:43.351444+00:00"
+    "fetched_at": "2026-11-23T19:05:06.518489+00:00"
    }
   },
   {
@@ -2393,7 +2393,7 @@
     "market_open": false,
     "symbol": "6701.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T06:06:43.351444+00:00"
+    "fetched_at": "2026-11-23T19:05:06.518489+00:00"
    }
   },
   {
@@ -2497,7 +2497,7 @@
     "market_open": false,
     "symbol": "2331.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T06:06:43.351444+00:00"
+    "fetched_at": "2026-11-23T19:05:06.518489+00:00"
    }
   },
   {
@@ -2601,7 +2601,7 @@
     "market_open": false,
     "symbol": "9735.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T06:06:43.351444+00:00"
+    "fetched_at": "2026-11-23T19:05:06.518489+00:00"
    }
   },
   {
@@ -2706,7 +2706,7 @@
     "market_open": false,
     "symbol": "9843.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T06:06:43.351444+00:00"
+    "fetched_at": "2026-11-23T19:05:06.518489+00:00"
    }
   },
   {
@@ -2811,7 +2811,7 @@
     "market_open": false,
     "symbol": "9983.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T06:06:43.351444+00:00"
+    "fetched_at": "2026-11-23T19:05:06.518489+00:00"
    }
   },
   {
@@ -2915,7 +2915,7 @@
     "market_open": false,
     "symbol": "7832.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T06:06:43.351444+00:00"
+    "fetched_at": "2026-11-23T19:05:06.518489+00:00"
    }
   },
   {
@@ -3019,7 +3019,7 @@
     "market_open": false,
     "symbol": "7974.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T06:06:43.351444+00:00"
+    "fetched_at": "2026-11-23T19:05:06.518489+00:00"
    }
   },
   {
@@ -3123,7 +3123,7 @@
     "market_open": false,
     "symbol": "6758.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T06:06:43.351444+00:00"
+    "fetched_at": "2026-11-23T19:05:06.518489+00:00"
    }
   },
   {
@@ -3227,7 +3227,7 @@
     "market_open": false,
     "symbol": "9697.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T06:06:43.351444+00:00"
+    "fetched_at": "2026-11-23T19:05:06.518489+00:00"
    }
   },
   {
@@ -3372,7 +3372,7 @@
     "market_open": false,
     "symbol": "6976.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T06:06:43.351444+00:00"
+    "fetched_at": "2026-11-23T19:05:06.518489+00:00"
    }
   },
   {
@@ -3477,7 +3477,7 @@
     "market_open": false,
     "symbol": "^N225",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T06:06:43.351444+00:00"
+    "fetched_at": "2026-11-23T19:05:06.518489+00:00"
    }
   },
   {
@@ -3524,9 +3524,9 @@
     "date": "2026-11-20",
     "close": 25028.98,
     "change_pct": -5.61,
-    "live": 26751.93,
-    "live_change_pct": 6.88,
-    "live_time": 1795457114,
+    "live": 26797.94,
+    "live_change_pct": 7.07,
+    "live_time": 1795460777,
     "volume": 12469600000,
     "volume_ratio": 1.37,
     "rsi14": 26.5,
@@ -3582,7 +3582,7 @@
     "market_open": true,
     "symbol": "^NDX",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T18:05:06.041781+00:00"
+    "fetched_at": "2026-11-23T19:05:06.518489+00:00"
    }
   },
   {
@@ -3728,7 +3728,7 @@
     "market_open": false,
     "symbol": "1306.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T06:06:43.351444+00:00"
+    "fetched_at": "2026-11-23T19:05:06.518489+00:00"
    }
   },
   {
@@ -3833,7 +3833,7 @@
     "market_open": false,
     "symbol": "7936.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T06:06:43.351444+00:00"
+    "fetched_at": "2026-11-23T19:05:06.518489+00:00"
    }
   },
   {
@@ -3938,7 +3938,7 @@
     "market_open": false,
     "symbol": "6869.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T06:06:43.351444+00:00"
+    "fetched_at": "2026-11-23T19:05:06.518489+00:00"
    }
   },
   {
@@ -4043,7 +4043,7 @@
     "market_open": false,
     "symbol": "8035.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T06:06:43.351444+00:00"
+    "fetched_at": "2026-11-23T19:05:06.518489+00:00"
    }
   },
   {
@@ -4148,7 +4148,7 @@
     "market_open": false,
     "symbol": "4502.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T06:06:43.351444+00:00"
+    "fetched_at": "2026-11-23T19:05:06.518489+00:00"
    }
   },
   {
@@ -4253,7 +4253,7 @@
     "market_open": false,
     "symbol": "8136.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T06:06:43.351444+00:00"
+    "fetched_at": "2026-11-23T19:05:06.518489+00:00"
    }
   },
   {
@@ -4358,7 +4358,7 @@
     "market_open": false,
     "symbol": "4062.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T06:06:43.351444+00:00"
+    "fetched_at": "2026-11-23T19:05:06.518489+00:00"
    }
   },
   {
@@ -4463,7 +4463,7 @@
     "market_open": false,
     "symbol": "9984.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T06:06:43.351444+00:00"
+    "fetched_at": "2026-11-23T19:05:06.518489+00:00"
    }
   },
   {
@@ -4568,7 +4568,7 @@
     "market_open": false,
     "symbol": "5801.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T06:06:43.351444+00:00"
+    "fetched_at": "2026-11-23T19:05:06.518489+00:00"
    }
   },
   {
@@ -4673,7 +4673,7 @@
     "market_open": false,
     "symbol": "5706.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-23T06:06:43.351444+00:00"
+    "fetched_at": "2026-11-23T19:05:06.518489+00:00"
    }
   },
   {
@@ -4778,7 +4778,7 @@
     "market_open": false,
     "symbol": "5016.T",
     "source": "yahoo-search",
-    "fetched_at": "2026-11-23T06:06:43.351444+00:00"
+    "fetched_at": "2026-11-23T19:05:06.518489+00:00"
    }
   }
  ]
