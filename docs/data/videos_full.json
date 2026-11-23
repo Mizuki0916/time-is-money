@@ -9,13 +9,165 @@
    "channel_name": "Sho's投資情報局",
    "channel_short": "Sho",
    "slot": 3,
-   "no_transcript": true,
-   "skip_reason": "この動画には字幕がありません",
-   "attempts": 3,
-   "overview": "",
-   "market_view": "",
-   "market": "",
-   "picks": []
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "日経平均先物が戻りを見せるものの、半導体株の急落や韓国株の調整を受けて連動安への警戒感が示されています。相場全体では需給の悪い銘柄が年末に向けて投げ売りされる一方、需給が軽い銘柄や上昇バンドウォークを維持する銘柄へ資金が向かう二極化が指摘されています。安易な値ごろ感での買いを避け、投げ売りが一巡したタイミングを見極める重要性が強調されています。",
+   "market_view": "年末に向けた信用の投げ売りや受給要因による下落警戒が続く中、受給の軽い銘柄と悪い銘柄で明暗が分かれる二極化相場となっています。",
+   "market": "JP",
+   "picks": [
+    {
+     "name": "キオクシア",
+     "name_en": "Kioxia Holdings Corporation",
+     "ticker": "285A",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "韓国コスピ急落や連動安で投げ売り警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "韓国コスピ指数の下落に連動しやすく週明けにかけて投げ売りが続く警戒感があるため。",
+      "AIバブル崩壊に伴う半導体株全体の急落を受けて株価調整が激しくなっているため。"
+     ],
+     "timestamp": "03:45",
+     "confidence": "medium"
+    },
+    {
+     "name": "M3",
+     "name_en": "M3, Inc.",
+     "ticker": "2413",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "下落バンドウォーク継続で警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "日足が下落方向にバンドウォークを形成しており下のラインから剥がれるまで下落傾向のため。",
+      "200日移動平均線を下回りパラボリックやMacDの起動修正が入るかを見る状況のため。"
+     ],
+     "timestamp": "09:04",
+     "confidence": "low"
+    },
+    {
+     "name": "オリエンタルランド",
+     "name_en": "Oriental Land Co., Ltd.",
+     "ticker": "4661",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "空売りの買い戻しによる上昇期待",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "空売りが大量に入っており年末に向けてショートカバーが進む可能性があるため。",
+      "株価が調整してもボリンジャーバンド中央線や25日線で反転上昇する底強さがあるため。"
+     ],
+     "timestamp": "09:38",
+     "confidence": "medium"
+    },
+    {
+     "name": "レゾナック",
+     "name_en": "Resonac Holdings Corporation",
+     "ticker": "4004",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "デッドクロス形成で年末警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "200日移動平均線との断続的なデッドクロス形成が見え始めており年末に向け不穏なため。"
+     ],
+     "timestamp": "10:36",
+     "confidence": "low"
+    },
+    {
+     "name": "住友化学",
+     "name_en": "Sumitomo Chemical Company, Limited",
+     "ticker": "4005",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "需給悪化とデッドクロスで投げ売り警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "信用倍率が約78.8倍と需給が非常に悪く信用買いの多さが上値を重くしているため。",
+      "200日移動平均線を下回り長期線とのデッドクロス形成で見切られやすくなっているため。"
+     ],
+     "timestamp": "17:45",
+     "confidence": "medium"
+    },
+    {
+     "name": "信越化学",
+     "name_en": "Shin-Etsu Chemical Co., Ltd.",
+     "ticker": "4063",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "需給悪化と下落トレンド形成",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "200日移動平均線を下回り断続的なデッドクロスを形成して需給が悪化しているため。",
+      "明確な強気のダイバージェンスが発動するまでは底模索が続く可能性があるため。"
+     ],
+     "timestamp": "22:11",
+     "confidence": "medium"
+    },
+    {
+     "name": "富士フイルム",
+     "name_en": "FUJIFILM Holdings Corporation",
+     "ticker": "4901",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "上昇バンドウォークと需給改善で強い",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "株価が上昇方向にバンドウォークを形成しており非常に強い値動きが続いているため。",
+      "6月をピークに信用改ざんが大幅に減少整理されており需給環境が良好なため。"
+     ],
+     "timestamp": "46:23",
+     "confidence": "medium"
+    },
+    {
+     "name": "資生堂",
+     "name_en": "Shiseido Company, Limited",
+     "ticker": "4911",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "急落前高値への戻りと良好な需給",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "中国事業の売却材料等を背景に急落前の高値近辺まで力強く買い戻されているため。",
+      "信用倍率が0.72倍と売り先行の需給良好な状態にあり売り圧力が軽いため。"
+     ],
+     "timestamp": "51:30",
+     "confidence": "medium"
+    },
+    {
+     "name": "花王",
+     "name_en": "Kao Corporation",
+     "ticker": "4452",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "良好な需給と移動平均線のゴールデンクロス",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "200日移動平均線をはじめとする各移動平均線が相次いでゴールデンクロスしたため。",
+      "制度信用倍率が0.86倍と良好な受給環境を維持して上昇トレンドを描いているため。"
+     ],
+     "timestamp": "51:46",
+     "confidence": "medium"
+    }
+   ]
   },
   {
    "video_id": "OjmNHClsG18",

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T15:08:26.593410+09:00",
+ "generated_at": "2026-11-23T15:16:31.873830+09:00",
  "videos": [
   {
    "video_id": "8w16BoE46Sk",
@@ -9,12 +9,67 @@
    "channel_short": "Sho",
    "slot": 3,
    "published": "2026-11-23T05:34:09+00:00",
-   "overview": "",
-   "market_view": "",
-   "market": "",
-   "no_transcript": true,
-   "skip_reason": "この動画には字幕がありません",
-   "picks": []
+   "overview": "日経平均先物が戻りを見せるものの、半導体株の急落や韓国株の調整を受けて連動安への警戒感が示されています。相場全体では需給の悪い銘柄が年末に向けて投げ売りされる一方、需給が軽い銘柄や上昇バンドウォークを維持する銘柄へ資金が向かう二極化が指摘されています。安易な値ごろ感での買いを避け、投げ売りが一巡したタイミングを見極める重要性が強調されています。",
+   "market_view": "年末に向けた信用の投げ売りや受給要因による下落警戒が続く中、受給の軽い銘柄と悪い銘柄で明暗が分かれる二極化相場となっています。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "キオクシア",
+     "ticker": "285A",
+     "stance": "bearish",
+     "timestamp": "03:45"
+    },
+    {
+     "name": "M3",
+     "ticker": "2413",
+     "stance": "bearish",
+     "timestamp": "09:04"
+    },
+    {
+     "name": "オリエンタルランド",
+     "ticker": "4661",
+     "stance": "bullish",
+     "timestamp": "09:38"
+    },
+    {
+     "name": "レゾナック",
+     "ticker": "4004",
+     "stance": "bearish",
+     "timestamp": "10:36"
+    },
+    {
+     "name": "住友化学",
+     "ticker": "4005",
+     "stance": "bearish",
+     "timestamp": "17:45"
+    },
+    {
+     "name": "信越化学",
+     "ticker": "4063",
+     "stance": "bearish",
+     "timestamp": "22:11"
+    },
+    {
+     "name": "富士フイルム",
+     "ticker": "4901",
+     "stance": "bullish",
+     "timestamp": "46:23"
+    },
+    {
+     "name": "資生堂",
+     "ticker": "4911",
+     "stance": "bullish",
+     "timestamp": "51:30"
+    },
+    {
+     "name": "花王",
+     "ticker": "4452",
+     "stance": "bullish",
+     "timestamp": "51:46"
+    }
+   ]
   },
   {
    "video_id": "o-MYA-vuI9o",
