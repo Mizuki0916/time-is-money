@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-24T05:05:06.683235+00:00",
+ "updated_at": "2026-11-24T09:19:58.721062+00:00",
  "symbols": {
   "JP:1111": {
    "date": "2026-08-17",
@@ -4168,8 +4168,8 @@
    "live": null,
    "live_change_pct": null,
    "live_time": null,
-   "volume": 753692010,
-   "volume_ratio": 2.74,
+   "volume": 779184200,
+   "volume_ratio": 2.82,
    "rsi14": 42.9,
    "rsi_zone": "中立",
    "ma25": 186.23,
@@ -4223,7 +4223,7 @@
    "market_open": false,
    "symbol": "NVDA",
    "source": "yahoo",
-   "fetched_at": "2026-11-23T21:05:06.642088+00:00"
+   "fetched_at": "2026-11-24T09:19:58.721062+00:00"
   },
   "JP:593A": {
    "date": "2026-09-08",
@@ -10306,8 +10306,8 @@
    "live": null,
    "live_change_pct": null,
    "live_time": null,
-   "volume": 2427346000,
-   "volume_ratio": 0.27,
+   "volume": 11346040000,
+   "volume_ratio": 1.23,
    "rsi14": 42.0,
    "rsi_zone": "中立",
    "ma25": 28073.77,
@@ -10361,7 +10361,7 @@
    "market_open": false,
    "symbol": "^NDX",
    "source": "yahoo",
-   "fetched_at": "2026-11-23T21:05:06.642088+00:00"
+   "fetched_at": "2026-11-24T09:19:58.721062+00:00"
   },
   "IDX:^TOPX": {
    "date": "2026-11-20",
