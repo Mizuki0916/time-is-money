@@ -1,9 +1,9 @@
 {
  "videos": [
   {
-   "video_id": "q6VnhdQ8PgA",
-   "title": "11/23【日本株動くぞ‼半導体株大暴落で追証の嵐。日経平均急落ヤバいぞ‼】キオクシア急落助からない⁉ドル円158円。米国株、ナスダック、ハイテク株崩壊。仮想通貨BTC急落",
-   "published": "2026-11-23T14:10:31+00:00",
+   "video_id": "iWrx_K0J3DI",
+   "title": "11/24【日本株騙し上げ警戒】半導体株急騰ヤバいぞ‼日経平均大幅高でキオクシア暴落助かる⁉エヌビディア爆上げで米国株、ナスダック、ハイテク株大幅高。ドル円159円。仮想通貨BTC急落",
+   "published": "2026-11-24T14:42:56+00:00",
    "description": "「10か月20％オフ」のメンバークーポンの有効期限11/22まで。枚数制限あり\nMEDIABLEのVIP、プラチナが対象です。\n\n ※クーポンコード：birthday38\n\n◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーー",
    "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
    "channel_name": "Sho's投資情報局",
@@ -11,145 +11,162 @@
    "slot": 3,
    "no_transcript": false,
    "skip_reason": "",
-   "overview": "動画では、米株先物の反発や半導体株急落に伴う相場環境、個人投資家の需給悪化や追証リスクについて解説されています。年末に向けた戦略として、需給が軽くて移動平均線が好形状な出遅れ株に注目する一方、安易な底値探しや無限ナンピンを避け、守備力を重視したリスク管理を推奨しています。また、配信終盤にはNVIDIAの電撃材料による時間外株価の急速な反発についても触れられています。",
-   "market_view": "短期的には売られすぎからの自立反発が期待されるものの、年末にかけて投げ売りや戻り売りが出やすい環境。底値探しの焦りを捨て、需給が良好な銘柄の初動を狙う姿勢が重要です。",
+   "overview": "日経平均の大幅高や前日の半導体株急騰について、前回の暴落に対する一時的なショートカバー(騙し上げ)の可能性が高いと解説しています。AI規制論やトランプ氏による追加関税報道など地合いへの警戒感は残っており、年末に向けて需給の悪い半導体株は戻り売りに押され二極化が進むと予測。安易な買い持ちは避け、需給改善銘柄の押し目買いやデイトレに絞った冷静な対応を推奨しています。",
+   "market_view": "年末にかけては需給が良い銘柄と悪い銘柄の二極化が一段と進行する見通しであり、半導体株などの需給悪化銘柄は一時的な急騰があっても戻り売りに押されやすい地合いです。",
    "market": "MIX",
    "picks": [
+    {
+     "name": "キオクシア",
+     "name_en": "Kioxia Holdings",
+     "ticker": "285A",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "ショートカバー主導の戻り売り警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "10%近く急騰したものの直近暴落からの修正波に過ぎず、安値圏で買えた人以外は依然盛大な含み損を抱えているため。",
+      "信用売りの買い戻しによるショートカバー主導の上昇であり、米国時間外取引でもメモリ関連銘柄が再度下落しているため。"
+     ],
+     "timestamp": "15:19",
+     "confidence": "high"
+    },
+    {
+     "name": "エヌビディア",
+     "name_en": "NVIDIA Corporation",
+     "ticker": "NVDA",
+     "market": "US",
+     "stance": "neutral",
+     "stance_note": "買い戻し一巡後の戻り売り警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "経営陣の復帰報道に伴うヘッジファンドの空売り買い戻し(ショートカバー)で前日急騰となったため。",
+      "中国向けAI規制論など根本的な悪材料が残されており、以前のような上昇トレンドへ即座に戻ることは難しいため。"
+     ],
+     "timestamp": "04:42",
+     "confidence": "high"
+    },
+    {
+     "name": "ソフトバンクグループ",
+     "name_en": "SoftBank Group Corp.",
+     "ticker": "9984",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "需給悪化により半年程度は上値が重い",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "信用買い残が約2900万株まで積み上がっており、買い方の整理が進まない限り上値が非常に重い展開が続くため。",
+      "高値からの暴落後は信用整理が進むまで半年間は上昇しづらいという、過去のパターンが当てはまるため。"
+     ],
+     "timestamp": "45:31",
+     "confidence": "high"
+    },
+    {
+     "name": "任天堂",
+     "name_en": "Nintendo Co., Ltd.",
+     "ticker": "7974",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "年末商戦とゴールデンクロス形成期待",
+     "target_price": "10970",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "11月末に向けて100日移動平均線と200日移動平均線のゴールデンクロス形成が入るテクニカル面での好形状が見られるため。",
+      "年末のクリスマス商戦に加え、来年に向けた新タイトルやIP展開による業績貢献への期待感が持てるため。"
+     ],
+     "timestamp": "17:37",
+     "confidence": "medium"
+    },
+    {
+     "name": "アシックス",
+     "name_en": "ASICS Corporation",
+     "ticker": "7936",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "バンドウォーク下落と指標悪化で手出し無用",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "ストキャスティクスやMACDがデッドクロスを形成しており、明確な下落トレンドが開始しているため。",
+      "ボリンジャーバンドの下限に沿った下落(バンドウォーク)が進行しており、底打ち確認まで安易な買いは危険なため。"
+     ],
+     "timestamp": "50:53",
+     "confidence": "medium"
+    }
+   ]
+  },
+  {
+   "video_id": "NLpGWmPAPfQ",
+   "title": "11/24【日本株騙し上げ警戒】半導体株急騰ヤバいぞ‼日経平均大幅高でキオクシア暴落助かる⁉エヌビディア爆上げで米国株、ナスダック、ハイテク株大幅高。ドル円159円。仮想通貨BTC急落",
+   "published": "2026-11-24T09:15:00+00:00",
+   "description": "「10か月20％オフ」のメンバークーポンの有効期限11/22まで。枚数制限あり\nMEDIABLEのVIP、プラチナが対象です。\n\n ※クーポンコード：birthday38\n\n◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーー",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "本動画では、エヌビディアCEO復帰劇に伴う半導体株や日経平均の急騰について、ショートカバー主導の「騙し上げ」の可能性が高いと解説されています。全体の信用倍率悪化や空売り燃料不足、理論株価の下方修正など構造的な問題は解消しておらず、年末に向けた損益通算や信用買いの投げ売り警戒を呼びかけています。個別では受給の悪い半導体株の戻り売りを推奨する一方、受給改善が進むオリエンタルランドなどの二極化銘柄に着目しています。",
+   "market_view": "受給悪化と空売り燃料不足により目先の急騰は単発のショートカバーにとどまる可能性があり、年末にかけて二極化相場と投げ売り波乱に警戒が必要です。",
+   "market": "MIX",
+   "picks": [
+    {
+     "name": "日経平均株価",
+     "name_en": "Nikkei 225",
+     "ticker": "N225",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "ショートカバー主導の騙し上げ警戒と戻り売り",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "信用買残が高止まりしており空売り燃料が不足しているため、急騰後の戻り高値は売り場となり年末に向けて投げ売りが続く可能性がある。",
+      "日経平均の理論株価過法修正やビックス指数の下落サイン点灯が続いており、メジャーSQやFOMC通過に向けた波乱に警戒が必要である。"
+     ],
+     "timestamp": "01:21",
+     "confidence": "high"
+    },
+    {
+     "name": "エヌビディア",
+     "name_en": "NVIDIA Corporation",
+     "ticker": "NVDA",
+     "market": "US",
+     "stance": "neutral",
+     "stance_note": "CEO復帰劇による急騰後の反落・戻り売り警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "CEO復帰のサプライズで株価が急騰したが、上昇の主因はショートカバーでありAI規制などの根本的な問題が解決したわけではない。",
+      "ショートの買い戻しが一巡した後は再び戻り売りに押される可能性があり、持続性を見極めるまでは警戒が必要である。"
+     ],
+     "timestamp": "01:36",
+     "confidence": "high"
+    },
     {
      "name": "キオクシアホールディングス",
      "name_en": "Kioxia Holdings Corporation",
      "ticker": "285A",
      "market": "JP",
      "stance": "bearish",
-     "stance_note": "個人投資家の捕まりが多く戻り売り懸念強し",
+     "stance_note": "自立反発後のやれやれ売りと信用期日警戒",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "個人投資家の狼狽売りや過度なナンピンによる捕まりが多く、盛大に捕まっているため戻り売りの圧力が強い。",
-      "自立反発が入ってもデイトレーダーの売り浴びせにより上値が重く、元の株価に戻るには相当な時間を要する見込み。"
+      "株価が約10%急騰したものの戻り待ちの含み損ポジションが大量に残っており、戻り売り圧力が強い状態が続いている。",
+      "12月の損益通算や半年の信用期日到来に伴う投げ売りが出やすいため、年末に向けた下落リスクに注意を要する。"
      ],
-     "timestamp": "05:48",
-     "confidence": "high"
-    },
-    {
-     "name": "味の素",
-     "name_en": "Ajinomoto Co., Inc.",
-     "ticker": "2802",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "半導体安の連れ安と下落トレンドが継続",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "半導体関連材料を手掛けるテック系要素があるため、半導体株の下落局面の巻き添えを喰らい崩れている。",
-      "200日移動平均線との継続的なデッドクロスを形成しており、フィボナッチの安値ラインに向かって下落中。"
-     ],
-     "timestamp": "10:20",
+     "timestamp": "42:00",
      "confidence": "medium"
-    },
-    {
-     "name": "日本郵船",
-     "name_en": "Nippon Yusen Kabushiki Kaisha",
-     "ticker": "9101",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "デッドクロス接近で下げ止まり未確認",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "ヘッドアンドショルダー形成の懸念があり、25日線と75日線のデッドクロスが間近に迫り下落トレンド傾向にある。",
-      "チャートの足元に底止まりの明確なサインが見られず、テクニカル的に安易に拾いにいける状況ではない。"
-     ],
-     "timestamp": "18:49",
-     "confidence": "medium"
-    },
-    {
-     "name": "フジクラ",
-     "name_en": "Fujikura Ltd.",
-     "ticker": "5803",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "下落バンドウォーク継続で調整局面が持続",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "個人人気でNISA買い付け上位だが需給が悪化しており、急激な下落角度で調整が続いている。",
-      "下落方向へのバンドウォークが続いており、終了サインが出るまでは下げ止まりを期待しづらい。"
-     ],
-     "timestamp": "46:03",
-     "confidence": "medium"
-    },
-    {
-     "name": "NVIDIA",
-     "name_en": "NVIDIA Corporation",
-     "ticker": "NVDA",
-     "market": "US",
-     "stance": "bullish",
-     "stance_note": "CEO復帰等の電撃報道により時間外で急反発",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "ジェンスン・ファンCEOの復帰決定などの材料が伝わり、時間外取引で株価が大きく跳ね上がる展開となった。",
-      "米ハイテク株やナスダック先物の急速な買い戻しを牽引し、短期的な自立反発のトリガーとなっている。"
-     ],
-     "timestamp": "55:06",
-     "confidence": "high"
-    }
-   ]
-  },
-  {
-   "video_id": "8w16BoE46Sk",
-   "title": "11/23【日本株、半導体株大暴落で追証の嵐。日経平均急落ヤバいぞ‼】キオクシア急落助からない⁉ドル円158円。米国株、ナスダック、ハイテク株崩壊。仮想通貨BTC急落",
-   "published": "2026-11-23T05:34:09+00:00",
-   "description": "「10か月20％オフ」のメンバークーポンの有効期限11/22まで。枚数制限あり\nMEDIABLEのVIP、プラチナが対象です。\n\n ※クーポンコード：birthday38\n\n◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーー",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "日経平均先物が戻りを見せるものの、半導体株の急落や韓国株の調整を受けて連動安への警戒感が示されています。相場全体では需給の悪い銘柄が年末に向けて投げ売りされる一方、需給が軽い銘柄や上昇バンドウォークを維持する銘柄へ資金が向かう二極化が指摘されています。安易な値ごろ感での買いを避け、投げ売りが一巡したタイミングを見極める重要性が強調されています。",
-   "market_view": "年末に向けた信用の投げ売りや受給要因による下落警戒が続く中、受給の軽い銘柄と悪い銘柄で明暗が分かれる二極化相場となっています。",
-   "market": "JP",
-   "picks": [
-    {
-     "name": "キオクシア",
-     "name_en": "Kioxia Holdings Corporation",
-     "ticker": "285A",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "韓国コスピ急落や連動安で投げ売り警戒",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "韓国コスピ指数の下落に連動しやすく週明けにかけて投げ売りが続く警戒感があるため。",
-      "AIバブル崩壊に伴う半導体株全体の急落を受けて株価調整が激しくなっているため。"
-     ],
-     "timestamp": "03:45",
-     "confidence": "medium"
-    },
-    {
-     "name": "M3",
-     "name_en": "M3, Inc.",
-     "ticker": "2413",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "下落バンドウォーク継続で警戒",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "日足が下落方向にバンドウォークを形成しており下のラインから剥がれるまで下落傾向のため。",
-      "200日移動平均線を下回りパラボリックやMacDの起動修正が入るかを見る状況のため。"
-     ],
-     "timestamp": "09:04",
-     "confidence": "low"
     },
     {
      "name": "オリエンタルランド",
@@ -157,116 +174,15 @@
      "ticker": "4661",
      "market": "JP",
      "stance": "bullish",
-     "stance_note": "空売りの買い戻しによる上昇期待",
+     "stance_note": "信用買いの整理が進み受給改善で上昇基調",
      "target_price": "",
      "entry": "",
      "stop": "",
      "reasons": [
-      "空売りが大量に入っており年末に向けてショートカバーが進む可能性があるため。",
-      "株価が調整してもボリンジャーバンド中央線や25日線で反転上昇する底強さがあるため。"
+      "6月ボトムから信用の買い残整理が段階的に進んで受給が改善しており、200日移動平均線とゴールデンクロスを形成している。",
+      "半導体株などの受給悪化銘柄とは異なり、年末に向けて二極化相場の上昇側に位置する選好銘柄として推移している。"
      ],
-     "timestamp": "09:38",
-     "confidence": "medium"
-    },
-    {
-     "name": "レゾナック",
-     "name_en": "Resonac Holdings Corporation",
-     "ticker": "4004",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "デッドクロス形成で年末警戒",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "200日移動平均線との断続的なデッドクロス形成が見え始めており年末に向け不穏なため。"
-     ],
-     "timestamp": "10:36",
-     "confidence": "low"
-    },
-    {
-     "name": "住友化学",
-     "name_en": "Sumitomo Chemical Company, Limited",
-     "ticker": "4005",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "需給悪化とデッドクロスで投げ売り警戒",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "信用倍率が約78.8倍と需給が非常に悪く信用買いの多さが上値を重くしているため。",
-      "200日移動平均線を下回り長期線とのデッドクロス形成で見切られやすくなっているため。"
-     ],
-     "timestamp": "17:45",
-     "confidence": "medium"
-    },
-    {
-     "name": "信越化学",
-     "name_en": "Shin-Etsu Chemical Co., Ltd.",
-     "ticker": "4063",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "需給悪化と下落トレンド形成",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "200日移動平均線を下回り断続的なデッドクロスを形成して需給が悪化しているため。",
-      "明確な強気のダイバージェンスが発動するまでは底模索が続く可能性があるため。"
-     ],
-     "timestamp": "22:11",
-     "confidence": "medium"
-    },
-    {
-     "name": "富士フイルム",
-     "name_en": "FUJIFILM Holdings Corporation",
-     "ticker": "4901",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "上昇バンドウォークと需給改善で強い",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "株価が上昇方向にバンドウォークを形成しており非常に強い値動きが続いているため。",
-      "6月をピークに信用改ざんが大幅に減少整理されており需給環境が良好なため。"
-     ],
-     "timestamp": "46:23",
-     "confidence": "medium"
-    },
-    {
-     "name": "資生堂",
-     "name_en": "Shiseido Company, Limited",
-     "ticker": "4911",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "急落前高値への戻りと良好な需給",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "中国事業の売却材料等を背景に急落前の高値近辺まで力強く買い戻されているため。",
-      "信用倍率が0.72倍と売り先行の需給良好な状態にあり売り圧力が軽いため。"
-     ],
-     "timestamp": "51:30",
-     "confidence": "medium"
-    },
-    {
-     "name": "花王",
-     "name_en": "Kao Corporation",
-     "ticker": "4452",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "良好な需給と移動平均線のゴールデンクロス",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "200日移動平均線をはじめとする各移動平均線が相次いでゴールデンクロスしたため。",
-      "制度信用倍率が0.86倍と良好な受給環境を維持して上昇トレンドを描いているため。"
-     ],
-     "timestamp": "51:46",
+     "timestamp": "44:13",
      "confidence": "medium"
     }
    ]
