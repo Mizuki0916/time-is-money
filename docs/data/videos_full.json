@@ -443,6 +443,193 @@
    ]
   },
   {
+   "video_id": "J5paaoMbgjo",
+   "title": "NVIDIAファン氏復帰の衝撃！株式テクニカルチャート分析",
+   "published": "2026-11-24T07:08:19+00:00",
+   "description": "🔽日本株オンラインサロンやってます！波乱の相場を乗り切ろう🌊\nエンジョイプランはいつでも初月無料で参加できます★\n→　https://yoor.jp/door/tradertomo\n\n※ 参加プラン別のサービス内容はこちらの動画で解説しています。\n→https://youtu.be/AGZetFvA-Xk?si=Qy_ctky7kW1QSOHX\n\n株好きが集まる楽しいサロンを目指してます♪\n初心者歓迎です～ご参加お待ちしています！\n\n🔽サブチャンネルもやってます＾＾\nhttps://www.youtube.com/@TOMO-subtrader\n\n---------------------------------------------\n🔽公式LINEやってます！ともだち登録お願いします☆\n---------------------------------------------\n\n「うね",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "NVIDIAのジェンスン・ファン氏復帰報道を受けて指数が急反発したものの、AI関連の財務懸念や利上げリスクから上昇持続には慎重な見方を示しています。日経225のチャート分析では下落トレンド継続による戻り売り警戒を解説。個別の活況銘柄テクニカル分析では、底堅いキオクシアやアドバンテストに期待を寄せる一方で、上値にしこりが残る銘柄に対しては静観や慎重なトレードを促しています。",
+   "market_view": "日経225は4時間足で下落トレンドが継続しており、ダブルボトム形成の兆候は見られるものの追加利上げ懸念等のリスクイベントを控え、トレンド転換までは冷静な見極めが必要です。",
+   "market": "MIX",
+   "picks": [
+    {
+     "name": "NVIDIA",
+     "name_en": "NVIDIA Corporation",
+     "ticker": "NVDA",
+     "market": "US",
+     "stance": "neutral",
+     "stance_note": "復帰は安心感もリスク残り判断保留",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "ジェンスン・ファンCEOの復帰報道で株価は大きく上昇し一安心感があるものの、AI関連の財務懸念や利上げ懸念が残る。",
+      "年末に向けてリスクイベントが控えているため、これをもって反転で強く上昇していくと判断するのは簡単ではない。"
+     ],
+     "timestamp": "00:17",
+     "confidence": "medium"
+    },
+    {
+     "name": "キオクシア",
+     "name_en": "Kioxia Holdings Corporation",
+     "ticker": "285A",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "8000円台からの上値を優先的に狙う",
+     "target_price": "",
+     "entry": "8000円から上",
+     "stop": "",
+     "reasons": [
+      "寄つきからの売りを吸収して陽線で引けており、8000円の節目ラインで支持線を固める底力が見られる。",
+      "出来高が高水準を維持しており注目度も高いため、明日のトレードでは優先的に上値を狙いやすい銘柄である。"
+     ],
+     "timestamp": "04:30",
+     "confidence": "high"
+    },
+    {
+     "name": "フジクラ",
+     "name_en": "Fujikura Ltd.",
+     "ticker": "5803",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "上値のしこりが強く攻めづらい",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "銅価格との連動性や出来高はあるものの陰線で引けており、上がしこっているため上昇が難しい。",
+      "ギャップアップしたとしても上値の売りに押されやすい展開が続く見込みで攻めづらい状況である。"
+     ],
+     "timestamp": "05:22",
+     "confidence": "high"
+    },
+    {
+     "name": "ソフトバンクグループ",
+     "name_en": "SoftBank Group Corp.",
+     "ticker": "9984",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "上髭陰線で上値が重く攻めづらい",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "3000円のラインを一度割り込んでおり、需給面の整理は進むものの直近の上髭陰線が重たい印象を与える。",
+      "他の銘柄と比較して勢いが見られず、上値の重さが目立つためデイトレ等でも狙いにくい展開が続く。"
+     ],
+     "timestamp": "06:08",
+     "confidence": "high"
+    },
+    {
+     "name": "アドバンテスト",
+     "name_en": "Advantest Corporation",
+     "ticker": "6857",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "続き足以上で上髭取りを狙う",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "NVIDIA関連として活況であり、2万7000円のサポートラインが機能して日経下落時も崩れなかった。",
+      "2万8000円が壁となったものの出来高は2400万株と活況で、明日以降に上髭を取りに行く動きが期待できる。"
+     ],
+     "timestamp": "06:43",
+     "confidence": "high"
+    },
+    {
+     "name": "太陽誘電",
+     "name_en": "Taiyo Yuden Co., Ltd.",
+     "ticker": "6976",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "7000円超えを確認後にエントリー検討",
+     "target_price": "",
+     "entry": "7000円を下にから上に抜けてから",
+     "stop": "",
+     "reasons": [
+      "一時ストップ高まで上昇する活況を見せたが、終値で7000円の節目ラインをキープできなかった。",
+      "後半ダラダラと下げる展開となったため、明日以降エントリーする際は7000円を明確に上抜けるか注視が必要。"
+     ],
+     "timestamp": "07:37",
+     "confidence": "high"
+    },
+    {
+     "name": "東京エレクトロン",
+     "name_en": "Tokyo Electron Limited",
+     "ticker": "8035",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "1万円突破までスイングは控えめ",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "出来高は多いもののギャップアップ後に垂れて9000円を割るなど、上値にしこりが残る展開となっている。",
+      "節目となる9000円の重さを超えられていないため、1万円を抜けるまではスイングトレードは控えめが推奨される。"
+     ],
+     "timestamp": "08:24",
+     "confidence": "high"
+    },
+    {
+     "name": "古河電気工業",
+     "name_en": "Furukawa Electric Co., Ltd.",
+     "ticker": "5801",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "トレンド下方向でスイング・デイトレ非推奨",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "陽線で引けてフジクラよりは良好だが、先週からの下落で2000円を割り込みスイングのシコリが溜まっている。",
+      "全体として下方向のトレンドが継続しており、上が重いためデイトレでもスイングでも狙いにくい。"
+     ],
+     "timestamp": "09:10",
+     "confidence": "high"
+    },
+    {
+     "name": "三菱重工業",
+     "name_en": "Mitsubishi Heavy Industries, Ltd.",
+     "ticker": "7011",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "2900円付近のしこり解消までスイングは見送り",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "寄り付きのスタートダッシュは良かったものの、2900円手前で上髭となり先週のしこりを解消できていない。",
+      "しこり解消なしには上昇トレンドへの回帰が難しいため、現時点でスイングに入るのは時期尚早とされる。"
+     ],
+     "timestamp": "10:10",
+     "confidence": "high"
+    },
+    {
+     "name": "JX金属",
+     "name_en": "JX Advanced Metals Corporation",
+     "ticker": "5016",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "上値が重くトレンド転換まで静観",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "銅価格の影響を受ける中で陰線引けとなり、出来高も2300万株にとどまり上が重い状態が続いている。",
+      "上値のシコリが強くトレンド転換まではほど遠い状況であるため、現時点では静観が推奨される。"
+     ],
+     "timestamp": "10:48",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
    "video_id": "o-MYA-vuI9o",
    "title": "連休明けの注目銘柄を見ていく！（キオクシア・アドバンテスト・太陽誘電・ベイカレント・トレンドマイクロ・バンダイナムコなど）株式テクニカルチャート分析",
    "published": "2026-11-22T23:00:19+00:00",
@@ -721,142 +908,6 @@
      ],
      "timestamp": "11:12",
      "confidence": "high"
-    }
-   ]
-  },
-  {
-   "video_id": "C6swYyaY7h4",
-   "title": "来週の相場に備えて！　日本株チャート分析LIVE　11/22",
-   "published": "2026-11-22T07:09:22+00:00",
-   "description": "",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "日経平均株価の下落や米国株安を受けた日本株相場の現状と、来週に向けたチャート分析をLIVE形式で解説した動画です。データセンター関連や半導体銘柄の需給悪化・調整が続く一方、地合いの影響を受けにくい非AI銘柄やIP関連株、医薬品株などに買い機会を見出しています。全体相場の本格的なスイング買いは春頃まで慎重姿勢を推奨しつつ、デイトレードや短期リバウンド狙いの戦略を提示しています。",
-   "market_view": "米株安や半導体株の調整を受けて日経平均は軟調な展開が予想され、本格的なスイング投資のタイミングは春頃まで慎重に見極める必要があります。",
-   "market": "JP",
-   "picks": [
-    {
-     "name": "アシックス",
-     "name_en": "ASICS Corporation",
-     "ticker": "7936",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "決算後の持ち合い期間を静観",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "決算通過後の下げすぎ感はあるものの本決算期に下落する季節性が見られるため。",
-      "前回の決算後と同様に底固めから回復するまで1ヶ月程度の持ち合いが必要なため。"
-     ],
-     "timestamp": "01:59",
-     "confidence": "high"
-    },
-    {
-     "name": "シスメックス",
-     "name_en": "Sysmex Corporation",
-     "ticker": "6869",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "良好なトレンドで押し目狙い",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "全体相場の影響を受けにくい医療機器分野で長期的な上昇トレンドを維持しているため。",
-      "チャート上で2000円のラインが下値支持線として機能しており買いを狙える足形なため。"
-     ],
-     "timestamp": "07:52",
-     "confidence": "medium"
-    },
-    {
-     "name": "東京エレクトロン",
-     "name_en": "Tokyo Electron Limited",
-     "ticker": "8035",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "長期下降トレンド継続で慎重",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "長期の移動平均線が全て下向きであり高値を切り下げる厳しい展開が継続しているため。",
-      "信用買い残が1000万株規模と高水準で積み上がっており馬中で陰線が出やすい需給なため。"
-     ],
-     "timestamp": "08:41",
-     "confidence": "high"
-    },
-    {
-     "name": "キオクシアホールディングス",
-     "name_en": "Kioxia Holdings Corporation",
-     "ticker": "285A",
-     "market": "JP",
-     "stance": "neutral",
-     "stance_note": "大口不在で寄付き後のリバ狙い限定",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "価格帯が過去の出来高ゾーンまで下落し大幅な寄付き下落からの短期リバが狙えるため。",
-      "信用買い残に対して大口の買いが入っておらず本格的な上昇展開には時間がかかるため。"
-     ],
-     "timestamp": "24:58",
-     "confidence": "high"
-    },
-    {
-     "name": "ベイカレント",
-     "name_en": "BayCurrent Consulting, Inc.",
-     "ticker": "6532",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "業績と需給が良く買い候補",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "セキュリティ関連需要の取り込みなどテーマ性があり業績と需給ともに良好なため。",
-      "下値を大きく掘る懸念が乏しくチャート形状も崩れていないため優先度の高い買い候補。"
-     ],
-     "timestamp": "32:45",
-     "confidence": "high"
-    },
-    {
-     "name": "武田薬品工業",
-     "name_en": "Takeda Pharmaceutical Company Limited",
-     "ticker": "4502",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "パイプライン豊富で強気継続",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "新薬のパイプラインが豊富に控えており今後の業績成長期待から評価が高いため。",
-      "今後の新薬成長によりバリュエーション向上が期待でき押し目買いが有効なため。"
-     ],
-     "timestamp": "54:32",
-     "confidence": "medium"
-    },
-    {
-     "name": "サンリオ",
-     "name_en": "Sanrio Company, Ltd.",
-     "ticker": "8136",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "信用買い残過多で需給悪化",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "同一セクター内で唯一信用買い残が非常に多く需給バランスが悪化しているため。",
-      "機関投資家からの空売りも入っており株価の下落傾向に歯止めがかかっていないため。"
-     ],
-     "timestamp": "01:15:30",
-     "confidence": "medium"
     }
    ]
   },

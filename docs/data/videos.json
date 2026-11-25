@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T08:48:28.204313+09:00",
+ "generated_at": "2026-11-25T12:46:50.211046+09:00",
  "videos": [
   {
    "video_id": "iWrx_K0J3DI",
@@ -84,6 +84,82 @@
      "ticker": "4661",
      "stance": "bullish",
      "timestamp": "44:13"
+    }
+   ]
+  },
+  {
+   "video_id": "J5paaoMbgjo",
+   "title": "NVIDIAファン氏復帰の衝撃！株式テクニカルチャート分析",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-11-24T07:08:19+00:00",
+   "overview": "NVIDIAのジェンスン・ファン氏復帰報道を受けて指数が急反発したものの、AI関連の財務懸念や利上げリスクから上昇持続には慎重な見方を示しています。日経225のチャート分析では下落トレンド継続による戻り売り警戒を解説。個別の活況銘柄テクニカル分析では、底堅いキオクシアやアドバンテストに期待を寄せる一方で、上値にしこりが残る銘柄に対しては静観や慎重なトレードを促しています。",
+   "market_view": "日経225は4時間足で下落トレンドが継続しており、ダブルボトム形成の兆候は見られるものの追加利上げ懸念等のリスクイベントを控え、トレンド転換までは冷静な見極めが必要です。",
+   "market": "MIX",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "NVIDIA",
+     "ticker": "NVDA",
+     "stance": "neutral",
+     "timestamp": "00:17"
+    },
+    {
+     "name": "キオクシア",
+     "ticker": "285A",
+     "stance": "bullish",
+     "timestamp": "04:30"
+    },
+    {
+     "name": "フジクラ",
+     "ticker": "5803",
+     "stance": "bearish",
+     "timestamp": "05:22"
+    },
+    {
+     "name": "ソフトバンクグループ",
+     "ticker": "9984",
+     "stance": "bearish",
+     "timestamp": "06:08"
+    },
+    {
+     "name": "アドバンテスト",
+     "ticker": "6857",
+     "stance": "bullish",
+     "timestamp": "06:43"
+    },
+    {
+     "name": "太陽誘電",
+     "ticker": "6976",
+     "stance": "neutral",
+     "timestamp": "07:37"
+    },
+    {
+     "name": "東京エレクトロン",
+     "ticker": "8035",
+     "stance": "neutral",
+     "timestamp": "08:24"
+    },
+    {
+     "name": "古河電気工業",
+     "ticker": "5801",
+     "stance": "bearish",
+     "timestamp": "09:10"
+    },
+    {
+     "name": "三菱重工業",
+     "ticker": "7011",
+     "stance": "bearish",
+     "timestamp": "10:10"
+    },
+    {
+     "name": "JX金属",
+     "ticker": "5016",
+     "stance": "bearish",
+     "timestamp": "10:48"
     }
    ]
   },
@@ -276,64 +352,6 @@
      "ticker": "TOPX",
      "stance": "bearish",
      "timestamp": "26:22"
-    }
-   ]
-  },
-  {
-   "video_id": "C6swYyaY7h4",
-   "title": "来週の相場に備えて！　日本株チャート分析LIVE　11/22",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-11-22T07:09:22+00:00",
-   "overview": "日経平均株価の下落や米国株安を受けた日本株相場の現状と、来週に向けたチャート分析をLIVE形式で解説した動画です。データセンター関連や半導体銘柄の需給悪化・調整が続く一方、地合いの影響を受けにくい非AI銘柄やIP関連株、医薬品株などに買い機会を見出しています。全体相場の本格的なスイング買いは春頃まで慎重姿勢を推奨しつつ、デイトレードや短期リバウンド狙いの戦略を提示しています。",
-   "market_view": "米株安や半導体株の調整を受けて日経平均は軟調な展開が予想され、本格的なスイング投資のタイミングは春頃まで慎重に見極める必要があります。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "アシックス",
-     "ticker": "7936",
-     "stance": "neutral",
-     "timestamp": "01:59"
-    },
-    {
-     "name": "シスメックス",
-     "ticker": "6869",
-     "stance": "bullish",
-     "timestamp": "07:52"
-    },
-    {
-     "name": "東京エレクトロン",
-     "ticker": "8035",
-     "stance": "bearish",
-     "timestamp": "08:41"
-    },
-    {
-     "name": "キオクシアホールディングス",
-     "ticker": "285A",
-     "stance": "neutral",
-     "timestamp": "24:58"
-    },
-    {
-     "name": "ベイカレント",
-     "ticker": "6532",
-     "stance": "bullish",
-     "timestamp": "32:45"
-    },
-    {
-     "name": "武田薬品工業",
-     "ticker": "4502",
-     "stance": "bullish",
-     "timestamp": "54:32"
-    },
-    {
-     "name": "サンリオ",
-     "ticker": "8136",
-     "stance": "bearish",
-     "timestamp": "01:15:30"
     }
    ]
   },
