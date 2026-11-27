@@ -1,6 +1,104 @@
 {
- "generated_at": "2026-11-27T16:22:00.234625+09:00",
+ "generated_at": "2026-11-28T00:29:48.781983+09:00",
  "videos": [
+  {
+   "video_id": "iB9tD27SwK0",
+   "title": "11/27,日本株,半導体株また騙し上げか⁉キオクシア急騰一時的⁉日経平均続伸。信用買い減ってない‼米国株、ナスダック、ハイテク株乱高下。ドル円159円。仮想通貨BTC急落",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-11-27T14:36:23+00:00",
+   "overview": "日経平均の大幅続伸や半導体株の自律反発に対し、ボリンジャーバンド25日線に向かう「騙し上げ」の可能性を警戒しています。12月の損益通算に向けた個人投資家の投げ売りが完了していないため、含み損を抱えた銘柄には強い戻り売り圧力がかかると分析。テクニカル指標や需給面を重視し、安易な底打ち判断を避けて慎重にリスク管理を行うよう呼びかけています。",
+   "market_view": "日経平均の急騰は25日移動平均線へ戻る一時的な反発の範囲内であり、12月の損益通算売りを控えて戻り売りや二番底形成を警戒するスタンスです。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "キオクシア",
+     "ticker": "285A",
+     "stance": "bearish",
+     "timestamp": "27:44"
+    },
+    {
+     "name": "東京エレクトロン",
+     "ticker": "8035",
+     "stance": "bearish",
+     "timestamp": "1:03:24"
+    },
+    {
+     "name": "JX金属",
+     "ticker": "5016",
+     "stance": "neutral",
+     "timestamp": "03:16"
+    },
+    {
+     "name": "シフト",
+     "ticker": "3697",
+     "stance": "bullish",
+     "timestamp": "11:22"
+    },
+    {
+     "name": "イビデン",
+     "ticker": "4062",
+     "stance": "bearish",
+     "timestamp": "20:54"
+    },
+    {
+     "name": "積水ハウス",
+     "ticker": "1928",
+     "stance": "neutral",
+     "timestamp": "13:28"
+    },
+    {
+     "name": "パン・パシフィック・インターナショナルホールディングス",
+     "ticker": "7532",
+     "stance": "neutral",
+     "timestamp": "1:00:41"
+    }
+   ]
+  },
+  {
+   "video_id": "zCBbcvHynzw",
+   "title": "【日経平均】下げ基調変わらず 来週相場も荒々しい動きは続く   NVIDIA・サンディスク・キオクシア・オンコリスバイオ",
+   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
+   "channel_name": "Trader's Lab",
+   "channel_short": "TL",
+   "slot": 1,
+   "published": "2026-11-27T11:35:22+00:00",
+   "overview": "全体相場として日経平均や主要な米株式指数は下げ基調が継続しており、戻り歩調を見せても自律反発の域を出ず来週相場も荒々しい値動きが続くと分析しています。個別銘柄ではNVIDIAやサンディスク、キオクシアといった半導体・メモリ関連株が戻り売りのリスクを抱える一方で、上場来高値を更新したオンコリスバイオファルマを強い上昇トレンドを維持する銘柄として取り上げています。",
+   "market_view": "対局として下落トレンドが継続しており、一時的な上昇も戻り売りの範囲内であるため、来週相場もしばらく神経質で難解な乱高下が続く見通しです。",
+   "market": "MIX",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "NVIDIA",
+     "ticker": "NVDA",
+     "stance": "bearish",
+     "timestamp": "26:39"
+    },
+    {
+     "name": "サンディスク",
+     "ticker": "SNDK",
+     "stance": "bearish",
+     "timestamp": "28:18"
+    },
+    {
+     "name": "キオクシア",
+     "ticker": "285A",
+     "stance": "neutral",
+     "timestamp": "29:09"
+    },
+    {
+     "name": "オンコリスバイオファルマ",
+     "ticker": "4588",
+     "stance": "bullish",
+     "timestamp": "31:39"
+    }
+   ]
+  },
   {
    "video_id": "T97L2sNE-bs",
    "title": "今日の活況銘柄を見てみる！（日経平均終値1211円高、キオクシアHD続伸）株式テクニカルチャート分析",
@@ -116,46 +214,6 @@
    ]
   },
   {
-   "video_id": "2UA0jsRSmgg",
-   "title": "11/26【日本株危機的状況】半導体株また騙し上げか⁉キオクシア急騰一時的⁉日経平均487円高。信用買い減ってない‼米国株、ナスダック、ハイテク株乱高下。ドル円159円。仮想通貨BTC急落",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-11-26T09:15:01+00:00",
-   "overview": "日経平均は487円高と反発したものの、信用買残の高止まりや空売り燃料の枯渇により、下落トレンドの根幹にある受給悪化は解消されていないと解説されています。2018年相場との類似性から半導体株などの反発は騙し上げである可能性が高く、12月の損益通算最終日にかけて投げ売りが続く警戒感を示し、二極化相場が継続するとの見解が述べられています。",
-   "market_view": "信用買いの高止まりと空売り不足により上昇の燃料が枯渇しており、12月の損益通算に向けた投げ売りや騙し上げに注意が必要な地合いです。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "日経平均株価",
-     "ticker": "N225",
-     "stance": "bearish",
-     "timestamp": "01:18"
-    },
-    {
-     "name": "キオクシア",
-     "ticker": "285A",
-     "stance": "bearish",
-     "timestamp": "33:38"
-    },
-    {
-     "name": "東京エレクトロン",
-     "ticker": "8035",
-     "stance": "bearish",
-     "timestamp": "26:48"
-    },
-    {
-     "name": "ソフトバンクグループ",
-     "ticker": "9984",
-     "stance": "bearish",
-     "timestamp": "36:05"
-    }
-   ]
-  },
-  {
    "video_id": "5qa9wg8Iz3M",
    "title": "【日経平均】ファンCEO復任は罠 下げ基調は変わらない 暴落でも稼ぐ術教えます  NVIDIA・サンディスク・キオクシア・アドバンテスト・東京エレクトロン・イビデン・ソフトバンクG・古河電気・フジクラ",
    "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
@@ -250,46 +308,6 @@
      "ticker": "",
      "stance": "neutral",
      "timestamp": "05:42"
-    }
-   ]
-  },
-  {
-   "video_id": "t-aSjNwaz28",
-   "title": "緊急動画 AI半導体バブル崩壊 暴落巻き込まれた人は絶対見て",
-   "channel_id": "UCsaeHha7ai_NNX8or8Jyb-g",
-   "channel_name": "Trader's Lab",
-   "channel_short": "TL",
-   "slot": 1,
-   "published": "2026-11-22T12:00:37+00:00",
-   "overview": "AI半導体関連銘柄の過熱感剥落に伴い、日米およびグローバル市場で調整・暴落局面が進行している現状を解説した動画。ダウ理論に基づき日経平均株価やナスダック100などのチャート分析を行い、下落N波動の形成から明確な下落トレンドへの移行を指摘している。過去のコロナショックや利上げ相場時の下落率と比較し、日経平均であれば5万円〜4万8000円付近、ナスダック100であれば2万2000ポイント付近までの底模索を想定し、安易な押し目買いへの注意を促している。",
-   "market_view": "日米市場ともに主要指数が安値を割り込んで下落トレンドを形成しており、AIバブルの剥落による警戒感から当面はリスク回避を重視すべき局面である。",
-   "market": "MIX",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "日経平均株価",
-     "ticker": "N225",
-     "stance": "bearish",
-     "timestamp": "01:06"
-    },
-    {
-     "name": "ナスダック100",
-     "ticker": "NDX",
-     "stance": "bearish",
-     "timestamp": "19:07"
-    },
-    {
-     "name": "SOX指数",
-     "ticker": "SOX",
-     "stance": "bearish",
-     "timestamp": "31:22"
-    },
-    {
-     "name": "TOPIX",
-     "ticker": "TOPX",
-     "stance": "bearish",
-     "timestamp": "26:22"
     }
    ]
   },
