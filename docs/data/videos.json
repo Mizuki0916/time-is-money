@@ -1,16 +1,62 @@
 {
- "generated_at": "2026-11-27T07:48:54.395275+09:00",
+ "generated_at": "2026-11-27T16:22:00.234625+09:00",
  "videos": [
   {
-   "video_id": "fBE6p7m4aWw",
-   "title": "11/25【日本株危機的状況】半導体株大暴落ヤバいぞ‼日経平均急落でキオクシア崩壊。信用買い減ってない‼。米関税報道。米国株、ナスダック、ハイテク株も大暴落。ドル円159円。仮想通貨BTC急落",
+   "video_id": "T97L2sNE-bs",
+   "title": "今日の活況銘柄を見てみる！（日経平均終値1211円高、キオクシアHD続伸）株式テクニカルチャート分析",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-11-27T07:13:22+00:00",
+   "overview": "日経平均が1211円高と大幅続伸し、売られすぎていたAI・半導体関連銘柄を中心に強い買いが入った相場状況を解説しています。動画ではキオクシアHDやアドバンテストをはじめ、ソフトバンクグループ、フジクラ、太陽誘電などの活況銘柄についてテクニカル指標や節目価格を踏まえたチャート分析を行っています。",
+   "market_view": "日経平均は高値引けと非常に強い動きを見せたものの、AI関連への懸念などは解決しておらず、現状は短期的な自律反発にとどまる可能性があるため注意が必要です。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "キオクシアホールディングス",
+     "ticker": "285A",
+     "stance": "bullish",
+     "timestamp": "05:02"
+    },
+    {
+     "name": "ソフトバンクグループ",
+     "ticker": "9984",
+     "stance": "bullish",
+     "timestamp": "06:56"
+    },
+    {
+     "name": "フジクラ",
+     "ticker": "5803",
+     "stance": "bullish",
+     "timestamp": "07:43"
+    },
+    {
+     "name": "アドバンテスト",
+     "ticker": "6857",
+     "stance": "bullish",
+     "timestamp": "08:55"
+    },
+    {
+     "name": "太陽誘電",
+     "ticker": "6976",
+     "stance": "bullish",
+     "timestamp": "10:29"
+    }
+   ]
+  },
+  {
+   "video_id": "8fTF6L5-WmA",
+   "title": "11/26【日本株危機的状況】半導体株また騙し上げか⁉キオクシア急騰一時的⁉日経平均487円高。信用買い減ってない‼米国株、ナスダック、ハイテク株乱高下。ドル円159円。仮想通貨BTC急落",
    "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
    "channel_name": "Sho's投資情報局",
    "channel_short": "Sho",
    "slot": 3,
-   "published": "2026-11-25T14:45:51+00:00",
-   "overview": "日経平均および米半導体株の大暴落を受け、年末に向けた信用投げ売りの継続と二極化相場について解説する動画です。キオクシアやフジクラなど信用買い残が高水準でデッドクロスを形成した銘柄は年末まで下落が続く一方、ソニーや武田薬品、アステラス製薬、オリエンタルランドなど信用倍率1倍未満で需給良好なバリュー・医薬品株は踏み上げを伴って高値を更新しています。投げ売りの一服を見極める姿勢が強調されています。",
-   "market_view": "相場全体は全面安ではなく完全な二極化相場です。需給悪化・長期線デッドクロスの半導体・ハイテク株は年末まで投げ売りが続く一方、需給良好なバリュー株や医薬品株は力強く上昇しています。",
+   "published": "2026-11-26T14:15:05+00:00",
+   "overview": "日経平均が487円高と反発したものの、年末に向けた需給悪化や投げ売り警戒感から相場全体には慎重な姿勢を示しています。キオクシアは材料視されて一時ストップ高となるも信用買いの急増で受給が悪化しており、ソフトバンクグループやアドバンテストもデッドクロス形成への警戒を促しています。一方で任天堂はゴールデンクロス形成や受給改善を評価しています。",
+   "market_view": "米国休場に伴う短期勢の売買で一時的な買い戻しが入ったが、年末に向けた信用買いの投げ売りや需給悪化は解消されておらず、戻り売り圧力に注意が必要な地合いが続いている。",
    "market": "JP",
    "no_transcript": false,
    "skip_reason": "",
@@ -19,49 +65,93 @@
      "name": "キオクシアホールディングス",
      "ticker": "285A",
      "stance": "bearish",
-     "timestamp": "02:43"
+     "timestamp": "02:12"
     },
     {
-     "name": "フジクラ",
-     "ticker": "5803",
+     "name": "ソフトバンクグループ",
+     "ticker": "9984",
      "stance": "bearish",
-     "timestamp": "20:54"
+     "timestamp": "12:18"
     },
     {
-     "name": "ソニーグループ",
-     "ticker": "6758",
-     "stance": "bullish",
-     "timestamp": "29:11"
-    },
-    {
-     "name": "武田薬品工業",
-     "ticker": "4502",
-     "stance": "bullish",
-     "timestamp": "31:08"
-    },
-    {
-     "name": "アステラス製薬",
-     "ticker": "4503",
-     "stance": "bullish",
-     "timestamp": "32:46"
-    },
-    {
-     "name": "オリエンタルランド",
-     "ticker": "4661",
-     "stance": "bullish",
-     "timestamp": "38:32"
-    },
-    {
-     "name": "ファーストリテイリング",
-     "ticker": "9983",
-     "stance": "bullish",
-     "timestamp": "43:49"
-    },
-    {
-     "name": "三菱UFJフィナンシャル・グループ",
-     "ticker": "8306",
+     "name": "アドバンテスト",
+     "ticker": "6857",
      "stance": "bearish",
-     "timestamp": "45:15"
+     "timestamp": "19:46"
+    },
+    {
+     "name": "任天堂",
+     "ticker": "7974",
+     "stance": "bullish",
+     "timestamp": "37:15"
+    },
+    {
+     "name": "日本たばこ産業",
+     "ticker": "2914",
+     "stance": "bearish",
+     "timestamp": "46:16"
+    }
+   ]
+  },
+  {
+   "video_id": "bWG5ent6PcI",
+   "title": "キオクシアHD　キオクシアHD子会社から2.2兆円の配当金受領で一時ストップ高　株主還元の早期発表に期待！",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-11-26T10:30:38+00:00",
+   "overview": "キオクシアホールディングス(285A)が連結子会社から約2.2兆円の配当金を受領した発表について解説しています。事業を行う子会社から親会社へ利益を吸いあげることで親会社の株主還元余力が拡大したと分析。還元施策としては配当と自社株買いの組み合わせが現実的と見ており、1月の第3四半期決算などに向け前倒しで株主還元が発表される可能性が高いため、今後のニュースフローに注目すべきと述べています。",
+   "market_view": "",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "キオクシアホールディングス",
+     "ticker": "285A",
+     "stance": "bullish",
+     "timestamp": "00:00"
+    }
+   ]
+  },
+  {
+   "video_id": "2UA0jsRSmgg",
+   "title": "11/26【日本株危機的状況】半導体株また騙し上げか⁉キオクシア急騰一時的⁉日経平均487円高。信用買い減ってない‼米国株、ナスダック、ハイテク株乱高下。ドル円159円。仮想通貨BTC急落",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "published": "2026-11-26T09:15:01+00:00",
+   "overview": "日経平均は487円高と反発したものの、信用買残の高止まりや空売り燃料の枯渇により、下落トレンドの根幹にある受給悪化は解消されていないと解説されています。2018年相場との類似性から半導体株などの反発は騙し上げである可能性が高く、12月の損益通算最終日にかけて投げ売りが続く警戒感を示し、二極化相場が継続するとの見解が述べられています。",
+   "market_view": "信用買いの高止まりと空売り不足により上昇の燃料が枯渇しており、12月の損益通算に向けた投げ売りや騙し上げに注意が必要な地合いです。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "日経平均株価",
+     "ticker": "N225",
+     "stance": "bearish",
+     "timestamp": "01:18"
+    },
+    {
+     "name": "キオクシア",
+     "ticker": "285A",
+     "stance": "bearish",
+     "timestamp": "33:38"
+    },
+    {
+     "name": "東京エレクトロン",
+     "ticker": "8035",
+     "stance": "bearish",
+     "timestamp": "26:48"
+    },
+    {
+     "name": "ソフトバンクグループ",
+     "ticker": "9984",
+     "stance": "bearish",
+     "timestamp": "36:05"
     }
    ]
   },
@@ -124,128 +214,6 @@
    ]
   },
   {
-   "video_id": "iWrx_K0J3DI",
-   "title": "11/24【日本株騙し上げ警戒】半導体株急騰ヤバいぞ‼日経平均大幅高でキオクシア暴落助かる⁉エヌビディア爆上げで米国株、ナスダック、ハイテク株大幅高。ドル円159円。仮想通貨BTC急落",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "published": "2026-11-24T14:42:56+00:00",
-   "overview": "日経平均の大幅高や前日の半導体株急騰について、前回の暴落に対する一時的なショートカバー(騙し上げ)の可能性が高いと解説しています。AI規制論やトランプ氏による追加関税報道など地合いへの警戒感は残っており、年末に向けて需給の悪い半導体株は戻り売りに押され二極化が進むと予測。安易な買い持ちは避け、需給改善銘柄の押し目買いやデイトレに絞った冷静な対応を推奨しています。",
-   "market_view": "年末にかけては需給が良い銘柄と悪い銘柄の二極化が一段と進行する見通しであり、半導体株などの需給悪化銘柄は一時的な急騰があっても戻り売りに押されやすい地合いです。",
-   "market": "MIX",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "キオクシア",
-     "ticker": "285A",
-     "stance": "bearish",
-     "timestamp": "15:19"
-    },
-    {
-     "name": "エヌビディア",
-     "ticker": "NVDA",
-     "stance": "neutral",
-     "timestamp": "04:42"
-    },
-    {
-     "name": "ソフトバンクグループ",
-     "ticker": "9984",
-     "stance": "bearish",
-     "timestamp": "45:31"
-    },
-    {
-     "name": "任天堂",
-     "ticker": "7974",
-     "stance": "bullish",
-     "timestamp": "17:37"
-    },
-    {
-     "name": "アシックス",
-     "ticker": "7936",
-     "stance": "bearish",
-     "timestamp": "50:53"
-    }
-   ]
-  },
-  {
-   "video_id": "J5paaoMbgjo",
-   "title": "NVIDIAファン氏復帰の衝撃！株式テクニカルチャート分析",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-11-24T07:08:19+00:00",
-   "overview": "NVIDIAのジェンスン・ファン氏復帰報道を受けて指数が急反発したものの、AI関連の財務懸念や利上げリスクから上昇持続には慎重な見方を示しています。日経225のチャート分析では下落トレンド継続による戻り売り警戒を解説。個別の活況銘柄テクニカル分析では、底堅いキオクシアやアドバンテストに期待を寄せる一方で、上値にしこりが残る銘柄に対しては静観や慎重なトレードを促しています。",
-   "market_view": "日経225は4時間足で下落トレンドが継続しており、ダブルボトム形成の兆候は見られるものの追加利上げ懸念等のリスクイベントを控え、トレンド転換までは冷静な見極めが必要です。",
-   "market": "MIX",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "NVIDIA",
-     "ticker": "NVDA",
-     "stance": "neutral",
-     "timestamp": "00:17"
-    },
-    {
-     "name": "キオクシア",
-     "ticker": "285A",
-     "stance": "bullish",
-     "timestamp": "04:30"
-    },
-    {
-     "name": "フジクラ",
-     "ticker": "5803",
-     "stance": "bearish",
-     "timestamp": "05:22"
-    },
-    {
-     "name": "ソフトバンクグループ",
-     "ticker": "9984",
-     "stance": "bearish",
-     "timestamp": "06:08"
-    },
-    {
-     "name": "アドバンテスト",
-     "ticker": "6857",
-     "stance": "bullish",
-     "timestamp": "06:43"
-    },
-    {
-     "name": "太陽誘電",
-     "ticker": "6976",
-     "stance": "neutral",
-     "timestamp": "07:37"
-    },
-    {
-     "name": "東京エレクトロン",
-     "ticker": "8035",
-     "stance": "neutral",
-     "timestamp": "08:24"
-    },
-    {
-     "name": "古河電気工業",
-     "ticker": "5801",
-     "stance": "bearish",
-     "timestamp": "09:10"
-    },
-    {
-     "name": "三菱重工業",
-     "ticker": "7011",
-     "stance": "bearish",
-     "timestamp": "10:10"
-    },
-    {
-     "name": "JX金属",
-     "ticker": "5016",
-     "stance": "bearish",
-     "timestamp": "10:48"
-    }
-   ]
-  },
-  {
    "video_id": "t8lJC9CMKC8",
    "title": "今週（11/24〜）現状報告と展望を語る回",
    "channel_id": "UCt7qqCkTFFRfKjXzwqUXq4g",
@@ -282,118 +250,6 @@
      "ticker": "",
      "stance": "neutral",
      "timestamp": "05:42"
-    }
-   ]
-  },
-  {
-   "video_id": "o-MYA-vuI9o",
-   "title": "連休明けの注目銘柄を見ていく！（キオクシア・アドバンテスト・太陽誘電・ベイカレント・トレンドマイクロ・バンダイナムコなど）株式テクニカルチャート分析",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-11-22T23:00:19+00:00",
-   "overview": "連休明けの株式市場における注目銘柄とテクニカル分析が解説されています。半導体・AI関連株の調整長期化を背景に、セクターローテーションを意識した非AI銘柄への資金移動や、セキュリティ関連・IPゲーム関連などの下値が硬い銘柄への注目を提言しています。また、大きく売られたキオクシアやアドバンテストなどの反発狙いにおける注意点とサポートラインが提示されています。",
-   "market_view": "日経平均先物は1000円程度の下落が見込まれギャップダウンからのスタートが濃厚です。半導体・AI株の本格回復には数ヶ月以上かかる見通しのため、非AI銘柄やTOPIX構成銘柄主導の回復を意識した戦略が有効とされています。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "ベイカレント",
-     "ticker": "6532",
-     "stance": "bullish",
-     "timestamp": "02:43"
-    },
-    {
-     "name": "トレンドマイクロ",
-     "ticker": "4704",
-     "stance": "bullish",
-     "timestamp": "03:16"
-    },
-    {
-     "name": "野村総合研究所",
-     "ticker": "4307",
-     "stance": "bullish",
-     "timestamp": "03:32"
-    },
-    {
-     "name": "NEC",
-     "ticker": "6701",
-     "stance": "neutral",
-     "timestamp": "04:04"
-    },
-    {
-     "name": "ALSOK",
-     "ticker": "2331",
-     "stance": "bullish",
-     "timestamp": "04:51"
-    },
-    {
-     "name": "セコム",
-     "ticker": "9735",
-     "stance": "bullish",
-     "timestamp": "04:51"
-    },
-    {
-     "name": "ニトリホールディングス",
-     "ticker": "9843",
-     "stance": "bullish",
-     "timestamp": "05:23"
-    },
-    {
-     "name": "ファーストリテイリング",
-     "ticker": "9983",
-     "stance": "neutral",
-     "timestamp": "05:51"
-    },
-    {
-     "name": "バンダイナムコホールディングス",
-     "ticker": "7832",
-     "stance": "bullish",
-     "timestamp": "06:24"
-    },
-    {
-     "name": "任天堂",
-     "ticker": "7974",
-     "stance": "bullish",
-     "timestamp": "06:39"
-    },
-    {
-     "name": "ソニーグループ",
-     "ticker": "6758",
-     "stance": "bullish",
-     "timestamp": "06:54"
-    },
-    {
-     "name": "カプコン",
-     "ticker": "9697",
-     "stance": "bullish",
-     "timestamp": "07:10"
-    },
-    {
-     "name": "非上場パートナーズ",
-     "ticker": "",
-     "stance": "bullish",
-     "timestamp": "07:37"
-    },
-    {
-     "name": "キオクシアホールディングス",
-     "ticker": "285A",
-     "stance": "bearish",
-     "timestamp": "09:08"
-    },
-    {
-     "name": "太陽誘電",
-     "ticker": "6976",
-     "stance": "neutral",
-     "timestamp": "10:41"
-    },
-    {
-     "name": "アドバンテスト",
-     "ticker": "6857",
-     "stance": "bearish",
-     "timestamp": "11:12"
     }
    ]
   },
