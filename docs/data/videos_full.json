@@ -439,19 +439,163 @@
   {
    "video_id": "nd47oDsRhUc",
    "title": "来週の相場に備えて！　日本株チャート分析LIVE　11/28",
-   "published": "2026-11-28T04:18:39+00:00",
+   "published": "2026-11-28T05:57:52+00:00",
    "description": "🔽「株オンラインサロン」新規メンバーは12月から募集\n→　https://yoor.jp/door/tradertomo\n\n※ 参加プラン別のサービス内容はこちらの動画で解説しています。\n→https://youtu.be/LtXywHzgOHs?si=G3UipVQW0JsWkv5t\n\n株好きが集まる楽しいサロンを目指してます♪\n初心者歓迎です～ご参加お待ちしています！",
    "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
    "channel_name": "トレーダーTOMO",
    "channel_short": "TOMO",
    "slot": 2,
-   "no_transcript": true,
-   "skip_reason": "この動画には字幕がありません",
-   "attempts": 1,
-   "overview": "",
-   "market_view": "",
-   "market": "",
-   "picks": []
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "本動画では、トレーダーTOMO氏が視聴者からの銘柄リクエストに応じる形式で日本株のチャート・需給分析LIVEを行っています。相場全体としては日経平均の底打ち確認段階にあるとし、キオクシア(285A)を半導体セクターのベンチマークとして注視しています。個別では信用整理が進む古河電工やアドバンテスト、レゾナック等に強気姿勢を示す一方、信用買い残が重い東京エレクトロンや利上げの織り込みが進む三菱UFJには慎重な見解を述べています。",
+   "market_view": "日経平均は底打ちと断定するには早いが戻り局面に入りつつある。米国の利上げ動向や経済指標次第で再度下値を試す可能性があるため、急なポジション拡大は避けキオクシア等の動きをベンチマークとして判断すべき局面。",
+   "market": "JP",
+   "picks": [
+    {
+     "name": "キオクシアホールディングス",
+     "name_en": "Kioxia Holdings Corporation",
+     "ticker": "285A",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "配当還元と自社株買いで割安感強い",
+     "target_price": "12000円",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "今期300円・将来的な増配想定により高い配当利回りが期待でき割安感が強い",
+      "自社株買いの実施によって発行済株式数が減少しEPSの引き上げに寄与する",
+      "半導体セクターへ資金が向かうか否かを判断する重要ベンチマークとして機能する"
+     ],
+     "timestamp": "01:46",
+     "confidence": "high"
+    },
+    {
+     "name": "古河電気工業",
+     "name_en": "Furukawa Electric Co., Ltd.",
+     "ticker": "5801",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "信用買い残が減少し短期的リバ狙い",
+     "target_price": "2000円",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "1700円や1800円の節目ラインを一つずつ固めており短期的なリバウンドが狙える",
+      "株価下落局面でも信用買い残が減少しており期日通過による売り圧力が軽減している",
+      "銅価格のリバウンド動きも追い風となり金属関連銘柄として上値が軽い展開が期待できる"
+     ],
+     "timestamp": "06:43",
+     "confidence": "high"
+    },
+    {
+     "name": "アドバンテスト",
+     "name_en": "Advantest Corporation",
+     "ticker": "6857",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "高出来高を維持し3万円目指す動き",
+     "target_price": "30000円",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "出来高が高水準を保っており前日の下げを包む良好なチャート形状を形成している",
+      "短期的な上下振れによって信用買い方の振り落としが進み上値が軽くなっている",
+      "米国エヌビディアの株価が崩れない限り強気で積極的なエントリーが狙える"
+     ],
+     "timestamp": "10:13",
+     "confidence": "high"
+    },
+    {
+     "name": "太陽誘電",
+     "name_en": "Taiyo Yuden Co., Ltd.",
+     "ticker": "6976",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "調整十分で割安感からの反発期待",
+     "target_price": "",
+     "entry": "",
+     "stop": "6000円",
+     "reasons": [
+      "過去の高値圏からの調整を経てPER25倍水準まで下落し割安感が強まっている",
+      "来期のコンセンサス営業利益が大幅増益予想となっており評価見直しの余地が大きい",
+      "6000円のサポートラインを撤退基準に設定することでリスクを限定したエントリーが可能"
+     ],
+     "timestamp": "25:10",
+     "confidence": "medium"
+    },
+    {
+     "name": "日本電気",
+     "name_en": "NEC Corporation",
+     "ticker": "6701",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "売り出し懸念の通過で戻り試し",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "NTTの保有株売り出し懸念により売られすぎていたがディスカウント価格での処理が進む",
+      "業績の懸念に対して株価が下がりすぎており過度な売りに対する修正高が期待できる",
+      "足元のチャート足型が良好でIT・AIエージェント関連セクター内で強気に見られる"
+     ],
+     "timestamp": "41:03",
+     "confidence": "medium"
+    },
+    {
+     "name": "レゾナック・ホールディングス",
+     "name_en": "Resonac Holdings Corporation",
+     "ticker": "4004",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "半導体材料の中で最優先の買い候補",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "来期の業績が大幅増益予想となっておりPER30倍水準まで買われても割安感がある",
+      "受給改善と安定した出来高が確認でき半導体材料株を狙う際の第一候補となる",
+      "ダウンサイドリスクが小さく中長期的な回復局面を素直に取りにいける銘柄"
+     ],
+     "timestamp": "45:41",
+     "confidence": "medium"
+    },
+    {
+     "name": "三菱UFJフィナンシャル・グループ",
+     "name_en": "Mitsubishi UFJ Financial Group, Inc.",
+     "ticker": "8306",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "利上げ織り込みと月足陰線で警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "日銀の追加利上げ期待はある程度織り込まれており一段高を追う理由が希薄化している",
+      "月足チャートで2か月連続の陰線を形成しており上昇トレンドが一時中断した兆候がある",
+      "半導体セクターへ資金が向かう場合はトピックスや銀行株への資金流入が鈍る可能性がある"
+     ],
+     "timestamp": "52:38",
+     "confidence": "medium"
+    },
+    {
+     "name": "東京エレクトロン",
+     "name_en": "Tokyo Electron Limited",
+     "ticker": "8035",
+     "market": "JP",
+     "stance": "neutral",
+     "stance_note": "分割後の信用買い残が重く回復鈍い",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "株式分割後に信用買い残が1000万株規模まで増加しており上値の需給圧力が重い",
+      "アドバンテストやレーザーテックと比較して信用残の比率が高く株価の上昇が重くなりやすい",
+      "業績自体は強いものの受給悪化の解消には一定の時間を要する見込み"
+     ],
+     "timestamp": "1:11:43",
+     "confidence": "medium"
+    }
+   ]
   },
   {
    "video_id": "T97L2sNE-bs",

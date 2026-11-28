@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T16:22:58.745305+09:00",
+ "generated_at": "2026-11-28T17:23:18.512400+09:00",
  "videos": [
   {
    "video_id": "nd47oDsRhUc",
@@ -8,13 +8,62 @@
    "channel_name": "トレーダーTOMO",
    "channel_short": "TOMO",
    "slot": 2,
-   "published": "2026-11-28T04:18:39+00:00",
-   "overview": "",
-   "market_view": "",
-   "market": "",
-   "no_transcript": true,
-   "skip_reason": "この動画には字幕がありません",
-   "picks": []
+   "published": "2026-11-28T05:57:52+00:00",
+   "overview": "本動画では、トレーダーTOMO氏が視聴者からの銘柄リクエストに応じる形式で日本株のチャート・需給分析LIVEを行っています。相場全体としては日経平均の底打ち確認段階にあるとし、キオクシア(285A)を半導体セクターのベンチマークとして注視しています。個別では信用整理が進む古河電工やアドバンテスト、レゾナック等に強気姿勢を示す一方、信用買い残が重い東京エレクトロンや利上げの織り込みが進む三菱UFJには慎重な見解を述べています。",
+   "market_view": "日経平均は底打ちと断定するには早いが戻り局面に入りつつある。米国の利上げ動向や経済指標次第で再度下値を試す可能性があるため、急なポジション拡大は避けキオクシア等の動きをベンチマークとして判断すべき局面。",
+   "market": "JP",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "キオクシアホールディングス",
+     "ticker": "285A",
+     "stance": "bullish",
+     "timestamp": "01:46"
+    },
+    {
+     "name": "古河電気工業",
+     "ticker": "5801",
+     "stance": "bullish",
+     "timestamp": "06:43"
+    },
+    {
+     "name": "アドバンテスト",
+     "ticker": "6857",
+     "stance": "bullish",
+     "timestamp": "10:13"
+    },
+    {
+     "name": "太陽誘電",
+     "ticker": "6976",
+     "stance": "bullish",
+     "timestamp": "25:10"
+    },
+    {
+     "name": "日本電気",
+     "ticker": "6701",
+     "stance": "bullish",
+     "timestamp": "41:03"
+    },
+    {
+     "name": "レゾナック・ホールディングス",
+     "ticker": "4004",
+     "stance": "bullish",
+     "timestamp": "45:41"
+    },
+    {
+     "name": "三菱UFJフィナンシャル・グループ",
+     "ticker": "8306",
+     "stance": "neutral",
+     "timestamp": "52:38"
+    },
+    {
+     "name": "東京エレクトロン",
+     "ticker": "8035",
+     "stance": "neutral",
+     "timestamp": "1:11:43"
+    }
+   ]
   },
   {
    "video_id": "6RlQyQnOsBU",
