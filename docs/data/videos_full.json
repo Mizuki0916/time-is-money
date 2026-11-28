@@ -1,6 +1,92 @@
 {
  "videos": [
   {
+   "video_id": "6RlQyQnOsBU",
+   "title": "11/28【半導体株また騙し上げ⁉海外勢が日本株を9000億円大量売却‼】日経平均上昇○○警戒。キオクシア助かるか⁉️米国株、ナスダック、ハイテク株急騰。ドル円159円。仮想通貨BTC急落",
+   "published": "2026-11-28T03:00:02+00:00",
+   "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
+   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
+   "channel_name": "Sho's投資情報局",
+   "channel_short": "Sho",
+   "slot": 3,
+   "no_transcript": false,
+   "skip_reason": "",
+   "overview": "日経平均は1200円超の大幅高となったものの、信用の空売り燃料の枯渇や海外勢による大量売り越しが続いており、2018年の暴落相場を踏まえると騙し上げのリスクが高いと解説。半導体株やキオクシア、フジクラなどの急反発も含み損を抱えた投資家の戻り売りに押される可能性を指摘しています。全体としては二極化相場が続いており、年末の損益通算やクリスマス時期の投げ売り一巡を慎重に見極めるべきだと提言しています。",
+   "market_view": "日経平均の大幅高は信用需給の改善を伴わない一時的な自立反発の可能性が高く、年末に向けた戻り売りやイベント通過前の下落リスクに警戒が必要です。",
+   "market": "JP",
+   "picks": [
+    {
+     "name": "日経平均株価",
+     "name_en": "Nikkei 225",
+     "ticker": "N225",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "急反発もデッドクロスや騙し上げリスクに警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "信用の空売り燃料が枯渇しており、急伸も限定的で移動平均線デッドクロス等を控えた騙し上げのリスクが高い。",
+      "2018年の暴落相場と値動きが酷似しており、12月のメジャーSQや中銀イベントを前に売り直されるリスクがある。",
+      "海外投資家による9000億円超の大量売り越しが確認されており、相場全体の上値を抑える要因となっている。"
+     ],
+     "timestamp": "01:04",
+     "confidence": "high"
+    },
+    {
+     "name": "キオクシアホールディングス",
+     "name_en": "Kioxia Holdings",
+     "ticker": "285A",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "急反発も半年間の含み損層による戻り売りを警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "トピックスリバランスや好材料により急反発したものの、過去半年間に高値で購入した大量の含み損層が滞留している。",
+      "信用買い残の整理が十分に進んでおらず、12月の損益通算や期日向けて年末まで戻り売りが続くリスクが高い。"
+     ],
+     "timestamp": "38:36",
+     "confidence": "high"
+    },
+    {
+     "name": "フジクラ",
+     "name_en": "Fujikura",
+     "ticker": "5803",
+     "market": "JP",
+     "stance": "bearish",
+     "stance_note": "急騰も需給悪化と高値掴みの売り圧力警戒",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "直近で5%以上急騰したものの、200日移動平均線と各長期線が断続的デッドクロスを形成し需給が悪化している。",
+      "過去数ヶ月間で買った大半の投資家が含み損を抱えており、戻り高値での売り圧力が依然として強く警戒が必要である。"
+     ],
+     "timestamp": "38:17",
+     "confidence": "medium"
+    },
+    {
+     "name": "オリエンタルランド",
+     "name_en": "Oriental Land",
+     "ticker": "4661",
+     "market": "JP",
+     "stance": "bullish",
+     "stance_note": "移動平均線のゴールデンクロスで上昇基調を維持",
+     "target_price": "",
+     "entry": "",
+     "stop": "",
+     "reasons": [
+      "200日移動平均線と長期移動平均線が断続的なゴールデンクロスを形成し良好なチャート形状を維持している。",
+      "信用倍率高止まりによる二極化相場において、需給の良好な内需・選好銘柄として底堅い上昇が期待される。"
+     ],
+     "timestamp": "36:08",
+     "confidence": "medium"
+    }
+   ]
+  },
+  {
    "video_id": "iB9tD27SwK0",
    "title": "11/27,日本株,半導体株また騙し上げか⁉キオクシア急騰一時的⁉日経平均続伸。信用買い減ってない‼米国株、ナスダック、ハイテク株乱高下。ドル円159円。仮想通貨BTC急落",
    "published": "2026-11-27T14:36:23+00:00",
@@ -127,108 +213,6 @@
       "バンドウォーク調整後にパラボリックやMACDが下落トレンドを示しており、200日線付近での一部利確を推奨。"
      ],
      "timestamp": "1:00:41",
-     "confidence": "medium"
-    }
-   ]
-  },
-  {
-   "video_id": "8fTF6L5-WmA",
-   "title": "11/26【日本株危機的状況】半導体株また騙し上げか⁉キオクシア急騰一時的⁉日経平均487円高。信用買い減ってない‼米国株、ナスダック、ハイテク株乱高下。ドル円159円。仮想通貨BTC急落",
-   "published": "2026-11-26T14:15:05+00:00",
-   "description": "◆Mediableはこちらから\nhttps://mediable.jp/channels/f665eb63-743a-4e5b-aafa-de6c9142c945\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n【秘話】https://youtube.com/live/8NnnTwlmxKg\n\n◆LINEスタンプはこちらから\nhttps://line.me/S/sticker/16105562\n\n◆使用している分析ツールのリンクはこちらから\nhttps://jp.tradingview.com/gopro/?share_your_love=yukiha1002\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n◆爆益戦略\n①https://youtu.be/oYvsDRcrXdw\n②https://youtu.be/GIkbz__uwn0\n③https",
-   "channel_id": "UCK9Pl6bbWqMC_x7IDca2tIg",
-   "channel_name": "Sho's投資情報局",
-   "channel_short": "Sho",
-   "slot": 3,
-   "no_transcript": false,
-   "skip_reason": "",
-   "overview": "日経平均が487円高と反発したものの、年末に向けた需給悪化や投げ売り警戒感から相場全体には慎重な姿勢を示しています。キオクシアは材料視されて一時ストップ高となるも信用買いの急増で受給が悪化しており、ソフトバンクグループやアドバンテストもデッドクロス形成への警戒を促しています。一方で任天堂はゴールデンクロス形成や受給改善を評価しています。",
-   "market_view": "米国休場に伴う短期勢の売買で一時的な買い戻しが入ったが、年末に向けた信用買いの投げ売りや需給悪化は解消されておらず、戻り売り圧力に注意が必要な地合いが続いている。",
-   "market": "JP",
-   "picks": [
-    {
-     "name": "キオクシアホールディングス",
-     "name_en": "Kioxia Holdings Corporation",
-     "ticker": "285A",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "信用買い急増で受給悪化し戻り売りを警戒",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "噂や提携ニュースを受け急騰しストップ高となったが引け間際に利益確定売りに押された",
-      "信用買いが103万株増えて倍率18.97倍へ悪化し12月頭にはデッドクロス形成が迫る"
-     ],
-     "timestamp": "02:12",
-     "confidence": "high"
-    },
-    {
-     "name": "ソフトバンクグループ",
-     "name_en": "SoftBank Group Corp.",
-     "ticker": "9984",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "信用買い増加で受給悪化しデッドクロス間近",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "株価は7%急伸したもののボラティリティが非常に激しくバンドウォークからの調整懸念がある",
-      "信用買いが39万株増加して受給が悪化しており100日線と200日線のデッドクロスも近い"
-     ],
-     "timestamp": "12:18",
-     "confidence": "medium"
-    },
-    {
-     "name": "アドバンテスト",
-     "name_en": "Advantest Corporation",
-     "ticker": "6857",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "上ひげを伸ばす展開でデッドクロス形成に警戒",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "株価は4.57%上昇したものの強い戻り売りに押されて上ひげを伸ばす形となっている",
-      "他の半導体株より受給はマシな部類だが12月頭に25日線と200日線のデッドクロスが迫る"
-     ],
-     "timestamp": "19:46",
-     "confidence": "medium"
-    },
-    {
-     "name": "任天堂",
-     "name_en": "Nintendo Co., Ltd.",
-     "ticker": "7974",
-     "market": "JP",
-     "stance": "bullish",
-     "stance_note": "受給改善と移動平均線のゴールデンクロスを評価",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "100日線と200日線のゴールデンクロスが形成されテクニカル的に良い形状となっている",
-      "信用倍率が4.7倍へ改善しており受給面での好転が今後の株価を後押しする可能性がある"
-     ],
-     "timestamp": "37:15",
-     "confidence": "medium"
-    },
-    {
-     "name": "日本たばこ産業",
-     "name_en": "Japan Tobacco Inc.",
-     "ticker": "2914",
-     "market": "JP",
-     "stance": "bearish",
-     "stance_note": "売買停止と大規模買収に伴う財務負担を警戒",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "英タバコ大手買収検討の報道を受けて情報確認のため株価が売買一時停止の措置となった",
-      "大規模な買収に伴うキャッシュ流出や財務負担への懸念から売られるリスクが存在する"
-     ],
-     "timestamp": "46:16",
      "confidence": "medium"
     }
    ]
