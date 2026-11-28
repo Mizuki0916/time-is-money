@@ -1,6 +1,28 @@
 {
- "generated_at": "2026-11-28T17:23:18.512400+09:00",
+ "generated_at": "2026-11-28T18:23:50.602413+09:00",
  "videos": [
+  {
+   "video_id": "rX5ynLK-cDE",
+   "title": "キオクシアHD（285A）　まだまだ上がるか？株式テクニカルチャート分析",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-11-28T09:00:02+00:00",
+   "overview": "米国市場の回復や日経平均先物の上昇を受け、相場の回復局面が期待される中で先導株としてキオクシアHD(285A)のテクニカル・需給分析を行っています。TOPIX不動株比率引き上げに伴うパッシブ資金流入期待に加え、機関の空売り減少や信用取引におけるしこり玉の解消といった需給改善を指摘。上抜けた8000円ラインを維持できれば、1万円への節目到達を目指せると分析しています。",
+   "market_view": "米国相場の底堅さや日経平均先物のプラス圏推移により、週明けの日本相場は下落トレンドラインを上抜けて回復局面へ入るかの重要な局面を迎えています。",
+   "market": "MIX",
+   "no_transcript": false,
+   "skip_reason": "",
+   "picks": [
+    {
+     "name": "キオクシアホールディングス",
+     "ticker": "285A",
+     "stance": "bullish",
+     "timestamp": "03:52"
+    }
+   ]
+  },
   {
    "video_id": "nd47oDsRhUc",
    "title": "来週の相場に備えて！　日本株チャート分析LIVE　11/28",
@@ -200,52 +222,6 @@
      "ticker": "4588",
      "stance": "bullish",
      "timestamp": "31:39"
-    }
-   ]
-  },
-  {
-   "video_id": "T97L2sNE-bs",
-   "title": "今日の活況銘柄を見てみる！（日経平均終値1211円高、キオクシアHD続伸）株式テクニカルチャート分析",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-11-27T07:13:22+00:00",
-   "overview": "日経平均が1211円高と大幅続伸し、売られすぎていたAI・半導体関連銘柄を中心に強い買いが入った相場状況を解説しています。動画ではキオクシアHDやアドバンテストをはじめ、ソフトバンクグループ、フジクラ、太陽誘電などの活況銘柄についてテクニカル指標や節目価格を踏まえたチャート分析を行っています。",
-   "market_view": "日経平均は高値引けと非常に強い動きを見せたものの、AI関連への懸念などは解決しておらず、現状は短期的な自律反発にとどまる可能性があるため注意が必要です。",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "キオクシアホールディングス",
-     "ticker": "285A",
-     "stance": "bullish",
-     "timestamp": "05:02"
-    },
-    {
-     "name": "ソフトバンクグループ",
-     "ticker": "9984",
-     "stance": "bullish",
-     "timestamp": "06:56"
-    },
-    {
-     "name": "フジクラ",
-     "ticker": "5803",
-     "stance": "bullish",
-     "timestamp": "07:43"
-    },
-    {
-     "name": "アドバンテスト",
-     "ticker": "6857",
-     "stance": "bullish",
-     "timestamp": "08:55"
-    },
-    {
-     "name": "太陽誘電",
-     "ticker": "6976",
-     "stance": "bullish",
-     "timestamp": "10:29"
     }
    ]
   },
