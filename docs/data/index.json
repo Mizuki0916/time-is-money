@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T13:23:35.791536+09:00",
+ "generated_at": "2026-11-28T14:22:55.406256+09:00",
  "channels": [
   {
    "id": "UCsaeHha7ai_NNX8or8Jyb-g",
@@ -15,7 +15,7 @@
    "short": "TOMO",
    "slot": 2,
    "video_count": 2,
-   "latest": "2026-11-27T07:13:22+00:00"
+   "latest": "2026-11-28T04:18:39+00:00"
   },
   {
    "id": "UCK9Pl6bbWqMC_x7IDca2tIg",
@@ -36,11 +36,11 @@
  ],
  "stats": {
   "stocks": 19,
-  "videos": 8,
-  "videos_this_week": 7,
+  "videos": 7,
+  "videos_this_week": 6,
   "bullish_lead": 5,
   "split": 4,
-  "skipped": 0
+  "skipped": 1
  },
  "stocks": [
   {
@@ -133,27 +133,6 @@
      ],
      "timestamp": "05:02",
      "seconds": 302,
-     "confidence": "high"
-    },
-    {
-     "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-     "channel_name": "トレーダーTOMO",
-     "channel_short": "TOMO",
-     "slot": 2,
-     "video_id": "bWG5ent6PcI",
-     "video_title": "キオクシアHD　キオクシアHD子会社から2.2兆円の配当金受領で一時ストップ高　株主還元の早期発表に期待！",
-     "published": "2026-11-26T10:30:38+00:00",
-     "stance": "bullish",
-     "stance_note": "配当金受領による株主還元強化の早期発表に期待",
-     "target_price": "",
-     "entry": "",
-     "stop": "",
-     "reasons": [
-      "連結子会社からの約2.2兆円の配当金受領により親会社の株主還元余力が大きく向上した点。",
-      "安定配当と自社株買いを組み合わせた現実的な株主還元策が前倒しで発表される期待がある点。"
-     ],
-     "timestamp": "00:00",
-     "seconds": 0,
      "confidence": "high"
     },
     {

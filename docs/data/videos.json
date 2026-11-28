@@ -1,6 +1,21 @@
 {
- "generated_at": "2026-11-28T13:23:59.486551+09:00",
+ "generated_at": "2026-11-28T14:22:57.515891+09:00",
  "videos": [
+  {
+   "video_id": "nd47oDsRhUc",
+   "title": "来週の相場に備えて！　日本株チャート分析LIVE　11/28",
+   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
+   "channel_name": "トレーダーTOMO",
+   "channel_short": "TOMO",
+   "slot": 2,
+   "published": "2026-11-28T04:18:39+00:00",
+   "overview": "",
+   "market_view": "",
+   "market": "",
+   "no_transcript": true,
+   "skip_reason": "この動画には字幕がありません",
+   "picks": []
+  },
   {
    "video_id": "6RlQyQnOsBU",
    "title": "11/28【半導体株また騙し上げ⁉海外勢が日本株を9000億円大量売却‼】日経平均上昇○○警戒。キオクシア助かるか⁉️米国株、ナスダック、ハイテク株急騰。ドル円159円。仮想通貨BTC急落",
@@ -182,28 +197,6 @@
      "ticker": "6976",
      "stance": "bullish",
      "timestamp": "10:29"
-    }
-   ]
-  },
-  {
-   "video_id": "bWG5ent6PcI",
-   "title": "キオクシアHD　キオクシアHD子会社から2.2兆円の配当金受領で一時ストップ高　株主還元の早期発表に期待！",
-   "channel_id": "UCdQdRRLoajrt-5TEaAxslxA",
-   "channel_name": "トレーダーTOMO",
-   "channel_short": "TOMO",
-   "slot": 2,
-   "published": "2026-11-26T10:30:38+00:00",
-   "overview": "キオクシアホールディングス(285A)が連結子会社から約2.2兆円の配当金を受領した発表について解説しています。事業を行う子会社から親会社へ利益を吸いあげることで親会社の株主還元余力が拡大したと分析。還元施策としては配当と自社株買いの組み合わせが現実的と見ており、1月の第3四半期決算などに向け前倒しで株主還元が発表される可能性が高いため、今後のニュースフローに注目すべきと述べています。",
-   "market_view": "",
-   "market": "JP",
-   "no_transcript": false,
-   "skip_reason": "",
-   "picks": [
-    {
-     "name": "キオクシアホールディングス",
-     "ticker": "285A",
-     "stance": "bullish",
-     "timestamp": "00:00"
     }
    ]
   },
