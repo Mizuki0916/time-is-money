@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T07:28:19.993114+09:00",
+ "generated_at": "2026-11-28T09:22:29.533082+09:00",
  "channels": [
   {
    "id": "UCsaeHha7ai_NNX8or8Jyb-g",
@@ -253,7 +253,7 @@
     "market_open": false,
     "symbol": "285A.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-27T22:28:19.997171+00:00"
+    "fetched_at": "2026-11-28T00:22:29.591491+00:00"
    }
   },
   {
@@ -402,7 +402,7 @@
     "market_open": false,
     "symbol": "9984.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-27T22:28:19.997171+00:00"
+    "fetched_at": "2026-11-28T00:22:29.591491+00:00"
    }
   },
   {
@@ -551,7 +551,7 @@
     "market_open": false,
     "symbol": "6857.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-27T22:28:19.997171+00:00"
+    "fetched_at": "2026-11-28T00:22:29.591491+00:00"
    }
   },
   {
@@ -676,7 +676,7 @@
     "market_open": false,
     "symbol": "8035.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-27T22:28:19.997171+00:00"
+    "fetched_at": "2026-11-28T00:22:29.591491+00:00"
    }
   },
   {
@@ -949,7 +949,7 @@
     "market_open": false,
     "symbol": "5803.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-27T22:28:19.997171+00:00"
+    "fetched_at": "2026-11-28T00:22:29.591491+00:00"
    }
   },
   {
@@ -1785,7 +1785,7 @@
     "market_open": false,
     "symbol": "6976.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-27T22:28:19.997171+00:00"
+    "fetched_at": "2026-11-28T00:22:29.591491+00:00"
    }
   },
   {
@@ -1890,7 +1890,7 @@
     "market_open": false,
     "symbol": "7974.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-27T22:28:19.997171+00:00"
+    "fetched_at": "2026-11-28T00:22:29.591491+00:00"
    }
   },
   {
@@ -1995,7 +1995,7 @@
     "market_open": false,
     "symbol": "2914.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-27T22:28:19.997171+00:00"
+    "fetched_at": "2026-11-28T00:22:29.591491+00:00"
    }
   },
   {
@@ -2100,7 +2100,7 @@
     "market_open": false,
     "symbol": "^N225",
     "source": "yahoo",
-    "fetched_at": "2026-11-27T22:28:19.997171+00:00"
+    "fetched_at": "2026-11-28T00:22:29.591491+00:00"
    }
   },
   {
@@ -2226,7 +2226,7 @@
     "market_open": false,
     "symbol": "7550.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-27T22:28:19.997171+00:00"
+    "fetched_at": "2026-11-28T00:22:29.591491+00:00"
    }
   },
   {
@@ -2330,7 +2330,7 @@
     "market_open": false,
     "symbol": "4684.T",
     "source": "yahoo",
-    "fetched_at": "2026-11-27T22:28:19.997171+00:00"
+    "fetched_at": "2026-11-28T00:22:29.591491+00:00"
    }
   },
   {
